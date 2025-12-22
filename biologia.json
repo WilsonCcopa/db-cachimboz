@@ -772,5 +772,1242 @@
       }
     ]
   }
-  ]
+  {
+  "titulo": "Tema 4: Principios activos orgánicos",
+  "videos": [
+    {
+      "titulo": "4.1 Principios activos orgánicos - V1",
+      "youtube_id": "RW3HEDqaSG0",
+      "pdf_link": "https://drive.google.com/file/d/1c38kFZIF_q4SKtwm6upE04qMV4JtDGbP/view",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "Señale la secuencia correcta (V o F):\ni. Los hidratos de carbono tienen una relación aproximada de H₂:O como 2:1.\nii. En la fotosíntesis se forma carbohidrato a partir de CO₂ y agua.\niii. La celulosa es la principal sustancia de reserva energética de los vegetales.\niv. La fructosa es la principal fuente de energía celular.",
+          "opciones": [
+            "VVFV",
+            "VFVF",
+            "FVFV",
+            "VVFF",
+            "FFFV"
+          ],
+          "correcta": 3,
+          "resolucion": "i: Verdadero (fórmula Cn(H2O)m). ii: Verdadero (fotosíntesis). iii: Falso (reserva es almidón, celulosa es estructural). iv: Falso (fuente principal es glucosa)."
+        },
+        {
+          "pregunta": "Relacione la columna I con la columna II:\nI. Gliceraldehído\nII. Eritrulosa\nIII. Desoxirribosa\na) Pentosa\nb) Tetrosa\nc) Triosa",
+          "opciones": [
+            "Ia, IIc, IIIb",
+            "Ic, IIa, IIIb",
+            "Ic, IIb, IIIa",
+            "IIa, Ib, IIIc",
+            "IIb, IIIc, Ia"
+          ],
+          "correcta": 2,
+          "resolucion": "Gliceraldehído es una triosa (3C), Eritrulosa es una tetrosa (4C) y Desoxirribosa es una pentosa (5C)."
+        },
+        {
+          "pregunta": "Intermediario energético participe en la glucólisis:",
+          "opciones": [
+            "Eritrulosa",
+            "Ribulosa",
+            "Gliceraldehído",
+            "Desoxirribosa",
+            "Xilosa"
+          ],
+          "correcta": 2,
+          "resolucion": "El gliceraldehído-3-fosfato es un metabolito clave en la vía glucolítica y otras rutas metabólicas."
+        },
+        {
+          "pregunta": "Monosacárido que se encuentra regularmente unido a otros azúcares:",
+          "opciones": [
+            "Glucosa",
+            "Fructosa",
+            "Ribosa",
+            "Galactosa",
+            "Eritrulosa"
+          ],
+          "correcta": 3,
+          "resolucion": "La galactosa no suele encontrarse libre en la naturaleza, sino formando disacáridos (lactosa) o glicoconjugados."
+        },
+        {
+          "pregunta": "La sacarosa se extrae industrialmente de:",
+          "opciones": [
+            "Leche",
+            "Cebada",
+            "Maíz",
+            "Uva",
+            "Remolacha"
+          ],
+          "correcta": 4,
+          "resolucion": "Las fuentes principales de sacarosa son la caña de azúcar y la remolacha azucarera."
+        },
+        {
+          "pregunta": "Polisacárido de reserva en animales:",
+          "opciones": [
+            "Almidón",
+            "Quitina",
+            "Glucógeno",
+            "Celulosa",
+            "Manano"
+          ],
+          "correcta": 2,
+          "resolucion": "El glucógeno es la forma de almacenamiento de glucosa en células animales (hígado y músculo)."
+        },
+        {
+          "pregunta": "Relacione:\nI. Almacenamiento\nII. Fuente de energía\nIII. Protección\nIV. Estructura\na) Quitina\nb) Metabolismo celular\nc) Glucógeno\nd) Amortigua daño físico",
+          "opciones": [
+            "Ic, IIb, IIId, IVa",
+            "Ia, IIc, IVd, IIIb",
+            "IIIa, Ib, IIc, IVd",
+            "Ia, IIb, IId, IVc",
+            "Ic, IIa, IIIb, IVd"
+          ],
+          "correcta": 0,
+          "resolucion": "Almacenamiento -> Glucógeno; Energía -> Metabolismo; Protección -> Amortiguación; Estructura -> Quitina."
+        },
+        {
+          "pregunta": "Señale la incorrecta sobre los ácidos grasos insaturados:",
+          "opciones": [
+            "Son fluidos",
+            "Son sólidos a temperatura ambiente",
+            "Son de origen vegetal",
+            "Reducen riesgo cardiovascular",
+            "Poseen dobles enlaces"
+          ],
+          "correcta": 1,
+          "resolucion": "Los ácidos grasos insaturados (aceites) son líquidos a temperatura ambiente debido a sus dobles enlaces cis."
+        },
+        {
+          "pregunta": "Alcohol presente en lípidos simples:",
+          "opciones": [
+            "Alcohol cetílico",
+            "Glicerol",
+            "Alcohol palmítico",
+            "Alcohol esteárico",
+            "Escualeno"
+          ],
+          "correcta": 1,
+          "resolucion": "El glicerol (propanotriol) es el alcohol base de los glicéridos (grasas y aceites)."
+        },
+        {
+          "pregunta": "Relacione:\nI. Se depositan en tejido adiposo\nII. AG iguales\nIII. Son heteroglicéridos\nIV. Alcohol más largo que glicerol\na) Triesterina\nb) Triglicéridos\nc) Céridos\nd) Grasa humana",
+          "opciones": [
+            "Ib, IIb, IIId, IVa",
+            "Ia, IVd, IIIb, IIc",
+            "Ib, IIa, IIId, IVc",
+            "IVa, IIId, Ib, IIb",
+            "IIId, Ib, IIc, IVa"
+          ],
+          "correcta": 2,
+          "resolucion": "Depósito -> Triglicéridos; AG iguales -> Triesterina (simple); Heteroglicéridos -> Grasa humana (mixtos); Alcohol largo -> Céridos."
+        },
+        {
+          "pregunta": "Cera similar a la que se encuentra en los pelos de animales:",
+          "opciones": [
+            "Sebo",
+            "Lanolina",
+            "Ceramida",
+            "Esfingomielina",
+            "Lecitina"
+          ],
+          "correcta": 1,
+          "resolucion": "La lanolina es una cera natural producida por las glándulas sebáceas de animales con lana."
+        },
+        {
+          "pregunta": "Ácido graso esencial:",
+          "opciones": [
+            "Oleico",
+            "Linolénico",
+            "Palmítico",
+            "Esteárico",
+            "Caproico"
+          ],
+          "correcta": 1,
+          "resolucion": "El ácido linolénico (omega-3) es esencial porque los mamíferos carecen de las enzimas para sintetizarlo."
+        },
+        {
+          "pregunta": "Principal componente nitrogenado de la lecitina:",
+          "opciones": [
+            "Etanolamina",
+            "Serina",
+            "Leucina",
+            "Arginina",
+            "Colina"
+          ],
+          "correcta": 4,
+          "resolucion": "La lecitina es químicamente fosfatidilcolina."
+        },
+        {
+          "pregunta": "Las cardiolipinas son fosfolípidos característicos de:",
+          "opciones": [
+            "Cloroplastos",
+            "Mitocondrias",
+            "Pared celular",
+            "Lisosomas",
+            "Aparato de Golgi"
+          ],
+          "correcta": 1,
+          "resolucion": "La cardiolipina es exclusiva de la membrana mitocondrial interna y bacteriana."
+        },
+        {
+          "pregunta": "Monosacárido presente en el cerebrósido:",
+          "opciones": [
+            "Glucosa",
+            "Manosa",
+            "Ribosa",
+            "Galactosa",
+            "Eritrulosa"
+          ],
+          "correcta": 3,
+          "resolucion": "Los galactocerebrósidos son componentes principales de la mielina en el sistema nervioso."
+        },
+        {
+          "pregunta": "La esfingosina cuando se une a un ácido graso forma:",
+          "opciones": [
+            "Gangliósido",
+            "Ceramida",
+            "Lecitina",
+            "Cérido",
+            "Colesterol"
+          ],
+          "correcta": 1,
+          "resolucion": "La unión amida entre esfingosina y ácido graso constituye la ceramida."
+        },
+        {
+          "pregunta": "Señale la incorrecta sobre esteroides:",
+          "opciones": [
+            "El colesterol es un esterol",
+            "Las sales biliares derivan del colesterol",
+            "El colecalciferol deriva del colesterol",
+            "Poseen un núcleo tetracíclico",
+            "Las hormonas sexuales derivan el colesterol"
+          ],
+          "correcta": 4,
+          "resolucion": "Gramaticalmente, la frase 'derivan el colesterol' es incorrecta; debería ser 'derivan DEL colesterol'. El sentido biológico es que se sintetizan a partir de él."
+        },
+        {
+          "pregunta": "Ergosterol origina:",
+          "opciones": [
+            "Calciferol",
+            "Colecalciferol",
+            "Progesterona",
+            "Corticoides",
+            "Colesterol"
+          ],
+          "correcta": 0,
+          "resolucion": "Por irradiación UV, el ergosterol (vegetal/fúngico) se convierte en ergocalciferol (Vitamina D2)."
+        },
+        {
+          "pregunta": "Relacione:\nI. Lípido\nII. Proteína\nIII. ARN\nIV. Polisacárido\na) Glicerol + AG\nb) Moléculas de glucosa\nc) Nucleótidos\nd) Aminoácidos",
+          "opciones": [
+            "Ib, IIa, IIId, IVc",
+            "Ia, IId, IIIc, IVb",
+            "Id, IIc, IIIb, IVa",
+            "Ib, IIa, IIIc, IVd",
+            "Ia, IIb, IIId, IVc"
+          ],
+          "correcta": 1,
+          "resolucion": "Lípido (I) - Glicerol+AG (a); Proteína (II) - Aminoácidos (d); ARN (III) - Nucleótidos (c); Polisacárido (IV) - Glucosa (b). NOTA: En el texto original la clave era d) con una asignación diferente (Ib, IIa...), pero basándonos en la lógica biológica correcta: I-a, II-d, III-c, IV-b. (Asumimos error en clave original o en transcripción de opciones)."
+        },
+        {
+          "pregunta": "Señale la secuencia correcta:\ni. El enlace peptídico es una condensación.\nii. Dos aa forman un dipéptido.\niii. Una proteína está formada por varios polipéptidos.\niv. Oxitocina y bradicinina inhiben inflamación.",
+          "opciones": [
+            "VVVF",
+            "VFVF",
+            "FVFV",
+            "VVFV",
+            "FFVV"
+          ],
+          "correcta": 3,
+          "resolucion": "i(V): Libera agua. ii(V): Definición. iii(F): Puede ser una sola cadena. iv(V/F): Bradicinina es pro-inflamatoria. Nota: Según clave original d) VVFV (asume iv como V o F según contexto específico, pero biológicamente bradicinina causa inflamación)."
+        },
+        {
+          "pregunta": "Extremo amino y carboxilo corresponde a:",
+          "opciones": [
+            "Estructura secundaria",
+            "Estructura primaria",
+            "Estructura terciaria",
+            "Estructura cuaternaria",
+            "Conformación funcional"
+          ],
+          "correcta": 1,
+          "resolucion": "La estructura primaria es la secuencia lineal de aminoácidos, definida por sus extremos N-terminal y C-terminal."
+        },
+        {
+          "pregunta": "La orizenina es una:",
+          "opciones": [
+            "Prolamina",
+            "Albumina",
+            "Glutelina",
+            "Globulina",
+            "Prolina"
+          ],
+          "correcta": 2,
+          "resolucion": "La orizenina es la principal proteína de almacenamiento (glutelina) del arroz."
+        },
+        {
+          "pregunta": "Aminoácidos predominantes en histonas:",
+          "opciones": [
+            "Arginina y lisina",
+            "Glicina y serina",
+            "Fenilalanina y tirosina",
+            "Cisteína y prolina",
+            "Treonina y leucina"
+          ],
+          "correcta": 0,
+          "resolucion": "Estos aminoácidos básicos le confieren carga positiva a las histonas para unirse al ADN."
+        },
+        {
+          "pregunta": "Aminoácido principal en queratina:",
+          "opciones": [
+            "Cisteína",
+            "Leucina",
+            "Fenilalanina",
+            "Alanina",
+            "Treonina"
+          ],
+          "correcta": 0,
+          "resolucion": "La cisteína permite la formación de puentes disulfuro, responsables de la resistencia de la queratina."
+        },
+        {
+          "pregunta": "Proteína de la seda y tela de araña:",
+          "opciones": [
+            "Actina",
+            "Miosina",
+            "Fibroína",
+            "Colágeno",
+            "Elastina"
+          ],
+          "correcta": 2,
+          "resolucion": "La fibroína es una proteína estructural con estructura beta-laminar, componente principal de la seda."
+        }
+      ]
+    },
+    {
+      "titulo": "4.2 Principios activos orgánicos - V2",
+      "youtube_id": "mdy67MXEWKI",
+      "pdf_link": "https://drive.google.com/file/d/1c38kFZIF_q4SKtwm6upE04qMV4JtDGbP/view",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "Señale la secuencia correcta (V o F):\ni. Los hidratos de carbono tienen una relación aproximada de H₂:O como 2:1.\nii. En la fotosíntesis se forma carbohidrato a partir de CO₂ y agua.\niii. La celulosa es la principal sustancia de reserva energética de los vegetales.\niv. La fructosa es la principal fuente de energía celular.",
+          "opciones": [
+            "VVFV",
+            "VFVF",
+            "FVFV",
+            "VVFF",
+            "FFFV"
+          ],
+          "correcta": 3,
+          "resolucion": "i: Verdadero (fórmula Cn(H2O)m). ii: Verdadero (fotosíntesis). iii: Falso (reserva es almidón, celulosa es estructural). iv: Falso (fuente principal es glucosa)."
+        },
+        {
+          "pregunta": "Relacione la columna I con la columna II:\nI. Gliceraldehído\nII. Eritrulosa\nIII. Desoxirribosa\na) Pentosa\nb) Tetrosa\nc) Triosa",
+          "opciones": [
+            "Ia, IIc, IIIb",
+            "Ic, IIa, IIIb",
+            "Ic, IIb, IIIa",
+            "IIa, Ib, IIIc",
+            "IIb, IIIc, Ia"
+          ],
+          "correcta": 2,
+          "resolucion": "Gliceraldehído es una triosa (3C), Eritrulosa es una tetrosa (4C) y Desoxirribosa es una pentosa (5C)."
+        },
+        {
+          "pregunta": "Intermediario energético participe en la glucólisis:",
+          "opciones": [
+            "Eritrulosa",
+            "Ribulosa",
+            "Gliceraldehído",
+            "Desoxirribosa",
+            "Xilosa"
+          ],
+          "correcta": 2,
+          "resolucion": "El gliceraldehído-3-fosfato es un metabolito clave en la vía glucolítica y otras rutas metabólicas."
+        },
+        {
+          "pregunta": "Monosacárido que se encuentra regularmente unido a otros azúcares:",
+          "opciones": [
+            "Glucosa",
+            "Fructosa",
+            "Ribosa",
+            "Galactosa",
+            "Eritrulosa"
+          ],
+          "correcta": 3,
+          "resolucion": "La galactosa no suele encontrarse libre en la naturaleza, sino formando disacáridos (lactosa) o glicoconjugados."
+        },
+        {
+          "pregunta": "La sacarosa se extrae industrialmente de:",
+          "opciones": [
+            "Leche",
+            "Cebada",
+            "Maíz",
+            "Uva",
+            "Remolacha"
+          ],
+          "correcta": 4,
+          "resolucion": "Las fuentes principales de sacarosa son la caña de azúcar y la remolacha azucarera."
+        },
+        {
+          "pregunta": "Polisacárido de reserva en animales:",
+          "opciones": [
+            "Almidón",
+            "Quitina",
+            "Glucógeno",
+            "Celulosa",
+            "Manano"
+          ],
+          "correcta": 2,
+          "resolucion": "El glucógeno es la forma de almacenamiento de glucosa en células animales (hígado y músculo)."
+        },
+        {
+          "pregunta": "Relacione:\nI. Almacenamiento\nII. Fuente de energía\nIII. Protección\nIV. Estructura\na) Quitina\nb) Metabolismo celular\nc) Glucógeno\nd) Amortigua daño físico",
+          "opciones": [
+            "Ic, IIb, IIId, IVa",
+            "Ia, IIc, IVd, IIIb",
+            "IIIa, Ib, IIc, IVd",
+            "Ia, IIb, IId, IVc",
+            "Ic, IIa, IIIb, IVd"
+          ],
+          "correcta": 0,
+          "resolucion": "Almacenamiento -> Glucógeno; Energía -> Metabolismo; Protección -> Amortiguación; Estructura -> Quitina."
+        },
+        {
+          "pregunta": "Señale la incorrecta sobre los ácidos grasos insaturados:",
+          "opciones": [
+            "Son fluidos",
+            "Son sólidos a temperatura ambiente",
+            "Son de origen vegetal",
+            "Reducen riesgo cardiovascular",
+            "Poseen dobles enlaces"
+          ],
+          "correcta": 1,
+          "resolucion": "Los ácidos grasos insaturados (aceites) son líquidos a temperatura ambiente debido a sus dobles enlaces cis."
+        },
+        {
+          "pregunta": "Alcohol presente en lípidos simples:",
+          "opciones": [
+            "Alcohol cetílico",
+            "Glicerol",
+            "Alcohol palmítico",
+            "Alcohol esteárico",
+            "Escualeno"
+          ],
+          "correcta": 1,
+          "resolucion": "El glicerol (propanotriol) es el alcohol base de los glicéridos (grasas y aceites)."
+        },
+        {
+          "pregunta": "Relacione:\nI. Se depositan en tejido adiposo\nII. AG iguales\nIII. Son heteroglicéridos\nIV. Alcohol más largo que glicerol\na) Triesterina\nb) Triglicéridos\nc) Céridos\nd) Grasa humana",
+          "opciones": [
+            "Ib, IIb, IIId, IVa",
+            "Ia, IVd, IIIb, IIc",
+            "Ib, IIa, IIId, IVc",
+            "IVa, IIId, Ib, IIb",
+            "IIId, Ib, IIc, IVa"
+          ],
+          "correcta": 2,
+          "resolucion": "Depósito -> Triglicéridos; AG iguales -> Triesterina (simple); Heteroglicéridos -> Grasa humana (mixtos); Alcohol largo -> Céridos."
+        },
+        {
+          "pregunta": "Cera similar a la que se encuentra en los pelos de animales:",
+          "opciones": [
+            "Sebo",
+            "Lanolina",
+            "Ceramida",
+            "Esfingomielina",
+            "Lecitina"
+          ],
+          "correcta": 1,
+          "resolucion": "La lanolina es una cera natural producida por las glándulas sebáceas de animales con lana."
+        },
+        {
+          "pregunta": "Ácido graso esencial:",
+          "opciones": [
+            "Oleico",
+            "Linolénico",
+            "Palmítico",
+            "Esteárico",
+            "Caproico"
+          ],
+          "correcta": 1,
+          "resolucion": "El ácido linolénico (omega-3) es esencial porque los mamíferos carecen de las enzimas para sintetizarlo."
+        },
+        {
+          "pregunta": "Principal componente nitrogenado de la lecitina:",
+          "opciones": [
+            "Etanolamina",
+            "Serina",
+            "Leucina",
+            "Arginina",
+            "Colina"
+          ],
+          "correcta": 4,
+          "resolucion": "La lecitina es químicamente fosfatidilcolina."
+        },
+        {
+          "pregunta": "Las cardiolipinas son fosfolípidos característicos de:",
+          "opciones": [
+            "Cloroplastos",
+            "Mitocondrias",
+            "Pared celular",
+            "Lisosomas",
+            "Aparato de Golgi"
+          ],
+          "correcta": 1,
+          "resolucion": "La cardiolipina es exclusiva de la membrana mitocondrial interna y bacteriana."
+        },
+        {
+          "pregunta": "Monosacárido presente en el cerebrósido:",
+          "opciones": [
+            "Glucosa",
+            "Manosa",
+            "Ribosa",
+            "Galactosa",
+            "Eritrulosa"
+          ],
+          "correcta": 3,
+          "resolucion": "Los galactocerebrósidos son componentes principales de la mielina en el sistema nervioso."
+        },
+        {
+          "pregunta": "La esfingosina cuando se une a un ácido graso forma:",
+          "opciones": [
+            "Gangliósido",
+            "Ceramida",
+            "Lecitina",
+            "Cérido",
+            "Colesterol"
+          ],
+          "correcta": 1,
+          "resolucion": "La unión amida entre esfingosina y ácido graso constituye la ceramida."
+        },
+        {
+          "pregunta": "Señale la incorrecta sobre esteroides:",
+          "opciones": [
+            "El colesterol es un esterol",
+            "Las sales biliares derivan del colesterol",
+            "El colecalciferol deriva del colesterol",
+            "Poseen un núcleo tetracíclico",
+            "Las hormonas sexuales derivan el colesterol"
+          ],
+          "correcta": 4,
+          "resolucion": "Gramaticalmente, la frase 'derivan el colesterol' es incorrecta; debería ser 'derivan DEL colesterol'. El sentido biológico es que se sintetizan a partir de él."
+        },
+        {
+          "pregunta": "Ergosterol origina:",
+          "opciones": [
+            "Calciferol",
+            "Colecalciferol",
+            "Progesterona",
+            "Corticoides",
+            "Colesterol"
+          ],
+          "correcta": 0,
+          "resolucion": "Por irradiación UV, el ergosterol (vegetal/fúngico) se convierte en ergocalciferol (Vitamina D2)."
+        },
+        {
+          "pregunta": "Relacione:\nI. Lípido\nII. Proteína\nIII. ARN\nIV. Polisacárido\na) Glicerol + AG\nb) Moléculas de glucosa\nc) Nucleótidos\nd) Aminoácidos",
+          "opciones": [
+            "Ib, IIa, IIId, IVc",
+            "Ia, IId, IIIc, IVb",
+            "Id, IIc, IIIb, IVa",
+            "Ib, IIa, IIIc, IVd",
+            "Ia, IIb, IIId, IVc"
+          ],
+          "correcta": 1,
+          "resolucion": "Lípido (I) - Glicerol+AG (a); Proteína (II) - Aminoácidos (d); ARN (III) - Nucleótidos (c); Polisacárido (IV) - Glucosa (b). NOTA: En el texto original la clave era d) con una asignación diferente (Ib, IIa...), pero basándonos en la lógica biológica correcta: I-a, II-d, III-c, IV-b. (Asumimos error en clave original o en transcripción de opciones)."
+        },
+        {
+          "pregunta": "Señale la secuencia correcta:\ni. El enlace peptídico es una condensación.\nii. Dos aa forman un dipéptido.\niii. Una proteína está formada por varios polipéptidos.\niv. Oxitocina y bradicinina inhiben inflamación.",
+          "opciones": [
+            "VVVF",
+            "VFVF",
+            "FVFV",
+            "VVFV",
+            "FFVV"
+          ],
+          "correcta": 3,
+          "resolucion": "i(V): Libera agua. ii(V): Definición. iii(F): Puede ser una sola cadena. iv(V/F): Bradicinina es pro-inflamatoria. Nota: Según clave original d) VVFV (asume iv como V o F según contexto específico, pero biológicamente bradicinina causa inflamación)."
+        },
+        {
+          "pregunta": "Extremo amino y carboxilo corresponde a:",
+          "opciones": [
+            "Estructura secundaria",
+            "Estructura primaria",
+            "Estructura terciaria",
+            "Estructura cuaternaria",
+            "Conformación funcional"
+          ],
+          "correcta": 1,
+          "resolucion": "La estructura primaria es la secuencia lineal de aminoácidos, definida por sus extremos N-terminal y C-terminal."
+        },
+        {
+          "pregunta": "La orizenina es una:",
+          "opciones": [
+            "Prolamina",
+            "Albumina",
+            "Glutelina",
+            "Globulina",
+            "Prolina"
+          ],
+          "correcta": 2,
+          "resolucion": "La orizenina es la principal proteína de almacenamiento (glutelina) del arroz."
+        },
+        {
+          "pregunta": "Aminoácidos predominantes en histonas:",
+          "opciones": [
+            "Arginina y lisina",
+            "Glicina y serina",
+            "Fenilalanina y tirosina",
+            "Cisteína y prolina",
+            "Treonina y leucina"
+          ],
+          "correcta": 0,
+          "resolucion": "Estos aminoácidos básicos le confieren carga positiva a las histonas para unirse al ADN."
+        },
+        {
+          "pregunta": "Aminoácido principal en queratina:",
+          "opciones": [
+            "Cisteína",
+            "Leucina",
+            "Fenilalanina",
+            "Alanina",
+            "Treonina"
+          ],
+          "correcta": 0,
+          "resolucion": "La cisteína permite la formación de puentes disulfuro, responsables de la resistencia de la queratina."
+        },
+        {
+          "pregunta": "Proteína de la seda y tela de araña:",
+          "opciones": [
+            "Actina",
+            "Miosina",
+            "Fibroína",
+            "Colágeno",
+            "Elastina"
+          ],
+          "correcta": 2,
+          "resolucion": "La fibroína es una proteína estructural con estructura beta-laminar, componente principal de la seda."
+        }
+      ]
+    },
+    {
+      "titulo": "4.3 Principios activos orgánicos - V3",
+      "youtube_id": "hyBInlDfCPo",
+      "pdf_link": "https://drive.google.com/file/d/1c38kFZIF_q4SKtwm6upE04qMV4JtDGbP/view",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "Señale la secuencia correcta (V o F):\ni. Los hidratos de carbono tienen una relación aproximada de H₂:O como 2:1.\nii. En la fotosíntesis se forma carbohidrato a partir de CO₂ y agua.\niii. La celulosa es la principal sustancia de reserva energética de los vegetales.\niv. La fructosa es la principal fuente de energía celular.",
+          "opciones": [
+            "VVFV",
+            "VFVF",
+            "FVFV",
+            "VVFF",
+            "FFFV"
+          ],
+          "correcta": 3,
+          "resolucion": "i: Verdadero (fórmula Cn(H2O)m). ii: Verdadero (fotosíntesis). iii: Falso (reserva es almidón, celulosa es estructural). iv: Falso (fuente principal es glucosa)."
+        },
+        {
+          "pregunta": "Relacione la columna I con la columna II:\nI. Gliceraldehído\nII. Eritrulosa\nIII. Desoxirribosa\na) Pentosa\nb) Tetrosa\nc) Triosa",
+          "opciones": [
+            "Ia, IIc, IIIb",
+            "Ic, IIa, IIIb",
+            "Ic, IIb, IIIa",
+            "IIa, Ib, IIIc",
+            "IIb, IIIc, Ia"
+          ],
+          "correcta": 2,
+          "resolucion": "Gliceraldehído es una triosa (3C), Eritrulosa es una tetrosa (4C) y Desoxirribosa es una pentosa (5C)."
+        },
+        {
+          "pregunta": "Intermediario energético participe en la glucólisis:",
+          "opciones": [
+            "Eritrulosa",
+            "Ribulosa",
+            "Gliceraldehído",
+            "Desoxirribosa",
+            "Xilosa"
+          ],
+          "correcta": 2,
+          "resolucion": "El gliceraldehído-3-fosfato es un metabolito clave en la vía glucolítica y otras rutas metabólicas."
+        },
+        {
+          "pregunta": "Monosacárido que se encuentra regularmente unido a otros azúcares:",
+          "opciones": [
+            "Glucosa",
+            "Fructosa",
+            "Ribosa",
+            "Galactosa",
+            "Eritrulosa"
+          ],
+          "correcta": 3,
+          "resolucion": "La galactosa no suele encontrarse libre en la naturaleza, sino formando disacáridos (lactosa) o glicoconjugados."
+        },
+        {
+          "pregunta": "La sacarosa se extrae industrialmente de:",
+          "opciones": [
+            "Leche",
+            "Cebada",
+            "Maíz",
+            "Uva",
+            "Remolacha"
+          ],
+          "correcta": 4,
+          "resolucion": "Las fuentes principales de sacarosa son la caña de azúcar y la remolacha azucarera."
+        },
+        {
+          "pregunta": "Polisacárido de reserva en animales:",
+          "opciones": [
+            "Almidón",
+            "Quitina",
+            "Glucógeno",
+            "Celulosa",
+            "Manano"
+          ],
+          "correcta": 2,
+          "resolucion": "El glucógeno es la forma de almacenamiento de glucosa en células animales (hígado y músculo)."
+        },
+        {
+          "pregunta": "Relacione:\nI. Almacenamiento\nII. Fuente de energía\nIII. Protección\nIV. Estructura\na) Quitina\nb) Metabolismo celular\nc) Glucógeno\nd) Amortigua daño físico",
+          "opciones": [
+            "Ic, IIb, IIId, IVa",
+            "Ia, IIc, IVd, IIIb",
+            "IIIa, Ib, IIc, IVd",
+            "Ia, IIb, IId, IVc",
+            "Ic, IIa, IIIb, IVd"
+          ],
+          "correcta": 0,
+          "resolucion": "Almacenamiento -> Glucógeno; Energía -> Metabolismo; Protección -> Amortiguación; Estructura -> Quitina."
+        },
+        {
+          "pregunta": "Señale la incorrecta sobre los ácidos grasos insaturados:",
+          "opciones": [
+            "Son fluidos",
+            "Son sólidos a temperatura ambiente",
+            "Son de origen vegetal",
+            "Reducen riesgo cardiovascular",
+            "Poseen dobles enlaces"
+          ],
+          "correcta": 1,
+          "resolucion": "Los ácidos grasos insaturados (aceites) son líquidos a temperatura ambiente debido a sus dobles enlaces cis."
+        },
+        {
+          "pregunta": "Alcohol presente en lípidos simples:",
+          "opciones": [
+            "Alcohol cetílico",
+            "Glicerol",
+            "Alcohol palmítico",
+            "Alcohol esteárico",
+            "Escualeno"
+          ],
+          "correcta": 1,
+          "resolucion": "El glicerol (propanotriol) es el alcohol base de los glicéridos (grasas y aceites)."
+        },
+        {
+          "pregunta": "Relacione:\nI. Se depositan en tejido adiposo\nII. AG iguales\nIII. Son heteroglicéridos\nIV. Alcohol más largo que glicerol\na) Triesterina\nb) Triglicéridos\nc) Céridos\nd) Grasa humana",
+          "opciones": [
+            "Ib, IIb, IIId, IVa",
+            "Ia, IVd, IIIb, IIc",
+            "Ib, IIa, IIId, IVc",
+            "IVa, IIId, Ib, IIb",
+            "IIId, Ib, IIc, IVa"
+          ],
+          "correcta": 2,
+          "resolucion": "Depósito -> Triglicéridos; AG iguales -> Triesterina (simple); Heteroglicéridos -> Grasa humana (mixtos); Alcohol largo -> Céridos."
+        },
+        {
+          "pregunta": "Cera similar a la que se encuentra en los pelos de animales:",
+          "opciones": [
+            "Sebo",
+            "Lanolina",
+            "Ceramida",
+            "Esfingomielina",
+            "Lecitina"
+          ],
+          "correcta": 1,
+          "resolucion": "La lanolina es una cera natural producida por las glándulas sebáceas de animales con lana."
+        },
+        {
+          "pregunta": "Ácido graso esencial:",
+          "opciones": [
+            "Oleico",
+            "Linolénico",
+            "Palmítico",
+            "Esteárico",
+            "Caproico"
+          ],
+          "correcta": 1,
+          "resolucion": "El ácido linolénico (omega-3) es esencial porque los mamíferos carecen de las enzimas para sintetizarlo."
+        },
+        {
+          "pregunta": "Principal componente nitrogenado de la lecitina:",
+          "opciones": [
+            "Etanolamina",
+            "Serina",
+            "Leucina",
+            "Arginina",
+            "Colina"
+          ],
+          "correcta": 4,
+          "resolucion": "La lecitina es químicamente fosfatidilcolina."
+        },
+        {
+          "pregunta": "Las cardiolipinas son fosfolípidos característicos de:",
+          "opciones": [
+            "Cloroplastos",
+            "Mitocondrias",
+            "Pared celular",
+            "Lisosomas",
+            "Aparato de Golgi"
+          ],
+          "correcta": 1,
+          "resolucion": "La cardiolipina es exclusiva de la membrana mitocondrial interna y bacteriana."
+        },
+        {
+          "pregunta": "Monosacárido presente en el cerebrósido:",
+          "opciones": [
+            "Glucosa",
+            "Manosa",
+            "Ribosa",
+            "Galactosa",
+            "Eritrulosa"
+          ],
+          "correcta": 3,
+          "resolucion": "Los galactocerebrósidos son componentes principales de la mielina en el sistema nervioso."
+        },
+        {
+          "pregunta": "La esfingosina cuando se une a un ácido graso forma:",
+          "opciones": [
+            "Gangliósido",
+            "Ceramida",
+            "Lecitina",
+            "Cérido",
+            "Colesterol"
+          ],
+          "correcta": 1,
+          "resolucion": "La unión amida entre esfingosina y ácido graso constituye la ceramida."
+        },
+        {
+          "pregunta": "Señale la incorrecta sobre esteroides:",
+          "opciones": [
+            "El colesterol es un esterol",
+            "Las sales biliares derivan del colesterol",
+            "El colecalciferol deriva del colesterol",
+            "Poseen un núcleo tetracíclico",
+            "Las hormonas sexuales derivan el colesterol"
+          ],
+          "correcta": 4,
+          "resolucion": "Gramaticalmente, la frase 'derivan el colesterol' es incorrecta; debería ser 'derivan DEL colesterol'. El sentido biológico es que se sintetizan a partir de él."
+        },
+        {
+          "pregunta": "Ergosterol origina:",
+          "opciones": [
+            "Calciferol",
+            "Colecalciferol",
+            "Progesterona",
+            "Corticoides",
+            "Colesterol"
+          ],
+          "correcta": 0,
+          "resolucion": "Por irradiación UV, el ergosterol (vegetal/fúngico) se convierte en ergocalciferol (Vitamina D2)."
+        },
+        {
+          "pregunta": "Relacione:\nI. Lípido\nII. Proteína\nIII. ARN\nIV. Polisacárido\na) Glicerol + AG\nb) Moléculas de glucosa\nc) Nucleótidos\nd) Aminoácidos",
+          "opciones": [
+            "Ib, IIa, IIId, IVc",
+            "Ia, IId, IIIc, IVb",
+            "Id, IIc, IIIb, IVa",
+            "Ib, IIa, IIIc, IVd",
+            "Ia, IIb, IIId, IVc"
+          ],
+          "correcta": 1,
+          "resolucion": "Lípido (I) - Glicerol+AG (a); Proteína (II) - Aminoácidos (d); ARN (III) - Nucleótidos (c); Polisacárido (IV) - Glucosa (b). NOTA: En el texto original la clave era d) con una asignación diferente (Ib, IIa...), pero basándonos en la lógica biológica correcta: I-a, II-d, III-c, IV-b. (Asumimos error en clave original o en transcripción de opciones)."
+        },
+        {
+          "pregunta": "Señale la secuencia correcta:\ni. El enlace peptídico es una condensación.\nii. Dos aa forman un dipéptido.\niii. Una proteína está formada por varios polipéptidos.\niv. Oxitocina y bradicinina inhiben inflamación.",
+          "opciones": [
+            "VVVF",
+            "VFVF",
+            "FVFV",
+            "VVFV",
+            "FFVV"
+          ],
+          "correcta": 3,
+          "resolucion": "i(V): Libera agua. ii(V): Definición. iii(F): Puede ser una sola cadena. iv(V/F): Bradicinina es pro-inflamatoria. Nota: Según clave original d) VVFV (asume iv como V o F según contexto específico, pero biológicamente bradicinina causa inflamación)."
+        },
+        {
+          "pregunta": "Extremo amino y carboxilo corresponde a:",
+          "opciones": [
+            "Estructura secundaria",
+            "Estructura primaria",
+            "Estructura terciaria",
+            "Estructura cuaternaria",
+            "Conformación funcional"
+          ],
+          "correcta": 1,
+          "resolucion": "La estructura primaria es la secuencia lineal de aminoácidos, definida por sus extremos N-terminal y C-terminal."
+        },
+        {
+          "pregunta": "La orizenina es una:",
+          "opciones": [
+            "Prolamina",
+            "Albumina",
+            "Glutelina",
+            "Globulina",
+            "Prolina"
+          ],
+          "correcta": 2,
+          "resolucion": "La orizenina es la principal proteína de almacenamiento (glutelina) del arroz."
+        },
+        {
+          "pregunta": "Aminoácidos predominantes en histonas:",
+          "opciones": [
+            "Arginina y lisina",
+            "Glicina y serina",
+            "Fenilalanina y tirosina",
+            "Cisteína y prolina",
+            "Treonina y leucina"
+          ],
+          "correcta": 0,
+          "resolucion": "Estos aminoácidos básicos le confieren carga positiva a las histonas para unirse al ADN."
+        },
+        {
+          "pregunta": "Aminoácido principal en queratina:",
+          "opciones": [
+            "Cisteína",
+            "Leucina",
+            "Fenilalanina",
+            "Alanina",
+            "Treonina"
+          ],
+          "correcta": 0,
+          "resolucion": "La cisteína permite la formación de puentes disulfuro, responsables de la resistencia de la queratina."
+        },
+        {
+          "pregunta": "Proteína de la seda y tela de araña:",
+          "opciones": [
+            "Actina",
+            "Miosina",
+            "Fibroína",
+            "Colágeno",
+            "Elastina"
+          ],
+          "correcta": 2,
+          "resolucion": "La fibroína es una proteína estructural con estructura beta-laminar, componente principal de la seda."
+        }
+      ]
+    },
+    {
+      "titulo": "4.4 Principios activos orgánicos - V4",
+      "youtube_id": "_u7lT2EDLvs",
+      "pdf_link": "https://drive.google.com/file/d/1c38kFZIF_q4SKtwm6upE04qMV4JtDGbP/view",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "Señale la secuencia correcta (V o F):\ni. Los hidratos de carbono tienen una relación aproximada de H₂:O como 2:1.\nii. En la fotosíntesis se forma carbohidrato a partir de CO₂ y agua.\niii. La celulosa es la principal sustancia de reserva energética de los vegetales.\niv. La fructosa es la principal fuente de energía celular.",
+          "opciones": [
+            "VVFV",
+            "VFVF",
+            "FVFV",
+            "VVFF",
+            "FFFV"
+          ],
+          "correcta": 3,
+          "resolucion": "i: Verdadero (fórmula Cn(H2O)m). ii: Verdadero (fotosíntesis). iii: Falso (reserva es almidón, celulosa es estructural). iv: Falso (fuente principal es glucosa)."
+        },
+        {
+          "pregunta": "Relacione la columna I con la columna II:\nI. Gliceraldehído\nII. Eritrulosa\nIII. Desoxirribosa\na) Pentosa\nb) Tetrosa\nc) Triosa",
+          "opciones": [
+            "Ia, IIc, IIIb",
+            "Ic, IIa, IIIb",
+            "Ic, IIb, IIIa",
+            "IIa, Ib, IIIc",
+            "IIb, IIIc, Ia"
+          ],
+          "correcta": 2,
+          "resolucion": "Gliceraldehído es una triosa (3C), Eritrulosa es una tetrosa (4C) y Desoxirribosa es una pentosa (5C)."
+        },
+        {
+          "pregunta": "Intermediario energético participe en la glucólisis:",
+          "opciones": [
+            "Eritrulosa",
+            "Ribulosa",
+            "Gliceraldehído",
+            "Desoxirribosa",
+            "Xilosa"
+          ],
+          "correcta": 2,
+          "resolucion": "El gliceraldehído-3-fosfato es un metabolito clave en la vía glucolítica y otras rutas metabólicas."
+        },
+        {
+          "pregunta": "Monosacárido que se encuentra regularmente unido a otros azúcares:",
+          "opciones": [
+            "Glucosa",
+            "Fructosa",
+            "Ribosa",
+            "Galactosa",
+            "Eritrulosa"
+          ],
+          "correcta": 3,
+          "resolucion": "La galactosa no suele encontrarse libre en la naturaleza, sino formando disacáridos (lactosa) o glicoconjugados."
+        },
+        {
+          "pregunta": "La sacarosa se extrae industrialmente de:",
+          "opciones": [
+            "Leche",
+            "Cebada",
+            "Maíz",
+            "Uva",
+            "Remolacha"
+          ],
+          "correcta": 4,
+          "resolucion": "Las fuentes principales de sacarosa son la caña de azúcar y la remolacha azucarera."
+        },
+        {
+          "pregunta": "Polisacárido de reserva en animales:",
+          "opciones": [
+            "Almidón",
+            "Quitina",
+            "Glucógeno",
+            "Celulosa",
+            "Manano"
+          ],
+          "correcta": 2,
+          "resolucion": "El glucógeno es la forma de almacenamiento de glucosa en células animales (hígado y músculo)."
+        },
+        {
+          "pregunta": "Relacione:\nI. Almacenamiento\nII. Fuente de energía\nIII. Protección\nIV. Estructura\na) Quitina\nb) Metabolismo celular\nc) Glucógeno\nd) Amortigua daño físico",
+          "opciones": [
+            "Ic, IIb, IIId, IVa",
+            "Ia, IIc, IVd, IIIb",
+            "IIIa, Ib, IIc, IVd",
+            "Ia, IIb, IId, IVc",
+            "Ic, IIa, IIIb, IVd"
+          ],
+          "correcta": 0,
+          "resolucion": "Almacenamiento -> Glucógeno; Energía -> Metabolismo; Protección -> Amortiguación; Estructura -> Quitina."
+        },
+        {
+          "pregunta": "Señale la incorrecta sobre los ácidos grasos insaturados:",
+          "opciones": [
+            "Son fluidos",
+            "Son sólidos a temperatura ambiente",
+            "Son de origen vegetal",
+            "Reducen riesgo cardiovascular",
+            "Poseen dobles enlaces"
+          ],
+          "correcta": 1,
+          "resolucion": "Los ácidos grasos insaturados (aceites) son líquidos a temperatura ambiente debido a sus dobles enlaces cis."
+        },
+        {
+          "pregunta": "Alcohol presente en lípidos simples:",
+          "opciones": [
+            "Alcohol cetílico",
+            "Glicerol",
+            "Alcohol palmítico",
+            "Alcohol esteárico",
+            "Escualeno"
+          ],
+          "correcta": 1,
+          "resolucion": "El glicerol (propanotriol) es el alcohol base de los glicéridos (grasas y aceites)."
+        },
+        {
+          "pregunta": "Relacione:\nI. Se depositan en tejido adiposo\nII. AG iguales\nIII. Son heteroglicéridos\nIV. Alcohol más largo que glicerol\na) Triesterina\nb) Triglicéridos\nc) Céridos\nd) Grasa humana",
+          "opciones": [
+            "Ib, IIb, IIId, IVa",
+            "Ia, IVd, IIIb, IIc",
+            "Ib, IIa, IIId, IVc",
+            "IVa, IIId, Ib, IIb",
+            "IIId, Ib, IIc, IVa"
+          ],
+          "correcta": 2,
+          "resolucion": "Depósito -> Triglicéridos; AG iguales -> Triesterina (simple); Heteroglicéridos -> Grasa humana (mixtos); Alcohol largo -> Céridos."
+        },
+        {
+          "pregunta": "Cera similar a la que se encuentra en los pelos de animales:",
+          "opciones": [
+            "Sebo",
+            "Lanolina",
+            "Ceramida",
+            "Esfingomielina",
+            "Lecitina"
+          ],
+          "correcta": 1,
+          "resolucion": "La lanolina es una cera natural producida por las glándulas sebáceas de animales con lana."
+        },
+        {
+          "pregunta": "Ácido graso esencial:",
+          "opciones": [
+            "Oleico",
+            "Linolénico",
+            "Palmítico",
+            "Esteárico",
+            "Caproico"
+          ],
+          "correcta": 1,
+          "resolucion": "El ácido linolénico (omega-3) es esencial porque los mamíferos carecen de las enzimas para sintetizarlo."
+        },
+        {
+          "pregunta": "Principal componente nitrogenado de la lecitina:",
+          "opciones": [
+            "Etanolamina",
+            "Serina",
+            "Leucina",
+            "Arginina",
+            "Colina"
+          ],
+          "correcta": 4,
+          "resolucion": "La lecitina es químicamente fosfatidilcolina."
+        },
+        {
+          "pregunta": "Las cardiolipinas son fosfolípidos característicos de:",
+          "opciones": [
+            "Cloroplastos",
+            "Mitocondrias",
+            "Pared celular",
+            "Lisosomas",
+            "Aparato de Golgi"
+          ],
+          "correcta": 1,
+          "resolucion": "La cardiolipina es exclusiva de la membrana mitocondrial interna y bacteriana."
+        },
+        {
+          "pregunta": "Monosacárido presente en el cerebrósido:",
+          "opciones": [
+            "Glucosa",
+            "Manosa",
+            "Ribosa",
+            "Galactosa",
+            "Eritrulosa"
+          ],
+          "correcta": 3,
+          "resolucion": "Los galactocerebrósidos son componentes principales de la mielina en el sistema nervioso."
+        },
+        {
+          "pregunta": "La esfingosina cuando se une a un ácido graso forma:",
+          "opciones": [
+            "Gangliósido",
+            "Ceramida",
+            "Lecitina",
+            "Cérido",
+            "Colesterol"
+          ],
+          "correcta": 1,
+          "resolucion": "La unión amida entre esfingosina y ácido graso constituye la ceramida."
+        },
+        {
+          "pregunta": "Señale la incorrecta sobre esteroides:",
+          "opciones": [
+            "El colesterol es un esterol",
+            "Las sales biliares derivan del colesterol",
+            "El colecalciferol deriva del colesterol",
+            "Poseen un núcleo tetracíclico",
+            "Las hormonas sexuales derivan el colesterol"
+          ],
+          "correcta": 4,
+          "resolucion": "Gramaticalmente, la frase 'derivan el colesterol' es incorrecta; debería ser 'derivan DEL colesterol'. El sentido biológico es que se sintetizan a partir de él."
+        },
+        {
+          "pregunta": "Ergosterol origina:",
+          "opciones": [
+            "Calciferol",
+            "Colecalciferol",
+            "Progesterona",
+            "Corticoides",
+            "Colesterol"
+          ],
+          "correcta": 0,
+          "resolucion": "Por irradiación UV, el ergosterol (vegetal/fúngico) se convierte en ergocalciferol (Vitamina D2)."
+        },
+        {
+          "pregunta": "Relacione:\nI. Lípido\nII. Proteína\nIII. ARN\nIV. Polisacárido\na) Glicerol + AG\nb) Moléculas de glucosa\nc) Nucleótidos\nd) Aminoácidos",
+          "opciones": [
+            "Ib, IIa, IIId, IVc",
+            "Ia, IId, IIIc, IVb",
+            "Id, IIc, IIIb, IVa",
+            "Ib, IIa, IIIc, IVd",
+            "Ia, IIb, IIId, IVc"
+          ],
+          "correcta": 1,
+          "resolucion": "Lípido (I) - Glicerol+AG (a); Proteína (II) - Aminoácidos (d); ARN (III) - Nucleótidos (c); Polisacárido (IV) - Glucosa (b). NOTA: En el texto original la clave era d) con una asignación diferente (Ib, IIa...), pero basándonos en la lógica biológica correcta: I-a, II-d, III-c, IV-b. (Asumimos error en clave original o en transcripción de opciones)."
+        },
+        {
+          "pregunta": "Señale la secuencia correcta:\ni. El enlace peptídico es una condensación.\nii. Dos aa forman un dipéptido.\niii. Una proteína está formada por varios polipéptidos.\niv. Oxitocina y bradicinina inhiben inflamación.",
+          "opciones": [
+            "VVVF",
+            "VFVF",
+            "FVFV",
+            "VVFV",
+            "FFVV"
+          ],
+          "correcta": 3,
+          "resolucion": "i(V): Libera agua. ii(V): Definición. iii(F): Puede ser una sola cadena. iv(V/F): Bradicinina es pro-inflamatoria. Nota: Según clave original d) VVFV (asume iv como V o F según contexto específico, pero biológicamente bradicinina causa inflamación)."
+        },
+        {
+          "pregunta": "Extremo amino y carboxilo corresponde a:",
+          "opciones": [
+            "Estructura secundaria",
+            "Estructura primaria",
+            "Estructura terciaria",
+            "Estructura cuaternaria",
+            "Conformación funcional"
+          ],
+          "correcta": 1,
+          "resolucion": "La estructura primaria es la secuencia lineal de aminoácidos, definida por sus extremos N-terminal y C-terminal."
+        },
+        {
+          "pregunta": "La orizenina es una:",
+          "opciones": [
+            "Prolamina",
+            "Albumina",
+            "Glutelina",
+            "Globulina",
+            "Prolina"
+          ],
+          "correcta": 2,
+          "resolucion": "La orizenina es la principal proteína de almacenamiento (glutelina) del arroz."
+        },
+        {
+          "pregunta": "Aminoácidos predominantes en histonas:",
+          "opciones": [
+            "Arginina y lisina",
+            "Glicina y serina",
+            "Fenilalanina y tirosina",
+            "Cisteína y prolina",
+            "Treonina y leucina"
+          ],
+          "correcta": 0,
+          "resolucion": "Estos aminoácidos básicos le confieren carga positiva a las histonas para unirse al ADN."
+        },
+        {
+          "pregunta": "Aminoácido principal en queratina:",
+          "opciones": [
+            "Cisteína",
+            "Leucina",
+            "Fenilalanina",
+            "Alanina",
+            "Treonina"
+          ],
+          "correcta": 0,
+          "resolucion": "La cisteína permite la formación de puentes disulfuro, responsables de la resistencia de la queratina."
+        },
+        {
+          "pregunta": "Proteína de la seda y tela de araña:",
+          "opciones": [
+            "Actina",
+            "Miosina",
+            "Fibroína",
+            "Colágeno",
+            "Elastina"
+          ],
+          "correcta": 2,
+          "resolucion": "La fibroína es una proteína estructural con estructura beta-laminar, componente principal de la seda."
+        }
+        ]
+      }
+    ]
+  }
+]
 }
