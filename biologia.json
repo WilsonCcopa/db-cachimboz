@@ -2008,6 +2008,632 @@
         ]
       }
     ]
+  },
+{
+    "titulo": "Tema 5: Célula Procariota",
+    "videos": [
+      {
+        "titulo": "5.1 Célula Procariota - V1",
+        "youtube_id": "4s_5JK5hOXw",
+        "pdf_link": "https://drive.google.com/file/d/1wJMANv9FuKco0BWFOVN08ST_YBBE6wkF/view",
+        "gratis": true,
+        "preguntas": [
+          {
+            "pregunta": "Marcar la correlación correcta en las siguientes preguntas:\nI. Las células eucariotas presentan núcleo.\nII. La membrana plasmática separa el medio interno celular del externo.\nIII. El citoplasma está formado por los orgánulos celulares, el citosol y el núcleo.\nIV. Los primeros microscopios se inventaron a principios del siglo XVII.",
+            "opciones": [
+              "VFVV",
+              "VVFV",
+              "VVFF",
+              "FVVV",
+              "VVVV"
+            ],
+            "correcta": 1,
+            "resolucion": "I y II son verdaderas: las eucariotas tienen núcleo definido y la membrana plasmática delimita la célula. III es falsa porque el núcleo no forma parte del citoplasma (el citoplasma incluye citosol y orgánulos pero excluye el núcleo). IV es verdadera: los primeros microscopios compuestos y de lentes simples fueron desarrollados a principios del siglo XVII (p. ej. Hooke, Leeuwenhoek)."
+          },
+          {
+            "pregunta": "Definición de la célula; marcar la respuesta correcta:",
+            "opciones": [
+              "Unidad estructural y funcional fundamental de todos los seres omnívoros.",
+              "Unidad estructural y funcional fundamental de todos los seres vivos.",
+              "Unidad estructural y química fundamental de todos los seres vivos.",
+              "Unidad fundamental de las estructuras químicas y físicas.",
+              "Unidad fundamental de las estructuras biológicas y físicas."
+            ],
+            "correcta": 1,
+            "resolucion": "La célula es la unidad estructural, funcional y de origen de todos los seres vivos —tanto unicelulares como multicelulares—; no está limitada a 'omnívoros' ni a sólo aspecto químico."
+          },
+          {
+            "pregunta": "Relacione:\nI. No poseen núcleo definido, ADN circular y sin histonas.\nII. Función de adherencia, protección y antigénica.\nIII. Espacio entre membrana externa y plasmática donde ocurre digestión.\nIV. Invaginaciones que aumentan superficie cerca de la división celular.\na. Mesosomas\nb. Glucocálix\nc. Periplasma\nd. Célula Procariota",
+            "opciones": [
+              "Ib, IId, IIIa, IVc",
+              "Id, IIb, IIIc, IVa",
+              "Ib, IIc, IIIa, IVd",
+              "Ic, IIa, IIId, IVb",
+              "Ninguna"
+            ],
+            "correcta": 1,
+            "resolucion": "I describe a la célula procariota; II corresponde al glucocálix (o cápsula/mucílagos) que facilita adherencia y protección; III es el periplasma (espacio entre membrana externa y membrana citoplasmática en Gram-negativas) donde se ubican enzimas hidrolíticas; IV son mesosomas (invaginaciones de la membrana con funciones relacionadas a la división y metabolismo)."
+          },
+          {
+            "pregunta": "Estructuras bacterianas:\nI. Flagelos → movilidad.\nII. Fimbrias → adherencia.\nIII. Pili sexuales → transferencia de ADN.\nIV. Filamentos distribuidos por la superficie o en extremos.\nV. Plásmidos → resistencia antimicrobiana.",
+            "opciones": [
+              "VVFVV",
+              "VVVVV",
+              "VVVFF",
+              "VVVVF",
+              "FVFVV"
+            ],
+            "correcta": 3,
+            "resolucion": "I–IV son verdaderas (descritas correctamente). La V está mal planteada tal como aparece en el enunciado si dice “resistencia contra antimicóticos” (antimicóticos = antifúngicos): los plásmidos bacterianos confieren resistencia frente a antibióticos y otros agentes antimicrobianos, no frente a antifúngicos en sentido general, por lo que tal redacción es incorrecta; por eso V = F."
+          },
+          {
+            "pregunta": "Cianobacterias — marcar la respuesta incorrecta:",
+            "opciones": [
+              "Presentan vaina mucilaginosa.",
+              "Una pared celular, semejante a la de las bacterias Gram positivas.",
+              "Una membrana plasmática de estructura lipoproteica.",
+              "El citoplasma tiene una parte interna denominada endoplasma, la cual contiene la región nucleoide.",
+              "Presentan ribosomas 70S e inclusiones de fosfato, proteínas y lípidos."
+            ],
+            "correcta": 1,
+            "resolucion": "Las cianobacterias generalmente tienen una pared de tipo Gram-negativo (con membrana externa y peptidoglucano delgado), no semejante a Gram positivas de pared gruesa; por eso la afirmación b es incorrecta. Las otras (vaina mucilaginosa, ribosomas 70S, inclusiones) son características reales; la c es una forma imprecisa de decir que la membrana contiene lípidos y proteínas (bicapa lipídica con proteínas), y d describe una organización citoplasmática tradicionalmente mencionada en textos antiguos; la más claramente falsa en términos de comparación Gram es b."
+          },
+          {
+            "pregunta": "Fundadores de la teoría celular:",
+            "opciones": [
+              "Schleiden y Schwann",
+              "Virchow y Schwann",
+              "Schleiden y Virchow",
+              "Hooke y Virchow",
+              "Ninguna"
+            ],
+            "correcta": 0,
+            "resolucion": "Matthias Schleiden (vegetales) y Theodor Schwann (animales) formularon la teoría celular clásica (célula como unidad estructural). Virchow aportó más tarde la idea “omnis cellula e cellula” (todas las células provienen de otra célula)."
+          },
+          {
+            "pregunta": "Organelos de células procariontes:",
+            "opciones": [
+              "Cápsula, citoesqueleto, membrana plasmática, mesosomas, vesículas.",
+              "Flagelos, pili, ribosomas, nucleolo, vesículas, RER.",
+              "Nucleoide, mesosoma, membrana plasmática, ribosomas, pared celular.",
+              "Cápsula, nucleolo, ribosomas, flagelos, pared celular, pili.",
+              "Citoplasma, membrana celular, pared celular, vacuola central."
+            ],
+            "correcta": 2,
+            "resolucion": "Las procariotas presentan nucleoide (zona con ADN), mesosomas (invaginaciones), membrana plasmática, ribosomas 70S y pared celular. No tienen nucleolo ni retículo endoplásmico ni vacuola central típicos de eucariotas."
+          },
+          {
+            "pregunta": "Características del ribosoma bacteriano:",
+            "opciones": [
+              "80S (40S + 60S)",
+              "80S (30S + 50S)",
+              "70S (30S + 50S)",
+              "70S (40S + 60S)",
+              "70S (20S + 50S)"
+            ],
+            "correcta": 2,
+            "resolucion": "Los ribosomas procariotas son 70S, formados por subunidades 30S (menor) y 50S (mayor). Los 80S (40S + 60S) son ribosomas eucariotas."
+          },
+          {
+            "pregunta": "Estructuras filamentosas que se extienden fuera de la célula, compuestas por:",
+            "opciones": [
+              "Glicocálix",
+              "Porinas",
+              "Flagelinas",
+              "Pilina",
+              "Fimbrilina"
+            ],
+            "correcta": 2,
+            "resolucion": "Los flagelos bacterianos están formados por la proteína flagelina; la pilina forma pili y las fimbrias por proteínas similares (pilina/fimbrilina), pero la opción clásica para 'flagelos' es flagelina."
+          },
+          {
+            "pregunta": "Fimbrias favorecen virulencia en:",
+            "opciones": [
+              "Salmonella typhimurium",
+              "Candida albicans",
+              "Mycobacterium leprae",
+              "Ganoderma lucidum",
+              "Aspergillus niger"
+            ],
+            "correcta": 0,
+            "resolucion": "Muchas bacterias patógenas como Salmonella emplean fimbrias/pili para adherirse a tejidos del hospedador, aumentando su capacidad de colonización; las otras opciones son hongos (o micobacterias donde la adhesión es por otros mecanismos)."
+          },
+          {
+            "pregunta": "Tamaño de micoplasmas (PPLO):",
+            "opciones": [
+              "0.095–0.125 µm",
+              "0.125–0.135 µm",
+              "0.135–0.150 µm",
+              "0.095–0.150 µm",
+              "0.125–0.150 µm"
+            ],
+            "correcta": 3,
+            "resolucion": "Los micoplasmas (Mycoplasma) son algunas de las bacterias más pequeñas, con diámetros cercanos a 0.1 µm; el intervalo 0.095–0.150 µm recoge adecuadamente su reducido tamaño comparado con otras bacterias."
+          },
+          {
+            "pregunta": "Únicos procariotas que carecen de pared celular:",
+            "opciones": [
+              "Mollicutes",
+              "Cianobacterias",
+              "Cianosomas",
+              "Plásmidos",
+              "Escherichia coli"
+            ],
+            "correcta": 0,
+            "resolucion": "Mollicutes (p. ej. Mycoplasma) carecen de pared celular y sólo están limitados por la membrana plasmática; las demás opciones sí poseen pared (E. coli tiene pared tipo Gram-negativa)."
+          },
+          {
+            "pregunta": "Característica propia de cianobacterias:",
+            "opciones": [
+              "Metabolismo fotosintético semejante al de plantas verdes.",
+              "Almacenan pigmentos fotosintéticos.",
+              "Transforman energía luminosa en energía nuclear.",
+              "Encargadas de respiración celular para obtener ATP a partir de glucosa.",
+              "Metabolismo fotosintético contrario al de plantas."
+            ],
+            "correcta": 0,
+            "resolucion": "Las cianobacterias realizan fotosíntesis oxigénica similar a la de plantas (liberan O₂, usan clorofilas y fotosistemas), lo que las distingue de muchas bacterias fotosintéticas anoxigénicas."
+          },
+          {
+            "pregunta": "Diferencia esencial entre célula procariota y eucariota radica en:",
+            "opciones": [
+              "El tamaño celular",
+              "La pared celular",
+              "El núcleo celular",
+              "La composición química del citoplasma",
+              "Ninguna"
+            ],
+            "correcta": 2,
+            "resolucion": "La presencia de un núcleo delimitado por membrana (carioteca) en eucariotas vs. la ausencia de este en procariotas es la diferencia esencial y definitoria."
+          },
+          {
+            "pregunta": "Científico que empleó por primera vez el término “célula” observando corcho:",
+            "opciones": [
+              "Robert Hooke",
+              "Rudolf Virchow",
+              "Antón van Leeuwenhoek",
+              "Theodor Schwann",
+              "Marcello Malpighi"
+            ],
+            "correcta": 0,
+            "resolucion": "Hooke (1665) describió 'celdillas' (cells) en corcho bajo el microscopio; eso originó el término “célula”."
+          },
+          {
+            "pregunta": "¿Cuál de los siguientes organismos es una célula procariota?",
+            "opciones": [
+              "Protozoario",
+              "Queuña",
+              "Alga",
+              "Hongo",
+              "Cyanobacteria"
+            ],
+            "correcta": 4,
+            "resolucion": "Las cianobacterias son bacterias (procariotas) fotosintéticas; las otras opciones son eucariotas (protozoos, algas pluricelulares eucariotas, hongos)."
+          },
+          {
+            "pregunta": "La pared celular de los procariotas está formada por:",
+            "opciones": [
+              "Hemicelulosa",
+              "Quitina",
+              "Peptidoglicano o mureína",
+              "Celulosa",
+              "Fosfolípido"
+            ],
+            "correcta": 2,
+            "resolucion": "La mayoría de bacterias tienen pared de peptidoglucano (mureína), distinta de quitina (hongos) o celulosa (plantas)."
+          },
+          {
+            "pregunta": "Componente que sirve de barrera y controla entrada/salida de solutos en la membrana plasmática:",
+            "opciones": [
+              "Colesterol",
+              "Fosfolípido",
+              "Glucolípido",
+              "Glucocálix",
+              "Carbohidrato"
+            ],
+            "correcta": 1,
+            "resolucion": "La bicapa de fosfolípidos forma la matriz semipermeable básica de la membrana; colesterol y proteínas modulan fluidez y transporte, pero la barrera física esencial es la bicapa fosfolipídica."
+          },
+          {
+            "pregunta": "Estructura cuyo papel es reconocimiento y adherencia de la célula con otras células:",
+            "opciones": [
+              "Pared celular",
+              "Citoplasma",
+              "Exoesqueleto",
+              "Glucocálix",
+              "Ribosoma"
+            ],
+            "correcta": 3,
+            "resolucion": "El glucocálix (carbohidratos y glicoproteínas en superficie) facilita reconocimiento celular y adhesión; la pared aporta protección pero no funciones específicas de reconocimiento molecular."
+          },
+          {
+            "pregunta": "Un organismo procarionte se caracteriza por carecer de:",
+            "opciones": [
+              "Plasmalema",
+              "Citoplasma",
+              "Carioteca",
+              "Ribosomas",
+              "ADN"
+            ],
+            "correcta": 2,
+            "resolucion": "Las procariotas no tienen envoltura nuclear (carioteca); sí poseen membrana (plasmalema), citoplasma, ribosomas 70S y ADN (nucleoide)."
+          },
+          {
+            "pregunta": "Estructura que proporciona fortaleza y protección mecánica:",
+            "opciones": [
+              "Cápsula",
+              "Pared celular",
+              "Membrana plasmática",
+              "Glucocálix",
+              "Membrana externa"
+            ],
+            "correcta": 1,
+            "resolucion": "La pared celular (peptidoglicano) confiere rigidez, forma y resistencia osmótica; la cápsula protege y evita fagocitosis, pero la fortaleza mecánica es atribuible principalmente a la pared."
+          },
+          {
+            "pregunta": "Estructura que interviene en duplicación del ADN y contiene enzimas de la cadena transportadora de electrones:",
+            "opciones": [
+              "Mesosomas",
+              "Periplasma",
+              "Vacuolas",
+              "Cloroplasto",
+              "Glicocálix"
+            ],
+            "correcta": 0,
+            "resolucion": "Los mesosomas (invaginaciones de membrana) están asociados a procesos de replicación del ADN y actividades metabólicas como la respiración y cadena transportadora de electrones en procariotas."
+          },
+          {
+            "pregunta": "Pared de bacterias Gram positivas compuesta por:",
+            "opciones": [
+              "60–90% peptidoglicano + ácidos teicoicos",
+              "10–20% peptidoglicano",
+              "Actina, microtúbulos y filamentos intermedios",
+              "Fosfolípidos",
+              "Quitina"
+            ],
+            "correcta": 0,
+            "resolucion": "Las Gram positivas tienen pared gruesa de peptidoglucano (mayor proporción) y ácidos teicoicos como componentes antigénicos característicos."
+          },
+          {
+            "pregunta": "Moléculas de ADN extracromosómico transferible:",
+            "opciones": [
+              "Flagelo",
+              "Fimbrias",
+              "Pili",
+              "Plásmidos",
+              "Mesosomas"
+            ],
+            "correcta": 3,
+            "resolucion": "Los plásmidos son pequeños DNA circular extragenómico que pueden transferirse durante conjugación y frecuentemente llevan genes de resistencia."
+          },
+          {
+            "pregunta": "Complejos proteicos en la membrana externa que forman canales transmembranos y permiten difusión:",
+            "opciones": [
+              "Microtúbulos de tubulina",
+              "Porinas",
+              "Periplasma",
+              "Mollicutes",
+              "Fimbrilina"
+            ],
+            "correcta": 1,
+            "resolucion": "Las porinas son proteínas de membrana externa (Gram-negativas) que forman poros para el paso de solutos; no confundir con estructuras citosqueléticas ni organismos."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "Tema 6: Célula Eucariota",
+    "videos": [
+      {
+        "titulo": "6.1 Célula Eucariota - V1",
+        "youtube_id": "BE26PRixe6Y",
+        "pdf_link": "https://drive.google.com/file/d/1nrnQKHjXCqHK4FHDInLSa-0Zt4d8H4vL/view",
+        "gratis": true,
+        "preguntas": [
+          {
+            "pregunta": "Organelo citoplasmático que contiene enzimas que reducen el 𝐻₂𝑂₂ en 𝑂₂ y 𝐻₂𝑂 se conoce como:",
+            "opciones": [
+              "Glioxisomas",
+              "Lisosomas",
+              "Peroxisomas",
+              "Mitocondrias",
+              "Retículo endoplasmático"
+            ],
+            "correcta": 2,
+            "resolucion": "Los peroxisomas contienen enzimas como la catalasa, que degradan el peróxido de hidrógeno (H₂O₂), un compuesto tóxico, transformándolo en agua y oxígeno. Esta es su función principal."
+          },
+          {
+            "pregunta": "El conjunto de canales membranosos revestidos con ribosomas recibe el nombre de:",
+            "opciones": [
+              "Retículo endoplasmático rugoso",
+              "Carioteca",
+              "Aparato de Golgi",
+              "Polirribosoma",
+              "Centrosoma"
+            ],
+            "correcta": 0,
+            "resolucion": "El retículo endoplasmático rugoso (RER) tiene ribosomas adheridos a su superficie, formando canales membranosos involucrados en la síntesis y transporte de proteínas."
+          },
+          {
+            "pregunta": "Es un organelo celular importante donde se lleva a cabo la síntesis proteica:",
+            "opciones": [
+              "Mitocondria",
+              "Retículo endoplasmático liso",
+              "Ribosoma",
+              "Núcleo",
+              "ADN"
+            ],
+            "correcta": 2,
+            "resolucion": "Los ribosomas son los organelos que ensamblan aminoácidos para formar proteínas, siguiendo la secuencia codificada en el ARNm."
+          },
+          {
+            "pregunta": "La energía potencial de los alimentos es convertida en otra forma de energía por:",
+            "opciones": [
+              "Cloroplastos",
+              "Mitocondrias",
+              "Núcleo",
+              "Citoplasma",
+              "Vacuolas"
+            ],
+            "correcta": 1,
+            "resolucion": "Las mitocondrias llevan a cabo la respiración celular, proceso mediante el cual la energía química de los nutrientes se transforma en ATP, la energía utilizable por la célula."
+          },
+          {
+            "pregunta": "La función de la digestión intracelular de partículas externas como bacterias se lleva a cabo en:",
+            "opciones": [
+              "Centrosomas",
+              "Microfilamentos",
+              "Microtúbulos",
+              "Lisosomas",
+              "Peroxisomas"
+            ],
+            "correcta": 3,
+            "resolucion": "Los lisosomas contienen enzimas hidrolíticas capaces de degradar bacterias, restos celulares y otras partículas introducidas por fagocitosis."
+          },
+          {
+            "pregunta": "El núcleo es la estructura más importante de la célula por:",
+            "opciones": [
+              "Contiene enzimas nucleotídicas",
+              "Presenta el nucleoplasma",
+              "Contiene el material genético que codifica a proteínas",
+              "Por los ribosomas adheridos a la carioteca",
+              "Su ubicación central en la célula"
+            ],
+            "correcta": 2,
+            "resolucion": "El núcleo alberga el ADN, donde se encuentra la información genética necesaria para la síntesis de proteínas y el control de las funciones celulares."
+          },
+          {
+            "pregunta": "Los genes se encuentran presentes en:",
+            "opciones": [
+              "Centrosoma",
+              "Proteínas",
+              "Cromosomas",
+              "Todos los organelos citoplasmáticos",
+              "Citosol"
+            ],
+            "correcta": 2,
+            "resolucion": "Los cromosomas contienen el ADN organizado en genes, que son las unidades funcionales de la herencia."
+          },
+          {
+            "pregunta": "Un cromosoma presenta en su estructura:",
+            "opciones": [
+              "Centrosomas, cromonemas, cromátidas",
+              "Cromátidas, autosomas, centrómero",
+              "Cromátidas, centrómero, gonosomas",
+              "Cromátidas, centrómero, cromonemas",
+              "Cromonema, cromátidas, cromocentro"
+            ],
+            "correcta": 3,
+            "resolucion": "Los cromosomas están formados por cromátidas, unidas por el centrómero, y su estructura interna incluye los cromonemas, hebras de cromatina."
+          },
+          {
+            "pregunta": "Cuando el centrómero se encuentra ubicado en el medio de la longitud del cromosoma, este se denomina:",
+            "opciones": [
+              "Acrocéntrico",
+              "Submetacéntrico",
+              "Metacéntrico",
+              "Telocéntrico",
+              "Centrosoma"
+            ],
+            "correcta": 2,
+            "resolucion": "Un cromosoma metacéntrico tiene su centrómero en la mitad, formando dos brazos de igual longitud."
+          },
+          {
+            "pregunta": "El material viviente básico de aspecto coloidal que contiene partículas y fibrillas diminutas que constituye la vida se denomina:",
+            "opciones": [
+              "Citosol",
+              "Protoplasma",
+              "Matriz mitocondrial",
+              "Estroma",
+              "Sarcolema"
+            ],
+            "correcta": 1,
+            "resolucion": "El protoplasma es la sustancia coloidal viva que forma la base de la célula, incluyendo citoplasma y núcleo."
+          },
+          {
+            "pregunta": "La naturaleza del protoplasma celular es:",
+            "opciones": [
+              "Liófila",
+              "Emulsoide",
+              "Suspensoide",
+              "Coloidal",
+              "Oleosa"
+            ],
+            "correcta": 3,
+            "resolucion": "El protoplasma es una dispersión coloidal, ya que contiene fases dispersas (organelos, partículas) suspendidas en un medio continuo acuoso."
+          },
+          {
+            "pregunta": "El sistema vacuolar o sistema de endomembranas de la matriz citoplasmática está formada por:",
+            "opciones": [
+              "Núcleo, Retículo endoplasmático, Complejo de Golgi",
+              "Nucleolo, Retículo endoplasmático rugoso, Complejo de Golgi",
+              "Carioteca, Complejo de Golgi, Lisosoma",
+              "Envoltura nuclear, Retículo endoplasmático rugoso, Complejo de Golgi",
+              "Envoltura nuclear, Complejo de Golgi y mitocondrias"
+            ],
+            "correcta": 3,
+            "resolucion": "El sistema de endomembranas incluye estructuras que trabajan juntas en el transporte y modificación de proteínas y lípidos: envoltura nuclear, RER y aparato de Golgi."
+          },
+          {
+            "pregunta": "Los ribosomas y lisosomas en los espacios intracelulares cumplen la función de:",
+            "opciones": [
+              "Síntesis de proteínas – digestión intracelular",
+              "Síntesis de proteínas – metabolismo de lípidos",
+              "Digestión de Glúcidos – Producción de energía",
+              "Maduración de proteínas – Formación de vesículas",
+              "Detoxificación celular – Almacena azúcares y sales"
+            ],
+            "correcta": 0,
+            "resolucion": "Los ribosomas sintetizan proteínas, mientras los lisosomas realizan la digestión intracelular."
+          },
+          {
+            "pregunta": "La membrana del núcleo se denomina:",
+            "opciones": [
+              "Cariolinfa",
+              "Carioteca",
+              "Carioplasma",
+              "Nucleolo",
+              "Nucleoplasma"
+            ],
+            "correcta": 1,
+            "resolucion": "La carioteca es la envoltura nuclear doble que rodea al material genético."
+          },
+          {
+            "pregunta": "¿Cuáles son los componentes del núcleo?",
+            "opciones": [
+              "Ribosomas, cromatina",
+              "Nucleolo, centrosoma",
+              "Cromatina, nucleolo",
+              "Cariolinfa, lisosomas",
+              "Cromosomas, centriolos"
+            ],
+            "correcta": 2,
+            "resolucion": "El núcleo contiene cromatina (ADN y proteínas) y el nucleolo, encargado de formar ribosomas."
+          },
+          {
+            "pregunta": "Forma parte de un cloroplasto:",
+            "opciones": [
+              "Crestas",
+              "Matriz",
+              "Tilacoides",
+              "Sarcolema",
+              "Sarcoplasma"
+            ],
+            "correcta": 2,
+            "resolucion": "Los tilacoides forman los granas donde ocurre la fase lumínica de la fotosíntesis dentro del cloroplasto."
+          },
+          {
+            "pregunta": "Cuando el centrómero se ubica en un extremo del cromosoma, formando solo un brazo, este lleva el nombre de:",
+            "opciones": [
+              "Telocéntrico",
+              "Acrocéntrico",
+              "Metacéntrico",
+              "Submetacéntrico",
+              "Constricto secundario"
+            ],
+            "correcta": 0,
+            "resolucion": "Un cromosoma telocéntrico tiene el centrómero en un extremo, formando prácticamente un solo brazo."
+          },
+          {
+            "pregunta": "¿Cuál es el cromosoma que no está presente en el cariotipo humano?",
+            "opciones": [
+              "Telocéntrico",
+              "Acrocéntrico",
+              "Metacéntrico",
+              "Submetacéntrico",
+              "Constricto secundario"
+            ],
+            "correcta": 0,
+            "resolucion": "En los humanos no existen cromosomas telocéntricos; solo se observan metacéntricos, submetacéntricos y acrocéntricos."
+          },
+          {
+            "pregunta": "¿Qué almacena los elaioplastos (oleoplastos)?",
+            "opciones": [
+              "Proteínas",
+              "Carbohidratos",
+              "Glúcidos",
+              "Lípidos",
+              "Pigmentos de color"
+            ],
+            "correcta": 3,
+            "resolucion": "Los elaioplastos almacenan lípidos, especialmente aceites, en células vegetales."
+          },
+          {
+            "pregunta": "Son plastos que están presentes en plantas que se desarrollan en ambientes alejados de la luz:",
+            "opciones": [
+              "Elaioplastos",
+              "Cromoplastos",
+              "Cloroplastos",
+              "Etioplastos",
+              "Leucoplastos"
+            ],
+            "correcta": 3,
+            "resolucion": "Los etioplastos aparecen en hojas o brotes que crecen en ausencia de luz, ya que aún no han desarrollado clorofila."
+          },
+          {
+            "pregunta": "¿Qué filamentos del citoesqueleto son los responsables de la formación del huso mitótico durante la división celular?",
+            "opciones": [
+              "Microtúbulos",
+              "Microfilamentos",
+              "Filamentos intermedios",
+              "Kinesina",
+              "Dineína"
+            ],
+            "correcta": 0,
+            "resolucion": "El huso mitótico está formado por microtúbulos, que separan los cromosomas durante la mitosis."
+          },
+          {
+            "pregunta": "¿Qué filamentos intervienen en la formación del anillo que separa las células hijas durante la división celular?",
+            "opciones": [
+              "Microtúbulos",
+              "Microfilamentos",
+              "Filamentos intermedios",
+              "Vesículas de Golgi",
+              "Fibras del Aster"
+            ],
+            "correcta": 1,
+            "resolucion": "El anillo contractil responsable de la citocinesis está compuesto por microfilamentos de actina."
+          },
+          {
+            "pregunta": "Formada por filamentos intermedios:",
+            "opciones": [
+              "Los cilios",
+              "Los flagelos",
+              "Los centriolos",
+              "La lámina nuclear",
+              "El huso mitótico"
+            ],
+            "correcta": 3,
+            "resolucion": "La lámina nuclear está compuesta por filamentos intermedios llamados laminas, que dan soporte al núcleo."
+          },
+          {
+            "pregunta": "Los Glioxisomas son abundantes en:",
+            "opciones": [
+              "Músculo",
+              "Corazón",
+              "Hígado",
+              "Semillas",
+              "Hojas de los árboles"
+            ],
+            "correcta": 3,
+            "resolucion": "Los glioxisomas abundan en semillas oleaginosas, donde transforman lípidos en carbohidratos durante la germinación."
+          },
+          {
+            "pregunta": "Existen órganos como el hígado, cerebro y el músculo entre otros, que para realizar sus funciones eficientemente requieren un aporte energético significante, se puede deducir que en estos órganos existe abundancia en:",
+            "opciones": [
+              "Aparato de Golgi",
+              "Lisosomas",
+              "Mitocondrias",
+              "Peroxisomas",
+              "Retículo endoplasmático"
+            ],
+            "correcta": 2,
+            "resolucion": "Órganos con alta demanda energética, como cerebro, músculo y hígado, necesitan muchas mitocondrias, encargadas de producir ATP."
+          }
+          ]
+      }
+    ]
   }
 ]
 }
