@@ -19,7 +19,8 @@
               "Biósfera",
               "Ecosfera"
             ],
-            "correcta": 0
+            "correcta": 0,
+            "resolucion": "Una población está formada por individuos de la misma especie que habitan un área determinada y pueden reproducirse entre sí."
           },
           {
             "pregunta": "Un grupo de organismos muy similares morfológicamente y fisiológicamente, cuya unión puede ser fértil, constituye:",
@@ -30,7 +31,8 @@
               "Una población",
               "Un biotopo"
             ],
-            "correcta": 0
+            "correcta": 0,
+            "resolucion": "Una especie agrupa a individuos que comparten características semejantes y pueden cruzarse produciendo descendencia fértil."
           },
           {
             "pregunta": "En la organización de los seres vivos, una manada de vicuñas alto andinas, constituye:",
@@ -41,7 +43,8 @@
               "Un ecosistema",
               "Una especie"
             ],
-            "correcta": 4
+            "correcta": 4,
+            "resolucion": "Organismos de la misma especie con descendencia y unión fértil representan una población como la manada de vicuñas."
           },
           {
             "pregunta": "La materia viva se caracteriza por presentar varios grados de complejidad estructural, así a los individuos de una especie que habitan en la misma área geográfica les corresponde el nivel de organización:",
@@ -52,7 +55,8 @@
               "Comunidad",
               "Biotopo"
             ],
-            "correcta": 1
+            "correcta": 1,
+            "resolucion": "Los individuos de una misma especie que comparten un espacio conforman una población biológica."
           },
           {
             "pregunta": "La organización de dos o más poblaciones de diferentes especies que viven e interactúan en la misma área geográfica forma:",
@@ -63,7 +67,8 @@
               "La biosfera",
               "El biotopo"
             ],
-            "correcta": 2
+            "correcta": 2,
+            "resolucion": "La biocenosis o comunidad está compuesta por poblaciones de diferentes especies que coexisten en un mismo hábitat."
           },
           {
             "pregunta": "En la jerarquía de organización de los seres vivos, el nivel constituido por miembros de una misma especie que habitan en un área y momento determinado, se denomina:",
@@ -74,7 +79,8 @@
               "Biotopo",
               "Biocenosis"
             ],
-            "correcta": 2
+            "correcta": 2,
+            "resolucion": "La población representa el conjunto de individuos de una misma especie en un lugar y tiempo específicos."
           },
           {
             "pregunta": "Todos los seres vivos que se encuentran en el campus universitario, representan el nivel de organización denominado:",
@@ -85,7 +91,8 @@
               "Especie",
               "Biocenosis"
             ],
-            "correcta": 4
+            "correcta": 4,
+            "resolucion": "Todos los seres vivos del campus conforman una biocenosis, es decir, el conjunto de poblaciones de distintas especies que interactúan en un mismo lugar."
           },
           {
             "pregunta": "Las moléculas simples al agruparse, pasan a formar el nivel de organización denominado:",
@@ -96,7 +103,8 @@
               "Tisular",
               "Celular"
             ],
-            "correcta": 0
+            "correcta": 0,
+            "resolucion": "Las moléculas simples al unirse forman macromoléculas, como proteínas o ácidos nucleicos, que constituyen el nivel macromolecular."
           },
           {
             "pregunta": "La definición de una unidad funcional conformada por diversos tipos de tejidos, es:",
@@ -107,7 +115,8 @@
               "Una macromolécula",
               "Un organelo"
             ],
-            "correcta": 2
+            "correcta": 2,
+            "resolucion": "Un órgano es una estructura compuesta por varios tipos de tejidos que trabajan coordinadamente para cumplir una función."
           },
           {
             "pregunta": "El conjunto de microorganismos de la especie Euglena gracilis que habita un estanque de agua durante el verano, corresponde al nivel de organización biológica denominada:",
@@ -118,7 +127,8 @@
               "Población",
               "Ecósfera"
             ],
-            "correcta": 3
+            "correcta": 3,
+            "resolucion": "Un conjunto de organismos de la misma especie en un área específica constituye una población."
           },
           {
             "pregunta": "Con respecto a la organización de los seres vivos, el nivel biótico, es:",
@@ -129,7 +139,8 @@
               "Subatómico",
               "Molecular"
             ],
-            "correcta": 1
+            "correcta": 1,
+            "resolucion": "El nivel celular marca el inicio de la vida; por tanto, es el primer nivel biótico o viviente."
           },
           {
             "pregunta": "El nivel de organización de los seres vivos, se entiende que los organismos muy similares que en potencia pueden cruzarse, corresponde a:",
@@ -140,7 +151,8 @@
               "Biósfera",
               "Especie"
             ],
-            "correcta": 4
+            "correcta": 4,
+            "resolucion": "La especie o población agrupa organismos con características similares y capacidad de reproducirse entre sí."
           },
           {
             "pregunta": "En los seres vivos se distinguen varios grados de complejidad estructural, cada uno de ellos es un tipo única; la proteína unida al carbohidrato (glucoproteína) que da origen al nivel de organización se denomina:",
@@ -151,7 +163,8 @@
               "Celular",
               "Supramolecular"
             ],
-            "correcta": 4
+            "correcta": 4,
+            "resolucion": "La glucoproteína es una estructura supramolecular, producto de la unión entre macromoléculas diferentes (proteínas y azúcares)."
           },
           {
             "pregunta": "En la organización de los seres vivos el nivel sistémico se caracteriza por:",
@@ -162,7 +175,8 @@
               "La función realizada por un solo tipo de tejido",
               "El agrupamiento de células con origen y función diferente"
             ],
-            "correcta": 1
+            "correcta": 1,
+            "resolucion": "El nivel sistémico corresponde a los sistemas, formados por órganos que trabajan juntos para cumplir una función común."
           },
           {
             "pregunta": "Dos o más átomos de elementos idénticos o distintos unidos por un enlace químico, constituyen nivel de organización:",
@@ -173,7 +187,8 @@
               "Celular",
               "Sistémico"
             ],
-            "correcta": 2
+            "correcta": 2,
+            "resolucion": "Cuando varios átomos se unen por enlaces químicos forman moléculas, que representan el nivel molecular."
           },
           {
             "pregunta": "De acuerdo a los niveles de organización de la materia viviente, el nivel del organismo se encuentra antes del nivel:",
@@ -184,7 +199,8 @@
               "Sistema",
               "Biosfera"
             ],
-            "correcta": 1
+            "correcta": 1,
+            "resolucion": "En la jerarquía biológica, varios organismos de una misma especie conforman una población; por tanto, el nivel de organismo precede al nivel de población."
           }
         ]
       }
@@ -208,7 +224,8 @@
               "C, H, O, N y Fe",
               "N, O, C, H y Ca"
             ],
-            "correcta": 1
+            "correcta": 1,
+            "resolucion": "Los bioelementos primarios u organógenos (C, H, O, N, P y S) constituyen el 95% de la materia viva y forman las biomoléculas esenciales."
           },
           {
             "pregunta": "Es el elemento que participa en la coagulación sanguínea y en la permeabilidad de la membrana celular:",
@@ -219,7 +236,8 @@
               "Calcio",
               "Cobre"
             ],
-            "correcta": 3
+            "correcta": 3,
+            "resolucion": "El calcio participa en la coagulación sanguínea, la contracción muscular y la estabilidad de las membranas celulares."
           },
           {
             "pregunta": "Los microelementos o micronutrientes, por la cantidad en que se hallan en la materia viviente, son conocidos como:",
@@ -230,7 +248,8 @@
               "Variables",
               "No variables"
             ],
-            "correcta": 2
+            "correcta": 2,
+            "resolucion": "Los oligoelementos o microelementos se encuentran en pequeñas cantidades, pero son esenciales para funciones metabólicas y enzimáticas."
           },
           {
             "pregunta": "Es el ion que participa en la formación de los aminoácidos metionina y cisteína:",
@@ -241,7 +260,8 @@
               "Hierro",
               "Calcio"
             ],
-            "correcta": 2
+            "correcta": 2,
+            "resolucion": "El azufre forma parte de los aminoácidos azufrados (metionina y cisteína), esenciales en las proteínas."
           },
           {
             "pregunta": "Es el bioelemento constituyente de la molécula de clorofila:",
@@ -252,7 +272,8 @@
               "Cobre",
               "Flúor"
             ],
-            "correcta": 1
+            "correcta": 1,
+            "resolucion": "El magnesio es el átomo central de la molécula de clorofila, necesaria para la fotosíntesis."
           },
           {
             "pregunta": "Es un bioelemento formador de moléculas como las proteínas y los ácidos nucleicos, cuya liberación ocurre debido a la descomposición de la materia orgánica por bacterias, o por combustión:",
@@ -263,7 +284,8 @@
               "Oxígeno",
               "Hidrógeno"
             ],
-            "correcta": 0
+            "correcta": 0,
+            "resolucion": "El nitrógeno forma parte de proteínas y ácidos nucleicos; su ciclo natural incluye la liberación por descomposición bacteriana."
           },
           {
             "pregunta": "Son los elementos organógenos más abundantes del ser humano:",
@@ -274,7 +296,8 @@
               "Fósforo y azufre",
               "Carbono y nitrógeno"
             ],
-            "correcta": 1
+            "correcta": 1,
+            "resolucion": "El oxígeno y el carbono son los elementos más abundantes en el cuerpo humano, seguidos del hidrógeno y nitrógeno."
           },
           {
             "pregunta": "Es un bioelemento traza o vestigial formador del grupo hemo de ciertas porfirinoproteínas:",
@@ -285,7 +308,8 @@
               "Hierro",
               "Hidrógeno"
             ],
-            "correcta": 3
+            "correcta": 3,
+            "resolucion": "El hierro forma parte del grupo hemo de proteínas como la hemoglobina y los citocromos, esenciales para el transporte de oxígeno."
           },
           {
             "pregunta": "En la composición química de los seres vivos, entre los elementos organógenos, el menos abundante es el:",
@@ -296,7 +320,8 @@
               "Oxígeno",
               "Azufre"
             ],
-            "correcta": 4
+            "correcta": 4,
+            "resolucion": "El azufre es el menos abundante de los elementos organógenos principales."
           },
           {
             "pregunta": "Es el elemento organógeno que desempeña un papel esencial en los procesos de transferencia de energía como el metabolismo, la función nerviosa y la acción muscular:",
@@ -307,7 +332,8 @@
               "Fósforo",
               "Calcio"
             ],
-            "correcta": 3
+            "correcta": 3,
+            "resolucion": "El fósforo participa en moléculas energéticas como el ATP y en procesos de fosforilación celular."
           },
           {
             "pregunta": "Bioelemento primario que se encuentra formando parte del ATP (adenosín trifosfato) y los ácidos nucleicos:",
@@ -318,7 +344,8 @@
               "Magnesio",
               "Calcio"
             ],
-            "correcta": 0
+            "correcta": 0,
+            "resolucion": "El fósforo forma parte de los nucleótidos y del ATP, molécula clave en la transferencia de energía celular."
           },
           {
             "pregunta": "En el hombre, el bioelemento no organógeno que se encuentra en mayor porcentaje, después de C, H, O y N, es:",
@@ -329,7 +356,8 @@
               "Calcio",
               "Azufre"
             ],
-            "correcta": 3
+            "correcta": 3,
+            "resolucion": "El calcio es el bioelemento inorgánico más abundante en el cuerpo humano, principalmente en huesos y dientes."
           },
           {
             "pregunta": "Es un oligoelemento no variable que forma parte de proteínas como la tirosinasa y la ceruloplasmina, que lo necesitan como cofactor:",
@@ -340,7 +368,8 @@
               "Litio",
               "Cobre"
             ],
-            "correcta": 4
+            "correcta": 4,
+            "resolucion": "El cobre actúa como cofactor en enzimas oxidativas como la tirosinasa y la ceruloplasmina."
           },
           {
             "pregunta": "Es un bioelemento que está asociado a los niveles y la funcionalidad de la vitamina B12:",
@@ -351,7 +380,8 @@
               "Zinc",
               "Cobalto"
             ],
-            "correcta": 4
+            "correcta": 4,
+            "resolucion": "El cobalto forma parte de la estructura de la vitamina B12, esencial para la formación de glóbulos rojos."
           },
           {
             "pregunta": "Es un elemento organógeno que se encuentra en fertilizantes agrícolas y se deposita en el suelo, donde es fijado por bacterias, para ser asimilado por las plantas:",
@@ -362,7 +392,8 @@
               "Azufre",
               "Hidrógeno"
             ],
-            "correcta": 2
+            "correcta": 2,
+            "resolucion": "El nitrógeno es fijado por bacterias del suelo, permitiendo que las plantas lo incorporen en forma de nitratos."
           },
           {
             "pregunta": "Es una de las formas en las cuales se almacena el hierro en los tejidos de los animales superiores y el hombre:",
@@ -373,7 +404,8 @@
               "Cobalamina",
               "Hemoglobina"
             ],
-            "correcta": 2
+            "correcta": 2,
+            "resolucion": "La hemosiderina es una proteína que almacena hierro en los tejidos cuando la ferritina se satura."
           },
           {
             "pregunta": "Las proteínas transportadoras como la hemoglobina, la mioglobina y los citocromos, tienen en común el hecho de presentar en su composición al elemento:",
@@ -384,7 +416,8 @@
               "Hierro",
               "Yodo"
             ],
-            "correcta": 3
+            "correcta": 3,
+            "resolucion": "Todas estas proteínas contienen hierro en su estructura, fundamental para el transporte y almacenamiento de oxígeno."
           },
           {
             "pregunta": "Es un microelemento considerado variable, que cumple funciones antioxidantes y de regulación hormonal de la tiroides y tiene efectos anticancerígenos:",
@@ -395,7 +428,8 @@
               "Cromo",
               "Aluminio"
             ],
-            "correcta": 2
+            "correcta": 2,
+            "resolucion": "El selenio actúa como antioxidante y participa en la regulación de las hormonas tiroideas."
           },
           {
             "pregunta": "Es un oligoelemento que se encuentra relacionado con el funcionamiento de la glándula tiroides y la producción de hormonas tiroideas:",
@@ -406,7 +440,8 @@
               "Yodo",
               "Silicio"
             ],
-            "correcta": 3
+            "correcta": 3,
+            "resolucion": "El yodo es esencial para la síntesis de las hormonas tiroideas T3 y T4."
           },
           {
             "pregunta": "Es un elemento vestigial o traza que sirve para revitalizar la función cerebral y la memoria, y además es regulador del sueño (combate el insomnio) y la irritabilidad:",
@@ -417,7 +452,8 @@
               "Cromo",
               "Manganeso"
             ],
-            "correcta": 4
+            "correcta": 4,
+            "resolucion": "El manganeso participa en la actividad neuronal, enzimática y en el equilibrio del sistema nervioso."
           }
         ]
       }
@@ -441,7 +477,8 @@
               "Lípidos y carbohidratos",
               "Ácidos nucleicos y proteínas"
             ],
-            "correcta": 2
+            "correcta": 2,
+            "resolucion": "Las biomoléculas inorgánicas, como el agua y las sales minerales, no contienen carbono en su estructura básica y son esenciales para las funciones vitales."
           },
           {
             "pregunta": "No pertenece a una característica del agua:",
@@ -452,7 +489,8 @@
               "Tiene una distribución asimétrica de cargas, es un dipolo.",
               "Dos moléculas de agua pueden unirse mediante puentes de hidrógeno."
             ],
-            "correcta": 2
+            "correcta": 2,
+            "resolucion": "La molécula del agua es angular (no tetraédrica); su ángulo de enlace es de 104.5°, lo que le confiere su polaridad."
           },
           {
             "pregunta": "La descomposición de moléculas complejas hasta simples en presencia del agua se denomina:",
@@ -463,7 +501,8 @@
               "Ósmosis",
               "Tixotropía"
             ],
-            "correcta": 2
+            "correcta": 2,
+            "resolucion": "La hidrólisis es una reacción química donde el agua rompe enlaces en moléculas complejas, liberando componentes más simples."
           },
           {
             "pregunta": "La acción termorreguladora que cumple el agua en el organismo está relacionada con:",
@@ -474,7 +513,8 @@
               "Su elevada tensión superficial",
               "Su capacidad ionizante"
             ],
-            "correcta": 1
+            "correcta": 1,
+            "resolucion": "El agua requiere mucha energía para evaporarse, lo que permite regular la temperatura corporal mediante la sudoración."
           },
           {
             "pregunta": "Son propiedades del agua que están relacionadas:",
@@ -485,7 +525,8 @@
               "Hidrólisis – Capilaridad",
               "Calor vaporizante – Poder solvente"
             ],
-            "correcta": 0
+            "correcta": 0,
+            "resolucion": "La cohesión entre moléculas de agua origina la tensión superficial, que permite fenómenos como la flotación de algunos insectos."
           },
           {
             "pregunta": "La disociación de muchas moléculas formadoras de iones (ionización) en presencia del agua, está favorecida por:",
@@ -496,7 +537,8 @@
               "Las fuerzas de cohesión y de adhesión",
               "La capilaridad"
             ],
-            "correcta": 1
+            "correcta": 1,
+            "resolucion": "La polaridad del agua permite separar y estabilizar iones, actuando como excelente solvente."
           },
           {
             "pregunta": "Cuando una molécula de agua se une a otras moléculas de agua o a cualquier otra molécula polar, lo hace mediante:",
@@ -507,7 +549,8 @@
               "Enlaces covalentes",
               "Enlace peptídico"
             ],
-            "correcta": 1
+            "correcta": 1,
+            "resolucion": "Los puentes de hidrógeno son interacciones débiles que permiten la cohesión entre moléculas de agua."
           },
           {
             "pregunta": "Hasta con cuántas otras moléculas de agua puede una molécula de agua formar puentes de hidrógeno:",
@@ -518,7 +561,8 @@
               "4",
               "5"
             ],
-            "correcta": 3
+            "correcta": 3,
+            "resolucion": "Cada molécula de agua puede formar cuatro puentes de hidrógeno debido a sus dos átomos de hidrógeno y dos pares de electrones libres del oxígeno."
           },
           {
             "pregunta": "Es la propiedad del agua que está relacionada con la formación de membranas biológicas:",
@@ -529,7 +573,8 @@
               "Elevada tensión superficial",
               "Capacidad hidrolítica"
             ],
-            "correcta": 1
+            "correcta": 1,
+            "resolucion": "El carácter dipolar del agua permite interacciones con moléculas polares y la exclusión de las apolares, facilitando la formación de bicapas lipídicas."
           },
           {
             "pregunta": "En la célula, el tipo de agua que se halla en mayor porcentaje y sirve como solvente metabólico, es:",
@@ -540,7 +585,8 @@
               "De constitución",
               "Ligada"
             ],
-            "correcta": 2
+            "correcta": 2,
+            "resolucion": "El agua libre se encuentra en el citoplasma y participa activamente en las reacciones metabólicas."
           },
           {
             "pregunta": "No se encuentra entre las funciones del agua:",
@@ -551,7 +597,8 @@
               "Estructural",
               "Transportadora"
             ],
-            "correcta": 0
+            "correcta": 0,
+            "resolucion": "Aunque el agua interviene en el transporte, no es su función principal; el transporte depende más de fluidos como la sangre o linfa."
           },
           {
             "pregunta": "No corresponde a una característica de las sales minerales:",
@@ -562,7 +609,8 @@
               "Al disociarse, todas liberan iones H+ y OH-.",
               "Las más abundantes son las que contienen calcio y fósforo."
             ],
-            "correcta": 3
+            "correcta": 3,
+            "resolucion": "No todas las sales liberan H+ y OH−; sólo los ácidos y bases lo hacen. Las sales liberan cationes y aniones diversos."
           },
           {
             "pregunta": "Es constituyente del principal amortiguador de los fluidos extracelulares como la sangre:",
@@ -573,7 +621,8 @@
               "Bicarbonato",
               "Potasio"
             ],
-            "correcta": 3
+            "correcta": 3,
+            "resolucion": "El sistema bicarbonato actúa como tampón, manteniendo el pH sanguíneo estable entre 7.35 y 7.45."
           },
           {
             "pregunta": "Se encuentran entre los electrolitos más abundantes del medio intracelular:",
@@ -584,7 +633,8 @@
               "Calcio y potasio",
               "Fosfato y sodio"
             ],
-            "correcta": 2
+            "correcta": 2,
+            "resolucion": "El potasio y el magnesio son los principales iones positivos dentro de la célula."
           },
           {
             "pregunta": "Es el electrolito que mantiene la presión osmótica en el medio intracelular:",
@@ -595,7 +645,8 @@
               "Bicarbonato",
               "Fosfato"
             ],
-            "correcta": 0
+            "correcta": 0,
+            "resolucion": "El potasio regula la presión osmótica y el equilibrio de agua dentro de las células."
           },
           {
             "pregunta": "Se encuentra entre las funciones del magnesio:",
@@ -606,7 +657,8 @@
               "Participa en la coagulación",
               "Regula la presión osmótica"
             ],
-            "correcta": 2
+            "correcta": 2,
+            "resolucion": "El magnesio es el átomo central del anillo porfirínico de la clorofila, esencial para la fotosíntesis."
           },
           {
             "pregunta": "Es el catión más abundante del organismo, estabilizador de membranas y factor de coagulación:",
@@ -617,7 +669,8 @@
               "Sodio",
               "Fosfato"
             ],
-            "correcta": 0
+            "correcta": 0,
+            "resolucion": "El calcio interviene en la coagulación, contracción muscular y estabilidad de membranas celulares."
           },
           {
             "pregunta": "Son los iones que presentan mayor concentración en el medio extracelular:",
@@ -628,7 +681,8 @@
               "Sodio y cloro",
               "Potasio y sodio"
             ],
-            "correcta": 3
+            "correcta": 3,
+            "resolucion": "El sodio y el cloro predominan en el líquido extracelular, regulando el equilibrio osmótico."
           },
           {
             "pregunta": "El enunciado correcto acerca del sodio es:",
@@ -639,7 +693,8 @@
               "Estabiliza la unión ribosomal",
               "Es amortiguador del pH extracelular"
             ],
-            "correcta": 1
+            "correcta": 1,
+            "resolucion": "El exceso de sodio aumenta el volumen sanguíneo y la presión arterial."
           },
           {
             "pregunta": "Son iones que participan en la formación y mantenimiento de los huesos:",
@@ -650,7 +705,8 @@
               "Potasio y cloro",
               "Calcio y fosfato"
             ],
-            "correcta": 4
+            "correcta": 4,
+            "resolucion": "El fosfato de calcio constituye la base mineral del tejido óseo y dental."
           },
           {
             "pregunta": "Las variaciones del pH en el citoplasma celular son controladas por el ion:",
@@ -661,7 +717,8 @@
               "Potasio",
               "Calcio"
             ],
-            "correcta": 1
+            "correcta": 1,
+            "resolucion": "El sistema fosfato actúa como tampón intracelular, estabilizando el pH citoplasmático."
           },
           {
             "pregunta": "Ion encargado de promover la unión de las subunidades ribosomales durante la síntesis proteica:",
@@ -672,7 +729,8 @@
               "Magnesio",
               "Sodio"
             ],
-            "correcta": 3
+            "correcta": 3,
+            "resolucion": "El magnesio estabiliza los ribosomas y permite la unión de sus subunidades durante la traducción."
           },
           {
             "pregunta": "Electrolitos que regulan la presión osmótica y el balance hídrico:",
@@ -683,7 +741,8 @@
               "Magnesio y sulfato",
               "Fosfato y bicarbonato"
             ],
-            "correcta": 2
+            "correcta": 2,
+            "resolucion": "El sodio controla el equilibrio del líquido extracelular, mientras que el potasio lo hace en el intracelular."
           },
           {
             "pregunta": "Iones que regulan el potencial de membrana:",
@@ -694,7 +753,8 @@
               "Fosfato y sodio",
               "Sodio y magnesio"
             ],
-            "correcta": 2
+            "correcta": 2,
+            "resolucion": "La bomba sodio-potasio mantiene la diferencia de cargas entre el interior y el exterior celular."
           },
           {
             "pregunta": "El ADN, ARN y ATP tienen en común presentar en su estructura molecular:",
@@ -705,7 +765,8 @@
               "Bicarbonato",
               "Fosfato"
             ],
-            "correcta": 4
+            "correcta": 4,
+            "resolucion": "El grupo fosfato forma parte de los nucleótidos, unidades estructurales de los ácidos nucleicos y del ATP."
           }
         ]
       }
