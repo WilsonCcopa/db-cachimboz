@@ -3,10 +3,10 @@
   "temas": [
     {
       "titulo": "Tema 1: Teoría de Exponentes",
-      "pdf_resuelto": "TU_LINK_DEL_PDF_SOLUCIONARIO_AQUI", 
+      "pdf_resuelto": "TU_LINK_DEL_PDF_SOLUCIONARIO_AQUI",
       "preguntas": [
         {
-    "pregunta": "Resolver: $$ M = \\frac{10^{m+n} \\cdot 10^{n-m} \\cdot 10^{n+1}}{10^{n-1} \\cdot 10^{2n+1}} $$",
+           "pregunta": "Resolver: $$ M = \\frac{10^{m+n} \\cdot 10^{n-m} \\cdot 10^{n+1}}{10^{n-1} \\cdot 10^{2n+1}} $$",
     "opciones": [
       "7",
       "8",
@@ -137,11 +137,11 @@
     "correcta": 1,
     "resolucion": "<b>Paso 1:</b> Trabajamos el denominador con exponentes negativos.<br>$$ a^{-n} + b^{-n} = \\frac{1}{a^n} + \\frac{1}{b^n} = \\frac{a^n + b^n}{a^n b^n} $$<br><br><b>Paso 2:</b> Reemplazamos en la raíz del denominador:<br>$$ \\sqrt[n]{\\frac{a^n + b^n}{a^n b^n}} = \\frac{\\sqrt[n]{a^n + b^n}}{\\sqrt[n]{a^n b^n}} $$<br><br><b>Paso 3:</b> Realizamos la división de fracciones (extremos y medios):<br>$$ \\frac{\\sqrt[n]{a^n + b^n}}{\\frac{\\sqrt[n]{a^n + b^n}}{ab}} = ab $$"
   }
-],
+      ],
       "videos": [
         {
           "titulo": "1.1 Teoría de Exponentes - Parte 1",
-          "youtube_id": "IIlRlU1VU9g", 
+          "youtube_id": "IIlRlU1VU9g",
           "pdf_link": "https://drive.google.com/file/d/1K4G42gPGhePqiNAzJMXvVZEa5n0e0cSP/view",
           "gratis": true
         },
@@ -150,6 +150,366 @@
           "youtube_id": "6wfyQCuehbY",
           "pdf_link": "https://drive.google.com/file/d/1GHpclc0rXjoNwr4Y5tgmiK2VcsCAJTrc/view",
           "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 2: Polinomios y Valor Numérico",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "2.1 Teoría de Polinomios",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 3: Productos Notables",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "3.1 Principales Productos Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 4: División Algebraica (Horner y Ruffini)",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "4.1 Métodos de División",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 5: Teorema del Resto y Divisibilidad",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "5.1 Aplicaciones del Teorema del Resto",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 6: Cocientes Notables",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "6.1 Casos de Cocientes Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 7: Factorización I (Factor Común e Identidades)",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "7.1 Criterios de Factorización",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 8: Factorización II (Aspas)",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "8.1 Aspa Simple y Doble",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 9: MCD y MCM de Polinomios",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "9.1 Cálculo de MCD y MCM",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 10: Fracciones Algebraicas",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "10.1 Operaciones con Fracciones",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 11: Binomio de Newton",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "11.1 Desarrollo del Binomio",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 12: Radicación y Racionalización",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "12.1 Transformación de Radicales Dobles",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 13: Números Complejos",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "13.1 Cantidades Imaginarias y Complejos",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 14: Ecuaciones de Primer Grado",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "14.1 Planteo de Ecuaciones Lineales",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 15: Ecuaciones de Segundo Grado",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "15.1 Fórmula General y Propiedades",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 16: Desigualdades e Inecuaciones",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "16.1 Puntos Críticos",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 17: Valor Absoluto",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "17.1 Ecuaciones con Valor Absoluto",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 18: Funciones (Dominio y Rango)",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "18.1 Introducción a Funciones",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 19: Logaritmos",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "19.1 Propiedades de Logaritmos",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
         }
       ]
     }
