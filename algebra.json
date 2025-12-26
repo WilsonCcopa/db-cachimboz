@@ -158,7 +158,6 @@
       "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
       "preguntas": [
         {
-    {
     "pregunta": "Si $EA(P(x))=P$. Dado el polinomio: $$ P(x)=(x^{9}+x^{4})(x^{7}-x^{3})(x^{5}-4x^{3}) $$ Calcular el Grado Absoluto (GA).",
     "opciones": [
       "18",
