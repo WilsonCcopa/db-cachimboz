@@ -1,0 +1,48 @@
+{
+  "curso": "Álgebra",
+  "temas": [
+    {
+      "titulo": "Tema 1: Teoría de Exponentes",
+      "preguntas": [
+        {
+          "pregunta": "Resolver: $$ M = \\frac{10^{m+n} \\cdot 10^{n-m} \\cdot 10^{n+1}}{10^{n-1} \\cdot 10^{2n+1}} $$",
+          "opciones": [
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+          ],
+          "correcta": 3,
+          "resolucion": "Aplicando bases iguales en una multiplicación los exponentes se suman. Numerador: (m+n)+(n-m)+(n+1) = 3n+1. Denominador: (n-1)+(2n+1) = 3n. Al dividir se restan: (3n+1)-(3n) = 1. Resultado 10^1 = 10."
+        },
+        {
+          "pregunta": "Simplificar: $$ L = \\frac{2^{n+1} \\cdot 4^{-2n+1} + 8^{-n+2}}{16(2^n)^{-3}} $$",
+          "opciones": [
+            "2,5",
+            "3,5",
+            "4,5",
+            "5,5",
+            "6,5"
+          ],
+          "correcta": 2,
+          "resolucion": "Convertimos todo a base 2. El numerador se simplifica a 2^(-3n+3) + 2^(-3n+6). El denominador es 2^(4-3n). Al dividir término a término obtenemos 2^(-1) + 2^2 = 0,5 + 4 = 4,5."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "1.1 Teoría de Exponentes - Parte 1",
+          "youtube_id": "TU_ID_VIDEO_1", 
+          "pdf_link": "LINK_DEL_PDF_TEMA_1",
+          "gratis": true
+        },
+        {
+          "titulo": "1.2 Teoría de Exponentes - Parte 2",
+          "youtube_id": "TU_ID_VIDEO_2",
+          "pdf_link": "LINK_DEL_PDF_TEMA_1",
+          "gratis": false
+        }
+      ]
+    }
+  ]
+}
