@@ -1,7 +1,10 @@
 {
   "curso": "Álgebra",
   "temas": [
-  {
+    {
+      "titulo": "Tema 1: Teoría de Exponentes",
+      "preguntas": [
+        {
     "pregunta": "Resolver: $$ M = \\frac{10^{m+n} \\cdot 10^{n-m} \\cdot 10^{n+1}}{10^{n-1} \\cdot 10^{2n+1}} $$",
     "opciones": [
       "7",
