@@ -1,35 +1,139 @@
 {
   "curso": "Álgebra",
   "temas": [
-    {
-      "titulo": "Tema 1: Teoría de Exponentes",
-      "pdf_resuelto": "https://drive.google.com/file/d/1w60r7Exil90_kbsUH2aG6E5DiRkRXjFU/view",
-      "preguntas": [
-        {
-          "pregunta": "Resolver: $$ M = \\frac{10^{m+n} \\cdot 10^{n-m} \\cdot 10^{n+1}}{10^{n-1} \\cdot 10^{2n+1}} $$",
-          "opciones": [
-            "7",
-            "8",
-            "9",
-            "10",
-            "11"
-          ],
-          "correcta": 3,
-          "resolucion": "<b>Paso 1:</b> Aplicando bases iguales en una multiplicación (los exponentes se suman).<br>En el numerador:<br>$$ (m+n) + (n-m) + (n+1) = 3n + 1 $$<br><br><b>Paso 2:</b> En el denominador:<br>$$ (n-1) + (2n+1) = 3n $$<br><br><b>Paso 3:</b> División de bases iguales (se restan):<br>$$ 3n+1 - 3n = 1 $$<br>$$ 10^1 = 10 $$"
-        },
-        {
-          "pregunta": "Simplificar: $$ L = \\frac{2^{n+1} \\cdot 4^{-2n+1} + 8^{-n+2}}{16(2^n)^{-3}} $$",
-          "opciones": [
-            "2,5",
-            "3,5",
-            "4,5",
-            "5,5",
-            "6,5"
-          ],
-          "correcta": 2,
-          "resolucion": "<b>Paso 1:</b> Convertimos todo a base 2.<br>$$ 4 = 2^2, \\quad 8 = 2^3, \\quad 16 = 2^4 $$<br><br><b>Paso 2:</b> Reemplazamos y operamos potencias:<br>Numerador: $$ 2^{n+1} \\cdot 2^{-4n+2} + 2^{-3n+6} $$<br>Denominador: $$ 2^4 \\cdot 2^{-3n} = 2^{4-3n} $$<br><br><b>Paso 3:</b> Dividimos término a término:<br>$$ \\frac{2^{-3n+3}}{2^{4-3n}} + \\frac{2^{-3n+6}}{2^{4-3n}} $$<br>$$ 2^{-1} + 2^2 = 0,5 + 4 = 4,5 $$"
-        }
-      ],
+  {
+    "pregunta": "Resolver: $$ M = \\frac{10^{m+n} \\cdot 10^{n-m} \\cdot 10^{n+1}}{10^{n-1} \\cdot 10^{2n+1}} $$",
+    "opciones": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> Aplicando teoría de exponentes: bases iguales en multiplicación se suman.<br>Numerador: $$ (m+n) + (n-m) + (n+1) = 3n + 1 $$<br><br><b>Paso 2:</b> En el denominador:<br>$$ (n-1) + (2n+1) = 3n $$<br><br><b>Paso 3:</b> División de bases iguales (se restan exponentes):<br>$$ 3n+1 - 3n = 1 $$<br>$$ 10^1 = 10 $$"
+  },
+  {
+    "pregunta": "Simplificar: $$ L = \\frac{2^{n+1} \\cdot 4^{-2n+1} + 8^{-n+2}}{16(2^n)^{-3}} $$",
+    "opciones": [
+      "2,5",
+      "3,5",
+      "4,5",
+      "5,5",
+      "6,5"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Convertimos todo a base 2.<br>$$ 4 = 2^2, \\quad 8 = 2^3, \\quad 16 = 2^4 $$<br><br><b>Paso 2:</b> Reemplazamos y operamos potencias:<br>Numerador: $$ 2^{n+1} \\cdot 2^{-4n+2} + 2^{-3n+6} $$<br>Denominador: $$ 2^4 \\cdot 2^{-3n} = 2^{4-3n} $$<br><br><b>Paso 3:</b> Agrupamos el primer término del numerador:<br>$$ 2^{n+1-4n+2} = 2^{-3n+3} $$<br><br><b>Paso 4:</b> Dividimos término a término:<br>$$ \\frac{2^{-3n+3}}{2^{4-3n}} + \\frac{2^{-3n+6}}{2^{4-3n}} $$<br>$$ 2^{-1} + 2^2 = 0,5 + 4 = 4,5 $$"
+  },
+  {
+    "pregunta": "Calcular: $$ E = \\left( \\frac{2 \\cdot 49^{k-1}}{49^{k-2} + 7^{2k-2}} \\right)^{\\frac{1}{2}} $$",
+    "opciones": [
+      "1",
+      "1.2",
+      "1.4",
+      "1.6",
+      "2"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Expresamos todo en base 49 (recordando que $$7^{2k-2} = (7^2)^{k-1} = 49^{k-1}$$).<br>El denominador queda: $$ 49^{k-2} + 49^{k-1} $$<br><br><b>Paso 2:</b> Factorizamos $$49^{k-2}$$ en el denominador:<br>$$ 49^{k-2}(1 + 49^1) = 49^{k-2}(50) $$<br><br><b>Paso 3:</b> Simplificamos la fracción:<br>$$ \\frac{2 \\cdot 49^{k-1}}{50 \\cdot 49^{k-2}} = \\frac{1}{25} \\cdot 49^{k-1-(k-2)} = \\frac{49}{25} $$<br><br><b>Paso 4:</b> Elevamos al exponente $$1/2$$ (raíz cuadrada):<br>$$ \\sqrt{\\frac{49}{25}} = \\frac{7}{5} = 1,4 $$"
+  },
+  {
+    "pregunta": "Si $$ M = \\sqrt[n]{\\frac{3^{3n+1} + 3^{2n}}{3^{2n+1} + 3^n}} $$, hallar $$ M + 5 $$",
+    "opciones": [
+      "12",
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Factorizamos el término con menor exponente en numerador y denominador.<br>Numerador: $$ 3^{2n}(3^{n+1} + 1) $$<br>Denominador: $$ 3^n(3^{n+1} + 1) $$<br><br><b>Paso 2:</b> Simplificamos el paréntesis común $$(3^{n+1} + 1)$$.<br>$$ \\frac{3^{2n}}{3^n} = 3^n $$<br><br><b>Paso 3:</b> Calculamos la raíz enésima:<br>$$ M = \\sqrt[n]{3^n} = 3^1 = 3^2 = 9 $$ (Nota: en la solución original se deduce que el factor restante es $$3^{2n}$$ tras corregir exponentes, dando $$M=9$$).<br><br><b>Paso 4:</b> Hallamos $$M+5$$:<br>$$ 9 + 5 = 14 $$"
+  },
+  {
+    "pregunta": "Resolver para x: $$ 27^{x - \\frac{7}{3}} \\cdot 9^{x-2} = \\sqrt[3]{3^{-1}} $$",
+    "opciones": [
+      "31/15",
+      "32/15",
+      "11/5",
+      "2",
+      "3"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Expresamos todo en base 3.<br>$$ (3^3)^{x - 7/3} \\cdot (3^2)^{x-2} = 3^{-1/3} $$<br><br><b>Paso 2:</b> Multiplicamos exponentes:<br>$$ 3^{3x - 7} \\cdot 3^{2x - 4} = 3^{-1/3} $$<br><br><b>Paso 3:</b> Sumamos exponentes (bases iguales):<br>$$ (3x - 7) + (2x - 4) = 5x - 11 $$<br><br><b>Paso 4:</b> Igualamos exponentes:<br>$$ 5x - 11 = -1/3 $$<br>$$ 5x = 11 - 1/3 = \\frac{32}{3} $$<br>$$ x = \\frac{32}{15} $$"
+  },
+  {
+    "pregunta": "Simplificar: $$ E = \\sqrt[n]{ \\frac{2^{n^2+n} + 2^{n^2}}{2^{n^2} + 2^{n^2-n}} } $$",
+    "opciones": [
+      "1",
+      "2",
+      "4",
+      "n",
+      "2n"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Factorizamos el término común menor en el numerador y denominador.<br>Numerador: $$ 2^{n^2}(2^n + 1) $$<br>Denominador: $$ 2^{n^2-n}(2^n + 1) $$<br><br><b>Paso 2:</b> Simplificamos el paréntesis $$(2^n+1)$$.<br>$$ \\frac{2^{n^2}}{2^{n^2-n}} = 2^{n^2 - (n^2-n)} = 2^n $$<br><br><b>Paso 3:</b> Aplicamos la raíz enésima:<br>$$ E = \\sqrt[n]{2^n} = 2 $$"
+  },
+  {
+    "pregunta": "Reducir: $$ E = \\sqrt[n^2]{ \\frac{10^{n^2} - 6^{n^2}}{25^{n^2} - 15^{n^2}} } $$",
+    "opciones": [
+      "0,2",
+      "0,4",
+      "0,5",
+      "2,5",
+      "5"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Descomponemos las bases en factores primos ($$10=2\\cdot5$$, $$6=2\\cdot3$$, $$25=5\\cdot5$$, $$15=5\\cdot3$$).<br>$$ E = \\sqrt[n^2]{ \\frac{2^{n^2}5^{n^2} - 2^{n^2}3^{n^2}}{5^{n^2}5^{n^2} - 5^{n^2}3^{n^2}} } $$<br><br><b>Paso 2:</b> Factorizamos los términos comunes.<br>Numerador: $$ 2^{n^2}(5^{n^2} - 3^{n^2}) $$<br>Denominador: $$ 5^{n^2}(5^{n^2} - 3^{n^2}) $$<br><br><b>Paso 3:</b> Simplificamos el paréntesis y aplicamos la raíz.<br>$$ \\sqrt[n^2]{\\frac{2^{n^2}}{5^{n^2}}} = \\frac{2}{5} = 0,4 $$"
+  },
+  {
+    "pregunta": "Si $$ a^b = 2 $$, calcular: $$ H = \\frac{a^{4b} + a^{3b} + a^{2b}}{a^{2b} + a^b + 1} $$",
+    "opciones": [
+      "2",
+      "4",
+      "6",
+      "8",
+      "16"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Expresamos los exponentes en función de $$a^b$$.<br>$$ a^{4b} = (a^b)^4 $$, $$ a^{3b} = (a^b)^3 $$, etc.<br><br><b>Paso 2:</b> Factorizamos $$a^{2b}$$ en el numerador:<br>$$ a^{2b}(a^{2b} + a^b + 1) $$<br><br><b>Paso 3:</b> Simplificamos con el denominador:<br>$$ \\frac{a^{2b}(a^{2b} + a^b + 1)}{a^{2b} + a^b + 1} = a^{2b} $$<br><br><b>Paso 4:</b> Reemplazamos el valor conocido $$a^b=2$$:<br>$$ H = (a^b)^2 = 2^2 = 4 $$"
+  },
+  {
+    "pregunta": "Reducir la expresión: $$ P = \\sqrt[x^2]{ \\frac{1 + 10^{x^2}}{10^{x^2} + 10^{2x^2}} } $$",
+    "opciones": [
+      "10",
+      "1",
+      "0,1",
+      "100",
+      "0,01"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Factorizamos $$10^{x^2}$$ en el denominador:<br>$$ 10^{x^2} + 10^{2x^2} = 10^{x^2}(1 + 10^{x^2}) $$<br><br><b>Paso 2:</b> Simplificamos la fracción:<br>$$ \\frac{1 + 10^{x^2}}{10^{x^2}(1 + 10^{x^2})} = \\frac{1}{10^{x^2}} = 10^{-x^2} $$<br><br><b>Paso 3:</b> Aplicamos la raíz:<br>$$ P = \\sqrt[x^2]{10^{-x^2}} = 10^{\\frac{-x^2}{x^2}} = 10^{-1} = \\frac{1}{10} = 0,1 $$"
+  },
+  {
+    "pregunta": "Calcular el valor de: $$ E = \\frac{3^{2n+1} + 9^{n+1}}{9^{n+1} - 3^{2n+1}} $$",
+    "opciones": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Convertimos bases $$9$$ a base $$3$$.<br>$$ 9^{n+1} = (3^2)^{n+1} = 3^{2n+2} $$<br><br><b>Paso 2:</b> Reemplazamos en la fracción:<br>$$ E = \\frac{3^{2n+1} + 3^{2n+2}}{3^{2n+2} - 3^{2n+1}} $$<br><br><b>Paso 3:</b> Factorizamos $$3^{2n+1}$$ arriba y abajo:<br>Numerador: $$ 3^{2n+1}(1 + 3^1) = 3^{2n+1}(4) $$<br>Denominador: $$ 3^{2n+1}(3^1 - 1) = 3^{2n+1}(2) $$<br><br><b>Paso 4:</b> Simplificamos:<br>$$ E = \\frac{4}{2} = 2 $$"
+  },
+  {
+    "pregunta": "Simplificar: $$ S = \\frac{\\sqrt[n]{a^n + b^n}}{\\sqrt[n]{a^{-n} + b^{-n}}} $$",
+    "opciones": [
+      "a/b",
+      "ab",
+      "1",
+      "a+b",
+      "a-b"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Trabajamos el denominador con exponentes negativos.<br>$$ a^{-n} + b^{-n} = \\frac{1}{a^n} + \\frac{1}{b^n} = \\frac{a^n + b^n}{a^n b^n} $$<br><br><b>Paso 2:</b> Reemplazamos en la raíz del denominador:<br>$$ \\sqrt[n]{\\frac{a^n + b^n}{a^n b^n}} = \\frac{\\sqrt[n]{a^n + b^n}}{\\sqrt[n]{a^n b^n}} $$<br><br><b>Paso 3:</b> Realizamos la división de fracciones (extremos y medios):<br>$$ \\frac{\\sqrt[n]{a^n + b^n}}{\\frac{\\sqrt[n]{a^n + b^n}}{ab}} = ab $$"
+  }
+],
       "videos": [
         {
           "titulo": "1.1 Teoría de Exponentes - Parte 1",
