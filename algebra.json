@@ -3,7 +3,7 @@
   "temas": [
     {
       "titulo": "Tema 1: Teoría de Exponentes",
-      "pdf_resuelto": "TU_LINK_DEL_PDF_SOLUCIONARIO_AQUI",
+      "pdf_resuelto": "https://drive.google.com/file/d/1w60r7Exil90_kbsUH2aG6E5DiRkRXjFU/view",
       "preguntas": [
         {
           "pregunta": "Resolver: $$ M = \\frac{10^{m+n} \\cdot 10^{n-m} \\cdot 10^{n+1}}{10^{n-1} \\cdot 10^{2n+1}} $$",
@@ -34,13 +34,13 @@
         {
           "titulo": "1.1 Teoría de Exponentes - Parte 1",
           "youtube_id": "IIlRlU1VU9g", 
-          "pdf_link": "LINK_DEL_PDF_TEMA_1",
+          "pdf_link": "https://drive.google.com/file/d/1K4G42gPGhePqiNAzJMXvVZEa5n0e0cSP/view",
           "gratis": true
         },
         {
           "titulo": "1.2 Teoría de Exponentes - Parte 2",
           "youtube_id": "6wfyQCuehbY",
-          "pdf_link": "LINK_DEL_PDF_TEMA_1",
+          "pdf_link": "https://drive.google.com/file/d/1GHpclc0rXjoNwr4Y5tgmiK2VcsCAJTrc/view",
           "gratis": false
         }
       ]
