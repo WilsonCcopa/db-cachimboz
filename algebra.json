@@ -32,15 +32,15 @@
       "videos": [
         {
           "titulo": "1.1 Teoría de Exponentes - Parte 1",
-          "youtube_id": "TU_ID_VIDEO_1", 
+          "youtube_id": "IIlRlU1VU9g", 
           "pdf_link": "LINK_DEL_PDF_TEMA_1",
           "gratis": true
         },
         {
           "titulo": "1.2 Teoría de Exponentes - Parte 2",
-          "youtube_id": "TU_ID_VIDEO_2",
+          "youtube_id": "6wfyQCuehbY",
           "pdf_link": "LINK_DEL_PDF_TEMA_1",
-          "gratis": false
+          "gratis": true
         }
       ]
     }
