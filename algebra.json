@@ -14,7 +14,7 @@
             "11"
           ],
           "correcta": 3,
-          "resolucion": "Aplicando bases iguales en una multiplicación los exponentes se suman. Numerador: (m+n)+(n-m)+(n+1) = 3n+1. Denominador: (n-1)+(2n+1) = 3n. Al dividir se restan: (3n+1)-(3n) = 1. Resultado 10^1 = 10."
+          "resolucion": "<b>Paso 1:</b> Aplicando bases iguales en una multiplicación (los exponentes se suman).<br>En el numerador:<br>$$ (m+n) + (n-m) + (n+1) = 3n + 1 $$<br><br><b>Paso 2:</b> En el denominador:<br>$$ (n-1) + (2n+1) = 3n $$<br><br><b>Paso 3:</b> División de bases iguales (se restan):<br>$$ 3n+1 - 3n = 1 $$<br>$$ 10^1 = 10 $$"
         },
         {
           "pregunta": "Simplificar: $$ L = \\frac{2^{n+1} \\cdot 4^{-2n+1} + 8^{-n+2}}{16(2^n)^{-3}} $$",
@@ -26,7 +26,7 @@
             "6,5"
           ],
           "correcta": 2,
-          "resolucion": "Convertimos todo a base 2. El numerador se simplifica a 2^(-3n+3) + 2^(-3n+6). El denominador es 2^(4-3n). Al dividir término a término obtenemos 2^(-1) + 2^2 = 0,5 + 4 = 4,5."
+          "resolucion": "<b>Paso 1:</b> Convertimos todo a base 2.<br>$$ 4 = 2^2, \\quad 8 = 2^3, \\quad 16 = 2^4 $$<br><br><b>Paso 2:</b> Reemplazamos y operamos potencias:<br>Numerador: $$ 2^{n+1} \\cdot 2^{-4n+2} + 2^{-3n+6} $$<br>Denominador: $$ 2^4 \\cdot 2^{-3n} = 2^{4-3n} $$<br><br><b>Paso 3:</b> Dividimos término a término:<br>$$ \\frac{2^{-3n+3}}{2^{4-3n}} + \\frac{2^{-3n+6}}{2^{4-3n}} $$<br>$$ 2^{-1} + 2^2 = 0,5 + 4 = 4,5 $$"
         }
       ],
       "videos": [
@@ -40,7 +40,7 @@
           "titulo": "1.2 Teoría de Exponentes - Parte 2",
           "youtube_id": "6wfyQCuehbY",
           "pdf_link": "LINK_DEL_PDF_TEMA_1",
-          "gratis": true
+          "gratis": false
         }
       ]
     }
