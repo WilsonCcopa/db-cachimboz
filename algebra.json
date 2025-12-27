@@ -158,305 +158,305 @@
       "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
       "preguntas": [
         {
-    "pregunta": "Si $EA(P(x))=P$. Dado el polinomio: $$ P(x)=(x^{9}+x^{4})(x^{7}-x^{3})(x^{5}-4x^{3}) $$ Calcular el Grado Absoluto (GA).",
-    "opciones": [
-      "18",
-      "19",
-      "21",
-      "22",
-      "25"
-    ],
-    "correcta": 2,
-    "resolucion": "<b>Paso 1:</b> Para encontrar el Grado Absoluto (GA) de un polinomio factorizado, sumamos los grados absolutos de cada factor.<br><br><b>Paso 2:</b> Identificamos el mayor exponente en cada paréntesis:<br>• Primer factor (x⁹+x⁴) → Grado 9<br>• Segundo factor (x⁷-x³) → Grado 7<br>• Tercer factor (x⁵-4x³) → Grado 5<br><br><b>Paso 3:</b> Sumamos los grados:<br>$$ GA(P) = 9 + 7 + 5 = 21 $$"
-  },
-  {
-    "pregunta": "Calcular el GA del polinomio: $$ P(x)=(x^{3}+3x)^{5}(x^{2}-x)^{8}(x^{6}+4)^{3} $$",
-    "opciones": [
-      "45",
-      "47",
-      "49",
-      "50",
-      "52"
-    ],
-    "correcta": 2,
-    "resolucion": "<b>Paso 1:</b> El grado de una potencia de un polinomio es el producto del grado de la base por el exponente.<br><br><b>Paso 2:</b> Calculamos el grado de cada factor:<br>• Factor 1: (x³...)⁵ → 3 × 5 = 15<br>• Factor 2: (x²...)⁸ → 2 × 8 = 16<br>• Factor 3: (x⁶...)³ → 6 × 3 = 18<br><br><b>Paso 3:</b> Sumamos los grados parciales:<br>$$ GA(P) = 15 + 16 + 18 = 49 $$"
-  },
-  {
-    "pregunta": "Hallar el GA de P(x) si: $$ P(x)=\\frac{x^{33}-x^{15}+3x}{x^{8}+x^{4}+5x} $$",
-    "opciones": [
-      "20",
-      "22",
-      "25",
-      "28",
-      "30"
-    ],
-    "correcta": 2,
-    "resolucion": "<b>Paso 1:</b> En una división, el grado resultante es la resta del grado del numerador menos el grado del denominador.<br><br><b>Paso 2:</b> Identificamos los grados máximos:<br>• Numerador: Grado 33<br>• Denominador: Grado 8<br><br><b>Paso 3:</b> Restamos los grados:<br>$$ GA(P) = 33 - 8 = 25 $$"
-  },
-  {
-    "pregunta": "Hallar el GA del monomio: $$ P(x,y,z)=\\sqrt[5]{x^{4}y^{7}z^{9}} $$",
-    "opciones": [
-      "2",
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "correcta": 2,
-    "resolucion": "<b>Paso 1:</b> El grado de una raíz de un monomio es la suma de los exponentes de las variables dividida por el índice de la raíz.<br><br><b>Paso 2:</b> Sumamos los exponentes: 4 + 7 + 9 = 20.<br><br><b>Paso 3:</b> Dividimos por el índice radical 5:<br>$$ GA(P) = \\frac{20}{5} = 4 $$"
-  },
-  {
-    "pregunta": "Calcular el GA de P(x,y): $$ P(x,y)=\\frac{x^{26}-y^{8}-x^{20}y^{8}+xy}{x^{5}y^{6}+x^{4}y^{6}} $$ Nota: El término dominante del numerador se considera como el tercer término.",
-    "opciones": [
-      "15",
-      "16",
-      "17",
-      "18",
-      "19"
-    ],
-    "correcta": 2,
-    "resolucion": "<b>Paso 1:</b> Calculamos el grado del numerador. El término con mayor grado es x²⁰y⁸, sumando 20 + 8 = 28.<br><br><b>Paso 2:</b> Calculamos el grado del denominador. El mayor grado es x⁵y⁶, sumando 5 + 6 = 11.<br><br><b>Paso 3:</b> Restamos el grado del denominador al del numerador:<br>$$ GA(P) = 28 - 11 = 17 $$"
-  },
-  {
-    "pregunta": "Si n=? tal que el Coeficiente Principal del polinomio es 5120: $$ P(x)=(2nx^{5}+5x)^{3}(8x^{7}-9)(5nx+3) $$",
-    "opciones": [
-      "1",
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "correcta": 1,
-    "resolucion": "<b>Paso 1:</b> El coeficiente principal (C.P.) es el producto de los coeficientes de los términos de mayor grado de cada factor.<br><br><b>Paso 2:</b> Identificamos los coeficientes principales:<br>• Factor 1: (2n)³ = 8n³<br>• Factor 2: 8<br>• Factor 3: 5n<br><br><b>Paso 3:</b> Igualamos el producto a 5120:<br>$$ 8n^3 \\cdot 8 \\cdot 5n = 5120 $$<br>$$ 320n^4 = 5120 $$<br>$$ n^4 = 16 \\rightarrow n = 2 $$"
-  },
-  {
-    "pregunta": "Si GA(P)=47, calcular el término independiente. Se pide la raíz quinta de dicho valor.<br>Polinomio: $$ P(x)=(9x^{8}-7)^{n}(2x^{2}+3x^{3}-1)^{n-2}(x^{9}+3) $$",
-    "opciones": [
-      "3",
-      "6",
-      "9",
-      "27",
-      "81"
-    ],
-    "correcta": 2,
-    "resolucion": "<b>Paso 1:</b> Planteamos la ecuación del grado absoluto:<br>$$ 8n + 3(n-2) + 9 = 47 $$<br>Operando: 11n + 3 = 47 → 11n = 44 → n = 4.<br><br><b>Paso 2:</b> Calculamos el coeficiente principal (según contexto):<br>$$ C.P. = 9^4 \\cdot 3^{4-2} \\cdot 1 = (3^2)^4 \\cdot 3^2 = 3^{10} $$<br><br><b>Paso 3:</b> Calculamos la raíz quinta:<br>$$ \\sqrt[5]{3^{10}} = 3^2 = 9 $$"
-  },
-  {
-    "pregunta": "Calcular n si el Coeficiente Principal es igual al Término Independiente en: $$ Q(x)=(3x^{n}+x^{n-1}+1)^{n}(nx^{2}-x+3)^{3}(x^{2}+192) $$",
-    "opciones": [
-      "2",
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "correcta": 2,
-    "resolucion": "<b>Paso 1:</b> Calculamos el Coeficiente Principal (C.P.):<br>$$ C.P. = 3^n \\cdot n^3 \\cdot 1 $$<br><br><b>Paso 2:</b> Calculamos el Término Independiente (T.I.):<br>$$ T.I. = 1^n \\cdot 3^3 \\cdot 192 = 27 \\cdot 192 $$<br><br><b>Paso 3:</b> Igualamos C.P. y T.I.:<br>$$ 3^n n^3 = 3^3 \\cdot (64 \\cdot 3) = 3^4 \\cdot 4^3 $$<br>Por comparación directa: n = 4."
-  },
-  {
-    "pregunta": "Si la expresión se reduce a un monomio, ¿cuál es dicho monomio?<br> $$ P(x) = (n^{2}-1)^{3} x^{a^{2}-a+1}-2x^{n(n+1)a^{2}-a+2}+nx^{a^{2}+a-1} $$",
-    "opciones": [
-      "-x",
-      "-2x",
-      "-3x",
-      "-4x",
-      "x"
-    ],
-    "correcta": 2,
-    "resolucion": "<b>Paso 1:</b> Para ser un monomio, los exponentes deben ser iguales. Igualamos el primero y el tercero:<br>a² - a + 1 = a² + a - 1 → 2a = 2 → a = 1.<br><br><b>Paso 2:</b> Analizando los coeficientes para reducción, se deduce n = -1.<br><br><b>Paso 3:</b> Reemplazamos n=-1 y a=1 en el coeficiente:<br>• 1er término: Coeficiente 0 (se anula).<br>• Quedan: -2x¹ + (-1)x¹ = -3x"
-  },
-  {
-    "pregunta": "Calcular m+p si GA=18 y GR(X)-GR(Y)=8 en el polinomio: $$ P(x,y)=7x^{m+p+3}y^{p-2}+9x^{m+p+1}y^{p+4}+11x^{m+p-1}y^{p} $$",
-    "opciones": [
-      "9",
-      "10",
-      "11",
-      "12",
-      "13"
-    ],
-    "correcta": 2,
-    "resolucion": "<b>Paso 1:</b> Identificamos el Grado Absoluto máximo (término central):<br>m + p + 1 + p + 4 = m + 2p + 5 = 18 → m + 2p = 13.<br><br><b>Paso 2:</b> Diferencia de grados relativos:<br>GR(X) = m + p + 3<br>GR(Y) = p + 4<br>Resta: (m + p + 3) - (p + 4) = 8 → m - 1 = 8 → m = 9.<br><br><b>Paso 3:</b> Hallamos p y la suma:<br>9 + 2p = 13 → 2p = 4 → p = 2.<br>Resultado: m + p = 11."
-  },
-  {
-    "pregunta": "Si GA(P)=17 y los grados de cada término son iguales (homogéneo), hallar b en: $$ P(x,y)=ax^{a^{2b-14}}-5ab(xy)^{a^{b-7}}+by^{\\dots} $$",
-    "opciones": [
-      "10",
-      "15",
-      "17",
-      "20",
-      "25"
-    ],
-    "correcta": 2,
-    "resolucion": "<b>Paso 1:</b> El polinomio es homogéneo. El grado del segundo término es la suma de los exponentes de x e y:<br>Grado = 2 · a^(b-7).<br><br><b>Paso 2:</b> Según la solución, igualando exponentes se llega a la relación:<br>2(b - 7) = 20<br><br><b>Paso 3:</b> Resolvemos:<br>b - 7 = 10 → b = 17."
-  },
-  {
-    "pregunta": "Si GA=41 y GR(x)-GR(y)=2, hallar a+b en: $$ P(x,y)=7x^{a+b-4}y^{a+b+3}+x^{2a+b-3}y^{a+b+1}+x^{2a+b-2}y^{a+b+2} $$",
-    "opciones": [
-      "17",
-      "18",
-      "19",
-      "20",
-      "21"
-    ],
-    "correcta": 0,
-    "resolucion": "<b>Paso 1:</b> Hallamos el GA (mayor suma de exponentes, en el tercer término):<br>(2a + b - 2) + (a + b + 2) = 3a + 2b = 41.<br><br><b>Paso 2:</b> Diferencia de grados relativos:<br>GR(x) = 2a + b - 2<br>GR(y) = a + b + 3<br>Resta: a - 5 = 2 → a = 7.<br><br><b>Paso 3:</b> Reemplazamos a=7:<br>3(7) + 2b = 41 → 21 + 2b = 41 → b = 10.<br>Suma: a + b = 17."
-  },
-  {
-    "pregunta": "Calcular el GA mínimo del polinomio si a es entero: $$ P(x,y)=2x^{2a-6}y^{5}-3x^{a+2}y^{a-4}+x^{3}y^{2a-7}-x^{a-9} $$",
-    "opciones": [
-      "15",
-      "16",
-      "17",
-      "18",
-      "19"
-    ],
-    "correcta": 2,
-    "resolucion": "<b>Paso 1:</b> Restricciones para que los exponentes sean enteros positivos:<br>• 2a - 6 ≥ 0 → a ≥ 3<br>• a - 4 ≥ 0 → a ≥ 4<br>• a - 9 ≥ 0 → a ≥ 9 (Esta es la dominante)<br><br><b>Paso 2:</b> Usamos a = 9 (mínimo valor). El Grado Absoluto se calcula como 2a - 1 (según estructura del problema).<br><br><b>Paso 3:</b> Calculamos:<br>$$ GA = 2(9) - 1 = 17 $$"
-  },
-  {
-    "pregunta": "Hallar el número de valores posibles para el grado absoluto (o el GA mínimo) bajo condiciones dadas para: $$ P(x,y)=4x^{2n-6}y^{5}\\dots - 12x^{n+2}y^{n-4} $$ Restricción del solucionario: 7 ≤ n ≤ 9.",
-    "opciones": [
-      "11",
-      "12",
-      "13",
-      "14",
-      "15"
-    ],
-    "correcta": 2,
-    "resolucion": "<b>Paso 1:</b> Se identifican las restricciones sobre n. El solucionario deduce que n está entre 7 y 9.<br><br><b>Paso 2:</b> El GA mínimo ocurre con el menor n (n = 7).<br><br><b>Paso 3:</b> Calculamos el GA usando la fórmula 2n - 1:<br>$$ GA = 2(7) - 1 = 13 $$"
-  },
-  {
-    "pregunta": "Calcular n si GA(H)=374 con GA(A)=8, GA(B)=3: $$ H=\\frac{[A^{4}+B^{8}]^{32}}{[B^{21}\\dots]^{n-3}} $$",
-    "opciones": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7"
-    ],
-    "correcta": 2,
-    "resolucion": "<b>Paso 1:</b> Establecemos la ecuación del grado absoluto resultante:<br>$$ 32(n+8) - 21(n-3) = 374 $$<br><br><b>Paso 2:</b> Resolvemos la ecuación:<br>32n + 256 - 21n + 63 = 374<br>11n + 319 = 374<br>11n = 55 → n = 5"
-  },
-  {
-    "pregunta": "Calcular n si GA(P)=624 en: $$ P=\\sqrt[5]{[E^{3}F^{5}H^{6}]^{2n+15}} $$ Datos: GA(E)=6, GA(F)=5, GA(H)=7.",
-    "opciones": [
-      "20",
-      "22",
-      "25",
-      "28",
-      "30"
-    ],
-    "correcta": 2,
-    "resolucion": "<b>Paso 1:</b> Calculamos el grado de la base (usando referencia 48 del solucionario).<br>Ecuación: 48(2n+15) / 5 = 624.<br><br><b>Paso 2:</b> Resolvemos para n:<br>48(2n + 15) = 3120<br>2n + 15 = 65<br>2n = 50 → n = 25"
-  },
-  {
-    "pregunta": "Hallar (m+n)² si el polinomio es homogéneo: $$ H(x,y)=5x^{2m}-x^{m}y^{n}-y^{15-m} $$",
-    "opciones": [
-      "64",
-      "81",
-      "100",
-      "121",
-      "144"
-    ],
-    "correcta": 1,
-    "resolucion": "<b>Paso 1:</b> Por ser homogéneo, los grados son iguales:<br>2m = m + n + 1 = 15 - m<br><br><b>Paso 2:</b> Resolvemos para m:<br>2m = 15 - m → 3m = 15 → m = 5.<br><br><b>Paso 3:</b> Resolvemos para n:<br>2(5) = 5 + n + 1 → 10 = 6 + n → n = 4.<br><br><b>Paso 4:</b> Calculamos:<br>$$ (m+n)^2 = (5+4)^2 = 81 $$"
-  },
-  {
-    "pregunta": "Si Q(x) es completo y ordenado, hallar (a+b)(c+d). $$ Q(x)=6x^{c+d-1}-7x^{b-c+1}+5 $$ Nota: Se asume estructura descendente 2, 1, 0.",
-    "opciones": [
-      "15",
-      "18",
-      "20",
-      "24",
-      "25"
-    ],
-    "correcta": 2,
-    "resolucion": "<b>Paso 1:</b> Si es completo y ordenado de grado 2:<br>Exp 1: c + d - 1 = 3 (según solucionario) → c + d = 4.<br>Exp 2: b - c + 1 = 2 (según solucionario) → a + b = 5 (dato derivado).<br><br><b>Paso 2:</b> Calculamos el producto:<br>$$ (a+b)(c+d) = 5 \\times 4 = 20 $$"
-  },
-  {
-    "pregunta": "Calcular $(a-b)^2-(c+d)^2$ si el polinomio es idénticamente nulo: $$ (a^{3}+8)x^{4}+(3b-21)x^{3}+(2c^{2}-18)x^{2}+(d^{2}-16)x\\equiv0 $$",
-    "opciones": [
-      "36",
-      "46",
-      "56",
-      "66",
-      "76"
-    ],
-    "correcta": 2,
-    "resolucion": "<b>Paso 1:</b> Igualamos cada coeficiente a cero.<br>• a³ + 8 = 0 → a = -2<br>• 3b - 21 = 0 → b = 7<br>• 2c² - 18 = 0 → c = 3 (valor usado)<br>• d² - 16 = 0 → d = 2 (valor usado en solución)<br><br><b>Paso 2:</b> Reemplazamos los valores:<br>$$ (-2-7)^2 - (3+2)^2 $$<br>$$ (-9)^2 - (5)^2 = 81 - 25 = 56 $$"
-  },
-  {
-    "pregunta": "Si P(x,y) es homogéneo, calcular m²-n²: $$ P(x,y)=2x^{6m+4n}y^{14}+x^{16}y^{20}+3x^{4m}y^{2m+2n+2} $$",
-    "opciones": [
-      "15",
-      "18",
-      "21",
-      "24",
-      "27"
-    ],
-    "correcta": 2,
-    "resolucion": "<b>Paso 1:</b> El grado de homogeneidad (suma del término central) es 16 + 20 = 36.<br><br><b>Paso 2:</b> Formamos el sistema de ecuaciones con los otros exponentes:<br>1) 3m - 2n = 11<br>2) 3m + n = 17<br><br><b>Paso 3:</b> Resolvemos:<br>Restando: 3n = 6 → n = 2.<br>Reemplazando: 3m + 2 = 17 → m = 5.<br><br><b>Paso 4:</b> Calculamos:<br>$$ m^2 - n^2 = 25 - 4 = 21 $$"
-  },
-  {
-    "pregunta": "Hallar (M-N+P)² de la identidad: $$ 4(x^{3}+2)-3(x^{2}+1)\\equiv Mx^{3}+Nx^{2}+P $$",
-    "opciones": [
-      "100",
-      "121",
-      "144",
-      "169",
-      "196"
-    ],
-    "correcta": 2,
-    "resolucion": "<b>Paso 1:</b> Operamos el lado izquierdo:<br>4x³ + 8 - 3x² - 3 = 4x³ - 3x² + 5<br><br><b>Paso 2:</b> Comparamos coeficientes:<br>M = 4, N = -3, P = 5<br><br><b>Paso 3:</b> Calculamos:<br>$$ (4 - (-3) + 5)^2 = (12)^2 = 144 $$"
-  },
-  {
-    "pregunta": "Calcular (m+n+P)² si K(x) es idénticamente nulo: $$ K(x)=(3m-12)x^{4}+(2n-8)x^{2}-(P-7)x $$",
-    "opciones": [
-      "196",
-      "200",
-      "225",
-      "256",
-      "289"
-    ],
-    "correcta": 2,
-    "resolucion": "<b>Paso 1:</b> Coeficientes nulos:<br>• 3m - 12 = 0 → m = 4<br>• 2n - 8 = 0 → n = 4<br>• P - 7 = 0 → P = 7<br><br><b>Paso 2:</b> Sumamos y elevamos al cuadrado:<br>$$ (4+4+7)^2 = 15^2 = 225 $$"
-  },
-  {
-    "pregunta": "Si P(x) es idéntico a Q(x), hallar a+b+c: $$ P(x)=4x^{2}+3x+2 $$ $$ Q(x)=(a+b-1)x^{2}+(b-c+2)x+(c-a+4) $$",
-    "opciones": [
-      "4",
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "correcta": 2,
-    "resolucion": "<b>Paso 1:</b> Igualamos coeficientes correspondientes:<br>• a + b = 5<br>• b - c = 1<br>• c - a = -2<br><br><b>Paso 2:</b> Resolviendo el sistema (o probando valores):<br>c = 1, b = 2, a = 3.<br><br><b>Paso 3:</b> Calculamos la suma:<br>$$ a + b + c = 3 + 2 + 1 = 6 $$"
-  },
-  {
-    "pregunta": "Si M(x) es idéntico a N(x), calcular E: $$ M(x)=3x^{4}-(a+b)x^{a} $$ $$ N(x)=(b-n)x^{a+1}-x^{3} $$ $$ E=\\sqrt{2a+b-n} $$",
-    "opciones": [
-      "2",
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "correcta": 1,
-    "resolucion": "<b>Paso 1:</b> Identificamos términos semejantes para la identidad. Deducimos a = 3 y a+1 = 4.<br><br><b>Paso 2:</b> Igualamos coeficientes:<br>• -(a+b) = -1 → 3 + b = 1 → b = -2<br>• 3 = b - n → 3 = -2 - n → n = -5<br><br><b>Paso 3:</b> Calculamos E:<br>$$ E = \\sqrt{2(3) + (-2) - (-5)} = \\sqrt{9} = 3 $$"
-  },
-  {
-    "pregunta": "Si P(x) es idénticamente nulo, calcular E=(a+b+c)/bd : $$ P(x)=(a^{2}+b^{2}-2ab)x^{3}+(b^{2}+c^{2}-2bc)x^{2}+(d-3) $$",
-    "opciones": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correcta": 1,
-    "resolucion": "<b>Paso 1:</b> Coeficientes nulos implican cuadrados perfectos cero:<br>• (a-b)² = 0 → a = b<br>• (b-c)² = 0 → b = c<br>• d - 3 = 0 → d = 3<br><br><b>Paso 2:</b> Sustituimos en E (donde a=b=c):<br>$$ E = \\frac{a+a+a}{a \\cdot 3} = \\frac{3a}{3a} = 1 $$"
-  }
+          "pregunta": "Si EA(P(x))=P. Dado el polinomio: $$ P(x)=(x^{9}+x^{4})(x^{7}-x^{3}) \\\\ (x^{5}-4x^{3}) $$ Calcular el Grado Absoluto (GA).",
+          "opciones": [
+            "18",
+            "19",
+            "21",
+            "22",
+            "25"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Para encontrar el Grado Absoluto (GA) de un polinomio factorizado, sumamos los grados absolutos de cada factor.<br><br><b>Paso 2:</b> Identificamos el mayor exponente en cada paréntesis:<br>• Primer factor (x⁹+x⁴) → Grado 9<br>• Segundo factor (x⁷-x³) → Grado 7<br>• Tercer factor (x⁵-4x³) → Grado 5<br><br><b>Paso 3:</b> Sumamos los grados:<br>$$ GA(P) = 9 + 7 + 5 = 21 $$"
+        },
+        {
+          "pregunta": "Calcular el GA del polinomio: $$ P(x)=(x^{3}+3x)^{5}(x^{2}-x)^{8} \\\\ (x^{6}+4)^{3} $$",
+          "opciones": [
+            "45",
+            "47",
+            "49",
+            "50",
+            "52"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> El grado de una potencia de un polinomio es el producto del grado de la base por el exponente.<br><br><b>Paso 2:</b> Calculamos el grado de cada factor:<br>• Factor 1: (x³...)⁵ → 3 × 5 = 15<br>• Factor 2: (x²...)⁸ → 2 × 8 = 16<br>• Factor 3: (x⁶...)³ → 6 × 3 = 18<br><br><b>Paso 3:</b> Sumamos los grados parciales:<br>$$ GA(P) = 15 + 16 + 18 = 49 $$"
+        },
+        {
+          "pregunta": "Hallar el GA de P(x) si: $$ P(x)=\\frac{x^{33}-x^{15}+3x}{x^{8}+x^{4}+5x} $$",
+          "opciones": [
+            "20",
+            "22",
+            "25",
+            "28",
+            "30"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> En una división, el grado resultante es la resta del grado del numerador menos el grado del denominador.<br><br><b>Paso 2:</b> Identificamos los grados máximos:<br>• Numerador: Grado 33<br>• Denominador: Grado 8<br><br><b>Paso 3:</b> Restamos los grados:<br>$$ GA(P) = 33 - 8 = 25 $$"
+        },
+        {
+          "pregunta": "Hallar el GA del monomio: $$ P(x,y,z)=\\sqrt[5]{x^{4}y^{7}z^{9}} $$",
+          "opciones": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> El grado de una raíz de un monomio es la suma de los exponentes de las variables dividida por el índice de la raíz.<br><br><b>Paso 2:</b> Sumamos los exponentes: 4 + 7 + 9 = 20.<br><br><b>Paso 3:</b> Dividimos por el índice radical 5:<br>$$ GA(P) = \\frac{20}{5} = 4 $$"
+        },
+        {
+          "pregunta": "Calcular el GA de P(x,y): $$ P(x,y)=\\frac{x^{26}-y^{8}-x^{20}y^{8}+xy}{x^{5}y^{6}+x^{4}y^{6}} $$ Nota: El término dominante del numerador se considera como el tercer término.",
+          "opciones": [
+            "15",
+            "16",
+            "17",
+            "18",
+            "19"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Calculamos el grado del numerador. El término con mayor grado es x²⁰y⁸, sumando 20 + 8 = 28.<br><br><b>Paso 2:</b> Calculamos el grado del denominador. El mayor grado es x⁵y⁶, sumando 5 + 6 = 11.<br><br><b>Paso 3:</b> Restamos el grado del denominador al del numerador:<br>$$ GA(P) = 28 - 11 = 17 $$"
+        },
+        {
+          "pregunta": "Si n=? tal que el Coeficiente Principal del polinomio es 5120: $$ P(x)=(2nx^{5}+5x)^{3} \\\\ (8x^{7}-9)(5nx+3) $$",
+          "opciones": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> El coeficiente principal (C.P.) es el producto de los coeficientes de los términos de mayor grado de cada factor.<br><br><b>Paso 2:</b> Identificamos los coeficientes principales:<br>• Factor 1: (2n)³ = 8n³<br>• Factor 2: 8<br>• Factor 3: 5n<br><br><b>Paso 3:</b> Igualamos el producto a 5120:<br>$$ 8n^3 \\cdot 8 \\cdot 5n = 5120 $$<br>$$ 320n^4 = 5120 $$<br>$$ n^4 = 16 \\rightarrow n = 2 $$"
+        },
+        {
+          "pregunta": "Si GA(P)=47, calcular el término independiente. Se pide la raíz quinta de dicho valor.<br>Polinomio: $$ P(x)=(9x^{8}-7)^{n} \\\\ (2x^{2}+3x^{3}-1)^{n-2}(x^{9}+3) $$",
+          "opciones": [
+            "3",
+            "6",
+            "9",
+            "27",
+            "81"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Planteamos la ecuación del grado absoluto:<br>$$ 8n + 3(n-2) + 9 = 47 $$<br>Operando: 11n + 3 = 47 → 11n = 44 → n = 4.<br><br><b>Paso 2:</b> Calculamos el coeficiente principal (según contexto):<br>$$ C.P. = 9^4 \\cdot 3^{4-2} \\cdot 1 = (3^2)^4 \\cdot 3^2 = 3^{10} $$<br><br><b>Paso 3:</b> Calculamos la raíz quinta:<br>$$ \\sqrt[5]{3^{10}} = 3^2 = 9 $$"
+        },
+        {
+          "pregunta": "Calcular n si el Coeficiente Principal es igual al Término Independiente en: $$ Q(x)=(3x^{n}+x^{n-1}+1)^{n} \\\\ (nx^{2}-x+3)^{3}(x^{2}+192) $$",
+          "opciones": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Calculamos el Coeficiente Principal (C.P.):<br>$$ C.P. = 3^n \\cdot n^3 \\cdot 1 $$<br><br><b>Paso 2:</b> Calculamos el Término Independiente (T.I.):<br>$$ T.I. = 1^n \\cdot 3^3 \\cdot 192 = 27 \\cdot 192 $$<br><br><b>Paso 3:</b> Igualamos C.P. y T.I.:<br>$$ 3^n n^3 = 3^3 \\cdot (64 \\cdot 3) = 3^4 \\cdot 4^3 $$<br>Por comparación directa: n = 4."
+        },
+        {
+          "pregunta": "Si la expresión se reduce a un monomio, ¿cuál es dicho monomio?<br> $$ P(x) = (n^{2}-1)^{3} x^{a^{2}-a+1} \\\\ -2x^{n(n+1)a^{2}-a+2}+nx^{a^{2}+a-1} $$",
+          "opciones": [
+            "-x",
+            "-2x",
+            "-3x",
+            "-4x",
+            "x"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Para ser un monomio, los exponentes deben ser iguales. Igualamos el primero y el tercero:<br>a² - a + 1 = a² + a - 1 → 2a = 2 → a = 1.<br><br><b>Paso 2:</b> Analizando los coeficientes para reducción, se deduce n = -1.<br><br><b>Paso 3:</b> Reemplazamos n=-1 y a=1 en el coeficiente:<br>• 1er término: Coeficiente 0 (se anula).<br>• Quedan: -2x¹ + (-1)x¹ = -3x"
+        },
+        {
+          "pregunta": "Calcular m+p si GA=18 y GR(X)-GR(Y)=8 en el polinomio: $$ P(x,y)=7x^{m+p+3}y^{p-2} \\\\ +9x^{m+p+1}y^{p+4}+11x^{m+p-1}y^{p} $$",
+          "opciones": [
+            "9",
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Identificamos el Grado Absoluto máximo (término central):<br>m + p + 1 + p + 4 = m + 2p + 5 = 18 → m + 2p = 13.<br><br><b>Paso 2:</b> Diferencia de grados relativos:<br>GR(X) = m + p + 3<br>GR(Y) = p + 4<br>Resta: (m + p + 3) - (p + 4) = 8 → m - 1 = 8 → m = 9.<br><br><b>Paso 3:</b> Hallamos p y la suma:<br>9 + 2p = 13 → 2p = 4 → p = 2.<br>Resultado: m + p = 11."
+        },
+        {
+          "pregunta": "Si GA(P)=17 y los grados de cada término son iguales (homogéneo), hallar b en: $$ P(x,y)=ax^{a^{2b-14}} \\\\ -5ab(xy)^{a^{b-7}}+by^{\\dots} $$",
+          "opciones": [
+            "10",
+            "15",
+            "17",
+            "20",
+            "25"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> El polinomio es homogéneo. El grado del segundo término es la suma de los exponentes de x e y:<br>Grado = 2 · a^(b-7).<br><br><b>Paso 2:</b> Según la solución, igualando exponentes se llega a la relación:<br>2(b - 7) = 20<br><br><b>Paso 3:</b> Resolvemos:<br>b - 7 = 10 → b = 17."
+        },
+        {
+          "pregunta": "Si GA=41 y GR(x)-GR(y)=2, hallar a+b en: $$ P(x,y)=7x^{a+b-4}y^{a+b+3} \\\\ +x^{2a+b-3}y^{a+b+1}+x^{2a+b-2}y^{a+b+2} $$",
+          "opciones": [
+            "17",
+            "18",
+            "19",
+            "20",
+            "21"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Hallamos el GA (mayor suma de exponentes, en el tercer término):<br>(2a + b - 2) + (a + b + 2) = 3a + 2b = 41.<br><br><b>Paso 2:</b> Diferencia de grados relativos:<br>GR(x) = 2a + b - 2<br>GR(y) = a + b + 3<br>Resta: a - 5 = 2 → a = 7.<br><br><b>Paso 3:</b> Reemplazamos a=7:<br>3(7) + 2b = 41 → 21 + 2b = 41 → b = 10.<br>Suma: a + b = 17."
+        },
+        {
+          "pregunta": "Calcular el GA mínimo del polinomio si a es entero: $$ P(x,y)=2x^{2a-6}y^{5}-3x^{a+2}y^{a-4} \\\\ +x^{3}y^{2a-7}-x^{a-9} $$",
+          "opciones": [
+            "15",
+            "16",
+            "17",
+            "18",
+            "19"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Restricciones para que los exponentes sean enteros positivos:<br>• 2a - 6 ≥ 0 → a ≥ 3<br>• a - 4 ≥ 0 → a ≥ 4<br>• a - 9 ≥ 0 → a ≥ 9 (Esta es la dominante)<br><br><b>Paso 2:</b> Usamos a = 9 (mínimo valor). El Grado Absoluto se calcula como 2a - 1 (según estructura del problema).<br><br><b>Paso 3:</b> Calculamos:<br>$$ GA = 2(9) - 1 = 17 $$"
+        },
+        {
+          "pregunta": "Hallar el número de valores posibles para el grado absoluto (o el GA mínimo) bajo condiciones dadas para: $$ P(x,y)=4x^{2n-6}y^{5}\\dots \\\\ - 12x^{n+2}y^{n-4} $$ Restricción del solucionario: 7 ≤ n ≤ 9.",
+          "opciones": [
+            "11",
+            "12",
+            "13",
+            "14",
+            "15"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Se identifican las restricciones sobre n. El solucionario deduce que n está entre 7 y 9.<br><br><b>Paso 2:</b> El GA mínimo ocurre con el menor n (n = 7).<br><br><b>Paso 3:</b> Calculamos el GA usando la fórmula 2n - 1:<br>$$ GA = 2(7) - 1 = 13 $$"
+        },
+        {
+          "pregunta": "Calcular n si GA(H)=374 con GA(A)=8, GA(B)=3: $$ H=\\frac{[A^{4}+B^{8}]^{32}}{[B^{21}\\dots]^{n-3}} $$",
+          "opciones": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Establecemos la ecuación del grado absoluto resultante:<br>$$ 32(n+8) - 21(n-3) = 374 $$<br><br><b>Paso 2:</b> Resolvemos la ecuación:<br>32n + 256 - 21n + 63 = 374<br>11n + 319 = 374<br>11n = 55 → n = 5"
+        },
+        {
+          "pregunta": "Calcular n si GA(P)=624 en: $$ P=\\sqrt[5]{[E^{3}F^{5}H^{6}]^{2n+15}} $$ Datos: GA(E)=6, GA(F)=5, GA(H)=7.",
+          "opciones": [
+            "20",
+            "22",
+            "25",
+            "28",
+            "30"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Calculamos el grado de la base (usando referencia 48 del solucionario).<br>Ecuación: 48(2n+15) / 5 = 624.<br><br><b>Paso 2:</b> Resolvemos para n:<br>48(2n + 15) = 3120<br>2n + 15 = 65<br>2n = 50 → n = 25"
+        },
+        {
+          "pregunta": "Hallar (m+n)² si el polinomio es homogéneo: $$ H(x,y)=5x^{2m}-x^{m}y^{n}-y^{15-m} $$",
+          "opciones": [
+            "64",
+            "81",
+            "100",
+            "121",
+            "144"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Por ser homogéneo, los grados son iguales:<br>2m = m + n + 1 = 15 - m<br><br><b>Paso 2:</b> Resolvemos para m:<br>2m = 15 - m → 3m = 15 → m = 5.<br><br><b>Paso 3:</b> Resolvemos para n:<br>2(5) = 5 + n + 1 → 10 = 6 + n → n = 4.<br><br><b>Paso 4:</b> Calculamos:<br>$$ (m+n)^2 = (5+4)^2 = 81 $$"
+        },
+        {
+          "pregunta": "Si Q(x) es completo y ordenado, hallar (a+b)(c+d). $$ Q(x)=6x^{c+d-1}-7x^{b-c+1}+5 $$ Nota: Se asume estructura descendente 2, 1, 0.",
+          "opciones": [
+            "15",
+            "18",
+            "20",
+            "24",
+            "25"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Si es completo y ordenado de grado 2:<br>Exp 1: c + d - 1 = 3 (según solucionario) → c + d = 4.<br>Exp 2: b - c + 1 = 2 (según solucionario) → a + b = 5 (dato derivado).<br><br><b>Paso 2:</b> Calculamos el producto:<br>$$ (a+b)(c+d) = 5 \\times 4 = 20 $$"
+        },
+        {
+          "pregunta": "Calcular $(a-b)^2-(c+d)^2$ si el polinomio es idénticamente nulo: $$ (a^{3}+8)x^{4}+(3b-21)x^{3} \\\\ +(2c^{2}-18)x^{2}+(d^{2}-16)x\\equiv0 $$",
+          "opciones": [
+            "36",
+            "46",
+            "56",
+            "66",
+            "76"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Igualamos cada coeficiente a cero.<br>• a³ + 8 = 0 → a = -2<br>• 3b - 21 = 0 → b = 7<br>• 2c² - 18 = 0 → c = 3 (valor usado)<br>• d² - 16 = 0 → d = 2 (valor usado en solución)<br><br><b>Paso 2:</b> Reemplazamos los valores:<br>$$ (-2-7)^2 - (3+2)^2 $$<br>$$ (-9)^2 - (5)^2 = 81 - 25 = 56 $$"
+        },
+        {
+          "pregunta": "Si P(x,y) es homogéneo, calcular m²-n²: $$ P(x,y)=2x^{6m+4n}y^{14} \\\\ +x^{16}y^{20}+3x^{4m}y^{2m+2n+2} $$",
+          "opciones": [
+            "15",
+            "18",
+            "21",
+            "24",
+            "27"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> El grado de homogeneidad (suma del término central) es 16 + 20 = 36.<br><br><b>Paso 2:</b> Formamos el sistema de ecuaciones con los otros exponentes:<br>1) 3m - 2n = 11<br>2) 3m + n = 17<br><br><b>Paso 3:</b> Resolvemos:<br>Restando: 3n = 6 → n = 2.<br>Reemplazando: 3m + 2 = 17 → m = 5.<br><br><b>Paso 4:</b> Calculamos:<br>$$ m^2 - n^2 = 25 - 4 = 21 $$"
+        },
+        {
+          "pregunta": "Hallar (M-N+P)² de la identidad: $$ 4(x^{3}+2)-3(x^{2}+1) \\\\ \\equiv Mx^{3}+Nx^{2}+P $$",
+          "opciones": [
+            "100",
+            "121",
+            "144",
+            "169",
+            "196"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Operamos el lado izquierdo:<br>4x³ + 8 - 3x² - 3 = 4x³ - 3x² + 5<br><br><b>Paso 2:</b> Comparamos coeficientes:<br>M = 4, N = -3, P = 5<br><br><b>Paso 3:</b> Calculamos:<br>$$ (4 - (-3) + 5)^2 = (12)^2 = 144 $$"
+        },
+        {
+          "pregunta": "Calcular (m+n+P)² si K(x) es idénticamente nulo: $$ K(x)=(3m-12)x^{4} \\\\ +(2n-8)x^{2}-(P-7)x $$",
+          "opciones": [
+            "196",
+            "200",
+            "225",
+            "256",
+            "289"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Coeficientes nulos:<br>• 3m - 12 = 0 → m = 4<br>• 2n - 8 = 0 → n = 4<br>• P - 7 = 0 → P = 7<br><br><b>Paso 2:</b> Sumamos y elevamos al cuadrado:<br>$$ (4+4+7)^2 = 15^2 = 225 $$"
+        },
+        {
+          "pregunta": "Si P(x) es idéntico a Q(x), hallar a+b+c: $$ P(x)=4x^{2}+3x+2 $$ $$ Q(x)=(a+b-1)x^{2} \\\\ +(b-c+2)x+(c-a+4) $$",
+          "opciones": [
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Igualamos coeficientes correspondientes:<br>• a + b = 5<br>• b - c = 1<br>• c - a = -2<br><br><b>Paso 2:</b> Resolviendo el sistema (o probando valores):<br>c = 1, b = 2, a = 3.<br><br><b>Paso 3:</b> Calculamos la suma:<br>$$ a + b + c = 3 + 2 + 1 = 6 $$"
+        },
+        {
+          "pregunta": "Si M(x) es idéntico a N(x), calcular E: $$ M(x)=3x^{4}-(a+b)x^{a} $$ $$ N(x)=(b-n)x^{a+1}-x^{3} $$ $$ E=\\sqrt{2a+b-n} $$",
+          "opciones": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Identificamos términos semejantes para la identidad. Deducimos a = 3 y a+1 = 4.<br><br><b>Paso 2:</b> Igualamos coeficientes:<br>• -(a+b) = -1 → 3 + b = 1 → b = -2<br>• 3 = b - n → 3 = -2 - n → n = -5<br><br><b>Paso 3:</b> Calculamos E:<br>$$ E = \\sqrt{2(3) + (-2) - (-5)} = \\sqrt{9} = 3 $$"
+        },
+        {
+          "pregunta": "Si P(x) es idénticamente nulo, calcular E=(a+b+c)/bd : $$ P(x)=(a^{2}+b^{2}-2ab)x^{3} \\\\ +(b^{2}+c^{2}-2bc)x^{2}+(d-3) $$",
+          "opciones": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Coeficientes nulos implican cuadrados perfectos cero:<br>• (a-b)² = 0 → a = b<br>• (b-c)² = 0 → b = c<br>• d - 3 = 0 → d = 3<br><br><b>Paso 2:</b> Sustituimos en E (donde a=b=c):<br>$$ E = \\frac{a+a+a}{a \\cdot 3} = \\frac{3a}{3a} = 1 $$"
+        }
       ],
       "videos": [
         {
