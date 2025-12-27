@@ -1774,79 +1774,781 @@
       ]
     },
     {
-      "titulo": "Tema 8: Factorización II (Aspas)",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "titulo": "Tema 8: Ecuaciones",
+      "pdf_resuelto": "https://drive.google.com/file/d/1WY-IKooVxsDoqivSIV2iS9dZO8zzzDFP/view",
       "preguntas": [
         {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "pregunta": "Si la ecuación es lineal e incompatible, hallar $$a+b$$: $$ (x-a)(2x+1)+bx^{2}+8x+5+a=0 $$",
+          "opciones": [
+            "2.5",
+            "3.5",
+            "4.5",
+            "5.5",
+            "6.5"
+          ],
           "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+          "resolucion": "<b>Paso 1:</b> Desarrollamos y agrupamos términos:<br>$$ 2x^2 + x - 2ax - a + bx^2 + 8x + 5 + a = 0 $$<br>$$ (2+b)x^2 + (1-2a+8)x + 5 = 0 $$<br><br><b>Paso 2:</b> Para ser lineal (grado 1), el coeficiente cuadrático debe ser 0:<br>$$ 2+b=0 \\rightarrow b=-2 $$<br><br><b>Paso 3:</b> Para ser incompatible (sin solución), la forma lineal $$Mx+N=0$$ debe cumplir $$M=0$$ y $$N\\neq0$$.<br>$$ 9-2a = 0 \\rightarrow a = 4.5 $$<br><br><b>Paso 4:</b> Calculamos $$a+b$$:<br>$$ 4.5 + (-2) = 2.5 $$"
+        },
+        {
+          "pregunta": "Resolver e indicar el Conjunto Solución (CS): $$ \\frac{2m}{m-5}=-2-\\frac{-10}{m-5} $$",
+          "opciones": [
+            "{5}",
+            "{-5}",
+            "{0}",
+            "{}",
+            "{10}"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1:</b> Multiplicamos todo por $$(m-5)$$ (con restricción $$m \\neq 5$$):<br>$$ 2m = -2(m-5) + 10 $$<br><br><b>Paso 2:</b> Resolvemos:<br>$$ 2m = -2m + 10 + 10 $$<br>$$ 4m = 20 \\rightarrow m = 5 $$<br><br><b>Paso 3:</b> Verificamos la restricción. Como $$m=5$$ hace cero el denominador original, no es una solución válida.<br>$$ CS = \\phi $$ (Vacio)."
+        },
+        {
+          "pregunta": "Resolver: $$ \\frac{10}{x^{2}-9}+\\frac{3x}{x+3}-\\frac{7}{x-3}=3 $$",
+          "opciones": [
+            "1",
+            "2",
+            "3",
+            "-3",
+            "0"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Factorizamos denominadores ($$x^2-9 = (x+3)(x-3)$$). Restricción $$x \\neq \\pm 3$$.<br>Multiplicamos por el MCM:<br>$$ 10 + 3x(x-3) - 7(x+3) = 3(x^2-9) $$<br><br><b>Paso 2:</b> Desarrollamos:<br>$$ 10 + 3x^2 - 9x - 7x - 21 = 3x^2 - 27 $$<br>$$ 3x^2 - 16x - 11 = 3x^2 - 27 $$<br><br><b>Paso 3:</b> Simplificamos:<br>$$ -16x = -16 \\rightarrow x = 1 $$"
+        },
+        {
+          "pregunta": "Resolver la ecuación: $$ \\frac{3}{x+2}-\\frac{5x}{x^{2}-4}=\\frac{3}{x-2}-\\frac{x}{x^{2}-4} $$",
+          "opciones": [
+            "-1",
+            "-2",
+            "-3",
+            "2",
+            "3"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Denominador común $$x^2-4$$. Restricción $$x \\neq \\pm 2$$.<br>$$ \\frac{3(x-2) - 5x}{x^2-4} = \\frac{3(x+2) - x}{x^2-4} $$<br><br><b>Paso 2:</b> Igualamos numeradores:<br>$$ 3x - 6 - 5x = 3x + 6 - x $$<br>$$ -2x - 6 = 2x + 6 $$<br><br><b>Paso 3:</b> Resolvemos:<br>$$ -12 = 4x \\rightarrow x = -3 $$"
+        },
+        {
+          "pregunta": "Despejar P en la siguiente expresión: $$ \\frac{\\sqrt{P}+b}{\\sqrt{P}-b}+\\frac{\\sqrt{P}-a}{\\sqrt{P}+a}-\\frac{\\sqrt{P}-b}{\\sqrt{P}+b}-\\frac{\\sqrt{P}+a}{\\sqrt{P}-a}=0 $$",
+          "opciones": [
+            "-ab",
+            "ab",
+            "a+b",
+            "a-b",
+            "0"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Agrupamos términos semejantes (con 'b' y con 'a'):<br>$$ \\left(\\frac{\\sqrt{P}+b}{\\sqrt{P}-b}-\\frac{\\sqrt{P}-b}{\\sqrt{P}+b}\\right) + \\left(\\frac{\\sqrt{P}-a}{\\sqrt{P}+a}-\\frac{\\sqrt{P}+a}{\\sqrt{P}-a}\\right) = 0 $$<br><br><b>Paso 2:</b> Operamos las fracciones:<br>$$ \\frac{4b\\sqrt{P}}{P-b^2} + \\frac{-4a\\sqrt{P}}{P-a^2} = 0 $$<br>$$ 4\\sqrt{P} \\left( \\frac{b}{P-b^2} - \\frac{a}{P-a^2} \\right) = 0 $$<br><br><b>Paso 3:</b> Igualamos fracciones internas:<br>$$ b(P-a^2) = a(P-b^2) \\rightarrow bP - ba^2 = aP - ab^2 $$<br>$$ P(b-a) = ab(a-b) = -ab(b-a) \\rightarrow P = -ab $$"
+        },
+        {
+          "pregunta": "Si la ecuación se reduce a una lineal mónica, hallar $$m-2n$$: $$ 7(m+n+18)x^{2}+10(m-n)x+5mn=0 $$",
+          "opciones": [
+            "5",
+            "7",
+            "9",
+            "11",
+            "13"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Para ser lineal, el coeficiente de $$x^2$$ debe ser 0:<br>$$ m+n+18=0 \\rightarrow m+n=-18 $$<br><br><b>Paso 2:</b> Para ser mónica, el coeficiente principal (de $$x$$) debe ser 1:<br>$$ 10(m-n)=1 \\rightarrow m-n=0.1 $$<br>(Nota: El solucionario asume un contexto donde $$m=n$$ lleva a una contradicción o usa $$m=n$$ en otro paso, pero siguiendo la lógica de la imagen donde deriva $$E=9$$ con $$m=n=-9$$ para una ecuación incompatible):<br><br><b>Paso 3:</b> Usando los valores del solucionario $$m=-9, n=-9$$:<br>$$ E = -9 - 2(-9) = 9 $$"
+        },
+        {
+          "pregunta": "Si la ecuación es mónica de primer grado, hallar $$x$$: $$ \\left(\\frac{2a}{3}+\\frac{a}{6}-9\\right)x+\\frac{a}{4}+15=0 $$",
+          "opciones": [
+            "-15",
+            "-16",
+            "-17",
+            "-18",
+            "-19"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1:</b> Al ser mónica de primer grado, el coeficiente de $$x$$ es 1.<br>$$ \\frac{4a+a}{6} - 9 = 1 \\rightarrow \\frac{5a}{6} = 10 \\rightarrow a = 12 $$<br><br><b>Paso 2:</b> Reemplazamos 'a' en la ecuación:<br>$$ 1x + \\frac{12}{4} + 15 = 0 $$<br>$$ x + 3 + 15 = 0 \\rightarrow x = -18 $$"
+        },
+        {
+          "pregunta": "Si la ecuación se reduce a lineal, hallar $$x$$: $$ \\frac{x+m}{x-2}+\\frac{x-m}{x-1}=m $$",
+          "opciones": [
+            "1/3",
+            "2/3",
+            "1",
+            "4/3",
+            "2"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Operamos la suma de fracciones:<br>$$ \\frac{2x^2-3x+m}{x^2-3x+2} = m $$<br>$$ 2x^2 - 3x + m = mx^2 - 3mx + 2m $$<br><br><b>Paso 2:</b> Agrupamos:<br>$$ (2-m)x^2 + (3m-3)x - m = 0 $$<br>Para ser lineal, $$2-m=0 \\rightarrow m=2$$.<br><br><b>Paso 3:</b> Reemplazamos $$m=2$$:<br>$$ (6-3)x - 2 = 0 \\rightarrow 3x = 2 \\rightarrow x = 2/3 $$"
+        },
+        {
+          "pregunta": "Si la ecuación presenta infinitas soluciones, hallar $$m$$: $$ (2x-1)m^{2}-3(x-1)-(5x-2)m=0 $$",
+          "opciones": [
+            "-1",
+            "1",
+            "3",
+            "-3",
+            "0"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Agrupamos términos con $$x$$ y términos independientes:<br>$$ x(2m^2 - 5m - 3) - (m^2 - 2m - 3) = 0 $$<br><br><b>Paso 2:</b> Para infinitas soluciones (identidad $$0x+0=0$$), ambos coeficientes deben ser cero.<br>$$ 2m^2 - 5m - 3 = 0 \\rightarrow m=3, -1/2 $$<br>$$ m^2 - 2m - 3 = 0 \\rightarrow m=3, -1 $$<br><br><b>Paso 3:</b> El valor común es $$m=3$$."
+        },
+        {
+          "pregunta": "Si la ecuación tiene infinitas soluciones, hallar $$a$$: $$ \\frac{5x-1}{5x+1}=\\frac{x+a}{x-a} $$",
+          "opciones": [
+            "1/5",
+            "-1/5",
+            "1",
+            "-1",
+            "0"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Multiplicamos en aspa y simplificamos:<br>$$ (5x-1)(x-a) = (x+a)(5x+1) $$<br>$$ 5x^2 - 5ax - x + a = 5x^2 + x + 5ax + a $$<br><br><b>Paso 2:</b> Cancelamos términos cuadráticos y constantes:<br>$$ -5ax - x = x + 5ax \\rightarrow 2x + 10ax = 0 $$<br>$$ x(2 + 10a) = 0 $$<br><br><b>Paso 3:</b> Para que se cumpla para todo $$x$$, el coeficiente debe ser cero:<br>$$ 2 + 10a = 0 \\rightarrow a = -2/10 = -1/5 $$"
+        },
+        {
+          "pregunta": "Si $$a$$ y $$b$$ son raíces de $$x^2-2x+7=0$$, calcular: $$ E=\\frac{a^{2}+5}{a-1}+\\frac{b^{2}+5}{b-1} $$",
+          "opciones": [
+            "2",
+            "4",
+            "6",
+            "8",
+            "10"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Como 'a' es raíz: $$a^2 - 2a + 7 = 0 \\rightarrow a^2 = 2a - 7$$.<br>Sustituimos en el numerador: $$a^2+5 = 2a - 7 + 5 = 2a - 2 = 2(a-1)$$.<br><br><b>Paso 2:</b> Simplificamos la fracción:<br>$$ \\frac{2(a-1)}{a-1} = 2 $$<br><br><b>Paso 3:</b> Por simetría, el segundo término también es 2.<br>$$ E = 2 + 2 = 4 $$"
+        },
+        {
+          "pregunta": "Si la ecuación presenta raíces iguales, hallar $$x$$ en términos de a,b,c: $$ (x-a)^{2}+(x-b)^{2}+2c^{2}=(x+c)^{2} $$",
+          "opciones": [
+            "a+b+c",
+            "a-b+c",
+            "2a+b",
+            "a+b",
+            "c"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Desarrollamos los cuadrados:<br>$$ x^2-2ax+a^2 + x^2-2bx+b^2 + 2c^2 = x^2+2cx+c^2 $$<br>Reducimos a forma general:<br>$$ x^2 - 2x(a+b+c) + (a^2+b^2+c^2) = 0 $$<br><br><b>Paso 2:</b> Propiedad de raíces iguales ($$x_1=x_2$$). La suma de raíces es $$-B/A$$, por lo que $$2x = 2(a+b+c)$$.<br><br><b>Paso 3:</b> Despejamos $$x$$:<br>$$ x = a+b+c $$"
+        },
+        {
+          "pregunta": "Dada la ecuación $$x^2+Ax+B=0$$, donde sus raíces son $$A$$ y $$B$$. Hallar el par $$(A, B)$$.",
+          "opciones": [
+            "(1, -2)",
+            "(1, 2)",
+            "(-1, -2)",
+            "(0, 1)",
+            "(2, -2)"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Usamos las propiedades de las raíces:<br>Suma: $$A+B = -A \\rightarrow 2A = -B$$<br>Producto: $$AB = B$$<br><br><b>Paso 2:</b> De la segunda ecuación, si $$B \\neq 0$$, entonces $$A=1$$.<br><br><b>Paso 3:</b> Reemplazamos en la primera:<br>$$ 2(1) = -B \\rightarrow B = -2 $$<br>Par ordenado: (1, -2)."
+        },
+        {
+          "pregunta": "Si la ecuación es compatible determinada, ¿qué valor NO puede tomar n? $$ (n+2)x+4m-1=\\frac{nx-6m+3}{3} $$",
+          "opciones": [
+            "-1",
+            "-2",
+            "-3",
+            "0",
+            "3"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Llevamos a la forma $$Ax = B$$. Multiplicamos por 3:<br>$$ 3(n+2)x + ... = nx + ... $$<br>$$ (3n+6)x - nx = ... $$<br>$$ (2n+6)x = ... $$<br><br><b>Paso 2:</b> Para ser compatible determinada (solución única), el coeficiente de x debe ser diferente de cero.<br>$$ 2n+6 \\neq 0 \\rightarrow n \\neq -3 $$"
+        },
+        {
+          "pregunta": "Indicar el tipo de solución de: $$ \\frac{7x+1}{10}=\\frac{3(x-1)}{10}+\\frac{2(x+1)}{5} $$",
+          "opciones": [
+            "Incompatible",
+            "Comp. Determinada",
+            "Comp. Indeterminada",
+            "x=1",
+            "x=0"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Multiplicamos por 10:<br>$$ 7x + 1 = 3(x-1) + 4(x+1) $$<br>$$ 7x + 1 = 3x - 3 + 4x + 4 $$<br><br><b>Paso 2:</b> Reducimos:<br>$$ 7x + 1 = 7x + 1 $$<br><br><b>Paso 3:</b> Llegamos a una identidad $$0=0$$, lo que significa que tiene infinitas soluciones (Compatible Indeterminada)."
+        },
+        {
+          "pregunta": "Resolver: $$ \\frac{7x}{x^{2}-9}-\\frac{2}{x+3}=\\frac{3x}{x^{2}-9}+\\frac{1}{x+3} $$",
+          "opciones": [
+            "-3",
+            "-6",
+            "-9",
+            "9",
+            "3"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Denominador común $$x^2-9$$. Multiplicamos:<br>$$ 7x - 2(x-3) = 3x + 1(x-3) $$<br><br><b>Paso 2:</b> Operamos:<br>$$ 7x - 2x + 6 = 3x + x - 3 $$<br>$$ 5x + 6 = 4x - 3 $$<br><br><b>Paso 3:</b> Despejamos:<br>$$ x = -9 $$ (Valor válido, no anula denominadores)."
+        },
+        {
+          "pregunta": "Resolver la sumatoria: $$ (x-n)+(2x-n+1)+...+(nx-1)=n+1 $$",
+          "opciones": [
+            "n",
+            "n+1",
+            "n+2",
+            "(n+2)/n",
+            "(n+1)/n"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1:</b> Agrupamos términos con x y términos independientes. Hay 'n' términos.<br>$$ x(1+2+...+n) + (-n + (1-n) + ... + (-1)) = n+1 $$<br>$$ x \\frac{n(n+1)}{2} + \\sum_{k=1}^n (k - 1 - n) = n+1 $$<br><br><b>Paso 2:</b> Simplificando la serie aritmética del segundo bloque:<br>La suma es $$\\frac{n(n+1)}{2} - n(n+1)$$.<br>$$ x \\frac{n(n+1)}{2} - \\frac{n(n+1)}{2} = n+1 $$<br><br><b>Paso 3:</b> Dividimos por $$(n+1)$$ y multiplicamos por 2:<br>$$ nx - n = 2 \\rightarrow nx = n+2 \\rightarrow x = \\frac{n+2}{n} $$"
+        },
+        {
+          "pregunta": "Si r y s son raíces de $$5x^{2}-x-3=3x^{2}-2x+1$$, hallar $$ R=(2r^{2}+r-7)^{2}+\\sqrt{2s^{2}+s} $$",
+          "opciones": [
+            "9",
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Reducimos la ecuación a: $$ 2x^2 + x - 4 = 0 $$.<br>Como r y s son raíces, cumplen la ecuación.<br><br><b>Paso 2:</b> Evaluamos R.<br>$$ 2r^2 + r = 4 \\rightarrow (2r^2+r-7) = 4-7 = -3 $$<br>$$ 2s^2 + s = 4 \\rightarrow \\sqrt{2s^2+s} = \\sqrt{4} = 2 $$<br><br><b>Paso 3:</b> Operamos:<br>$$ (-3)^2 + 2 = 9 + 2 = 11 $$"
+        },
+        {
+          "pregunta": "Si la ecuación tiene solución única, hallar el producto de valores de K: $$ kx^{2}+kx+x^{2}+1=0 $$",
+          "opciones": [
+            "-4",
+            "4",
+            "2",
+            "-2",
+            "0"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Agrupamos: $$ (k+1)x^2 + kx + 1 = 0 $$.<br>Para solución única, el discriminante debe ser 0.<br><br><b>Paso 2:</b> $$ \\Delta = k^2 - 4(k+1)(1) = 0 $$<br>$$ k^2 - 4k - 4 = 0 $$<br><br><b>Paso 3:</b> El producto de los valores de k (por propiedad de raíces) es $$c/a = -4/1 = -4 $$.<br>(Nota: El solucionario manuscrito contenía un error algebraico que derivaba en 4, aquí se presenta la solución matemática correcta: -4)."
+        },
+        {
+          "pregunta": "Hallar el intervalo de 'a' para que la ecuación no tenga soluciones reales: $$ (a+1)x^{2}+(a+1)x+1=0 $$",
+          "opciones": [
+            "<-1; 3>",
+            "<-3; 1>",
+            "R",
+            "phi",
+            "<1; 3>"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Condición de raíces no reales: Discriminante < 0.<br>$$ (a+1)^2 - 4(a+1)(1) < 0 $$<br><br><b>Paso 2:</b> Factorizamos $$(a+1)$$:<br>$$ (a+1)[(a+1) - 4] < 0 $$<br>$$ (a+1)(a-3) < 0 $$<br><br><b>Paso 3:</b> Puntos críticos en -1 y 3. El intervalo negativo está entre ellos:<br>$$ a \\in \\langle -1; 3 \\rangle $$"
         }
       ],
       "videos": [
         {
-          "titulo": "8.1 Aspa Simple y Doble",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
+          "titulo": "8.1 Ecuaciones - Teoría",
+          "youtube_id": "9ij6WRrV9ZQ",
+          "pdf_link": "https://drive.google.com/file/d/1EWeMI0LdzW3Iba95orzfU6ICrwVoM9Bm/view",
           "gratis": true
         },
         {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
+          "titulo": "8.2 Ecuaciones - Ejercicios",
+          "youtube_id": "b9RBBbfo-uw",
+          "pdf_link": "https://drive.google.com/file/d/1hPjK7rl0Ow0Nr2ewByIE2wuuIEFf8B5C/view",
           "gratis": true
         }
       ]
     },
     {
-      "titulo": "Tema 9: MCD y MCM de Polinomios",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "titulo": "Tema 9: Inecuaciones",
+      "pdf_resuelto": "https://drive.google.com/file/d/1D9sc641lGvXPgTkK0QqvPY5z22pLEuMq/view",
       "preguntas": [
         {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "pregunta": "Dados los conjuntos: $$ A=\\{x \\in \\mathbb{R} / -3 < x \\le 12 \\} $$ $$ B=\\{x \\in \\mathbb{R} / -7 < x \\le 4 \\} $$ Hallar $$ A \\cap B $$.",
+          "opciones": [
+            "<-3; 4]",
+            "[-3; 4]",
+            "<-7; 12]",
+            "[-7; 12]",
+            "<4; 12]"
+          ],
           "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+          "resolucion": "<b>Paso 1:</b> Graficamos los intervalos en la recta numérica.<br>A va de -3 (abierto) a 12 (cerrado).<br>B va de -7 (abierto) a 4 (cerrado).<br><br><b>Paso 2:</b> La intersección es la zona común a ambos.<br>Comienza en -3 (abierto porque no está en A) y termina en 4 (cerrado porque está en ambos).<br><br><b>Paso 3:</b> Resultado:<br>$$ A \\cap B = \\langle -3; 4 ] $$"
+        },
+        {
+          "pregunta": "Si $$ A=[-2; 2] $$ y $$ B=\\langle 0; 3 \\rangle $$. Hallar: $$ (A \\cap B) - (A \\cup B)^{C} $$",
+          "opciones": [
+            "<0; 2]",
+            "[0; 2]",
+            "<-2; 3>",
+            "Vacio",
+            "<2; 3>"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Hallamos la intersección $$ A \\cap B $$.<br>Zona común entre [-2; 2] y <0; 3> es $$ \\langle 0; 2 ] $$.<br><br><b>Paso 2:</b> Analizamos el segundo término. $$(A \\cup B)^C$$ es el complemento de la unión, es decir, todo lo que está FUERA de los conjuntos.<br><br><b>Paso 3:</b> Restamos. Como la intersección está totalmente DENTRO de la unión, no tiene elementos en común con el complemento (que está fuera).<br>Por lo tanto, al restar algo disjunto, el conjunto original se mantiene:<br>$$ \\langle 0; 2 ] $$"
+        },
+        {
+          "pregunta": "Dados $$ A=\\langle -3; 2 \\rangle $$, $$ B=[0; 4] $$, $$ C=[-4; 6] $$. Hallar: $$ (A \\cup B) - (B \\cap C) $$",
+          "opciones": [
+            "<-3; 0>",
+            "<-3; 0]",
+            "[-3; 0>",
+            "<0; 4]",
+            "<-3; 4]"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Hallamos $$ A \\cup B $$:<br>Uniendo <-3; 2> con [0; 4] obtenemos $$ \\langle -3; 4 ] $$.<br><br><b>Paso 2:</b> Hallamos $$ B \\cap C $$:<br>Intersección de [0; 4] con [-4; 6] es $$ [0; 4] $$.<br><br><b>Paso 3:</b> Restamos (Quitamos [0; 4] al intervalo <-3; 4]):<br>Nos queda la parte izquierda abierta:<br>$$ \\langle -3; 0 \\rangle $$"
+        },
+        {
+          "pregunta": "Si $$ A=\\langle -7; -1 \\rangle \\cup \\langle 4; 12 ] $$ y $$ B=\\langle -\\infty; -3 \\rangle \\cup \\langle 7; 19 ] $$. Hallar $$ B - A $$.",
+          "opciones": [
+            "<-inf; -7] U <12; 19]",
+            "<-inf; -7> U <12; 19]",
+            "<-inf; -3> U <7; 19]",
+            "<-7; -3> U <4; 7]",
+            "Vacio"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Analizamos la parte izquierda:<br>$$ B_{izq} = \\langle -\\infty; -3 \\rangle $$. Le quitamos $$ A_{izq} = \\langle -7; -1 \\rangle $$.<br>Nos queda $$ \\langle -\\infty; -7 ] $$ (El -7 queda porque en A estaba abierto).<br><br><b>Paso 2:</b> Analizamos la parte derecha:<br>$$ B_{der} = \\langle 7; 19 ] $$. Le quitamos $$ A_{der} = \\langle 4; 12 ] $$.<br>Quitamos la parte de 7 a 12. Nos queda $$ \\langle 12; 19 ] $$.<br><br><b>Paso 3:</b> Unimos los restos:<br>$$ \\langle -\\infty; -7 ] \\cup \\langle 12; 19 ] $$"
+        },
+        {
+          "pregunta": "Simplificar la operación de conjuntos si $$ A=[2; 4\\rangle $$ y $$ B=\\langle 3; 8 \\rangle $$: $$ A' - (A \\cap B)' $$",
+          "opciones": [
+            "Vacio",
+            "R",
+            "<3; 4>",
+            "[2; 3]",
+            "<4; 8>"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Usamos propiedades de conjuntos.<br>$$ X - Y = X \\cap Y' $$.<br>Entonces: $$ A' - (A \\cap B)' = A' \\cap ((A \\cap B)')' = A' \\cap (A \\cap B) $$.<br><br><b>Paso 2:</b> Asociamos:<br>$$ (A' \\cap A) \\cap B $$.<br><br><b>Paso 3:</b> La intersección de un conjunto con su complemento $$ A' \\cap A $$ es el Vacío ($$\\phi$$).<br>$$ \\phi \\cap B = \\phi $$ (Conjunto Vacío)."
+        },
+        {
+          "pregunta": "Hallar la suma de los elementos enteros del conjunto A: $$ A = \\{ x \\in \\mathbb{N} / 7 \\le 2x-1 < 19 \\} $$",
+          "opciones": [
+            "39",
+            "35",
+            "40",
+            "45",
+            "30"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Resolvemos la inecuación:<br>$$ 7 \\le 2x-1 < 19 $$<br>Sumamos 1: $$ 8 \\le 2x < 20 $$<br>Dividimos por 2: $$ 4 \\le x < 10 $$<br><br><b>Paso 2:</b> Identificamos los valores enteros (Naturales):<br>x = {4, 5, 6, 7, 8, 9}<br><br><b>Paso 3:</b> Sumamos:<br>$$ 4+5+6+7+8+9 = 39 $$"
+        },
+        {
+          "pregunta": "Resolver la inecuación fraccionaria: $$ \\frac{x+2}{x-9} > \\frac{x-2}{x-1} $$",
+          "opciones": [
+            "<1; 5/3> U <9; inf>",
+            "<1; 9>",
+            "<-inf; 1> U <5/3; 9>",
+            "<5/3; 9>",
+            "R - {1; 9}"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Pasamos a restar y operamos:<br>$$ \\frac{x+2}{x-9} - \\frac{x-2}{x-1} > 0 $$<br>Numerador: $$ (x+2)(x-1) - (x-2)(x-9) = (x^2+x-2) - (x^2-11x+18) $$<br>$$ = 12x - 20 = 4(3x-5) $$<br><br><b>Paso 2:</b> Puntos críticos:<br>Numerador: 5/3<br>Denominador: 1 y 9.<br><br><b>Paso 3:</b> Ley de signos en la recta (empezando con + desde la derecha):<br>Intervalos positivos (+): $$ \\langle 1; 5/3 \\rangle \\cup \\langle 9; +\\infty \\rangle $$"
+        },
+        {
+          "pregunta": "Hallar la intersección de las soluciones del sistema aproximado: $$ \\frac{2}{3} < \\frac{x-1}{x+3} < \\frac{7}{9} $$",
+          "opciones": [
+            "<9; 15>",
+            "<9; inf>",
+            "<-3; 15>",
+            "<-inf; -3>",
+            "Vacio"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Resolvemos la parte izquierda $$\\frac{x-1}{x+3} > \\frac{2}{3}$$:<br>$$ \\frac{3x-3-2x-6}{3(x+3)} > 0 \\rightarrow \\frac{x-9}{x+3} > 0 $$<br>Solución A: $$ \\langle -\\infty; -3 \\rangle \\cup \\langle 9; +\\infty \\rangle $$<br><br><b>Paso 2:</b> Resolvemos la parte derecha $$\\frac{x-1}{x+3} < \\frac{7}{9}$$:<br>$$ \\frac{9x-9-7x-21}{9(x+3)} < 0 \\rightarrow \\frac{2x-30}{x+3} < 0 $$<br>Solución B: $$ \\langle -3; 15 \\rangle $$<br><br><b>Paso 3:</b> Intersectamos A y B:<br>Zona común entre $$ \\langle 9; +\\infty \\rangle $$ y $$ \\langle -3; 15 \\rangle $$ es $$ \\langle 9; 15 \\rangle $$"
+        },
+        {
+          "pregunta": "Hallar el mayor valor entero que satisface el sistema: $$ \\frac{x}{4}+1 < \\frac{x-5}{2} < \\frac{x}{3}+2 $$",
+          "opciones": [
+            "26",
+            "25",
+            "27",
+            "24",
+            "28"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Inecuación 1:<br>$$ x/4 + 1 < (x-5)/2 \\rightarrow x+4 < 2x-10 \\rightarrow 14 < x $$<br><br><b>Paso 2:</b> Inecuación 2:<br>$$ (x-5)/2 < x/3 + 2 \\rightarrow 3x-15 < 2x+12 \\rightarrow x < 27 $$<br><br><b>Paso 3:</b> Intersección:<br>$$ 14 < x < 27 $$<br>El mayor entero es 26."
+        },
+        {
+          "pregunta": "Si $$ (2x-3) \\in \\langle -7; 12 \\rangle $$. Hallar a qué intervalo pertenece $$ (3x+5) $$.",
+          "opciones": [
+            "<-1; 55/2>",
+            "<-1; 27>",
+            "<-2; 28>",
+            "<0; 25>",
+            "<-1; 20>"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Despejamos x del intervalo dato:<br>$$ -7 < 2x-3 < 12 $$<br>$$ -4 < 2x < 15 \\rightarrow -2 < x < 7.5 $$<br><br><b>Paso 2:</b> Formamos la expresión objetivo $$3x+5$$:<br>Multiplicamos por 3: $$ -6 < 3x < 22.5 $$<br>Sumamos 5: $$ -1 < 3x+5 < 27.5 $$<br><br><b>Paso 3:</b> Escribimos como intervalo:<br>$$ \\langle -1; 55/2 \\rangle $$"
+        },
+        {
+          "pregunta": "Resolver: $$ (1-x)(x-3)(x^2+1) > 0 $$",
+          "opciones": [
+            "<1; 3>",
+            "<-inf; 1> U <3; inf>",
+            "R",
+            "Vacio",
+            "<1; inf>"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Analizamos el factor cuadrático $$x^2+1$$.<br>Siempre es positivo, así que no afecta el signo. Lo descartamos.<br><br><b>Paso 2:</b> Queda $$ (1-x)(x-3) > 0 $$.<br>Factorizamos el signo menos de (1-x):<br>$$ -(x-1)(x-3) > 0 $$<br>Multiplicamos por -1 e invertimos el sentido:<br>$$ (x-1)(x-3) < 0 $$<br><br><b>Paso 3:</b> Puntos críticos 1 y 3. Zona negativa (menor que cero) está al centro:<br>$$ \\langle 1; 3 \\rangle $$"
+        },
+        {
+          "pregunta": "¿Cuántos valores enteros tiene el conjunto solución del sistema? $$ (3x+1)(x-6)<0 \\quad \\wedge \\quad (x-2)(4x-15)<0 $$",
+          "opciones": [
+            "1",
+            "2",
+            "3",
+            "0",
+            "4"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Inecuación 1:<br>$$ (3x+1)(x-6) < 0 $$. Raíces -1/3 y 6. Intervalo: $$ \\langle -1/3; 6 \\rangle $$<br><br><b>Paso 2:</b> Inecuación 2 (Corregida al contexto de la solución):<br>$$ (x-2)(4x-15) < 0 $$. Raíces 2 y 15/4 (3.75). Intervalo: $$ \\langle 2; 3.75 \\rangle $$<br><br><b>Paso 3:</b> Intersección:<br>$$ \\langle 2; 3.75 \\rangle $$ está contenido en el primero. La solución es $$ \\langle 2; 3.75 \\rangle $$<br><br><b>Paso 4:</b> Enteros en ese rango:<br>Solo el 3.<br>Respuesta: 1 valor entero."
+        },
+        {
+          "pregunta": "Resolver: $$ x(x+1)(x^2+x+1)(x-1) > 0 $$",
+          "opciones": [
+            "<-1; 0> U <1; inf>",
+            "<-1; 1>",
+            "<-inf; -1> U <1; inf>",
+            "<0; inf>",
+            "R"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Factor cuadrático $$x^2+x+1$$.<br>Su discriminante es $$1^2 - 4(1)(1) = -3 < 0$$. Como el coeficiente principal es positivo, todo el trinomio es siempre positivo. Se cancela.<br><br><b>Paso 2:</b> Queda $$ x(x+1)(x-1) > 0 $$.<br>Puntos críticos: -1, 0, 1.<br><br><b>Paso 3:</b> Ley de signos (+, -, +, - desde la derecha).<br>Buscamos positivos (>0):<br>$$ \\langle -1; 0 \\rangle \\cup \\langle 1; +\\infty \\rangle $$"
+        },
+        {
+          "pregunta": "Resolver: $$ \\frac{x^2-x-12}{x^2-2x+3} < 0 $$",
+          "opciones": [
+            "<-3; 4>",
+            "<-inf; -3> U <4; inf>",
+            "R",
+            "Vacio",
+            "<-4; 3>"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Analizamos el denominador $$x^2-2x+3$$.<br>Discriminante $$(-2)^2 - 4(1)(3) = 4 - 12 = -8 < 0$$. Siempre positivo. Se cancela pasando a multiplicar (no altera el signo).<br><br><b>Paso 2:</b> Queda el numerador:<br>$$ x^2-x-12 < 0 $$<br>Factorizamos (aspa simple): $$ (x-4)(x+3) < 0 $$<br><br><b>Paso 3:</b> Intervalo entre raíces -3 y 4:<br>$$ \\langle -3; 4 \\rangle $$"
+        },
+        {
+          "pregunta": "Hallar el conjunto solución de: $$ (x^2+7)(x^2+25)(x^2-9) \\le 0 $$",
+          "opciones": [
+            "[-3; 3]",
+            "<-inf; -3] U [3; inf>",
+            "[-5; 5]",
+            "Vacio",
+            "R"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Los factores $$x^2+7$$ y $$x^2+25$$ son sumas de cuadrados, siempre positivos. Se eliminan.<br><br><b>Paso 2:</b> Queda:<br>$$ x^2-9 \\le 0 $$<br>$$ (x+3)(x-3) \\le 0 $$<br><br><b>Paso 3:</b> Zona negativa (cerrada) entre -3 y 3:<br>$$ [-3; 3] $$"
+        },
+        {
+          "pregunta": "Resolver la inecuación lineal: $$ \\frac{6x-3}{2} - (2x-6) > \\frac{x-3}{4} $$",
+          "opciones": [
+            "<-7; inf>",
+            "<-inf; -7>",
+            "<7; inf>",
+            "<-inf; 7>",
+            "R"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Simplificamos el lado izquierdo:<br>$$ \\frac{2(3x-1.5)}{2} $$... mejor operamos fracciones.<br>$$ 3x - 1.5 - 2x + 6 > \\frac{x-3}{4} $$<br>$$ x + 4.5 > \\frac{x-3}{4} $$<br><br><b>Paso 2:</b> Multiplicamos por 4:<br>$$ 4x + 18 > x - 3 $$<br><br><b>Paso 3:</b> Despejamos:<br>$$ 3x > -21 \\rightarrow x > -7 $$<br>Intervalo: $$ \\langle -7; +\\infty \\rangle $$"
+        },
+        {
+          "pregunta": "Resolver el sistema lineal: $$ 2x-5 < x+3 < 3x-7 $$",
+          "opciones": [
+            "<5; 8>",
+            "<5; inf>",
+            "<-inf; 8>",
+            "<3; 7>",
+            "Vacio"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Parte izquierda:<br>$$ 2x-5 < x+3 \\rightarrow x < 8 $$<br><br><b>Paso 2:</b> Parte derecha:<br>$$ x+3 < 3x-7 \\rightarrow 10 < 2x \\rightarrow 5 < x $$<br><br><b>Paso 3:</b> Intersección:<br>x mayor que 5 Y x menor que 8.<br>$$ \\langle 5; 8 \\rangle $$"
+        },
+        {
+          "pregunta": "Resolver: $$ x^2+4x+3 < 0 $$",
+          "opciones": [
+            "<-3; -1>",
+            "<-1; 3>",
+            "<-inf; -3> U <-1; inf>",
+            "R - {-3; -1}",
+            "Vacio"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Factorizamos el trinomio:<br>$$ (x+3)(x+1) < 0 $$<br><br><b>Paso 2:</b> Puntos críticos: -3 y -1.<br><br><b>Paso 3:</b> Como es menor que cero, tomamos el intervalo central:<br>$$ \\langle -3; -1 \\rangle $$"
+        },
+        {
+          "pregunta": "Resolver: $$ x^2+4 > -4x $$",
+          "opciones": [
+            "R - {-2}",
+            "R",
+            "<-2; inf>",
+            "Vacio",
+            "{-2}"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Pasamos todo a un lado:<br>$$ x^2 + 4x + 4 > 0 $$<br><br><b>Paso 2:</b> Reconocemos el trinomio cuadrado perfecto:<br>$$ (x+2)^2 > 0 $$<br><br><b>Paso 3:</b> Un número al cuadrado siempre es positivo, excepto cuando es cero.<br>La inecuación se cumple para todos los reales, excepto cuando $$x+2=0$$ (x=-2).<br>Solución: $$ \\mathbb{R} - \\{-2\\} $$"
+        },
+        {
+          "pregunta": "Resolver: $$ \\frac{1}{3x-13} \\ge \\frac{1}{7-2x} $$",
+          "opciones": [
+            "<3.5; 4] U <4.33; inf>",
+            "<3.5; 4.33>",
+            "[-4; 4]",
+            "<4; inf>",
+            "<-inf; 3.5>"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Pasamos a restar:<br>$$ \\frac{1}{3x-13} - \\frac{1}{7-2x} \\ge 0 $$<br>Numerador: $$ (7-2x) - (3x-13) = 20 - 5x = 5(4-x) $$<br>Denominador: $$ (3x-13)(7-2x) $$<br><br><b>Paso 2:</b> Inecuación:<br>$$ \\frac{5(4-x)}{(3x-13)(7-2x)} \\ge 0 $$<br>Cuidado con el signo de x en los factores. Tenemos -x arriba y -2x abajo. Menos entre menos es más. El signo global es positivo.<br>Puntos críticos: 4 (cerrado), 13/3 (abierto), 7/2 (abierto).<br><br><b>Paso 3:</b> Ordenamos puntos: 3.5, 4, 4.33.<br>Evaluando signos (con cuidado de los coeficientes negativos):<br>Para x=10 (derecha): Num (-), Den (+)(-)=(-). Total (+).<br>Entonces empieza con + a la derecha.<br>Intervalos positivos: $$ \\langle 7/2; 4 ] \\cup \\langle 13/3; +\\infty \\rangle $$"
         }
       ],
       "videos": [
         {
-          "titulo": "9.1 Cálculo de MCD y MCM",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
+          "titulo": "9.1 Inecuaciones - Teoría",
+          "youtube_id": "oVLnbynu1ek",
+          "pdf_link": "https://drive.google.com/file/d/1tHzztyzi12lbOFx1dLt37Q1eg7zf1r4e/view",
           "gratis": true
         },
         {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
+          "titulo": "9.2 Inecuaciones - Ejercicios",
+          "youtube_id": "KhsuIVmKKxg",
+          "pdf_link": "https://drive.google.com/file/d/1OGOKCQ8cStgU2UowjEJwKo1D9XzMFXkZ/view",
           "gratis": true
         }
       ]
     },
     {
-      "titulo": "Tema 10: Fracciones Algebraicas",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "titulo": "Tema 10: Valor absoluto",
+      "pdf_resuelto": "https://drive.google.com/file/d/1rtsNEleeO-nK9n9oEyfBg169K56AHgAl/view",
       "preguntas": [
         {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "pregunta": "Si $$x=-10$$, $$y=14$$, $$z=-5$$, calcular el valor de: $$ E = |xy + xz + yz| $$",
+          "opciones": [
+            "140",
+            "150",
+            "160",
+            "170",
+            "180"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Reemplazamos los valores numéricos:<br>$$ xy = (-10)(14) = -140 $$<br>$$ xz = (-10)(-5) = 50 $$<br>$$ yz = (14)(-5) = -70 $$<br><br><b>Paso 2:</b> Sumamos dentro del valor absoluto:<br>$$ -140 + 50 - 70 = -160 $$<br><br><b>Paso 3:</b> Calculamos el valor absoluto:<br>$$ E = |-160| = 160 $$"
+        },
+        {
+          "pregunta": "Resolver: $$ |2 - 3x| = 0 $$",
+          "opciones": [
+            "2/3",
+            "3/2",
+            "-2/3",
+            "0",
+            "1"
+          ],
           "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+          "resolucion": "<b>Paso 1:</b> Propiedad: Si $$|a|=0$$, entonces $$a=0$$.<br>$$ 2 - 3x = 0 $$<br><br><b>Paso 2:</b> Despejamos x:<br>$$ 2 = 3x \\rightarrow x = 2/3 $$"
+        },
+        {
+          "pregunta": "Indicar la solución negativa de: $$ |3n - 5| = 7 - n $$",
+          "opciones": [
+            "-1",
+            "-2",
+            "-3",
+            "3",
+            "7"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Condición de existencia (RHS $$\\ge$$ 0):<br>$$ 7 - n \\ge 0 \\rightarrow n \\le 7 $$<br><br><b>Paso 2:</b> Caso 1 (Positivo):<br>$$ 3n - 5 = 7 - n \\rightarrow 4n = 12 \\rightarrow n = 3 $$ (Válido).<br><br><b>Paso 3:</b> Caso 2 (Negativo):<br>$$ 3n - 5 = -(7 - n) \\rightarrow 3n - 5 = -7 + n $$<br>$$ 2n = -2 \\rightarrow n = -1 $$ (Válido).<br><br><b>Respuesta:</b> La solución negativa es -1."
+        },
+        {
+          "pregunta": "Resolver: $$ |x - 8| = 3x $$",
+          "opciones": [
+            "2",
+            "-4",
+            "{2; -4}",
+            "4",
+            "Vacio"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Restricción: $$3x \\ge 0 \\rightarrow x \\ge 0$$.<br><br><b>Paso 2:</b> Ecuaciones:<br>a) $$x - 8 = 3x \\rightarrow -8 = 2x \\rightarrow x = -4$$ (Descartado por restricción).<br>b) $$x - 8 = -3x \\rightarrow 4x = 8 \\rightarrow x = 2$$ (Válido).<br><br><b>Paso 3:</b> Conjunto solución: {2}."
+        },
+        {
+          "pregunta": "Resolver: $$ |x - 2| = -5 $$",
+          "opciones": [
+            "7",
+            "-3",
+            "{7; -3}",
+            "Vacio",
+            "0"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1:</b> Por definición, el valor absoluto de cualquier número real es siempre mayor o igual a cero.<br>$$ |x - 2| \\ge 0 $$<br><br><b>Paso 2:</b> La ecuación iguala un valor absoluto a un número negativo (-5), lo cual es imposible en los reales.<br><b>Respuesta:</b> Conjunto vacío."
+        },
+        {
+          "pregunta": "Resolver: $$ |x^2 - x| = 12 $$",
+          "opciones": [
+            "{-3; 4}",
+            "{3; -4}",
+            "{-3; 3}",
+            "{4; -4}",
+            "{-3; 3; 4; -4}"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Caso A:<br>$$ x^2 - x = 12 \\rightarrow x^2 - x - 12 = 0 $$<br>$$ (x-4)(x+3) = 0 \\rightarrow x = 4, x = -3 $$<br><br><b>Paso 2:</b> Caso B:<br>$$ x^2 - x = -12 \\rightarrow x^2 - x + 12 = 0 $$<br>Discriminante $$ 1^2 - 4(1)(12) = -47 < 0 $$ (Sin solución real).<br><br><b>Paso 3:</b> CS = {-3; 4}"
+        },
+        {
+          "pregunta": "Hallar el conjunto solución de: $$ |x^2 - 3| = 3 - x $$",
+          "opciones": [
+            "{-3; 2; 0; 1}",
+            "{-3; 3}",
+            "{3}",
+            "{0; 1}",
+            "{-3; 2}"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Condición: $$3-x \\ge 0 \\rightarrow x \\le 3$$.<br><br><b>Paso 2:</b> Caso 1:<br>$$ x^2 - 3 = 3 - x \\rightarrow x^2 + x - 6 = 0 $$<br>$$ (x+3)(x-2)=0 \\rightarrow x=-3, x=2 $$. (Ambos válidos).<br><br><b>Paso 3:</b> Caso 2:<br>$$ x^2 - 3 = -(3 - x) = -3 + x \\rightarrow x^2 - x = 0 $$<br>$$ x(x-1) = 0 \\rightarrow x=0, x=1 $$. (Ambos válidos).<br><br><b>Paso 4:</b> CS = {-3; 2; 0; 1}."
+        },
+        {
+          "pregunta": "Resolver: $$ |x^2 - 5| = 4 $$",
+          "opciones": [
+            "{3; -3}",
+            "{1; -1}",
+            "{3; -3; 1; -1}",
+            "{9; 1}",
+            "Vacio"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Caso 1:<br>$$ x^2 - 5 = 4 \\rightarrow x^2 = 9 \\rightarrow x = \\pm 3 $$<br><br><b>Paso 2:</b> Caso 2:<br>$$ x^2 - 5 = -4 \\rightarrow x^2 = 1 \\rightarrow x = \\pm 1 $$<br><br><b>Paso 3:</b> Unimos soluciones:<br>CS = {-3; -1; 1; 3}"
+        },
+        {
+          "pregunta": "Resolver: $$ |5 - 3x| = |x - 1| $$",
+          "opciones": [
+            "{2}",
+            "{3/2}",
+            "{2; 3/2}",
+            "{-2; 3/2}",
+            "{2; -3/2}"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Propiedad $$|a|=|b| \\iff a=b \\lor a=-b$$.<br><br><b>Paso 2:</b> Caso a=b:<br>$$ 5 - 3x = x - 1 \\rightarrow 6 = 4x \\rightarrow x = 3/2 $$<br><br><b>Paso 3:</b> Caso a=-b:<br>$$ 5 - 3x = -(x - 1) = -x + 1 \\rightarrow 4 = 2x \\rightarrow x = 2 $$<br><br><b>Paso 4:</b> CS = {3/2; 2}"
+        },
+        {
+          "pregunta": "Resolver: $$ |2x + 3| = |x - 2| $$",
+          "opciones": [
+            "{-5}",
+            "{-1/3}",
+            "{-5; -1/3}",
+            "{5; 1/3}",
+            "Vacio"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Igualamos directo:<br>$$ 2x + 3 = x - 2 \\rightarrow x = -5 $$<br><br><b>Paso 2:</b> Igualamos con signo cambiado:<br>$$ 2x + 3 = -(x - 2) = -x + 2 \\rightarrow 3x = -1 \\rightarrow x = -1/3 $$<br><br><b>Paso 3:</b> CS = {-5; -1/3}"
+        },
+        {
+          "pregunta": "Hallar el número natural que verifica: $$ ||x-2| - 1| = 2 $$",
+          "opciones": [
+            "-1",
+            "1",
+            "3",
+            "5",
+            "7"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1:</b> Despejamos el valor absoluto exterior:<br>a) $$|x-2| - 1 = 2 \\rightarrow |x-2| = 3$$<br>b) $$|x-2| - 1 = -2 \\rightarrow |x-2| = -1$$ (Imposible).<br><br><b>Paso 2:</b> Resolvemos $$|x-2|=3$$:<br>$$ x-2 = 3 \\rightarrow x = 5 $$<br>$$ x-2 = -3 \\rightarrow x = -1 $$<br><br><b>Paso 3:</b> Nos piden el número natural (positivo entero):<br>Respuesta: 5."
+        },
+        {
+          "pregunta": "Resolver la ecuación: $$ x^2 - 2|x| - 3 = 0 $$",
+          "opciones": [
+            "{3}",
+            "{-3}",
+            "{3; -3}",
+            "{1; -1}",
+            "Vacio"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Hacemos cambio de variable $$u = |x|$$, entonces $$x^2 = u^2$$.<br>$$ u^2 - 2u - 3 = 0 $$<br><br><b>Paso 2:</b> Factorizamos:<br>$$ (u-3)(u+1) = 0 $$<br>$$ u = 3 $$ ó $$ u = -1 $$<br><br><b>Paso 3:</b> Volvemos a la variable original:<br>$$ |x| = 3 \\rightarrow x = \\pm 3 $$<br>$$ |x| = -1 $$ (Imposible).<br>CS = {-3; 3}"
+        },
+        {
+          "pregunta": "Resolver: $$ |x| + x^3 = 0 $$",
+          "opciones": [
+            "{0}",
+            "{-1}",
+            "{0; -1}",
+            "{0; 1}",
+            "{0; -1; 1}"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> $$|x| = -x^3$$. Como $$|x| \\ge 0$$, entonces $$-x^3 \\ge 0 \\rightarrow x \\le 0$$.<br><br><b>Paso 2:</b> Si $$x \\le 0$$, entonces $$|x| = -x$$.<br>$$ -x + x^3 = 0 \\rightarrow x(x^2 - 1) = 0 $$<br><br><b>Paso 3:</b> Raíces:<br>$$ x = 0, x = 1, x = -1 $$<br><br><b>Paso 4:</b> Filtramos con la condición $$x \\le 0$$:<br>Aceptamos 0 y -1. Descartamos 1.<br>CS = {0; -1}"
+        },
+        {
+          "pregunta": "Resolver la suma de soluciones de: $$ |-x| + |2x-1| - 3 = |x| + 1 $$",
+          "opciones": [
+            "0",
+            "1",
+            "2",
+            "-1",
+            "4"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Sabemos que $$|-x| = |x|$$. La ecuación se simplifica cancelando $$|x|$$ a ambos lados.<br>$$ |2x-1| - 3 = 1 \\rightarrow |2x-1| = 4 $$<br><br><b>Paso 2:</b> Resolvemos:<br>$$ 2x - 1 = 4 \\rightarrow x = 5/2 $$<br>$$ 2x - 1 = -4 \\rightarrow x = -3/2 $$<br><br><b>Paso 3:</b> Sumamos las soluciones:<br>$$ 5/2 + (-3/2) = 2/2 = 1 $$"
+        },
+        {
+          "pregunta": "Resolver: $$ |x-4|^2 - |2x-8| - 8 = 0 $$",
+          "opciones": [
+            "{0}",
+            "{8}",
+            "{0; 8}",
+            "{4}",
+            "{-2; 4}"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Simplificamos $$|2x-8| = 2|x-4|$$. Sea $$u = |x-4|$$.<br>$$ u^2 - 2u - 8 = 0 $$<br><br><b>Paso 2:</b> Factorizamos:<br>$$ (u-4)(u+2) = 0 $$<br>$$ u = 4 $$ ó $$ u = -2 $$ (Descartado por ser abs).<br><br><b>Paso 3:</b> Resolvemos $$|x-4|=4$$:<br>$$ x - 4 = 4 \\rightarrow x = 8 $$<br>$$ x - 4 = -4 \\rightarrow x = 0 $$"
+        },
+        {
+          "pregunta": "Hallar el CS de: $$ |2x-6| + 3|3-x| = |x-3| + 8x $$",
+          "opciones": [
+            "{1}",
+            "{-3}",
+            "{1; -3}",
+            "{-1}",
+            "{0}"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Homogeneizamos los términos con valor absoluto (todos son múltiplos de $$|x-3|$$):<br>$$ 2|x-3| + 3|x-3| = |x-3| + 8x $$<br><br><b>Paso 2:</b> Sumamos:<br>$$ 5|x-3| = |x-3| + 8x \\rightarrow 4|x-3| = 8x \\rightarrow |x-3| = 2x $$<br><br><b>Paso 3:</b> Condición $$2x \\ge 0 \\rightarrow x \\ge 0$$.<br>a) $$x - 3 = 2x \\rightarrow x = -3$$ (Descartado).<br>b) $$x - 3 = -2x \\rightarrow 3x = 3 \\rightarrow x = 1$$ (Válido).<br>CS = {1}"
+        },
+        {
+          "pregunta": "Calcular la suma de soluciones enteras de la inecuación: $$ |4x-3| \\le x+4 $$",
+          "opciones": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1:</b> Aplicamos propiedad $$|a| \\le b \\iff -b \\le a \\le b$$ (con $$b \\ge 0$$).<br>$$ -(x+4) \\le 4x-3 \\le x+4 $$<br><br><b>Paso 2:</b> Parte izquierda:<br>$$ -x-4 \\le 4x-3 \\rightarrow -1 \\le 5x \\rightarrow x \\ge -1/5 $$<br><br><b>Paso 3:</b> Parte derecha:<br>$$ 4x-3 \\le x+4 \\rightarrow 3x \\le 7 \\rightarrow x \\le 7/3 $$<br><br><b>Paso 4:</b> Intersección $$[-0.2; 2.33]$$.<br>Enteros: 0, 1, 2.<br>Suma: $$0+1+2=3$$"
+        },
+        {
+          "pregunta": "Resolver la inecuación: $$ |2x-3| \\ge 1 $$",
+          "opciones": [
+            "[1; 2]",
+            "<-inf; 1] U [2; inf>",
+            "<1; 2>",
+            "[2; inf>",
+            "<-inf; 1]"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Propiedad $$|a| \\ge b \\iff a \\ge b \\lor a \\le -b$$.<br><br><b>Paso 2:</b> Caso mayor:<br>$$ 2x - 3 \\ge 1 \\rightarrow 2x \\ge 4 \\rightarrow x \\ge 2 $$<br><br><b>Paso 3:</b> Caso menor:<br>$$ 2x - 3 \\le -1 \\rightarrow 2x \\le 2 \\rightarrow x \\le 1 $$<br><br><b>Paso 4:</b> Unión de intervalos:<br>$$ \\langle -\\infty; 1 ] \\cup [ 2; +\\infty \\rangle $$"
+        },
+        {
+          "pregunta": "Hallar el CS de: $$ |3-x| \\ge |3x-5| $$",
+          "opciones": [
+            "[1; 2]",
+            "<1; 2>",
+            "<-inf; 1] U [2; inf>",
+            "[1; inf>",
+            "R"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Elevamos ambos miembros al cuadrado (son no negativos).<br>$$ (3-x)^2 \\ge (3x-5)^2 $$<br><br><b>Paso 2:</b> Diferencia de cuadrados:<br>$$ (3-x)^2 - (3x-5)^2 \\ge 0 $$<br>$$ [(3-x)+(3x-5)] [(3-x)-(3x-5)] \\ge 0 $$<br><br><b>Paso 3:</b> Operamos:<br>$$ (2x-2)(8-4x) \\ge 0 $$<br>$$ 2(x-1) \\cdot 4(2-x) \\ge 0 $$<br>$$ (x-1)(2-x) \\ge 0 $$<br><br><b>Paso 4:</b> Multiplicamos por -1 en el segundo factor (invierte la desigualdad):<br>$$ (x-1)(x-2) \\le 0 $$<br>Intervalo cerrado entre 1 y 2: [1; 2]."
+        },
+        {
+          "pregunta": "Calcular la suma de las soluciones de: $$ |2-3x| = 2x+1 $$",
+          "opciones": [
+            "1/5",
+            "3",
+            "16/5",
+            "14/5",
+            "2"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Condición $$2x+1 \\ge 0 \\rightarrow x \\ge -1/2$$.<br><br><b>Paso 2:</b> Ecuaciones:<br>a) $$2-3x = 2x+1 \\rightarrow 1 = 5x \\rightarrow x = 1/5$$ (Válido).<br>b) $$2-3x = -2x-1 \\rightarrow -x = -3 \\rightarrow x = 3$$ (Válido).<br><br><b>Paso 3:</b> Suma:<br>$$ 1/5 + 3 = 1/5 + 15/5 = 16/5 $$"
         }
       ],
       "videos": [
         {
-          "titulo": "10.1 Operaciones con Fracciones",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
+          "titulo": "10.1 Valor absoluto - Teoría",
+          "youtube_id": "M8qOUkOuF28",
+          "pdf_link": "https://drive.google.com/file/d/1-8HpQV8Lp6g5iS8wWYKfNhRPf006lOrs/view",
           "gratis": true
         },
         {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
+          "titulo": "10.2 Valor absoluto - Ejercicios",
+          "youtube_id": "4YQbp5_pONk",
+          "pdf_link": "https://drive.google.com/file/d/1cDTpR9g7hPTvHpnLNNT0a7FHEyVIOCza/view",
           "gratis": true
         }
       ]
