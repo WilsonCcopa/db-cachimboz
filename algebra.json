@@ -155,7 +155,7 @@
     },
     {
       "titulo": "Tema 2: Polinomios",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "pdf_resuelto": "https://drive.google.com/file/d/1BA6KC8MskalVWdD_h9VfYEcL2kmtfdn0/view",
       "preguntas": [
         {
           "pregunta": "Si EA(P(x))=P. Dado el polinomio: $$ P(x)=(x^{9}+x^{4})(x^{7}-x^{3}) \\\\ (x^{5}-4x^{3}) $$ Calcular el Grado Absoluto (GA).",
@@ -460,34 +460,34 @@
       ],
       "videos": [
         {
-          "titulo": "2.1 Teoría de Polinomios",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "https://drive.google.com/file/d/1-d4PRaYjrOA0mp-MIAYm36-Jk-YRSubi/view",
+          "titulo": "2.1 Polinomios A - Teoría",
+          "youtube_id": "ie00jUSUDN0",
+          "pdf_link": "https://drive.google.com/file/d/1qmfyAxNvn63OTZN85rgtcM2LP4NLfcrD/view",
           "gratis": true
         },
         {
-          "titulo": "2.1 Teoría de Polinomios",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
+          "titulo": "2.2 Polinomios A - Ejercicios",
+          "youtube_id": "DAd41kr1g0w",
+          "pdf_link": "https://drive.google.com/file/d/1DQkOfy2DAH_tkXgpi-7QJnFdeUyYVeZv/view",
           "gratis": true
         },
         {
-          "titulo": "2.3 Teoría de Polinomios",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
+          "titulo": "2.3 Polinomios B - Teoría",
+          "youtube_id": "7SAhEiNOO6c",
+          "pdf_link": "https://drive.google.com/file/d/1wmKtIhMJponYWa2vu2egEpxfpwM3o7HD/view",
           "gratis": true
         },
         {
-          "titulo": "2.1 Teoría de Polinomios",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
+          "titulo": "2.4 Polinomios B - Ejercicios",
+          "youtube_id": "DCUyqoBj9-k",
+          "pdf_link": "https://drive.google.com/file/d/1c0qGJtL7BYIhKnh8VWfHeDaNH6Me-PoY/view",
           "gratis": true
         }
       ]
     },
     {
       "titulo": "Tema 3: Productos Notables",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "pdf_resuelto": "https://drive.google.com/file/d/1RQZPDN1kAgq-irnN5eV_EgTCl2h0CuDH/view",
       "preguntas": [
         {
           "pregunta": "Reducir la siguiente expresión usando las Identidades de Legendre: $$ E = (a+b)^{2} + (a-b)^{2} $$",
@@ -732,15 +732,15 @@
       ],
       "videos": [
         {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
+          "titulo": "3.1 Productos Notables - Teoría",
+          "youtube_id": "uAcZb_5pzEw",
+          "pdf_link": "https://drive.google.com/file/d/19C9dg6QmGk9Gy0mjzXGAcb4eO2CvNdGq/view",
           "gratis": true
         },
         {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
+          "titulo": "3.1 Productos Notables - Ejercicios",
+          "youtube_id": "LCujekq4-fk",
+          "pdf_link": "https://drive.google.com/file/d/19C9dg6QmGk9Gy0mjzXGAcb4eO2CvNdGq/view",
           "gratis": true
         }
       ]
