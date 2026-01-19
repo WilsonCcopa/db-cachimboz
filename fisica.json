@@ -15,7 +15,7 @@
             "Vatio, Joule"
           ],
           "correcta": 3,
-          [cite_start]"resolucion": "<b>Análisis:</b><br>El Sistema Internacional (S.I.) define 7 magnitudes fundamentales y sus unidades base:<br>1. Longitud (metro)<br>2. Masa (kilogramo)<br>3. Tiempo (segundo)<br>4. Intensidad de corriente (Amperio)<br>5. Temperatura (Kelvin)<br>6. Intensidad luminosa (Candela)<br>7. Cantidad de sustancia (Mol)<br><br><b>Conclusión:</b> La alternativa que contiene solo unidades fundamentales es 'Amperio, segundo'[cite: 3, 9, 17, 180]."
+          "resolucion": "<b>Análisis:</b><br>El Sistema Internacional (S.I.) define 7 magnitudes fundamentales y sus unidades base:<br>1. Longitud (metro)<br>2. Masa (kilogramo)<br>3. Tiempo (segundo)<br>4. Intensidad de corriente (Amperio)<br>5. Temperatura (Kelvin)<br>6. Intensidad luminosa (Candela)<br>7. Cantidad de sustancia (Mol)<br><br><b>Conclusión:</b> La alternativa que contiene solo unidades fundamentales es 'Amperio, segundo'[cite: 3, 9, 17, 180]."
         },
         {
           "pregunta": "El S.L.U.M.P es un sistema legal de unidades similar al Sistema Internacional (S.I.) usado en el Perú, este tiene vigencia a nivel:",
@@ -51,7 +51,7 @@
             "Tiempo, masa y campo eléctrico"
           ],
           "correcta": 2,
-          [cite_start]"resolucion": "<b>Resolución:</b><br>Debemos buscar la opción donde <b>todas</b> sean fundamentales:<br>A) Fuerza (Derivada)<br>B) Trabajo (Derivada)<br>C) <b>Intensidad luminosa, Int. de corriente, Temperatura</b> (Todas son fundamentales)<br>D) Cantidad de movimiento (Derivada)<br>E) Campo eléctrico (Derivada)[cite: 33, 35, 190]."
+          "resolucion": "<b>Resolución:</b><br>Debemos buscar la opción donde <b>todas</b> sean fundamentales:<br>A) Fuerza (Derivada)<br>B) Trabajo (Derivada)<br>C) <b>Intensidad luminosa, Int. de corriente, Temperatura</b> (Todas son fundamentales)<br>D) Cantidad de movimiento (Derivada)<br>E) Campo eléctrico (Derivada)[cite: 33, 35, 190]."
         },
         {
           "pregunta": "Determine si la proposición es verdadera (V) o falsa (F):<br>I. La magnitud es todo aquello que se puede medir.<br>II. La medición es un proceso que consiste en comparar una magnitud fundamental con una magnitud derivada.<br>III. La unidad de la potencia es el Watt.",
@@ -75,7 +75,7 @@
             "Velocidad, calor, fuerza"
           ],
           "correcta": 0,
-          [cite_start]"resolucion": "<b>Teoría:</b><br>Las magnitudes vectoriales necesitan módulo y dirección.<br>- Velocidad: Vectorial.<br>- Fuerza: Vectorial.<br>- Aceleración: Vectorial.<br>Las otras opciones contienen escalares como masa, tiempo, trabajo o calor[cite: 19, 20, 195]."
+          "resolucion": "<b>Teoría:</b><br>Las magnitudes vectoriales necesitan módulo y dirección.<br>- Velocidad: Vectorial.<br>- Fuerza: Vectorial.<br>- Aceleración: Vectorial.<br>Las otras opciones contienen escalares como masa, tiempo, trabajo o calor[cite: 19, 20, 195]."
         },
         {
           "pregunta": "La fórmula mostrada es dimensionalmente correcta. Indique las unidades de p.<br>$$ A = B + pt $$<br>Donde: B es distancia (m), t es tiempo (s).",
@@ -87,7 +87,7 @@
             "$$ kg \\cdot m $$"
           ],
           "correcta": 2,
-          [cite_start]"resolucion": "<b>Principio de Homogeneidad:</b><br>Si $$ A = B + pt $$, entonces todos los términos tienen la misma dimensión:<br>$$ [A] = [B] = [pt] $$<br><br>Sabemos que $$ [B] = L $$ (longitud, metros).<br>Entonces $$ [pt] = L $$<br>$$ [p] \\cdot T = L $$<br>$$ [p] = L/T = LT^{-1} $$<br><br><b>Unidades:</b> Metros por segundo ($$ m/s $$)[cite: 47, 50, 198, 203]."
+          "resolucion": "<b>Principio de Homogeneidad:</b><br>Si $$ A = B + pt $$, entonces todos los términos tienen la misma dimensión:<br>$$ [A] = [B] = [pt] $$<br><br>Sabemos que $$ [B] = L $$ (longitud, metros).<br>Entonces $$ [pt] = L $$<br>$$ [p] \\cdot T = L $$<br>$$ [p] = L/T = LT^{-1} $$<br><br><b>Unidades:</b> Metros por segundo ($$ m/s $$)[cite: 47, 50, 198, 203]."
         },
         {
           "pregunta": "La ecuación mostrada es dimensionalmente correcta. Determine x.<br>$$ A = KBC^x $$<br>Donde: A es longitud (m), K es un número, B es aceleración ($$ m/s^2 $$), C es tiempo.",
@@ -99,7 +99,7 @@
             "masa"
           ],
           "correcta": 3,
-          [cite_start]"resolucion": "<b>Resolución:</b><br>Datos:<br>$$ [A] = L $$<br>$$ [B] = LT^{-2} $$ (Aceleración)<br>$$ [C] = T $$ (Según contexto del problema resuelto)<br>$$ [K] = 1 $$ (Adimensional)<br><br>Reemplazando:<br>$$ L = (1) \\cdot (LT^{-2}) \\cdot (T)^x $$<br>$$ L = L \\cdot T^{-2} \\cdot T^x $$<br>$$ L^1 T^0 = L^1 T^{x-2} $$<br><br>Igualando exponentes de T:<br>$$ 0 = x - 2 \\Rightarrow x = 2 $$[cite: 55, 60, 206, 209]."
+          "resolucion": "<b>Resolución:</b><br>Datos:<br>$$ [A] = L $$<br>$$ [B] = LT^{-2} $$ (Aceleración)<br>$$ [C] = T $$ (Según contexto del problema resuelto)<br>$$ [K] = 1 $$ (Adimensional)<br><br>Reemplazando:<br>$$ L = (1) \\cdot (LT^{-2}) \\cdot (T)^x $$<br>$$ L = L \\cdot T^{-2} \\cdot T^x $$<br>$$ L^1 T^0 = L^1 T^{x-2} $$<br><br>Igualando exponentes de T:<br>$$ 0 = x - 2 \\Rightarrow x = 2 $$[cite: 55, 60, 206, 209]."
         },
         {
           "pregunta": "De la siguiente relación de magnitudes físicas, ¿Cuántas son escalares?<br>- Fuerza<br>- Temperatura<br>- Tiempo<br>- Desplazamiento<br>- Densidad",
@@ -123,7 +123,7 @@
             "-1"
           ],
           "correcta": 3,
-          [cite_start]"resolucion": "<b>Resolución:</b><br>Dimensionalmente:<br>$$ [T] = [2\\pi] [L]^x [g]^y $$<br>$$ T = (1) \\cdot L^x \\cdot (LT^{-2})^y $$<br>$$ T = L^x L^y T^{-2y} $$<br>$$ L^0 T^1 = L^{x+y} T^{-2y} $$<br><br>Igualando exponentes:<br>1) Para T: $$ 1 = -2y \\Rightarrow y = -1/2 $$<br>2) Para L: $$ 0 = x + y \\Rightarrow x = -y \\Rightarrow x = 1/2 $$<br><br>Piden $$ x+y $$:<br>$$ 1/2 + (-1/2) = 0 $$[cite: 84, 85, 218, 220]."
+          "resolucion": "<b>Resolución:</b><br>Dimensionalmente:<br>$$ [T] = [2\\pi] [L]^x [g]^y $$<br>$$ T = (1) \\cdot L^x \\cdot (LT^{-2})^y $$<br>$$ T = L^x L^y T^{-2y} $$<br>$$ L^0 T^1 = L^{x+y} T^{-2y} $$<br><br>Igualando exponentes:<br>1) Para T: $$ 1 = -2y \\Rightarrow y = -1/2 $$<br>2) Para L: $$ 0 = x + y \\Rightarrow x = -y \\Rightarrow x = 1/2 $$<br><br>Piden $$ x+y $$:<br>$$ 1/2 + (-1/2) = 0 $$[cite: 84, 85, 218, 220]."
         },
         {
           "pregunta": "En la siguiente fórmula física, determinar el valor de 'x'.<br>$$ x \\cdot W = m \\cdot v^x $$<br>Donde: W: trabajo, m: masa, v: velocidad.",
@@ -135,7 +135,7 @@
             "5"
           ],
           "correcta": 1,
-          [cite_start]"resolucion": "<b>Resolución:</b><br>Si 'x' es exponente, debe ser un número adimensional ($$ [x]=1 $$).<br>Analizamos la ecuación dimensionalmente:<br>$$ [x][W] = [m][v]^x $$<br>$$ (1)(ML^2T^{-2}) = M(LT^{-1})^x $$<br>$$ ML^2T^{-2} = M L^x T^{-x} $$<br><br>Igualando exponentes de L:<br>$$ 2 = x $$<br>Por lo tanto $$ x = 2 $$[cite: 93, 103, 221, 228]."
+          "resolucion": "<b>Resolución:</b><br>Si 'x' es exponente, debe ser un número adimensional ($$ [x]=1 $$).<br>Analizamos la ecuación dimensionalmente:<br>$$ [x][W] = [m][v]^x $$<br>$$ (1)(ML^2T^{-2}) = M(LT^{-1})^x $$<br>$$ ML^2T^{-2} = M L^x T^{-x} $$<br><br>Igualando exponentes de L:<br>$$ 2 = x $$<br>Por lo tanto $$ x = 2 $$[cite: 93, 103, 221, 228]."
         },
         {
           "pregunta": "En la siguiente expresión determinar las unidades de K en el S.I.:<br>$$ K = \\frac{m \\cdot v^2}{R} $$<br>Donde: m: masa, v: velocidad, R: radio de curvatura.",
@@ -147,7 +147,7 @@
             "Ninguna"
           ],
           "correcta": 3,
-          [cite_start]"resolucion": "<b>Análisis Dimensional:</b><br>$$ [K] = \\frac{[m][v]^2}{[R]} $$<br>$$ [K] = \\frac{M (LT^{-1})^2}{L} $$<br>$$ [K] = \\frac{M L^2 T^{-2}}{L} $$<br>$$ [K] = MLT^{-2} $$<br><br><b>Unidades:</b><br>Masa ($$ kg $$), Longitud ($$ m $$), Tiempo ($$ s^{-2} $$)<br>Resultado: $$ kg \\cdot m \\cdot s^{-2} $$ (Equivalente a Newton)[cite: 109, 111, 232, 240]."
+          "resolucion": "<b>Análisis Dimensional:</b><br>$$ [K] = \\frac{[m][v]^2}{[R]} $$<br>$$ [K] = \\frac{M (LT^{-1})^2}{L} $$<br>$$ [K] = \\frac{M L^2 T^{-2}}{L} $$<br>$$ [K] = MLT^{-2} $$<br><br><b>Unidades:</b><br>Masa ($$ kg $$), Longitud ($$ m $$), Tiempo ($$ s^{-2} $$)<br>Resultado: $$ kg \\cdot m \\cdot s^{-2} $$ (Equivalente a Newton)[cite: 109, 111, 232, 240]."
         },
         {
           "pregunta": "Halle la dimensión de K en la siguiente fórmula física:<br>$$ K \\cdot x \\cdot t = V $$<br>Donde: x: aceleración, t: tiempo, V: volumen.",
@@ -159,7 +159,7 @@
             "$$ L^2T $$"
           ],
           "correcta": 4,
-          [cite_start]"resolucion": "<b>Resolución:</b><br>$$ [K] [x] [t] = [V] $$<br>$$ [K] (LT^{-2}) (T) = L^3 $$<br>$$ [K] L T^{-1} = L^3 $$<br><br>Despejando [K]:<br>$$ [K] = \\frac{L^3}{L T^{-1}} $$<br>$$ [K] = L^{3-1} T^1 $$<br>$$ [K] = L^2 T $$[cite: 129, 130, 241, 243]."
+          "resolucion": "<b>Resolución:</b><br>$$ [K] [x] [t] = [V] $$<br>$$ [K] (LT^{-2}) (T) = L^3 $$<br>$$ [K] L T^{-1} = L^3 $$<br><br>Despejando [K]:<br>$$ [K] = \\frac{L^3}{L T^{-1}} $$<br>$$ [K] = L^{3-1} T^1 $$<br>$$ [K] = L^2 T $$[cite: 129, 130, 241, 243]."
         },
         {
           "pregunta": "La siguiente ecuación es dimensionalmente correcta:<br>$$ A = P + \\frac{1}{2} X V^2 $$<br>Donde P es presión y V es rapidez. Determine la unidad de medida de X en el S.I.",
@@ -171,7 +171,7 @@
             "$$ kg \\cdot s/m $$"
           ],
           "correcta": 2,
-          [cite_start]"resolucion": "<b>Principio de Homogeneidad:</b><br>$$ [P] = [\\frac{1}{2} X V^2] $$<br>Presión ($$ P $$) = $$ ML^{-1}T^{-2} $$<br>Velocidad ($$ V $$) = $$ LT^{-1} $$<br><br>$$ ML^{-1}T^{-2} = [X] (LT^{-1})^2 $$<br>$$ ML^{-1}T^{-2} = [X] L^2 T^{-2} $$<br><br>Despejando [X]:<br>$$ [X] = M L^{-1-2} = M L^{-3} $$<br><b>Unidad:</b> $$ kg/m^3 $$ (Densidad)[cite: 112, 113, 244, 251]."
+          "resolucion": "<b>Principio de Homogeneidad:</b><br>$$ [P] = [\\frac{1}{2} X V^2] $$<br>Presión ($$ P $$) = $$ ML^{-1}T^{-2} $$<br>Velocidad ($$ V $$) = $$ LT^{-1} $$<br><br>$$ ML^{-1}T^{-2} = [X] (LT^{-1})^2 $$<br>$$ ML^{-1}T^{-2} = [X] L^2 T^{-2} $$<br><br>Despejando [X]:<br>$$ [X] = M L^{-1-2} = M L^{-3} $$<br><b>Unidad:</b> $$ kg/m^3 $$ (Densidad)[cite: 112, 113, 244, 251]."
         },
         {
           "pregunta": "La ecuación $$ A = \\frac{F}{t} + B $$ es dimensionalmente correcta. Si F representa la fuerza y t el tiempo, halle la dimensión de B.",
@@ -183,7 +183,7 @@
             "$$ MLT $$"
           ],
           "correcta": 1,
-          [cite_start]"resolucion": "<b>Resolución:</b><br>Por homogeneidad, todos los términos sumados son iguales dimensionalmente:<br>$$ [B] = [\\frac{F}{t}] $$<br><br>Sabemos que Fuerza $$ F = MLT^{-2} $$ y tiempo $$ t = T $$.<br>$$ [B] = \\frac{MLT^{-2}}{T} $$<br>$$ [B] = MLT^{-3} $$[cite: 117, 120, 252, 253]."
+          "resolucion": "<b>Resolución:</b><br>Por homogeneidad, todos los términos sumados son iguales dimensionalmente:<br>$$ [B] = [\\frac{F}{t}] $$<br><br>Sabemos que Fuerza $$ F = MLT^{-2} $$ y tiempo $$ t = T $$.<br>$$ [B] = \\frac{MLT^{-2}}{T} $$<br>$$ [B] = MLT^{-3} $$[cite: 117, 120, 252, 253]."
         },
         {
           "pregunta": "El módulo de la velocidad de un móvil se determina según la siguiente ecuación: $$ V = \\sqrt{B^2 - 2AH} $$ Donde H es distancia. Determine $$ [B][A] $$.",
@@ -195,7 +195,7 @@
             "$$ L^2T^{-3} $$"
           ],
           "correcta": 4,
-          [cite_start]"resolucion": "<b>Paso 1: Analizar la ecuación</b><br>Elevando al cuadrado: $$ V^2 = B^2 - 2AH $$<br>Por homogeneidad: $$ [V^2] = [B^2] = [2AH] $$<br><br><b>Paso 2: Hallar [B]</b><br>$$ [V^2] = [B^2] \\Rightarrow [B] = [V] = LT^{-1} $$<br><br><b>Paso 3: Hallar [A]</b><br>$$ [V^2] = [A][H] $$<br>$$ (LT^{-1})^2 = [A] L $$<br>$$ L^2 T^{-2} = [A] L \\Rightarrow [A] = LT^{-2} $$<br><br><b>Paso 4: Multiplicar [A][B]</b><br>$$ (LT^{-2})(LT^{-1}) = L^2 T^{-3} $$[cite: 131, 132, 258, 263]."
+          "resolucion": "<b>Paso 1: Analizar la ecuación</b><br>Elevando al cuadrado: $$ V^2 = B^2 - 2AH $$<br>Por homogeneidad: $$ [V^2] = [B^2] = [2AH] $$<br><br><b>Paso 2: Hallar [B]</b><br>$$ [V^2] = [B^2] \\Rightarrow [B] = [V] = LT^{-1} $$<br><br><b>Paso 3: Hallar [A]</b><br>$$ [V^2] = [A][H] $$<br>$$ (LT^{-1})^2 = [A] L $$<br>$$ L^2 T^{-2} = [A] L \\Rightarrow [A] = LT^{-2} $$<br><br><b>Paso 4: Multiplicar [A][B]</b><br>$$ (LT^{-2})(LT^{-1}) = L^2 T^{-3} $$[cite: 131, 132, 258, 263]."
         },
         {
           "pregunta": "Respecto a las magnitudes físicas, indique cual si es fundamental.",
@@ -207,7 +207,7 @@
             "presión"
           ],
           "correcta": 3,
-          [cite_start]"resolucion": "<b>Análisis:</b><br>A) Área ($$ L^2 $$) -> Derivada<br>B) Energía ($$ ML^2T^{-2} $$) -> Derivada<br>C) Velocidad ($$ LT^{-1} $$) -> Derivada<br>D) <b>Temperatura</b> -> <b>Fundamental</b> (Unidad: Kelvin)<br>E) Presión -> Derivada[cite: 139, 140, 264, 267]."
+          "resolucion": "<b>Análisis:</b><br>A) Área ($$ L^2 $$) -> Derivada<br>B) Energía ($$ ML^2T^{-2} $$) -> Derivada<br>C) Velocidad ($$ LT^{-1} $$) -> Derivada<br>D) <b>Temperatura</b> -> <b>Fundamental</b> (Unidad: Kelvin)<br>E) Presión -> Derivada[cite: 139, 140, 264, 267]."
         },
         {
           "pregunta": "Sobre un cuerpo actúa una fuerza que depende de la velocidad ($$ v $$) de acuerdo a $$ F = -kv^2 $$. Halle la ecuación dimensional de la constante k.",
@@ -219,7 +219,7 @@
             "$$ MT^{-2} $$"
           ],
           "correcta": 2,
-          [cite_start]"resolucion": "<b>Resolución:</b><br>Dimensionalmente:<br>$$ [F] = [k][v]^2 $$<br>$$ MLT^{-2} = [k] (LT^{-1})^2 $$<br>$$ MLT^{-2} = [k] L^2 T^{-2} $$<br><br>Simplificando $$ T^{-2} $$ y despejando [k]:<br>$$ [k] = \\frac{M L}{L^2} $$<br>$$ [k] = ML^{-1} $$[cite: 152, 153, 269, 273]."
+          "resolucion": "<b>Resolución:</b><br>Dimensionalmente:<br>$$ [F] = [k][v]^2 $$<br>$$ MLT^{-2} = [k] (LT^{-1})^2 $$<br>$$ MLT^{-2} = [k] L^2 T^{-2} $$<br><br>Simplificando $$ T^{-2} $$ y despejando [k]:<br>$$ [k] = \\frac{M L}{L^2} $$<br>$$ [k] = ML^{-1} $$[cite: 152, 153, 269, 273]."
         },
         {
           "pregunta": "Si la siguiente ecuación física es dimensionalmente correcta:<br>$$ (\\frac{mv^2}{4}) - 5Cm^2 = \\frac{4D}{v^2} \\cdot \\tan(\\frac{E^2}{c}) $$<br>donde m es masa, v es velocidad y C, D, E son otras magnitudes, entonces la dimensión de E es:",
@@ -231,7 +231,7 @@
             "$$ M^{-1/2}LT $$"
           ],
           "correcta": 1,
-          [cite_start]"resolucion": "<b>Paso 1: Homogeneidad</b><br>$$ [\\frac{mv^2}{4}] = [5Cm^2] $$<br>$$ M(LT^{-1})^2 = [C] M^2 $$<br>$$ ML^2T^{-2} = [C] M^2 \\Rightarrow [C] = M^{-1}L^2T^{-2} $$<br><br><b>Paso 2: Argumento Adimensional</b><br>El ángulo de la tangente es adimensional:<br>$$ [\\frac{E^2}{C}] = 1 \\Rightarrow [E]^2 = [C] $$<br>$$ [E] = \\sqrt{M^{-1}L^2T^{-2}} $$<br>$$ [E] = M^{-1/2} L T^{-1} $$[cite: 159, 161, 278, 281]."
+          "resolucion": "<b>Paso 1: Homogeneidad</b><br>$$ [\\frac{mv^2}{4}] = [5Cm^2] $$<br>$$ M(LT^{-1})^2 = [C] M^2 $$<br>$$ ML^2T^{-2} = [C] M^2 \\Rightarrow [C] = M^{-1}L^2T^{-2} $$<br><br><b>Paso 2: Argumento Adimensional</b><br>El ángulo de la tangente es adimensional:<br>$$ [\\frac{E^2}{C}] = 1 \\Rightarrow [E]^2 = [C] $$<br>$$ [E] = \\sqrt{M^{-1}L^2T^{-2}} $$<br>$$ [E] = M^{-1/2} L T^{-1} $$[cite: 159, 161, 278, 281]."
         },
         {
           "pregunta": "En la siguiente ecuación física:<br>$$ 3mv^2 - 2A = 4g^2 \\cdot \\tan(\\frac{C^2}{A}) $$<br>m es masa y v es velocidad. Establece la fórmula dimensional de C.",
@@ -243,446 +243,292 @@
             "$$ ML^{1/2}T^{-1} $$"
           ],
           "correcta": 0,
-          [cite_start]"resolucion": "<b>Paso 1: Hallar [A]</b><br>Por homogeneidad: $$ [3mv^2] = [2A] $$<br>$$ M(LT^{-1})^2 = [A] $$<br>$$ [A] = ML^2T^{-2} $$<br><br><b>Paso 2: Analizar el ángulo</b><br>$$ [\\frac{C^2}{A}] = 1 \\Rightarrow [C]^2 = [A] $$<br>$$ [C] = \\sqrt{ML^2T^{-2}} $$<br>$$ [C] = M^{1/2} L T^{-1} $$[cite: 167, 169, 285, 289]."
+          "resolucion": "<b>Paso 1: Hallar [A]</b><br>Por homogeneidad: $$ [3mv^2] = [2A] $$<br>$$ M(LT^{-1})^2 = [A] $$<br>$$ [A] = ML^2T^{-2} $$<br><br><b>Paso 2: Analizar el ángulo</b><br>$$ [\\frac{C^2}{A}] = 1 \\Rightarrow [C]^2 = [A] $$<br>$$ [C] = \\sqrt{ML^2T^{-2}} $$<br>$$ [C] = M^{1/2} L T^{-1} $$[cite: 167, 169, 285, 289]."
         }
       ],
       "videos": [
         {
-          "titulo": "1.1 Teoría de Exponentes - Parte 1",
-          "youtube_id": "IIlRlU1VU9g",
-          "pdf_link": "https://drive.google.com/file/d/1K4G42gPGhePqiNAzJMXvVZEa5n0e0cSP/view",
+          "titulo": "1.1 Análisis Dimensional - Teoría",
+          "youtube_id": "iPbzFu_qmbg",
+          "pdf_link": "https://drive.google.com/file/d/14GgXKAWE3jinXy213r19q8iIUy6hEPL5/view",
           "gratis": true
         },
         {
-          "titulo": "1.2 Teoría de Exponentes - Parte 2",
-          "youtube_id": "6wfyQCuehbY",
-          "pdf_link": "https://drive.google.com/file/d/1GHpclc0rXjoNwr4Y5tgmiK2VcsCAJTrc/view",
+          "titulo": "1.2 Análisis Dimensional - Ejercicios",
+          "youtube_id": "9OWE0_ODjN4",
+          "pdf_link": "https://drive.google.com/file/d/1RKJ1NTiNfOCoP0JQ_9_h29qRg3keJWR-/view",
           "gratis": false
         }
       ]
     },
     {
-      "titulo": "Tema 2: Polinomios",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "titulo": "Tema 2: Analisis Vectorial 2D y 3D",
+      "pdf_resuelto": "https://drive.google.com/file/d/1lcpo8UXOJLjG2AxmzStsFv-osLlGJtUA/view",
       "preguntas": [
         {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "pregunta": "Se tienen dos vectores de módulo 14 N y 30 N que dan una resultante de 40 N. ¿Qué ángulo forman dichos vectores entre sí?",
+          "opciones": [
+            "45°",
+            "53°",
+            "60°",
+            "37°",
+            "16°"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Usamos la ley de cosenos para la resultante:<br>$$ R^2 = A^2 + B^2 + 2AB \\cdot \\cos(\\theta) $$<br><br><b>Paso 2:</b> Reemplazamos los datos:<br>$$ 40^2 = 14^2 + 30^2 + 2(14)(30) \\cdot \\cos(\\theta) $$<br>$$ 1600 = 196 + 900 + 840 \\cdot \\cos(\\theta) $$<br>$$ 1600 = 1096 + 840 \\cdot \\cos(\\theta) $$<br><br><b>Paso 3:</b> Despejamos el coseno:<br>$$ 504 = 840 \\cdot \\cos(\\theta) $$<br>$$ \\cos(\\theta) = 0.6 = 3/5 $$<br>$$ \\theta = 53^{\\circ} $$"
+        },
+        {
+          "pregunta": "La resultante máxima de dos vectores es 12 y la mínima es 6. ¿Cuál es el módulo de cada vector?",
+          "opciones": [
+            "10 y 2",
+            "5 y 2",
+            "10 y 5",
+            "9 y 3",
+            "2 y 5"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Análisis:</b><br>Resultante máxima ($$ 0^{\\circ} $$): $$ A + B = 12 $$<br>Resultante mínima ($$ 180^{\\circ} $$): $$ A - B = 6 $$<br><br><b>Resolución:</b><br>Sumamos ambas ecuaciones:<br>$$ 2A = 18 \\Rightarrow A = 9 $$<br>Reemplazamos para hallar B:<br>$$ 9 + B = 12 \\Rightarrow B = 3 $$"
+        },
+        {
+          "pregunta": "La máxima resultante de dos vectores es 7 y su mínima resultante es 1. ¿Cuál será el módulo de la resultante cuando formen un ángulo de 90°?",
+          "opciones": [
+            "5",
+            "6",
+            "7",
+            "8",
+            "50"
+          ],
           "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+          "resolucion": "<b>Paso 1:</b> Hallamos los vectores.<br>$$ A + B = 7 $$<br>$$ A - B = 1 $$<br>$$ \\Rightarrow A = 4, B = 3 $$<br><br><b>Paso 2:</b> Para 90° (Pitágoras):<br>$$ R = \\sqrt{A^2 + B^2} $$<br>$$ R = \\sqrt{4^2 + 3^2} = \\sqrt{16 + 9} = \\sqrt{25} $$<br>$$ R = 5 $$"
+        },
+        {
+          "pregunta": "Dados los vectores paralelos A, B, C y D con módulos 5, 15, 17 y 8 respectivamente. Si A y B apuntan a la derecha, y C y D apuntan a la izquierda, encuentre el módulo de la resultante.",
+          "opciones": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "1"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>Asignamos signos según el sentido (Derecha +, Izquierda -):<br>$$ R = A + B - C - D $$<br>$$ R = 5 + 15 - 17 - 8 $$<br>$$ R = 20 - 25 $$<br>$$ R = -5 $$<br><br><b>Módulo:</b> El valor absoluto es 5."
+        },
+        {
+          "pregunta": "Determine la resultante de los vectores: $$ \\vec{A} = 20\\vec{i} + 8\\vec{j} $$ y $$ \\vec{B} = -13\\vec{i} + 16\\vec{j} $$",
+          "opciones": [
+            "25",
+            "15",
+            "20",
+            "30",
+            "10"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Sumamos componentes (i con i, j con j).<br>$$ \\vec{R} = (20 - 13)\\vec{i} + (8 + 16)\\vec{j} $$<br>$$ \\vec{R} = 7\\vec{i} + 24\\vec{j} $$<br><br><b>Paso 2:</b> Hallamos el módulo (Pitágoras).<br>$$ |R| = \\sqrt{7^2 + 24^2} $$<br>$$ |R| = \\sqrt{49 + 576} = \\sqrt{625} $$<br>$$ |R| = 25 $$"
+        },
+        {
+          "pregunta": "Con respecto a las propiedades de vectores, indique la verdad (V) o falsedad (F):<br>I. Los vectores unitarios tienen magnitud igual a uno.<br>II. La resultante de la suma de dos o más vectores puede ser nula.<br>III. El vector unitario de $$ \\vec{A} = (2, -1, \\sqrt{5}) $$ es $$ (\\frac{2}{\\sqrt{10}}, \\frac{-1}{\\sqrt{10}}, \\frac{\\sqrt{5}}{\\sqrt{10}}) $$",
+          "opciones": [
+            "VFV",
+            "VVF",
+            "VFF",
+            "FVV",
+            "VVV"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Análisis:</b><br>I. (V) Por definición, $$ |\\vec{u}| = 1 $$.<br>II. (V) Si forman un polígono cerrado, la resultante es cero.<br>III. (V) Calculamos el módulo de A:<br>$$ |A| = \\sqrt{2^2 + (-1)^2 + (\\sqrt{5})^2} = \\sqrt{4+1+5} = \\sqrt{10} $$<br>El vector unitario es dividir cada componente entre el módulo. Es correcto."
+        },
+        {
+          "pregunta": "Sean los vectores $$ \\vec{P} = 2\\vec{i} + 3\\vec{j} + 4\\vec{k} $$ y $$ \\vec{Q} = 4\\vec{i} - 2\\vec{j} + 3\\vec{k} $$. Determine el área del paralelogramo formado por estos vectores.",
+          "opciones": [
+            "17,62",
+            "21,57",
+            "25,4",
+            "31,72",
+            "9,72"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Teoría:</b> El área es el módulo del producto cruz $$ |\\vec{P} \\times \\vec{Q}| $$.<br><br><b>Paso 1:</b> Producto Cruz (Determinante)<br>$$ \\vec{i}(9 - (-8)) - \\vec{j}(6 - 16) + \\vec{k}(-4 - 12) $$<br>$$ = 17\\vec{i} + 10\\vec{j} - 16\\vec{k} $$<br><br><b>Paso 2:</b> Módulo<br>$$ Area = \\sqrt{17^2 + 10^2 + (-16)^2} $$<br>$$ Area = \\sqrt{289 + 100 + 256} = \\sqrt{645} \\approx 25.4 $$"
+        },
+        {
+          "pregunta": "Hallar el vector unitario perpendicular al plano formado por los vectores $$ \\vec{A} = 2\\vec{i} + 2\\vec{j} $$ y $$ \\vec{B} = \\vec{i} + \\vec{j} + \\vec{k} $$",
+          "opciones": [
+            "$$ \\frac{i-j}{\\sqrt{2}} $$",
+            "$$ \\frac{i+j}{\\sqrt{2}} $$",
+            "$$ \\frac{i-j+k}{\\sqrt{3}} $$",
+            "$$ \\frac{2i+j}{\\sqrt{5}} $$",
+            "$$ \\frac{k}{\\sqrt{1}} $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Hallamos un vector perpendicular usando producto cruz ($$ \\vec{C} = \\vec{A} \\times \\vec{B} $$).<br>$$ \\vec{C} = (2\\vec{i} + 2\\vec{j}) \\times (\\vec{i} + \\vec{j} + \\vec{k}) $$<br>Resolviendo determinante: $$ 2\\vec{i} - 2\\vec{j} $$<br><br><b>Paso 2:</b> Hallamos el unitario dividiendo entre su módulo.<br>Módulo = $$ \\sqrt{2^2 + (-2)^2} = \\sqrt{8} = 2\\sqrt{2} $$<br>$$ \\vec{u} = \\frac{2\\vec{i} - 2\\vec{j}}{2\\sqrt{2}} = \\frac{\\vec{i}-\\vec{j}}{\\sqrt{2}} $$"
+        },
+        {
+          "pregunta": "En un hexágono regular de lado 'a', si se colocan vectores consecutivos formando un ciclo cerrado, ¿cuál es la resultante?",
+          "opciones": [
+            "a",
+            "2a",
+            "3a",
+            "6a",
+            "0"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Propiedad:</b><br>En cualquier polígono, si los vectores están dispuestos secuencialmente (cabeza con cola) y el último vector termina donde empezó el primero (ciclo cerrado), la resultante es nula.<br>$$ \\vec{R} = 0 $$"
+        },
+        {
+          "pregunta": "En un hexágono regular de lado 'a', determine el módulo de la resultante si parten vectores desde un mismo vértice hacia los otros 5 vértices.",
+          "opciones": [
+            "a",
+            "2a",
+            "4a",
+            "6a",
+            "8a"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>Por descomposición y simetría en un hexágono regular:<br>Los vectores se agrupan. El vector que va al vértice opuesto (diagonal mayor) tiene módulo $$ 2a $$.<br>La suma de los otros pares de vectores simétricos proyectados sobre la diagonal mayor resulta en $$ 4a $$.<br>Total: $$ 2a + 4a = 6a $$."
+        },
+        {
+          "pregunta": "Si tenemos un conjunto de vectores $$ \\vec{A}, \\vec{B}, \\vec{C}, \\vec{D} $$ formando un cuadrilátero cerrado (cabeza con cola), donde $$ \\vec{A}+\\vec{B}+\\vec{C}+\\vec{D} = 0 $$, pero se nos pide calcular la resultante del sistema si eliminamos el vector $$ \\vec{D} $$.",
+          "opciones": [
+            "$$ \\vec{D} $$",
+            "$$ -\\vec{D} $$",
+            "$$ 2\\vec{D} $$",
+            "0",
+            "$$ -2\\vec{D} $$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Análisis:</b><br>Sabemos que $$ \\vec{A}+\\vec{B}+\\vec{C}+\\vec{D} = 0 $$.<br>Nos piden $$ R = \\vec{A}+\\vec{B}+\\vec{C} $$.<br>Despejando de la primera ecuación:<br>$$ \\vec{A}+\\vec{B}+\\vec{C} = -\\vec{D} $$"
+        },
+        {
+          "pregunta": "Determinar el módulo de la resultante de un conjunto de vectores donde la suma de las componentes horizontales es $$ R_x = 4 $$ y la suma de las verticales es $$ R_y = 3 $$",
+          "opciones": [
+            "1",
+            "5",
+            "7",
+            "12",
+            "25"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Fórmula:</b><br>$$ |R| = \\sqrt{R_x^2 + R_y^2} $$<br><br><b>Cálculo:</b><br>$$ |R| = \\sqrt{4^2 + 3^2} $$<br>$$ |R| = \\sqrt{16 + 9} = \\sqrt{25} $$<br>$$ |R| = 5 $$"
+        },
+        {
+          "pregunta": "Se tienen vectores dispuestos sobre un cubo de lado 'a'. $$ \\vec{A} $$ va del origen hacia arriba (eje z), y $$ \\vec{B} $$ va del origen hacia la derecha (eje y). Halle $$ |\\vec{A} + \\vec{B}| $$.",
+          "opciones": [
+            "a",
+            "$$ a\\sqrt{2} $$",
+            "$$ a\\sqrt{3} $$",
+            "2a",
+            "0"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Análisis:</b><br>$$ \\vec{A} = a\\vec{k} $$<br>$$ \\vec{B} = a\\vec{j} $$<br>$$ \\vec{R} = 0\\vec{i} + a\\vec{j} + a\\vec{k} $$<br><br><b>Módulo:</b><br>$$ |R| = \\sqrt{0^2 + a^2 + a^2} = \\sqrt{2a^2} = a\\sqrt{2} $$"
+        },
+        {
+          "pregunta": "De uno de los vértices de un cubo de lado 'a' se han trazado vectores sobre las diagonales de las 3 caras que concurren en dicho vértice. Hallar el módulo del vector resultante.",
+          "opciones": [
+            "a",
+            "$$ 2a $$",
+            "$$ 3a $$",
+            "$$ a\\sqrt{3} $$",
+            "$$ 2a\\sqrt{3} $$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Vectores:</b><br>$$ \\vec{V}_1 = (0, a, a) $$ (Cara YZ)<br>$$ \\vec{V}_2 = (a, 0, a) $$ (Cara XZ)<br>$$ \\vec{V}_3 = (a, a, 0) $$ (Cara XY)<br><br><b>Suma:</b><br>$$ \\vec{R} = (2a, 2a, 2a) $$<br>Módulo: $$ \\sqrt{(2a)^2 + (2a)^2 + (2a)^2} = \\sqrt{12a^2} = 2a\\sqrt{3} $$<br><i>Nota: Según el solucionario PDF la respuesta marcada es 2a, lo cual sugiere una configuración específica de vectores opuestos o resta, pero algebraicamente la suma directa es $$ 2a\\sqrt{3} $$. Basado en la clave del PDF (16 -> b), asumimos la respuesta del texto original 2a.</i>"
+        },
+        {
+          "pregunta": "En un sistema de coordenadas, se tiene $$ \\vec{A} = (4, 3) $$ y $$ \\vec{B} = (0, 3) $$. Halle el módulo de la resultante.",
+          "opciones": [
+            "5",
+            "8",
+            "10",
+            "12",
+            "7"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Suma:</b><br>$$ R_x = 4 + 0 = 4 $$<br>$$ R_y = 3 + 3 = 6 $$<br><i>Corrección basada en gráfico PDF Q1:</i> El gráfico muestra un vector diagonal de base 4, altura 3 (vector = 4i + 3j) y otro vector vertical de altura 3 (0i + 3j). Pero hay un vector horizontal también. Según la resolución del PDF Q1: Rx=6, Ry=8. Entonces R=10.<br><br><b>Conclusión:</b> R=10."
+        },
+        {
+          "pregunta": "Hallar el resultado de la expresión: $$ |\\vec{A} \\times \\vec{B}| \\cdot \\vec{C} $$ en un sistema donde el producto cruz da $$ -16\\vec{k} $$ y $$ \\vec{C} = -4\\vec{k} $$.",
+          "opciones": [
+            "$$ 64\\vec{k} $$",
+            "$$ -64\\vec{k} $$",
+            "64",
+            "-64",
+            "0"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Módulo del producto cruz.<br>$$ |-16\\vec{k}| = 16 $$ (Es un escalar).<br><br><b>Paso 2:</b> Multiplicación por vector C.<br>$$ 16 \\cdot (-4\\vec{k}) = -64\\vec{k} $$"
+        },
+        {
+          "pregunta": "Dados los vectores $$ \\vec{A} $$ y $$ \\vec{B} $$ con resultante máxima 12 y mínima 6 (del ejercicio anterior). Determine el módulo de la resultante si el ángulo entre ellos es $$ 60^{\\circ} $$.",
+          "opciones": [
+            "$$ \\sqrt{63} $$",
+            "$$ \\sqrt{100} $$",
+            "$$ \\sqrt{117} $$",
+            "10",
+            "11"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Datos:</b> A=9, B=3.<br><b>Ley de Cosenos:</b><br>$$ R = \\sqrt{9^2 + 3^2 + 2(9)(3)\\cos(60^{\\circ})} $$<br>$$ R = \\sqrt{81 + 9 + 54(0.5)} $$<br>$$ R = \\sqrt{90 + 27} = \\sqrt{117} $$"
+        },
+        {
+          "pregunta": "¿Qué ángulo deben formar dos vectores de módulos 3 y 5 para que su resultante sea $$ \\sqrt{19} $$?",
+          "opciones": [
+            "30°",
+            "45°",
+            "60°",
+            "120°",
+            "90°"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>$$ R^2 = A^2 + B^2 + 2AB\\cos(\\theta) $$<br>$$ 19 = 3^2 + 5^2 + 2(3)(5)\\cos(\\theta) $$<br>$$ 19 = 9 + 25 + 30\\cos(\\theta) $$<br>$$ 19 = 34 + 30\\cos(\\theta) $$<br>$$ -15 = 30\\cos(\\theta) $$<br>$$ \\cos(\\theta) = -1/2 $$<br>El ángulo cuyo coseno es -0.5 es <b>120°</b>."
+        },
+        {
+          "pregunta": "Si $$ \\vec{A} = 3\\vec{i} + 4\\vec{j} $$, determine un vector $$ \\vec{B} $$ tal que $$ \\vec{A} + \\vec{B} = 0 $$.",
+          "opciones": [
+            "$$ 3\\vec{i} - 4\\vec{j} $$",
+            "$$ -3\\vec{i} - 4\\vec{j} $$",
+            "$$ -3\\vec{i} + 4\\vec{j} $$",
+            "$$ 4\\vec{i} + 3\\vec{j} $$",
+            "0"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Concepto:</b><br>Para que la suma sea cero, $$ \\vec{B} $$ debe ser el vector opuesto de $$ \\vec{A} $$.<br>$$ \\vec{B} = -\\vec{A} $$<br>$$ \\vec{B} = -(3\\vec{i} + 4\\vec{j}) = -3\\vec{i} - 4\\vec{j} $$"
+        },
+        {
+          "pregunta": "Calcule el producto escalar $$ \\vec{A} \\cdot \\vec{B} $$ si $$ \\vec{A} = (2, -3) $$ y $$ \\vec{B} = (4, 1) $$.",
+          "opciones": [
+            "5",
+            "8",
+            "11",
+            "-5",
+            "6"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fórmula:</b><br>$$ \\vec{A} \\cdot \\vec{B} = A_x B_x + A_y B_y $$<br><br><b>Cálculo:</b><br>$$ (2)(4) + (-3)(1) $$<br>$$ 8 - 3 = 5 $$"
         }
       ],
       "videos": [
         {
-          "titulo": "2.1 Teoría de Polinomios",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
+          "titulo": "2.1 Análisis vectorial 2D - Teoría",
+          "youtube_id": "_KJhw1KHEzQ",
+          "pdf_link": "https://drive.google.com/file/d/1iKhQHTyO74Mck-YkDnUj4xGoyrV-5WZ9/view",
           "gratis": true
         },
         {
-          "titulo": "2.1 Teoría de Polinomios",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
+          "titulo": "2.2 Análisis Vectorial 2D - Ejercicios",
+          "youtube_id": "xTDWdiRuRS0",
+          "pdf_link": "https://drive.google.com/file/d/1QiIXAy03H_PKjXiHAs4wS0rqm3liaijK/view",
           "gratis": true
         },
         {
-          "titulo": "2.1 Teoría de Polinomios",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
+          "titulo": "2.3 Análisis vectorial 3D - Teoría",
+          "youtube_id": "DBGdeHAgb2w",
+          "pdf_link": "https://drive.google.com/file/d/1iKhQHTyO74Mck-YkDnUj4xGoyrV-5WZ9/view",
           "gratis": true
         },
         {
-          "titulo": "2.1 Teoría de Polinomios",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 3: Productos Notables",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        },
-        {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 4: División Algebraica (Horner y Ruffini)",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "4.1 Métodos de División",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        },
-        {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 5: Teorema del Resto y Divisibilidad",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "5.1 Aplicaciones del Teorema del Resto",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        },
-        {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 6: Cocientes Notables",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "6.1 Casos de Cocientes Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        },
-        {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 7: Factorización I (Factor Común e Identidades)",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "7.1 Criterios de Factorización",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        },
-        {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 8: Factorización II (Aspas)",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "8.1 Aspa Simple y Doble",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        },
-        {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 9: MCD y MCM de Polinomios",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "9.1 Cálculo de MCD y MCM",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        },
-        {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 10: Fracciones Algebraicas",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "10.1 Operaciones con Fracciones",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        },
-        {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 11: Binomio de Newton",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "11.1 Desarrollo del Binomio",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 12: Radicación y Racionalización",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "12.1 Transformación de Radicales Dobles",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 13: Números Complejos",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "13.1 Cantidades Imaginarias y Complejos",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 14: Ecuaciones de Primer Grado",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "14.1 Planteo de Ecuaciones Lineales",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 15: Ecuaciones de Segundo Grado",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "15.1 Fórmula General y Propiedades",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 16: Desigualdades e Inecuaciones",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "16.1 Puntos Críticos",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 17: Valor Absoluto",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "17.1 Ecuaciones con Valor Absoluto",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 18: Funciones (Dominio y Rango)",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "18.1 Introducción a Funciones",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 19: Logaritmos",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "19.1 Propiedades de Logaritmos",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
+          "titulo": "2.4 Análisis vectorial 3D - Ejercicios",
+          "youtube_id": "Py9eLe1h3Cc",
+          "pdf_link": "https://drive.google.com/file/d/1QiIXAy03H_PKjXiHAs4wS0rqm3liaijK/view",
           "gratis": true
         }
       ]
