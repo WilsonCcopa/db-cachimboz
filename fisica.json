@@ -1,0 +1,691 @@
+{
+  "curso": "Física",
+  "temas": [
+    {
+      "titulo": "Tema 1: Física y Análisis Dimensional",
+      "pdf_resuelto": "https://drive.google.com/file/d/1CeHJFfG_GHp3he8rQ6W9NSKZIA4aICI5/view",
+      "preguntas": [
+        {
+          "pregunta": "Las unidades que corresponden a las cantidades físicas fundamentales de acuerdo al Sistema Internacional son:",
+          "opciones": [
+            "Voltio, Ohmio",
+            "Coulomb, Faradio",
+            "Newton, Tesla",
+            "Amperio, segundo",
+            "Vatio, Joule"
+          ],
+          "correcta": 3,
+          [cite_start]"resolucion": "<b>Análisis:</b><br>El Sistema Internacional (S.I.) define 7 magnitudes fundamentales y sus unidades base:<br>1. Longitud (metro)<br>2. Masa (kilogramo)<br>3. Tiempo (segundo)<br>4. Intensidad de corriente (Amperio)<br>5. Temperatura (Kelvin)<br>6. Intensidad luminosa (Candela)<br>7. Cantidad de sustancia (Mol)<br><br><b>Conclusión:</b> La alternativa que contiene solo unidades fundamentales es 'Amperio, segundo'[cite: 3, 9, 17, 180]."
+        },
+        {
+          "pregunta": "El S.L.U.M.P es un sistema legal de unidades similar al Sistema Internacional (S.I.) usado en el Perú, este tiene vigencia a nivel:",
+          "opciones": [
+            "Regional",
+            "masa, tiempo, velocidad",
+            "longitud, masa, tiempo",
+            "masa, velocidad, tiempo",
+            "fuerza, masa, velocidad"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>El Sistema Legal de Unidades de Medida del Perú (SLUMP) se basa en el Sistema Internacional. [cite_start]Por lo tanto, sus magnitudes fundamentales base son las mismas que la mecánica clásica del SI:<br>$$ \\text{Longitud (L), Masa (M) y Tiempo (T)} $$<br>Las otras alternativas incluyen magnitudes derivadas como velocidad o fuerza[cite: 21, 183]."
+        },
+        {
+          "pregunta": "La magnitud física que no es fundamental en el S.I. es:",
+          "opciones": [
+            "Peso",
+            "Masa",
+            "Longitud",
+            "Tiempo",
+            "Intensidad Luminosa"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Análisis:</b><br>Las magnitudes fundamentales son Masa, Longitud, Tiempo, Temperatura, Int. Corriente, Int. [cite_start]Luminosa y Cantidad de Sustancia.<br><br>El <b>Peso</b> es una fuerza ($$ P = m \\cdot g $$), por lo tanto, es una magnitud <b>derivada</b>, no fundamental[cite: 27, 28, 186]."
+        },
+        {
+          "pregunta": "De las siguientes alternativas, son magnitudes fundamentales:",
+          "opciones": [
+            "Fuerza, campo eléctrico e intensidad luminosa",
+            "Trabajo, potencia y cantidad de sustancia",
+            "Intensidad luminosa, intensidad de corriente y temperatura",
+            "Longitud, cantidad de movimiento y capacitancia",
+            "Tiempo, masa y campo eléctrico"
+          ],
+          "correcta": 2,
+          [cite_start]"resolucion": "<b>Resolución:</b><br>Debemos buscar la opción donde <b>todas</b> sean fundamentales:<br>A) Fuerza (Derivada)<br>B) Trabajo (Derivada)<br>C) <b>Intensidad luminosa, Int. de corriente, Temperatura</b> (Todas son fundamentales)<br>D) Cantidad de movimiento (Derivada)<br>E) Campo eléctrico (Derivada)[cite: 33, 35, 190]."
+        },
+        {
+          "pregunta": "Determine si la proposición es verdadera (V) o falsa (F):<br>I. La magnitud es todo aquello que se puede medir.<br>II. La medición es un proceso que consiste en comparar una magnitud fundamental con una magnitud derivada.<br>III. La unidad de la potencia es el Watt.",
+          "opciones": [
+            "VVF",
+            "VFF",
+            "FFV",
+            "FVV",
+            "VFV"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Análisis:</b><br>I. (V) Magnitud es todo atributo medible.<br>II. (F) Medir es comparar una magnitud con su <b>unidad patrón</b>, no comparar una fundamental con una derivada.<br>III. (V) [cite_start]En el S.I., la potencia se mide en Watts ($$ J/s $$).<br><br><b>Respuesta:</b> VFV[cite: 37, 40, 191, 192, 193, 194]."
+        },
+        {
+          "pregunta": "¿Cuáles son las magnitudes físicas vectoriales?",
+          "opciones": [
+            "Velocidad, fuerza, aceleración",
+            "Masa, tiempo, velocidad",
+            "Longitud, masa, tiempo",
+            "Presión, desplazamiento, trabajo",
+            "Velocidad, calor, fuerza"
+          ],
+          "correcta": 0,
+          [cite_start]"resolucion": "<b>Teoría:</b><br>Las magnitudes vectoriales necesitan módulo y dirección.<br>- Velocidad: Vectorial.<br>- Fuerza: Vectorial.<br>- Aceleración: Vectorial.<br>Las otras opciones contienen escalares como masa, tiempo, trabajo o calor[cite: 19, 20, 195]."
+        },
+        {
+          "pregunta": "La fórmula mostrada es dimensionalmente correcta. Indique las unidades de p.<br>$$ A = B + pt $$<br>Donde: B es distancia (m), t es tiempo (s).",
+          "opciones": [
+            "$$ m/s^2 $$",
+            "$$ (m/s)^2 $$",
+            "$$ m/s $$",
+            "$$ m \\cdot J $$",
+            "$$ kg \\cdot m $$"
+          ],
+          "correcta": 2,
+          [cite_start]"resolucion": "<b>Principio de Homogeneidad:</b><br>Si $$ A = B + pt $$, entonces todos los términos tienen la misma dimensión:<br>$$ [A] = [B] = [pt] $$<br><br>Sabemos que $$ [B] = L $$ (longitud, metros).<br>Entonces $$ [pt] = L $$<br>$$ [p] \\cdot T = L $$<br>$$ [p] = L/T = LT^{-1} $$<br><br><b>Unidades:</b> Metros por segundo ($$ m/s $$)[cite: 47, 50, 198, 203]."
+        },
+        {
+          "pregunta": "La ecuación mostrada es dimensionalmente correcta. Determine x.<br>$$ A = KBC^x $$<br>Donde: A es longitud (m), K es un número, B es aceleración ($$ m/s^2 $$), C es tiempo.",
+          "opciones": [
+            "tiempo",
+            "1",
+            "longitud",
+            "2",
+            "masa"
+          ],
+          "correcta": 3,
+          [cite_start]"resolucion": "<b>Resolución:</b><br>Datos:<br>$$ [A] = L $$<br>$$ [B] = LT^{-2} $$ (Aceleración)<br>$$ [C] = T $$ (Según contexto del problema resuelto)<br>$$ [K] = 1 $$ (Adimensional)<br><br>Reemplazando:<br>$$ L = (1) \\cdot (LT^{-2}) \\cdot (T)^x $$<br>$$ L = L \\cdot T^{-2} \\cdot T^x $$<br>$$ L^1 T^0 = L^1 T^{x-2} $$<br><br>Igualando exponentes de T:<br>$$ 0 = x - 2 \\Rightarrow x = 2 $$[cite: 55, 60, 206, 209]."
+        },
+        {
+          "pregunta": "De la siguiente relación de magnitudes físicas, ¿Cuántas son escalares?<br>- Fuerza<br>- Temperatura<br>- Tiempo<br>- Desplazamiento<br>- Densidad",
+          "opciones": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "0"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Clasificación:</b><br>1. Fuerza: Vectorial ($$ \\times $$)<br>2. <b>Temperatura: Escalar</b> ($$ \\checkmark $$)<br>3. <b>Tiempo: Escalar</b> ($$ \\checkmark $$)<br>4. Desplazamiento: Vectorial ($$ \\times $$)<br>5. [cite_start]<b>Densidad: Escalar</b> ($$ \\checkmark $$)<br><br>Total escalares: 3[cite: 68, 211, 217]."
+        },
+        {
+          "pregunta": "La siguiente ecuación es dimensionalmente correcta $$ T = 2\\pi L^x g^y $$<br>Donde: T es tiempo, L es longitud, g es aceleración de la gravedad. Determine $$ x+y $$.",
+          "opciones": [
+            "2",
+            "2,5",
+            "1,5",
+            "0",
+            "-1"
+          ],
+          "correcta": 3,
+          [cite_start]"resolucion": "<b>Resolución:</b><br>Dimensionalmente:<br>$$ [T] = [2\\pi] [L]^x [g]^y $$<br>$$ T = (1) \\cdot L^x \\cdot (LT^{-2})^y $$<br>$$ T = L^x L^y T^{-2y} $$<br>$$ L^0 T^1 = L^{x+y} T^{-2y} $$<br><br>Igualando exponentes:<br>1) Para T: $$ 1 = -2y \\Rightarrow y = -1/2 $$<br>2) Para L: $$ 0 = x + y \\Rightarrow x = -y \\Rightarrow x = 1/2 $$<br><br>Piden $$ x+y $$:<br>$$ 1/2 + (-1/2) = 0 $$[cite: 84, 85, 218, 220]."
+        },
+        {
+          "pregunta": "En la siguiente fórmula física, determinar el valor de 'x'.<br>$$ x \\cdot W = m \\cdot v^x $$<br>Donde: W: trabajo, m: masa, v: velocidad.",
+          "opciones": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "correcta": 1,
+          [cite_start]"resolucion": "<b>Resolución:</b><br>Si 'x' es exponente, debe ser un número adimensional ($$ [x]=1 $$).<br>Analizamos la ecuación dimensionalmente:<br>$$ [x][W] = [m][v]^x $$<br>$$ (1)(ML^2T^{-2}) = M(LT^{-1})^x $$<br>$$ ML^2T^{-2} = M L^x T^{-x} $$<br><br>Igualando exponentes de L:<br>$$ 2 = x $$<br>Por lo tanto $$ x = 2 $$[cite: 93, 103, 221, 228]."
+        },
+        {
+          "pregunta": "En la siguiente expresión determinar las unidades de K en el S.I.:<br>$$ K = \\frac{m \\cdot v^2}{R} $$<br>Donde: m: masa, v: velocidad, R: radio de curvatura.",
+          "opciones": [
+            "kg-m",
+            "kg-m-s",
+            "$$ kg \\cdot m \\cdot s^{-1} $$",
+            "$$ kg \\cdot m \\cdot s^{-2} $$",
+            "Ninguna"
+          ],
+          "correcta": 3,
+          [cite_start]"resolucion": "<b>Análisis Dimensional:</b><br>$$ [K] = \\frac{[m][v]^2}{[R]} $$<br>$$ [K] = \\frac{M (LT^{-1})^2}{L} $$<br>$$ [K] = \\frac{M L^2 T^{-2}}{L} $$<br>$$ [K] = MLT^{-2} $$<br><br><b>Unidades:</b><br>Masa ($$ kg $$), Longitud ($$ m $$), Tiempo ($$ s^{-2} $$)<br>Resultado: $$ kg \\cdot m \\cdot s^{-2} $$ (Equivalente a Newton)[cite: 109, 111, 232, 240]."
+        },
+        {
+          "pregunta": "Halle la dimensión de K en la siguiente fórmula física:<br>$$ K \\cdot x \\cdot t = V $$<br>Donde: x: aceleración, t: tiempo, V: volumen.",
+          "opciones": [
+            "$$ L^{-3}T^{-2} $$",
+            "$$ L^{-2}T^{-2} $$",
+            "$$ L^2T^{-2} $$",
+            "$$ LT^{-1} $$",
+            "$$ L^2T $$"
+          ],
+          "correcta": 4,
+          [cite_start]"resolucion": "<b>Resolución:</b><br>$$ [K] [x] [t] = [V] $$<br>$$ [K] (LT^{-2}) (T) = L^3 $$<br>$$ [K] L T^{-1} = L^3 $$<br><br>Despejando [K]:<br>$$ [K] = \\frac{L^3}{L T^{-1}} $$<br>$$ [K] = L^{3-1} T^1 $$<br>$$ [K] = L^2 T $$[cite: 129, 130, 241, 243]."
+        },
+        {
+          "pregunta": "La siguiente ecuación es dimensionalmente correcta:<br>$$ A = P + \\frac{1}{2} X V^2 $$<br>Donde P es presión y V es rapidez. Determine la unidad de medida de X en el S.I.",
+          "opciones": [
+            "kg",
+            "$$ kg/m^2 $$",
+            "$$ kg/m^3 $$",
+            "$$ kg \\cdot s $$",
+            "$$ kg \\cdot s/m $$"
+          ],
+          "correcta": 2,
+          [cite_start]"resolucion": "<b>Principio de Homogeneidad:</b><br>$$ [P] = [\\frac{1}{2} X V^2] $$<br>Presión ($$ P $$) = $$ ML^{-1}T^{-2} $$<br>Velocidad ($$ V $$) = $$ LT^{-1} $$<br><br>$$ ML^{-1}T^{-2} = [X] (LT^{-1})^2 $$<br>$$ ML^{-1}T^{-2} = [X] L^2 T^{-2} $$<br><br>Despejando [X]:<br>$$ [X] = M L^{-1-2} = M L^{-3} $$<br><b>Unidad:</b> $$ kg/m^3 $$ (Densidad)[cite: 112, 113, 244, 251]."
+        },
+        {
+          "pregunta": "La ecuación $$ A = \\frac{F}{t} + B $$ es dimensionalmente correcta. Si F representa la fuerza y t el tiempo, halle la dimensión de B.",
+          "opciones": [
+            "$$ MLT^{-2} $$",
+            "$$ MLT^{-3} $$",
+            "$$ ML $$",
+            "$$ LT^{-2} $$",
+            "$$ MLT $$"
+          ],
+          "correcta": 1,
+          [cite_start]"resolucion": "<b>Resolución:</b><br>Por homogeneidad, todos los términos sumados son iguales dimensionalmente:<br>$$ [B] = [\\frac{F}{t}] $$<br><br>Sabemos que Fuerza $$ F = MLT^{-2} $$ y tiempo $$ t = T $$.<br>$$ [B] = \\frac{MLT^{-2}}{T} $$<br>$$ [B] = MLT^{-3} $$[cite: 117, 120, 252, 253]."
+        },
+        {
+          "pregunta": "El módulo de la velocidad de un móvil se determina según la siguiente ecuación: $$ V = \\sqrt{B^2 - 2AH} $$ Donde H es distancia. Determine $$ [B][A] $$.",
+          "opciones": [
+            "$$ L^{-3}T^{-2} $$",
+            "$$ L^{-2}T^{-2} $$",
+            "$$ L^2T^{-2} $$",
+            "$$ LT^{-1} $$",
+            "$$ L^2T^{-3} $$"
+          ],
+          "correcta": 4,
+          [cite_start]"resolucion": "<b>Paso 1: Analizar la ecuación</b><br>Elevando al cuadrado: $$ V^2 = B^2 - 2AH $$<br>Por homogeneidad: $$ [V^2] = [B^2] = [2AH] $$<br><br><b>Paso 2: Hallar [B]</b><br>$$ [V^2] = [B^2] \\Rightarrow [B] = [V] = LT^{-1} $$<br><br><b>Paso 3: Hallar [A]</b><br>$$ [V^2] = [A][H] $$<br>$$ (LT^{-1})^2 = [A] L $$<br>$$ L^2 T^{-2} = [A] L \\Rightarrow [A] = LT^{-2} $$<br><br><b>Paso 4: Multiplicar [A][B]</b><br>$$ (LT^{-2})(LT^{-1}) = L^2 T^{-3} $$[cite: 131, 132, 258, 263]."
+        },
+        {
+          "pregunta": "Respecto a las magnitudes físicas, indique cual si es fundamental.",
+          "opciones": [
+            "área",
+            "energía",
+            "velocidad",
+            "temperatura",
+            "presión"
+          ],
+          "correcta": 3,
+          [cite_start]"resolucion": "<b>Análisis:</b><br>A) Área ($$ L^2 $$) -> Derivada<br>B) Energía ($$ ML^2T^{-2} $$) -> Derivada<br>C) Velocidad ($$ LT^{-1} $$) -> Derivada<br>D) <b>Temperatura</b> -> <b>Fundamental</b> (Unidad: Kelvin)<br>E) Presión -> Derivada[cite: 139, 140, 264, 267]."
+        },
+        {
+          "pregunta": "Sobre un cuerpo actúa una fuerza que depende de la velocidad ($$ v $$) de acuerdo a $$ F = -kv^2 $$. Halle la ecuación dimensional de la constante k.",
+          "opciones": [
+            "$$ ML^2 $$",
+            "$$ MLT $$",
+            "$$ ML^{-1} $$",
+            "$$ MT^{-1} $$",
+            "$$ MT^{-2} $$"
+          ],
+          "correcta": 2,
+          [cite_start]"resolucion": "<b>Resolución:</b><br>Dimensionalmente:<br>$$ [F] = [k][v]^2 $$<br>$$ MLT^{-2} = [k] (LT^{-1})^2 $$<br>$$ MLT^{-2} = [k] L^2 T^{-2} $$<br><br>Simplificando $$ T^{-2} $$ y despejando [k]:<br>$$ [k] = \\frac{M L}{L^2} $$<br>$$ [k] = ML^{-1} $$[cite: 152, 153, 269, 273]."
+        },
+        {
+          "pregunta": "Si la siguiente ecuación física es dimensionalmente correcta:<br>$$ (\\frac{mv^2}{4}) - 5Cm^2 = \\frac{4D}{v^2} \\cdot \\tan(\\frac{E^2}{c}) $$<br>donde m es masa, v es velocidad y C, D, E son otras magnitudes, entonces la dimensión de E es:",
+          "opciones": [
+            "$$ M^{-1}L^2T^2 $$",
+            "$$ M^{-1/2}LT^{-1} $$",
+            "$$ M^{-2}L^4T^4 $$",
+            "$$ M^{1/2}L^{-1}T^2 $$",
+            "$$ M^{-1/2}LT $$"
+          ],
+          "correcta": 1,
+          [cite_start]"resolucion": "<b>Paso 1: Homogeneidad</b><br>$$ [\\frac{mv^2}{4}] = [5Cm^2] $$<br>$$ M(LT^{-1})^2 = [C] M^2 $$<br>$$ ML^2T^{-2} = [C] M^2 \\Rightarrow [C] = M^{-1}L^2T^{-2} $$<br><br><b>Paso 2: Argumento Adimensional</b><br>El ángulo de la tangente es adimensional:<br>$$ [\\frac{E^2}{C}] = 1 \\Rightarrow [E]^2 = [C] $$<br>$$ [E] = \\sqrt{M^{-1}L^2T^{-2}} $$<br>$$ [E] = M^{-1/2} L T^{-1} $$[cite: 159, 161, 278, 281]."
+        },
+        {
+          "pregunta": "En la siguiente ecuación física:<br>$$ 3mv^2 - 2A = 4g^2 \\cdot \\tan(\\frac{C^2}{A}) $$<br>m es masa y v es velocidad. Establece la fórmula dimensional de C.",
+          "opciones": [
+            "$$ M^{1/2}LT^{-1} $$",
+            "$$ M^{-1/2}L^{-1/2}T $$",
+            "$$ MLT^{-2} $$",
+            "$$ M^{-1}L^{-1}T^2 $$",
+            "$$ ML^{1/2}T^{-1} $$"
+          ],
+          "correcta": 0,
+          [cite_start]"resolucion": "<b>Paso 1: Hallar [A]</b><br>Por homogeneidad: $$ [3mv^2] = [2A] $$<br>$$ M(LT^{-1})^2 = [A] $$<br>$$ [A] = ML^2T^{-2} $$<br><br><b>Paso 2: Analizar el ángulo</b><br>$$ [\\frac{C^2}{A}] = 1 \\Rightarrow [C]^2 = [A] $$<br>$$ [C] = \\sqrt{ML^2T^{-2}} $$<br>$$ [C] = M^{1/2} L T^{-1} $$[cite: 167, 169, 285, 289]."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "1.1 Teoría de Exponentes - Parte 1",
+          "youtube_id": "IIlRlU1VU9g",
+          "pdf_link": "https://drive.google.com/file/d/1K4G42gPGhePqiNAzJMXvVZEa5n0e0cSP/view",
+          "gratis": true
+        },
+        {
+          "titulo": "1.2 Teoría de Exponentes - Parte 2",
+          "youtube_id": "6wfyQCuehbY",
+          "pdf_link": "https://drive.google.com/file/d/1GHpclc0rXjoNwr4Y5tgmiK2VcsCAJTrc/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 2: Polinomios",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "2.1 Teoría de Polinomios",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "2.1 Teoría de Polinomios",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "2.1 Teoría de Polinomios",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "2.1 Teoría de Polinomios",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 3: Productos Notables",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "3.1 Principales Productos Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "3.1 Principales Productos Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 4: División Algebraica (Horner y Ruffini)",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "4.1 Métodos de División",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "3.1 Principales Productos Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 5: Teorema del Resto y Divisibilidad",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "5.1 Aplicaciones del Teorema del Resto",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "3.1 Principales Productos Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 6: Cocientes Notables",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "6.1 Casos de Cocientes Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "3.1 Principales Productos Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 7: Factorización I (Factor Común e Identidades)",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "7.1 Criterios de Factorización",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "3.1 Principales Productos Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 8: Factorización II (Aspas)",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "8.1 Aspa Simple y Doble",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "3.1 Principales Productos Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 9: MCD y MCM de Polinomios",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "9.1 Cálculo de MCD y MCM",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "3.1 Principales Productos Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 10: Fracciones Algebraicas",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "10.1 Operaciones con Fracciones",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "3.1 Principales Productos Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 11: Binomio de Newton",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "11.1 Desarrollo del Binomio",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 12: Radicación y Racionalización",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "12.1 Transformación de Radicales Dobles",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 13: Números Complejos",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "13.1 Cantidades Imaginarias y Complejos",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 14: Ecuaciones de Primer Grado",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "14.1 Planteo de Ecuaciones Lineales",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 15: Ecuaciones de Segundo Grado",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "15.1 Fórmula General y Propiedades",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 16: Desigualdades e Inecuaciones",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "16.1 Puntos Críticos",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 17: Valor Absoluto",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "17.1 Ecuaciones con Valor Absoluto",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 18: Funciones (Dominio y Rango)",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "18.1 Introducción a Funciones",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 19: Logaritmos",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "19.1 Propiedades de Logaritmos",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    }
+  ]
+}
