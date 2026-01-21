@@ -532,6 +532,338 @@
           "gratis": true
         }
       ]
+    },
+ {
+      "titulo": "Tema 3: Cinemática - MRU & MRUV",
+      "pdf_resuelto": "https://drive.google.com/file/d/1j6turM2Ohybg2EpdmcArxfBRIE9f82Gu/view",
+      "preguntas": [
+        {
+          "pregunta": "Elegir la(s) proposición(es) correctas. Un móvil se desplaza en línea recta con velocidad constante. Respecto a este movimiento, analiza las siguientes proposiciones:\nI. La aceleración del móvil es cero.\nII. La gráfica posición-tiempo es una línea recta.\nIII. El móvil recorre distancias iguales en tiempos iguales.",
+          "opciones": [
+            "Solo I",
+            "Solo II",
+            "Solo III",
+            "Solo I y II",
+            "I, II y III"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Análisis del MRU:</b><br>I. (V) En el MRU la velocidad es constante, por lo tanto, no hay aceleración ($$ a=0 $$).<br>II. (V) La ecuación es $$ x = x_0 + vt $$, que corresponde a una función lineal (línea recta).<br>III. (V) Es la definición básica de velocidad constante: $$ d = vt $$.<br><b>Conclusión:</b> Todas son verdaderas."
+        },
+        {
+          "pregunta": "Respecto a un cuerpo en movimiento, para un intervalo de tiempo dado, la alternativa correcta es:\nI. La velocidad media es paralela al desplazamiento.\nII. La velocidad instantánea es igual a la velocidad media.\nIII. El módulo del desplazamiento es igual a la longitud de la trayectoria desarrollada.",
+          "opciones": [
+            "I y II",
+            "II",
+            "I",
+            "III",
+            "II y III"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Análisis:</b><br>I. (V) La velocidad media se define como $$ \\vec{V}_m = \\frac{\\Delta \\vec{r}}{\\Delta t} $$. Al ser $$ \\Delta t $$ un escalar positivo, la velocidad media tiene la misma dirección y sentido que el desplazamiento $$ \\Delta \\vec{r} $$.<br>II. (F) Solo es cierto en el MRU.<br>III. (F) El desplazamiento es un vector (línea recta inicio-fin), la trayectoria es el camino recorrido (puede ser curva)."
+        },
+        {
+          "pregunta": "Elegir la(s) proposición(es) correctas, sobre un cuerpo que cae desde cierta altura, se afirma:\nI. La aceleración que actúa es la gravedad.\nII. El cuerpo siempre llega al suelo con velocidad constante.\nIII. La velocidad del cuerpo aumenta con el tiempo.",
+          "opciones": [
+            "Solo I",
+            "Solo III",
+            "Solo I y III",
+            "Solo II y III",
+            "I, II y III"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Caída Libre:</b><br>I. (V) La única fuerza es el peso, generando la aceleración de la gravedad ($$ g $$).<br>II. (F) Es un movimiento acelerado, la velocidad aumenta mientras cae.<br>III. (V) La velocidad aumenta linealmente con el tiempo ($$ v_f = v_0 + gt $$)."
+        },
+        {
+          "pregunta": "Un vehículo marcha a 72 km/h con movimiento rectilíneo uniforme. ¿Cuánto recorre en 5 horas?",
+          "opciones": [
+            "210 km",
+            "360 km",
+            "21 km",
+            "2 km",
+            "215 km"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>Datos: $$ v = 72 \\text{ km/h} $$, $$ t = 5 \\text{ h} $$.<br>Fórmula MRU: $$ d = v \\cdot t $$<br>$$ d = 72 \\cdot 5 $$<br>$$ d = 360 \\text{ km} $$"
+        },
+        {
+          "pregunta": "Un niño se encuentra en reposo a una distancia de 85 m de una montaña. En cierto instante el niño emite un silbido. ¿Al cabo de qué tiempo escucha el eco? (Velocidad del sonido en el aire = 340 m/s).",
+          "opciones": [
+            "5 s",
+            "4 s",
+            "0,2 s",
+            "0,1 s",
+            "0,5 s"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Resolución:</b><br>Para escuchar el eco, el sonido viaja a la montaña y regresa.<br>Distancia total = $$ 2 \\cdot d = 2(85) = 170 \\text{ m} $$<br>$$ t = \\frac{d_{total}}{v_{sonido}} $$<br>$$ t = \\frac{170}{340} $$<br>$$ t = 0,5 \\text{ s} $$"
+        },
+        {
+          "pregunta": "Un tren se demora 8 s en pasar frente a un observador y el triple de tiempo en pasar por un puente de 550 metros de largo. ¿Cuál es la longitud del tren?",
+          "opciones": [
+            "500 m",
+            "250 m",
+            "350 m",
+            "275 m",
+            "450 m"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Caso 1 (Observador):</b><br>El tren recorre su propia longitud L.<br>$$ L = v \\cdot 8 $$ (Ec. 1)<br><br><b>Caso 2 (Puente):</b><br>El tren recorre su longitud L + longitud del puente.<br>Tiempo = triple = $$ 3(8) = 24 \\text{ s} $$<br>$$ L + 550 = v \\cdot 24 $$ (Ec. 2)<br><br><b>Sistema de Ecuaciones:</b><br>Reemplazando (1) en (2):<br>$$ L + 550 = (L/8) \\cdot 24 $$<br>$$ L + 550 = 3L $$<br>$$ 550 = 2L $$<br>$$ L = 275 \\text{ m} $$"
+        },
+        {
+          "pregunta": "Un conductor con MRU se dirige hacia un gran muro con una rapidez de 30 m/s. En cierto instante toca la bocina, y luego de 2 s escucha el eco. La distancia a la que se encuentra respecto del muro, cuando tocó la bocina, es: (v_sonido = 340 m/s)",
+          "opciones": [
+            "390 m",
+            "360 m",
+            "370 m",
+            "350 m",
+            "380 m"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Análisis:</b><br>En 2 segundos:<br>1. El auto avanza: $$ d_{auto} = 30 \\cdot 2 = 60 \\text{ m} $$<br>2. El sonido va al muro y vuelve al auto.<br><br>Si 'x' es la distancia inicial al muro:<br>Distancia del sonido = (Ida al muro) + (Vuelta al auto)<br>$$ d_{sonido} = x + (x - 60) $$<br>$$ v_{sonido} \\cdot t = 2x - 60 $$<br>$$ 340 \\cdot 2 = 2x - 60 $$<br>$$ 680 = 2x - 60 $$<br>$$ 740 = 2x \\Rightarrow x = 370 \\text{ m} $$"
+        },
+        {
+          "pregunta": "Un aeroplano despega de un campo cuya pista mide 360 m. Si parte del reposo, se mueve con aceleración constante y recorre la pista de despegue en 30 s. ¿Con qué velocidad en (m/s) levanta el vuelo?",
+          "opciones": [
+            "48",
+            "24",
+            "20",
+            "22",
+            "21"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Datos MRUV:</b><br>$$ d = 360 $$, $$ v_0 = 0 $$, $$ t = 30 $$<br><br><b>Fórmula:</b><br>$$ d = (\\frac{v_0 + v_f}{2})t $$<br>$$ 360 = (\\frac{0 + v_f}{2})30 $$<br>$$ 360 = 15 v_f $$<br>$$ v_f = \\frac{360}{15} = 24 \\text{ m/s} $$"
+        },
+        {
+          "pregunta": "Un auto parte del reposo con una aceleración constante de 6 m/s^2, ¿Qué espacio en metros recorre en el cuarto segundo de su movimiento?",
+          "opciones": [
+            "15",
+            "24",
+            "17",
+            "16,7",
+            "21"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Fórmula del N-ésimo segundo:</b><br>$$ d_n = v_0 + \\frac{a}{2}(2n - 1) $$<br><br>Datos: $$ v_0 = 0 $$, $$ a = 6 $$, $$ n = 4 $$<br>$$ d_4 = 0 + \\frac{6}{2}(2(4) - 1) $$<br>$$ d_4 = 3(7) = 21 \\text{ m} $$"
+        },
+        {
+          "pregunta": "Un cuerpo parte del reposo y se mueve aceleradamente. El espacio recorrido entre el 4to y 5to segundo es 9 m (interpretado como 'en el 5to segundo'). Calcular la aceleración.",
+          "opciones": [
+            "2 m/s^2",
+            "9 m/s^2",
+            "3 m/s^2",
+            "4 m/s^2",
+            "1 m/s^2"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>Interpretando 'recorre 9m en el 5to segundo':<br>$$ d_5 = v_0 + \\frac{a}{2}(2n - 1) $$<br>$$ 9 = 0 + \\frac{a}{2}(2(5) - 1) $$<br>$$ 9 = \\frac{a}{2}(9) $$<br>$$ 1 = \\frac{a}{2} \\Rightarrow a = 2 \\text{ m/s}^2 $$"
+        },
+        {
+          "pregunta": "Un móvil con MRVU parte del reposo. En el onceavo segundo recorre una distancia de 42 m. ¿Cuánta distancia recorrió entre los instantes 6s y 8s?",
+          "opciones": [
+            "120",
+            "48",
+            "56",
+            "52",
+            "60"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1: Hallar aceleración</b><br>En el 11vo segundo ($$ n=11 $$):<br>$$ 42 = 0 + \\frac{a}{2}(2(11) - 1) $$<br>$$ 42 = \\frac{a}{2}(21) \\Rightarrow a = 4 \\text{ m/s}^2 $$<br><br><b>Paso 2: Distancia entre t=6 y t=8</b><br>Se pide la suma de lo recorrido en el 7mo y 8vo segundo.<br>$$ d_7 = \\frac{4}{2}(2(7)-1) = 2(13) = 26 \\text{ m} $$<br>$$ d_8 = \\frac{4}{2}(2(8)-1) = 2(15) = 30 \\text{ m} $$<br>$$ d_{total} = 26 + 30 = 56 \\text{ m} $$"
+        },
+        {
+          "pregunta": "Desde el borde de un alcantarillado, se lanza verticalmente hacia arriba una piedra con una rapidez de 40 m/s. El tiempo que demora para alcanzar una rapidez de 60 m/s es: (g=10 m/s^2)",
+          "opciones": [
+            "50 s",
+            "20 s",
+            "30 s",
+            "10 s",
+            "40 s"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Análisis:</b><br>Se lanza hacia arriba ($$ +40 $$). Para que tenga rapidez de 60 m/s, debe estar cayendo ($$ -60 $$) ya que 60 > 40.<br>$$ v_f = v_0 - gt $$<br>$$ -60 = 40 - 10t $$<br>$$ -100 = -10t $$<br>$$ t = 10 \\text{ s} $$"
+        },
+        {
+          "pregunta": "Desde el borde de una azotea se lanza un proyectil verticalmente hacia arriba con una rapidez de 40 m/s. La distancia a la que se encuentra con respecto al nivel de lanzamiento cuando su rapidez se incrementa en un 50% con relación a su rapidez inicial es:",
+          "opciones": [
+            "80",
+            "75",
+            "125",
+            "100",
+            "182"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1: Velocidad final</b><br>Incremento del 50% de 40 m/s = 20 m/s.<br>$$ v_f = 40 + 20 = 60 \\text{ m/s} $$ (Hacia abajo).<br><br><b>Paso 2: Calcular altura (h)</b><br>$$ v_f^2 = v_0^2 + 2gh $$<br>$$ 60^2 = 40^2 + 2(10)h $$<br>$$ 3600 = 1600 + 20h $$<br>$$ 2000 = 20h \\Rightarrow h = 100 \\text{ m} $$"
+        },
+        {
+          "pregunta": "Una partícula se lanza con un ángulo de inclinación de 53 grados con la horizontal y con una velocidad inicial de 50 m/s. El desplazamiento horizontal y la altura máxima en metros son:",
+          "opciones": [
+            "260-70",
+            "250-85",
+            "240-80",
+            "255-65",
+            "260-90"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Datos:</b> $$ v_0 = 50 $$, $$ \\theta = 53^\\circ $$ ($$ \\sin 53 = 4/5, \\cos 53 = 3/5 $$)<br><br><b>Altura Máxima (H):</b><br>$$ H = \\frac{(v_0 \\sin \\theta)^2}{2g} = \\frac{(50 \\cdot 0.8)^2}{20} = \\frac{40^2}{20} = \\frac{1600}{20} = 80 \\text{ m} $$<br><br><b>Alcance Horizontal (D):</b><br>$$ T_{vuelo} = \\frac{2 v_0 \\sin \\theta}{g} = \\frac{2(40)}{10} = 8 \\text{ s} $$<br>$$ D = (v_0 \\cos \\theta) \\cdot T = (50 \\cdot 0.6) \\cdot 8 = 30 \\cdot 8 = 240 \\text{ m} $$"
+        },
+        {
+          "pregunta": "Sobre una superficie horizontal se lanza un proyectil con una velocidad de módulo de 10 m/s y un ángulo de 37 grados respecto de la horizontal. El alcance máximo horizontal es:",
+          "opciones": [
+            "14.3 m",
+            "12.2 m",
+            "9.6 m",
+            "8.4 m",
+            "16.2 m"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fórmula Alcance Horizontal:</b><br>$$ D = \\frac{v_0^2 \\sin(2\\theta)}{g} $$<br>$$ D = \\frac{10^2 \\cdot \\sin(74^\\circ)}{10} $$<br>$$ D = 10 \\cdot (0.96) $$<br>$$ D = 9.6 \\text{ m} $$"
+        },
+        {
+          "pregunta": "Un móvil describe un ángulo de 20 radianes en 10 s. Calcular la velocidad lineal y su periodo, si el radio de la circunferencia descrita es de 2 metros.",
+          "opciones": [
+            "6 m/s - 2π s",
+            "4 m/s - π s",
+            "4 m/s - 2π s",
+            "6 m/s - π s",
+            "2 m/s - 2π s"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>1. Velocidad Angular ($$ \\omega $$):</b><br>$$ \\omega = \\frac{\\theta}{t} = \\frac{20}{10} = 2 \\text{ rad/s} $$<br><br><b>2. Velocidad Lineal (v):</b><br>$$ v = \\omega \\cdot R = 2 \\cdot 2 = 4 \\text{ m/s} $$<br><br><b>3. Periodo (T):</b><br>$$ T = \\frac{2\\pi}{\\omega} = \\frac{2\\pi}{2} = \\pi \\text{ s} $$"
+        },
+        {
+          "pregunta": "Si se tiene un movimiento circular, elige la afirmación correcta.",
+          "opciones": [
+            "El movimiento circular no es acelerado",
+            "El MCUV tiene rapidez tangencial constante",
+            "El MCU tiene aceleración angular mayor que cero",
+            "El MCUV tiene velocidades tangenciales constantes",
+            "El movimiento circular uniforme es acelerado"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Análisis:</b><br>a) Falso, siempre hay cambio de dirección.<br>b) Falso, en MCUV la rapidez cambia.<br>c) Falso, en MCU $$ \\alpha = 0 $$.<br>d) Falso, varían.<br>e) <b>Verdadero:</b> Aunque la rapidez sea constante, la dirección cambia continuamente, por lo tanto existe <b>aceleración centrípeta</b>."
+        },
+        {
+          "pregunta": "En un movimiento circular, el vector aceleración angular se encuentra:",
+          "opciones": [
+            "en un punto tangente a la trayectoria",
+            "en el eje de simetría (eje de rotación)",
+            "junto a la aceleración tangencial",
+            "en la misma dirección que la velocidad tangencial",
+            "en la dirección de la aceleración centrípeta"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Teoría:</b><br>El vector velocidad angular ($$ \\vec{\\omega} $$) y el vector aceleración angular ($$ \\vec{\\alpha} $$) son axiales, es decir, se ubican sobre el <b>eje de rotación</b> (o eje de simetría) del movimiento, perpendicular al plano de giro."
+        },
+        {
+          "pregunta": "Un disco gira respecto a su eje a 180 RPM en el instante t=0. Luego de 10 s se tiene un movimiento circular uniformemente variado (hasta detenerse, se asume wf=0 por contexto o 'se tiene MCUV' implica cambio). El texto sugiere se detiene o cambia. *Según resolución: wf=0*.",
+          "opciones": [
+            "30",
+            "25",
+            "20",
+            "15",
+            "10"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Datos:</b><br>$$ \\omega_0 = 180 \\text{ RPM} = \\frac{180}{60} = 3 \\text{ rev/s} $$<br>$$ \\omega_f = 0 $$ (Se detiene)<br>$$ t = 10 \\text{ s} $$<br><br><b>Número de vueltas ($$ \\theta $$ en rev):</b><br>$$ \\theta = (\\frac{\\omega_0 + \\omega_f}{2})t $$<br>$$ \\theta = (\\frac{3 + 0}{2})10 $$<br>$$ \\theta = 1.5 \\cdot 10 = 15 \\text{ vueltas} $$"
+        },
+        {
+          "pregunta": "Un disco está girando con MCUV a 60 RPM. Después de 4 s gira a 180 RPM. La aceleración angular en rad/s² es:",
+          "opciones": [
+            "π",
+            "2π",
+            "3π",
+            "4π",
+            "5π"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Conversión:</b><br>$$ \\omega_0 = 60 \\text{ RPM} = 2\\pi \\text{ rad/s} $$<br>$$ \\omega_f = 180 \\text{ RPM} = 6\\pi \\text{ rad/s} $$<br><br><b>Cálculo:</b><br>$$ \\omega_f = \\omega_0 + \\alpha t $$<br>$$ 6\\pi = 2\\pi + \\alpha(4) $$<br>$$ 4\\pi = 4\\alpha $$<br>$$ \\alpha = \\pi \\text{ rad/s}^2 $$"
+        },
+        {
+          "pregunta": "En un lugar donde g=9,8 m/s^2 se lanza verticalmente hacia arriba una piedra con una velocidad de 98 m/s. Calcular la altura máxima que alcanza y el tiempo que estuvo en el aire.",
+          "opciones": [
+            "980 m y 40 s",
+            "490 m y 10 s",
+            "980 m y 20 s",
+            "49 m y 2 s",
+            "490 m y 20 s"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Altura Máxima:</b><br>$$ H = \\frac{v_0^2}{2g} = \\frac{98 \\cdot 98}{2(9.8)} = \\frac{98 \\cdot 98}{19.6} = 490 \\text{ m} $$<br><br><b>Tiempo de Vuelo (subida y bajada):</b><br>$$ T = \\frac{2v_0}{g} = \\frac{2(98)}{9.8} = 2(10) = 20 \\text{ s} $$"
+        },
+        {
+          "pregunta": "Se lanza verticalmente hacia arriba un cuerpo con una velocidad de 40 m/s, y a 120 m verticalmente sobre él se deja caer simultáneamente otro cuerpo, ¿Calcular después de qué tiempo chocarán?",
+          "opciones": [
+            "2 s",
+            "3 s",
+            "1 s",
+            "5 s",
+            "1,5 s"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Análisis de Encuentro:</b><br>Cuerpo 1 (sube): $$ y_1 = 40t - 5t^2 $$<br>Cuerpo 2 (baja desde 120m): $$ y_2 = 120 - 5t^2 $$<br><br>Se encuentran cuando $$ y_1 = y_2 $$:<br>$$ 40t - 5t^2 = 120 - 5t^2 $$<br>$$ 40t = 120 $$<br>$$ t = 3 \\text{ s} $$"
+        },
+        {
+          "pregunta": "La velocidad angular de un motor que gira a 1800 R.P.M., en 2 s desciende uniformemente hasta 1200 R.P.M. ¿Cuál es la aceleración angular?",
+          "opciones": [
+            "-10π rad/s^2",
+            "-20π rad/s^2",
+            "15π rad/s^2",
+            "-5π rad/s^2",
+            "25π rad/s^2"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Conversión:</b><br>$$ \\omega_0 = 1800 \\text{ RPM} = 60\\pi \\text{ rad/s} $$<br>$$ \\omega_f = 1200 \\text{ RPM} = 40\\pi \\text{ rad/s} $$<br><br><b>Cálculo:</b><br>$$ \\alpha = \\frac{\\omega_f - \\omega_0}{t} $$<br>$$ \\alpha = \\frac{40\\pi - 60\\pi}{2} $$<br>$$ \\alpha = \\frac{-20\\pi}{2} = -10\\pi \\text{ rad/s}^2 $$"
+        },
+        {
+          "pregunta": "Un disco parte del reposo con M.C.U.V. y durante los dos primeros segundos da 8 vueltas. ¿Cuántas vueltas da durante el primer segundo de su movimiento?",
+          "opciones": [
+            "3",
+            "2",
+            "5",
+            "1",
+            "4"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1: Hallar aceleración angular</b><br>$$ \\theta = \\omega_0 t + \\frac{1}{2}\\alpha t^2 $$<br>$$ 8 = 0 + \\frac{1}{2}\\alpha (2)^2 $$<br>$$ 8 = 2\\alpha \\Rightarrow \\alpha = 4 \\text{ rev/s}^2 $$<br><br><b>Paso 2: Vueltas en t=1</b><br>$$ \\theta_1 = \\frac{1}{2}(4)(1)^2 $$<br>$$ \\theta_1 = 2 \\text{ vueltas} $$"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "3.1 MRU & MRUV - Teoría",
+          "youtube_id": "Lby5XKBZuNE",
+          "pdf_link": "https://drive.google.com/file/d/1rM1bBAc0_eC9kwAvr-rVZq4Ewy84_8t8/view",
+          "gratis": true
+        },
+        {
+          "titulo": "3.2 MRU & MRUV - Ejercicios",
+          "youtube_id": "gvW62izWRUc",
+          "pdf_link": "https://drive.google.com/file/d/1A-HfSH6ktSpZQ4CRJ06Kp1klbCxQkptW/view",
+          "gratis": true
+        },
+        {
+          "titulo": "3.3 Caida libre y movimiento parabólico - Teoría",
+          "youtube_id": "cLlM_wmkRLc",
+          "pdf_link": "https://drive.google.com/file/d/1rM1bBAc0_eC9kwAvr-rVZq4Ewy84_8t8/view",
+          "gratis": true
+        },
+        {
+          "titulo": "3.4 Caida libre y movimiento parabólico - Ejercicios",
+          "youtube_id": "q83dZgsi3Ns",
+          "pdf_link": "https://drive.google.com/file/d/1A-HfSH6ktSpZQ4CRJ06Kp1klbCxQkptW/view",
+          "gratis": true
+        },
+        {
+          "titulo": "3.5 MCU y MCUV - Teoría",
+          "youtube_id": "NflY1ADfvRk",
+          "pdf_link": "https://drive.google.com/file/d/1rM1bBAc0_eC9kwAvr-rVZq4Ewy84_8t8/view",
+          "gratis": true
+        },
+        {
+          "titulo": "3.6 MCU y MCUV - Ejercicios",
+          "youtube_id": "ogJAn4Hteko",
+          "pdf_link": "https://drive.google.com/file/d/1A-HfSH6ktSpZQ4CRJ06Kp1klbCxQkptW/view",
+          "gratis": true
+        }
+      ]
     }
   ]
 }
