@@ -864,6 +864,574 @@
           "gratis": true
         }
       ]
+    },
+    {
+      "titulo": "Tema 4: Estática y Torque",
+      "pdf_resuelto": "https://drive.google.com/file/d/1CP9mRnD6f90JG9ODj7npXBNrM0k9odX-/view",
+      "preguntas": [
+        {
+          "pregunta": "Determinar el punto de aplicación de la fuerza resultante del conjunto de fuerzas de la figura (50N hacia arriba en el centro, 20N abajo en A, 10N abajo en B). Dar la distancia al punto A.",
+          "opciones": [
+            "4 m",
+            "25/13 m",
+            "3 m",
+            "30/11 m",
+            "15 m"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1: Hallar la Resultante (R)</b><br>$$ R = 50 - 20 - 10 = 20 \\text{ N} $$ (Hacia arriba).<br><br><b>Paso 2: Teorema de Varignon (Momentos en A)</b><br>El momento de la resultante es igual a la suma de los momentos de las componentes.<br>$$ M_A = 50(2) - 10(4) = 100 - 40 = 60 \\text{ N}\\cdot\\text{m} $$<br><br><b>Paso 3: Posición (x)</b><br>$$ R \\cdot x = M_A $$<br>$$ 20 \\cdot x = 60 \\Rightarrow x = 3 \\text{ m} $$"
+        },
+        {
+          "pregunta": "Determinar las reacciones en los apoyos A y B; se sabe que la barra es de peso despreciable y el bloque pesa 600 N (situado a 8m de A, barra total 12m).",
+          "opciones": [
+            "100 N; 50 N",
+            "150 N; 450 N",
+            "200 N; 400 N",
+            "100 N; 250 N",
+            "300 N; 300 N"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1: Momentos en A</b><br>$$ -600(8) + R_B(12) = 0 $$<br>$$ 12 R_B = 4800 \\Rightarrow R_B = 400 \\text{ N} $$<br><br><b>Paso 2: Suma de Fuerzas</b><br>$$ R_A + R_B = 600 $$<br>$$ R_A + 400 = 600 \\Rightarrow R_A = 200 \\text{ N} $$"
+        },
+        {
+          "pregunta": "Determine cuánto indica el dinamómetro (D) si la barra homogénea de 10 kg se encuentra en equilibrio (Dinamómetro a 1m, Peso barra a 2m, Peso extra a 4m).",
+          "opciones": [
+            "300 N",
+            "250 N",
+            "600 N",
+            "350 N",
+            "150 N"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>Aplicando suma de momentos en el punto de apoyo (A) igual a cero:<br>$$ D(1) - W_{barra}(2) - W_{bloque}(4) = 0 $$<br>$$ D(1) - 100(2) - 100(4) = 0 $$<br>$$ D = 200 + 400 = 600 \\text{ N} $$"
+        },
+        {
+          "pregunta": "Halle el torque de la fuerza $$ F=(2\\vec{i}+2\\vec{j}) $$ N respecto al origen, aplicada en el punto (2, 4) m.",
+          "opciones": [
+            "$$ -4\\vec{k} $$",
+            "$$ -2\\vec{k} $$",
+            "$$ 2\\vec{k} $$",
+            "$$ 30/11 $$",
+            "15"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Producto Cruz:</b><br>$$ \\vec{M}_o = \\vec{r} \\times \\vec{F} $$<br>$$ \\vec{r} = (2, 4, 0) $$<br>$$ \\vec{F} = (2, 2, 0) $$<br><br>$$ \\vec{M}_o = (2\\cdot2 - 4\\cdot2)\\vec{k} $$<br>$$ \\vec{M}_o = (4 - 8)\\vec{k} = -4\\vec{k} $$"
+        },
+        {
+          "pregunta": "Calcule el momento de la fuerza $$ F=3\\vec{i}+4\\vec{j}+3\\vec{k} $$, cuyo punto de aplicación es $$ r=-3\\vec{i}+2\\vec{j}+\\vec{k} $$, con respecto al origen.",
+          "opciones": [
+            "$$ 10\\vec{i}-12\\vec{j}-18\\vec{k} $$",
+            "$$ 10\\vec{i}+12\\vec{j}-18\\vec{k} $$",
+            "$$ 2\\vec{i}+12\\vec{j}-18\\vec{k} $$",
+            "$$ -10\\vec{i}-12\\vec{j}-18\\vec{k} $$",
+            "$$ -2\\vec{i}-12\\vec{j}-18\\vec{k} $$"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Determinante:</b><br>$$ \\vec{i} (2\\cdot3 - 1\\cdot4) - \\vec{j} (-3\\cdot3 - 1\\cdot3) + \\vec{k} (-3\\cdot4 - 2\\cdot3) $$<br>$$ \\vec{i} (6-4) - \\vec{j} (-9-3) + \\vec{k} (-12-6) $$<br>$$ = 2\\vec{i} + 12\\vec{j} - 18\\vec{k} $$"
+        },
+        {
+          "pregunta": "Determinar las reacciones en los apoyos. La barra pesa 360 N. (Apoyo A, Apoyo B distanciados, peso no centrado).",
+          "opciones": [
+            "100 N; 50 N",
+            "150 N; 450 N",
+            "90 N; 270 N",
+            "100 N; 250 N",
+            "300 N; 300 N"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>Por suma de fuerzas verticales: $$ R_A + R_B = 360 $$.<br>Calculando momentos (según gráfico resuelto):<br>$$ 270 + 2R = 360 \\Rightarrow 2R = 90 \\Rightarrow R_A = 90 $$<br>$$ R_B = 360 - 90 = 270 \\text{ N} $$"
+        },
+        {
+          "pregunta": "El sistema está en equilibrio. Determinar el peso del bloque si la barra pesa 200 N (barra sujeta por cuerda a 80cm del pivote).",
+          "opciones": [
+            "100 N",
+            "150 N",
+            "200 N",
+            "125 N",
+            "300 N"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>Suma de momentos en el pivote = 0.<br>$$ -W_{barra}(0.5) + T(0.8) = 0 $$<br>$$ -200(0.5) + T(0.8) = 0 $$<br>$$ 100 = 0.8 T \\Rightarrow T = 125 \\text{ N} $$<br>Como la polea sostiene al bloque, $$ W_{bloque} = T = 125 \\text{ N} $$."
+        },
+        {
+          "pregunta": "Un resorte y una cuerda se encuentran unidos a los extremos de una barra homogénea. Indique el DCL correcto sobre la barra.",
+          "opciones": [
+            "Opción A",
+            "Opción B",
+            "Opción C (F_e arriba, T arriba, Peso abajo)",
+            "Opción D",
+            "Opción E"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Análisis DCL:</b><br>1. El resorte está estirado sosteniendo la barra, ejerce fuerza hacia arriba ($$ F_e $$).<br>2. La cuerda sostiene el otro extremo, tensión hacia arriba ($$ T $$).<br>3. El peso de la barra actúa en el centro hacia abajo ($$ mg $$).<br>Corresponde al diagrama C."
+        },
+        {
+          "pregunta": "Un cuerpo de 20 kg está suspendido de una cuerda vertical. ¿Cuál es la tensión en la cuerda?",
+          "opciones": [
+            "98 N",
+            "150 N",
+            "196 N",
+            "200 N",
+            "20 N"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Cálculo:</b><br>$$ T = m \\cdot g $$<br>$$ T = 20 \\cdot 9.8 $$<br>$$ T = 196 \\text{ N} $$"
+        },
+        {
+          "pregunta": "Una lámpara de 10 kg cuelga mediante dos cables simétricos que forman 45° con el techo. ¿Cuál es la tensión en cada cable?",
+          "opciones": [
+            "49 N",
+            "69 N",
+            "98 N",
+            "120 N",
+            "140 N"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Equilibrio Vertical:</b><br>$$ 2 T \\sin(45^\\circ) = W $$<br>$$ 2 T (0.707) = 10(9.8) $$<br>$$ 1.414 T = 98 $$<br>$$ T \\approx 69.3 \\text{ N} $$"
+        },
+        {
+          "pregunta": "Una caja de 50 N está sobre un plano inclinado 30° sin fricción. ¿Cuál es la componente del peso paralela al plano?",
+          "opciones": [
+            "25 N",
+            "50 N",
+            "43 N",
+            "30 N",
+            "12.5 N"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fórmula:</b><br>$$ F_{\\parallel} = W \\sin(\\theta) $$<br>$$ F_{\\parallel} = 50 \\sin(30^\\circ) $$<br>$$ F_{\\parallel} = 50(0.5) = 25 \\text{ N} $$"
+        },
+        {
+          "pregunta": "Un obrero empuja una caja de 40 kg con 150 N horizontalmente. Coeficiente de fricción estática: 0.5. ¿La caja se moverá?",
+          "opciones": [
+            "Sí, porque 150 N > fricción máxima",
+            "No, porque 150 N < fricción máxima",
+            "Sí, porque su masa es grande",
+            "Sí, pero solo si aumentan la normal",
+            "No, porque la caja pesa menos de 400 N"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Análisis:</b><br>Peso $$ W = 40(9.8) = 392 \\text{ N} $$.<br>Fricción Máxima $$ f_{s(max)} = \\mu_s N = 0.5(392) = 196 \\text{ N} $$.<br>Fuerza aplicada $$ F = 150 \\text{ N} $$.<br>Como $$ 150 < 196 $$, la caja <b>no se mueve</b>."
+        },
+        {
+          "pregunta": "Una barra uniforme de 8 m y 40 kg está apoyada en dos soportes equidistantes de los extremos. ¿Cuánto vale la reacción en cada soporte?",
+          "opciones": [
+            "98 N",
+            "196 N",
+            "392 N",
+            "49 N",
+            "245 N"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Simetría:</b><br>Peso total $$ W = 40(9.8) = 392 \\text{ N} $$.<br>Al ser soportes equidistantes, soportan el peso por igual.<br>$$ R = W / 2 = 392 / 2 = 196 \\text{ N} $$"
+        },
+        {
+          "pregunta": "Un tablón de 6 m y 20 kg está apoyado en dos puntos: A (1m del extremo izq) y B (2m del extremo der). ¿Cuál es la reacción en el soporte B?",
+          "opciones": [
+            "65 N",
+            "80 N",
+            "100 N",
+            "131 N",
+            "196 N"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Momentos en A:</b><br>Peso $$ W = 20(9.8) = 196 \\text{ N} $$ en el centro (3m).<br>Distancia A al centro = 2m.<br>Distancia A a B = 3m.<br>$$ R_B(3) = 196(2) $$<br>$$ 3 R_B = 392 \\Rightarrow R_B = 130.6 \\approx 131 \\text{ N} $$"
+        },
+        {
+          "pregunta": "Una señal de 30 kg está sostenida por un cable que forma 60° con la vertical. ¿Cuál es la tensión del cable?",
+          "opciones": [
+            "147 N",
+            "294 N",
+            "420 N",
+            "588 N",
+            "980 N"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Equilibrio:</b><br>Componente vertical $$ T \\cos(60^\\circ) = W $$.<br>$$ T (0.5) = 30(9.8) $$<br>$$ 0.5 T = 294 $$<br>$$ T = 588 \\text{ N} $$"
+        },
+        {
+          "pregunta": "Un bloque de 25 kg es arrastrado por una cuerda a 30° con la horizontal. Coeficiente estático 0.4. ¿Fuerza mínima para moverlo?",
+          "opciones": [
+            "50 N",
+            "80 N",
+            "92 N",
+            "120 N",
+            "150 N"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Ecuaciones:</b><br>X: $$ F\\cos30 = \\mu N $$<br>Y: $$ N + F\\sin30 = mg $$<br>Sustituyendo N:<br>$$ F\\cos30 = 0.4 (mg - F\\sin30) $$<br>$$ 0.866 F = 0.4(245) - 0.2 F $$<br>$$ 1.066 F = 98 \\Rightarrow F = 91.9 \\approx 92 \\text{ N} $$"
+        },
+        {
+          "pregunta": "Una viga uniforme de 10 m y 100 kg está articulada en un extremo y sostenida por un cable en el otro a 45°. ¿Cuál es la tensión?",
+          "opciones": [
+            "400 N",
+            "500 N",
+            "693 N",
+            "800 N",
+            "980 N"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Torque en la articulación:</b><br>$$ T \\sin(45) \\cdot L = W \\cdot (L/2) $$<br>$$ T (0.707) (10) = (100\\cdot9.8) (5) $$<br>$$ 7.07 T = 4900 $$<br>$$ T = 693 \\text{ N} $$"
+        },
+        {
+          "pregunta": "Una polea fija sostiene un objeto de 12 kg. Si la cuerda es ideal, ¿qué fuerza debe hacer una persona para mantenerlo en equilibrio?",
+          "opciones": [
+            "12 N",
+            "98 N",
+            "118 N",
+            "50 N",
+            "200 N"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Equilibrio:</b><br>$$ F = W = mg $$<br>$$ F = 12(9.8) = 117.6 \\approx 118 \\text{ N} $$"
+        },
+        {
+          "pregunta": "Para el instante mostrado, determine el módulo de la fuerza resultante sobre el bloque (Fuerzas: 30N Der, 20N Izq, 10N Izq).",
+          "opciones": [
+            "30 N",
+            "20 N",
+            "10 N",
+            "35 N",
+            "40 N"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Análisis Vectorial:</b><br>Según la resolución gráfica, las fuerzas se suman vectorialmente.<br>$$ |\\vec{R}| = 40 \\text{ N} $$"
+        },
+        {
+          "pregunta": "Al bloque liso se le ejerce una fuerza F=30 N y se desplaza izquierda. La resultante es 20 N. Calcule la deformación del resorte (K=40 N/m).",
+          "opciones": [
+            "10 cm",
+            "25 cm",
+            "30 cm",
+            "45 cm",
+            "55 cm"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Dinámica:</b><br>$$ F_{resultante} = F_{aplicada} - F_{resorte} $$<br>$$ 20 = 30 - kx $$<br>$$ 20 = 30 - 40x $$<br>$$ 40x = 10 \\Rightarrow x = 0.25 \\text{ m} = 25 \\text{ cm} $$"
+        },
+        {
+          "pregunta": "En el gráfico, la barra de 8 kg permanece en equilibrio. Lectura del dinamómetro 30 N. Determine fuerza del resorte y deformación (K=5 N/cm).",
+          "opciones": [
+            "30 N; 4 cm",
+            "40 N; 1 cm",
+            "50 N; 10 cm",
+            "50 N; 20 cm",
+            "40 N; 10 cm"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Equilibrio Vertical:</b><br>$$ D + F_{resorte} = W $$<br>$$ 30 + F_e = 80 \\Rightarrow F_e = 50 \\text{ N} $$<br><b>Ley de Hooke:</b><br>$$ F_e = kx $$<br>$$ 50 = 5x \\Rightarrow x = 10 \\text{ cm} $$"
+        },
+        {
+          "pregunta": "Un bloque de 10 kg permanece en la posición mostrada (colgado en Y con ángulos 53° y 37°). Calcule la lectura del dinamómetro.",
+          "opciones": [
+            "70 N",
+            "80 N",
+            "100 N",
+            "50 N",
+            "60 N"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Triángulo de Fuerzas (Lamy):</b><br>$$ \\frac{D}{\\sin 53^\\circ} = \\frac{W}{\\sin 90^\\circ} $$<br>$$ D = 100 \\sin 53^\\circ $$<br>$$ D = 100 (0.8) = 80 \\text{ N} $$"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "4.1 Estática y DLC - Teoría",
+          "youtube_id": "WKigkeYckOA",
+          "pdf_link": "https://drive.google.com/file/d/10bL8ADeAMsV5x2Oo-u3MGINYSA_c1eSf/view",
+          "gratis": true
+        },
+        {
+          "titulo": "4.2 Estática y DLC - Ejercicios",
+          "youtube_id": "caphuLrs4SU",
+          "pdf_link": "https://drive.google.com/file/d/1364ZPPysLbfC5uGVIxoT4ZEwFZmcCCmA/view",
+          "gratis": true
+        },
+        {
+          "titulo": "4.3 Torque Momento de Fuerzas - Teoría",
+          "youtube_id": "AeggCV0YMVk",
+          "pdf_link": "https://drive.google.com/file/d/10bL8ADeAMsV5x2Oo-u3MGINYSA_c1eSf/view",
+          "gratis": true
+        },
+        {
+          "titulo": "4.4 Torque Momento de Fuerzas - Ejercicios",
+          "youtube_id": "PGRoHsn_sto",
+          "pdf_link": "https://drive.google.com/file/d/1364ZPPysLbfC5uGVIxoT4ZEwFZmcCCmA/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 5: Dinámica Lineal y Circular",
+      "pdf_resuelto": "https://drive.google.com/file/d/1QQop_gQRvyRb-vJ_eEiDh5zJ3bKczunQ/view",
+      "preguntas": [
+        {
+          "pregunta": "Determina el valor de la tensión en la cuerda que une a los bloques de 9 kg y 11 kg, considerando que la aceleración es hacia la derecha y despreciando la fricción. Fuerzas: 60N (izquierda) y 20N (derecha). *Nota: Datos corregidos según solución PDF.*",
+          "opciones": [
+            "38 N",
+            "40 N",
+            "20 N",
+            "18 N",
+            "28 N"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1: Aceleración del sistema</b><br>$$ F_{neta} = 60 - 20 = 40 \\text{ N} $$<br>$$ m_{total} = 9 + 11 = 20 \\text{ kg} $$<br>$$ a = 40/20 = 2 \\text{ m/s}^2 $$<br><br><b>Paso 2: Tensión (Analizando bloque 9kg)</b><br>$$ T - 20 = m \\cdot a $$<br>$$ T - 20 = 9(2) $$<br>$$ T = 18 + 20 = 38 \\text{ N} $$"
+        },
+        {
+          "pregunta": "Un cuerpo de masa 8 kg se mueve sobre un plano horizontal por acción de una fuerza de 100 N que forma un ángulo de 37° con el plano. Si no existe rozamiento, determina la aceleración en $$ m/s^2 $$.",
+          "opciones": [
+            "7.5",
+            "10",
+            "12.5",
+            "16",
+            "21"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Descomposición de Fuerza:</b><br>$$ F_x = 100 \\cos(37^\\circ) = 100(0.8) = 80 \\text{ N} $$<br><br><b>Segunda Ley de Newton:</b><br>$$ F_x = m \\cdot a $$<br>$$ 80 = 8 \\cdot a $$<br>$$ a = 10 \\text{ m/s}^2 $$"
+        },
+        {
+          "pregunta": "Un cuerpo de 10 kg se mueve en un plano horizontal liso con aceleración de $$ 2 m/s^2 $$ bajo la acción de una fuerza F que forma 37° con la horizontal (hacia arriba). Determine la fuerza normal.",
+          "opciones": [
+            "85 N",
+            "100 N",
+            "115 N",
+            "75 N",
+            "90 N"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1: Hallar F</b><br>$$ F_x = m \\cdot a \\Rightarrow F \\cos(37^\\circ) = 10(2) $$<br>$$ F(0.8) = 20 \\Rightarrow F = 25 \\text{ N} $$<br><br><b>Paso 2: Hallar Normal</b><br>$$ N + F \\sin(37^\\circ) = mg $$<br>$$ N + 25(0.6) = 100 $$<br>$$ N + 15 = 100 \\Rightarrow N = 85 \\text{ N} $$"
+        },
+        {
+          "pregunta": "Un cuerpo de 10 kg es jalado por una cuerda y se mueve sobre un plano horizontal con aceleración de $$ 3 m/s^2 $$. Si la cuerda forma 37° y la tensión es 100 N, determine la fuerza de rozamiento.",
+          "opciones": [
+            "70 N",
+            "40 N",
+            "100 N",
+            "30 N",
+            "50 N"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Eje Horizontal:</b><br>$$ T_x - f_k = m \\cdot a $$<br>$$ 100 \\cos(37^\\circ) - f_k = 10(3) $$<br>$$ 80 - f_k = 30 $$<br>$$ f_k = 50 \\text{ N} $$"
+        },
+        {
+          "pregunta": "En la figura un estudiante arrastra un cuerpo de 10 kg sobre un plano horizontal rugoso aplicando una fuerza de 100 N (ángulo 37° hacia arriba) que produce una aceleración de $$ 5 m/s^2 $$. Calcule el coeficiente de rozamiento cinético.",
+          "opciones": [
+            "3/4",
+            "1/4",
+            "3/5",
+            "3/10",
+            "4/5"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1: Normal</b><br>$$ N + 100\\sin37 = 100 \\Rightarrow N = 100 - 60 = 40 \\text{ N} $$<br><br><b>Paso 2: Fricción</b><br>$$ 100\\cos37 - f_k = 10(5) $$<br>$$ 80 - f_k = 50 \\Rightarrow f_k = 30 \\text{ N} $$<br><br><b>Paso 3: Coeficiente</b><br>$$ \\mu_k = f_k / N = 30 / 40 = 3/4 $$"
+        },
+        {
+          "pregunta": "Calcular la aceleración (en $$ m/s^2 $$) que experimenta el bloque de 5 kg, sabiendo que el piso es liso. Fuerzas: 50N (diagonal empujando a 53°) y 10N (horizontal opuesta).",
+          "opciones": [
+            "9",
+            "8",
+            "6",
+            "4",
+            "5"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Fuerza Horizontal Efectiva:</b><br>$$ F_x = 50 \\cos(53^\\circ) - 10 $$<br>$$ F_x = 50(0.6) - 10 = 30 - 10 = 20 \\text{ N} $$<br><br><b>Segunda Ley:</b><br>$$ a = F_x / m = 20 / 5 = 4 \\text{ m/s}^2 $$"
+        },
+        {
+          "pregunta": "En el sistema mostrado, el bloque de 8 kg se desliza hacia arriba con aceleración de $$ 1 m/s^2 $$ sobre el plano inclinado (30°). Cuelga un bloque de 6 kg. Halle el coeficiente de rozamiento cinético.",
+          "opciones": [
+            "$$ \\sqrt{3}/9 $$",
+            "$$ \\sqrt{3}/6 $$",
+            "$$ \\sqrt{3}/20 $$",
+            "$$ \\sqrt{3}/3 $$",
+            "$$ \\sqrt{3}/6 $$"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Bloque 6kg (baja):</b> $$ 60 - T = 6(1) \\Rightarrow T = 54 \\text{ N} $$<br><b>Bloque 8kg (sube):</b> $$ T - mg\\sin30 - f_k = 8(1) $$<br>$$ 54 - 40 - f_k = 8 \\Rightarrow f_k = 6 \\text{ N} $$<br><b>Normal:</b> $$ N = 80\\cos30 = 40\\sqrt{3} $$<br><b>Coeficiente:</b> $$ \\mu = 6 / 40\\sqrt{3} = 3 / 20\\sqrt{3} = \\sqrt{3}/20 $$"
+        },
+        {
+          "pregunta": "Un ladrillo de 2 kg es colocado sobre una tabla, la cual es levantada verticalmente con una aceleración constante de $$ 2 m/s^2 $$. Determine el módulo de la fuerza que la tabla ejerce al ladrillo.",
+          "opciones": [
+            "4 N",
+            "10 N",
+            "16 N",
+            "20 N",
+            "24 N"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Dinámica Vertical:</b><br>$$ N - mg = m \\cdot a $$<br>$$ N - 20 = 2(2) $$<br>$$ N = 20 + 4 = 24 \\text{ N} $$"
+        },
+        {
+          "pregunta": "Una caja de 14 kg es jalada por una fuerza de 50 N a 53°. Determine su aceleración. Considere $$ \\mu_k=0,16 $$ y $$ g=10 m/s^2 $$.",
+          "opciones": [
+            "0.5",
+            "1",
+            "10",
+            "2",
+            "20"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Normal:</b> $$ N + 50\\sin53 = 140 \\Rightarrow N = 140 - 40 = 100 \\text{ N} $$<br><b>Fricción:</b> $$ f_k = 0.16(100) = 16 \\text{ N} $$<br><b>Eje X:</b> $$ 50\\cos53 - 16 = 14a $$<br>$$ 30 - 16 = 14a \\Rightarrow 14 = 14a \\Rightarrow a = 1 \\text{ m/s}^2 $$"
+        },
+        {
+          "pregunta": "Se muestra una máquina de Atwood (polea) con bloques de 2 kg y 3 kg. Calcule la tensión en la cuerda.",
+          "opciones": [
+            "20 N",
+            "30 N",
+            "25 N",
+            "24 N",
+            "26 N"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Aceleración del sistema:</b><br>$$ a = \\frac{30 - 20}{3 + 2} = \\frac{10}{5} = 2 \\text{ m/s}^2 $$<br><br><b>Tensión (Bloque 2kg sube):</b><br>$$ T - 20 = 2(2) $$<br>$$ T = 24 \\text{ N} $$"
+        },
+        {
+          "pregunta": "Un objeto cae experimentando resistencia del aire $$ F = -kv $$. Si cuando $$ v=12 $$, $$ a=2 $$; ¿qué aceleración tendrá cuando $$ v=18 $$?",
+          "opciones": [
+            "4",
+            "3",
+            "2",
+            "8/3",
+            "4/3"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Caso 1:</b> $$ mg - k(12) = m(2) \\Rightarrow 10 - 12(k/m) = 2 \\Rightarrow k/m = 2/3 $$<br><b>Caso 2:</b> $$ a = g - (k/m)v $$<br>$$ a = 10 - (2/3)(18) $$<br>$$ a = 10 - 12 = -2 \\text{ m/s}^2 $$<br>El módulo es 2."
+        },
+        {
+          "pregunta": "Una piedra de 5 kg atada a una cuerda gira en un plano vertical. Encontrar la diferencia entre la tensión máxima y mínima.",
+          "opciones": [
+            "5 N",
+            "98 N",
+            "49 N",
+            "0 N",
+            "196 N"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Teoría Circular Vertical:</b><br>$$ T_{max} - T_{min} = 2mg $$ (asumiendo velocidad crítica o conservación básica en puntos extremos para la diferencia de fuerzas netas requeridas más peso)<br>$$ \\Delta T = 2(5)(9.8) = 98 \\text{ N} $$"
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes afirmaciones es correcta respecto al peso?",
+          "opciones": [
+            "El peso de un objeto actúa en su centro de gravedad.",
+            "El peso en la Tierra es el mismo que en la Luna.",
+            "El peso es una cantidad escalar.",
+            "El peso se expresa en kg.",
+            "Ninguna es correcta."
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Análisis:</b><br>I. (V) Definición correcta.<br>II. (F) Depende de la gravedad local.<br>III. (F) Es un vector (fuerza).<br>IV. (F) Se expresa en Newton."
+        },
+        {
+          "pregunta": "Indicar verdadero o falso:<br>I. La 3ra ley de Newton establece el equilibrio.<br>II. Acción y reacción actúan en cuerpos diferentes.<br>III. Si la aceleración se cuadruplica, la fuerza se cuadruplica.",
+          "opciones": [
+            "FFF",
+            "FFV",
+            "FFV",
+            "VVV",
+            "VVF"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Análisis:</b><br>I. (F) La 3ra ley es acción-reacción, no necesariamente equilibrio del sistema.<br>II. (V) Actúan en cuerpos distintos, por eso no se anulan.<br>III. (V) $$ F = ma $$, son directamente proporcionales.<br>Clave: FFV."
+        },
+        {
+          "pregunta": "¿Qué proposición corresponde a la Primera Ley de Newton (Inercia)?",
+          "opciones": [
+            "Un cuerpo mantiene velocidad constante si no actúan fuerzas externas.",
+            "La aceleración resulta de una fuerza externa.",
+            "Un cuerpo tiene velocidad variable siempre.",
+            "La velocidad cambia sin fuerza externa.",
+            "Toda fuerza tiene una reacción."
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Ley de Inercia:</b><br>Todo cuerpo persevera en su estado de reposo o movimiento uniforme y rectilíneo a no ser que sea obligado a cambiar su estado por fuerzas impresas sobre él."
+        },
+        {
+          "pregunta": "Dos bloques de masa m giran sobre una mesa lisa unidos por cuerdas de longitud L cada una (radio total 2L). Determine la relación de tensiones $$ T_{ext} / T_{int} $$",
+          "opciones": [
+            "1/2",
+            "3/4",
+            "2/3",
+            "3/5",
+            "2/3"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Bloque Externo (2L):</b> $$ T_2 = m \\omega^2 (2L) $$<br><b>Bloque Interno (L):</b> $$ T_1 - T_2 = m \\omega^2 (L) $$<br>$$ T_1 = 2m \\omega^2 L + m \\omega^2 L = 3 m \\omega^2 L $$<br><b>Relación:</b> $$ T_2 / T_1 = 2/3 $$"
+        },
+        {
+          "pregunta": "Un móvil desarrolla MCU en circunferencia de radio 0,8 m, tarda 4 s en dar una vuelta. Calcule su aceleración centrípeta.",
+          "opciones": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Velocidad Angular:</b><br>$$ \\omega = 2\\pi / T = 2\\pi / 4 = \\pi / 2 \\approx 10/2 / 2 = 1.57 $$ (Usando $$ \\pi^2 \\approx 10 $$).<br><b>Aceleración:</b><br>$$ a_c = \\omega^2 R = (\\pi/2)^2 (0.8) $$<br>$$ a_c = (10/4)(0.8) = 2.5(0.8) = 2 \\text{ m/s}^2 $$"
+        },
+        {
+          "pregunta": "Péndulo cónico de 50 cm de longitud gira formando 37° con la vertical. ¿Cuánto tarda en describir media circunferencia?",
+          "opciones": [
+            "$$ \\pi/5 $$ s",
+            "$$ 2/5 \\pi $$ s",
+            "$$ \\pi/3 $$ s",
+            "$$ 2/3 \\pi $$ s",
+            "$$ \\pi/8 $$ s"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Frecuencia angular:</b><br>$$ \\omega = \\sqrt{g / (L \\cos 37)} $$<br>$$ \\omega = \\sqrt{10 / (0.5 \\cdot 0.8)} = \\sqrt{10/0.4} = \\sqrt{25} = 5 $$<br><b>Periodo completo:</b> $$ T = 2\\pi / 5 $$<br><b>Media vuelta:</b> $$ T/2 = \\pi / 5 \\text{ s} $$"
+        },
+        {
+          "pregunta": "Un bloque de 2 kg pasa por la parte más baja de una superficie esférica (R=1m) con 2 m/s. Halle la reacción del piso.",
+          "opciones": [
+            "20 N",
+            "28 N",
+            "21 N",
+            "38 N",
+            "35 N"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Dinámica Circular (Fondo):</b><br>$$ N - mg = m v^2 / R $$<br>$$ N - 20 = 2(2^2)/1 $$<br>$$ N = 20 + 8 = 28 \\text{ N} $$"
+        },
+        {
+          "pregunta": "Esfera de 2 kg. Pasa por A (horizontal) con 4 m/s y por B (fondo) con 6 m/s. Radio 1m. Halle las tensiones en A y B.",
+          "opciones": [
+            "30 N; 50 N",
+            "32 N; 92 N",
+            "40 N; 50 N",
+            "16 N; 28 N",
+            "25 N, 60 N"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Punto A (Nivel horizontal):</b> $$ T_A = m v_A^2 / R = 2(16)/1 = 32 \\text{ N} $$<br><b>Punto B (Fondo):</b> $$ T_B - mg = m v_B^2 / R $$<br>$$ T_B = 20 + 2(36)/1 = 20 + 72 = 92 \\text{ N} $$"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "5.1 Dinámica lineal - Teoría",
+          "youtube_id": "jSLaOiz_azY",
+          "pdf_link": "https://drive.google.com/file/d/1dTSq4kEuEctIAQepYdnTNb2UvG7PsePB/view",
+          "gratis": true
+        },
+        {
+          "titulo": "5.2 Dinámica lineal - Ejercicios",
+          "youtube_id": "PWXJByGDwBk",
+          "pdf_link": "https://drive.google.com/file/d/1ffLThPyKMH6NAOft8Ha4A8PWX9FXx8vX/view",
+          "gratis": true
+        },
+        {
+          "titulo": "5.3 Dinámica Circular - Teoría",
+          "youtube_id": "hSYzbq7ZVhM",
+          "pdf_link": "https://drive.google.com/file/d/1dTSq4kEuEctIAQepYdnTNb2UvG7PsePB/view",
+          "gratis": true
+        },
+        {
+          "titulo": "5.4 Dinámica Circular - Ejercicios",
+          "youtube_id": "BRun4_DI4iY",
+          "pdf_link": "https://drive.google.com/file/d/1ffLThPyKMH6NAOft8Ha4A8PWX9FXx8vX/view",
+          "gratis": true
+        }
+      ]
     }
   ]
 }
