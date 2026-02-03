@@ -1,0 +1,899 @@
+{
+  "curso": "Filosofía y Lógica",
+  "temas": [
+    {
+      "titulo": "Tema 1: El Problema del Cosmos y Concepciones",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "1.1 El Problema del Cosmos: Mito vs. Ciencia",
+          "youtube_id": "9Zz9Y9VZ7yk",
+          "pdf_link": "https://drive.google.com/file/d/1GNEAvbn_lMSCzyiYr-rFn320VSDk9RgZ/view",
+          "gratis": true,
+          "preguntas": [
+            {
+    "pregunta": "Etimológicamente, el término 'mito' deriva del griego 'mythos', cuyo significado es:",
+    "opciones": ["Ciencia", "Relato o narración", "Estudio", "Origen", "Verdad absoluta"],
+    "correcta": 1,
+    "resolucion": "Según la fuente, 'mito' deriva del griego 'mythos', que significa 'relato' o 'narración'."
+  },
+  {
+    "pregunta": "¿Cuál es una característica fundamental del mito para concebir el mundo?",
+    "opciones": ["Es una explicación matemática", "Es una manera alegórica y mágica", "Es una teoría científica comprobada", "Es un tratado de lógica", "Es una demostración empírica"],
+    "correcta": 1,
+    "resolucion": "El texto describe al mito como una manera alegórica y mágica de concebir el mundo y el origen de los hombres."
+  },
+  {
+    "pregunta": "A diferencia del mito puro, la religión abarca un planteamiento del destino humano que implica:",
+    "opciones": ["El uso de modelos matemáticos", "El cumplimiento de normas de conducta", "La negación de la divinidad", "La contrastación experimental", "La explicación del Big Bang"],
+    "correcta": 1,
+    "resolucion": "La religión incluye un planteamiento del destino humano que implica el cumplimiento de normas de conducta para su realización, según la fuente."
+  },
+  {
+    "pregunta": "¿En qué se sustenta fundamentalmente la religión según el texto?",
+    "opciones": ["En la experimentación", "En la lógica formal", "En la fe", "En la duda metódica", "En la cosmología"],
+    "correcta": 2,
+    "resolucion": "La religión se sustenta en la fe, que consiste en la aceptación sin condiciones de creencias consideradas verdades reveladas."
+  },
+  {
+    "pregunta": "El tipo de religión que implica la creencia en la divinidad de las fuerzas de la naturaleza, como el rayo, se denomina:",
+    "opciones": ["Monoteísmo", "Politeísmo", "Animatismo", "Cosmogonía", "Ateísmo"],
+    "correcta": 2,
+    "resolucion": "El animatismo implica la creencia en la divinidad de las fuerzas de la naturaleza, como la creencia en la divinidad del rayo o T’unapa."
+  },
+  {
+    "pregunta": "La creencia en diversos dioses con características humanas y no humanas, como Zeus o Aia Paec, corresponde al:",
+    "opciones": ["Monoteísmo", "Animatismo", "Politeísmo", "Heliocentrismo", "Geocentrismo"],
+    "correcta": 2,
+    "resolucion": "El politeísmo es la creencia en la divinidad de diversos dioses con características humanas y no humanas, citando ejemplos como Aia Paec o Zeus."
+  },
+  {
+    "pregunta": "¿Qué religiones se generaron a partir de la forma abstracta del monoteísmo?",
+    "opciones": ["Budismo y Taoísmo", "Judaísmo, Cristianismo e Islamismo", "Mitología Griega y Romana", "Animismo y Totemismo", "Hinduismo y Vikingos"],
+    "correcta": 1,
+    "resolucion": "Del monoteísmo se han generado tres religiones: el judaísmo, cristianismo e islamismo."
+  },
+  {
+    "pregunta": "Etimológicamente, la palabra 'Cosmogonía' proviene de 'Kosmos' y 'Gígnomai', lo cual significa:",
+    "opciones": ["Estudio del universo", "Nacer o llegar a ser el mundo", "Medida de la tierra", "Ley del cosmos", "Fin del universo"],
+    "correcta": 1,
+    "resolucion": "Etimológicamente 'Gígnomai' significa nacer, llegar a ser, volverse; por tanto cosmogonía se refiere al nacimiento del mundo."
+  },
+  {
+    "pregunta": "¿Qué autor es mencionado por ser el primero en clasificar las divinidades y narrar la creación a partir del caos en su poema 'Teogonía'?",
+    "opciones": ["Platón", "Aristóteles", "Hesíodo", "Ptolomeo", "Homero"],
+    "correcta": 2,
+    "resolucion": "Hesíodo, en su poema Teogonía, es el primero en clasificar las divinidades y atribuirles la creación del universo a partir del caos."
+  },
+  {
+    "pregunta": "La Cosmología se diferencia de la Cosmogonía principalmente porque:",
+    "opciones": ["Usa relatos y mitos", "Se basa en la fe religiosa", "Busca modelos contrastables empíricamente", "Solo estudia a los dioses", "Niega el origen del universo"],
+    "correcta": 2,
+    "resolucion": "El objetivo de la cosmología es construir modelos del universo que admitan una contrastación empírica y experimental, algo que no sucede en la cosmogonía."
+  },
+  {
+    "pregunta": "Etimológicamente, 'Cosmología' significa:",
+    "opciones": ["Narración del mundo", "Estudio o tratado del universo", "Origen de los dioses", "Nacimiento del cosmos", "Fe en el universo"],
+    "correcta": 1,
+    "resolucion": "Cosmología viene de 'Kosmos' (mundo/universo) y 'Logos' (estudio, tratado)."
+  },
+  {
+    "pregunta": "¿Qué disciplinas científicas utiliza la Cosmología para sus investigaciones?",
+    "opciones": ["Solo la filosofía", "Matemática, física, astrofísica y geología", "Teología y literatura", "Astrología y quiromancia", "Mitología y religión"],
+    "correcta": 1,
+    "resolucion": "La cosmología utiliza conocimientos de matemática, física, química, geología, y astrofísica, respaldados en el razonamiento crítico."
+  },
+  {
+    "pregunta": "El modelo Geocéntrico estuvo respaldado fundamentalmente por los planteamientos de:",
+    "opciones": ["Nicolás Copérnico", "Claudio Ptolomeo y Aristóteles", "Stephen Hawking", "Edwin Hubble", "Hesíodo"],
+    "correcta": 1,
+    "resolucion": "El Geocentrismo estuvo respaldado en los fundamentos de Claudio Ptolomeo y Aristóteles."
+  },
+  {
+    "pregunta": "La teoría del Big Bang describe el origen del universo como:",
+    "opciones": ["Una creación estática de los dioses", "Un ciclo sin fin de repeticiones", "Una explosión desde una singularidad de densidad infinita", "Una contracción lenta de la materia", "Un mito alegórico sin base matemática"],
+    "correcta": 2,
+    "resolucion": "El Big Bang describe el universo como un despliegue dinámico de una Gran Explosión originada en una singularidad de densidad infinita."
+  },
+  {
+    "pregunta": "Según la teoría del Big Bang, ¿hace cuánto tiempo ocurrió aproximadamente la gran explosión?",
+    "opciones": ["Hace 2 mil años", "Hace 1 millón de años", "Hace 14 mil millones de años", "Hace 4 mil millones de años", "Hace 500 años"],
+    "correcta": 2,
+    "resolucion": "La singularidad inicial ocurrió aproximadamente hace unos 14 mil millones de años."
+  },
+  {
+    "pregunta": "¿Qué descubrió Hubble en 1929 que sirvió de evidencia para la expansión del universo?",
+    "opciones": ["Que las galaxias estaban estáticas", "Que la distancia entre galaxias era cada vez mayor", "Que el sol gira alrededor de la tierra", "Que existen agujeros negros", "Que la temperatura del universo aumenta"],
+    "correcta": 1,
+    "resolucion": "Hubble descubrió que la distancia entre diferentes galaxias era cada vez mayor y cuanto más lejos estaba la galaxia, más alta era su velocidad de recesión."
+  },
+  {
+    "pregunta": "La Ley de Hubble establece que:",
+    "opciones": ["La velocidad de una galaxia es constante", "La velocidad de una galaxia es proporcional a su distancia", "La luz siempre viaja en línea recta", "El universo se contrae", "Las galaxias cercanas se mueven más rápido que las lejanas"],
+    "correcta": 1,
+    "resolucion": "Se conoce como ley de Hubble a la relación: La velocidad de una galaxia es proporcional a su distancia."
+  },
+  {
+    "pregunta": "Si una fuente de luz se aleja de nosotros, el espectro de ondas presenta un:",
+    "opciones": ["Corrimiento hacia el azul", "Corrimiento hacia el rojo", "Aumento de frecuencia", "Estado estacionario", "Incremento de potencia"],
+    "correcta": 1,
+    "resolucion": "Si la fuente de luz se aleja de nosotros, sus espectros estarán más desplazados hacia el extremo rojo (corrimiento hacia el rojo)."
+  },
+  {
+    "pregunta": "Si una fuente de luz se acerca hacia nosotros, ¿qué ocurre con la frecuencia de las ondas?",
+    "opciones": ["El número de ondas por segundo es mayor (corrimiento azul)", "El número de ondas es menor (corrimiento rojo)", "La frecuencia se mantiene igual", "La luz se vuelve invisible", "La onda se detiene"],
+    "correcta": 0,
+    "resolucion": "Si una fuente de luz se acerca, el tiempo entre crestas es menor y el número de ondas que recibimos es mayor, produciendo un corrimiento hacia el azul."
+  },
+  {
+    "pregunta": "En la cosmovisión andina, ¿qué mito es mencionado como ejemplo de creador del hombre y el mundo?",
+    "opciones": ["Mito de Odín", "Mito de Zeus", "Mito de Wiracocha", "Mito de Vishnu", "Mito de Gaia"],
+    "correcta": 2,
+    "resolucion": "El texto menciona el mito de Wiracocha como creador del hombre y mundo dentro de los ejemplos de mitos."
+  }
+          ]
+        },
+        {
+          "titulo": "1.2 Conceptos y Fundamentos",
+          "youtube_id": "kIimqygJh6U",
+          "pdf_link": "https://drive.google.com/file/d/1UedZH1inBpW729IR9erRkl_RRrHQSlY2/view",
+          "gratis": false,
+          "preguntas": [
+            {
+    "pregunta": "¿Dónde y cuándo se origina la filosofía como reflexión racional y sistemática según el texto?",
+    "opciones": ["En Roma, siglo I d.C.", "En Grecia, siglos VII–VI a.C.", "En Egipto, siglo X a.C.", "En China, siglo V a.C.", "En la Edad Media europea"],
+    "correcta": 1,
+    "resolucion": "El texto indica que como reflexión racional y sistemática, la filosofía se origina en Grecia (s. VII–VI a.C.)."
+  },
+  {
+    "pregunta": "¿A qué personaje se le atribuye haber utilizado por primera vez el término “filosofía”?",
+    "opciones": ["Sócrates", "Platón", "Aristóteles", "Pitágoras de Samos", "Karl Marx"],
+    "correcta": 3,
+    "resolucion": "Se le atribuye a Pitágoras de Samos haber utilizado por primera vez el término “filosofía”."
+  },
+  {
+    "pregunta": "Sócrates se calificaba a sí mismo como 'filósofo', lo cual pretendía decir que era un:",
+    "opciones": ["Poseedor de la verdad absoluta", "Sabio universal", "Amante de la sabiduría", "Maestro de la retórica", "Creador de mitos"],
+    "correcta": 2,
+    "resolucion": "Sócrates se calificaba a sí mismo como filósofo con lo cual pretendía decir que era un “amante de la sabiduría”."
+  },
+  {
+    "pregunta": "Según Platón, ¿qué es lo que da origen a la filosofía al hacernos partícipes del espectáculo celeste?",
+    "opciones": ["La duda", "El asombro", "La angustia", "La lógica", "El miedo"],
+    "correcta": 1,
+    "resolucion": "Platón decía que el asombro es el origen de la filosofía, citando el espectáculo de las estrellas y el sol."
+  },
+  {
+    "pregunta": "Para Aristóteles, ¿qué impulso lleva a los hombres a filosofar, empezando por lo extraño de las vicisitudes de la luna y el sol?",
+    "opciones": ["La admiración", "La necesidad", "La fe", "La política", "La economía"],
+    "correcta": 0,
+    "resolucion": "Aristóteles decía: “pues, la admiración es lo que impulsa a los hombres a filosofar”."
+  },
+  {
+    "pregunta": "Etimológicamente, la filosofía proviene de 'philem' y 'sophos', lo que significa:",
+    "opciones": ["Ciencia de la naturaleza", "Estudio del ser", "Amor a la sabiduría", "Tratado de la lógica", "Origen del cosmos"],
+    "correcta": 2,
+    "resolucion": "Proviene del griego philem = amor y sophos = sabiduría, es decir amor a la sabiduría."
+  },
+  {
+    "pregunta": "En la definición etimológica, el término 'amor' se interpreta como:",
+    "opciones": ["Un sentimiento romántico", "La pasión del espíritu humano por conocer el mundo y a sí mismo", "Una emoción irracional", "La aceptación pasiva de la realidad", "La búsqueda de riqueza material"],
+    "correcta": 1,
+    "resolucion": "El término “amor” se interpreta como la pasión del espíritu humano por conocer el mundo y por conocerse a sí mismo."
+  },
+  {
+    "pregunta": "Para los pensadores presocráticos, ¿qué significaba el término 'sabiduría'?",
+    "opciones": ["El dominio de la oratoria", "El conocimiento del mundo y de los primeros principios", "La habilidad política", "La acumulación de datos históricos", "La destreza técnica"],
+    "correcta": 1,
+    "resolucion": "El término sabiduría significaba entre los pensadores presocráticos, el conocimiento del mundo, de los primeros principios."
+  },
+  {
+    "pregunta": "¿Cómo define Platón a la filosofía en relación a las ideas?",
+    "opciones": ["Como ciencia experimental", "Como análisis del lenguaje", "Como dialéctica para ascender de lo sensible a la contemplación de las ideas", "Como herramienta de revolución social", "Como estudio de la materia física"],
+    "correcta": 2,
+    "resolucion": "Para Platón, la filosofía es dialéctica en tanto procedimiento para ascender de lo sensible o aparente hasta la contemplación de las ideas."
+  },
+  {
+    "pregunta": "Según Aristóteles, la filosofía es la ciencia de:",
+    "opciones": ["Las estructuras sociales", "Los primeros principios y de las primeras causas", "La interpretación de textos", "La psicología humana", "Los fenómenos meteorológicos"],
+    "correcta": 1,
+    "resolucion": "Aristotélica: La filosofía es la ciencia de los primeros principios y de las primeras causas de lo que es."
+  },
+  {
+    "pregunta": "Debido a que estudia el principio de los principios y la causa última, Aristóteles denomina a la filosofía como:",
+    "opciones": ["Física", "Metafísica o filosofía primera", "Lógica", "Ética", "Política"],
+    "correcta": 1,
+    "resolucion": "Por estudiar fundamentos y causa última, la filosofía es denominada metafísica o filosofía primera."
+  },
+  {
+    "pregunta": "¿Qué filósofo define la filosofía como una actividad para la interpretación y transformación del mundo?",
+    "opciones": ["Platón", "Aristóteles", "Ludwig Wittgenstein", "Karl Marx", "Pitágoras"],
+    "correcta": 3,
+    "resolucion": "Karl Marx: la filosofía es una actividad para la interpretación y transformación del mundo."
+  },
+  {
+    "pregunta": "Para Ludwig Wittgenstein, la filosofía es la actividad orientada hacia:",
+    "opciones": ["La revolución social", "El esclarecimiento del lenguaje", "El descubrimiento de leyes físicas", "La contemplación metafísica", "La validación de la religión"],
+    "correcta": 1,
+    "resolucion": "Ludwig Wittgenstein: la filosofía es la actividad orientada hacia el esclarecimiento del lenguaje."
+  },
+  {
+    "pregunta": "El problema fundamental de la filosofía trata sobre el carácter de la relación existente entre:",
+    "opciones": ["El bien y el mal", "La política y la ética", "El ser y el pensar (lo material y lo espiritual)", "La ciencia y la religión", "El pasado y el futuro"],
+    "correcta": 2,
+    "resolucion": "Constituye un problema fundamental de la filosofía, el carácter de la “relación existente entre el ser y el pensar, entre lo material y lo espiritual”."
+  },
+  {
+    "pregunta": "El primer aspecto del problema fundamental de la filosofía busca resolver:",
+    "opciones": ["Si el mundo es cognoscible", "Si la materia es lo primario o lo es la conciencia", "Cuál es el fin de la historia", "Cómo debe comportarse el hombre", "El origen del lenguaje"],
+    "correcta": 1,
+    "resolucion": "El primero, trata de resolver si la materia es lo primario, o lo es la conciencia."
+  },
+  {
+    "pregunta": "El segundo aspecto del problema fundamental de la filosofía responde a la cuestión de:",
+    "opciones": ["La primacía del espíritu", "Si el mundo es cognoscible o no", "La existencia de Dios", "La estructura del átomo", "La evolución de las especies"],
+    "correcta": 1,
+    "resolucion": "El segundo, da respuesta a la cuestión de si el mundo es cognoscible o no lo es."
+  },
+  {
+    "pregunta": "Los filósofos que consideran que la materia es lo primario y la conciencia secundario se sitúan en el campo del:",
+    "opciones": ["Idealismo", "Escepticismo", "Materialismo", "Agnosticismo", "Dualismo"],
+    "correcta": 2,
+    "resolucion": "Los filósofos que consideran que la materia es lo primario... se sitúan en el campo del materialismo."
+  },
+  {
+    "pregunta": "¿Qué sostienen los materialistas respecto a la cognoscibilidad del mundo?",
+    "opciones": ["Que el mundo es incognoscible", "Que el mundo es cognoscible", "Que solo podemos conocer nuestras ideas", "Que la razón es incapaz de conocer leyes", "Que el conocimiento es una ilusión"],
+    "correcta": 1,
+    "resolucion": "Los filósofos que consideran que... el mundo es cognoscible, se sitúan en el campo del materialismo."
+  },
+  {
+    "pregunta": "El Idealismo es la postura filosófica que considera que lo primario es:",
+    "opciones": ["La materia", "La naturaleza", "El espíritu o la conciencia", "El cuerpo humano", "La realidad objetiva"],
+    "correcta": 2,
+    "resolucion": "Los filósofos que consideran que lo primario es el espíritu, la conciencia... se sitúan en el campo del idealismo."
+  },
+  {
+    "pregunta": "Respecto a la capacidad de la razón humana, la postura idealista generalmente:",
+    "opciones": ["Afirma que el mundo es totalmente cognoscible", "Niega que el mundo sea cognoscible", "Se basa en pruebas materiales", "Rechaza la existencia del espíritu", "Considera la materia como origen de todo"],
+    "correcta": 1,
+    "resolucion": "El idealismo niega que el mundo sea cognoscible (o plenamente cognoscible por la razón)."
+  }
+          ]
+        },
+        {
+          "titulo": "1.3 Actitud Filosófica",
+          "youtube_id": "fdQYevApFWQ",
+          "pdf_link": "https://drive.google.com/file/d/1aJqdmIZ5QHw3HvrvjMdQBaLSy1yln6Uy/view",
+          "gratis": false,
+          "preguntas": [
+            {
+    "pregunta": "Según el texto, un conocimiento sólido y coherente sobre la realidad es producto de:",
+    "opciones": ["La acumulación de datos científicos", "Una actitud filosófica", "La aceptación de dogmas", "La experiencia sensorial pura", "La memorización de teorías"],
+    "correcta": 1,
+    "resolucion": "Un conocimiento sólido y coherente sobre la realidad es producto de una actitud filosófica."
+  },
+  {
+    "pregunta": "La actitud filosófica se define como una disposición humana por comprender:",
+    "opciones": ["La estructura atómica de la materia", "El por qué y el para qué de las cosas", "Las leyes económicas del mercado", "La historia de las civilizaciones antiguas", "El funcionamiento biológico del cerebro"],
+    "correcta": 1,
+    "resolucion": "La actitud filosófica es una disposición humana por comprender el por qué y el para qué de las cosas."
+  },
+  {
+    "pregunta": "¿Cómo actúa el hombre con actitud filosófica frente a una opinión o conocimiento?",
+    "opciones": ["La acepta si viene de una autoridad", "La ignora por irrelevante", "No admite ninguno sin someterlo a crítica rigurosa", "La memoriza inmediatamente", "La rechaza si es científica"],
+    "correcta": 2,
+    "resolucion": "El hombre que adopta una actitud filosófica no admite ningún conocimiento ni opinión sin someterlo a una crítica rigurosa."
+  },
+  {
+    "pregunta": "Respecto a los conocimientos que ofrece la ciencia, la actitud filosófica:",
+    "opciones": ["Los acepta ciegamente", "Los considera verdades absolutas", "Los problematiza", "Los ignora completamente", "Los reemplaza por mitos"],
+    "correcta": 2,
+    "resolucion": "La actitud filosófica problematiza incluso los conocimientos que la ciencia ofrece."
+  },
+  {
+    "pregunta": "Según la fuente, ¿cuál es la relación entre filosofía y ciencia?",
+    "opciones": ["Son contradictorias", "Son idénticas", "Se complementan", "Son excluyentes", "No tienen relación"],
+    "correcta": 2,
+    "resolucion": "Entre la filosofía y la ciencia no se contradicen, por el contrario, se complementan."
+  },
+  {
+    "pregunta": "¿Qué característica de la actitud filosófica pone los conocimientos en tela de observación en base a interrogantes?",
+    "opciones": ["Universal", "Problemática", "Radical", "Incondicional", "Totalitaria"],
+    "correcta": 1,
+    "resolucion": "Problemática. Se pone en tela de observación los conocimientos en base a interrogantes."
+  },
+  {
+    "pregunta": "La característica 'Crítica' implica que todo conocimiento se somete a:",
+    "opciones": ["La votación popular", "El juicio de la razón", "La fe religiosa", "La tradición cultural", "La utilidad económica"],
+    "correcta": 1,
+    "resolucion": "Crítica. Todo conocimiento se somete a juicio de la razón, es decir a la rigurosidad reflexiva."
+  },
+  {
+    "pregunta": "Cuando se afirma que el único interés es la búsqueda desinteresada del saber por el saber mismo, nos referimos a la característica:",
+    "opciones": ["Trascendental", "Incondicional", "Problemática", "Radical", "Reflexiva"],
+    "correcta": 1,
+    "resolucion": "Incondicional. El único interés es la búsqueda desinteresada del saber por el saber mismo."
+  },
+  {
+    "pregunta": "La característica 'Universal' de la actitud filosófica significa que:",
+    "opciones": ["Solo es válida en Europa", "Los conocimientos pretenden adoptar validez universal", "Es aceptada por todas las personas", "Se aplica solo al universo físico", "Niega las particularidades"],
+    "correcta": 1,
+    "resolucion": "Universal. En una actitud filosófica los conocimientos pretenden adoptar validez universal."
+  },
+  {
+    "pregunta": "¿Qué característica indica que los conocimientos filosóficos se interrelacionan con otros campos del saber humano?",
+    "opciones": ["Radical", "Trascendental", "Crítica", "Problemática", "Totalitaria"],
+    "correcta": 1,
+    "resolucion": "Trascendental. Son conocimientos que trascienden a la realidad. Se interrelaciona con otros campos del saber humano."
+  },
+  {
+    "pregunta": "La característica 'Radical' implica concentrarse en:",
+    "opciones": ["La superficie de los problemas", "La raíz, fundamentos y primeros principios", "Las consecuencias inmediatas", "La opinión pública", "Los detalles técnicos"],
+    "correcta": 1,
+    "resolucion": "Radical. Se concentra en la raíz de lo real, en los fundamentos, primeros principios y causas."
+  },
+  {
+    "pregunta": "La actitud filosófica es 'Racional y reflexiva' porque:",
+    "opciones": ["Se funda en sentimientos", "Se funda en la razón y el análisis", "Se basa en la intuición mística", "Rechaza el intelecto", "Acepta dogmas sin análisis"],
+    "correcta": 1,
+    "resolucion": "Racional y reflexiva. Se funda en la razón, todo lo analiza y sólo acepta como verdadero aquello que haya resistido el análisis."
+  },
+  {
+    "pregunta": "El saber filosófico es considerado 'Totalitario' porque:",
+    "opciones": ["Impone ideas por la fuerza", "Toma su objeto de estudio de forma completa e integral", "Se enfoca en una sola parte de la realidad", "Es político y autoritario", "Rechaza otras formas de saber"],
+    "correcta": 1,
+    "resolucion": "Es un saber totalitario: toma su objeto de estudio en forma completa, integral, global y total."
+  },
+  {
+    "pregunta": "¿Qué autores son citados en el texto al definir la actitud filosófica y sus características?",
+    "opciones": ["Platón y Aristóteles", "Marx y Engels", "García y Rosales", "Kant y Hegel", "Descartes y Hume"],
+    "correcta": 2,
+    "resolucion": "El texto cita explícitamente a (García y Rosales, 1984) en la definición y características."
+  },
+  {
+    "pregunta": "Si un estudiante busca las 'primeras causas de todo lo existente', está ejerciendo la característica filosófica:",
+    "opciones": ["Universal", "Radical", "Problemática", "Incondicional", "Crítica"],
+    "correcta": 1,
+    "resolucion": "Radical. Se concentra en... los fundamentos, primeros principios y causas de todo lo existente."
+  },
+  {
+    "pregunta": "¿Qué es lo único que acepta como verdadero la actitud racional y reflexiva?",
+    "opciones": ["Lo que dicen los libros sagrados", "Lo que la mayoría cree", "Aquello que haya resistido el análisis racional e intelectivo", "Lo que es útil para la sociedad", "Lo que se percibe a simple vista"],
+    "correcta": 2,
+    "resolucion": "Sólo acepta como verdadero aquello que haya resistido el análisis racional e intelectivo."
+  },
+  {
+    "pregunta": "La rigurosidad reflexiva de la capacidad intelectual humana está asociada a la característica:",
+    "opciones": ["Incondicional", "Crítica", "Totalitaria", "Universal", "Trascendental"],
+    "correcta": 1,
+    "resolucion": "Crítica. Todo conocimiento se somete a juicio de la razón, es decir a la rigurosidad reflexiva de la capacidad intelectual humana."
+  },
+  {
+    "pregunta": "Cuando el saber filosófico trasciende a la realidad, se dice que es:",
+    "opciones": ["Inmanente", "Trascendental", "Empírico", "Pragmático", "Dogmático"],
+    "correcta": 1,
+    "resolucion": "Trascendental. Son conocimientos que trascienden a la realidad."
+  },
+  {
+    "pregunta": "El enfoque 'Global y total' del objeto de estudio corresponde a la característica:",
+    "opciones": ["Totalitario", "Radical", "Crítico", "Problemática", "Racional"],
+    "correcta": 0,
+    "resolucion": "Es un saber totalitario: toma su objeto de estudio en forma completa, integral, global y total."
+  },
+  {
+    "pregunta": "¿Cuál es la disposición fundamental del hombre que adopta una actitud filosófica ante el conocimiento?",
+    "opciones": ["La indiferencia", "La aceptación pasiva", "La crítica rigurosa", "La fe ciega", "La memorización"],
+    "correcta": 2,
+    "resolucion": "El hombre que adopta una actitud filosófica no admite ningún conocimiento ni opinión sin someterlo a una crítica rigurosa."
+  }
+          ]
+        },
+        {
+          "titulo": "1.4 Disciplinas Filosóficas",
+          "youtube_id": "yJCRpkX2Vcs",
+          "pdf_link": "https://drive.google.com/file/d/18-pNQbA6Bs7PYfGuxubnHtmezg5uDlnh/view",
+          "gratis": false,
+          "preguntas": [
+            {
+    "pregunta": "¿Qué disciplina filosófica tiene como interés fundamental analizar la naturaleza, la posibilidad y los límites del conocimiento?",
+    "opciones": ["Epistemología", "Gnoseología", "Ontología", "Axiología", "Lógica"],
+    "correcta": 1,
+    "resolucion": "La Gnoseología o Teoría de Conocimiento tiene como interés fundamental analizar la naturaleza, la posibilidad y los límites del conocimiento."
+  },
+  {
+    "pregunta": "La Gnoseología investiga la relación entre el conocimiento y:",
+    "opciones": ["La belleza", "La moral", "La cosa (ente)", "El método científico", "El razonamiento"],
+    "correcta": 2,
+    "resolucion": "La Gnoseología investiga la relación del conocimiento y la cosa (ente)."
+  },
+  {
+    "pregunta": "¿Qué disciplina se conoce también como 'Teoría del Conocimiento Científico'?",
+    "opciones": ["Gnoseología", "Lógica", "Antropología Filosófica", "Epistemología", "Metafísica"],
+    "correcta": 3,
+    "resolucion": "La Epistemología o Teoría del Conocimiento Científico es el estudio crítico del conocimiento científico."
+  },
+  {
+    "pregunta": "La Epistemología tiene como finalidad resolver problemas relacionados con la estructura del conocimiento científico y realizar el análisis del:",
+    "opciones": ["Comportamiento moral", "Lenguaje de la ciencia", "Ser en tanto ser", "Origen de los valores", "Destino del hombre"],
+    "correcta": 1,
+    "resolucion": "Su finalidad es... realizar el análisis del lenguaje de la ciencia."
+  },
+  {
+    "pregunta": "¿Qué estudia la Axiología?",
+    "opciones": ["El ser de las cosas", "El problema de los valores", "La conducta moral", "El razonamiento correcto", "La belleza artística"],
+    "correcta": 1,
+    "resolucion": "Axiología. Estudia el problema de los valores acerca de su existencia, su origen, su naturaleza, sus características."
+  },
+  {
+    "pregunta": "La disciplina filosófica encargada de estudiar el fundamento de los 'juicios valorativos' es la:",
+    "opciones": ["Ética", "Estética", "Axiología", "Lógica", "Ontología"],
+    "correcta": 2,
+    "resolucion": "La Axiología es la disciplina filosófica que estudia la forma, el significado y fundamento de los juicios valorativos."
+  },
+  {
+    "pregunta": "¿Qué disciplina analiza la conducta o comportamiento moral del hombre en sociedad?",
+    "opciones": ["Antropología", "Sociología", "Ética", "Psicología", "Epistemología"],
+    "correcta": 2,
+    "resolucion": "Ética. Estudia la conducta o comportamiento moral del hombre en sociedad."
+  },
+  {
+    "pregunta": "La Ética mide el grado de responsabilidad de un acto de acuerdo al criterio de:",
+    "opciones": ["La ley", "La libertad", "La belleza", "La verdad", "La ciencia"],
+    "correcta": 1,
+    "resolucion": "La Ética mide el grado de responsabilidad de dicho acto de acuerdo al criterio de libertad."
+  },
+  {
+    "pregunta": "¿Cuál es la disciplina que estudia los principios y métodos para distinguir el buen razonamiento del mal razonamiento?",
+    "opciones": ["Epistemología", "Gnoseología", "Lógica", "Ontología", "Dialéctica"],
+    "correcta": 2,
+    "resolucion": "Lógica. Es el estudio de los principios... que su utilizan para distinguir el buen razonamiento (correcto) del mal razonamiento (incorrecto)."
+  },
+  {
+    "pregunta": "La Ontología se define como el estudio de:",
+    "opciones": ["Los valores", "El ser de las cosas y el ser en tanto ser", "El conocimiento científico", "La conducta humana", "La percepción estética"],
+    "correcta": 1,
+    "resolucion": "Ontología. Es el estudio del ser de las cosas, del ser en tanto ser y los accidentes propios del ser y de la realidad."
+  },
+  {
+    "pregunta": "¿Qué rama filosófica trata de lo bello y los modos de aprehensión de realidades bellas?",
+    "opciones": ["Ética", "Axiología", "Estética", "Antropología", "Metafísica"],
+    "correcta": 2,
+    "resolucion": "Estética. Rama que trata de lo bello y los diferentes modos de aprehensión de realidades bellas."
+  },
+  {
+    "pregunta": "La Estética se relaciona principalmente con la esencia y la percepción de:",
+    "opciones": ["La verdad", "La bondad", "La belleza", "La justicia", "La realidad"],
+    "correcta": 2,
+    "resolucion": "Se relaciona con la esencia y la percepción de la belleza."
+  },
+  {
+    "pregunta": "¿Qué disciplina estudia la esencia del hombre, su significado y la finalidad de su existencia?",
+    "opciones": ["Psicología", "Biología", "Antropología Filosófica", "Ontología", "Sociología"],
+    "correcta": 2,
+    "resolucion": "Antropología Filosófica. Estudia la esencia del hombre, su significado, la finalidad de su existencia."
+  },
+  {
+    "pregunta": "La Antropología Filosófica estudia la existencia humana concreta en relación con:",
+    "opciones": ["Las leyes físicas", "Las condiciones históricas, económicas, sociales y culturales", "Los principios lógicos", "El método experimental", "La estructura del lenguaje científico"],
+    "correcta": 1,
+    "resolucion": "Estudia los problemas que plantea la existencia humana concreta en relación con las condiciones históricas, económicas, sociales y culturales."
+  },
+  {
+    "pregunta": "Según Chavez y Rosales (2004), cada disciplina filosófica aborda:",
+    "opciones": ["La totalidad del universo", "Una parte de la realidad", "Solo el mundo espiritual", "Únicamente el lenguaje", "La historia de la ciencia"],
+    "correcta": 1,
+    "resolucion": "Existen diversas disciplinas filosóficas, cada una de ellas abordan una parte de la realidad (Chavez y Rosales, 2004)."
+  },
+  {
+    "pregunta": "La disciplina que investiga el valor del conocimiento en cuanto establece su conformidad con la cosa es la:",
+    "opciones": ["Lógica", "Ética", "Gnoseología", "Estética", "Axiología"],
+    "correcta": 2,
+    "resolucion": "Gnoseología... investiga el valor del conocimiento en cuanto establece su conformidad con la cosa."
+  },
+  {
+    "pregunta": "El estudio crítico del fundamento y metodología del conocimiento científico corresponde a la:",
+    "opciones": ["Gnoseología", "Epistemología", "Ontología", "Lógica", "Antropología"],
+    "correcta": 1,
+    "resolucion": "Epistemología... Es el estudio crítico del conocimiento científico, su fundamento y metodología."
+  },
+  {
+    "pregunta": "La Ética analiza si el comportamiento moral es bueno o malo ante:",
+    "opciones": ["La iglesia y el estado", "Nosotros y ante los demás", "La naturaleza y el cosmos", "La lógica y la razón", "La historia y la cultura"],
+    "correcta": 1,
+    "resolucion": "Analiza si dicho comportamiento es bueno o malo ante nosotros y ante los demás."
+  },
+  {
+    "pregunta": "¿Qué disciplina estudia los accidentes propios del ser y de la realidad?",
+    "opciones": ["Física", "Química", "Ontología", "Gnoseología", "Epistemología"],
+    "correcta": 2,
+    "resolucion": "Ontología. Es el estudio... de los accidentes propios del ser y de la realidad."
+  },
+  {
+    "pregunta": "La posición del hombre en el cosmos es un tema de estudio de la:",
+    "opciones": ["Cosmología", "Astrofísica", "Antropología Filosófica", "Ética", "Teología"],
+    "correcta": 2,
+    "resolucion": "Antropología Filosófica. Estudia... su posición en el cosmos, etc.."
+  }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 2: Historia de la Filosofía Antigua",
+      "pdf_resuelto": "LINK_PDF_TEMA_2_COMPLETO",
+      "videos": [
+        {
+          "titulo": "2.1 Periodo Cosmológico: Los Presocráticos",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_2.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "2.2 Periodo Antropológico: Sofistas y Sócrates",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_2.2",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "2.3 Periodo Sistemático: Platón y Aristóteles",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_2.3",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "2.4 Periodo Helenístico-Romano",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_2.4",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 3: Edad Medieval y Renacimiento",
+      "pdf_resuelto": "LINK_PDF_TEMA_3_COMPLETO",
+      "videos": [
+        {
+          "titulo": "3.1 La Patrística: San Agustín",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_3.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "3.2 La Escolástica: Santo Tomás de Aquino",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_3.2",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "3.3 Renacimiento y Maquiavelo",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_3.3",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 4: Filosofía Moderna y Peruana",
+      "pdf_resuelto": "LINK_PDF_TEMA_4_COMPLETO",
+      "videos": [
+        {
+          "titulo": "4.1 Empirismo vs. Racionalismo",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_4.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "4.2 Kant y el Idealismo Alemán",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_4.2",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "4.3 El Marxismo: Materialismo Histórico",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_4.3",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "4.4 Filosofía en el Perú: Mariátegui y Salazar Bondy",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_4.4",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 5: Antropología Filosófica",
+      "pdf_resuelto": "LINK_PDF_TEMA_5_COMPLETO",
+      "videos": [
+        {
+          "titulo": "5.1 Origen y Naturaleza del Hombre",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_5.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "5.2 El Hombre como Ser Dual (Scheler)",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_5.2",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 6: Gnoseología (El Conocimiento)",
+      "pdf_resuelto": "LINK_PDF_TEMA_6_COMPLETO",
+      "videos": [
+        {
+          "titulo": "6.1 El Proceso del Conocimiento: Sujeto y Objeto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_6.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "6.2 Clases de Conocimiento y la Verdad",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_6.2",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 7: Corrientes del Conocimiento",
+      "pdf_resuelto": "LINK_PDF_TEMA_7_COMPLETO",
+      "videos": [
+        {
+          "titulo": "7.1 Sobre la Esencia: Idealismo vs. Materialismo",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_7.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "7.2 Sobre la Posibilidad: Dogmatismo vs. Escepticismo",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_7.2",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "7.3 Sobre el Origen: Empirismo vs. Racionalismo",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_7.3",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 8: Epistemología (La Ciencia)",
+      "pdf_resuelto": "LINK_PDF_TEMA_8_COMPLETO",
+      "videos": [
+        {
+          "titulo": "8.1 Estructura y Clasificación de la Ciencia",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_8.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "8.2 El Método Científico y sus Funciones",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_8.2",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 9: Axiología y Ética",
+      "pdf_resuelto": "LINK_PDF_TEMA_9_COMPLETO",
+      "videos": [
+        {
+          "titulo": "9.1 Axiología: El Problema del Valor",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_9.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "9.2 Fundamentos de la Ética y Moral",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_9.2",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "9.3 Corrientes Éticas: Eudemonismo y Utilitarismo",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_9.3",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 10: Introducción a la Lógica",
+      "pdf_resuelto": "LINK_PDF_TEMA_10_COMPLETO",
+      "videos": [
+        {
+          "titulo": "10.1 Definición y Funciones del Lenguaje",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_10.1",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 11: Las Falacias",
+      "pdf_resuelto": "LINK_PDF_TEMA_11_COMPLETO",
+      "videos": [
+        {
+          "titulo": "11.1 Falacias de Atinencia (No Formales)",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_11.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "11.2 Falacias de Ambigüedad",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_11.2",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 12: Lógica Proposicional",
+      "pdf_resuelto": "LINK_PDF_TEMA_12_COMPLETO",
+      "videos": [
+        {
+          "titulo": "12.1 Proposiciones y Conectores Lógicos",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_12.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "12.2 Formalización de Proposiciones",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_12.2",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 13: Tablas de Verdad",
+      "pdf_resuelto": "LINK_PDF_TEMA_13_COMPLETO",
+      "videos": [
+        {
+          "titulo": "13.1 Construcción de Tablas de Verdad",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_13.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "13.2 Tautología, Contradicción y Contingencia",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_13.2",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "13.3 Razonamientos Válidos (Modus Ponens/Tollens)",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_13.3",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 14: Principios Lógicos",
+      "pdf_resuelto": "LINK_PDF_TEMA_14_COMPLETO",
+      "videos": [
+        {
+          "titulo": "14.1 Principios Lógicos (Identidad, No Contradicción)",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_14.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "14.2 El Concepto y el Juicio",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_14.2",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 15: Inferencias",
+      "pdf_resuelto": "LINK_PDF_TEMA_15_COMPLETO",
+      "videos": [
+        {
+          "titulo": "15.1 Cuadro de Oposición de Boecio",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_15.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "15.2 Conversión, Obversión y Contraposición",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_15.2",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "15.3 El Silogismo Categórico",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_15.3",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 16: Lógica de Clases",
+      "pdf_resuelto": "LINK_PDF_TEMA_16_COMPLETO",
+      "videos": [
+        {
+          "titulo": "16.1 Teoría de Clases y Álgebra Booleana",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_16.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "16.2 Operaciones con Clases (Unión, Intersección)",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_16.2",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 17: Diagramas de Venn",
+      "pdf_resuelto": "LINK_PDF_TEMA_17_COMPLETO",
+      "videos": [
+        {
+          "titulo": "17.1 Diagramación de Proposiciones Categóricas",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_17.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "17.2 Validación de Silogismos con Gráficos",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_17.2",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    }
+  ]
+}
