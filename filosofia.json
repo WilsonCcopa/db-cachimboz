@@ -521,377 +521,519 @@
     },
     {
       "titulo": "Tema 2: Historia de la Filosofía Antigua",
-      "pdf_resuelto": "LINK_PDF_TEMA_2_COMPLETO",
+      "pdf_resuelto": "",
       "videos": [
         {
-          "titulo": "2.1 Periodo Cosmológico: Los Presocráticos",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_2.1",
+          "titulo": "2.1 Filosofía Presocrática",
+          "youtube_id": "wSc9DMVr38E",
+          "pdf_link": "https://drive.google.com/file/d/1G-WopnTfoPq_JsTZJeLKE4EejVUy01Js/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿En qué región geográfica y siglo nace históricamente la filosofía griega?",
+    "opciones": ["En Atenas, siglo V a.C.", "En las costas de Jonia (actual Turquía), siglo VI a.C.", "En Roma, siglo I d.C.", "En Esparta, siglo IV a.C.", "En Alejandría, siglo III a.C."],
+    "correcta": 1,
+    "resolucion": "La filosofía nace en Grecia, en las costas de Jonia (actual Turquía), en el siglo VI a.C."
+  },
+  {
+    "pregunta": "La filosofía griega surge cuando la explicación de la realidad deja de basarse en el mito y la magia para fundamentarse en:",
+    "opciones": ["La tradición oral", "La autoridad política", "La demostración, contrastación y verificación", "Los oráculos divinos", "La poesía épica"],
+    "correcta": 2,
+    "resolucion": "Ya no era posible explicar la realidad a través del mito; ahora toda explicación empieza a fundamentarse en la demostración, contrastación y verificación."
+  },
+  {
+    "pregunta": "¿Cuál es la preocupación principal del periodo Cosmológico o Presocrático?",
+    "opciones": ["El hombre y la sociedad", "La ética y la política", "La decadencia del pensamiento", "El arché (origen) y el cambio de las cosas", "La teología medieval"],
+    "correcta": 3,
+    "resolucion": "Periodo Cosmológico o pre socrático: Preocupación por el arché (origen) y cambio de las cosas."
+  },
+  {
+    "pregunta": "Tales de Mileto sostuvo que el principio, causa y substancia primitiva de todas las cosas es:",
+    "opciones": ["El fuego", "El aire", "El agua (fenómeno húmedo)", "La tierra", "El átomo"],
+    "correcta": 2,
+    "resolucion": "Sostuvo que el agua (fenómeno húmedo) es el principio, causa y substancia primitiva de todas las cosas."
+  },
+  {
+    "pregunta": "El concepto de 'Hilozoísmo' en el pensamiento de Tales de Mileto se refiere a que:",
+    "opciones": ["La materia es inerte y muerta", "El agua es solo un símbolo", "La naturaleza o materia está vivificada o animada por una fuerza interna", "Los dioses no existen", "El conocimiento es imposible"],
+    "correcta": 2,
+    "resolucion": "Tales consideraba la naturaleza o materia como vivificada o animada (hilozoísmo) por una fuerza interna y esencial."
+  },
+  {
+    "pregunta": "Debido a su humor tétrico y misantropía, Heráclito de Éfeso fue conocido como:",
+    "opciones": ["El alegre", "El oscuro", "El sabio", "El geómetra", "El místico"],
+    "correcta": 1,
+    "resolucion": "Debido a su vida solitaria... y su misantropía, es llamado el oscuro."
+  },
+  {
+    "pregunta": "Para Heráclito, el principio o substancia primordial que crea los fenómenos mediante condensación y rarefacción es:",
+    "opciones": ["El agua", "El número", "El fuego", "El aire", "El apeiron"],
+    "correcta": 2,
+    "resolucion": "Sostuvo que el fuego es el origen de las cosas... es la substancia primordial."
+  },
+  {
+    "pregunta": "La frase 'No podemos bañarnos dos veces en el mismo río' ilustra la noción de Heráclito sobre:",
+    "opciones": ["La estabilidad del ser", "El devenir o flujo constante", "La inmortalidad del alma", "La estática del universo", "El vacío absoluto"],
+    "correcta": 1,
+    "resolucion": "Heráclito incorporó el concepto de “devenir” o flujo... 'No podemos bañarnos dos veces en el mismo rio'."
+  },
+  {
+    "pregunta": "Según Heráclito, el 'Logos' es:",
+    "opciones": ["El caos desordenado", "La opinión humana", "La Razón divina universal y principio inmanente", "Un mito antiguo", "La ignorancia"],
+    "correcta": 2,
+    "resolucion": "El logos es Razón divina universal, principio inmanente (ley) que gobierna todas las cosas."
+  },
+  {
+    "pregunta": "¿Cuál es el arché o principio fundamental para Pitágoras de Samos?",
+    "opciones": ["El agua", "El fuego", "Los átomos", "Los números", "El ser"],
+    "correcta": 3,
+    "resolucion": "El arché pitagórico son los números. “Las cosas son números y los números son cosas”."
+  },
+  {
+    "pregunta": "La escuela pitagórica estaba inspirada en el orfismo religioso que postula la doctrina de la 'metempsicosis', la cual significa:",
+    "opciones": ["La muerte absoluta", "La transmigración de las almas", "El ateísmo radical", "El placer como fin supremo", "La negación del espíritu"],
+    "correcta": 1,
+    "resolucion": "Postula la doctrina de la metempsicosis, basada en la creencia de la inmortalidad y transmigración de las almas."
+  },
+  {
+    "pregunta": "En la simbología pitagórica, la 'Tetraktys' (suma de 1+2+3+4) da como resultado el número más valorado, que es:",
+    "opciones": ["Siete", "Doce", "Diez", "Tres", "Uno"],
+    "correcta": 2,
+    "resolucion": "El número diez es el más valorado porque es la suma de los primeros cuatro... la tetraktys."
+  },
+  {
+    "pregunta": "Según los pitagóricos, el número 4 representa:",
+    "opciones": ["La razón", "La opinión", "La santidad", "La justicia y el volumen", "El caos"],
+    "correcta": 3,
+    "resolucion": "El 4 representa la justicia y el volumen."
+  },
+  {
+    "pregunta": "Demócrito de Abdera desarrolló la teoría atómica, sosteniendo que los átomos se mueven eternamente en:",
+    "opciones": ["El agua", "El fuego", "Un infinito espacio vacío (kenon)", "La mente de Dios", "Una esfera sólida"],
+    "correcta": 2,
+    "resolucion": "Los átomos... se mueven por la eternidad en un infinito espacio vacío (en griego kenon, ‘el vacío’)."
+  },
+  {
+    "pregunta": "Etimológicamente, la palabra griega 'atoma' significa:",
+    "opciones": ["Invisible", "Indivisible", "Infinito", "Inmaterial", "Inmóvil"],
+    "correcta": 1,
+    "resolucion": "Materia pura (en griego atoma, indivisible)."
+  },
+  {
+    "pregunta": "A diferencia del 'oscuro' Heráclito, a Demócrito se le conocía como:",
+    "opciones": ["El Filósofo Llorón", "El Filósofo Alegre", "El Gran Geómetra", "El Místico", "El Político"],
+    "correcta": 1,
+    "resolucion": "Demócrito era conocido como el Filósofo Alegre, en contraste al sombrío y pesimista Heráclito."
+  },
+  {
+    "pregunta": "Con Parménides de Elea se inicia la:",
+    "opciones": ["Ética", "Lógica formal", "Metafísica", "Sociología", "Psicología"],
+    "correcta": 2,
+    "resolucion": "Con Parménides se inicia la Metafísica, y el conocimiento científico."
+  },
+  {
+    "pregunta": "¿Cuál es la afirmación ontológica fundamental de Parménides?",
+    "opciones": ["Todo fluye", "El ser es y el no-ser no es", "Todo es número", "El hombre es la medida de todas las cosas", "Solo sé que nada sé"],
+    "correcta": 1,
+    "resolucion": "Su punto de partida es la afirmación ontológica...: “El ser es”... el no ser no es."
+  },
+  {
+    "pregunta": "Parménides niega la existencia del vacío y del movimiento argumentando que admitir el devenir es:",
+    "opciones": ["Admitir el no ser", "Una verdad científica", "La única realidad", "Necesario para la vida", "Voluntad de los dioses"],
+    "correcta": 0,
+    "resolucion": "Admitir el cambio, el devenir, es admitir el no ser."
+  },
+  {
+    "pregunta": "Según la caracterización del ser de Parménides, el mundo es como:",
+    "opciones": ["Un río infinito", "Una esfera donde no hay vacío", "Un fuego eterno", "Una pirámide", "Una melodía"],
+    "correcta": 1,
+    "resolucion": "Plantea que el mundo es como una esfera en la cual no hay vacío por lo tanto no es posible el movimiento."
+  }
+          ]
         },
         {
           "titulo": "2.2 Periodo Antropológico: Sofistas y Sócrates",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_2.2",
+          "youtube_id": "7iA2ZcSokgs",
+          "pdf_link": "https://drive.google.com/file/d/100eGgSduYO4wHnslDI9aaim2sOQAjfFl/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Cuál es la máxima preocupación del Periodo Antropológico-Clásico de la filosofía griega?",
+    "opciones": ["El origen del cosmos", "El hombre y la sociedad", "La naturaleza de los dioses", "La estructura del átomo", "La expansión militar"],
+    "correcta": 1,
+    "resolucion": "El máximo florecimiento de la filosofía griega tiene como máxima preocupación el hombre y la sociedad."
+  },
+  {
+    "pregunta": "¿Quiénes eran los Sofistas según el contexto histórico descrito?",
+    "opciones": ["Sacerdotes tradicionales de Atenas", "Científicos experimentales", "Extranjeros cultos y viajeros", "Esclavos libertos", "Gobernantes tiranos"],
+    "correcta": 2,
+    "resolucion": "Los Sofistas eran extranjeros llegados a Atenas, muy cultos y conocedores, por sus viajes."
+  },
+  {
+    "pregunta": "¿Cómo calificaron Sócrates, Platón y Aristóteles a los sofistas?",
+    "opciones": ["Maestros de la verdad", "Héroes nacionales", "Traficantes de la sabiduría aparente", "Padres de la ciencia", "Defensores de la religión"],
+    "correcta": 2,
+    "resolucion": "Fueron repudiados por Sócrates, Platón y Aristóteles por ser traficantes de la sabiduría aparente: comercializaban con el saber."
+  },
+  {
+    "pregunta": "¿Cuál era la finalidad práctica de los sofistas?",
+    "opciones": ["La contemplación del universo", "La formación política del ciudadano ateniense", "La construcción de templos", "La guerra contra Esparta", "La investigación biológica"],
+    "correcta": 1,
+    "resolucion": "Su finalidad práctica: la formación política del ciudadano ateniense. Forman políticos (demagogos)."
+  },
+  {
+    "pregunta": "¿Qué instrumento utilizaban los sofistas para convertir el argumento más débil en el más fuerte?",
+    "opciones": ["La lógica formal", "La retórica o arte de persuadir", "La experimentación", "La meditación silenciosa", "La fuerza bruta"],
+    "correcta": 1,
+    "resolucion": "El instrumento de esta nueva virtud política será la retórica o arte de persuadir."
+  },
+  {
+    "pregunta": "En cuanto a la existencia de leyes y normas, ¿qué creían los sofistas?",
+    "opciones": ["Que existen leyes universales inmutables", "Que no creían en la existencia de nada fijo y estable", "Que las leyes divinas son superiores", "Que la verdad es única para todos", "Que la naturaleza dicta las normas morales"],
+    "correcta": 1,
+    "resolucion": "No creían en la existencia de nada fijo y estable, no existen leyes ni normas mejores y peores."
+  },
+  {
+    "pregunta": "La postura filosófica de los sofistas que afirma que 'la verdad no existe' o se reduce a un punto de vista se conoce como:",
+    "opciones": ["Relativismo y escepticismo", "Dogmatismo y fe", "Racionalismo puro", "Materialismo histórico", "Idealismo absoluto"],
+    "correcta": 0,
+    "resolucion": "Relativismo y escepticismo. La verdad no existe. La verdad se reduce a punto de vista."
+  },
+  {
+    "pregunta": "¿Quién es considerado el primer sofista y autor de la frase 'El hombre es la medida de todas las cosas'?",
+    "opciones": ["Gorgias", "Sócrates", "Protágoras de Abdera", "Tales de Mileto", "Anaxágoras"],
+    "correcta": 2,
+    "resolucion": "Protágoras de Abdera (480-410 A. c.): Considerado como el primer sofista. Afirmaba: 'El hombre es la medida de todas las cosas...'."
+  },
+  {
+    "pregunta": "Según Protágoras, respecto a la verdad absoluta:",
+    "opciones": ["Es alcanzable por la razón", "Es imposible, sólo es posible la verdad relativa", "Es revelada por los dioses", "Es única e inmutable", "Se encuentra en las matemáticas"],
+    "correcta": 1,
+    "resolucion": "Considera que la verdad absoluta es imposible; sólo es posible la verdad relativa para cada uno de los hombres."
+  },
+  {
+    "pregunta": "¿Qué razón daba Protágoras para no saber si los dioses existen o qué forma tienen?",
+    "opciones": ["La falta de interés", "La oscuridad de la materia y la brevedad de la vida", "La prohibición del gobierno", "La claridad de las evidencias", "El miedo al castigo divino"],
+    "correcta": 1,
+    "resolucion": "Hay muchos impedimentos para saberlo, la oscuridad de la materia y la brevedad de la vida."
+  },
+  {
+    "pregunta": "Con Sócrates, la filosofía deja de concentrarse en el cosmos para centrarse en:",
+    "opciones": ["Los elementos químicos", "El hombre como ser moral", "Las estrellas y planetas", "La retórica política", "El comercio marítimo"],
+    "correcta": 1,
+    "resolucion": "Hizo del hombre como ser moral el centro de la investigación filosófica; ahora la filosofía ya no se concentra en el cosmos, sino en el hombre."
+  },
+  {
+    "pregunta": "Respecto a la ética socrática, ¿qué es el 'Mal'?",
+    "opciones": ["Una fuerza demoníaca", "Un castigo de los dioses", "Producto de la ignorancia o falta de conocimiento", "La naturaleza humana", "El destino inevitable"],
+    "correcta": 2,
+    "resolucion": "Respecto de la ética sostiene 'el mal es producto de la ignorancia'... El Mal es sólo la falta de inteligencia o de conocimiento."
+  },
+  {
+    "pregunta": "La frase que marca el inicio de la autorreflexión e interiorización en Sócrates es:",
+    "opciones": ["Pienso, luego existo", "Conócete a ti mismo", "Todo fluye", "El ser es", "El hombre es la medida"],
+    "correcta": 1,
+    "resolucion": "Inicia la autorreflexión e interiorización: Conócete a ti mismo."
+  },
+  {
+    "pregunta": "El método filosófico aplicado por Sócrates se denomina:",
+    "opciones": ["Dialéctica materialista", "Silogismo", "Mayéutica", "Experimentación", "Meditación trascendental"],
+    "correcta": 2,
+    "resolucion": "Aplicó la Mayéutica como método filosófico, a partir del cual en algún momento concluye 'sólo sé que nada sé'."
+  },
+  {
+    "pregunta": "Según el texto, ¿cuál es la mejor manera de enseñar y entender la filosofía para Sócrates?",
+    "opciones": ["Leyendo libros antiguos", "A través de la conversación (dialogar)", "Escuchando discursos políticos", "Memorizando leyes", "Observando la naturaleza"],
+    "correcta": 1,
+    "resolucion": "La mejor manera de enseñar y entender la filosofía es a través de la conversación... dialogar."
+  },
+  {
+    "pregunta": "En el método socrático, la 'Ironía' tiene como objetivo:",
+    "opciones": ["Humillar al oponente", "Generar contradicción para que el interlocutor reconozca su ignorancia", "Demostrar superioridad intelectual", "Ganar debates políticos", "Enseñar retórica"],
+    "correcta": 1,
+    "resolucion": "Sócrates... pretende generar perplejidad... y contradicción... para que de este modo reconozca su ignorancia."
+  },
+  {
+    "pregunta": "La ironía es descrita en el texto como un proceso de:",
+    "opciones": ["Higiene mental", "Adoctrinamiento", "Memorización", "Creación artística", "Relajación física"],
+    "correcta": 0,
+    "resolucion": "Por tanto, la ironía es un proceso de higiene mental, mediante el cual reconocemos los límites y posibilidades del conocimiento."
+  },
+  {
+    "pregunta": "La fase de la Mayéutica (arte de dar a luz) consiste en:",
+    "opciones": ["Aceptar la ignorancia eterna", "Reconocer la verdad en nuestro interior", "Copiar las ideas del maestro", "Leer las estrellas", "Inventar nuevas leyes"],
+    "correcta": 1,
+    "resolucion": "Mayéutica... Una vez eliminados los prejuicios podemos reconocer la verdad en nuestro interior."
+  },
+  {
+    "pregunta": "¿Cuál fue la actitud de Sócrates hacia la política?",
+    "opciones": ["Fue un líder revolucionario", "Buscó cargos públicos altos", "Evitaba la política para dedicarse a la enseñanza", "Fue un tirano", "Escribió las leyes de Atenas"],
+    "correcta": 2,
+    "resolucion": "Sócrates... evitaba la política... creía que... podría servir mejor a su país dedicándose a la enseñanza."
+  },
+  {
+    "pregunta": "Respecto a la obra escrita de Sócrates, el texto afirma que:",
+    "opciones": ["Escribió muchos libros", "Escribió solo sobre ética", "No escribió libro alguno ni fundó escuela regular", "Sus escritos se perdieron", "Escribió poesía épica"],
+    "correcta": 2,
+    "resolucion": "No escribió libro alguno ni tampoco fundó una escuela regular de filosofía."
+  }
+          ]
         },
         {
           "titulo": "2.3 Periodo Sistemático: Platón y Aristóteles",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_2.3",
+          "youtube_id": "wSPlu8UYswI",
+          "pdf_link": "https://drive.google.com/file/d/1eE-IAyNNax0cxXlRUE5lEWg0dYOvw6xh/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Cuál era el verdadero nombre del filósofo griego conocido como Platón?",
+    "opciones": ["Sócrates", "Aristóteles", "Arístocles", "Solón", "Codro"],
+    "correcta": 2,
+    "resolucion": "Platón (428-347 a C.): Filósofo griego de nombre Arístocles."
+  },
+  {
+    "pregunta": "Platón fundó un centro de libre educación denominado:",
+    "opciones": ["El Liceo", "La Academia", "El Pórtico", "El Jardín", "La Stoa"],
+    "correcta": 1,
+    "resolucion": "Fue creador de un centro de libre educación, denominado La Academia."
+  },
+  {
+    "pregunta": "Según el dualismo cosmológico de Platón, ¿cómo se denomina al lugar donde viven las almas perfectas y las ideas?",
+    "opciones": ["Mundo sensible", "Topus Uranus", "Olimpo", "Hades", "Caos primordial"],
+    "correcta": 1,
+    "resolucion": "Es el Topus Uranus, lugar donde originariamente vivimos como almas perfectas, el verdadero mundo de las ideas."
+  },
+  {
+    "pregunta": "Para Platón, el cuerpo humano representa para el alma:",
+    "opciones": ["Un templo sagrado", "Una herramienta de placer", "Una cárcel", "La fuente de la verdad", "El origen de las ideas"],
+    "correcta": 2,
+    "resolucion": "Al ser castigados fuimos encarcelados en un cuerpo... El hombre es un alma encarcelada."
+  },
+  {
+    "pregunta": "Según la teoría de las ideas de Platón, ¿qué figura es responsable de ordenar el mundo sensible?",
+    "opciones": ["El Demiurgo", "Zeus", "El Primer Motor", "El Logos", "El Uno"],
+    "correcta": 0,
+    "resolucion": "Dice que el mundo no es creado, sino el resultado ordenado por un Demiurgo."
+  },
+  {
+    "pregunta": "En la obra 'La República', Platón establece que el Estado ideal se compone de tres clases: Filósofos-reyes, Militares y:",
+    "opciones": ["Sacerdotes", "Comerciantes o artesanos", "Esclavos", "Extranjeros", "Burócratas"],
+    "correcta": 1,
+    "resolucion": "El Estado ideal se compone de tres clases: Filósofos–reyes, Comerciantes o artesanos y Militares."
+  },
+  {
+    "pregunta": "Según Platón, ¿cuál es la virtud que caracteriza a la clase de los gobernantes (filósofos-reyes)?",
+    "opciones": ["La templanza", "El valor", "La sabiduría", "La fuerza", "La caridad"],
+    "correcta": 2,
+    "resolucion": "La sabiduría caracteriza a los gobernantes."
+  },
+  {
+    "pregunta": "¿Qué virtud caracteriza a la sociedad en su conjunto dentro del Estado ideal platónico?",
+    "opciones": ["La valentía", "La justicia", "La prudencia", "La moderación", "La piedad"],
+    "correcta": 1,
+    "resolucion": "La justicia, la cuarta virtud, caracteriza a la sociedad en su conjunto."
+  },
+  {
+    "pregunta": "Aristóteles fundó su propia escuela en Atenas llamada:",
+    "opciones": ["La Academia", "El Liceo", "La Escuela de Mileto", "Los Peripatéticos", "El Gimnasio"],
+    "correcta": 1,
+    "resolucion": "Fundó su famoso Liceo en Atenas."
+  },
+  {
+    "pregunta": "A diferencia de Platón, Aristóteles defendió una postura:",
+    "opciones": ["Idealista pura", "Escéptica", "Naturalista y realista", "Mística", "Sofista"],
+    "correcta": 2,
+    "resolucion": "Se le distanció por las posiciones idealistas, para elaborar un pensamiento de carácter naturalista y realista."
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes causas aristotélicas se refiere a 'aquello en vista de lo cual el agente actuó' (el fin)?",
+    "opciones": ["Causa material", "Causa formal", "Causa eficiente", "Causa final", "Causa primera"],
+    "correcta": 3,
+    "resolucion": "Causa final (aquello en vista de lo cual el agente actuó o se produce el objeto)."
+  },
+  {
+    "pregunta": "Para Aristóteles, la felicidad (fin último del hombre) se encuentra principalmente en:",
+    "opciones": ["Los placeres sensibles", "Las riquezas", "El ejercicio de la actividad intelectiva", "El poder político", "La fama"],
+    "correcta": 2,
+    "resolucion": "El hombre sabio la busca en el ejercicio de la actividad que le es propia al hombre, es decir, en la vida intelectiva."
+  },
+  {
+    "pregunta": "Según la ética aristotélica, la virtud consiste en:",
+    "opciones": ["El extremo sacrificio", "El justo medio", "La negación de los deseos", "La búsqueda del placer", "El aislamiento social"],
+    "correcta": 1,
+    "resolucion": "La virtud. Consiste en el justo medio. El actuar del hombre debe estar regido por la prudencia."
+  },
+  {
+    "pregunta": "Aristóteles define al hombre por naturaleza como un:",
+    "opciones": ["Animal divino", "Animal político", "Ser espiritual", "Ente solitario", "Lobo para el hombre"],
+    "correcta": 1,
+    "resolucion": "Aristóteles afirma que el hombre es un 'animal político' por naturaleza."
+  },
+  {
+    "pregunta": "¿Cómo se denominan las virtudes que se refieren al ejercicio de la inteligencia según Aristóteles?",
+    "opciones": ["Éticas", "Morales", "Dianoéticas", "Teologales", "Civiles"],
+    "correcta": 2,
+    "resolucion": "Las virtudes dianoéticas (que se refieren al ejercicio de la inteligencia)."
+  },
+  {
+    "pregunta": "Según la evolución social descrita por Aristóteles, la unión de varias familias forma:",
+    "opciones": ["El Estado", "La nación", "La aldea", "El imperio", "La tribu"],
+    "correcta": 2,
+    "resolucion": "Primero en la familia, luego en la aldea (unión de varias familias) y finalmente en la Ciudad–Estado."
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes es considerada por Aristóteles como una forma impura de gobierno?",
+    "opciones": ["Monarquía", "Aristocracia", "Democracia", "Oligarquía", "República"],
+    "correcta": 3,
+    "resolucion": "A éstas se oponen tres formas impuras de gobierno: la Tiranía, la Oligarquía y la Oclocracia."
+  },
+  {
+    "pregunta": "La forma de desgobierno que se opone a la Democracia se denomina:",
+    "opciones": ["Tiranía", "Oligarquía", "Oclocracia", "Dictadura", "Anarquía"],
+    "correcta": 2,
+    "resolucion": "La Oclocracia (o forma de desgobierno)."
+  },
+  {
+    "pregunta": "Según el texto, Aristóteles NO concibe el derecho de ciudadanía para:",
+    "opciones": ["Los filósofos", "Los militares", "Las mujeres ni los esclavos", "Los comerciantes", "Los aristócratas"],
+    "correcta": 2,
+    "resolucion": "Aristóteles no concibe el derecho de ciudadanía ni para las mujeres ni para los esclavos."
+  },
+  {
+    "pregunta": "Para Aristóteles, toda forma de gobierno es buena si quien gobierna busca:",
+    "opciones": ["Su propia riqueza", "El bien de los gobernados", "La expansión territorial", "El favor de los dioses", "La pureza de sangre"],
+    "correcta": 1,
+    "resolucion": "En principio, toda forma de gobierno es buena si quien gobierna busca el bien de los gobernados."
+  }
+          ]
         },
         {
           "titulo": "2.4 Periodo Helenístico-Romano",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_2.4",
+          "youtube_id": "8rIGY-IVO9g",
+          "pdf_link": "https://drive.google.com/file/d/1-vtNibYRPWt1Qq26GDoSAYygwY6fQUev/view",
           "gratis": false,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 3: Edad Medieval y Renacimiento",
-      "pdf_resuelto": "LINK_PDF_TEMA_3_COMPLETO",
-      "videos": [
-        {
-          "titulo": "3.1 La Patrística: San Agustín",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_3.1",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "3.2 La Escolástica: Santo Tomás de Aquino",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_3.2",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "3.3 Renacimiento y Maquiavelo",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_3.3",
-          "gratis": false,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 4: Filosofía Moderna y Peruana",
-      "pdf_resuelto": "LINK_PDF_TEMA_4_COMPLETO",
-      "videos": [
-        {
-          "titulo": "4.1 Empirismo vs. Racionalismo",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_4.1",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "4.2 Kant y el Idealismo Alemán",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_4.2",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "4.3 El Marxismo: Materialismo Histórico",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_4.3",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "4.4 Filosofía en el Perú: Mariátegui y Salazar Bondy",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_4.4",
-          "gratis": false,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 5: Antropología Filosófica",
-      "pdf_resuelto": "LINK_PDF_TEMA_5_COMPLETO",
-      "videos": [
-        {
-          "titulo": "5.1 Origen y Naturaleza del Hombre",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_5.1",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "5.2 El Hombre como Ser Dual (Scheler)",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_5.2",
-          "gratis": false,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 6: Gnoseología (El Conocimiento)",
-      "pdf_resuelto": "LINK_PDF_TEMA_6_COMPLETO",
-      "videos": [
-        {
-          "titulo": "6.1 El Proceso del Conocimiento: Sujeto y Objeto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_6.1",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "6.2 Clases de Conocimiento y la Verdad",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_6.2",
-          "gratis": false,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 7: Corrientes del Conocimiento",
-      "pdf_resuelto": "LINK_PDF_TEMA_7_COMPLETO",
-      "videos": [
-        {
-          "titulo": "7.1 Sobre la Esencia: Idealismo vs. Materialismo",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_7.1",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "7.2 Sobre la Posibilidad: Dogmatismo vs. Escepticismo",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_7.2",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "7.3 Sobre el Origen: Empirismo vs. Racionalismo",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_7.3",
-          "gratis": false,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 8: Epistemología (La Ciencia)",
-      "pdf_resuelto": "LINK_PDF_TEMA_8_COMPLETO",
-      "videos": [
-        {
-          "titulo": "8.1 Estructura y Clasificación de la Ciencia",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_8.1",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "8.2 El Método Científico y sus Funciones",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_8.2",
-          "gratis": false,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 9: Axiología y Ética",
-      "pdf_resuelto": "LINK_PDF_TEMA_9_COMPLETO",
-      "videos": [
-        {
-          "titulo": "9.1 Axiología: El Problema del Valor",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_9.1",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "9.2 Fundamentos de la Ética y Moral",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_9.2",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "9.3 Corrientes Éticas: Eudemonismo y Utilitarismo",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_9.3",
-          "gratis": false,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 10: Introducción a la Lógica",
-      "pdf_resuelto": "LINK_PDF_TEMA_10_COMPLETO",
-      "videos": [
-        {
-          "titulo": "10.1 Definición y Funciones del Lenguaje",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_10.1",
-          "gratis": true,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 11: Las Falacias",
-      "pdf_resuelto": "LINK_PDF_TEMA_11_COMPLETO",
-      "videos": [
-        {
-          "titulo": "11.1 Falacias de Atinencia (No Formales)",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_11.1",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "11.2 Falacias de Ambigüedad",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_11.2",
-          "gratis": false,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 12: Lógica Proposicional",
-      "pdf_resuelto": "LINK_PDF_TEMA_12_COMPLETO",
-      "videos": [
-        {
-          "titulo": "12.1 Proposiciones y Conectores Lógicos",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_12.1",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "12.2 Formalización de Proposiciones",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_12.2",
-          "gratis": false,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 13: Tablas de Verdad",
-      "pdf_resuelto": "LINK_PDF_TEMA_13_COMPLETO",
-      "videos": [
-        {
-          "titulo": "13.1 Construcción de Tablas de Verdad",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_13.1",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "13.2 Tautología, Contradicción y Contingencia",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_13.2",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "13.3 Razonamientos Válidos (Modus Ponens/Tollens)",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_13.3",
-          "gratis": false,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 14: Principios Lógicos",
-      "pdf_resuelto": "LINK_PDF_TEMA_14_COMPLETO",
-      "videos": [
-        {
-          "titulo": "14.1 Principios Lógicos (Identidad, No Contradicción)",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_14.1",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "14.2 El Concepto y el Juicio",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_14.2",
-          "gratis": false,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 15: Inferencias",
-      "pdf_resuelto": "LINK_PDF_TEMA_15_COMPLETO",
-      "videos": [
-        {
-          "titulo": "15.1 Cuadro de Oposición de Boecio",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_15.1",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "15.2 Conversión, Obversión y Contraposición",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_15.2",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "15.3 El Silogismo Categórico",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_15.3",
-          "gratis": false,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 16: Lógica de Clases",
-      "pdf_resuelto": "LINK_PDF_TEMA_16_COMPLETO",
-      "videos": [
-        {
-          "titulo": "16.1 Teoría de Clases y Álgebra Booleana",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_16.1",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "16.2 Operaciones con Clases (Unión, Intersección)",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_16.2",
-          "gratis": false,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 17: Diagramas de Venn",
-      "pdf_resuelto": "LINK_PDF_TEMA_17_COMPLETO",
-      "videos": [
-        {
-          "titulo": "17.1 Diagramación de Proposiciones Categóricas",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_17.1",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "17.2 Validación de Silogismos con Gráficos",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_17.2",
-          "gratis": false,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "El periodo Helenístico se identifica históricamente con:",
+    "opciones": ["El auge de la democracia ateniense", "La etapa de la decadencia del pensamiento griego", "El nacimiento de la filosofía presocrática", "La fundación de Roma", "La invención de la escritura"],
+    "correcta": 1,
+    "resolucion": "El helenismo se identifica con la etapa de la decadencia del pensamiento griego."
+  },
+  {
+    "pregunta": "¿Qué ordenó Alejandro Magno respecto a la concepción de la patria?",
+    "opciones": ["Que solo Atenas es la patria", "Que Grecia es superior a los bárbaros", "Considerar el universo como su patria", "Dividir el mundo en ciudades-estado", "Rechazar las costumbres extranjeras"],
+    "correcta": 2,
+    "resolucion": "Alejandro Magno... ordenó a cada uno considerar el universo como su patria."
+  },
+  {
+    "pregunta": "Etimológicamente, el término 'Hellenizen' significa:",
+    "opciones": ["Vivir bien", "Hablar griego", "Amar la sabiduría", "Ser ciudadano", "Adorar a los dioses"],
+    "correcta": 1,
+    "resolucion": "Hellenizen significa “hablar griego”."
+  },
+  {
+    "pregunta": "Con el surgimiento del helenismo, la organización social griega tradicional sufre:",
+    "opciones": ["Un fortalecimiento de la polis", "El derrumbe definitivo de la polis", "Una expansión democrática", "Un retorno a la monarquía espartana", "Una separación total de culturas"],
+    "correcta": 1,
+    "resolucion": "Al mismo tiempo comienza el derrumbe definitivo de la polis, y de la exclusiva organización social griega."
+  },
+  {
+    "pregunta": "En el periodo helenístico, la motivación principal de las nuevas escuelas filosóficas es:",
+    "opciones": ["La búsqueda de la felicidad", "El análisis del lenguaje", "La política internacional", "La cosmología física", "La teología"],
+    "correcta": 0,
+    "resolucion": "Surgen nuevas escuelas cuya motivación principal es la búsqueda de la felicidad."
+  },
+  {
+    "pregunta": "¿Cómo se denominó la escuela fundada por Epicuro de Samos en Atenas?",
+    "opciones": ["La Academia", "El Liceo", "El Pórtico", "El Jardín", "La Stoa"],
+    "correcta": 3,
+    "resolucion": "Epicuro de Samos... Fundó en Atenas su Jardín, escuela epicureista."
+  },
+  {
+    "pregunta": "A diferencia de la Academia y el Liceo, el Jardín de Epicuro permitía la participación de:",
+    "opciones": ["Solo aristócratas", "Solo ciudadanos libres", "Mujeres y esclavos", "Militares exclusivamente", "Políticos romanos"],
+    "correcta": 2,
+    "resolucion": "Participaban no solamente hombres... sino también mujeres y esclavos."
+  },
+  {
+    "pregunta": "La doctrina epicúrea parte de la necesidad de eliminar dos temores fundamentales:",
+    "opciones": ["El temor a la pobreza y a la enfermedad", "El temor a los dioses y a la muerte", "El temor a la soledad y al fracaso", "El temor a la guerra y a la esclavitud", "El temor a la ignorancia y al error"],
+    "correcta": 1,
+    "resolucion": "Dos supuestos en que está basada la doctrina epicúrea: la de eliminar el temor a los dioses y la de desprenderse del temor a la muerte."
+  },
+  {
+    "pregunta": "¿Cuál es la postura de Epicuro respecto a los dioses?",
+    "opciones": ["No existen", "Castigan a los hombres malos", "Son perfectos pero indiferentes a los destinos humanos", "Controlan el destino de cada persona", "Deben ser temidos"],
+    "correcta": 2,
+    "resolucion": "Afirma que los dioses... existen pero son indiferentes a los destinos humanos."
+  },
+  {
+    "pregunta": "Para eliminar el temor a la muerte, Epicuro argumenta que:",
+    "opciones": ["El alma es inmortal", "Iremos a un mundo mejor", "Mientras vivimos no está la muerte, y muertos no tenemos sensación", "La muerte es solo un sueño", "Debemos resignarnos al destino"],
+    "correcta": 2,
+    "resolucion": "Se consigue advirtiendo que mientras se vive no se tiene sensación de la muerte y que cuando se está muerto no se tiene sensación alguna."
+  },
+  {
+    "pregunta": "Respecto a la vida política, el epicureísmo recomienda:",
+    "opciones": ["Participar activamente", "Buscar cargos públicos", "No ocuparse de ella para vivir tranquilo", "Reformar el estado", "Liderar revoluciones"],
+    "correcta": 2,
+    "resolucion": "El fin de la vida es vivir tranquilo, no debemos ocuparnos de la vida política."
+  },
+  {
+    "pregunta": "En el epicureísmo, la 'Ataraxia' se define como:",
+    "opciones": ["La búsqueda de fama", "El placer desenfrenado", "El estado de ausencia de temor, dolor y preocupación", "La negación de todo placer", "La sabiduría absoluta"],
+    "correcta": 2,
+    "resolucion": "Alcanzar el estado de ausencia del temor, de dolor, de pena y de preocupación (ataraxia)."
+  },
+  {
+    "pregunta": "Para Epicuro, las verdaderas necesidades del hombre son:",
+    "opciones": ["Lujos y riquezas", "Fama y poder", "Conocimiento y arte", "Elementales (comer, beber, tener abrigo)", "Viajes y conquistas"],
+    "correcta": 3,
+    "resolucion": "Las verdaderas necesidades del hombre, son solamente los elementales: comer, beber, tener abrigo."
+  },
+  {
+    "pregunta": "Según el texto, el placer que busca el epicureísmo es principalmente:",
+    "opciones": ["Exclusivamente material", "Momentáneo y fugaz", "Duradero, de índole espiritual y afectiva", "Físico y corporal", "Inexistente"],
+    "correcta": 2,
+    "resolucion": "Pero no se trata de un placer exclusivamente material, sino de un placer duradero, de índole espiritual, afectiva."
+  },
+  {
+    "pregunta": "¿Quién fue Marco Aurelio Antonino?",
+    "opciones": ["Un esclavo liberto", "Un filósofo epicúreo", "Filósofo estoico y emperador romano", "Un general griego", "Un sofista"],
+    "correcta": 2,
+    "resolucion": "Marco Aurelio, Antonino... Filósofo estoico, emperador romano."
+  },
+  {
+    "pregunta": "Bajo el contexto de crisis del imperio, el estoicismo de Marco Aurelio adquiere un carácter:",
+    "opciones": ["Materialista y ateo", "Místico y religioso", "Político y revolucionario", "Científico y empírico", "Hedonista"],
+    "correcta": 1,
+    "resolucion": "El estoicismo pierde de manera definitiva sus rasgos materialistas y adquiere un carácter místico, religiosos."
+  },
+  {
+    "pregunta": "Para Marco Aurelio, Dios es:",
+    "opciones": ["Un ser vengativo", "La razón mundial fundamento de todo lo existente", "Una invención humana", "Indiferente al mundo", "El creador del caos"],
+    "correcta": 1,
+    "resolucion": "Según Marco Aurelio, Dios es el fundamento primero de todo lo existente, es la razón mundial."
+  },
+  {
+    "pregunta": "¿Qué sucede con la conciencia individual después de la muerte según Marco Aurelio?",
+    "opciones": ["Va al cielo o al infierno", "Reencarna en otro cuerpo", "Se diluye en la razón mundial", "Permanece como fantasma", "Viaja a las estrellas"],
+    "correcta": 2,
+    "resolucion": "La razón mundial en que se diluye toda conciencia individual después de la muerte del cuerpo."
+  },
+  {
+    "pregunta": "Son características de la ética de Marco Aurelio:",
+    "opciones": ["El placer y la alegría", "La rebeldía y la lucha", "El fatalismo, la resignación y el ascetismo", "La ambición y el poder", "La duda constante"],
+    "correcta": 2,
+    "resolucion": "Son propios de su ética, además, el fatalismo. La idea de la resignación y del ascetismo."
+  },
+  {
+    "pregunta": "¿Cuál es la obra más importante de Marco Aurelio mencionada al final del texto?",
+    "opciones": ["La República", "Ética a Nicómaco", "Meditaciones", "Enéadas", "Cartas a Lucilio"],
+    "correcta": 2,
+    "resolucion": "Obra más importante “meditaciones”."
+  }
+          ]
         }
       ]
     }
