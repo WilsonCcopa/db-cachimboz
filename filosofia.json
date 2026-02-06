@@ -1034,6 +1034,786 @@
     "resolucion": "Obra más importante “meditaciones”."
   }
           ]
+                 }
+         ]
+        },
+        {
+      "titulo": "Tema 3: Edad Medieval y Renacimiento",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "3.1 Filosofía Medieval y Características - San Agustín de Hipona",
+          "youtube_id": "CX__MBA1Tn8",
+          "pdf_link": "https://drive.google.com/file/d/1UHnkOJEjkAPrHm47hRc36UK_ZOU-UOiC/view",
+          "gratis": false,
+          "preguntas": [
+            {
+    "pregunta": "¿Qué frase describe mejor la relación entre filosofía y teología durante la Edad Media según el texto?",
+    "opciones": ["La filosofía es superior a la teología", "La teología es sierva de la filosofía", "La filosofía se vuelve sierva de la teología", "Son disciplinas independientes sin relación", "La filosofía reemplaza a la religión"],
+    "correcta": 2,
+    "resolucion": "Durante la Edad Media, dominada por la religión, la filosofía se vuelve sierva de la teología."
+  },
+  {
+    "pregunta": "¿Qué institución jugó un papel crucial en la preservación del conocimiento clásico durante la inestabilidad post-romana?",
+    "opciones": ["Las universidades laicas", "Los monasterios", "Los palacios reales", "Las escuelas de Atenas", "Los gremios de artesanos"],
+    "correcta": 1,
+    "resolucion": "Los monasterios desempeñaron un papel crucial en la preservación y copia de textos antiguos; los monjes eran guardianes del conocimiento clásico."
+  },
+  {
+    "pregunta": "La Patrística es el periodo que se refiere al estudio de:",
+    "opciones": ["Los filósofos griegos", "Los Padres de la Iglesia", "Los emperadores romanos", "Los herejes gnósticos", "Los monjes medievales"],
+    "correcta": 1,
+    "resolucion": "La Patrística se refiere al estudio de los Padres de la Iglesia, líderes y teólogos cristianos."
+  },
+  {
+    "pregunta": "¿Qué método de interpretación bíblica utilizaron muchos Padres de la Iglesia para encontrar significados más profundos?",
+    "opciones": ["El método literal estricto", "El método científico", "El método alegórico", "El método histórico", "El método escéptico"],
+    "correcta": 2,
+    "resolucion": "Muchos Padres de la Iglesia utilizaron el método alegórico... consideraban que las Escrituras tenían significados más profundos y espirituales."
+  },
+  {
+    "pregunta": "La obra de San Agustín supone la primera gran síntesis entre el cristianismo y la filosofía:",
+    "opciones": ["Aristotélica", "Estoica", "Platónica", "Epicúrea", "Socrática"],
+    "correcta": 2,
+    "resolucion": "La obra de San Agustín supone la primera gran síntesis entre el cristianismo y la filosofía platónica."
+  },
+  {
+    "pregunta": "Respecto a la relación entre fe y razón, San Agustín afirma 'Cree para comprender', lo que implica:",
+    "opciones": ["La negación de la razón", "Un predominio de la fe sobre la razón", "Que la razón es superior a la fe", "Que la fe no es necesaria para el conocimiento", "Que Dios no existe"],
+    "correcta": 1,
+    "resolucion": "'Cree para comprender' es una clara expresión de predominio de la fe; sin la creencia en los dogmas no podremos llegar a comprender."
+  },
+  {
+    "pregunta": "En su obra 'La Ciudad de Dios', San Agustín explica la historia y la caída de Roma como:",
+    "opciones": ["Un ciclo económico inevitable", "El resultado de la lucha entre dos ciudades (la del Bien y la del Mal)", "Consecuencia de la mala administración militar", "Un castigo de los dioses paganos", "Un proceso puramente político"],
+    "correcta": 1,
+    "resolucion": "Ensaya una explicación histórica... como el resultado de la lucha de dos ciudades, la del Bien y la del Mal, la de Dios y la terrenal."
+  },
+  {
+    "pregunta": "Según la teoría del conocimiento de San Agustín, ¿cómo se alcanza el conocimiento de las ideas?",
+    "opciones": ["A través de los sentidos", "Mediante la experimentación", "Mediante una iluminación divina", "Por la memoria histórica", "Por la lógica matemática"],
+    "correcta": 2,
+    "resolucion": "Las ideas sólo se pueden conocer mediante una especial iluminación que Dios concede al alma."
+  },
+  {
+    "pregunta": "¿Dónde se encuentran las 'ideas' según la gnoseología agustiniana?",
+    "opciones": ["En el mundo sensible", "En la mente de Dios", "En los objetos físicos", "En la sociedad", "En el cerebro humano"],
+    "correcta": 1,
+    "resolucion": "Las ideas se encuentran en la mente de Dios."
+  },
+  {
+    "pregunta": "En la antropología de San Agustín, el ser humano es un compuesto de cuerpo y alma, donde el cuerpo es concebido como:",
+    "opciones": ["La esencia del ser", "Un instrumento del alma", "El origen del bien", "Más importante que el alma", "Eterno e inmutable"],
+    "correcta": 1,
+    "resolucion": "Concibiendo el cuerpo como un instrumento del alma (siendo el alma la realidad más importante)."
+  },
+  {
+    "pregunta": "¿Cuál es la definición del 'Mal' para San Agustín?",
+    "opciones": ["Una fuerza oscura equivalente al bien", "Una entidad creada por el diablo", "La ausencia o privación de bien", "La materia física", "El destino trágico"],
+    "correcta": 2,
+    "resolucion": "San Agustín sostuvo que el mal no tiene existencia en sí mismo... lo conceptualizó como la ausencia o privación de bien."
+  },
+  {
+    "pregunta": "¿A qué atribuye San Agustín el origen del mal moral?",
+    "opciones": ["A la voluntad de Dios", "Al libre albedrío humano", "A la naturaleza animal", "Al destino", "A la ignorancia involuntaria"],
+    "correcta": 1,
+    "resolucion": "Agustín atribuyó el origen del mal al libre albedrío humano... al mal uso del libre albedrío."
+  },
+  {
+    "pregunta": "Según San Agustín, ¿por qué Dios permite el mal si no es su causa?",
+    "opciones": ["Porque no puede evitarlo", "Para lograr bienes mayores, como la libertad y la redención", "Porque es indiferente", "Para divertirse", "Porque el mal es más fuerte"],
+    "correcta": 1,
+    "resolucion": "Consideraba que, a través de la existencia del mal, Dios podía lograr bienes mayores, como la libertad y la redención."
+  },
+  {
+    "pregunta": "La mancha del pecado que afecta a toda la humanidad proviene de:",
+    "opciones": ["La sociedad corrupta", "El pecado original de Adán y Eva", "La falta de educación", "Los demonios", "El gobierno terrenal"],
+    "correcta": 1,
+    "resolucion": "El pecado original, que se originó en la desobediencia de Adán y Eva... dejó una mancha del pecado en toda la humanidad."
+  },
+  {
+    "pregunta": "¿Qué se requiere necesariamente para la redención y superación del mal según el texto?",
+    "opciones": ["Solo el esfuerzo humano", "La riqueza material", "La gracia divina", "El conocimiento filosófico", "La fuerza política"],
+    "correcta": 2,
+    "resolucion": "Creía que solo a través de la gracia de Dios... se puede superar el mal y buscar la salvación."
+  },
+  {
+    "pregunta": "¿Cuáles son algunas de las obras más importantes de San Agustín mencionadas?",
+    "opciones": ["Suma Teológica y Ética a Nicómaco", "Confesiones y La Ciudad de Dios", "El Banquete y Fedón", "Metafísica y Política", "El Leviatán y El Príncipe"],
+    "correcta": 1,
+    "resolucion": "Obras más importantes: Confesiones, La ciudad de Dios, Epístolas, De libero arbitrio."
+  },
+  {
+    "pregunta": "La perspectiva escatológica de Agustín sobre el mal implica que:",
+    "opciones": ["El mal ganará al final", "El mal es eterno", "Al final de los tiempos se logrará la victoria sobre el mal", "El mundo se destruirá sin salvación", "El tiempo es cíclico"],
+    "correcta": 2,
+    "resolucion": "Creía que al final de los tiempos... se lograría la victoria final sobre el mal."
+  },
+  {
+    "pregunta": "Los Padres de la Iglesia usaron la filosofía principalmente para:",
+    "opciones": ["Crear nuevas ciencias", "Defender y articular las enseñanzas cristianas", "Refutar la existencia de Dios", "Ganar poder político", "Acumular riqueza"],
+    "correcta": 1,
+    "resolucion": "Utilizaron la filosofía para articular y defender las enseñanzas cristianas ante críticas y desafíos."
+  },
+  {
+    "pregunta": "¿Qué tema relacionado con la libertad abordó particularmente San Agustín?",
+    "opciones": ["La libertad de prensa", "El libre comercio", "El libre albedrío y la gracia divina", "La libertad política en Roma", "La liberación de esclavos"],
+    "correcta": 2,
+    "resolucion": "Abordó temas relacionados con la libertad y el libre albedrío. Sus reflexiones influyeron en la doctrina sobre la gracia divina."
+  },
+  {
+    "pregunta": "En la Patrística, ¿cómo se consideraba a la filosofía en relación a la verdad revelada?",
+    "opciones": ["Como un fin en sí mismo", "Como una mentira pagana", "Como un instrumento para la teología", "Como la única verdad", "Como un pasatiempo"],
+    "correcta": 2,
+    "resolucion": "Vieron la filosofía como un instrumento para la teología, no como un fin en sí mismo."
+  }
+          ]
+        },
+        {
+          "titulo": "3.2 La Escolástica: Santo Tomás de Aquino",
+          "youtube_id": "pHC-8M_lWJE",
+          "pdf_link": "https://drive.google.com/file/d/1kEh5KpqyjxHMf115j00O9W-Q4oMAYfLz/view",
+          "gratis": false,
+          "preguntas": [
+            {
+    "pregunta": "¿Cuál fue la corriente filosófica dominante en la Edad Media caracterizada por la fusión de la teología cristiana con la filosofía clásica?",
+    "opciones": ["La Patrística", "El Humanismo", "La Escolástica", "El Neoplatonismo", "El Agnosticismo"],
+    "correcta": 2,
+    "resolucion": "La escolástica fue la corriente filosófica dominante en la Edad Media. Se caracterizaba por la fusión de la filosofía cristiana... con la filosofía clásica."
+  },
+  {
+    "pregunta": "La filosofía escolástica buscó principalmente armonizar:",
+    "opciones": ["La política y la economía", "La fe con la razón", "El mito con la ciencia", "El cuerpo con el alma", "La historia con la leyenda"],
+    "correcta": 1,
+    "resolucion": "Los escolásticos buscaban armonizar la fe con la razón y desarrollar argumentos racionales para las creencias religiosas."
+  },
+  {
+    "pregunta": "¿Qué filósofo clásico tuvo mayor influencia en la Escolástica?",
+    "opciones": ["Platón", "Sócrates", "Heráclito", "Aristóteles", "Epicuro"],
+    "correcta": 3,
+    "resolucion": "Se caracterizaba por la fusión de la filosofía cristiana... con la filosofía clásica, principalmente la de Aristóteles."
+  },
+  {
+    "pregunta": "Durante la Edad Media, la visión del mundo era Teocéntrica, lo que significa que:",
+    "opciones": ["El hombre era el centro del universo", "La tierra era plana", "Dios ocupaba el centro de la vida y del pensamiento", "La naturaleza era la única divinidad", "La razón superaba a la fe"],
+    "correcta": 2,
+    "resolucion": "La Edad Media era una época teocéntrica, donde Dios ocupaba el centro de la vida y del pensamiento."
+  },
+  {
+    "pregunta": "El Renacimiento Carolingio, que revivió el aprendizaje y la cultura mediante escuelas en monasterios, ocurrió bajo el reinado de:",
+    "opciones": ["Alejandro Magno", "Julio César", "Carlomagno", "Constantino", "Enrique VIII"],
+    "correcta": 2,
+    "resolucion": "Durante el Renacimiento Carolingio en el siglo IX, bajo el reinado de Carlomagno, se intentó revivir el aprendizaje y la cultura."
+  },
+  {
+    "pregunta": "¿Qué filósofos árabes fueron importantes en la transmisión de la filosofía aristotélica a la Edad Media?",
+    "opciones": ["Mahoma y Al-Ghazali", "Averroes y Avicena", "Al-Farabi y Al-Kindi", "Rumi y Omar Khayyam", "Saladino y Solimán"],
+    "correcta": 1,
+    "resolucion": "Filósofos como Averroes y Avicena fueron importantes en la transmisión de la filosofía aristotélica."
+  },
+  {
+    "pregunta": "A diferencia del pensamiento moderno individualista, la Escolástica se caracterizó por ser la filosofía de:",
+    "opciones": ["Una élite intelectual", "Una sociedad cristiana", "Un estado laico", "Una comunidad científica", "Un imperio pagano"],
+    "correcta": 1,
+    "resolucion": "Mientras... el pensamiento moderno el pensamiento de unos individuos, la Escolástica fue la filosofía de una sociedad cristiana."
+  },
+  {
+    "pregunta": "Santo Tomás de Aquino representa el momento cumbre de la Escolástica al sintetizar el cristianismo con:",
+    "opciones": ["El platonismo agustiniano", "El estoicismo romano", "La filosofía aristotélica", "El misticismo oriental", "El escepticismo griego"],
+    "correcta": 2,
+    "resolucion": "Su obra es el resultado de la síntesis de la filosofía aristotélica con la tradición filosófica y teológica del cristianismo."
+  },
+  {
+    "pregunta": "Según Santo Tomás, ¿cómo es la relación entre la verdad de la fe y la verdad de la razón?",
+    "opciones": ["Son verdades contradictorias", "Existe una única verdad conocida desde la razón y la fe", "La razón anula a la fe", "La fe no necesita de la razón", "Son verdades relativas"],
+    "correcta": 1,
+    "resolucion": "Tomás insiste en la existencia de una única verdad, que puede ser conocida desde la razón y desde la fe."
+  },
+  {
+    "pregunta": "En el terreno de los 'preámbulos de la fe' (como la existencia de Dios), Santo Tomás considera a la filosofía como:",
+    "opciones": ["Enemiga de la teología", "Superior a la teología", "Criada o auxiliar de la teología", "Irrelevante para la fe", "Sustituto de la religión"],
+    "correcta": 2,
+    "resolucion": "En ese terreno, la filosofía seguiría siendo un auxiliar útil a la teología y... Tomás se refiere a ella todavía como la 'criada' de la teología."
+  },
+  {
+    "pregunta": "Para Santo Tomás, la existencia de Dios:",
+    "opciones": ["Es una verdad evidente para la razón humana", "No necesita demostración", "Es una ilusión", "No es una verdad evidente y debe ser probada", "Solo se acepta por fe ciega"],
+    "correcta": 3,
+    "resolucion": "La existencia de Dios, no es una verdad evidente para la naturaleza humana... por lo que... deberán probarla."
+  },
+  {
+    "pregunta": "La primera vía de Santo Tomás para demostrar la existencia de Dios se basa en:",
+    "opciones": ["El orden del universo", "La contingencia de los seres", "El movimiento o cambio", "La perfección de los grados", "La causa eficiente"],
+    "correcta": 2,
+    "resolucion": "a) La vía del movimiento o del cambio. Todo lo que se mueve o cambia debe ser movido o cambiado por otro."
+  },
+  {
+    "pregunta": "Según la 'vía de la contingencia' (tercera vía), Dios se define como:",
+    "opciones": ["El ser que siempre es (necesario)", "El primer motor inmóvil", "La causa eficiente primera", "El ser más perfecto", "El fin de todas las cosas"],
+    "correcta": 0,
+    "resolucion": "La vía de la contingencia. Los seres son ser y no ser, pero Dios siempre es."
+  },
+  {
+    "pregunta": "La quinta vía de Santo Tomás argumenta la existencia de Dios basándose en:",
+    "opciones": ["La causalidad", "La finalidad", "El movimiento", "La perfección", "La moralidad"],
+    "correcta": 1,
+    "resolucion": "e) La vía de la finalidad. Dios es la entidad que conduce a todos hacia un fin."
+  },
+  {
+    "pregunta": "Respecto al 'problema de los universales', Santo Tomás adoptó una postura conocida como:",
+    "opciones": ["Nominalismo", "Realismo Extremo", "Realismo Moderado", "Idealismo", "Escepticismo"],
+    "correcta": 2,
+    "resolucion": "Santo Tomás adoptó una posición realista moderada en relación con los universales, siguiendo la tradición aristotélica."
+  },
+  {
+    "pregunta": "Santo Tomás rechazó el 'Nominalismo', el cual sostenía que los universales:",
+    "opciones": ["Son ideas en la mente de Dios", "Tienen existencia física", "Son solo nombres sin realidad independiente", "Son la única realidad", "Son formas platónicas"],
+    "correcta": 2,
+    "resolucion": "A diferencia del nominalismo, que sostiene que los universales son solo nombres sin una realidad independiente."
+  },
+  {
+    "pregunta": "Según Santo Tomás, los universales corresponden a la ____________ de los individuos.",
+    "opciones": ["Existencia", "Apariencia", "Esencia", "Materia", "Cantidad"],
+    "correcta": 2,
+    "resolucion": "Afirmó que los universales corresponden a la esencia... hizo una distinción entre la esencia... y la existencia."
+  },
+  {
+    "pregunta": "¿Dónde existen los universales como arquetipos o modelos perfectos según la dimensión teológica de Tomás?",
+    "opciones": ["En el mundo sensible", "En la mente humana", "En la mente divina", "En la nada", "En los textos sagrados"],
+    "correcta": 2,
+    "resolucion": "Santo Tomás también introdujo una dimensión teológica... al afirmar que los universales existen en la mente divina como ejemplos o arquetipos."
+  },
+  {
+    "pregunta": "El sistema filosófico de Santo Tomás, que integra la metafísica aristotélica con la teología cristiana, se conoce como:",
+    "opciones": ["Agustinismo", "Tomismo", "Averroísmo", "Nominalismo", "Platonismo"],
+    "correcta": 1,
+    "resolucion": "Su sistema filosófico, conocido como tomismo, busca armonizar la razón y la fe."
+  },
+  {
+    "pregunta": "En la Escolástica, la revelación divina era concebida como:",
+    "opciones": ["Un obstáculo para la ciencia", "Una norma y ayuda para la razón", "Un mito antiguo", "Algo exclusivo de los monjes", "Una verdad subjetiva"],
+    "correcta": 1,
+    "resolucion": "La revelación divina era concebida como una norma, una ayuda para la razón."
+  }
+          ]
+        },
+        {
+          "titulo": "3.3 Renacimiento y Maquiavelo",
+          "youtube_id": "pfyo5EAA_7g",
+          "pdf_link": "https://drive.google.com/file/d/1BfMUyQE0P0ARhK24CJBUIPAS1xnYrydm/view",
+          "gratis": false,
+          "preguntas": [
+            {
+    "pregunta": "¿Qué periodo histórico abarca la filosofía renacentista y qué transición marca?",
+    "opciones": ["Siglos V al X, transición al feudalismo", "Siglos XIV al XVII, transición entre la Edad Media y la Moderna", "Siglos XVIII al XIX, transición a la industrialización", "Siglos I al IV, transición al cristianismo", "Siglos X al XII, auge de la escolástica"],
+    "correcta": 1,
+    "resolucion": "La filosofía renacentista fue un periodo de renovación intelectual que se desarrolló en Europa entre los siglos XIV y XVII, marcando una transición entre la Edad Media y la Moderna."
+  },
+  {
+    "pregunta": "El movimiento central del Renacimiento que enfatizaba el estudio de las humanidades clásicas (literatura, filosofía, historia) se denomina:",
+    "opciones": ["Escolástica", "Positivismo", "Humanismo", "Marxismo", "Estoicismo"],
+    "correcta": 2,
+    "resolucion": "El humanismo fue un movimiento central en el Renacimiento que enfatizaba el estudio de las humanidades clásicas."
+  },
+  {
+    "pregunta": "A diferencia de la mentalidad colectiva medieval, ¿qué valor promovió el Renacimiento respecto al ser humano?",
+    "opciones": ["La sumisión total", "El individualismo", "El anonimato", "La obediencia ciega", "El misticismo"],
+    "correcta": 1,
+    "resolucion": "A diferencia de la mentalidad colectiva predominante en la Edad Media, el Renacimiento promovió un sentido renovado de individualismo-."
+  },
+  {
+    "pregunta": "El secularismo en el Renacimiento implicó un aumento en la apreciación de:",
+    "opciones": ["Lo religioso y divino exclusivamente", "Lo no religioso (lo secular)", "La teología dogmática", "La vida monástica", "El rechazo total a la fe"],
+    "correcta": 1,
+    "resolucion": "Hubo un aumento en la apreciación de lo secular, es decir, lo no religioso... explorando temas como la ética, la política y la naturaleza humana."
+  },
+  {
+    "pregunta": "¿Qué enfoque metodológico defendieron filósofos renacentistas como Leonardo da Vinci frente a la autoridad medieval?",
+    "opciones": ["La revelación divina", "El empirismo y la observación directa", "La deducción lógica pura", "La memorización de textos", "La retórica vacía"],
+    "correcta": 1,
+    "resolucion": "Se dio un mayor énfasis en la observación directa y la experiencia... Filósofos como Leonardo da Vinci abogaron por el método empírico."
+  },
+  {
+    "pregunta": "El cambio de visión que toma al hombre como eje de la realidad en lugar de Dios se conoce como:",
+    "opciones": ["Teocentrismo", "Geocentrismo", "Antropocentrismo", "Heliocentrismo", "Egocentrismo"],
+    "correcta": 2,
+    "resolucion": "Se desarrolla antropocentrismo, se toma al hombre como eje de la realidad."
+  },
+  {
+    "pregunta": "¿Qué clase social aparece y empieza a configurar el modo de producción capitalista durante el Renacimiento?",
+    "opciones": ["La nobleza feudal", "El clero", "La burguesía", "El proletariado industrial", "Los siervos de la gleba"],
+    "correcta": 2,
+    "resolucion": "El renacimiento empieza a configurarse el modo de producción capitalista con la aparición de la burguesía como clase social."
+  },
+  {
+    "pregunta": "La obra célebre de Nicolás Maquiavelo, 'El Príncipe' (1532), exhorta a:",
+    "opciones": ["Restaurar el Imperio Romano", "Liberar Italia del yugo extranjero y crear un Estado Nacional poderoso", "Dividir Italia en pequeños feudos", "Entregar el poder a la Iglesia", "Establecer una democracia directa"],
+    "correcta": 1,
+    "resolucion": "Su célebre obra El Príncipe... exhorta en ella a liberar Italia del yugo extranjero y a crear un poderoso Estado Nacional."
+  },
+  {
+    "pregunta": "Maquiavelo introdujo el 'Realismo Político', el cual centra su atención en:",
+    "opciones": ["Las utopías sociales", "La realidad política tal como es, no como debería ser", "Los mandamientos religiosos", "La ética idealizada", "La moral cristiana"],
+    "correcta": 1,
+    "resolucion": "Se alejó de las concepciones idealizadas... centrando su atención en la realidad política tal como es, no como debería ser."
+  },
+  {
+    "pregunta": "Una de las contribuciones más controvertidas de Maquiavelo fue la separación entre:",
+    "opciones": ["Iglesia y Estado", "Ética y Política", "Ciencia y Arte", "Norte y Sur", "Burguesía y Nobleza"],
+    "correcta": 1,
+    "resolucion": "Una de las contribuciones más controvertidas de Maquiavelo fue su propuesta de separar la ética tradicional de la política."
+  },
+  {
+    "pregunta": "Según Maquiavelo, la 'virtù' (virtud) en un gobernante se refiere a:",
+    "opciones": ["La bondad moral y la caridad", "La castidad y la pobreza", "Habilidades políticas, astucia, audacia y adaptabilidad", "La fe religiosa", "La obediencia a las leyes divinas"],
+    "correcta": 2,
+    "resolucion": "La virtù, según Maquiavelo, incluye habilidades políticas, astucia, audacia y adaptabilidad... su significado es más amplio y pragmático."
+  },
+  {
+    "pregunta": "¿Cómo define Maquiavelo la naturaleza humana para justificar la necesidad de un Estado fuerte?",
+    "opciones": ["El hombre es bueno por naturaleza", "El hombre es un animal social y racional", "El hombre es perverso y egoísta", "El hombre es una tabla rasa", "El hombre es divino"],
+    "correcta": 2,
+    "resolucion": "El hombre es por naturaleza perverso y egoísta, sólo preocupado por su seguridad y por aumentar su poder sobre los demás."
+  },
+  {
+    "pregunta": "Para Maquiavelo, el Estado no se explica por voluntad divina, sino por:",
+    "opciones": ["Causas naturales y la acción del hombre", "El destino trágico", "La suerte ciega", "La voluntad del Papa", "Leyes mágicas"],
+    "correcta": 0,
+    "resolucion": "Para este italiano el Estado no se explica por la voluntad divina, sino por causas naturales; el progreso en la historia depende de la acción del hombre-."
+  },
+  {
+    "pregunta": "Según Maquiavelo, el fin del Estado se sitúa:",
+    "opciones": ["Por debajo de los intereses individuales", "Absolutamente por encima de todos los fines particulares", "Al mismo nivel que la Iglesia", "Dependiente de la moral privada", "En la búsqueda del placer"],
+    "correcta": 1,
+    "resolucion": "El bien del Estado no se subordina al bien del individuo... y su fin se sitúa absolutamente por encima de todos los fines particulares."
+  },
+  {
+    "pregunta": "¿Qué tipo de ejército aboga Maquiavelo para la defensa del Estado?",
+    "opciones": ["Un ejército de mercenarios extranjeros", "Un ejército formado por ciudadanos", "Un ejército de esclavos", "La guardia papal", "Caballeros feudales"],
+    "correcta": 1,
+    "resolucion": "Aboga por la creación de un ejército poderoso, pero formado no por mercenarios, sino por ciudadanos."
+  },
+  {
+    "pregunta": "En 'El Príncipe', se afirma que si el interés de la patria exige traición o perjurio:",
+    "opciones": ["Se debe renunciar al poder", "Se debe pedir perdón a Dios", "Se comete, pues los medios no importan", "Se busca otra solución ética", "Se consulta al pueblo"],
+    "correcta": 2,
+    "resolucion": "Si el interés de la patria exige traición o perjurio, se comete... Los medios no importan: no es necesaria la moral, sino un realismo práctico."
+  },
+  {
+    "pregunta": "¿Qué frase sintetiza el pensamiento político de Maquiavelo respecto a la obtención de objetivos políticos?",
+    "opciones": ["La verdad os hará libres", "El hombre es el lobo del hombre", "El fin justifica los medios", "Pienso, luego existo", "Solo sé que nada sé"],
+    "correcta": 2,
+    "resolucion": "En síntesis: El fin justifica los medios (Maquiavelo, 1983)."
+  },
+  {
+    "pregunta": "Respecto a la forma de gobierno, Maquiavelo considera idealmente que:",
+    "opciones": ["La monarquía es superior", "La tiranía es lo mejor", "El gobierno de muchos (República) es mejor que el de unos pocos", "La anarquía es libertad", "La teocracia es el camino"],
+    "correcta": 2,
+    "resolucion": "Para Maquiavelo la mejor forma de gobierno es la República: 'el gobierno de muchos es mejor que el de unos pocos'."
+  },
+  {
+    "pregunta": "¿Por qué Maquiavelo acepta la acción de un 'Príncipe' (un solo personaje) en ciertos momentos?",
+    "opciones": ["Porque odia la democracia", "Como mal menor en momentos de corrupción y desorden", "Porque es un enviado de Dios", "Para enriquecer a la nobleza", "Por tradición familiar"],
+    "correcta": 1,
+    "resolucion": "Acepta, como mal menor, que en ciertos momentos de corrupción y desorden es más útil y eficaz la acción de un solo personaje."
+  },
+  {
+    "pregunta": "Según el sistema político de Maquiavelo, un hombre bueno, moral y honrado:",
+    "opciones": ["Es el único apto para gobernar", "No puede ser un buen político", "Debe ser el consejero del príncipe", "Garantiza la paz eterna", "Es superior al Estado"],
+    "correcta": 1,
+    "resolucion": "En este 'sistema político'... Ahora un hombre bueno, moral y honrado no puede ser un buen político."
+  }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 4: Filosofía Moderna y Peruana",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "4.1 Empirismo vs. Racionalismo",
+          "youtube_id": "GuvmJsKwWNk",
+          "pdf_link": "https://drive.google.com/file/d/1SoEeYGWTNgOoBbJ6zNRhRwxmiNjxwcDt/view",
+          "gratis": false,
+          "preguntas": [
+            {
+    "pregunta": "¿En qué principio aristotélico-tomista funda John Locke su teoría del conocimiento?",
+    "opciones": ["Pienso, luego existo", "Nada hay en el entendimiento que no haya estado primero en los sentidos", "El hombre es el lobo del hombre", "Todo fluye, nada permanece", "Conócete a ti mismo"],
+    "correcta": 1,
+    "resolucion": "Locke funda su teoría en el principio: 'nada hay en el entendimiento que no haya estado primero en los sentidos'."
+  },
+  {
+    "pregunta": "Según Locke, al no existir ideas innatas, nuestra mente es comparable inicialmente a:",
+    "opciones": ["Una máquina perfecta", "Un papel en blanco", "Una prisión del alma", "Un libro sagrado", "Un espejo oscuro"],
+    "correcta": 1,
+    "resolucion": "Para Locke no existen ideas innatas; nuestra mente es como un papel en blanco en la cual nada hay aún escrito."
+  },
+  {
+    "pregunta": "¿Cómo denomina Locke al método que consiste en un análisis descriptivo de lo que hay en la mente?",
+    "opciones": ["Método dialéctico", "Duda metódica", "Método histórico", "Método trascendental", "Método silogístico"],
+    "correcta": 2,
+    "resolucion": "Su método es lo que él denomina 'método histórico', o un análisis descriptivo de lo que hay en la mente."
+  },
+  {
+    "pregunta": "Para Locke, la experiencia que se produce cuando la mente reflexiona sobre sus propias sensaciones (como el recuerdo o raciocinio) es:",
+    "opciones": ["Experiencia externa", "Experiencia innata", "Experiencia interna", "Experiencia a priori", "Experiencia religiosa"],
+    "correcta": 2,
+    "resolucion": "Cuando la mente reflexiona sobre las sensaciones derivadas de la experiencia externa... se produce la experiencia interna."
+  },
+  {
+    "pregunta": "René Descartes es considerado el padre del pensamiento moderno y representante del:",
+    "opciones": ["Empirismo", "Racionalismo", "Criticismo", "Escepticismo", "Materialismo"],
+    "correcta": 1,
+    "resolucion": "Renato Descartes... Considerado el padre del pensamiento moderno. Representante del racionalismo."
+  },
+  {
+    "pregunta": "¿Cuál es el aforismo famoso de Descartes que establece la razón como fundamento de la verdad?",
+    "opciones": ["Solo sé que nada sé", "El fin justifica los medios", "Pienso, luego existo (cogito ergo sum)", "Ser o no ser", "El hombre es la medida de todas las cosas"],
+    "correcta": 2,
+    "resolucion": "Es famoso su aforismo 'pienso luego existo' (cogito ergo sum), es decir sólo la razón es elemento suficiente... para llegar a la verdad."
+  },
+  {
+    "pregunta": "Según la clasificación de sustancias de Descartes, la 'res cogitans' corresponde a:",
+    "opciones": ["La sustancia corporal (mundo)", "La sustancia infinita (Dios)", "La sustancia espiritual (yo)", "La materia inerte", "La naturaleza"],
+    "correcta": 2,
+    "resolucion": "Sustancia espiritual: Su esencia es el pensamiento (res cogitans = yo)."
+  },
+  {
+    "pregunta": "La regla del método cartesiano que consiste en aceptar como verdadero solo aquello que sea claro y distinto se llama:",
+    "opciones": ["Regla del análisis", "Regla de la síntesis", "Regla de la evidencia", "Regla de la enumeración", "Regla de la duda"],
+    "correcta": 2,
+    "resolucion": "De la evidencia. Solamente se debe aceptar como verdadero aquel conocimiento que sea evidente, claro y distinto."
+  },
+  {
+    "pregunta": "¿Cuál es la postura de Descartes respecto a la idea de Dios?",
+    "opciones": ["Es una idea derivada de los sentidos", "Es una idea innata en el entendimiento", "Es una ficción humana", "Es una idea compleja", "Es incognoscible"],
+    "correcta": 1,
+    "resolucion": "Según Descartes la idea de Dios es innata en el entendimiento humano."
+  },
+  {
+    "pregunta": "La filosofía de Immanuel Kant se denomina:",
+    "opciones": ["Dogmatismo", "Empirismo radical", "Criticismo o Idealismo trascendental", "Existencialismo", "Positivismo"],
+    "correcta": 2,
+    "resolucion": "Su filosofía se denomina Criticismo, o también Idealismo trascendental."
+  },
+  {
+    "pregunta": "En su periodo pre-crítico, Kant desarrolló una hipótesis científica sobre la formación del sistema cósmico conocida como:",
+    "opciones": ["Teoría del Big Bang", "Hipótesis de la nebulosa primitiva", "Teoría de la relatividad", "Geocentrismo", "Mecánica cuántica"],
+    "correcta": 1,
+    "resolucion": "Expone la formación entera del sistema cósmico partiendo de la hipótesis de una nebulosa primitiva."
+  },
+  {
+    "pregunta": "Según el agnosticismo kantiano en el periodo crítico, nosotros solo podemos conocer:",
+    "opciones": ["Las cosas en sí mismas", "Los noúmenos", "Los fenómenos", "La esencia de Dios", "El alma humana"],
+    "correcta": 2,
+    "resolucion": "Sólo es posible conocer los 'fenómenos', es decir, el modo por el cual las cosas aparecen en nuestra experiencia."
+  },
+  {
+    "pregunta": "¿A qué pregunta fundamental responde la Metafísica según el esquema kantiano?",
+    "opciones": ["¿Qué debo hacer?", " ¿Qué me está permitido esperar?", "¿Qué es el hombre?", "¿Qué puedo conocer?", "¿Qué es la política?"],
+    "correcta": 3,
+    "resolucion": "¿Qué puedo conocer? Quien responde a esta pregunta es la metafísica."
+  },
+  {
+    "pregunta": "Para Kant, las acciones morales se realizan únicamente por:",
+    "opciones": ["Inclinación natural", "Simpatía hacia el prójimo", "Respeto al deber", "Búsqueda de felicidad", "Miedo al castigo"],
+    "correcta": 2,
+    "resolucion": "Las acciones morales se realizan sólo por respeto al deber (obediencia a la ley que dicta nuestra conciencia)."
+  },
+  {
+    "pregunta": "El mandato moral incondicional que debe ser universal según Kant se denomina:",
+    "opciones": ["Imperativo hipotético", "Consejo de prudencia", "Imperativo categórico", "Ley del Talión", "Regla de oro"],
+    "correcta": 2,
+    "resolucion": "Es un mandato incondicional que en la medida posible debe ser universal, esto es, un imperativo categórico."
+  },
+  {
+    "pregunta": "Un juicio en el cual el predicado ya está contenido en el sujeto (ej. 'los hombres son seres racionales') es clasificado por Kant como:",
+    "opciones": ["Juicio sintético", "Juicio a posteriori", "Juicio analítico", "Juicio estético", "Juicio político"],
+    "correcta": 2,
+    "resolucion": "Una proposición analítica (juicio analítico) es aquella en la que el predicado está contenido en el sujeto."
+  },
+  {
+    "pregunta": "¿Qué tipo de juicios son necesarios para hacer posibles la matemática y la ciencia, ya que añaden conocimiento y son universales?",
+    "opciones": ["Juicios analíticos a priori", "Juicios sintéticos a posteriori", "Juicios sintéticos a priori", "Juicios analíticos a posteriori", "Juicios empíricos puros"],
+    "correcta": 2,
+    "resolucion": "Es necesario un juicio sintético a priori... Kant sostiene que es posible formular juicios sintéticos a priori."
+  },
+  {
+    "pregunta": "La pregunta kantiana '¿Qué me está permitido esperar?' se relaciona con los temas de:",
+    "opciones": ["La física y la matemática", "La religión, la virtud y la felicidad", "La estructura de la mente", "El origen del universo", "La lógica formal"],
+    "correcta": 1,
+    "resolucion": "A esta pregunta contesta la religión. Los temas en que se deriva... se relacionan con la virtud, la felicidad y el sumo bien."
+  },
+  {
+    "pregunta": "¿Qué disciplina responde a la cuarta pregunta kantiana: '¿Qué es el hombre?'?",
+    "opciones": ["La Antropología", "La Sociología", "La Psicología", "La Biología", "La Historia"],
+    "correcta": 0,
+    "resolucion": "¿Qué es el hombre? Resuelve la antropología."
+  },
+  {
+    "pregunta": "Según el texto, el tratamiento de la política en Kant se ubica en la reflexión sobre:",
+    "opciones": ["La razón pura teórica", "La razón exclusivamente práctica", "Qué podemos esperar (religión y filosofía de la historia)", "Las leyes físicas del movimiento", "La estructura del Estado monárquico"],
+    "correcta": 2,
+    "resolucion": "El tratamiento de la política se ubica en la reflexión sobre qué podemos esperar, cuestión que remite tanto al dominio de la religión como al de la filosofía de la historia."
+  }
+          ]
+        },
+        {
+          "titulo": "4.2 Hegel y Marx",
+          "youtube_id": "Eh07VelfkUI",
+          "pdf_link": "https://drive.google.com/file/d/19LPinFnnGzll3z7kMiGMa44grTWnYef8/view",
+          "gratis": false,
+          "preguntas": [
+            {
+    "pregunta": "¿Cómo se define la filosofía de Hegel, para quien 'lo racional es real y lo real es racional'?",
+    "opciones": ["Materialismo histórico", "Idealismo objetivo", "Empirismo radical", "Positivismo lógico", "Existencialismo"],
+    "correcta": 1,
+    "resolucion": "Su filosofía es el Idealismo objetivo para quién “lo racional es real y lo real es racional”."
+  },
+  {
+    "pregunta": "Según la tríada hegeliana, ¿qué representa la 'Antítesis'?",
+    "opciones": ["El espíritu originario", "El saber absoluto", "El devenir o cambio por la enajenación del espíritu", "La reconciliación de la conciencia", "El espíritu subjetivo"],
+    "correcta": 2,
+    "resolucion": "Antítesis: El devenir o cambio que sucede por la enajenación o alienación del espíritu originario."
+  },
+  {
+    "pregunta": "Para Hegel, la 'Síntesis' o el retorno del espíritu a su conciencia originaria se logra por medio de:",
+    "opciones": ["La revolución armada", "El Saber absoluto", "La ignorancia", "La destrucción del Estado", "El trabajo manual"],
+    "correcta": 1,
+    "resolucion": "Síntesis: El retorno del espíritu... es posible por la superación de su enajenación por medio del Saber absoluto."
+  },
+  {
+    "pregunta": "Según Hegel, ¿cuál es la expresión política del 'Espíritu Absoluto' y la realización de la libertad?",
+    "opciones": ["La anarquía", "La sociedad civil", "El Estado", "La familia", "La iglesia"],
+    "correcta": 2,
+    "resolucion": "Su expresión política es el Estado, realización de la libertad que busca el espíritu enajenado."
+  },
+  {
+    "pregunta": "En la filosofía hegeliana, el Estado es deducido de:",
+    "opciones": ["El contrato social", "La voluntad divina", "La lucha de clases", "El voto popular", "La necesidad económica"],
+    "correcta": 1,
+    "resolucion": "El Estado es deducido de la voluntad divina. Es la realidad de la idea ética."
+  },
+  {
+    "pregunta": "Marx critica a Hegel señalando que el Estado no es una universalidad, sino:",
+    "opciones": ["Un instrumento de paz", "El guardián político de los intereses económicos de la clase dominante", "La expresión de la voluntad del pueblo", "Un organismo innecesario", "La encarnación de Dios"],
+    "correcta": 1,
+    "resolucion": "El Estado es, su Estado... es el guardián político (con piel teologizada) de sus intereses económicos."
+  },
+  {
+    "pregunta": "¿Qué papel juega la educación para Hegel en relación al Estado?",
+    "opciones": ["Fomentar la revolución", "Asegurar que los individuos alcancen una conciencia colectiva que se someta al Estado", "Desarrollar el pensamiento crítico contra el rey", "Eliminar las clases sociales", "Enseñar materialismo"],
+    "correcta": 1,
+    "resolucion": "Para Hegel, la Educación tiene como objetivo, asegurar que los individuos alcancen una conciencia colectiva que se someta al Estado."
+  },
+  {
+    "pregunta": "Carlos Marx nace en Tréveris y en 1844 conoce en París a su gran amigo y colaborador:",
+    "opciones": ["Hegel", "Feuerbach", "Engels", "Saint Simon", "Lenin"],
+    "correcta": 2,
+    "resolucion": "En 1844 conoció en París a Engels con quien mantuvo estrecha amistad durante toda su vida."
+  },
+  {
+    "pregunta": "La filosofía de Marx parte de la crítica a las limitaciones del idealismo hegeliano y del:",
+    "opciones": ["Racionalismo cartesiano", "Materialismo mecanicista de Feuerbach", "Empirismo inglés", "Escolasticismo medieval", "Nihilismo"],
+    "correcta": 1,
+    "resolucion": "Parte de los progresos y la crítica de las limitaciones del idealismo hegeliano y del materialismo mecanicista de Feuerbach."
+  },
+  {
+    "pregunta": "Para Marx, ¿qué actividad constituye el fundamento del hombre y de la sociedad, mediante la cual se autoproduce?",
+    "opciones": ["El pensamiento", "La oración", "El trabajo (actividad vital)", "El ocio", "La política"],
+    "correcta": 2,
+    "resolucion": "Marx, reconoce en el trabajo la actividad vital, el fundamento del hombre... Es mediante el trabajo que el hombre se autoproduce."
+  },
+  {
+    "pregunta": "Según Marx, la propiedad privada se deriva del concepto de:",
+    "opciones": ["Justicia divina", "Trabajo enajenado", "Derecho natural", "Ahorro personal", "Voluntad del rey"],
+    "correcta": 1,
+    "resolucion": "La propiedad privada se deriva, pues, por análisis, del concepto del trabajo enajenado."
+  },
+  {
+    "pregunta": "El método de la dialéctica materialista en Marx niega:",
+    "opciones": ["La realidad", "El cambio", "Toda verdad inmutable y principios de sabiduría eterna", "La materia", "La historia"],
+    "correcta": 2,
+    "resolucion": "Su método. La dialéctica materialista... niega toda verdad inmutable, todos los principios de sabiduría eterna."
+  },
+  {
+    "pregunta": "Marx critica a Feuerbach por su incapacidad de concebir al hombre como:",
+    "opciones": ["Un ser espiritual", "Un ser práctico, capaz de transformar la naturaleza", "Un animal político", "Un ser pasivo", "Una creación divina"],
+    "correcta": 1,
+    "resolucion": "Critica a Feuerbach su incapacidad de concebir... al hombre como ser práctico, incapaz de transformar la naturaleza."
+  },
+  {
+    "pregunta": "Según el Materialismo Histórico, ¿qué condiciona la historia humana?",
+    "opciones": ["Las ideas de los filósofos", "La voluntad de los reyes", "Las relaciones económicas de producción", "El clima y la geografía", "La religión"],
+    "correcta": 2,
+    "resolucion": "Señala que, las relaciones económicas de producción, condiciona la historia humana."
+  },
+  {
+    "pregunta": "El motor de la historia, según Marx, se manifiesta en:",
+    "opciones": ["La paz social", "La lucha de clases", "El desarrollo tecnológico", "La diplomacia", "La educación"],
+    "correcta": 1,
+    "resolucion": "Se da entre la estructura económica... y la superestructura... la que se manifiesta en la lucha de clases, motor de la historia."
+  },
+  {
+    "pregunta": "¿Qué clase social es señalada por Marx como la que hará posible la emancipación humana?",
+    "opciones": ["La burguesía", "La nobleza", "El proletariado", "El clero", "Los intelectuales"],
+    "correcta": 2,
+    "resolucion": "Concluye que el proletariado es la clase que hará posible la emancipación humana de las cadenas de la sociedad burguesa."
+  },
+  {
+    "pregunta": "La alienación religiosa, según Marx, convierte al hombre en:",
+    "opciones": ["Un dios", "El fin de todo", "El medio para llegar a Dios (quien es el fin)", "Un ser libre", "Un gobernante soberano"],
+    "correcta": 2,
+    "resolucion": "En la religión el hombre es el medio y Dios es el fin a que debe llegar aquél."
+  },
+  {
+    "pregunta": "Marx rechaza que el Estado sea el elemento supremo porque en la vida real el individuo:",
+    "opciones": ["Es totalmente libre", "Tiene poder absoluto", "Está despojado de toda soberanía", "Controla el gobierno", "Vive sin leyes"],
+    "correcta": 2,
+    "resolucion": "En tanto que, en su vida real (individual) está despojado de toda soberanía, por lo mismo que la causa de su enajenación estaba inmerso en las relaciones sociales."
+  },
+  {
+    "pregunta": "¿Cuál es la raíz de todas las alienaciones según el texto?",
+    "opciones": ["La alienación religiosa", "La alienación política", "La alienación económica", "La alienación cultural", "La alienación educativa"],
+    "correcta": 2,
+    "resolucion": "Alienación económica. Se da en el proceso de trabajo... Constituye la raíz de todas las alienaciones."
+  },
+  {
+    "pregunta": "Para Hegel, el 'Espíritu Subjetivo' es el espíritu individual en marcha hacia la libertad a través de:",
+    "opciones": ["La guerra y la paz", "El alma, el sentimiento y la razón", "El arte y la religión", "La familia y el estado", "El trabajo y el capital"],
+    "correcta": 1,
+    "resolucion": "E. Subjetivo, es el espíritu individual en marcha continua... a través del alma, el sentimiento y la razón."
+  }
+          ]
+        },
+        {
+          "titulo": "4.3 Filosofía en el Perú: Mariátegui y Salazar Bondy",
+          "youtube_id": "EhoF7BCS0zQ",
+          "pdf_link": "https://drive.google.com/file/d/1-vST7m0mn7auxQ7PsFn82vEl43steNK5/view",
+          "gratis": false,
+          "preguntas": [
+            {
+    "pregunta": "¿Cuál fue la formación académica de José Carlos Mariátegui según el texto?",
+    "opciones": ["Estudió en la Universidad de San Marcos", "Fue autodidacta", "Estudió en Francia", "Se formó en un seminario religioso", "Fue discípulo de Salazar Bondy"],
+    "correcta": 1,
+    "resolucion": "Un accidente en su rodilla le obligó a abandonar sus estudios escolares. Fue autodidacto."
+  },
+  {
+    "pregunta": "En su labor periodística como cronista parlamentario, Mariátegui advirtió que el Parlamento era:",
+    "opciones": ["La base de la democracia", "Un ejemplo de eficiencia", "Completamente obsoleto y futil", "El motor del cambio social", "La única esperanza del indio"],
+    "correcta": 2,
+    "resolucion": "El ejercicio periodístico... sirvió para que advirtiera toda la penuria y futilidad del parlamento... resultaba completamente obsoleto."
+  },
+  {
+    "pregunta": "¿Qué periodo histórico representó la realización de intereses entre la oligarquía y el gamonalismo (1895-1919)?",
+    "opciones": ["El Oncenio de Leguía", "La República Aristocrática", "La Guerra del Pacífico", "El Virreinato", "La Reforma Agraria"],
+    "correcta": 1,
+    "resolucion": "La República Aristocrática había representado, entre 1895 y 1919, la realización de la influencia de intereses entre oligárquico y gamonalismo."
+  },
+  {
+    "pregunta": "En el 1er Ensayo sobre la Evolución Económica, Mariátegui señala que la economía peruana 'se abre' con:",
+    "opciones": ["La agricultura incaica", "La minería colonial", "El descubrimiento de la riqueza del guano y del salitre", "La industria pesquera", "El turismo"],
+    "correcta": 2,
+    "resolucion": "Señala que, en el Perú, la evolución de la economía 'se abre' con el descubrimiento de la riqueza del guano y del salitre."
+  },
+  {
+    "pregunta": "Según el 2do Ensayo, el problema del indio arranca indudablemente de:",
+    "opciones": ["La falta de educación", "La economía y el régimen de propiedad de la tierra", "La religión católica", "La administración policial", "El conflicto racial"],
+    "correcta": 1,
+    "resolucion": "Mariátegui muestra que esta cuestión arranca, indudablemente de la economía y sus raíces en el régimen de la propiedad de la tierra."
+  },
+  {
+    "pregunta": "En el 3er Ensayo, Mariátegui vincula el estado de servidumbre del indio con:",
+    "opciones": ["El feudalismo de los gamonales", "La falta de escuelas", "El clima andino", "La República Aristocrática", "La influencia francesa"],
+    "correcta": 0,
+    "resolucion": "Se ocupa de la cuestión agraria... sacándole del estado de servidumbre y que supone el feudalismo de los gamonales."
+  },
+  {
+    "pregunta": "Según el 4to Ensayo, ¿cuáles son las tres influencias determinantes en el proceso de la instrucción pública?",
+    "opciones": ["La incaica, la colonial y la republicana", "La española, la francesa y la norteamericana", "La inglesa, la alemana y la rusa", "La católica, la protestante y la laica", "La costeña, la andina y la amazónica"],
+    "correcta": 1,
+    "resolucion": "Reconoce y analiza las tres influencias determinantes: la española, la francesa y la norteamericana."
+  },
+  {
+    "pregunta": "En el 5to Ensayo sobre el Factor Religioso, ¿qué característica le reconoce Mariátegui a la religión del Tahuantinsuyo?",
+    "opciones": ["Monoteísmo radical", "Colectivismo teocrático y materialismo", "Individualismo espiritual", "Ateísmo de estado", "Dogmatismo católico"],
+    "correcta": 1,
+    "resolucion": "Comenzando por la religión del Tahuantinsuyo reconociéndole su 'colectivismo teocrático y su materialismo'."
+  },
+  {
+    "pregunta": "En el 6to Ensayo, Mariátegui identifica el Regionalismo (federalismo) con:",
+    "opciones": ["La democracia directa", "El gamonalismo y su clientela", "El desarrollo industrial", "La descentralización efectiva", "El socialismo moderno"],
+    "correcta": 1,
+    "resolucion": "Identifica el federalismo (regionalismo) con el gamonalismo y su clientela."
+  },
+  {
+    "pregunta": "En el 7mo Ensayo, ¿a quién destaca Mariátegui como el primer destello de 'peruanidad'?",
+    "opciones": ["Ricardo Palma", "Gonzáles Prada", "Garcilaso de la Vega", "José María Eguren", "César Vallejo"],
+    "correcta": 2,
+    "resolucion": "Destaca en Garcilaso el primer destello de 'peruanidad'."
+  },
+  {
+    "pregunta": "¿Qué revistas o partidos fundó Mariátegui después de romper con el APRA en 1928?",
+    "opciones": ["El Partido Civil", "La revista Colónida", "El Partido Socialista del Perú y la CGTP", "Acción Popular", "El diario El Comercio"],
+    "correcta": 2,
+    "resolucion": "1928 rompe con al Apra y funda el Partido Socialista del Perú... 1929 funda la CGTP."
+  },
+  {
+    "pregunta": "Augusto Salazar Bondy giró su pensamiento filosófico en torno a tres dimensiones existenciales: Alienación, Dominación y:",
+    "opciones": ["Libertad", "Dependencia", "Democracia", "Educación", "Religión"],
+    "correcta": 1,
+    "resolucion": "Su pensamiento filosófico gira en torno a tres dimensiones existenciales: el hombre alienado, la dependencia y la dominación."
+  },
+  {
+    "pregunta": "Según Salazar Bondy, la 'dominación' implica:",
+    "opciones": ["La independencia económica", "El sometimiento al otro acompañado de dominación cultural", "La libertad de prensa", "El desarrollo autárquico", "La igualdad social"],
+    "correcta": 1,
+    "resolucion": "La dominación que significa sometimiento al otro que va acompañada de una dominación cultural e ideológica."
+  },
+  {
+    "pregunta": "Salazar Bondy toma como punto de partida de la doctrina filosófica del Perú el periodo marcado por:",
+    "opciones": ["La independencia de 1821", "El fin de la Guerra del Pacífico (1880)", "La llegada de Colón", "El gobierno de Velasco", "La fundación de Lima"],
+    "correcta": 1,
+    "resolucion": "Toma como punto de partida... periodo que comienza con el fin de la Guerra del Pacífico (1880)."
+  },
+  {
+    "pregunta": "¿Qué línea filosófica predominaba en el movimiento académico peruano entre 1880 y principios del siglo XX?",
+    "opciones": ["Positivista", "Marxista", "Escolástica", "Existencialista", "Idealista"],
+    "correcta": 0,
+    "resolucion": "Distingue, de una parte un movimiento predominantemente académico, de línea filosófica positivista."
+  },
+  {
+    "pregunta": "En la línea de pensadores no académicos, Manuel Gonzáles Prada veía el problema del indio como un caso:",
+    "opciones": ["Racial", "Educativo", "Económico social del agro", "Religioso", "Cultural"],
+    "correcta": 2,
+    "resolucion": "Manuel Gonzáles Prada que ve el problema del indio como un caso del problema económico social del agro."
+  },
+  {
+    "pregunta": "¿Cuál fue el cargo o rol de Salazar Bondy durante el gobierno de Velasco?",
+    "opciones": ["Ministro de Economía", "Ideólogo y gestor de la Reforma Educativa", "Presidente del Congreso", "Embajador en Francia", "Director de la CGTP"],
+    "correcta": 1,
+    "resolucion": "Ideólogo y gestor de la Reforma Educativa de Velazco."
+  },
+  {
+    "pregunta": "Salazar Bondy diagnosticó que la educación peruana era:",
+    "opciones": ["Liberadora y crítica", "Alienante, encubridora y conformista", "Científica y tecnológica", "Democrática y popular", "Auténtica y nacional"],
+    "correcta": 1,
+    "resolucion": "Diagnóstico de la educación: alienante y encubridora de la realidad, inmovilizadora y conformista."
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes es una obra de Augusto Salazar Bondy?",
+    "opciones": ["Siete Ensayos de Interpretación de la Realidad Peruana", "La ciudad y los perros", "La educación del hombre nuevo", "El mundo es ancho y ajeno", "Tradiciones Peruanas"],
+    "correcta": 2,
+    "resolucion": "Obras: La educación del hombre nuevo, La reforma educativa peruana..."
+  },
+  {
+    "pregunta": "¿Qué método utilizó Mariátegui para su esquema de la Evolución Económica en los 7 Ensayos?",
+    "opciones": ["El psicoanálisis", "El materialismo histórico", "La fenomenología", "El estructuralismo", "El método socrático"],
+    "correcta": 1,
+    "resolucion": "Utilizando el materialismo histórico como método, parte de la economía incaica..."
+  }
+          ]
         }
       ]
     }
