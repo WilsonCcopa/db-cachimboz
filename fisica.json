@@ -1432,6 +1432,303 @@
           "gratis": true
         }
       ]
+    },
+    {
+      "titulo": "Tema 6: Trabajo Mecánico, Energía y Potencia",
+      "pdf_resuelto": "https://drive.google.com/file/d/1KL8He2cByBz17hXJA204mnA_rRwN401y/view",
+      "preguntas": [
+        {
+          "pregunta": "Indique la secuencia correcta de verdad (V) o falsedad (F) de las siguientes proposiciones:\nI. La energía cinética depende del sistema de referencia dado.\nII. La energía potencial gravitatoria puede ser negativa.\nIII. La energía mecánica de los cuerpos no se crea ni se destruye, solo se transforma.",
+          "opciones": [
+            "VVF",
+            "VVV",
+            "FFV",
+            "FVF",
+            "FFF"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Análisis:</b><br>I. (V) La velocidad depende del observador, por tanto la energía cinética ($$ 1/2 mv^2 $$) también.<br>II. (V) Depende del nivel de referencia (N.R.); si el cuerpo está debajo del N.R., su altura y energía son negativas.<br>III. (V) Es el principio de conservación de la energía."
+        },
+        {
+          "pregunta": "Indique la secuencia correcta de verdad (V) o falsedad (F) de las siguientes proposiciones:\nI. La energía cinética se puede descomponer en el eje X, Y.\nII. La energía potencial gravitatoria depende del nivel de referencia dado.\nIII. La energía mecánica de un resorte ideal solo depende de su deformación.",
+          "opciones": [
+            "VVF",
+            "VVV",
+            "FFV",
+            "FVV",
+            "FFF"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Análisis:</b><br>I. (F) La energía es una magnitud escalar, no tiene dirección ni componentes vectoriales.<br>II. (V) $$ E_{pg} = mgh $$, donde 'h' se mide desde el nivel de referencia.<br>III. (V) $$ E_{pe} = 1/2 kx^2 $$, depende únicamente de la elongación 'x'."
+        },
+        {
+          "pregunta": "Indique la secuencia correcta de verdad (V) o falsedad (F) respecto de un bloque lanzado en una superficie horizontal rugosa:\nI. Su energía mecánica no cambia.\nII. El trabajo de la fuerza de rozamiento disminuye la EM.\nIII. La energía potencial gravitatoria del bloque no cambia.",
+          "opciones": [
+            "VVF",
+            "VVV",
+            "FFV",
+            "FVF",
+            "FFF"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Análisis:</b><br>I. (F) Al haber rozamiento (fuerza no conservativa), la energía mecánica se disipa en calor.<br>II. (V) El trabajo de la fricción es negativo, reduciendo la energía total.<br>III. (F) El enunciado original dice 'no cambia' y la resolución marca (V) para la tercera premisa (el bloque se mueve horizontalmente, 'h' es constante), pero la clave final es FVF. Esto sugiere un error de tipeo en la clave del PDF o en la interpretación de la pregunta."
+        },
+        {
+          "pregunta": "Una esfera de 1 kg es lanzada desde el piso con una rapidez de 50 m/s a un ángulo de 53° respecto a la horizontal. Determine la energía cinética de la esfera cuando su velocidad forma 45° con su aceleración. (g=10 m/s²)",
+          "opciones": [
+            "300 J",
+            "400 J",
+            "450 J",
+            "900 J",
+            "600 J"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>1. La aceleración (gravedad) es vertical. Si la velocidad forma 45° con la vertical, también forma 45° con la horizontal.<br>2. La componente horizontal de la velocidad es constante: $$ V_x = 50 \\cos 53^\\circ = 30 \\text{ m/s} $$.<br>3. En el punto donde el ángulo es 45°, $$ V_x = V_y = 30 \\text{ m/s} $$.<br>4. Velocidad total $$ V = 30\\sqrt{2} \\text{ m/s} $$.<br>5. $$ E_k = 1/2 m v^2 = 1/2 (1) (30\\sqrt{2})^2 = 900 \\text{ J} $$."
+        },
+        {
+          "pregunta": "Se muestra un bloque de 8 kg en reposo sostenido por un resorte (K=400 N/m) a 4m del piso. Determine la energía mecánica del sistema respecto del piso. (g=10 m/s²)",
+          "opciones": [
+            "300 J",
+            "312 J",
+            "320 J",
+            "328 J",
+            "340 J"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>Según el solucionario, se considera la energía elástica como nula (resorte no deformado) o se simplifica el cálculo:<br>$$ E_M = E_{pg} + E_{pe} $$<br>$$ E_M = mgh + 0 $$<br>$$ E_M = 8(10)(4) = 320 \\text{ J} $$."
+        },
+        {
+          "pregunta": "Un bloque de 5 kg es lanzado con 24 m/s sobre un plano liso inclinado 37°. Determine su energía mecánica pasado 4 s hasta detenerse. (g=10 m/s²)",
+          "opciones": [
+            "144 J",
+            "288 J",
+            "512 J",
+            "1440 J",
+            "1024 J"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Principio de Conservación:</b><br>Como el plano es liso, la energía mecánica se conserva en todo momento.<br>Calculamos la energía inicial:<br>$$ E_{Mo} = 1/2 m v_o^2 $$<br>$$ E_{Mo} = 1/2 (5) (24)^2 $$<br>$$ E_{Mo} = 1440 \\text{ J} $$"
+        },
+        {
+          "pregunta": "Una esfera de 2 kg se lanza con 20 m/s. ¿Qué energía cinética presenta en la parte más alta de su trayectoria? Desprecie la resistencia del aire. (g=10 m/s²)",
+          "opciones": [
+            "100 J",
+            "200 J",
+            "300 J",
+            "400 J",
+            "500 J"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>Energía Mecánica Inicial: $$ E_M = 1/2 (2)(20)^2 = 400 \\text{ J} $$.<br>En la parte más alta (altura dada en gráfico = 5m):<br>$$ E_M = E_k + E_{pg} $$<br>$$ 400 = E_k + mgh $$<br>$$ 400 = E_k + 2(10)(5) $$<br>$$ 400 = E_k + 100 \\Rightarrow E_k = 300 \\text{ J} $$."
+        },
+        {
+          "pregunta": "Un bloque de 1 kg se suelta (v=0) en una superficie rugosa a 5m de altura. Si pasa por P (suelo) con 8 m/s, ¿cuál es el trabajo realizado por la fuerza de rozamiento?",
+          "opciones": [
+            "-10 J",
+            "-50 J",
+            "-32 J",
+            "-18 J",
+            "-12 J"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Teorema Trabajo-Energía:</b><br>$$ E_{inicial} + W_{fricción} = E_{final} $$<br>$$ mgh + W_{fr} = 1/2 m v^2 $$<br>$$ 1(10)(5) + W_{fr} = 1/2 (1)(8)^2 $$<br>$$ 50 + W_{fr} = 32 $$<br>$$ W_{fr} = 32 - 50 = -18 \\text{ J} $$"
+        },
+        {
+          "pregunta": "(CBU 1999-1) Si la velocidad de un cuerpo se duplica, entonces el valor de su energía cinética se:",
+          "opciones": [
+            "Triplica",
+            "Duplica",
+            "Mantiene igual",
+            "Cuadruplica",
+            "Disminuye a su mitad"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Análisis:</b><br>$$ E_k = 1/2 m v^2 $$<br>Si $$ v' = 2v $$:<br>$$ E_k' = 1/2 m (2v)^2 = 4 (1/2 m v^2) $$<br>La energía se cuadruplica."
+        },
+        {
+          "pregunta": "(CBU 2000-1) Un cuerpo es lanzado desde el suelo verticalmente hacia arriba, durante el ascenso se cumple que:",
+          "opciones": [
+            "Su energía cinética aumenta y potencial disminuye.",
+            "Su energía cinética y potencial aumentan.",
+            "Su energía cinética y potencial disminuyen.",
+            "Su energía cinética disminuye y su energía potencial aumenta.",
+            "Su energía cinética se mantiene constante."
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>Al subir, la velocidad disminuye (menor $$ E_k $$) y la altura aumenta (mayor $$ E_p $$)."
+        },
+        {
+          "pregunta": "(CBU 2006-2) Indique las proposiciones verdaderas:\n1. La fuerza es conservativa solo si el trabajo es constante.\n2. Una fuerza es conservativa si su trabajo solo depende de los puntos de partida y llegada.\n3. Una fuerza es conservativa si su trabajo depende de su trayectoria.",
+          "opciones": [
+            "1, 2 y 3",
+            "1 y 2",
+            "1 y 3",
+            "Solo 1",
+            "Solo 2"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Análisis:</b><br>1. (F) El trabajo no es necesariamente constante.<br>2. (V) Definición de fuerza conservativa (independiente de la trayectoria).<br>3. (F) Si depende de la trayectoria, es no conservativa.<br><i>Nota: En el solucionario manuscrito se indica la opción 'd' que correspondería a la única verdadera identificada en el contexto.</i>"
+        },
+        {
+          "pregunta": "(CBU 2006-2) Un resorte cuya constante elástica es 20 N/cm es estirado lentamente 5 cm. El trabajo realizado es:",
+          "opciones": [
+            "2,5 J",
+            "250 J",
+            "25 J",
+            "20 J",
+            "2,0 J"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Conversión:</b> $$ K = 20 \\text{ N/cm} = 2000 \\text{ N/m} $$; $$ x = 5 \\text{ cm} = 0.05 \\text{ m} $$.<br><b>Cálculo:</b><br>$$ W = 1/2 K x^2 $$<br>$$ W = 1/2 (2000) (0.05)^2 $$<br>$$ W = 1000 (0.0025) = 2.5 \\text{ J} $$"
+        },
+        {
+          "pregunta": "Determine el trabajo mecánico de F=15 N sobre el bloque desde 'A' hacia 'B' (d=4m).",
+          "opciones": [
+            "10 J",
+            "40 J",
+            "60 J",
+            "80 J",
+            "120 J"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Cálculo:</b><br>$$ W = F \\cdot d $$<br>$$ W = 15 \\text{ N} \\cdot 4 \\text{ m} $$<br>$$ W = 60 \\text{ J} $$"
+        },
+        {
+          "pregunta": "Determine el trabajo de la fuerza normal sobre el bloque desde 'A' hasta 'B' (movimiento horizontal).",
+          "opciones": [
+            "5 J",
+            "10 J",
+            "0 J",
+            "20 J",
+            "-5 J"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Teoría:</b><br>La fuerza normal es perpendicular al desplazamiento. Por lo tanto, no realiza trabajo ($$ \\cos 90^\\circ = 0 $$)."
+        },
+        {
+          "pregunta": "Determine el trabajo de la fuerza de rozamiento sobre el bloque de 2 kg desde 'A' hasta 'B' ($$ d=2m $$, $$ \\mu=0.5 $$).",
+          "opciones": [
+            "-5 J",
+            "-10 J",
+            "-20 J",
+            "15 J",
+            "10 J"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Calcular Fricción.<br>$$ f_r = \\mu N = \\mu mg = 0.5(20) = 10 \\text{ N} $$<br><b>Paso 2:</b> Calcular Trabajo.<br>$$ W = -f_r \\cdot d = -10 \\cdot 2 = -20 \\text{ J} $$"
+        },
+        {
+          "pregunta": "Hallar el trabajo neto sobre el bloque desde 'A' hasta 'B' (d=3m). Fuerzas: 12N (der), 4N (izq), 5N (abajo).",
+          "opciones": [
+            "16 J",
+            "8 J",
+            "24 J",
+            "20 J",
+            "15 J"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fuerza Resultante (eje x):</b><br>$$ F_R = 12 - 4 = 8 \\text{ N} $$<br><b>Trabajo Neto:</b><br>$$ W_{neto} = F_R \\cdot d = 8 \\cdot 3 = 24 \\text{ J} $$"
+        },
+        {
+          "pregunta": "(CEPRU 2010-1) De las siguientes proposiciones, son verdaderas:\n1. En fuerzas conservativas el trabajo depende de la trayectoria.\n2. En fuerzas no conservativas el trabajo depende de la trayectoria.\n3. En fuerzas conservativas el trabajo está relacionado con la energía potencial.",
+          "opciones": [
+            "1, 2 y 3",
+            "1 y 2",
+            "1 y 3",
+            "Solo 1",
+            "Solo 3"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Análisis:</b><br>1. (F) Conservativas no dependen de trayectoria.<br>2. (V) Físicamente es cierto, pero el solucionario marca esta como falsa en el contexto de las claves disponibles.<br>3. (V) $$ W_{cons} = -\\Delta E_p $$.<br>El solucionario concluye: <b>Solo 3</b>."
+        },
+        {
+          "pregunta": "(CEPRU 2013-1) Es una fuerza no conservativa, la:",
+          "opciones": [
+            "Fuerza de fricción",
+            "Fuerza elástica",
+            "Fuerza gravitacional",
+            "Fuerza electrostática",
+            "Fuerza inercial"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Teoría:</b><br>La fuerza de fricción o rozamiento es una fuerza disipativa (no conservativa) porque su trabajo depende de la trayectoria y transforma energía mecánica en calor."
+        },
+        {
+          "pregunta": "(CEPRU 2014-1) Secuencia V o F:\n1. Una fuerza disipativa es conservativa.\n2. Las fuerzas conservativas no dependen de la trayectoria.\n3. La fuerza gravitatoria es no conservativa.",
+          "opciones": [
+            "V, F, F",
+            "V, V, F",
+            "V, F, V",
+            "F, V, F",
+            "F, F, V"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Análisis:</b><br>1. (F) Disipativa es opuesto a conservativa.<br>2. (V) Característica principal de fuerzas conservativas.<br>3. (F) La gravedad SÍ es conservativa.<br>Secuencia: F, V, F."
+        },
+        {
+          "pregunta": "Una persona de 60 kg sube 20 m por las escaleras en 4 min. ¿Qué potencia desarrolló (en W)?",
+          "opciones": [
+            "55",
+            "40",
+            "80",
+            "60",
+            "50"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Resolución:</b><br>Trabajo: $$ W = mgh = 60(10)(20) = 12000 \\text{ J} $$<br>Tiempo: $$ 4 \\text{ min} = 240 \\text{ s} $$<br>Potencia: $$ P = W/t = 12000/240 = 50 \\text{ W} $$"
+        },
+        {
+          "pregunta": "Un bloque de 10 kg se deja caer por un plano inclinado (30°). Su velocidad media es 4 m/s. Hallar la potencia media desarrollada por el peso. (g=10 m/s²)",
+          "opciones": [
+            "400 W",
+            "500 W",
+            "200 W",
+            "100 W",
+            "300 W"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fuerza (componente del peso):</b><br>$$ F = mg \\sin 30^\\circ = 10(10)(0.5) = 50 \\text{ N} $$<br><b>Potencia Media:</b><br>$$ P = F \\cdot V_{media} = 50 \\cdot 4 = 200 \\text{ W} $$"
+        },
+        {
+          "pregunta": "Encuentre la potencia (en kW) de una grúa que eleva 60 sacos de harina de 100 kg cada uno a 3 m de altura en un minuto.",
+          "opciones": [
+            "2",
+            "4",
+            "6",
+            "3",
+            "7"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Carga Total:</b> $$ m = 60 \\text{ sacos} \\times 100 \\text{ kg} = 6000 \\text{ kg} $$<br><b>Trabajo:</b> $$ W = mgh = 6000(10)(3) = 180,000 \\text{ J} $$<br><b>Potencia:</b> $$ P = 180,000 / 60 \\text{ s} = 3000 \\text{ W} $$<br>$$ P = 3 \\text{ kW} $$"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "6.1. Trabajo Mecánico - P1",
+          "youtube_id": "OKzhP05cVUU",
+          "pdf_link": "https://drive.google.com/file/d/1KZpE1pJzv1S6xidWrvH72HZZ24mtkiQL/view",
+          "gratis": true
+        },
+        {
+          "titulo": "6.2. Energía Mecánica potencia - P2",
+          "youtube_id": "7tmmpMcIv6Q",
+          "pdf_link": "https://drive.google.com/file/d/1KZpE1pJzv1S6xidWrvH72HZZ24mtkiQL/view",
+          "gratis": true
+        },
+        {
+          "titulo": "6.3. Energía Mecánica potencia - P3",
+          "youtube_id": "sb7oaVZgEP4",
+          "pdf_link": "https://drive.google.com/file/d/1KZpE1pJzv1S6xidWrvH72HZZ24mtkiQL/view",
+          "gratis": true
+        },
+        {
+          "titulo": "6.4. Trabajo Mecánico, Energía y Potencia - Ejercicios",
+          "youtube_id": "xkfuVDskpjM",
+          "pdf_link": "https://drive.google.com/file/d/1dSwr1xi7nqwKMNv7Fkb305JTFTgO6-y7/view",
+          "gratis": true
+        }
+      ]
     }
   ]
 }
+  
