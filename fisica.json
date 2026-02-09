@@ -1728,7 +1728,314 @@
           "gratis": true
         }
       ]
+    },
+  {
+      "titulo": "Tema 7: Impulso, Cantidad de Movimiento...",
+      "pdf_resuelto": "https://drive.google.com/file/d/17tr564vaiS_5l6246bJ0IIsS8bA1TNli/view",
+      "preguntas": [
+        {
+          "pregunta": "Un automóvil de 800 kg de masa se mueve con velocidad constante de 72 km/h. Calcular su momentum lineal (en $$ kg\\cdot m/s $$).",
+          "opciones": [
+            "800",
+            "1600",
+            "8000",
+            "16000",
+            "32000"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Conversión:</b><br>$$ v = 72 \\text{ km/h} \\times (5/18) = 20 \\text{ m/s} $$<br><br><b>Cálculo:</b><br>$$ P = m \\cdot v $$<br>$$ P = 800 \\cdot 20 $$<br>$$ P = 16000 \\text{ kg}\\cdot\\text{m/s} $$"
+        },
+        {
+          "pregunta": "Una chica corre de sur a norte con movimiento uniforme, recorriendo 80 m en 10 s. Si su masa es 60 kg, ¿cuál es su momentum lineal?",
+          "opciones": [
+            "100",
+            "160",
+            "240",
+            "480",
+            "600"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Velocidad:</b><br>$$ v = d/t = 80/10 = 8 \\text{ m/s} $$<br><br><b>Momentum:</b><br>$$ P = m \\cdot v $$<br>$$ P = 60 \\cdot 8 $$<br>$$ P = 480 \\text{ kg}\\cdot\\text{m/s} $$"
+        },
+        {
+          "pregunta": "Un bate de béisbol impacta una pelota durante 0,2 s con una fuerza de 200 N. Calcular el impulso recibido por la pelota (en N.s).",
+          "opciones": [
+            "10",
+            "20",
+            "25",
+            "35",
+            "40"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Fórmula Impulso:</b><br>$$ I = F \\cdot \\Delta t $$<br>$$ I = 200 \\cdot 0.2 $$<br>$$ I = 40 \\text{ N}\\cdot\\text{s} $$"
+        },
+        {
+          "pregunta": "Un carrito de 4 kg se mueve sobre una mesa horizontal sin roce con velocidad de 3 m/s. Un ladrillo de 2 kg se deja caer verticalmente dentro del carrito. ¿Cuál será la velocidad del conjunto?",
+          "opciones": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Conservación de Cantidad de Movimiento (Eje X):</b><br>$$ P_{inicial} = P_{final} $$<br>$$ m_{carro} \\cdot v_{carro} = (m_{carro} + m_{ladrillo}) \\cdot v_{final} $$<br>$$ 4(3) = (4 + 2) v_f $$<br>$$ 12 = 6 v_f \\Rightarrow v_f = 2 \\text{ m/s} $$"
+        },
+        {
+          "pregunta": "Un carrito de 20 kg se mueve con 0,5 m/s. ¿Qué fuerza (en N) se necesita para detenerlo en 0,1 s?",
+          "opciones": [
+            "10",
+            "20",
+            "50",
+            "100",
+            "80"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Teorema Impulso-Momentum:</b><br>$$ F \\cdot \\Delta t = m(v_f - v_i) $$<br>$$ F(0.1) = 20(0 - 0.5) $$<br>$$ F(0.1) = -10 $$<br>$$ F = -100 \\text{ N} $$<br>Módulo: 100 N."
+        },
+        {
+          "pregunta": "(CEPRU 2015-INT) Si un niño en un bote lanza horizontalmente una esfera de 5,4 kg con una rapidez de 10 m/s, entonces la velocidad del bote después del lanzamiento de la esfera es: (Masa niño=26kg, Masa bote=55kg)",
+          "opciones": [
+            "$$ -1/3 \\text{ m/s} $$",
+            "$$ -2/3 \\text{ m/s} $$",
+            "$$ 1/2 \\text{ m/s} $$",
+            "$$ -1/4 \\text{ m/s} $$",
+            "$$ 3/4 \\text{ m/s} $$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Conservación (Sistema inicialmente en reposo):</b><br>$$ 0 = (m_{bote} + m_{niño}) v_{bote} + m_{esfera} v_{esfera} $$<br>$$ 0 = (55 + 26) v_b + 5.4(10) $$<br>$$ 0 = 81 v_b + 54 $$<br>$$ v_b = -54 / 81 = -2/3 \\text{ m/s} $$"
+        },
+        {
+          "pregunta": "Para el sistema la cantidad de movimiento es de módulo 50 kg.m/s, calcule la rapidez de B. ($$ M_A=5 \\text{ kg}, M_B=8 \\text{ kg} $$). A se mueve al norte con 6 m/s, B se mueve al este.",
+          "opciones": [
+            "3 m/s",
+            "4 m/s",
+            "5 m/s",
+            "6 m/s",
+            "7 m/s"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Momentum vectorial:</b><br>$$ P_A = 5(6) = 30 $$ (Norte)<br>$$ P_B = 8(v_B) $$ (Este)<br>$$ P_{sistema} = \\sqrt{P_A^2 + P_B^2} $$<br>$$ 50 = \\sqrt{30^2 + (8v_B)^2} $$<br>Por triángulo notable 37-53 (30, 40, 50):<br>$$ 8v_B = 40 \\Rightarrow v_B = 5 \\text{ m/s} $$"
+        },
+        {
+          "pregunta": "Una esfera de 2 kg es soltada en A (5m altura). Si luego del choque que duró 0,1 s la esfera rebota con 5 m/s, determine el módulo de la fuerza media que recibe la esfera de parte del piso.",
+          "opciones": [
+            "300 N",
+            "400 N",
+            "320 N",
+            "420 N",
+            "280 N"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1: Velocidad de impacto</b><br>Caída libre: $$ v_1 = \\sqrt{2gh} = \\sqrt{2(10)(5)} = 10 \\text{ m/s} $$ (Abajo)<br><br><b>Paso 2: Impulso</b><br>$$ \\Delta P = m(v_{rebote} - v_{impacto}) = 2(5 - (-10)) = 2(15) = 30 \\text{ Ns} $$<br><br><b>Paso 3: Fuerza Media</b><br>$$ (F_{piso} - mg) \\Delta t = \\Delta P $$<br>$$ (F - 20)(0.1) = 30 $$<br>$$ F - 20 = 300 \\Rightarrow F = 320 \\text{ N} $$"
+        },
+        {
+          "pregunta": "Un bloque de 5 kg se desplaza con rapidez de 4 m/s. Si se golpea con una tabla ejerciéndole una fuerza horizontal cuyo módulo varía como muestra la gráfica, determine la rapidez del bloque luego del golpe. (Área bajo gráfica = Impulso)",
+          "opciones": [
+            "6 m/s",
+            "4 m/s",
+            "5 m/s",
+            "8 m/s",
+            "3 m/s"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Cálculo del Impulso (Área):</b><br>Según resolución manuscrita, el área (Impulso) es 10 Ns.<br>$$ I = \\Delta P = m(v_f - v_i) $$<br>$$ 10 = 5(v_f - 4) $$<br>$$ 2 = v_f - 4 $$<br>$$ v_f = 6 \\text{ m/s} $$"
+        },
+        {
+          "pregunta": "(CEPRU 2009-1) Una esfera de 5 kg se suelta desde 45 m. Luego del impacto rebota y alcanza 5 m. Calcular la magnitud del impulso aplicado por el piso.",
+          "opciones": [
+            "100 Ns",
+            "200 Ns",
+            "250 Ns",
+            "300 Ns",
+            "350 Ns"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Velocidades:</b><br>Baja: $$ v_1 = \\sqrt{2(10)(45)} = 30 \\text{ m/s} $$<br>Sube: $$ v_2 = \\sqrt{2(10)(5)} = 10 \\text{ m/s} $$<br><br><b>Impulso:</b><br>$$ I = m(v_{sube} - (-v_{baja})) $$<br>$$ I = 5(10 + 30) = 5(40) = 200 \\text{ Ns} $$"
+        },
+        {
+          "pregunta": "(CEPRU 2009-2) La masa de un péndulo es 2 kg. Es golpeado por un martillo con fuerza de 8000 N durante 0,008 s. ¿Velocidad después del golpe?",
+          "opciones": [
+            "12 m/s",
+            "20 m/s",
+            "32 m/s",
+            "36 m/s",
+            "64 m/s"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Teorema del Impulso:</b><br>$$ F \\Delta t = m v_f $$<br>$$ 8000(0.008) = 2 v_f $$<br>$$ 64 = 2 v_f $$<br>$$ v_f = 32 \\text{ m/s} $$"
+        },
+        {
+          "pregunta": "(ADMISIÓN PO 2010) Indique V o F:<br>1. La fuerza es la variación de la cantidad de movimiento respecto al tiempo.<br>2. La inercia es la tendencia a mantenerse en movimiento acelerado.<br>3. La masa es una medida cuantitativa de la inercia.",
+          "opciones": [
+            "FFF",
+            "VFV",
+            "VVF",
+            "VVV",
+            "FVV"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Análisis:</b><br>1. (V) Ley de Newton $$ F = dP/dt $$.<br>2. (F) La inercia mantiene el reposo o velocidad constante, no acelerado.<br>3. (V) A mayor masa, mayor inercia.<br>Secuencia: VFV."
+        },
+        {
+          "pregunta": "(CEPRU 2010-1) Astronauta de 60 kg lanza martillo de 3 kg a 10 m/s. ¿Qué rapidez adquiere el astronauta?",
+          "opciones": [
+            "0,2 m/s",
+            "0,5 m/s",
+            "1 m/s",
+            "2 m/s",
+            "4 m/s"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Conservación:</b><br>$$ 0 = 60 v_a + 3(10) $$<br>$$ 60 v_a = -30 $$<br>$$ v_a = -0.5 \\text{ m/s} $$"
+        },
+        {
+          "pregunta": "(CEPRU 2010-2) La magnitud de la cantidad de movimiento de un móvil de 8 kg que se mueve a 72 km/h es:",
+          "opciones": [
+            "120",
+            "130",
+            "140",
+            "150",
+            "160"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Cálculo:</b><br>$$ v = 72 \\text{ km/h} = 20 \\text{ m/s} $$<br>$$ P = 8(20) = 160 \\text{ kg}\\cdot\\text{m/s} $$"
+        },
+        {
+          "pregunta": "El bloque de masa m es soltado en la superficie del coche (Masa 5m). Determine la rapidez del coche cuando el bloque lo abandona horizontalmente con 20 m/s.",
+          "opciones": [
+            "0,5 m/s",
+            "4 m/s",
+            "2 m/s",
+            "2,5 m/s",
+            "3 m/s"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Conservación (Eje X):</b><br>Inicialmente todo quieto $$ P_i = 0 $$.<br>$$ 0 = P_{bloque} + P_{coche} $$<br>$$ 0 = m(20) + (5m)(-v_c) $$<br>$$ 20m = 5m v_c $$<br>$$ v_c = 4 \\text{ m/s} $$"
+        },
+        {
+          "pregunta": "Si la esfera A de 100 g choca con B de 200 g (en reposo), adquiriendo B una rapidez de 4 m/s. Determine la rapidez que adquiere A si inicialmente tenía 10 m/s.",
+          "opciones": [
+            "1 m/s",
+            "2 m/s",
+            "3 m/s",
+            "4 m/s",
+            "5 m/s"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Conservación del Momentum:</b><br>$$ m_A v_{Ai} + m_B v_{Bi} = m_A v_{Af} + m_B v_{Bf} $$<br>$$ 0.1(10) + 0 = 0.1(v_{Af}) + 0.2(4) $$<br>$$ 1 = 0.1 v_{Af} + 0.8 $$<br>$$ 0.2 = 0.1 v_{Af} \\Rightarrow v_{Af} = 2 \\text{ m/s} $$"
+        },
+        {
+          "pregunta": "El sistema está en reposo. Un joven (3M) sobre un coche (2M) lanza un bloque (M) a 10 m/s. ¿Luego de qué tiempo el coche choca con la pared a 10m de distancia?",
+          "opciones": [
+            "2 s",
+            "3 s",
+            "4 s",
+            "5 s",
+            "6 s"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1: Velocidad de retroceso</b><br>$$ 0 = M(10) + (3M + 2M) v_{retroceso} $$<br>$$ 10M = -5M v_r \\Rightarrow v_r = -2 \\text{ m/s} $$<br><br><b>Paso 2: Tiempo (MRU)</b><br>$$ t = d / v = 10 / 2 = 5 \\text{ s} $$"
+        },
+        {
+          "pregunta": "Esfera A choca con esfera idéntica B en reposo. Luego del choque se mueven como en la figura (37° y 53°). Si A venía a 8 m/s, halle la rapidez de A luego del choque.",
+          "opciones": [
+            "4,8 m/s",
+            "6,4 m/s",
+            "4,2 m/s",
+            "6,5 m/s",
+            "5,2 m/s"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Ejes coordenados (y):</b><br>$$ m v_A' \\sin 53 = m v_B' \\sin 37 $$<br>$$ v_A' (4/5) = v_B' (3/5) \\Rightarrow v_B' = 4/3 v_A' $$<br><br><b>Ejes coordenados (x):</b><br>$$ m(8) = m v_A' \\cos 53 + m v_B' \\cos 37 $$<br>$$ 8 = v_A'(0.6) + (4/3 v_A')(0.8) $$<br>$$ 8 = 0.6 v_A' + 1.066 v_A' = 1.66 v_A' = 5/3 v_A' $$<br>$$ v_A' = 24/5 = 4.8 \\text{ m/s} $$"
+        },
+        {
+          "pregunta": "Los siguientes cuerpos chocan de forma elástica. V1=6 m/s, V2=-3 m/s (iniciales). Si V1 final es -2 m/s, calcular V2 final.",
+          "opciones": [
+            "1 m/s",
+            "2 m/s",
+            "3 m/s",
+            "6 m/s",
+            "7 m/s"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Coeficiente de Restitución (e=1 para elástico):</b><br>$$ v_{2f} - v_{1f} = e(v_{1i} - v_{2i}) $$<br>$$ v_{2f} - (-2) = 1(6 - (-3)) $$<br>$$ v_{2f} + 2 = 9 $$<br>$$ v_{2f} = 7 \\text{ m/s} $$"
+        },
+        {
+          "pregunta": "Un cuerpo de 2 kg a 5 m/s choca con otro de 3 kg detenido. Quedan pegados (choque inelástico). Velocidad final:",
+          "opciones": [
+            "1,1 m/s",
+            "2,2 m/s",
+            "2 m/s",
+            "6 m/s",
+            "7 m/s"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Conservación:</b><br>$$ P_i = P_f $$<br>$$ 2(5) + 0 = (2 + 3) v_f $$<br>$$ 10 = 5 v_f $$<br>$$ v_f = 2 \\text{ m/s} $$"
+        },
+        {
+          "pregunta": "(CEPRU 2014-2) Indique V o F:\n1. Para cambiar la velocidad se necesita una fuerza.\n2. Una fuerza neta distinta de cero produce cambio en movimiento.\n3. Una fuerza neta distinta de cero es una fuerza no equilibrada.",
+          "opciones": [
+            "V-V-V",
+            "V-F-F",
+            "V-F-V",
+            "V-F-F",
+            "V-F-F"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Análisis:</b><br>Todas las proposiciones son consecuencias directas de las leyes de Newton. (V, V, V)."
+        },
+        {
+          "pregunta": "(ADMISIÓN 2017-18) V o F sobre conservación:\n1. El impulso es diferente de cero.\n2. En sistema cerrado, variación de P es igual a la fuerza.\n3. Fuerzas externas varían el momento lineal del sistema.",
+          "opciones": [
+            "V-F-V",
+            "F-V-V",
+            "F-F-V",
+            "V-F-F",
+            "V-V-F"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Análisis:</b><br>1. (V) El impulso es el cambio de P ($$ I = \\Delta P $$).<br>2. (F) La variación de P es igual al Impulso, no a la Fuerza ($$ \\Delta P = F \\Delta t $$).<br>3. (V) Solo fuerzas externas cambian el momentum total."
+        },
+        {
+          "pregunta": "(CEPRU 2017-1) Se suelta una pelota (caída libre). ¿Qué función representa la variación del momento lineal respecto al tiempo?",
+          "opciones": [
+            "Lineal",
+            "Exponencial",
+            "Cuadrática",
+            "Cúbica",
+            "Logarítmica"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Análisis:</b><br>$$ v = g \\cdot t $$<br>$$ P = m \\cdot v = m g \\cdot t $$<br>La relación P vs t es lineal ($$ P \\propto t $$)."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "7.1. Cantidad de Movimiento & Impulso - Teoría",
+          "youtube_id": "rM-11lC2_Dk",
+          "pdf_link": "https://drive.google.com/file/d/1TE2-m5oC-o7JS6P7uRDP_xjBmcMFVAIT/view",
+          "gratis": true
+        },
+        {
+          "titulo": "7.2. Conservación de la cantidad de movimiento - Teoría",
+          "youtube_id": "RcTnoKop6l8",
+          "pdf_link": "https://drive.google.com/file/d/1TE2-m5oC-o7JS6P7uRDP_xjBmcMFVAIT/view",
+          "gratis": true
+        },
+        {
+          "titulo": "7.3. Ejercicios resueltos - P1",
+          "youtube_id": "KAl4kT8RmAA",
+          "pdf_link": "https://drive.google.com/file/d/1ZzvcpqxJNdUBpd846qx13gGxt7Y0VaRV/view",
+          "gratis": true
+        },
+        {
+          "titulo": "7.4. Ejercicios resueltos - P2",
+          "youtube_id": "WOJ4qhp9C2g",
+          "pdf_link": "https://drive.google.com/file/d/1ZzvcpqxJNdUBpd846qx13gGxt7Y0VaRV/view",
+          "gratis": true
+        }
+      ]
     }
   ]
 }
-  
