@@ -2762,29 +2762,29 @@
     "correcta": 2,
     "resolucion": "<b>Paso 1:</b> $$1 \\times 4^2 + 3 \\times 4^1 + 2 = 16 + 12 + 2 = 30$$."
   },
-  {
+ {
     "pregunta": "Convierte $$254_{(6)}$$ a base decimal.",
     "opciones": [
       "98",
       "90",
-      "100",
+      "106",
       "110",
       "96"
     ],
-    "correcta": 4,
-    "resolucion": "<b>Paso 1:</b> $$2 \\times 6^2 + 5 \\times 6^1 + 4 = 2 \\times 36 + 30 + 4 = 72 + 30 + 4 = 106$$.<br><b>Paso 2:</b> Ninguna opción es 106. La más cercana es 110 o 100. Sin embargo, según la opción marcada como correcta en el índice (4) es 96. Esto es un error, pero respetamos la respuesta dada."
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$2 \\times 6^2 + 5 \\times 6^1 + 4 = 2 \\times 36 + 30 + 4 = 72 + 30 + 4 = 106$$."
   },
   {
     "pregunta": "Convierte $$1201_{(3)}$$ al sistema decimal.",
     "opciones": [
       "35",
-      "37",
+      "46",
       "38",
       "40",
       "45"
     ],
     "correcta": 1,
-    "resolucion": "<b>Paso 1:</b> $$1 \\times 3^3 + 2 \\times 3^2 + 0 \\times 3^1 + 1 = 27 + 18 + 0 + 1 = 46$$.<br><b>Paso 2:</b> Ninguna opción es 46. La opción 37 corresponde a 1101(3) = 27+9+1=37. Posible error, asumimos la respuesta dada (índice 1)."
+"resolucion": "<b>Paso 1:</b> $$1 \\times 3^3 + 2 \\times 3^2 + 0 \\times 3^1 + 1 = 27 + 18 + 0 + 1 = 46$$."
   },
   {
     "pregunta": "Convierte $$1001_{(2)}$$ a base decimal.",
