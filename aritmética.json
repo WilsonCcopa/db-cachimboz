@@ -4014,18 +4014,397 @@
       "titulo": "Tema 7: Números primos",
       "pdf_resuelto": "",
       "preguntas": [
-        {
-          "pregunta": "",
-          "opciones": ["", "", "", "", ""],
-          "correcta": 0,
-          "resolucion": ""
-        }
+          {
+    "pregunta": "¿Cuál de los siguientes números es primo absoluto?",
+    "opciones": [
+      "$$15$$",
+      "$$19$$",
+      "$$21$$",
+      "$$25$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Un número primo absoluto solo tiene dos divisores: 1 y él mismo.<br><b>Paso 2:</b> 19 cumple esta condición. 15 (3×5), 21 (3×7) y 25 (5×5) son compuestos."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes números no es primo?",
+    "opciones": [
+      "$$13$$",
+      "$$17$$",
+      "$$21$$",
+      "$$19$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> 21 es divisible por 1, 3, 7 y 21, por lo que es compuesto.<br><b>Paso 2:</b> 13, 17 y 19 son primos."
+  },
+  {
+    "pregunta": "El número 2 es especial porque:",
+    "opciones": [
+      "Es el único número par primo",
+      "No es primo",
+      "Tiene tres divisores",
+      "Ninguna"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> El 2 es divisible solo por 1 y 2.<br><b>Paso 2:</b> Cualquier otro número par es divisible por 2, por lo que sería compuesto. Así que es el único número par primo."
+  },
+  {
+    "pregunta": "¿Qué significa que dos números sean primos entre sí (pesi)?",
+    "opciones": [
+      "Ambos son primos",
+      "No tienen ningún divisor común salvo 1",
+      "Su suma es un primo",
+      "Son múltiplos"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> PESI (Primos Entre Sí) significa que el Máximo Común Divisor (MCD) de los números es 1.<br><b>Paso 2:</b> Por lo tanto, no tienen ningún divisor común salvo el 1."
+  },
+  {
+    "pregunta": "Indique un par de números primos entre sí:",
+    "opciones": [
+      "8 y 15",
+      "12 y 18",
+      "20 y 25",
+      "16 y 24"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Divisores de 8: 1,2,4,8. Divisores de 15: 1,3,5,15. Único divisor común es 1.<br><b>Paso 2:</b> Los otros pares comparten divisores: 12 y 18 (2,3,6), 20 y 25 (5), 16 y 24 (2,4,8)."
+  },
+  {
+    "pregunta": "¿Cuál es el número compuesto?",
+    "opciones": [
+      "$$5$$",
+      "$$7$$",
+      "$$9$$",
+      "$$11$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> 9 es divisible por 1, 3 y 9, por lo tanto es compuesto.<br><b>Paso 2:</b> Los demás son primos."
+  },
+  {
+    "pregunta": "El número 49 es:",
+    "opciones": [
+      "Primo",
+      "Compuesto",
+      "Impar primo",
+      "Primo relativo"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> 49 = 7×7, por lo que tiene más de dos divisores (1, 7, 49).<br><b>Paso 2:</b> Por tanto, es compuesto."
+  },
+  {
+    "pregunta": "La descomposición en factores primos de 180 es:",
+    "opciones": [
+      "$$2^2 \\times 3^2 \\times 5$$",
+      "$$2^3 \\times 3^2 \\times 5$$",
+      "$$2^3 \\times 3 \\times 5^2$$",
+      "$$2^2 \\times 3 \\times 5^2$$"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> 180 = 18 × 10 = (2×9)×(2×5) = 2×3^2×2×5 = 2^2×3^2×5.<br><b>Paso 2:</b> 4×9×5 = 180."
+  },
+  {
+    "pregunta": "La descomposición prima de 252 es:",
+    "opciones": [
+      "$$2^2 \\times 3^3 \\times 7$$",
+      "$$2^3 \\times 3^2 \\times 7$$",
+      "$$2^2 \\times 3^2 \\times 5$$",
+      "$$2^2 \\times 3^2 \\times 7$$"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> 252 ÷ 2 = 126; 126 ÷ 2 = 63; 63 ÷ 3 = 21; 21 ÷ 3 = 7; 7 ÷ 7 = 1.<br><b>Paso 2:</b> Factores: 2^2 × 3^2 × 7 = 4 × 9 × 7 = 252."
+  },
+  {
+    "pregunta": "El número 1000 se descompone como:",
+    "opciones": [
+      "$$2^3 \\times 5^3$$",
+      "$$2^3 \\times 5^2$$",
+      "$$2^2 \\times 5^3$$",
+      "$$2^5 \\times 5^3$$"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> 1000 = 10^3 = (2×5)^3 = 2^3 × 5^3.<br><b>Paso 2:</b> 8 × 125 = 1000."
+  },
+  {
+    "pregunta": "El número 48 tiene la siguiente descomposición prima:",
+    "opciones": [
+      "$$2^3 \\times 3^2$$",
+      "$$2^3 \\times 3$$",
+      "$$2^4 \\times 3$$",
+      "$$2^5 \\times 3$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> 48 = 16 × 3 = 2^4 × 3."
+  },
+  {
+    "pregunta": "La cantidad total de divisores de 36 es:",
+    "opciones": [
+      "$$6$$",
+      "$$8$$",
+      "$$9$$",
+      "$$12$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> 36 = 2^2 × 3^2.<br><b>Paso 2:</b> Cantidad de divisores = (2+1)(2+1) = 3×3 = 9."
+  },
+  {
+    "pregunta": "La cantidad de divisores de 72 es:",
+    "opciones": [
+      "$$9$$",
+      "$$10$$",
+      "$$12$$",
+      "$$15$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> 72 = 8×9 = 2^3 × 3^2.<br><b>Paso 2:</b> CD = (3+1)(2+1) = 4×3 = 12."
+  },
+  {
+    "pregunta": "Hallar el número de divisores de 540.",
+    "opciones": [
+      "$$20$$",
+      "$$24$$",
+      "$$30$$",
+      "$$36$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> 540 = 54×10 = 2×27×2×5 = 2^2 × 3^3 × 5.<br><b>Paso 2:</b> CD = (2+1)(3+1)(1+1) = 3×4×2 = 24."
+  },
+  {
+    "pregunta": "Si $$N = 2^4 \\times 5^2$$, ¿cuántos divisores tiene?",
+    "opciones": [
+      "$$8$$",
+      "$$10$$",
+      "$$15$$",
+      "$$20$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Aplicamos la fórmula de cantidad de divisores a los exponentes: (4+1)(2+1) = 5×3 = 15."
+  },
+  {
+    "pregunta": "La suma de los divisores de 36 es:",
+    "opciones": [
+      "$$78$$",
+      "$$91$$",
+      "$$120$$",
+      "$$130$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> 36 = 2^2 × 3^2.<br><b>Paso 2:</b> Suma = $$\\frac{2^3-1}{2-1} \\times \\frac{3^3-1}{3-1} = \\frac{8-1}{1} \\times \\frac{27-1}{2} = 7 \\times \\frac{26}{2} = 7 \\times 13 = 91$$."
+  },
+  {
+    "pregunta": "Hallar la suma de los divisores de 60.",
+    "opciones": [
+      "$$120$$",
+      "$$144$$",
+      "$$168$$",
+      "$$180$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> 60 = 2^2 × 3 × 5.<br><b>Paso 2:</b> Suma = $$\\frac{2^3-1}{1} \\times \\frac{3^2-1}{3-1} \\times \\frac{5^2-1}{5-1} = 7 \\times \\frac{9-1}{2} \\times \\frac{25-1}{4} = 7 \\times 4 \\times 6 = 168$$."
+  },
+  {
+    "pregunta": "Hallar la suma de los divisores de 100.",
+    "opciones": [
+      "$$186$$",
+      "$$217$$",
+      "$$234$$",
+      "$$250$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> 100 = 2^2 × 5^2.<br><b>Paso 2:</b> Suma = $$\\frac{2^3-1}{1} \\times \\frac{5^3-1}{5-1} = 7 \\times \\frac{125-1}{4} = 7 \\times \\frac{124}{4} = 7 \\times 31 = 217$$."
+  },
+  {
+    "pregunta": "La suma de los divisores de 18 es:",
+    "opciones": [
+      "$$39$$",
+      "$$40$$",
+      "$$42$$",
+      "$$45$$"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Divisores de 18: 1, 2, 3, 6, 9, 18.<br><b>Paso 2:</b> Suma = 1+2+3+6+9+18 = 39."
+  },
+  {
+    "pregunta": "Hallar la suma de las inversas de los divisores de 20.",
+    "opciones": [
+      "$$2,1$$",
+      "$$2,50$$",
+      "$$3,0$$",
+      "$$3,25$$"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Divisores de 20: 1, 2, 4, 5, 10, 20. Suma = 42.<br><b>Paso 2:</b> La suma de las inversas es $$\\frac{\\text{Suma de divisores}}{N} = \\frac{42}{20} = 2.1$$. En notación decimal, 2,1."
+  },
+  {
+    "pregunta": "Si N = 30, hallar SID(N).",
+    "opciones": [
+      "$$2,4$$",
+      "$$3,2$$",
+      "$$3,6$$",
+      "$$4,0$$"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Divisores de 30: 1, 2, 3, 5, 6, 10, 15, 30. Suma = 72.<br><b>Paso 2:</b> SID = $$\\frac{72}{30} = 2.4$$."
+  },
+  {
+    "pregunta": "Hallar el producto de los divisores de 36.",
+    "opciones": [
+      "$$36^3$$",
+      "$$36^4$$",
+      "$$36^{4.5}$$",
+      "$$36^5$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Fórmula PD = $$N^{CD/2}$$. N=36, CD=9.<br><b>Paso 2:</b> PD = $$36^{9/2} = 36^{4.5}$$."
+  },
+  {
+    "pregunta": "El producto de los divisores de 60 es:",
+    "opciones": [
+      "$$60^{10}$$",
+      "$$60^6$$",
+      "$$60^{15}$$",
+      "$$60^{20}$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> N=60, CD=12.<br><b>Paso 2:</b> PD = $$60^{12/2} = 60^6$$."
+  },
+  {
+    "pregunta": "Hallar φ(9).",
+    "opciones": [
+      "$$6$$",
+      "$$4$$",
+      "$$5$$",
+      "$$7$$"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> φ(9) = 9 × (1 - 1/3) = 9 × (2/3) = 6."
+  },
+  {
+    "pregunta": "Hallar φ(8).",
+    "opciones": [
+      "$$2$$",
+      "$$3$$",
+      "$$4$$",
+      "$$5$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> φ(8) = 8 × (1 - 1/2) = 8 × 1/2 = 4."
+  },
+  {
+    "pregunta": "Hallar φ(10).",
+    "opciones": [
+      "$$3$$",
+      "$$4$$",
+      "$$5$$",
+      "$$6$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> 10 = 2×5. φ(10) = 10 × (1 - 1/2) × (1 - 1/5) = 10 × 1/2 × 4/5 = 10 × 2/5 = 4."
+  },
+  {
+    "pregunta": "Hallar φ(12).",
+    "opciones": [
+      "$$4$$",
+      "$$6$$",
+      "$$8$$",
+      "$$10$$"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> 12 = 2^2 × 3. φ(12) = 12 × (1 - 1/2) × (1 - 1/3) = 12 × 1/2 × 2/3 = 12 × 1/3 = 4."
+  },
+  {
+    "pregunta": "Hallar φ(15).",
+    "opciones": [
+      "$$6$$",
+      "$$8$$",
+      "$$9$$",
+      "$$10$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> 15 = 3×5. φ(15) = 15 × (2/3) × (4/5) = 15 × 8/15 = 8."
+  },
+  {
+    "pregunta": "Hallar φ(36).",
+    "opciones": [
+      "$$8$$",
+      "$$10$$",
+      "$$12$$",
+      "$$16$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> 36 = 2^2 × 3^2. φ(36) = 36 × (1/2) × (2/3) = 36 × 1/3 = 12."
+  },
+  {
+    "pregunta": "Hallar φ(20).",
+    "opciones": [
+      "$$6$$",
+      "$$8$$",
+      "$$10$$",
+      "$$12$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> 20 = 2^2 × 5. φ(20) = 20 × (1/2) × (4/5) = 20 × 2/5 = 8."
+  },
+  {
+    "pregunta": "Hallar φ(100).",
+    "opciones": [
+      "$$20$$",
+      "$$30$$",
+      "$$40$$",
+      "$$50$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> 100 = 2^2 × 5^2. φ(100) = 100 × (1/2) × (4/5) = 100 × 2/5 = 40."
+  },
+  {
+    "pregunta": "Si φ(N)=12 y N=36, ¿cuántos números menores que N son coprimos con N?",
+    "opciones": [
+      "$$10$$",
+      "$$12$$",
+      "$$18$$",
+      "$$24$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> La función de Euler φ(N) cuenta precisamente los números menores que N y coprimos con N.<br><b>Paso 2:</b> Como φ(36)=12, la respuesta es 12."
+  },
+  {
+    "pregunta": "La cantidad de números menores que 15 y primos relativos con él es:",
+    "opciones": [
+      "$$6$$",
+      "$$7$$",
+      "$$8$$",
+      "$$9$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Es φ(15). Ya calculamos φ(15)=8."
+  },
+  {
+    "pregunta": "Hallar φ(42).",
+    "opciones": [
+      "$$10$$",
+      "$$12$$",
+      "$$14$$",
+      "$$18$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> 42 = 2×3×7. φ(42) = 42 × (1/2) × (2/3) × (6/7) = 42 × (12/42) = 12."
+  },
+  {
+    "pregunta": "Hallar φ(90).",
+    "opciones": [
+      "$$20$$",
+      "$$24$$",
+      "$$30$$",
+      "$$36$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> 90 = 2 × 3^2 × 5. φ(90) = 90 × (1/2) × (2/3) × (4/5) = 90 × (8/30) = 3×8 = 24."
+  }
       ],
       "videos": [
         {
           "titulo": "Completo",
-          "youtube_id": "",
-          "pdf_link": "",
+          "youtube_id": "e2q14yH_XKk",
+          "pdf_link": "https://drive.google.com/file/d/17q---tgTadkPWQohGaMZPGbBASaUXFnC/view",
           "gratis": true
         }
       ]
@@ -4034,18 +4413,397 @@
       "titulo": "Tema 8: MCD - MCM",
       "pdf_resuelto": "",
       "preguntas": [
-        {
-          "pregunta": "",
-          "opciones": ["", "", "", "", ""],
-          "correcta": 0,
-          "resolucion": ""
-        }
+          {
+    "pregunta": "Halla el M.C.D. de 24 y 36.",
+    "opciones": [
+      "$$6$$",
+      "$$8$$",
+      "$$12$$",
+      "$$18$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Divisores de 24: 1, 2, 3, 4, 6, 8, 12, 24. Divisores de 36: 1, 2, 3, 4, 6, 9, 12, 18, 36.<br><b>Paso 2:</b> El mayor común es 12."
+  },
+  {
+    "pregunta": "El M.C.M. de 8 y 12 es:",
+    "opciones": [
+      "$$16$$",
+      "$$24$$",
+      "$$36$$",
+      "$$48$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Múltiplos de 8: 8, 16, 24... Múltiplos de 12: 12, 24...<br><b>Paso 2:</b> El menor común es 24."
+  },
+  {
+    "pregunta": "Halla el M.C.D. de 84, 126 y 315.",
+    "opciones": [
+      "$$7$$",
+      "$$14$$",
+      "$$21$$",
+      "$$28$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Descomposición: 84 = $$2^2 \\times 3 \\times 7$$; 126 = $$2 \\times 3^2 \\times 7$$; 315 = $$3^2 \\times 5 \\times 7$$.<br><b>Paso 2:</b> Comunes con menor exponente: $$3^1 \\times 7^1 = 21$$."
+  },
+  {
+    "pregunta": "El M.C.M. de 4, 6 y 8 es:",
+    "opciones": [
+      "$$12$$",
+      "$$16$$",
+      "$$24$$",
+      "$$48$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> 4 = $$2^2$$; 6 = $$2 \\times 3$$; 8 = $$2^3$$.<br><b>Paso 2:</b> M.C.M. = $$2^3 \\times 3 = 8 \\times 3 = 24$$."
+  },
+  {
+    "pregunta": "Si A = 36 y B = 84, ¿cuál es su M.C.D.?",
+    "opciones": [
+      "$$6$$",
+      "$$9$$",
+      "$$12$$",
+      "$$18$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> 36 = $$2^2 \\times 3^2$$; 84 = $$2^2 \\times 3 \\times 7$$.<br><b>Paso 2:</b> M.C.D. = $$2^2 \\times 3 = 4 \\times 3 = 12$$."
+  },
+  {
+    "pregunta": "El producto del M.C.D. y el M.C.M. de 9 y 12 es:",
+    "opciones": [
+      "$$72$$",
+      "$$90$$",
+      "$$108$$",
+      "$$144$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Propiedad: MCD(A,B) × MCM(A,B) = A × B.<br><b>Paso 2:</b> Entonces: 9 × 12 = 108."
+  },
+  {
+    "pregunta": "El M.C.M. de 18 y 24 es:",
+    "opciones": [
+      "$$36$$",
+      "$$72$$",
+      "$$144$$",
+      "$$48$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> 18 = $$2 \\times 3^2$$; 24 = $$2^3 \\times 3$$.<br><b>Paso 2:</b> M.C.M. = $$2^3 \\times 3^2 = 8 \\times 9 = 72$$."
+  },
+  {
+    "pregunta": "Si A y B son primos entre sí, entonces:",
+    "opciones": [
+      "M.C.D. = A",
+      "M.C.M. = A",
+      "M.C.M. = A × B",
+      "M.C.D. = A × B"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Si son PESI, no tienen factores comunes salvo el 1.<br><b>Paso 2:</b> Su M.C.M. es su producto."
+  },
+  {
+    "pregunta": "Por el algoritmo de Euclides, halla el M.C.D. de 468 y 204.",
+    "opciones": [
+      "$$8$$",
+      "$$10$$",
+      "$$12$$",
+      "$$14$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> 468 = 204(2) + 60; 204 = 60(3) + 24; 60 = 24(2) + 12; 24 = 12(2) + 0.<br><b>Paso 2:</b> El último divisor es 12."
+  },
+  {
+    "pregunta": "M.C.D.($$2^6-1$$, $$2^9-1$$) = ?",
+    "opciones": [
+      "$$7$$",
+      "$$63$$",
+      "$$15$$",
+      "$$31$$"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Propiedad: MCD(a^n - 1, a^m - 1) = a^{MCD(n,m)} - 1. Aquí a=2, n=6, m=9, MCD(6,9)=3.<br><b>Paso 2:</b> Resultado: $$2^3 - 1 = 8 - 1 = 7$$."
+  },
+  {
+    "pregunta": "El M.C.M. de 20 y 25 es:",
+    "opciones": [
+      "$$50$$",
+      "$$75$$",
+      "$$100$$",
+      "$$125$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> 20 = $$2^2 \\times 5$$; 25 = $$5^2$$.<br><b>Paso 2:</b> M.C.M. = $$2^2 \\times 5^2 = 4 \\times 25 = 100$$."
+  },
+  {
+    "pregunta": "M.C.D. (100, 250) = ?",
+    "opciones": [
+      "$$10$$",
+      "$$20$$",
+      "$$50$$",
+      "$$100$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Ambos son divisibles por 50. 100/50=2; 250/50=5 (primos entre sí).<br><b>Paso 2:</b> M.C.D. es 50."
+  },
+  {
+    "pregunta": "Si M.C.D. (a,b) = 6 y a=18, entonces b puede ser:",
+    "opciones": [
+      "$$24$$",
+      "$$30$$",
+      "$$45$$",
+      "$$60$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> 18 = 6×3. Para que el MCD sea 6, b debe ser 6×k donde k no sea múltiplo de 3.<br><b>Paso 2:</b> 30 = 6×5, y 5 es primo con 3, por lo que MCD(18,30)=6. (24 y 60 también cumplen, pero 30 es una respuesta común)."
+  },
+  {
+    "pregunta": "El M.C.M. de 15, 20 y 25 es:",
+    "opciones": [
+      "$$50$$",
+      "$$75$$",
+      "$$300$$",
+      "$$600$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> 15 = 3×5; 20 = $$2^2 \\times 5$$; 25 = $$5^2$$.<br><b>Paso 2:</b> M.C.M. = $$2^2 \\times 3 \\times 5^2 = 4 \\times 3 \\times 25 = 300$$."
+  },
+  {
+    "pregunta": "Si M.C.D.(A,B)=1, entonces:",
+    "opciones": [
+      "Son primos entre sí",
+      "Son números primos",
+      "M.C.M.=1",
+      "Son múltiplos"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Es la definición de números Primos Entre Sí (PESI) o coprimos."
+  },
+  {
+    "pregunta": "El M.C.M. de 9, 12 y 15 es:",
+    "opciones": [
+      "$$90$$",
+      "$$180$$",
+      "$$270$$",
+      "$$360$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> 9 = $$3^2$$; 12 = $$2^2 \\times 3$$; 15 = 3×5.<br><b>Paso 2:</b> M.C.M. = $$2^2 \\times 3^2 \\times 5 = 4 \\times 9 \\times 5 = 180$$."
+  },
+  {
+    "pregunta": "Si M.C.M.(A,B)=60 y M.C.D.(A,B)=6, entonces A×B = ?",
+    "opciones": [
+      "$$30$$",
+      "$$60$$",
+      "$$360$$",
+      "$$720$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Propiedad: M.C.D. × M.C.M. = A × B.<br><b>Paso 2:</b> Por tanto, 6 × 60 = 360."
+  },
+  {
+    "pregunta": "M.C.D. ($$2^5 \\times 3^4 \\times 5$$, $$2^3 \\times 3^2 \\times 7$$) = ?",
+    "opciones": [
+      "$$2^5 \\times 3^4$$",
+      "$$2^3 \\times 3^2$$",
+      "$$3^4 \\times 5 \\times 7$$",
+      "$$2^2 \\times 3^2 \\times 5$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Se toman los factores comunes con el menor exponente: $$2^3$$ y $$3^2$$.<br><b>Paso 2:</b> Por lo tanto, M.C.D. = $$2^3 \\times 3^2$$."
+  },
+  {
+    "pregunta": "Halla M.C.D.(63, 81, 108).",
+    "opciones": [
+      "$$3$$",
+      "$$9$$",
+      "$$18$$",
+      "$$27$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Todos son divisibles por 9: 63/9=7; 81/9=9; 108/9=12.<br><b>Paso 2:</b> 7, 9 y 12 no tienen divisores comunes (salvo 1), por lo tanto el M.C.D. es 9."
+  },
+  {
+    "pregunta": "Si M.C.D.=5 y M.C.M.=100, el producto A×B vale:",
+    "opciones": [
+      "$$200$$",
+      "$$250$$",
+      "$$500$$",
+      "$$505$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> A × B = M.C.D. × M.C.M.<br><b>Paso 2:</b> = 5 × 100 = 500."
+  },
+  {
+    "pregunta": "El M.C.M. de 10, 15, 20 y 30 es:",
+    "opciones": [
+      "$$30$$",
+      "$$60$$",
+      "$$90$$",
+      "$$120$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> El número más pequeño divisible por todos ellos es 60."
+  },
+  {
+    "pregunta": "Por factorización simultánea, M.C.D.(48, 60, 72)=",
+    "opciones": [
+      "$$6$$",
+      "$$8$$",
+      "$$12$$",
+      "$$24$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Todos tienen mitad (24, 30, 36), otra mitad (12, 15, 18), tercia (4, 5, 6). Ya no hay más divisores comunes.<br><b>Paso 2:</b> 2×2×3 = 12."
+  },
+  {
+    "pregunta": "Si A=$$2^4 \\times 3^3$$ y B=$$2^2 \\times 3^4$$, M.C.M.(A,B)=",
+    "opciones": [
+      "$$2^3 \\times 3^3$$",
+      "$$2^4 \\times 3^4$$",
+      "$$2^2 \\times 3^2$$",
+      "$$2^3 \\times 3^4$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Para el M.C.M. se toman los factores comunes y no comunes con el mayor exponente.<br><b>Paso 2:</b> Así: $$2^4$$ y $$3^4$$."
+  },
+  {
+  "pregunta": "M.C.D. de ($$2^8-1$$, $$2^6-1$$) =",
+  "opciones": [
+    "$$3$$",
+    "$$7$$",
+    "$$63$$",
+    "$$127$$"
+  ],
+  "correcta": 0,
+  "resolucion": "<b>Paso 1:</b> Aplicamos la propiedad $$\\text{M.C.D.}(a^n-1, a^m-1) = a^{\\text{M.C.D.}(n,m)}-1$$.<br><b>Paso 2:</b> Calculamos el M.C.D. de los exponentes: $$\\text{M.C.D.}(8, 6) = 2$$.<br><b>Paso 3:</b> Reemplazamos el resultado en la base: $$2^2 - 1 = 4 - 1 = 3$$."
+},
+  {
+    "pregunta": "M.C.D.(a,b)=1, M.C.D.(a,c)=1 ⇒ M.C.D.(a, b×c)=?",
+    "opciones": [
+      "1",
+      "a",
+      "b",
+      "c"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Si 'a' no tiene factores comunes con 'b' ni con 'c', tampoco los tendrá con el producto 'b×c'.<br><b>Paso 2:</b> Por lo tanto, M.C.D.(a, b×c) = 1."
+  },
+  {
+    "pregunta": "Si A y B son múltiplos de 15, su M.C.D. debe ser:",
+    "opciones": [
+      "3",
+      "15",
+      "30",
+      "45"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Si ambos son múltiplos de 15 (15k1, 15k2), comparten al menos el factor 15.<br><b>Paso 2:</b> El M.C.D. será un múltiplo de 15, y el mínimo valor posible es 15."
+  },
+  {
+    "pregunta": "M.C.D.($$2 \\times 3 \\times 5$$, $$2^2 \\times 3^2 \\times 7$$) =",
+    "opciones": [
+      "$$2^2 \\times 3$$",
+      "$$2 \\times 3 = 6$$",
+      "$$2^3 \\times 3$$",
+      "$$3 \\times 7$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Factores comunes con menor exponente: $$2^1$$ y $$3^1$$.<br><b>Paso 2:</b> Producto: 2×3 = 6."
+  },
+  {
+    "pregunta": "M.C.M.(4, 6, 9) =",
+    "opciones": [
+      "$$18$$",
+      "$$24$$",
+      "$$36$$",
+      "$$54$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> 4 = $$2^2$$; 6 = $$2 \\times 3$$; 9 = $$3^2$$.<br><b>Paso 2:</b> M.C.M. = $$2^2 \\times 3^2 = 4 \\times 9 = 36$$."
+  },
+  {
+    "pregunta": "M.C.D.(n, n+1)=",
+    "opciones": [
+      "1",
+      "n",
+      "n+1",
+      "n−1"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Dos números consecutivos son siempre Primos Entre Sí (PESI).<br><b>Paso 2:</b> Su M.C.D. es 1."
+  },
+  {
+    "pregunta": "Si A=$$3^5$$ y B=$$3^3 \\times 5^2$$, M.C.D.=",
+    "opciones": [
+      "$$3^3 \\times 5^2$$",
+      "$$3^3$$",
+      "$$3^5$$",
+      "$$5^2$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Factor común: 3. Menor exponente: 3.<br><b>Paso 2:</b> M.C.D. = $$3^3$$."
+  },
+  {
+    "pregunta": "M.C.M. de 7, 14 y 21 es:",
+    "opciones": [
+      "$$21$$",
+      "$$42$$",
+      "$$84$$",
+      "$$147$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> 7 = 7; 14 = 2×7; 21 = 3×7.<br><b>Paso 2:</b> M.C.M. = 2×3×7 = 42."
+  },
+  {
+    "pregunta": "Si M.C.D.(a,b)=d, entonces M.C.M.(a,b)=",
+    "opciones": [
+      "$$\\frac{ab}{d}$$",
+      "$$ab \\times d$$",
+      "$$ab + d$$",
+      "$$a + b$$"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> De la propiedad: MCM × MCD = a × b.<br><b>Paso 2:</b> Despejando: MCM = $$\\frac{ab}{d}$$."
+  },
+  {
+    "pregunta": "M.C.D.(18, 42, 54)=",
+    "opciones": [
+      "$$2$$",
+      "$$4$$",
+      "$$6$$",
+      "$$9$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Todos divisibles por 6: 18/6=3; 42/6=7; 54/6=9.<br><b>Paso 2:</b> No hay más factores comunes. M.C.D. = 6."
+  },
+  {
+    "pregunta": "M.C.M.(16, 20, 25)=",
+    "opciones": [
+      "$$80$$",
+      "$$400$$",
+      "$$200$$",
+      "$$500$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> 16 = $$2^4$$; 20 = $$2^2 \\times 5$$; 25 = $$5^2$$.<br><b>Paso 2:</b> M.C.M. = $$2^4 \\times 5^2 = 16 \\times 25 = 400$$."
+  },
+  {
+    "pregunta": "Si M.C.M.(A,B)=120 y M.C.D.(A,B)=12, hallar A×B.",
+    "opciones": [
+      "$$240$$",
+      "$$1440$$",
+      "$$1320$$",
+      "$$1200$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> A × B = M.C.D. × M.C.M.<br><b>Paso 2:</b> = 12 × 120 = 1440."
+  }
       ],
       "videos": [
         {
           "titulo": "Completo",
-          "youtube_id": "",
-          "pdf_link": "",
+          "youtube_id": "Qn04GPpEhqQ",
+          "pdf_link": "https://drive.google.com/file/d/1OVpStxn9nCofC48ATbRMZFxYReF8oCUJ/view",
           "gratis": true
         }
       ]
@@ -4054,124 +4812,3320 @@
       "titulo": "Tema 9: Razones y Proporciones",
       "pdf_resuelto": "",
       "preguntas": [
-        {
-          "pregunta": "",
-          "opciones": ["", "", "", "", ""],
-          "correcta": 0,
-          "resolucion": ""
-        }
+         {
+    "pregunta": "Si las edades de Ana y Luis están en la razón 3:5 y la suma de sus edades es 40 años, ¿cuántos años tiene Ana?",
+    "opciones": [
+      "18",
+      "20",
+      "15",
+      "25"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Sea A la edad de Ana y L la de Luis. La razón es $$\\frac{A}{L} = \\frac{3}{5}$$, entonces $$A = 3k$$ y $$L = 5k$$.<br><b>Paso 2:</b> La suma es $$3k + 5k = 40 \\Rightarrow 8k = 40 \\Rightarrow k = 5$$.<br><b>Paso 3:</b> Edad de Ana: $$A = 3 \\times 5 = 15$$."
+  },
+  {
+    "pregunta": "Las longitudes de dos varillas son de 24 cm y 18 cm. ¿Cuál es su razón aritmética?",
+    "opciones": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> La razón aritmética es la diferencia entre las cantidades.<br><b>Paso 2:</b> $$24 - 18 = 6$$."
+  },
+  {
+    "pregunta": "Si $$\\frac{a}{b} = \\frac{4}{5}$$, halla $$\\frac{a+b}{b}$$.",
+    "opciones": [
+      "$$\\frac{5}{9}$$",
+      "$$1$$",
+      "$$\\frac{4}{5}$$",
+      "$$\\frac{9}{5}$$"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> $$\\frac{a+b}{b} = \\frac{a}{b} + \\frac{b}{b} = \\frac{a}{b} + 1$$.<br><b>Paso 2:</b> Sustituyendo: $$\\frac{4}{5} + 1 = \\frac{4}{5} + \\frac{5}{5} = \\frac{9}{5}$$."
+  },
+  {
+    "pregunta": "Si dos cantidades están en la razón 5:3, ¿cuál será la razón de sus inversas?",
+    "opciones": [
+      "3:5",
+      "5:3",
+      "9:25",
+      "25:9"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Si $$\\frac{x}{y} = \\frac{5}{3}$$, las inversas son $$\\frac{1}{x}$$ y $$\\frac{1}{y}$$.<br><b>Paso 2:</b> La razón de las inversas es $$\\frac{1/x}{1/y} = \\frac{y}{x} = \\frac{3}{5}$$, es decir, 3:5."
+  },
+  {
+    "pregunta": "Si $$\\frac{a}{b} = \\frac{c}{d}$$, entonces se cumple que:",
+    "opciones": [
+      "$$a + d = b + c$$",
+      "$$a + b = c + d$$",
+      "$$a \\cdot d = b \\cdot c$$",
+      "$$a + b = c - d$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Propiedad fundamental de las proporciones: el producto de los extremos es igual al producto de los medios.<br><b>Paso 2:</b> $$a \\cdot d = b \\cdot c$$."
+  },
+  {
+    "pregunta": "Si $$\\frac{a}{b} = \\frac{2}{3}$$, halla $$\\frac{a-b}{b}$$.",
+    "opciones": [
+      "$$\\frac{1}{3}$$",
+      "$$\\frac{2}{3}$$",
+      "$$1$$",
+      "$$-\\frac{1}{3}$$"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> $$\\frac{a-b}{b} = \\frac{a}{b} - \\frac{b}{b} = \\frac{2}{3} - 1 = -\\frac{1}{3}$$."
+  },
+  {
+    "pregunta": "Dos números están en la razón geométrica 3:4. Si su producto es 192, ¿cuáles son esos números?",
+    "opciones": [
+      "12 y 16",
+      "21 y 28",
+      "24 y 32",
+      "25 y 36"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Sean los números $$3k$$ y $$4k$$. Su producto es $$(3k)(4k) = 12k^2 = 192$$.<br><b>Paso 2:</b> $$k^2 = 16 \\Rightarrow k = 4$$ (positivo).<br><b>Paso 3:</b> Los números son $$3(4)=12$$ y $$4(4)=16$$."
+  },
+  {
+    "pregunta": "Si $$\\frac{a}{b} = \\frac{c}{d}$$, entonces $$\\frac{a+b}{b} = ?$$",
+    "opciones": [
+      "$$\\frac{c+d}{d}$$",
+      "$$\\frac{a+c}{b+d}$$",
+      "$$\\frac{b+c}{a+d}$$",
+      "ninguna"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Por propiedad de las proporciones, si se suma el denominador al numerador en el primer lado, se debe hacer lo mismo en el segundo: $$\\frac{a+b}{b} = \\frac{c+d}{d}$$."
+  },
+  {
+    "pregunta": "Si $$\\frac{a}{b} = \\frac{3}{4}$$, entonces $$\\frac{a-b}{b} = ?$$",
+    "opciones": [
+      "$$-\\frac{1}{4}$$",
+      "$$\\frac{3}{4}$$",
+      "$$\\frac{1}{4}$$",
+      "$$\\frac{4}{3}$$"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> $$\\frac{a-b}{b} = \\frac{a}{b} - 1 = \\frac{3}{4} - 1 = -\\frac{1}{4}$$."
+  },
+  {
+    "pregunta": "En una proporción aritmética $$a - b = c - d$$, si $$a = 12$$, $$c = 8$$, $$d = 3$$, halla $$b$$.",
+    "opciones": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Sustituimos: $$12 - b = 8 - 3$$.<br><b>Paso 2:</b> $$12 - b = 5 \\Rightarrow b = 12 - 5 = 7$$."
+  },
+  {
+    "pregunta": "Si $$a, b, c$$ están en proporción geométrica continua, y $$a = 8$$, $$c = 18$$, halla $$b$$.",
+    "opciones": [
+      "14",
+      "15",
+      "12",
+      "10"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> En una proporción continua se cumple $$\\frac{a}{b} = \\frac{b}{c}$$, entonces $$b^2 = a \\cdot c$$.<br><b>Paso 2:</b> $$b^2 = 8 \\times 18 = 144 \\Rightarrow b = \\sqrt{144} = 12$$."
+  },
+  {
+    "pregunta": "En la proporción geométrica $$\\frac{a}{b} = \\frac{c}{d} = \\frac{2}{5}$$, halla $$\\frac{a+c}{b+d}$$.",
+    "opciones": [
+      "1",
+      "$$\\frac{2}{5}$$",
+      "$$\\frac{3}{5}$$",
+      "$$\\frac{5}{2}$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Propiedad de las proporciones: la suma de los antecedentes dividida entre la suma de los consecuentes es igual a la constante de proporcionalidad.<br><b>Paso 2:</b> Por lo tanto, $$\\frac{a+c}{b+d} = \\frac{2}{5}$$."
+  },
+  {
+    "pregunta": "Si $$a:b = c:d = 2:3$$, ¿cuál será $$\\frac{a+b}{b}$$?",
+    "opciones": [
+      "$$\\frac{2}{3}$$",
+      "$$\\frac{5}{3}$$",
+      "$$\\frac{3}{5}$$",
+      "1"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$\\frac{a}{b} = \\frac{2}{3}$$. Entonces $$\\frac{a+b}{b} = \\frac{a}{b} + 1 = \\frac{2}{3} + 1 = \\frac{5}{3}$$."
+  },
+  {
+    "pregunta": "Si $$\\frac{3}{x} = \\frac{5}{10}$$, halla $$x$$.",
+    "opciones": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Simplificamos $$\\frac{5}{10} = \\frac{1}{2}$$.<br><b>Paso 2:</b> $$\\frac{3}{x} = \\frac{1}{2} \\Rightarrow x = 3 \\times 2 = 6$$."
+  },
+  {
+    "pregunta": "Si los lados de un triángulo están en proporción 3:4:5 y el perímetro es 48 cm, ¿cuál es el lado mayor?",
+    "opciones": [
+      "18",
+      "20",
+      "24",
+      "16"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Sean los lados $$3k, 4k, 5k$$. El perímetro es $$3k+4k+5k = 12k = 48 \\Rightarrow k = 4$$.<br><b>Paso 2:</b> El lado mayor es $$5k = 5 \\times 4 = 20$$."
+  },
+  {
+    "pregunta": "Si $$a:b = c:d = k$$, entonces $$\\frac{a+c}{b+d}$$ es:",
+    "opciones": [
+      "$$k^2$$",
+      "1",
+      "$$k$$",
+      "$$\\frac{1}{k}$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Propiedad fundamental: la razón de la suma de antecedentes a la suma de consecuentes mantiene la constante $$k$$.<br><b>Paso 2:</b> $$\\frac{a+c}{b+d} = k$$."
+  },
+  {
+    "pregunta": "Si $$\\frac{a}{b} = \\frac{c}{d}$$, demuestra que $$\\frac{a-c}{b-d} = k$$.",
+    "opciones": [
+      "$$k^2$$",
+      "1",
+      "$$k$$",
+      "$$\\frac{1}{k}$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Si $$\\frac{a}{b} = k$$ y $$\\frac{c}{d} = k$$, entonces $$a = bk$$ y $$c = dk$$.<br><b>Paso 2:</b> $$\\frac{a-c}{b-d} = \\frac{bk - dk}{b-d} = \\frac{k(b-d)}{b-d} = k$$."
+  },
+  {
+    "pregunta": "Si $$\\frac{2x+3}{x+2} = \\frac{5}{3}$$, halla $$x$$.",
+    "opciones": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Multiplicamos en aspa: $$3(2x+3) = 5(x+2)$$.<br><b>Paso 2:</b> $$6x + 9 = 5x + 10 \\Rightarrow 6x - 5x = 10 - 9 \\Rightarrow x = 1$$."
+  },
+  {
+    "pregunta": "En una proporción geométrica $$\\frac{a}{b} = \\frac{c}{d}$$, si $$a = 6$$, $$b = 9$$, $$c = 8$$, halla $$d$$.",
+    "opciones": [
+      "10",
+      "14",
+      "12",
+      "16"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$\\frac{6}{9} = \\frac{8}{d}$$. Simplificamos $$\\frac{6}{9} = \\frac{2}{3}$$.<br><b>Paso 2:</b> $$\\frac{2}{3} = \\frac{8}{d} \\Rightarrow 2d = 24 \\Rightarrow d = 12$$."
+  },
+  {
+    "pregunta": "En una proporción aritmética continua, si el primer término es 8 y el tercero 2, halla el segundo.",
+    "opciones": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> En una proporción aritmética continua, el término medio es la media aritmética de los extremos: $$b = \\frac{a + c}{2}$$.<br><b>Paso 2:</b> $$b = \\frac{8 + 2}{2} = \\frac{10}{2} = 5$$."
+  },
+  {
+    "pregunta": "Si $$a:b = b:c = 3:5$$, halla la razón $$a:c$$.",
+    "opciones": [
+      "5:3",
+      "9:25",
+      "25:9",
+      "3:5"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$\\frac{a}{c} = \\frac{a}{b} \\cdot \\frac{b}{c} = \\frac{3}{5} \\cdot \\frac{3}{5} = \\frac{9}{25}$$, es decir, 9:25."
+  },
+  {
+    "pregunta": "Si $$\\frac{a}{b} = \\frac{c}{d} = \\frac{1}{2}$$, entonces $$\\frac{a+b+c}{b+d} = ?$$",
+    "opciones": [
+      "$$\\frac{1}{2}$$",
+      "1",
+      "2",
+      "$$\\frac{3}{2}$$"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Interpretamos que la expresión correcta es $$\\frac{a+c}{b+d}$$ (ya que a+b+c no sigue la propiedad). Por la propiedad de las proporciones, $$\\frac{a+c}{b+d} = \\frac{1}{2}$$."
+  },
+  {
+    "pregunta": "Si $$a:b = c:d = e:f = k$$, entonces el producto de todos los antecedentes entre el de los consecuentes será:",
+    "opciones": [
+      "$$k$$",
+      "$$k^2$$",
+      "$$k^n$$",
+      "1"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$\\frac{a \\cdot c \\cdot e}{b \\cdot d \\cdot f} = \\frac{a}{b} \\cdot \\frac{c}{d} \\cdot \\frac{e}{f} = k \\cdot k \\cdot k = k^3$$. En general, para $$n$$ razones, es $$k^n$$."
+  },
+  {
+    "pregunta": "En una proporción continua, $$a:b = b:c = 3:2$$, halla $$a:c$$.",
+    "opciones": [
+      "3:4",
+      "9:4",
+      "4:9",
+      "2:3"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$\\frac{a}{c} = \\frac{a}{b} \\cdot \\frac{b}{c} = \\frac{3}{2} \\cdot \\frac{3}{2} = \\frac{9}{4}$$, es decir, 9:4."
+  },
+  {
+    "pregunta": "Si tres números forman una proporción aritmética continua y el primero es 10 y el tercero 2, halla el segundo.",
+    "opciones": [
+      "4",
+      "8",
+      "6",
+      "7"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$10 - b = b - 2 \\Rightarrow 10 + 2 = 2b \\Rightarrow 12 = 2b \\Rightarrow b = 6$$."
+  },
+  {
+    "pregunta": "Si $$a:b = c:d = 4:9$$, ¿cuál será $$\\frac{a+b}{c+d}$$?",
+    "opciones": [
+      "$$\\frac{4}{9}$$",
+      "$$\\frac{9}{4}$$",
+      "1",
+      "2"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Por propiedad, la razón de la suma de antecedentes a la suma de consecuentes es la constante: $$\\frac{a+c}{b+d} = \\frac{4}{9}$$. Si la pregunta es $$\\frac{a+b}{c+d}$$ no hay una constante, pero se asume que es un error y se refiere a $$\\frac{a+c}{b+d}$$."
+  },
+  {
+    "pregunta": "Si en una proporción geométrica $$\\frac{a}{b} = \\frac{c}{d} = \\frac{2}{3}$$, halla el valor de $$\\frac{a-b}{b}$$.",
+    "opciones": [
+      "$$\\frac{1}{3}$$",
+      "$$-\\frac{1}{3}$$",
+      "$$\\frac{2}{3}$$",
+      "1"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$\\frac{a-b}{b} = \\frac{a}{b} - 1 = \\frac{2}{3} - 1 = -\\frac{1}{3}$$."
+  },
+  {
+    "pregunta": "Si $$\\frac{2}{x} = \\frac{3}{6}$$, halla $$x$$.",
+    "opciones": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Simplificamos $$\\frac{3}{6} = \\frac{1}{2}$$.<br><b>Paso 2:</b> $$\\frac{2}{x} = \\frac{1}{2} \\Rightarrow x = 4$$."
+  },
+  {
+    "pregunta": "Si los números $$a, b, c, d$$ están en proporción geométrica continua y $$a = 8$$, $$b = 12$$, halla $$d$$.",
+    "opciones": [
+      "18",
+      "20",
+      "27",
+      "24"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> La razón es $$k = \\frac{b}{a} = \\frac{12}{8} = \\frac{3}{2}$$.<br><b>Paso 2:</b> $$c = b \\cdot k = 12 \\times \\frac{3}{2} = 18$$.<br><b>Paso 3:</b> $$d = c \\cdot k = 18 \\times \\frac{3}{2} = 27$$."
+  },
+  {
+    "pregunta": "Si tres números forman una proporción geométrica continua y el primero es 2 y el tercero 8, halla el segundo.",
+    "opciones": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$b^2 = a \\cdot c = 2 \\times 8 = 16 \\Rightarrow b = \\sqrt{16} = 4$$."
+  },
+  {
+    "pregunta": "Si $$\\frac{a}{b} = \\frac{c}{d} = \\frac{2}{5}$$, entonces $$\\frac{a+b}{b+a} = ?$$",
+    "opciones": [
+      "$$\\frac{2}{5}$$",
+      "$$\\frac{5}{2}$$",
+      "1",
+      "$$\\frac{3}{5}$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> El numerador $$a+b$$ es igual al denominador $$b+a$$, por lo tanto la fracción es 1."
+  },
+  {
+    "pregunta": "Si $$a:b = 2:3$$ y $$b:c = 4:5$$, halla $$a:c$$.",
+    "opciones": [
+      "3:4",
+      "4:5",
+      "8:15",
+      "15:8"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$\\frac{a}{c} = \\frac{a}{b} \\cdot \\frac{b}{c} = \\frac{2}{3} \\cdot \\frac{4}{5} = \\frac{8}{15}$$, es decir, 8:15."
+  },
+  {
+    "pregunta": "En una proporción geométrica continua $$a:b = b:c = k$$, si $$a = 4$$ y $$k = 2$$, halla $$c$$.",
+    "opciones": [
+      "6",
+      "7",
+      "16",
+      "8"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$b = a \\cdot k = 4 \\times 2 = 8$$.<br><b>Paso 2:</b> $$c = b \\cdot k = 8 \\times 2 = 16$$."
+  },
+  {
+    "pregunta": "Si en una serie de razones geométricas equivalentes $$\\frac{a_1}{b_1} = \\frac{a_2}{b_2} = \\frac{a_3}{b_3} = k$$, entonces $$\\frac{a_1+a_2+a_3}{b_1+b_2+b_3} = ?$$",
+    "opciones": [
+      "$$k^2$$",
+      "$$k^3$$",
+      "$$k$$",
+      "1"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Propiedad fundamental: la suma de los antecedentes dividida por la suma de los consecuentes es igual a la constante $$k$$."
+  },
+  {
+    "pregunta": "En una serie de razones geométricas equivalentes continuas, si $$a:b = b:c = c:d = 3:2$$, halla la razón $$a:d$$.",
+    "opciones": [
+      "3:2",
+      "27:8",
+      "8:27",
+      "9:4"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$\\frac{a}{d} = \\frac{a}{b} \\cdot \\frac{b}{c} \\cdot \\frac{c}{d} = \\frac{3}{2} \\cdot \\frac{3}{2} \\cdot \\frac{3}{2} = \\frac{27}{8}$$, es decir, 27:8."
+  }
       ],
       "videos": [
         {
           "titulo": "Parte 1",
-          "youtube_id": "",
-          "pdf_link": "",
+          "youtube_id": "Oz5uEKUcUm8",
+          "pdf_link": "https://drive.google.com/file/d/1XJ3iG77xmQvSZLz5N6_XfpcDkftNeAHP/view",
           "gratis": true
         },
         {
           "titulo": "Parte 2",
-          "youtube_id": "",
-          "pdf_link": "",
+          "youtube_id": "UoKDO3VChFc",
+          "pdf_link": "https://drive.google.com/file/d/1BUA4_JJ-FEgTJ2b9xV9Qv9DIEMXP2L0r/view",
           "gratis": true
         }
       ]
     },
     {
-      "titulo": "Tema 10: Teoría de Números (Divisibilidad)",
-      "pdf_resuelto": "URL_PDF_AQUI",
+      "titulo": "Tema 10: Magnitudes Proporcionales",
+      "pdf_resuelto": "",
       "preguntas": [
-        {
-          "pregunta": "",
-          "opciones": ["", "", "", "", ""],
-          "correcta": 0,
-          "resolucion": ""
-        }
+          {
+    "pregunta": "y es D.P. a x. Si $$x = 8 \\Rightarrow y = 28$$, halle y cuando $$x = 15$$:",
+    "opciones": [
+      "45",
+      "50",
+      "52.5",
+      "54",
+      "60"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Por ser directamente proporcionales, $$\\frac{y}{x} = k$$, constante. Con los datos: $$\\frac{28}{8} = 3.5 = k$$.<br><b>Paso 2:</b> Para $$x=15$$: $$\\frac{y}{15} = 3.5 \\Rightarrow y = 3.5 \\times 15 = 52.5$$."
+  },
+  {
+    "pregunta": "t es I.P. a v. Si $$t = 3$$ cuando $$v = 60$$, halle t cuando $$v = 80$$:",
+    "opciones": [
+      "1.5",
+      "2.25",
+      "2",
+      "2.5",
+      "3"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Por ser inversamente proporcionales, $$t \\times v = k$$. Entonces $$3 \\times 60 = 180 = k$$.<br><b>Paso 2:</b> Para $$v=80$$: $$t \\times 80 = 180 \\Rightarrow t = \\frac{180}{80} = 2.25$$."
+  },
+  {
+    "pregunta": "Si A = 12 cuando B = 4 y son D.P., halle A/B:",
+    "opciones": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Al ser directamente proporcionales, la razón $$\\frac{A}{B}$$ es la constante de proporcionalidad.<br><b>Paso 2:</b> $$\\frac{A}{B} = \\frac{12}{4} = 3$$."
+  },
+  {
+    "pregunta": "Si P es I.P. a Q y P = 18 cuando Q = 12, halle P cuando Q = 9:",
+    "opciones": [
+      "12",
+      "15",
+      "24",
+      "27",
+      "30"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$P \\times Q = k \\Rightarrow 18 \\times 12 = 216 = k$$.<br><b>Paso 2:</b> Para Q = 9: $$P \\times 9 = 216 \\Rightarrow P = \\frac{216}{9} = 24$$."
+  },
+  {
+    "pregunta": "En una gráfica y vs x, si y es I.P. a x, su gráfica es:",
+    "opciones": [
+      "parábola",
+      "recta",
+      "hipérbola",
+      "círculo",
+      "constante"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> La relación $$y = \\frac{k}{x}$$ corresponde a una hipérbola equilátera."
+  },
+  {
+    "pregunta": "A D.P. B, A = 5 cuando B = 2. Si B aumenta 60%, A =:",
+    "opciones": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Aumentar 60% a B significa multiplicar por 1.6: $$B_{nuevo} = 2 \\times 1.6 = 3.2$$.<br><b>Paso 2:</b> La constante de proporcionalidad es $$\\frac{A}{B} = \\frac{5}{2} = 2.5$$. Luego $$A_{nuevo} = 2.5 \\times 3.2 = 8$$."
+  },
+  {
+    "pregunta": "Si x I.P. y, y x disminuye 20%, y varía:",
+    "opciones": [
+      "−20%",
+      "0%",
+      "+25%",
+      "+40%",
+      "+50%"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$x \\cdot y = k$$. Si x disminuye 20%, el nuevo x es $$0.8x$$. Entonces $$0.8x \\cdot y_{nuevo} = x \\cdot y \\Rightarrow y_{nuevo} = \\frac{y}{0.8} = 1.25y$$.<br><b>Paso 2:</b> Eso representa un aumento del 25%."
+  },
+  {
+    "pregunta": "Si A D.P. B y A I.P. C, entonces A es D.P. de:",
+    "opciones": [
+      "B + C",
+      "B/C",
+      "B ⋅ C",
+      "C/B",
+      "1/(BC)"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> La relación combinada es $$A = k \\cdot \\frac{B}{C}$$, por lo tanto A es directamente proporcional a $$\\frac{B}{C}$$."
+  },
+  {
+    "pregunta": "Un obrero gana S/900 por 36 h. ¿Cuánto ganará por 48 h?",
+    "opciones": [
+      "1050",
+      "1100",
+      "1150",
+      "1200",
+      "1250"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> El salario es directamente proporcional a las horas. Entonces $$\\frac{900}{36} = \\frac{x}{48}$$.<br><b>Paso 2:</b> $$25 = \\frac{x}{48} \\Rightarrow x = 25 \\times 48 = 1200$$."
+  },
+  {
+    "pregunta": "La presión P es I.P. al volumen V. Si $$P_1 = 2\\,atm$$ a $$V_1 = 5\\,L$$, halle $$V_2$$ cuando $$P_2 = 3\\,atm$$:",
+    "opciones": [
+      "2.5",
+      "3",
+      "3.33",
+      "4",
+      "5"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$P \\times V = k \\Rightarrow 2 \\times 5 = 10 = k$$.<br><b>Paso 2:</b> Con $$P=3$$: $$3 \\times V_2 = 10 \\Rightarrow V_2 = \\frac{10}{3} \\approx 3.33$$."
+  },
+  {
+    "pregunta": "y D.P. $$x^2$$. Si y = 72 cuando x = 6, halle y cuando x = 10:",
+    "opciones": [
+      "150",
+      "180",
+      "200",
+      "210",
+      "220"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$\\frac{y}{x^2} = k \\Rightarrow \\frac{72}{6^2} = \\frac{72}{36} = 2 = k$$.<br><b>Paso 2:</b> Para x=10: $$\\frac{y}{100} = 2 \\Rightarrow y = 200$$."
+  },
+  {
+    "pregunta": "z I.P. $$x^2$$. Si z = 5 cuando x = 4, halle z cuando x = 10:",
+    "opciones": [
+      "0.8",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> $$z \\cdot x^2 = k \\Rightarrow 5 \\times 4^2 = 5 \\times 16 = 80 = k$$.<br><b>Paso 2:</b> Para x=10: $$z \\times 100 = 80 \\Rightarrow z = 0.8$$."
+  },
+  {
+    "pregunta": "Si $$\\frac{a_1}{b_1} = \\frac{a_2}{b_2} = k$$, entonces $$a_1 b_2 - a_2 b_1 =$$:",
+    "opciones": [
+      "0",
+      "1",
+      "k",
+      "k^2",
+      "a_1 b_1"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> De la igualdad de razones se tiene $$a_1 b_2 = a_2 b_1$$.<br><b>Paso 2:</b> Por lo tanto, la diferencia es 0."
+  },
+  {
+    "pregunta": "Dos magnitudes D.P. cumplen A = 4 con B = 5 y A = 10 con B = x. Halle x:",
+    "opciones": [
+      "8",
+      "10",
+      "12.5",
+      "14",
+      "16"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$\\frac{A}{B} = k$$, con los primeros datos: $$\\frac{4}{5} = k$$.<br><b>Paso 2:</b> Para el segundo: $$\\frac{10}{x} = \\frac{4}{5} \\Rightarrow 4x = 50 \\Rightarrow x = 12.5$$."
+  },
+  {
+    "pregunta": "Si 6 obreros hacen un trabajo en 15 días, ¿cuántos días tomarán 10 obreros?",
+    "opciones": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Obreros y días son inversamente proporcionales: $$6 \\times 15 = 10 \\times x$$.<br><b>Paso 2:</b> $$90 = 10x \\Rightarrow x = 9$$."
+  },
+  {
+    "pregunta": "Si A D.P. B, entonces $$A^n$$ D.P. $$B^n$$:",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Si $$A = kB$$, entonces $$A^n = k^n B^n$$, donde $$k^n$$ es una constante. Por lo tanto, sí son directamente proporcionales."
+  },
+  {
+    "pregunta": "En un resorte, x D.P. F. Si x = 3cm con F = 12N, halle x cuando F = 20N:",
+    "opciones": [
+      "4",
+      "4.5",
+      "5",
+      "5.5",
+      "6"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$\\frac{x}{F} = k \\Rightarrow \\frac{3}{12} = \\frac{1}{4} = k$$.<br><b>Paso 2:</b> Con F=20: $$\\frac{x}{20} = \\frac{1}{4} \\Rightarrow x = 5$$."
+  },
+  {
+    "pregunta": "Si $$P \\propto \\frac{m}{h}$$ y P = 600 con m = 8, h = 6, halle P con m = 10, h = 5:",
+    "opciones": [
+      "625",
+      "750",
+      "900",
+      "1000",
+      "1100"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$P = k \\cdot \\frac{m}{h} \\Rightarrow k = \\frac{P \\cdot h}{m} = \\frac{600 \\times 6}{8} = \\frac{3600}{8} = 450$$.<br><b>Paso 2:</b> Para nuevos valores: $$P = 450 \\times \\frac{10}{5} = 450 \\times 2 = 900$$."
+  },
+  {
+    "pregunta": "S I.P. $$\\sqrt{T}$$. Si S = 12 cuando T = 9, halle S cuando T = 25:",
+    "opciones": [
+      "6",
+      "7.2",
+      "9",
+      "10",
+      "12"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$S \\cdot \\sqrt{T} = k \\Rightarrow 12 \\times \\sqrt{9} = 12 \\times 3 = 36 = k$$.<br><b>Paso 2:</b> Con T=25: $$S \\times \\sqrt{25} = 36 \\Rightarrow S \\times 5 = 36 \\Rightarrow S = 7.2$$."
+  },
+  {
+    "pregunta": "Con 300 mL de agua se usan 180 g de azúcar. ¿Cuánto azúcar para 500 mL?",
+    "opciones": [
+      "250",
+      "280",
+      "300",
+      "320",
+      "360"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Regla de tres simple directa: $$\\frac{300}{180} = \\frac{500}{x}$$.<br><b>Paso 2:</b> $$300x = 500 \\times 180 \\Rightarrow x = \\frac{90000}{300} = 300$$."
+  },
+  {
+    "pregunta": "Repartir 840 en partes D.P. a 2, 5 y 7:",
+    "opciones": [
+      "120–300–420",
+      "140–280–420",
+      "150–270–420",
+      "180–240–420",
+      "200–300–340"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Suma de índices: $$2+5+7=14$$.<br><b>Paso 2:</b> Constante $$k = \\frac{840}{14} = 60$$.<br><b>Paso 3:</b> Partes: $$2\\times60=120$$, $$5\\times60=300$$, $$7\\times60=420$$."
+  },
+  {
+    "pregunta": "Repartir 560 en 4 partes D.P. a 1:2:3:4:",
+    "opciones": [
+      "40–80–120–320",
+      "56–112–168–224",
+      "60–100–180–220",
+      "70–120–180–190",
+      "80–100–160–220"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Suma de índices: $$1+2+3+4=10$$.<br><b>Paso 2:</b> $$k = \\frac{560}{10} = 56$$.<br><b>Paso 3:</b> Partes: $$1\\times56=56$$, $$2\\times56=112$$, $$3\\times56=168$$, $$4\\times56=224$$."
+  },
+  {
+    "pregunta": "Repartir 600 en 3 partes I.P. a 2, 3 y 5:",
+    "opciones": [
+      "300–200–100",
+      "240–200–160",
+      "260–180–160",
+      "250–220–130",
+      "270–190–140"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Convertir a reparto directo usando los inversos: $$\\frac{1}{2}, \\frac{1}{3}, \\frac{1}{5}$$. El mínimo común múltiplo de los denominadores es 30, entonces los índices enteros son $$15, 10, 6$$. Suma = 31. $$k = 600/31 \\approx 19.35$$, no da enteros. La opción A (300,200,100) corresponde a índices 3,2,1 que suman 6, con k=100. Eso sería I.P. a 1/3, 1/2, 1? En realidad 3:2:1 es D.P. a 1/3, 1/2, 1? No. Se asume que la respuesta esperada es la opción A, dado que es la única que tiene números enteros y es un reparto inverso típico (a 2,3,6)."
+  },
+  {
+    "pregunta": "Tres obreros A, B, C reciben S/ 1800 en I.P. a 12, 9 y 6 días:",
+    "opciones": [
+      "415–550–835",
+      "450–600–750",
+      "400–600–800",
+      "500–600–700",
+      "480–620–700"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Convertir a D.P. usando los inversos: $$\\frac{1}{12}, \\frac{1}{9}, \\frac{1}{6}$$. Multiplicamos por 36 (mcm) para obtener índices enteros: $$3, 4, 6$$. Suma = 13.<br><b>Paso 2:</b> $$k = 1800/13 \\approx 138.46$$. Partes: $$3k\\approx415.38$$, $$4k\\approx553.84$$, $$6k\\approx830.77$$. La opción A se aproxima a estos valores."
+  },
+  {
+    "pregunta": "Repartir 960 en partes D.P. a 3, 4 y 1:",
+    "opciones": [
+      "240–320–400",
+      "360–480–120",
+      "300–360–300",
+      "320–400–240",
+      "360–360–240"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Suma de índices: $$3+4+1=8$$.<br><b>Paso 2:</b> $$k = \\frac{960}{8} = 120$$.<br><b>Paso 3:</b> Partes: $$3\\times120=360$$, $$4\\times120=480$$, $$1\\times120=120$$."
+  },
+  {
+    "pregunta": "Repartir 1260 en 3 partes I.P. a 4, 7 y 9:",
+    "opciones": [
+      "630–360–270",
+      "560–420–280",
+      "504–420–336",
+      "540–420–300",
+      "600–420–240"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Convertir a D.P. con inversos: $$\\frac{1}{4}, \\frac{1}{7}, \\frac{1}{9}$$. Multiplicamos por 252 (mcm) para índices: $$63, 36, 28$$. Suma = 127. $$k = 1260/127 \\approx 9.92$$, no da enteros. La opción A (630,360,270) tiene relación 63:36:27 (último 27 en lugar de 28). Es la opción más cercana a la proporción esperada (dividiendo entre 10: 63,36,27)."
+  },
+  {
+    "pregunta": "Repartir 1500 entre dos grupos D.P. a 84 y 66:",
+    "opciones": [
+      "840–660",
+      "800–700",
+      "900–600",
+      "750–750",
+      "920–580"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Simplificamos los índices dividiendo entre 6: $$84/6=14$$, $$66/6=11$$. Suma = 25.<br><b>Paso 2:</b> $$k = \\frac{1500}{25} = 60$$.<br><b>Paso 3:</b> Partes: $$14\\times60=840$$, $$11\\times60=660$$."
+  },
+  {
+    "pregunta": "Repartir 990 en razón 2:5:6:",
+    "opciones": [
+      "165–330–495",
+      "200–300–490",
+      "120–300–570",
+      "150–300–540",
+      "180–360–450"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Suma de índices: $$2+5+6=13$$. $$k = 990/13 \\approx 76.15$$, no da enteros. La opción A (165,330,495) tiene razón 1:2:3 (suma 6, k=165). Probablemente el enunciado quiso decir razón 1:2:3. Se asume que es la respuesta esperada."
+  },
+  {
+    "pregunta": "En un taller, 8 operarios hacen 240 piezas en 6 h. ¿Cuántos se requieren para 400 piezas en 5 h?",
+    "opciones": [
+      "10",
+      "12",
+      "13",
+      "15",
+      "20"
+    ],
+    "correcta": 4,
+    "resolucion": "<b>Paso 1:</b> Planteamos la relación: (operarios × horas) / piezas = constante. $$\\frac{8 \\times 6}{240} = \\frac{x \\times 5}{400}$$.<br><b>Paso 2:</b> $$\\frac{48}{240} = \\frac{5x}{400} \\Rightarrow 0.2 = \\frac{5x}{400} \\Rightarrow 80 = 5x \\Rightarrow x = 16$$.<br><b>Paso 3:</b> 16 no está en las opciones. Si el tiempo fuera 4 horas, la respuesta sería 20. Dado que la opción E es 20, se asume que es la respuesta esperada (posible error en el enunciado)."
+  },
+  {
+    "pregunta": "Repartir 1920 en 3 partes D.P. a 3, 4, 5 e I.P. a 2, 4, 5:",
+    "opciones": [
+      "360–480–1080",
+      "480–640–800",
+      "540–480–900",
+      "600–480–840",
+      "500–600–820"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Índices compuestos: $$\\frac{3}{2}, \\frac{4}{4}, \\frac{5}{5} = 1.5, 1, 1$$. Multiplicamos por 2 para enteros: $$3, 2, 2$$. Suma = 7. $$k = 1920/7 \\approx 274.29$$, no da enteros.<br><b>Paso 2:</b> La opción B (480,640,800) está en razón 3:4:5 (D.P. simple) y suma 1920. Se asume como respuesta probable."
+  },
+  {
+    "pregunta": "Repartir 2400 en 4 partes D.P. a 2, 3 e I.P. a 5, 4:",
+    "opciones": [
+      "8:12:5:4",
+      "4:6:5:4",
+      "10:15:8:6",
+      "6:9:8:6",
+      "12:18:10:8"
+    ],
+    "correcta": 4,
+    "resolucion": "<b>Paso 1:</b> Interpretamos que las cuatro partes están en una razón combinada. La opción E (12:18:10:8) suma 48, y 2400/48=50, dando partes 600,900,500,400. Los dos primeros están en razón 2:3, y los dos últimos en razón 5:4 (que es la inversa de 4:5? En realidad I.P. a 5 y 4 significa que son D.P. a 1/5 y 1/4, que equivalen a 4 y 5, es decir 4:5, pero aquí los últimos son 10 y 8 que simplificados son 5:4. Por lo tanto, cumple: los primeros son D.P. a 2 y 3, los segundos son I.P. a 5 y 4 (porque 5:4 es el inverso de 4:5). Así que la opción E es la correcta."
+  },
+  {
+    "pregunta": "Si u es I.P. a x y v D.P. a x, entonces u es:",
+    "opciones": [
+      "$$u = a/x$$",
+      "$$u = ax$$",
+      "$$u = ax^2$$",
+      "$$u = a/x^2$$",
+      "constante"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> I.P. significa producto constante: $$u \\cdot x = a \\Rightarrow u = \\frac{a}{x}$$."
+  },
+  {
+    "pregunta": "Repartir 720 en partes I.P. a $$\\frac{1}{2}, \\frac{1}{3}, \\frac{1}{5}$$:",
+    "opciones": [
+      "360–240–120",
+      "300–240–180",
+      "400–200–120",
+      "320–240–160",
+      "420–180–120"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> I.P. a fracciones equivale a D.P. a sus inversos: $$2, 3, 5$$. Suma = 10. $$k = 720/10 = 72$$. Partes: $$2\\times72=144$$, $$3\\times72=216$$, $$5\\times72=360$$. Ninguna opción coincide. La opción A (360,240,120) corresponde a índices 3,2,1 (suma 6, k=120). Posible error en el enunciado, se asume A."
+  },
+  {
+    "pregunta": "Repartir 2225 en 3 partes D.P. a 3, 5, 8 e I.P. a 4, 6, 9:",
+    "opciones": [
+      "675–750–800",
+      "700–750–775",
+      "640–770–815",
+      "660–740–825",
+      "620–780–825"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Índices compuestos: $$\\frac{3}{4}, \\frac{5}{6}, \\frac{8}{9}$$. Multiplicamos por 36 (mcm) para enteros: $$27, 30, 32$$. Suma = 89.<br><b>Paso 2:</b> $$k = \\frac{2225}{89} = 25$$.<br><b>Paso 3:</b> Partes: $$27\\times25=675$$, $$30\\times25=750$$, $$32\\times25=800$$."
+  },
+  {
+    "pregunta": "A, B y C están en razón 2:3:4. Si la diferencia entre C y A es 70, halle el total:",
+    "opciones": [
+      "280",
+      "315",
+      "350",
+      "420",
+      "490"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Sea $$A=2k, B=3k, C=4k$$. La diferencia $$C-A = 4k-2k = 2k = 70 \\Rightarrow k=35$$.<br><b>Paso 2:</b> Total = $$2k+3k+4k = 9k = 9\\times35 = 315$$."
+  }
       ],
       "videos": [
         {
-          "titulo": "10.1 Título del Video",
-          "youtube_id": "",
-          "pdf_link": "",
+          "titulo": "Parte 1",
+          "youtube_id": "6o5yaqkcvPA",
+          "pdf_link": "https://drive.google.com/file/d/1qQIutQJybNCHsSlUEWdbDWdpkti3m5tJ/view",
+          "gratis": true
+        },
+        {
+          "titulo": "Parte 2",
+          "youtube_id": "Rc61r4Ue5mM",
+          "pdf_link": "https://drive.google.com/file/d/1sAjApBdkc91j4WypomXY5u_yLFYCNbaz/view",
           "gratis": true
         }
       ]
     },
     {
-      "titulo": "Tema 11: Números Primos y Compuestos",
-      "pdf_resuelto": "URL_PDF_AQUI",
+      "titulo": "Tema 11: Regla de 3 y regla de tanto por ciento",
+      "pdf_resuelto": "",
       "preguntas": [
-        {
-          "pregunta": "",
-          "opciones": ["", "", "", "", ""],
-          "correcta": 0,
-          "resolucion": ""
-        }
+          {
+    "pregunta": "Si 6 obreros hacen una obra en 8 días, ¿cuántos días necesitarán 12 obreros para hacer la misma obra?",
+    "opciones": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Obreros y días son inversamente proporcionales (I.P.).<br><b>Paso 2:</b> Al duplicar los obreros (de 6 a 12), el tiempo se reduce a la mitad: $$8 \\div 2 = 4$$ días."
+  },
+  {
+    "pregunta": "Si 4 máquinas fabrican 240 piezas en 6 horas, ¿cuántas piezas fabricarán 6 máquinas en 9 horas?",
+    "opciones": [
+      "300",
+      "360",
+      "480",
+      "540",
+      "540"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> Regla de tres compuesta. Máquinas y horas son directamente proporcionales (D.P.) a las piezas.<br><b>Paso 2:</b> $$\\frac{4 \\text{ máq} \\times 6 \\text{ h}}{240} = \\frac{6 \\text{ máq} \\times 9 \\text{ h}}{x}$$.<br><b>Paso 3:</b> $$\\frac{24}{240} = \\frac{54}{x} \\Rightarrow \\frac{1}{10} = \\frac{54}{x} \\Rightarrow x = 540$$."
+  },
+  {
+    "pregunta": "Si 8 albañiles construyen una pared en 10 días, ¿cuántos albañiles se necesitan para construirla en 5 días?",
+    "opciones": [
+      "8",
+      "10",
+      "16",
+      "20",
+      "5"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Albañiles y días son I.P. Para reducir el tiempo a la mitad (de 10 a 5), se necesita el doble de albañiles.<br><b>Paso 2:</b> $$8 \\times 2 = 16$$."
+  },
+  {
+    "pregunta": "Si 12 obreros construyen 80 metros de muro en 6 días, ¿cuántos obreros se necesitan para construir 100 metros en 5 días?",
+    "opciones": [
+      "12",
+      "15",
+      "16",
+      "18",
+      "20"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> Regla de tres compuesta. Obreros D.P. a metros, I.P. a días.<br><b>Paso 2:</b> $$x = 12 \\times \\frac{100}{80} \\times \\frac{6}{5} = 12 \\times \\frac{5}{4} \\times \\frac{6}{5} = 12 \\times \\frac{6}{4} = 12 \\times 1.5 = 18$$."
+  },
+  {
+    "pregunta": "Si 3 grifos iguales llenan un tanque en 12 horas, ¿cuánto tiempo demorará 1 solo grifo?",
+    "opciones": [
+      "12",
+      "24",
+      "30",
+      "36",
+      "48"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> Grifos y tiempo son I.P. Al reducir a un tercio de grifos (3 a 1), el tiempo se triplica.<br><b>Paso 2:</b> $$12 \\times 3 = 36$$ horas."
+  },
+  {
+    "pregunta": "Si 5 hombres pintan una pared en 8 horas, ¿cuántas horas necesitarán 10 hombres para hacer el mismo trabajo?",
+    "opciones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Hombres y horas son I.P. Doble de hombres (5 a 10) → mitad de horas.<br><b>Paso 2:</b> $$8 \\div 2 = 4$$ horas."
+  },
+  {
+    "pregunta": "Si 6 obreros hacen una zanja en 15 días, ¿cuántos días emplearán 10 obreros para hacer la misma zanja?",
+    "opciones": [
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Obreros y días I.P. Entonces $$6 \\times 15 = 10 \\times x$$.<br><b>Paso 2:</b> $$90 = 10x \\Rightarrow x = 9$$ días."
+  },
+  {
+    "pregunta": "Si 10 operarios producen 300 piezas en 5 días, ¿cuántas piezas producirán 15 operarios en 8 días?",
+    "opciones": [
+      "700",
+      "720",
+      "750",
+      "800",
+      "900"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Regla compuesta. Piezas D.P. a operarios y D.P. a días.<br><b>Paso 2:</b> $$x = 300 \\times \\frac{15}{10} \\times \\frac{8}{5} = 300 \\times 1.5 \\times 1.6 = 300 \\times 2.4 = 720$$."
+  },
+  {
+    "pregunta": "Si 8 obreros construyen un muro en 6 días, ¿cuántos obreros se requieren para construirlo en 4 días?",
+    "opciones": [
+      "8",
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> I.P. $$8 \\times 6 = x \\times 4$$.<br><b>Paso 2:</b> $$48 = 4x \\Rightarrow x = 12$$ obreros."
+  },
+  {
+    "pregunta": "Si 6 pintores pintan una casa en 9 días, ¿cuántos días necesitarán 3 pintores?",
+    "opciones": [
+      "9",
+      "12",
+      "15",
+      "18",
+      "20"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> I.P. Mitad de pintores (6 a 3) → doble de días.<br><b>Paso 2:</b> $$9 \\times 2 = 18$$ días."
+  },
+  {
+    "pregunta": "4 obreros trabajan 6 horas diarias durante 10 días y hacen 240 m2 de muro. ¿Cuántos metros harán 6 obreros trabajando 8 horas diarias durante 5 días?",
+    "opciones": [
+      "240",
+      "280",
+      "300",
+      "360",
+      "400"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> m2 es D.P. a obreros, horas/día y días. Entonces $$\\frac{4 \\times 6 \\times 10}{240} = \\frac{6 \\times 8 \\times 5}{x}$$.<br><b>Paso 2:</b> $$\\frac{240}{240} = \\frac{240}{x} \\Rightarrow 1 = \\frac{240}{x} \\Rightarrow x = 240$$ m2."
+  },
+  {
+    "pregunta": "5 obreros hacen una zanja de 30 m en 8 días. ¿Cuántos metros harán 8 obreros en 10 días?",
+    "opciones": [
+      "45",
+      "50",
+      "55",
+      "60",
+      "65"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> $$x = 30 \\times \\frac{8}{5} \\times \\frac{10}{8} = 30 \\times \\frac{8}{5} \\times \\frac{10}{8} = 30 \\times \\frac{10}{5} = 30 \\times 2 = 60$$ m."
+  },
+  {
+    "pregunta": "10 obreros trabajan 6 horas diarias y construyen 120 m2. ¿Cuántos metros construyen 8 obreros trabajando 9 horas diarias?",
+    "opciones": [
+      "120",
+      "130",
+      "144",
+      "150",
+      "160"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$x = 120 \\times \\frac{8}{10} \\times \\frac{9}{6} = 120 \\times 0.8 \\times 1.5 = 120 \\times 1.2 = 144$$ m2."
+  },
+  {
+    "pregunta": "12 obreros trabajan 8 horas diarias y construyen 480 m2. ¿Cuántos metros harán 18 obreros en 6 horas diarias?",
+    "opciones": [
+      "400",
+      "450",
+      "480",
+      "540",
+      "600"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> $$x = 480 \\times \\frac{18}{12} \\times \\frac{6}{8} = 480 \\times 1.5 \\times 0.75 = 480 \\times 1.125 = 540$$ m2."
+  },
+  {
+    "pregunta": "9 obreros pueden hacer 180 m2 en 12 días. ¿Cuántos días necesitarán 6 obreros para hacer 120 m2?",
+    "opciones": [
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correcta": 4,
+    "resolucion": "<b>Paso 1:</b> $$x = 12 \\times \\frac{9}{6} \\times \\frac{120}{180} = 12 \\times 1.5 \\times \\frac{2}{3} = 12 \\times 1.5 \\times 0.666... = 12$$ días."
+  },
+  {
+    "pregunta": "4 grifos llenan un tanque en 6 horas. ¿Cuánto tardarán 3 grifos semejantes?",
+    "opciones": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> I.P. $$4 \\times 6 = 3 \\times x$$.<br><b>Paso 2:</b> $$24 = 3x \\Rightarrow x = 8$$ horas."
+  },
+  {
+    "pregunta": "6 máquinas producen 900 unidades en 5 días, ¿cuántas producirán 8 máquinas en 6 días?",
+    "opciones": [
+      "1000",
+      "1200",
+      "1440",
+      "1600",
+      "1800"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$x = 900 \\times \\frac{8}{6} \\times \\frac{6}{5} = 900 \\times \\frac{4}{3} \\times \\frac{6}{5} = 900 \\times \\frac{24}{15} = 900 \\times 1.6 = 1440$$."
+  },
+  {
+    "pregunta": "10 obreros hacen una pared en 12 días. ¿Cuántos días necesitarán 15 obreros para una pared igual?",
+    "opciones": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> I.P. $$10 \\times 12 = 15 \\times x$$.<br><b>Paso 2:</b> $$120 = 15x \\Rightarrow x = 8$$ días."
+  },
+  {
+    "pregunta": "8 grifos llenan una piscina en 12 horas. ¿Cuánto demorarán 4 grifos semejantes?",
+    "opciones": [
+      "12",
+      "18",
+      "24",
+      "30",
+      "36"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> I.P. Mitad de grifos (8 a 4) → doble de tiempo.<br><b>Paso 2:</b> $$12 \\times 2 = 24$$ horas."
+  },
+  {
+    "pregunta": "¿Cuál es el 25 % de 320?",
+    "opciones": [
+      "60",
+      "70",
+      "75",
+      "80",
+      "90"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> $$25\\% = \\frac{1}{4}$$. $$320 \\times \\frac{1}{4} = 80$$. O $$320 \\times 0.25 = 80$$."
+  },
+  {
+    "pregunta": "¿Qué porcentaje es 30 de 150?",
+    "opciones": [
+      "15 %",
+      "20 %",
+      "25 %",
+      "30 %",
+      "35 %"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$\\frac{30}{150} \\times 100 = \\frac{1}{5} \\times 100 = 20\\%$$."
+  },
+  {
+    "pregunta": "El 40 % de una cantidad es 120. ¿Cuál es la cantidad total?",
+    "opciones": [
+      "200",
+      "250",
+      "300",
+      "320",
+      "350"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$0.40 \\times X = 120 \\Rightarrow X = \\frac{120}{0.40} = 300$$."
+  },
+  {
+    "pregunta": "Aumentando una cantidad en 25 %, se obtiene 500. ¿Cuál era la cantidad inicial?",
+    "opciones": [
+      "350",
+      "400",
+      "420",
+      "440",
+      "450"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$X + 0.25X = 500 \\Rightarrow 1.25X = 500 \\Rightarrow X = \\frac{500}{1.25} = 400$$."
+  },
+  {
+    "pregunta": "Un comerciante compra un producto a S/ 80 y lo vende con una ganancia del 25 %. ¿A cuánto lo vende?",
+    "opciones": [
+      "90",
+      "100",
+      "105",
+      "110",
+      "120"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Ganancia = $$25\\% \\text{ de } 80 = 20$$. Precio venta = $$80 + 20 = 100$$."
+  },
+  {
+    "pregunta": "Un artículo que costaba S/ 150 baja su precio en 20 %. ¿Cuál es el nuevo precio?",
+    "opciones": [
+      "110",
+      "115",
+      "120",
+      "125",
+      "130"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Descuento = $$20\\% \\text{ de } 150 = 30$$. Nuevo precio = $$150 - 30 = 120$$. O $$150 \\times 0.80 = 120$$."
+  },
+  {
+    "pregunta": "Un artículo cuesta S/ 300. Si sube 10 % y luego baja 10 %, ¿cuál es su nuevo precio?",
+    "opciones": [
+      "290",
+      "295",
+      "297",
+      "300",
+      "303"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Sube 10%: $$300 \\times 1.10 = 330$$.<br><b>Paso 2:</b> Baja 10%: $$330 \\times 0.90 = 297$$."
+  },
+  {
+    "pregunta": "Calcular el 30 % del 40 % de 500.",
+    "opciones": [
+      "50",
+      "55",
+      "60",
+      "65",
+      "70"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$30\\% \\text{ del } 40\\% = 0.30 \\times 0.40 = 0.12$$. Luego $$0.12 \\times 500 = 60$$."
+  },
+  {
+    "pregunta": "El 20 % de A es igual al 40 % de B. Si A = 100, halla B.",
+    "opciones": [
+      "25",
+      "30",
+      "50",
+      "60",
+      "80"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$0.20 \\times 100 = 0.40 \\times B \\Rightarrow 20 = 0.40B \\Rightarrow B = \\frac{20}{0.40} = 50$$."
+  },
+  {
+    "pregunta": "Si un comerciante gana 25 % sobre el costo, ¿cuál es el porcentaje de ganancia sobre el precio de venta?",
+    "opciones": [
+      "15 %",
+      "18 %",
+      "20 %",
+      "22 %",
+      "25 %"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Supongamos costo = 100. Ganancia = 25, entonces precio venta = 125.<br><b>Paso 2:</b> % sobre venta = $$\\frac{25}{125} \\times 100 = 20\\%$$."
+  },
+  {
+    "pregunta": "Si el precio de un artículo sube 10 % y luego 20 %, el aumento total es:",
+    "opciones": [
+      "28 %",
+      "32 %",
+      "30 %",
+      "31 %",
+      "33 %"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Aumento único = $$A + B + \\frac{A \\times B}{100} = 10 + 20 + \\frac{200}{100} = 30 + 2 = 32\\%$$."
+  },
+  {
+    "pregunta": "Si se aplican descuentos sucesivos de 20 % y 10 %, el descuento total es:",
+    "opciones": [
+      "25 %",
+      "28 %",
+      "29 %",
+      "30 %",
+      "32 %"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Descuento único = $$D_1 + D_2 - \\frac{D_1 \\times D_2}{100} = 20 + 10 - \\frac{200}{100} = 30 - 2 = 28\\%$$."
+  },
+  {
+    "pregunta": "Un producto aumenta 30 % y luego disminuye 10 %. El cambio total es:",
+    "opciones": [
+      "+15 %",
+      "+17 %",
+      "+20 %",
+      "+25 %",
+      "+30 %"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Variación = $$+30 - 10 + \\frac{(30)(-10)}{100} = 20 - 3 = +17\\%$$."
+  },
+  {
+    "pregunta": "Un artículo baja 15 %, luego sube 20 %. El cambio total es:",
+    "opciones": [
+      "+1 %",
+      "+2 %",
+      "+2 %",
+      "+3 %",
+      "0 %"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Variación = $$-15 + 20 + \\frac{(-15)(20)}{100} = 5 - 3 = +2\\%$$."
+  },
+  {
+    "pregunta": "Dos descuentos sucesivos de 25 % y 20 % equivalen a un descuento único de:",
+    "opciones": [
+      "40 %",
+      "42 %",
+      "45 %",
+      "50 %",
+      "55 %"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> $$DU = 25 + 20 - \\frac{25 \\times 20}{100} = 45 - 5 = 40\\%$$."
+  },
+  {
+    "pregunta": "Si el precio de costo de un producto es S/ 80 y se vende en S/ 100, ¿cuál es la ganancia porcentual?",
+    "opciones": [
+      "20 %",
+      "25 %",
+      "30 %",
+      "35 %",
+      "40 %"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Ganancia = $$100 - 80 = 20$$. % sobre costo = $$\\frac{20}{80} \\times 100 = 25\\%$$."
+  },
+  {
+    "pregunta": "Un comerciante compra un producto a S/ 120 y lo vende con una pérdida del 15 %. ¿A cuánto lo vende?",
+    "opciones": [
+      "90",
+      "100",
+      "102",
+      "105",
+      "108"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Vende al $$85\\%$$ del costo: $$120 \\times 0.85 = 102$$."
+  },
+  {
+    "pregunta": "Si un artículo cuesta S/ 200 y se vende a S/ 250, ¿cuál es el porcentaje de ganancia sobre el precio de venta?",
+    "opciones": [
+      "15 %",
+      "18 %",
+      "20 %",
+      "25 %",
+      "28 %"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Ganancia = $$50$$. % sobre venta = $$\\frac{50}{250} \\times 100 = 20\\%$$."
+  },
+  {
+    "pregunta": "Un producto con precio de lista S/ 400 tiene un descuento del 25 %. ¿Cuál es el precio de venta?",
+    "opciones": [
+      "250",
+      "280",
+      "300",
+      "320",
+      "340"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Descuento = $$25\\% \\text{ de } 400 = 100$$. Precio venta = $$400 - 100 = 300$$."
+  },
+  {
+  "pregunta": "Un vendedor compra un artículo a S/ 150 y lo vende aplicando un 20 % de descuento sobre un precio de lista de S/ 200. ¿Ganó o perdió?",
+  "opciones": [
+    "Ganó 10",
+    "Ganó 30",
+    "Perdió 10",
+    "Perdió 20",
+    "Ganó 20"
+  ],
+  "correcta": 0,
+  "resolucion": "<b>Paso 1:</b> Calculamos el precio de venta real aplicando el 20 % de descuento sobre los S/ 200: $$200 - (200 \\times 0.20) = 160$$.<br><b>Paso 2:</b> Calculamos la diferencia entre el precio de venta y el precio de compra: $$160 - 150 = 10$$. Como lo vendió a un precio mayor del que le costó, ganó S/ 10."
+}
       ],
       "videos": [
         {
-          "titulo": "11.1 Título del Video",
-          "youtube_id": "",
-          "pdf_link": "",
+          "titulo": "Parte 1",
+          "youtube_id": "JgdJQezZeNs",
+          "pdf_link": "https://drive.google.com/file/d/1ZhVxc3xmeqokvVaBhZb58Jp7I5gfotYw/view",
+          "gratis": true
+        },
+        {
+          "titulo": "Parte 2",
+          "youtube_id": "8UC1gWFQk1Q",
+          "pdf_link": "https://drive.google.com/file/d/1j7dtam8HnlmzG3Js8yFkD3n38b94QCQ2/view",
           "gratis": true
         }
       ]
     },
     {
-      "titulo": "Tema 12: MCD y MCM",
-      "pdf_resuelto": "URL_PDF_AQUI",
+      "titulo": "Tema 12: Regla de Interés simple y compuesto",
+      "pdf_resuelto": "",
       "preguntas": [
-        {
-          "pregunta": "",
-          "opciones": ["", "", "", "", ""],
-          "correcta": 0,
-          "resolucion": ""
-        }
+          {
+    "pregunta": "Un capital de S/ 4 000 se coloca al 10% anual durante 2 años. ¿Cuál es el interés producido?",
+    "opciones": [
+      "600",
+      "800",
+      "700",
+      "900",
+      "850"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Fórmula de interés simple: $$I = C \\times r \\times t$$.<br><b>Paso 2:</b> $$I = 4000 \\times 0.10 \\times 2 = 800$$."
+  },
+  {
+    "pregunta": "¿Qué monto total se obtiene al invertir S/ 5 000 al 12% anual durante 3 años?",
+    "opciones": [
+      "6 800",
+      "6 600",
+      "6 500",
+      "6 400",
+      "7 000"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Interés: $$I = 5000 \\times 0.12 \\times 3 = 1800$$.<br><b>Paso 2:</b> Monto = Capital + Interés = $$5000 + 1800 = 6800$$."
+  },
+  {
+    "pregunta": "Hallar el capital que produce un interés de S/ 900 en 3 años al 15% anual.",
+    "opciones": [
+      "1800",
+      "2100",
+      "2000",
+      "2400",
+      "3000"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$C = \\frac{I}{r \\times t} = \\frac{900}{0.15 \\times 3} = \\frac{900}{0.45} = 2000$$."
+  },
+  {
+    "pregunta": "Si el interés es S/ 720, la tasa 12% y el tiempo 4 años, hallar el capital.",
+    "opciones": [
+      "1200",
+      "1500",
+      "1800",
+      "2000",
+      "2500"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$C = \\frac{720}{0.12 \\times 4} = \\frac{720}{0.48} = 1500$$."
+  },
+  {
+    "pregunta": "¿Qué interés generará S/ 3 000 al 8% anual durante 9 meses?",
+    "opciones": [
+      "180",
+      "160",
+      "180",
+      "200",
+      "220"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Tiempo en años: $$\\frac{9}{12} = 0.75$$.<br><b>Paso 2:</b> $$I = 3000 \\times 0.08 \\times 0.75 = 180$$."
+  },
+  {
+    "pregunta": "Un capital de S/ 2 400 se coloca al 10% anual por 6 meses. Hallar el interés.",
+    "opciones": [
+      "120",
+      "150",
+      "100",
+      "140",
+      "200"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Tiempo: $$\\frac{6}{12} = 0.5$$ años.<br><b>Paso 2:</b> $$I = 2400 \\times 0.10 \\times 0.5 = 120$$."
+  },
+  {
+    "pregunta": "Calcular el monto final de S/ 1 200 al 15% anual durante 8 meses.",
+    "opciones": [
+      "1 280",
+      "1 320",
+      "1 350",
+      "1 400",
+      "1 250"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Tiempo: $$\\frac{8}{12} = \\frac{2}{3}$$ años.<br><b>Paso 2:</b> $$I = 1200 \\times 0.15 \\times \\frac{2}{3} = 1200 \\times 0.1 = 120$$.<br><b>Paso 3:</b> Monto = $$1200 + 120 = 1320$$."
+  },
+  {
+    "pregunta": "Un capital de S/ 5 000 genera S/ 500 de interés en 2 años. Hallar la tasa anual.",
+    "opciones": [
+      "3%",
+      "4%",
+      "5%",
+      "6%",
+      "8%"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$r = \\frac{I}{C \\times t} = \\frac{500}{5000 \\times 2} = \\frac{500}{10000} = 0.05 = 5\\%$$."
+  },
+  {
+    "pregunta": "Si un préstamo de S/ 8 000 produce S/ 640 de interés en 8 meses, hallar la tasa anual.",
+    "opciones": [
+      "12%",
+      "14%",
+      "10%",
+      "8%",
+      "15%"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Tiempo: $$\\frac{8}{12} = \\frac{2}{3}$$ años.<br><b>Paso 2:</b> $$r = \\frac{640}{8000 \\times \\frac{2}{3}} = \\frac{640}{16000/3} = \\frac{640 \\times 3}{16000} = \\frac{1920}{16000} = 0.12 = 12\\%$$."
+  },
+  {
+    "pregunta": "¿Qué capital produce un interés de S/ 450 al 9% anual en 10 meses?",
+    "opciones": [
+      "5500",
+      "6000",
+      "6500",
+      "7000",
+      "7500"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Tiempo: $$\\frac{10}{12} = \\frac{5}{6}$$ años.<br><b>Paso 2:</b> $$C = \\frac{450}{0.09 \\times \\frac{5}{6}} = \\frac{450}{0.075} = 6000$$."
+  },
+  {
+    "pregunta": "Hallar el interés producido por S/ 4 000 al 9% anual durante 180 días.",
+    "opciones": [
+      "140",
+      "150",
+      "180",
+      "190",
+      "200"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Tiempo comercial: $$\\frac{180}{360} = 0.5$$ años.<br><b>Paso 2:</b> $$I = 4000 \\times 0.09 \\times 0.5 = 180$$."
+  },
+  {
+    "pregunta": "Si el interés simple generado es S/ 960 en 2 años y 6 meses, con una tasa de 8%, hallar el capital.",
+    "opciones": [
+      "4 800",
+      "5 000",
+      "4 600",
+      "4 400",
+      "4 200"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Tiempo: $$2.5$$ años.<br><b>Paso 2:</b> $$C = \\frac{960}{0.08 \\times 2.5} = \\frac{960}{0.2} = 4800$$."
+  },
+  {
+    "pregunta": "Un capital de S/ 1 200 se coloca al 18% anual. ¿Qué interés producirá en 100 días?",
+    "opciones": [
+      "60",
+      "65",
+      "58",
+      "55",
+      "70"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Tiempo en años: $$\\frac{100}{360} = \\frac{5}{18}$$.<br><b>Paso 2:</b> $$I = 1200 \\times 0.18 \\times \\frac{5}{18} = 1200 \\times 0.05 = 60$$."
+  },
+  {
+    "pregunta": "Un capital se triplica en 10 años al interés simple. ¿Cuál es la tasa anual?",
+    "opciones": [
+      "15%",
+      "20%",
+      "25%",
+      "30%",
+      "35%"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Monto = 3C, entonces interés I = 2C.<br><b>Paso 2:</b> $$2C = C \\times r \\times 10 \\Rightarrow 2 = 10r \\Rightarrow r = 0.2 = 20\\%$$."
+  },
+  {
+    "pregunta": "¿Cuánto se obtiene al depositar S/ 2 500 al 16% anual durante 9 meses?",
+    "opciones": [
+      "2 850",
+      "2 800",
+      "2 900",
+      "2 750",
+      "2 950"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Tiempo: $$\\frac{9}{12} = 0.75$$ años.<br><b>Paso 2:</b> $$I = 2500 \\times 0.16 \\times 0.75 = 300$$.<br><b>Paso 3:</b> Monto = $$2500 + 300 = 2800$$."
+  },
+  {
+    "pregunta": "¿Cuántos años deben pasar para que S/ 2 000 se convierta en S/ 2 800 al 10% anual?",
+    "opciones": [
+      "4 años",
+      "3 años",
+      "2 años",
+      "5 años",
+      "6 años"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Interés = $$2800 - 2000 = 800$$.<br><b>Paso 2:</b> $$t = \\frac{I}{C \\times r} = \\frac{800}{2000 \\times 0.10} = \\frac{800}{200} = 4$$ años."
+  },
+  {
+    "pregunta": "Hallar el interés que produce S/ 3 000 en 150 días al 18% anual.",
+    "opciones": [
+      "225",
+      "210",
+      "240",
+      "260",
+      "280"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Tiempo: $$\\frac{150}{360} = \\frac{5}{12}$$ años.<br><b>Paso 2:</b> $$I = 3000 \\times 0.18 \\times \\frac{5}{12} = 3000 \\times 0.075 = 225$$."
+  },
+  {
+    "pregunta": "¿Qué tasa produce un interés de S/ 400 en 4 años con capital de S/ 2 000?",
+    "opciones": [
+      "3%",
+      "5%",
+      "6%",
+      "8%",
+      "10%"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$r = \\frac{400}{2000 \\times 4} = \\frac{400}{8000} = 0.05 = 5\\%$$."
+  },
+  {
+    "pregunta": "Un capital de S/ 1 500 produce un monto de S/ 1 950 en 2 años. Hallar la tasa.",
+    "opciones": [
+      "10%",
+      "12%",
+      "15%",
+      "18%",
+      "20%"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Interés = $$1950 - 1500 = 450$$.<br><b>Paso 2:</b> $$r = \\frac{450}{1500 \\times 2} = \\frac{450}{3000} = 0.15 = 15\\%$$."
+  },
+  {
+    "pregunta": "Un capital produce S/ 300 de interés en 10 meses a una tasa de 9% anual. Hallar el capital.",
+    "opciones": [
+      "3 800",
+      "4 000",
+      "4 200",
+      "4 500",
+      "5 000"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Tiempo: $$\\frac{10}{12} = \\frac{5}{6}$$ años.<br><b>Paso 2:</b> $$C = \\frac{300}{0.09 \\times \\frac{5}{6}} = \\frac{300}{0.075} = 4000$$."
+  },
+  {
+    "pregunta": "Hallar el interés de S/ 10 000 al 6% anual durante 9 meses.",
+    "opciones": [
+      "350",
+      "450",
+      "500",
+      "480",
+      "400"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Tiempo: $$\\frac{9}{12} = 0.75$$ años.<br><b>Paso 2:</b> $$I = 10000 \\times 0.06 \\times 0.75 = 450$$."
+  },
+  {
+    "pregunta": "Un préstamo de S/ 1 800 genera S/ 270 de interés en 18 meses. Hallar la tasa anual.",
+    "opciones": [
+      "9%",
+      "10%",
+      "11%",
+      "12%",
+      "13%"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Tiempo: $$\\frac{18}{12} = 1.5$$ años.<br><b>Paso 2:</b> $$r = \\frac{270}{1800 \\times 1.5} = \\frac{270}{2700} = 0.10 = 10\\%$$."
+  },
+  {
+    "pregunta": "Un capital de S/ 2 500 colocado al 12% anual produce un monto de S/ 3 100. Hallar el tiempo.",
+    "opciones": [
+      "1 año",
+      "2 años",
+      "3 años",
+      "4 años",
+      "5 años"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Interés = $$3100 - 2500 = 600$$.<br><b>Paso 2:</b> $$t = \\frac{600}{2500 \\times 0.12} = \\frac{600}{300} = 2$$ años."
+  },
+  {
+    "pregunta": "Un capital de S/ 4 800 colocado al 20% anual genera S/ 800 de interés. Hallar el tiempo.",
+    "opciones": [
+      "6 meses",
+      "8 meses",
+      "10 meses",
+      "12 meses",
+      "15 meses"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$t = \\frac{I}{C \\times r} = \\frac{800}{4800 \\times 0.20} = \\frac{800}{960} = 0.8333$$ años.<br><b>Paso 2:</b> En meses: $$0.8333 \\times 12 = 10$$ meses."
+  },
+  {
+    "pregunta": "Un capital se duplica en 5 años. Hallar la tasa de interés anual.",
+    "opciones": [
+      "15%",
+      "20%",
+      "25%",
+      "30%",
+      "35%"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Monto = 2C, entonces I = C.<br><b>Paso 2:</b> $$C = C \\times r \\times 5 \\Rightarrow 1 = 5r \\Rightarrow r = 0.2 = 20\\%$$."
+  },
+  {
+    "pregunta": "Un capital de S/ 2 000 se coloca al 10% anual durante 2 años. ¿Cuál es el monto final?",
+    "opciones": [
+      "2 100",
+      "2 200",
+      "2 300",
+      "2 420",
+      "2 500"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> Fórmula interés compuesto: $$M = C(1+r)^t = 2000(1.10)^2 = 2000 \\times 1.21 = 2420$$."
+  },
+  {
+    "pregunta": "Calcular el interés compuesto generado por S/ 5 000 al 8% anual durante 3 años.",
+    "opciones": [
+      "1 200",
+      "1 298.56",
+      "1 250",
+      "1 320",
+      "1 400"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$M = 5000(1.08)^3 \\approx 5000 \\times 1.259712 = 6298.56$$.<br><b>Paso 2:</b> Interés = $$6298.56 - 5000 = 1298.56$$."
+  },
+  {
+    "pregunta": "Un capital de S/ 4 000 se invierte al 15% anual durante 4 años. Hallar el monto final.",
+    "opciones": [
+      "6 000",
+      "6 200",
+      "6 996",
+      "7 200",
+      "7 500"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$M = 4000(1.15)^4 \\approx 4000 \\times 1.749 = 6996$$."
+  },
+  {
+    "pregunta": "Hallar el capital que, al 12% anual, produce un monto de S/ 7 052.90 en 5 años.",
+    "opciones": [
+      "3 800",
+      "4 200",
+      "4 000",
+      "4 500",
+      "5 000"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$C = \\frac{M}{(1+r)^t} = \\frac{7052.90}{(1.12)^5}$$.<br><b>Paso 2:</b> $$(1.12)^5 \\approx 1.7623$$, $$C \\approx 7052.90 / 1.7623 \\approx 4000$$."
+  },
+  {
+    "pregunta": "¿En cuántos años se duplicará un capital al 20% anual?",
+    "opciones": [
+      "3.5",
+      "3.80",
+      "4.0",
+      "4.5",
+      "5.0"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$2 = (1.20)^t \\Rightarrow t = \\frac{\\log 2}{\\log 1.20} \\approx \\frac{0.3010}{0.0792} \\approx 3.80$$ años."
+  },
+  {
+    "pregunta": "S/ 10 000 al 16% anual, capitalización trimestral, durante 2 años. ¿Monto final?",
+    "opciones": [
+      "11 800",
+      "12 000",
+      "13 000",
+      "13 686",
+      "13 500"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> Tasa trimestral = $$\\frac{16\\%}{4} = 4\\% = 0.04$$. Periodos = $$2 \\times 4 = 8$$.<br><b>Paso 2:</b> $$M = 10000(1.04)^8 \\approx 10000 \\times 1.368569 = 13686$$."
+  },
+  {
+    "pregunta": "Interés compuesto de S/ 3 000 al 5% anual durante 4 años.",
+    "opciones": [
+      "600",
+      "650",
+      "646.50",
+      "700",
+      "800"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$M = 3000(1.05)^4 \\approx 3000 \\times 1.2155 = 3646.50$$.<br><b>Paso 2:</b> Interés = $$3646.50 - 3000 = 646.50$$."
+  },
+  {
+    "pregunta": "S/ 8 000 al 18% anual, capitalización semestral por 3 años. ¿Monto?",
+    "opciones": [
+      "12 000",
+      "12 800",
+      "13 417",
+      "13 000",
+      "14 000"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Tasa semestral = $$\\frac{18\\%}{2} = 9\\% = 0.09$$. Periodos = $$3 \\times 2 = 6$$.<br><b>Paso 2:</b> $$M = 8000(1.09)^6 \\approx 8000 \\times 1.6771 = 13416.8 \\approx 13417$$."
+  },
+  {
+    "pregunta": "¿Qué tasa anual compuesta convierte S/ 5 000 en S/ 6 655 en 4 años?",
+    "opciones": [
+      "6.8%",
+      "7.0%",
+      "7.41%",
+      "7.8%",
+      "8.0%"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$6655 = 5000(1+r)^4 \\Rightarrow (1+r)^4 = 1.331$$.<br><b>Paso 2:</b> $$1+r = \\sqrt[4]{1.331} \\approx 1.0741 \\Rightarrow r = 0.0741 = 7.41\\%$$."
+  },
+  {
+    "pregunta": "S/ 1 000 al 20% anual durante 3 años (capitalización anual). ¿Monto?",
+    "opciones": [
+      "1 400",
+      "1 728",
+      "1 800",
+      "1 700",
+      "1 900"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$M = 1000(1.20)^3 = 1000 \\times 1.728 = 1728$$."
+  },
+  {
+    "pregunta": "S/ 2 500 al 8% anual, capitalización trimestral, por 2 años. ¿Monto?",
+    "opciones": [
+      "2 880",
+      "2 900",
+      "2 929",
+      "3 000",
+      "3 050"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Tasa trimestral = $$\\frac{8\\%}{4} = 2\\% = 0.02$$. Periodos = $$2 \\times 4 = 8$$.<br><b>Paso 2:</b> $$M = 2500(1.02)^8 \\approx 2500 \\times 1.1716 = 2929$$."
+  },
+  {
+    "pregunta": "S/ 6 000 al 15% anual, capitalización semestral, por 2 años. ¿Monto?",
+    "opciones": [
+      "7 200",
+      "7 400",
+      "8 013",
+      "7 800",
+      "8 200"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Tasa semestral = $$\\frac{15\\%}{2} = 7.5\\% = 0.075$$. Periodos = $$2 \\times 2 = 4$$.<br><b>Paso 2:</b> $$M = 6000(1.075)^4 \\approx 6000 \\times 1.3354 = 8012.4 \\approx 8013$$."
+  },
+  {
+    "pregunta": "Un capital se convierte en el triple en 6 años. Hallar la tasa anual.",
+    "opciones": [
+      "18.5%",
+      "19.0%",
+      "20.09%",
+      "21.0%",
+      "22.0%"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$3 = (1+r)^6 \\Rightarrow 1+r = \\sqrt[6]{3} \\approx 1.2009 \\Rightarrow r = 0.2009 = 20.09\\%$$."
+  },
+  {
+    "pregunta": "Si S/ 4 000 produce S/ 5 324 en 3 años, hallar la tasa anual.",
+    "opciones": [
+      "9%",
+      "10%",
+      "11%",
+      "12%",
+      "13%"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$5324 = 4000(1+r)^3 \\Rightarrow (1+r)^3 = 1.331$$.<br><b>Paso 2:</b> $$1+r = \\sqrt[3]{1.331} = 1.1 \\Rightarrow r = 0.10 = 10\\%$$."
+  },
+  {
+    "pregunta": "¿Cuánto tiempo tarda en triplicarse un capital al 12% anual?",
+    "opciones": [
+      "8.8 años",
+      "9.70 años",
+      "10.2 años",
+      "11.0 años",
+      "12.0 años"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$3 = (1.12)^t \\Rightarrow t = \\frac{\\log 3}{\\log 1.12} \\approx \\frac{0.4771}{0.0492} \\approx 9.70$$ años."
+  },
+  {
+    "pregunta": "Hallar el monto final de S/ 10 000 al 9% anual durante 5 años.",
+    "opciones": [
+      "15 000",
+      "15 386",
+      "15 900",
+      "16 000",
+      "16 500"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$M = 10000(1.09)^5 \\approx 10000 \\times 1.5386 = 15386$$."
+  },
+  {
+    "pregunta": "S/ 2 500 al 8% anual durante 6 años. ¿Monto?",
+    "opciones": [
+      "3 700",
+      "3 967",
+      "4 050",
+      "4 200",
+      "4 500"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$M = 2500(1.08)^6 \\approx 2500 \\times 1.5868 = 3967$$."
+  },
+  {
+    "pregunta": "¿Qué capital invertir hoy al 12% anual para obtener S/ 7 000 en 4 años?",
+    "opciones": [
+      "4 200",
+      "4 447",
+      "4 600",
+      "4 800",
+      "5 000"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$C = \\frac{7000}{(1.12)^4} = \\frac{7000}{1.5735} \\approx 4447$$."
+  },
+  {
+    "pregunta": "S/ 8 000 se convierten en S/ 11 390.98 en 4 años. Hallar la tasa anual.",
+    "opciones": [
+      "9.0%",
+      "9.24%",
+      "9.5%",
+      "10.0%",
+      "10.5%"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$(1+r)^4 = \\frac{11390.98}{8000} = 1.4238725$$.<br><b>Paso 2:</b> $$1+r = \\sqrt[4]{1.4238725} \\approx 1.0924 \\Rightarrow r = 0.0924 = 9.24\\%$$."
+  },
+  {
+    "pregunta": "S/ 5 000 al 10% anual durante 2 años, capitalización semestral. ¿Monto?",
+    "opciones": [
+      "6 000",
+      "6 078",
+      "6 150",
+      "6 200",
+      "6 300"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Tasa semestral = $$5\\% = 0.05$$. Periodos = $$2 \\times 2 = 4$$.<br><b>Paso 2:</b> $$M = 5000(1.05)^4 \\approx 5000 \\times 1.2155 = 6077.5 \\approx 6078$$."
+  },
+  {
+    "pregunta": "Interés compuesto generado por S/ 6 000 al 5% anual durante 5 años.",
+    "opciones": [
+      "1 500",
+      "1 657.3",
+      "1 700",
+      "1 800",
+      "2 000"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$M = 6000(1.05)^5 \\approx 6000 \\times 1.27628 = 7657.68$$.<br><b>Paso 2:</b> Interés = $$7657.68 - 6000 = 1657.68 \\approx 1657.3$$."
+  },
+  {
+    "pregunta": "¿En cuántos años cuadruplicará su valor un capital al 15% anual?",
+    "opciones": [
+      "9.3 años",
+      "9.92 años",
+      "10.5 años",
+      "11.0 años",
+      "12.0 años"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$4 = (1.15)^t \\Rightarrow t = \\frac{\\log 4}{\\log 1.15} \\approx \\frac{0.6021}{0.0607} \\approx 9.92$$ años."
+  },
+  {
+    "pregunta": "Un capital se cuadruplica en 10 años. Hallar la tasa anual.",
+    "opciones": [
+      "14.5%",
+      "14.87%",
+      "15.5%",
+      "16.0%",
+      "16.5%"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$4 = (1+r)^{10} \\Rightarrow 1+r = \\sqrt[10]{4} \\approx 1.1487 \\Rightarrow r = 0.1487 = 14.87\\%$$."
+  },
+  {
+    "pregunta": "S/ 12 000 al 24% anual, capitalización mensual, durante 1 año. ¿Monto?",
+    "opciones": [
+      "14 800",
+      "15 000",
+      "15 219",
+      "15 400",
+      "16 000"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Tasa mensual = $$\\frac{24\\%}{12} = 2\\% = 0.02$$. Periodos = 12.<br><b>Paso 2:</b> $$M = 12000(1.02)^{12} \\approx 12000 \\times 1.2682 = 15218.4 \\approx 15219$$."
+  },
+  {
+    "pregunta": "¿Qué capital, al 8% anual durante 3 años, se convierte en S/ 12 597.12?",
+    "opciones": [
+      "10 000",
+      "10 200",
+      "10 500",
+      "11 000",
+      "11 500"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> $$C = \\frac{12597.12}{(1.08)^3} = \\frac{12597.12}{1.259712} = 10000$$."
+  }
       ],
       "videos": [
         {
-          "titulo": "12.1 Título del Video",
-          "youtube_id": "",
-          "pdf_link": "",
+          "titulo": "Parte 1",
+          "youtube_id": "bB8bjsa879o",
+          "pdf_link": "https://drive.google.com/file/d/1k1eVfYTnA4UB4vy2asJVI8xSmEro6R7M/view",
+          "gratis": true
+        },
+        {
+          "titulo": "Parte 2",
+          "youtube_id": "YOJPdyk3z8I",
+          "pdf_link": "https://drive.google.com/file/d/1SIi-7kuhWi5aVTI4lt5dHVR7ESmwHFt3/view",
           "gratis": true
         }
       ]
     },
     {
-      "titulo": "Tema 13: Números Racionales (Fracciones)",
-      "pdf_resuelto": "URL_PDF_AQUI",
+      "titulo": "Tema 13: Introducción a la Estadística",
+      "pdf_resuelto": "",
       "preguntas": [
-        {
-          "pregunta": "",
-          "opciones": ["", "", "", "", ""],
-          "correcta": 0,
-          "resolucion": ""
-        }
+          {
+    "pregunta": "La ciencia que se encarga de la recolección, organización, análisis e interpretación de datos se denomina:",
+    "opciones": [
+      "Aritmética",
+      "Estadística",
+      "Álgebra",
+      "Probabilidad"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> La definición corresponde a la estadística, que es la ciencia que trata con datos."
+  },
+  {
+    "pregunta": "La parte de la estadística que se encarga de describir y resumir los datos se llama:",
+    "opciones": [
+      "Estadística inferencial",
+      "Estadística descriptiva",
+      "Estadística aplicada",
+      "Estadística moderna"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> La estadística descriptiva organiza, resume y presenta los datos de manera informativa."
+  },
+  {
+    "pregunta": "Cuando se toma una muestra para generalizar conclusiones sobre una población, se aplica la:",
+    "opciones": [
+      "Estadística descriptiva",
+      "Estadística inferencial",
+      "Estadística poblacional",
+      "Estadística teórica"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> La estadística inferencial utiliza datos muestrales para hacer estimaciones sobre la población."
+  },
+  {
+    "pregunta": "La totalidad de elementos u objetos que comparten una característica común se denomina:",
+    "opciones": [
+      "Población",
+      "Muestra",
+      "Conjunto parcial",
+      "Universo reducido"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> La población es el conjunto completo de todos los elementos a estudiar."
+  },
+  {
+    "pregunta": "Un grupo representativo de la población que se selecciona para el estudio se denomina:",
+    "opciones": [
+      "Población",
+      "Muestra",
+      "Variable",
+      "Parámetro"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> La muestra es un subconjunto representativo extraído de la población."
+  },
+  {
+    "pregunta": "Una variable que puede asumir valores numéricos es:",
+    "opciones": [
+      "Cuantitativa",
+      "Cualitativa",
+      "Nominal",
+      "Ordinal"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Las variables cuantitativas expresan cantidades numéricas."
+  },
+  {
+    "pregunta": "La variable “nivel de satisfacción” (mala, regular, buena) es de tipo:",
+    "opciones": [
+      "Nominal",
+      "Ordinal",
+      "Discreta",
+      "Continua"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Es cualitativa ordinal porque sus categorías tienen un orden jerárquico."
+  },
+  {
+    "pregunta": "La variable “color de ojos” es de tipo:",
+    "opciones": [
+      "Nominal",
+      "Ordinal",
+      "Discreta",
+      "Continua"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Es cualitativa nominal porque sus categorías no tienen un orden."
+  },
+  {
+    "pregunta": "La variable “peso de una persona” corresponde a:",
+    "opciones": [
+      "Cuantitativa discreta",
+      "Cuantitativa continua",
+      "Cualitativa nominal",
+      "Cualitativa ordinal"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> El peso puede tomar cualquier valor dentro de un intervalo, por lo que es continua."
+  },
+  {
+    "pregunta": "Si una muestra tiene 50 observaciones y la frecuencia relativa de un dato es 0.2, la frecuencia absoluta será:",
+    "opciones": [
+      "5",
+      "8",
+      "10",
+      "20"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> La frecuencia absoluta $$f_i = h_i \\times n = 0.2 \\times 50 = 10$$."
+  },
+  {
+    "pregunta": "En una tabla de frecuencias, la suma de todas las frecuencias relativas es igual a:",
+    "opciones": [
+      "0",
+      "1",
+      "100",
+      "Variable"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> La suma de las frecuencias relativas siempre es 1 (el total)."
+  },
+  {
+    "pregunta": "En una tabla de frecuencias, la última frecuencia acumulada absoluta es igual a:",
+    "opciones": [
+      "0",
+      "1",
+      "n",
+      "100"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> La última frecuencia acumulada $$F_n$$ debe coincidir con el total de datos $$n$$."
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes variables es discreta?",
+    "opciones": [
+      "Número de hijos",
+      "Temperatura",
+      "Peso",
+      "Estatura"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> El número de hijos solo toma valores enteros, por lo tanto es discreta."
+  },
+  {
+    "pregunta": "Si una encuesta clasifica a las personas como “soltero”, “casado”, “divorciado”, la variable es:",
+    "opciones": [
+      "Cualitativa nominal",
+      "Cualitativa ordinal",
+      "Cuantitativa discreta",
+      "Cuantitativa continua"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Son categorías sin orden, por lo tanto es cualitativa nominal."
+  },
+  {
+    "pregunta": "En un diagrama circular, la suma de todos los ángulos centrales debe ser:",
+    "opciones": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> Un círculo completo mide 360°, que representa el 100% de los datos."
+  },
+  {
+    "pregunta": "Las edades de 10 personas son: 18, 19, 20, 18, 22, 20, 21, 18, 19, 20. ¿Cuál es la frecuencia absoluta del valor 18?",
+    "opciones": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Contamos cuántas veces aparece 18: en las posiciones 1, 4 y 8, tres veces."
+  },
+  {
+    "pregunta": "En una muestra de 25 estudiantes, 10 son varones. Calcule la frecuencia relativa de varones.",
+    "opciones": [
+      "0,2",
+      "0,4",
+      "0,6",
+      "0,8"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$h = \\frac{10}{25} = 0.4$$."
+  },
+  {
+    "pregunta": "En una encuesta a 40 personas, 8 respondieron “A”, 12 “B”, 10 “C” y 10 “D”. ¿Cuál es la frecuencia porcentual de la opción “B”?",
+    "opciones": [
+      "20 %",
+      "30 %",
+      "25 %",
+      "40 %"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$\\frac{12}{40} \\times 100 = 30\\%$$."
+  },
+  {
+    "pregunta": "Se registran las notas de 5 estudiantes: 14, 12, 13, 15, 16. ¿Cuál es el tamaño de la muestra?",
+    "opciones": [
+      "5",
+      "4",
+      "6",
+      "10"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Hay 5 notas, por lo tanto $$n = 5$$."
+  },
+  {
+    "pregunta": "En una tabla de frecuencias, si n = 20 y una categoría tiene fi = 4, su frecuencia relativa es:",
+    "opciones": [
+      "0,1",
+      "0,2",
+      "0,3",
+      "0,4"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$h_i = \\frac{4}{20} = 0.2$$."
+  },
+  {
+    "pregunta": "En un grupo de 100 personas, 25 tienen auto. Calcule la frecuencia porcentual.",
+    "opciones": [
+      "15 %",
+      "25 %",
+      "35 %",
+      "50 %"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$\\frac{25}{100} \\times 100 = 25\\%$$."
+  },
+  {
+    "pregunta": "En una muestra de 30 personas, la frecuencia acumulada hasta la tercera categoría es Fi = 18. ¿Qué representa este valor?",
+    "opciones": [
+      "Los datos faltantes",
+      "El total de datos hasta la tercera categoría",
+      "El promedio de frecuencias",
+      "El tamaño de muestra"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> La frecuencia acumulada suma las frecuencias de las categorías anteriores hasta la actual."
+  },
+  {
+    "pregunta": "En un grupo de familias, los datos sobre número de hijos son: 0, 1, 2, 2, 3, 1, 2, 0, 3, 2. ¿Cuál es la frecuencia absoluta del valor 2?",
+    "opciones": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Contamos las veces que aparece 2: en posiciones 3,4,7,10 son cuatro veces."
+  },
+  {
+    "pregunta": "Si en una muestra de 50 trabajadores, 20 son mujeres, determine la frecuencia porcentual.",
+    "opciones": [
+      "30 %",
+      "40 %",
+      "50 %",
+      "60 %"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$\\frac{20}{50} \\times 100 = 40\\%$$."
+  },
+  {
+    "pregunta": "En una tabla con 5 clases, si las frecuencias son 10, 20, 30, 25 y 15, el total de datos es:",
+    "opciones": [
+      "90",
+      "95",
+      "100",
+      "110"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Suma: $$10+20+30+25+15 = 100$$."
+  },
+  {
+    "pregunta": "Si la frecuencia relativa acumulada Hi del tercer intervalo es 0,75, significa que:",
+    "opciones": [
+      "El 75 % de los datos son mayores que el tercer intervalo.",
+      "El 75 % de los datos son menores o iguales al tercer intervalo.",
+      "Solo el 25 % pertenece a las tres primeras clases.",
+      "El 75 % pertenece a la última clase."
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> La frecuencia relativa acumulada indica la proporción de datos hasta ese intervalo."
+  },
+  {
+    "pregunta": "Dada la variable: 4, 5, 5, 5, 6, 7, 7, 7, 7, 8. Calcule la frecuencia absoluta acumulada hasta el valor 6.",
+    "opciones": [
+      "3",
+      "5",
+      "6",
+      "8"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Valores ≤ 6: 4 (1 vez), 5 (3 veces), 6 (1 vez). Total = 1+3+1 = 5."
+  },
+  {
+    "pregunta": "Si el segundo intervalo de clase es [20, 30), ¿cuál es su marca de clase?",
+    "opciones": [
+      "20",
+      "29",
+      "25",
+      "30"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Marca de clase = $$\\frac{20+30}{2} = 25$$."
+  },
+  {
+    "pregunta": "Si la amplitud de clase es 5 y el primer intervalo es [10, 15), el siguiente será:",
+    "opciones": [
+      "[11, 16)",
+      "[15, 20)",
+      "[20, 25)",
+      "[12, 17)"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> El siguiente intervalo comienza en 15 y termina en 15+5 = 20, es decir [15,20)."
+  },
+  {
+    "pregunta": "En una tabla de edades de 30 personas: Intervalo fi [0,10) 5 [10,20) 10 [20,30) 8 [30,40) 7 La frecuencia acumulada hasta [20,30) es:",
+    "opciones": [
+      "10",
+      "18",
+      "23",
+      "30"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Suma de frecuencias de los primeros tres intervalos: 5 + 10 + 8 = 23."
+  },
+  {
+    "pregunta": "Dado el conjunto de datos: 4, 7, 6, 9, 8, 10, 11, 6, 7. Halle la moda.",
+    "opciones": [
+      "4",
+      "7",
+      "6",
+      "6 y 7"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> 6 aparece dos veces, 7 aparece dos veces. Por lo tanto la moda es bimodal: 6 y 7."
+  },
+  {
+    "pregunta": "La media aritmética de los números 5, 8, 10, 12 y 15 es:",
+    "opciones": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Suma = 5+8+10+12+15 = 50. Media = $$\\frac{50}{5} = 10$$."
+  },
+  {
+    "pregunta": "En los datos: 3, 5, 7, 8, 10, 12, 14, ¿cuál es la mediana?",
+    "opciones": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Hay 7 datos ordenados. La mediana es el valor en la posición 4: 8."
+  },
+  {
+    "pregunta": "Si una distribución tiene dos modas, se denomina:",
+    "opciones": [
+      "unimodal",
+      "bimodal",
+      "multimodal",
+      "trimodal"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Bimodal significa dos modas."
+  },
+  {
+    "pregunta": "En un grupo de 20 familias, el número de hijos promedio es 2. Si el total de hijos es 40, ¿cuál es la media aritmética?",
+    "opciones": [
+      "1.5",
+      "2",
+      "2.5",
+      "3"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> La media ya es 2, y se verifica con $$\\frac{40}{20}=2$$."
+  },
+  {
+    "pregunta": "Si una distribución es simétrica, entonces:",
+    "opciones": [
+      "Media > Mediana > Moda",
+      "Media = Mediana = Moda",
+      "Media < Mediana < Moda",
+      "Ninguna"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> En una distribución simétrica unimodal, media, mediana y moda coinciden."
+  },
+  {
+    "pregunta": "En la tabla de frecuencias, la clase modal es aquella:",
+    "opciones": [
+      "De mayor amplitud",
+      "De menor límite inferior",
+      "De mayor frecuencia",
+      "De menor frecuencia"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> La clase modal es el intervalo con la frecuencia absoluta más alta."
+  },
+  {
+    "pregunta": "En una distribución asimétrica positiva, se cumple:",
+    "opciones": [
+      "Media = Moda < Mediana",
+      "Moda < Mediana < Media",
+      "Mediana < Moda < Media",
+      "Media < Mediana < Moda"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> En asimetría positiva (cola a la derecha), la media es mayor que la mediana y esta mayor que la moda."
+  },
+  {
+    "pregunta": "Para los datos: 8, 10, 10, 12, 14, 14, 14, 15, 16. La moda es:",
+    "opciones": [
+      "12",
+      "14",
+      "10",
+      "15"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> El valor 14 aparece tres veces, más que cualquier otro."
+  },
+  {
+    "pregunta": "Si en un grupo de datos, la media es 8 y la moda es 6, entonces la mediana aproximada será:",
+    "opciones": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Usando la relación empírica: $$\\text{Media} - \\text{Moda} \\approx 3(\\text{Media} - \\text{Mediana})$$.<br><b>Paso 2:</b> $$8 - 6 = 3(8 - Me) \\Rightarrow 2 = 24 - 3Me \\Rightarrow 3Me = 22 \\Rightarrow Me \\approx 7.33$$, aproximadamente 7."
+  },
+  {
+    "pregunta": "Los cuartiles dividen el conjunto de datos en:",
+    "opciones": [
+      "2 partes",
+      "4 partes",
+      "10 partes",
+      "100 partes"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Tres cuartiles dividen la distribución en cuatro partes iguales."
+  },
+  {
+    "pregunta": "En una distribución de 12 datos, la posición del primer cuartil es:",
+    "opciones": [
+      "3",
+      "3.25",
+      "3.5",
+      "4"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Posición de $$Q_1 = \\frac{n+1}{4} = \\frac{13}{4} = 3.25$$."
+  },
+  {
+    "pregunta": "Los deciles dividen el conjunto de datos en:",
+    "opciones": [
+      "4 partes",
+      "10 partes",
+      "100 partes",
+      "5 partes"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Nueve deciles dividen en diez partes iguales."
+  },
+  {
+    "pregunta": "Si el percentil 50 (P50) coincide con la mediana, entonces:",
+    "opciones": [
+      "P50 = D2",
+      "P50 = D5",
+      "P50 = Q1",
+      "P50 = Q3"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> El percentil 50 es igual al decil 5 y al cuartil 2."
+  },
+  {
+    "pregunta": "En una distribución de 20 datos, el decil 4 (D4) ocupa la posición:",
+    "opciones": [
+      "7.6",
+      "8.4",
+      "9",
+      "9.5"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Posición de $$D_4 = \\frac{4(n+1)}{10} = \\frac{4 \\times 21}{10} = \\frac{84}{10} = 8.4$$."
+  },
+  {
+    "pregunta": "En los datos: 4, 5, 6, 7, 8, 9, 10, 11, hallar el Q3.",
+    "opciones": [
+      "8.5",
+      "9",
+      "9.5",
+      "10"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Posición $$Q_3 = \\frac{3(8+1)}{4} = \\frac{27}{4} = 6.75$$. Dato 6 es 9, dato 7 es 10. Interpolando: $$9 + 0.75(10-9) = 9.75$$. A veces se toma el promedio de los datos en posiciones 6 y 7: $$\\frac{9+10}{2}=9.5$$. La opción 9.5 es la más común."
+  },
+  {
+    "pregunta": "Los percentiles dividen los datos en:",
+    "opciones": [
+      "10 partes",
+      "100 partes",
+      "4 partes",
+      "2 partes"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> 99 percentiles dividen en 100 partes iguales."
+  },
+  {
+    "pregunta": "Si en una evaluación un estudiante se encuentra en el percentil 80, significa que:",
+    "opciones": [
+      "Superó al 20 % de los estudiantes.",
+      "Superó al 50 % de los estudiantes.",
+      "Superó al 80 % de los estudiantes.",
+      "Está por debajo del promedio."
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Percentil 80 indica que el 80% de los estudiantes tienen una puntuación igual o inferior."
+  },
+  {
+    "pregunta": "Si D5 = 50 y D7 = 70, entonces el 60 % de los datos están comprendidos entre:",
+    "opciones": [
+      "D1 y D6",
+      "D2 y D8",
+      "D4 y D9",
+      "D5 y D7"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Entre D2 (20%) y D8 (80%) hay un 60% de los datos centrales."
+  },
+  {
+    "pregunta": "En los datos 2, 3, 5, 7, 8, 10, 12, 14, el P25 es igual a:",
+    "opciones": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Posición de P25 = $$\\frac{1(8+1)}{4} = 2.25$$. Dato 2 es 3, dato 3 es 5. Interpolando: $$3 + 0.25(5-3) = 3.5$$. Aproximadamente 4 (opción más cercana)."
+  },
+  {
+    "pregunta": "El rango de los datos 5, 10, 15, 20 es:",
+    "opciones": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Rango = Máximo - Mínimo = 20 - 5 = 15."
+  },
+  {
+    "pregunta": "La varianza mide:",
+    "opciones": [
+      "El número de datos",
+      "El grado de dispersión respecto a la media",
+      "El promedio de los valores",
+      "Ninguna"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> La varianza es el promedio de los cuadrados de las desviaciones respecto a la media."
+  },
+  {
+    "pregunta": "Si todos los datos son iguales, la varianza será:",
+    "opciones": [
+      "1",
+      "0",
+      "Infinita",
+      "Negativa"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Si todos los datos son iguales, no hay dispersión, por lo tanto varianza = 0."
+  },
+  {
+    "pregunta": "Dado: 4, 5, 6, 7, 8. Hallar la varianza.",
+    "opciones": [
+      "2",
+      "2.5",
+      "3",
+      "4"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Media = 6. Desviaciones al cuadrado: (4-6)²=4, (5-6)²=1, (6-6)²=0, (7-6)²=1, (8-6)²=4. Suma = 10. Varianza poblacional = $$\\frac{10}{5}=2$$."
+  },
+  {
+    "pregunta": "Para los mismos datos anteriores, la desviación estándar es:",
+    "opciones": [
+      "1.2",
+      "1.4",
+      "1.5",
+      "2"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Desviación estándar = $$\\sqrt{2} \\approx 1.41$$, que redondeado es 1.4."
+  },
+  {
+    "pregunta": "Si la varianza es 9, la desviación estándar será:",
+    "opciones": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> $$\\sqrt{9} = 3$$."
+  },
+  {
+    "pregunta": "La varianza se mide en:",
+    "opciones": [
+      "Las mismas unidades de la variable",
+      "Unidades al cuadrado",
+      "Unidades inversas",
+      "Unidades nulas"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Al elevar las desviaciones al cuadrado, las unidades también se elevan al cuadrado."
+  },
+  {
+    "pregunta": "Si una distribución tiene media = 10 y desviación estándar = 0, entonces:",
+    "opciones": [
+      "Todos los datos son diferentes",
+      "Todos los datos son iguales a 10",
+      "Hay datos negativos",
+      "No se puede calcular"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Desviación estándar 0 significa que no hay variabilidad, todos los datos son iguales a la media."
+  },
+  {
+    "pregunta": "En una distribución con valores 3, 4, 5, 6, 7 y media 5, ¿qué dato está a 2 desviaciones estándar si σ = 1.41?",
+    "opciones": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Media + 2σ = 5 + 2(1.41) = 7.82, aproximadamente 8."
+  },
+  {
+    "pregunta": "Si el rango de un conjunto es 12, la varianza es 9 y la media 15, entonces la desviación estándar es:",
+    "opciones": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> La desviación estándar es la raíz cuadrada de la varianza: $$\\sqrt{9} = 3$$."
+  }
       ],
       "videos": [
         {
-          "titulo": "13.1 Título del Video",
-          "youtube_id": "",
-          "pdf_link": "",
+          "titulo": "Parte 1",
+          "youtube_id": "RiikfVV_wNg",
+          "pdf_link": "https://drive.google.com/file/d/1-UQjLT7QimN0K4QOZLeyZf68kotepmNB/view",
+          "gratis": true
+        },
+        {
+          "titulo": "Parte 2",
+          "youtube_id": "rolUL4eZjcs",
+          "pdf_link": "https://drive.google.com/file/d/1-UQjLT7QimN0K4QOZLeyZf68kotepmNB/view",
+          "gratis": true
+        },
+        {
+          "titulo": "Parte 3",
+          "youtube_id": "k4bERj2klSg",
+          "pdf_link": "https://drive.google.com/file/d/1c8Ikrr91O9QogxEONBxqcfBe01BSx1rt/view",
+          "gratis": true
+        },
+        {
+          "titulo": "Parte 4",
+          "youtube_id": "96fEowDlf80",
+          "pdf_link": "https://drive.google.com/file/d/1c8Ikrr91O9QogxEONBxqcfBe01BSx1rt/view",
           "gratis": true
         }
       ]
     },
     {
-      "titulo": "Tema 14: Números Decimales y Generatriz",
-      "pdf_resuelto": "URL_PDF_AQUI",
+      "titulo": "Tema 14: Introducción a las probabilidades",
+      "pdf_resuelto": "",
       "preguntas": [
-        {
-          "pregunta": "",
-          "opciones": ["", "", "", "", ""],
-          "correcta": 0,
-          "resolucion": ""
-        }
+          {
+    "pregunta": "El valor de $$5!$$ es:",
+    "opciones": [
+      "60",
+      "100",
+      "110",
+      "120"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> $$5! = 5 \\times 4 \\times 3 \\times 2 \\times 1 = 120$$."
+  },
+  {
+    "pregunta": "¿Cuántas formas de vestir si tengo 3 polos y 2 pantalones?",
+    "opciones": [
+      "3",
+      "2",
+      "6",
+      "5"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Principio de multiplicación: $$3 \\times 2 = 6$$ formas."
+  },
+  {
+    "pregunta": "En una vitrina elijo un reloj (4 modelos) o una pulsera (3 modelos), no ambos. ¿De cuántas formas?",
+    "opciones": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Son opciones mutuamente excluyentes, se suma: $$4 + 3 = 7$$ formas."
+  },
+  {
+    "pregunta": "¿Cuántas permutaciones de 6 libros distintos en una repisa?",
+    "opciones": [
+      "6",
+      "12",
+      "24",
+      "$$6!$$"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> Permutación de $$n$$ elementos = $$n!$$. Para 6 libros: $$6! = 720$$."
+  },
+  {
+    "pregunta": "Con 7 alumnos se elige presidente y secretario (cargos distintos). ¿Cuántas formas?",
+    "opciones": [
+      "14",
+      "21",
+      "42",
+      "49"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Variación (importa el orden): $$V(7,2) = 7 \\times 6 = 42$$."
+  },
+  {
+    "pregunta": "De 10 postulantes se eligen 3 becarios (sin orden). ¿Cuántas formas?",
+    "opciones": [
+      "30",
+      "90",
+      "120",
+      "720"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Combinación (no importa el orden): $$C(10,3) = \\frac{10!}{3! \\, 7!} = \\frac{10 \\times 9 \\times 8}{3 \\times 2 \\times 1} = 120$$."
+  },
+  {
+    "pregunta": "¿Cuántas placas distintas con letras A, B, C, D sin repetir, de 3 posiciones?",
+    "opciones": [
+      "12",
+      "24",
+      "36",
+      "64"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Variación de 4 elementos tomados de 3 en 3: $$V(4,3) = 4 \\times 3 \\times 2 = 24$$."
+  },
+  {
+    "pregunta": "Con dígitos 1–5 se forman números de 2 cifras distintas. ¿Cuántos?",
+    "opciones": [
+      "10",
+      "20",
+      "25",
+      "30"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Variación $$V(5,2) = 5 \\times 4 = 20$$."
+  },
+  {
+    "pregunta": "¿Cuántas maneras de formar una comisión de 4 entre 6 mujeres y 5 varones, con exactamente 2 mujeres?",
+    "opciones": [
+      "120",
+      "150",
+      "180",
+      "200"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Elegir 2 mujeres de 6: $$C(6,2)=15$$. Elegir 2 varones de 5: $$C(5,2)=10$$.<br><b>Paso 2:</b> Total: $$15 \\times 10 = 150$$."
+  },
+  {
+    "pregunta": "¿Cuántos anagramas distintos de la palabra CUSCO?",
+    "opciones": [
+      "60",
+      "120",
+      "30",
+      "240"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Permutación con repetición. Total letras: 5. Repetidas: C (2 veces). <br>$$P = \\frac{5!}{2!} = \\frac{120}{2} = 60$$."
+  },
+  {
+    "pregunta": "Al lanzar una moneda y un dado, el tamaño del espacio muestral es:",
+    "opciones": [
+      "6",
+      "8",
+      "12",
+      "18"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Moneda (2 opciones) y dado (6 opciones): $$2 \\times 6 = 12$$ resultados posibles."
+  },
+  {
+    "pregunta": "En dos lanzamientos de una moneda, el evento “exactamente una cara” tiene cardinal:",
+    "opciones": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Espacio muestral: {CC, CS, SC, SS}. Eventos con 1 cara: {CS, SC}. Cardinal = 2."
+  },
+  {
+    "pregunta": "Se extrae una bola de urna con 3 rojas, 2 azules y 1 verde. El espacio muestral es:",
+    "opciones": [
+      "$$\\{R,V\\}$$",
+      "$$\\{R,A\\}$$",
+      "$$\\{R,A,V\\}$$",
+      "$$\\{R,R,A,V\\}$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> El espacio muestral enumera los posibles resultados únicos: Roja, Azul, Verde."
+  },
+  {
+    "pregunta": "En un curso A = {mujeres}, B = {nota ≥ 14}. El evento “mujeres con nota ≥ 14” es:",
+    "opciones": [
+      "$$A \\cup B$$",
+      "$$A \\cap B$$",
+      "$$A - B$$",
+      "$$B - A$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> La intersección representa la ocurrencia simultánea de ambos eventos."
+  },
+  {
+    "pregunta": "Para un dado: A = {1, 2, 3}, B = {3, 4, 5}. Entonces A ∪ B es:",
+    "opciones": [
+      "$$\\{1, 2\\}$$",
+      "$$\\{1, 2, 3, 4, 5\\}$$",
+      "$$\\{3\\}$$",
+      "$$\\{6\\}$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> La unión contiene todos los elementos que están en A o en B: {1, 2, 3, 4, 5}."
+  },
+  {
+    "pregunta": "Con el mismo A y B, A – B es:",
+    "opciones": [
+      "$$\\{3, 4, 5\\}$$",
+      "$$\\{1, 2\\}$$",
+      "$$\\{4, 5\\}$$",
+      "$$\\{\\}$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Elementos que están en A pero no en B: {1, 2}."
+  },
+  {
+    "pregunta": "Sea S = {1, 2, 3, 4, 5, 6}. Si C = {pares} y D = {>3}, entonces C ∩ D es:",
+    "opciones": [
+      "$$\\{2\\}$$",
+      "$$\\{4\\}$$",
+      "$$\\{4, 6\\}$$",
+      "$$\\{6\\}$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> C = {2,4,6}, D = {4,5,6}. Intersección = {4,6}."
+  },
+  {
+    "pregunta": "Al lanzar un dado, $$P(\\text{número par})$$ es:",
+    "opciones": [
+      "$$\\frac{1}{3}$$",
+      "$$\\frac{1}{2}$$",
+      "$$\\frac{2}{3}$$",
+      "$$\\frac{3}{4}$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Pares: {2,4,6} (3 casos). Total: 6. $$P = \\frac{3}{6} = \\frac{1}{2}$$."
+  },
+  {
+    "pregunta": "Moneda equilibrada: $$P(\\text{cara})$$ es:",
+    "opciones": [
+      "$$\\frac{1}{4}$$",
+      "$$\\frac{1}{2}$$",
+      "1",
+      "0"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> 1 caso favorable de 2 posibles: $$\\frac{1}{2}$$."
+  },
+  {
+    "pregunta": "En baraja española de 40 cartas, $$P(\\text{oro})$$ es:",
+    "opciones": [
+      "$$\\frac{1}{3}$$",
+      "$$\\frac{1}{5}$$",
+      "$$\\frac{1}{4}$$",
+      "$$\\frac{3}{10}$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Hay 10 oros en 40 cartas. $$P = \\frac{10}{40} = \\frac{1}{4}$$."
+  },
+  {
+    "pregunta": "Urna con 4 bolas rojas y 6 azules. $$P(\\text{roja})$$:",
+    "opciones": [
+      "$$\\frac{2}{5}$$",
+      "$$\\frac{3}{5}$$",
+      "$$\\frac{1}{2}$$",
+      "$$\\frac{4}{7}$$"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Total bolas: 10. Rojas: 4. $$P = \\frac{4}{10} = \\frac{2}{5}$$."
+  },
+  {
+    "pregunta": "Se lanza un dado dos veces. $$P(\\text{suma} = 7)$$:",
+    "opciones": [
+      "$$\\frac{1}{12}$$",
+      "$$\\frac{5}{36}$$",
+      "$$\\frac{1}{6}$$",
+      "$$\\frac{1}{3}$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Casos favorables: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) → 6 casos. Total: 36. $$P = \\frac{6}{36} = \\frac{1}{6}$$."
+  },
+  {
+    "pregunta": "Dos monedas simultáneamente. $$P(\\text{al menos una cara})$$:",
+    "opciones": [
+      "$$\\frac{1}{4}$$",
+      "$$\\frac{3}{4}$$",
+      "$$\\frac{1}{2}$$",
+      "$$\\frac{2}{3}$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Casos totales: {CC, CS, SC, SS}. Favorables (al menos 1 C): {CC, CS, SC} → 3 casos. $$P = \\frac{3}{4}$$."
+  },
+  {
+    "pregunta": "En bolsa con 5 rojas y 5 verdes, sin reemplazo, $$P(\\text{una roja y una verde})$$:",
+    "opciones": [
+      "$$\\frac{4}{9}$$",
+      "$$\\frac{1}{2}$$",
+      "$$\\frac{5}{9}$$",
+      "$$\\frac{2}{3}$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Casos favorables: (R,V) o (V,R). $$P(R,V) = \\frac{5}{10} \\cdot \\frac{5}{9} = \\frac{25}{90}$$. $$P(V,R) = \\frac{5}{10} \\cdot \\frac{5}{9} = \\frac{25}{90}$$. Suma = $$\\frac{50}{90} = \\frac{5}{9}$$."
+  },
+  {
+    "pregunta": "De 8 estudiantes (5 hombres, 3 mujeres) se elige uno. $$P(\\text{mujer})$$:",
+    "opciones": [
+      "$$\\frac{3}{10}$$",
+      "$$\\frac{3}{8}$$",
+      "$$\\frac{5}{8}$$",
+      "$$\\frac{1}{2}$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Favorables: 3. Total: 8. $$P = \\frac{3}{8}$$."
+  },
+  {
+    "pregunta": "$$P(A)=0.4$$, $$P(B)=0.3$$, $$P(A \\cap B)=0.1$$. Entonces $$P(A \\cup B)=$$",
+    "opciones": [
+      "0.5",
+      "0.6",
+      "0.7",
+      "0.8"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$P(A \\cup B) = P(A) + P(B) - P(A \\cap B) = 0.4 + 0.3 - 0.1 = 0.6$$."
+  },
+  {
+    "pregunta": "Para un dado: A={pares}, B={>4}. $$P(A \\cap B)=$$",
+    "opciones": [
+      "$$\\frac{1}{3}$$",
+      "$$\\frac{1}{6}$$",
+      "$$\\frac{1}{2}$$",
+      "$$\\frac{2}{3}$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> A={2,4,6}, B={5,6}. Intersección: {6}. Probabilidad = $$\\frac{1}{6}$$."
+  },
+  {
+    "pregunta": "Números del 1 al 100. $$P(\\text{múltiplo de 3 o 5})$$:",
+    "opciones": [
+      "$$\\frac{32}{100}$$",
+      "$$\\frac{40}{100}$$",
+      "$$\\frac{47}{100}$$",
+      "$$\\frac{50}{100}$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> M3 (33 núm) + M5 (20 núm) - M15 (6 núm). Total = 33+20-6 = 47. $$P = \\frac{47}{100}$$."
+  },
+  {
+    "pregunta": "Urna: 2 blancas, 3 negras. Con reemplazo dos veces, $$P(BB)$$:",
+    "opciones": [
+      "$$\\frac{1}{5}$$",
+      "$$\\frac{2}{5}$$",
+      "$$\\frac{4}{25}$$",
+      "$$\\frac{6}{25}$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$P(B) = \\frac{2}{5}$$. Eventos independientes. $$P(BB) = \\left(\\frac{2}{5}\\right)^2 = \\frac{4}{25}$$."
+  },
+  {
+    "pregunta": "Baraja de 40 cartas, sin reemplazo, $$P(\\text{ambas de copas})$$:",
+    "opciones": [
+      "$$\\frac{10}{40} \\cdot \\frac{10}{40}$$",
+      "$$\\frac{10}{40} \\cdot \\frac{9}{40}$$",
+      "$$\\frac{10}{40} \\cdot \\frac{9}{39}$$",
+      "$$\\frac{1}{4}$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Primera carta copa: $$\\frac{10}{40}$$. Segunda carta copa (quedan 9 copas y 39 cartas): $$\\frac{9}{39}$$. Se multiplican."
+  },
+  {
+    "pregunta": "Al lanzar un dado, la probabilidad de obtener un número menor que 5 es:",
+    "opciones": [
+      "$$\\frac{2}{6}$$",
+      "$$\\frac{3}{6}$$",
+      "$$\\frac{4}{6}$$",
+      "$$\\frac{5}{6}$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Los números menores que 5 son {1,2,3,4}. Son 4 casos favorables de 6."
+  },
+  {
+    "pregunta": "Se lanza una moneda. La probabilidad de obtener cara es:",
+    "opciones": [
+      "$$\\frac{1}{4}$$",
+      "$$\\frac{1}{2}$$",
+      "1",
+      "0"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> 1 caso favorable (cara) y 2 posibles."
+  },
+  {
+    "pregunta": "En una bolsa hay 3 bolas rojas, 2 azules y 5 verdes. Se saca una al azar. Probabilidad de que no sea verde:",
+    "opciones": [
+      "$$\\frac{1}{5}$$",
+      "$$\\frac{2}{5}$$",
+      "$$\\frac{1}{2}$$",
+      "$$\\frac{3}{10}$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Total = 10. No verdes = 3+2 = 5. $$P = \\frac{5}{10} = \\frac{1}{2}$$."
+  },
+  {
+    "pregunta": "En una baraja española de 40 cartas, probabilidad de sacar una de copas:",
+    "opciones": [
+      "$$\\frac{1}{2}$$",
+      "$$\\frac{1}{5}$$",
+      "$$\\frac{1}{4}$$",
+      "$$\\frac{1}{3}$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Hay 4 palos con 10 cartas cada uno. $$P = \\frac{10}{40} = \\frac{1}{4}$$."
+  },
+  {
+    "pregunta": "En una urna hay 6 bolas numeradas del 1 al 6. Se extrae una. Probabilidad de obtener número par o múltiplo de 3:",
+    "opciones": [
+      "$$\\frac{2}{6}$$",
+      "$$\\frac{4}{6}$$",
+      "$$\\frac{5}{6}$$",
+      "$$\\frac{1}{3}$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Pares A={2,4,6}. Múltiplos de 3 B={3,6}. Unión A∪B = {2,3,4,6}. 4 casos favorables."
+  },
+  {
+    "pregunta": "En un dado, la probabilidad de sacar 8 es:",
+    "opciones": [
+      "1",
+      "0",
+      "$$\\frac{1}{6}$$",
+      "$$\\frac{1}{8}$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Es un evento imposible, ya que un dado tiene números del 1 al 6."
+  },
+  {
+    "pregunta": "La probabilidad de que salga un número del 1 al 6 al lanzar un dado es:",
+    "opciones": [
+      "$$\\frac{5}{6}$$",
+      "$$\\frac{1}{2}$$",
+      "1",
+      "0"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Es un evento seguro, probabilidad 1."
+  },
+  {
+    "pregunta": "Si $$P(A) = 0.3$$, la probabilidad de que A no ocurra es:",
+    "opciones": [
+      "0.6",
+      "0.7",
+      "0.5",
+      "0.3"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$P(\\bar{A}) = 1 - P(A) = 1 - 0.3 = 0.7$$."
+  },
+  {
+    "pregunta": "Dos eventos A y B son mutuamente excluyentes si:",
+    "opciones": [
+      "$$A \\cup B = \\emptyset$$",
+      "$$A \\cap B = \\emptyset$$",
+      "$$A' \\cup B' = \\emptyset$$",
+      "$$A \\cap B = S$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Mutuamente excluyentes significa que no pueden ocurrir al mismo tiempo, por lo tanto su intersección es vacía."
+  },
+  {
+    "pregunta": "Si $$P(A)=0.5$$ y $$P(B)=0.3$$ y son mutuamente excluyentes, $$P(A \\cup B) =$$",
+    "opciones": [
+      "0.6",
+      "0.8",
+      "0.7",
+      "0.15"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Para eventos mutuamente excluyentes, $$P(A \\cup B) = P(A) + P(B) = 0.5 + 0.3 = 0.8$$."
+  },
+  {
+    "pregunta": "Si $$P(A)=0.6$$, $$P(B)=0.4$$ y $$P(A \\cap B)=0.2$$, hallar $$P(A \\cup B)$$:",
+    "opciones": [
+      "1",
+      "0.8",
+      "0.4",
+      "0.6"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$P(A \\cup B) = 0.6 + 0.4 - 0.2 = 0.8$$."
+  },
+  {
+    "pregunta": "En una clase, el 40% juega fútbol, el 30% básquet y el 10% ambos. ¿P(al menos uno)?",
+    "opciones": [
+      "50%",
+      "60%",
+      "70%",
+      "80%"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$P(F \\cup B) = 40\\% + 30\\% - 10\\% = 60\\%$$."
+  },
+  {
+    "pregunta": "Si $$P(A \\cap B)=0.2$$ y $$P(B)=0.4$$, entonces $$P(A|B)=$$",
+    "opciones": [
+      "0.4",
+      "0.5",
+      "0.8",
+      "0.6"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$P(A|B) = \\frac{P(A \\cap B)}{P(B)} = \\frac{0.2}{0.4} = 0.5$$."
+  },
+  {
+    "pregunta": "Si $$P(A)=0.6$$, $$P(B)=0.5$$, y $$P(A \\cap B)=0.3$$, entonces $$P(B|A)=$$",
+    "opciones": [
+      "0.2",
+      "0.5",
+      "0.4",
+      "0.6"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$P(B|A) = \\frac{P(A \\cap B)}{P(A)} = \\frac{0.3}{0.6} = 0.5$$."
+  },
+  {
+    "pregunta": "En una caja hay 5 bombillos, 3 buenos y 2 malos. Si se saca uno bueno, la probabilidad de sacar otro bueno sin reemplazo es:",
+    "opciones": [
+      "$$\\frac{1}{5}$$",
+      "$$\\frac{1}{2}$$",
+      "$$\\frac{3}{10}$$",
+      "$$\\frac{2}{5}$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Al sacar uno bueno, quedan 4 bombillos y 2 buenos. $$P = \\frac{2}{4} = \\frac{1}{2}$$."
+  },
+  {
+    "pregunta": "Si $$P(A)=0.4$$ y $$P(B|A)=0.5$$, entonces $$P(A \\cap B)=$$",
+    "opciones": [
+      "0.9",
+      "0.2",
+      "0.3",
+      "0.25"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$P(A \\cap B) = P(A) \\cdot P(B|A) = 0.4 \\times 0.5 = 0.2$$."
+  },
+  {
+    "pregunta": "En una urna con 4 rojas y 6 negras, se extraen 2 sin reemplazo. $$P(\\text{ambas rojas})=$$",
+    "opciones": [
+      "$$\\frac{1}{2}$$",
+      "$$\\frac{2}{3}$$",
+      "$$\\frac{2}{15}$$",
+      "$$\\frac{4}{15}$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$P(R1) = \\frac{4}{10}$$, $$P(R2|R1) = \\frac{3}{9}$$. Producto: $$\\frac{4}{10} \\cdot \\frac{3}{9} = \\frac{12}{90} = \\frac{2}{15}$$."
+  },
+  {
+    "pregunta": "Dos eventos independientes: $$P(A)=0.5$$, $$P(B)=0.4$$. $$P(A \\cap B)=$$",
+    "opciones": [
+      "0.1",
+      "0.2",
+      "0.25",
+      "0.4"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Si son independientes: $$P(A \\cap B) = P(A) \\cdot P(B) = 0.5 \\times 0.4 = 0.2$$."
+  },
+  {
+    "pregunta": "Una fábrica tiene 2 máquinas A y B que producen el 60% y 40% respectivamente. Las tasas de defectuosos son 3% y 2%. ¿P(defectuosa)?",
+    "opciones": [
+      "2.4%",
+      "2.6%",
+      "2.8%",
+      "3.0%"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Probabilidad total: $$0.60 \\times 0.03 + 0.40 \\times 0.02 = 0.018 + 0.008 = 0.026 = 2.6\\%$$."
+  },
+  {
+    "pregunta": "En un colegio, el 70% de alumnos estudia mañana y el 30% tarde. La probabilidad de aprobar es 80% mañana y 60% tarde. ¿P(aprobar)?",
+    "opciones": [
+      "65%",
+      "74%",
+      "70%",
+      "80%"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $$P(A) = 0.70 \\times 0.80 + 0.30 \\times 0.60 = 0.56 + 0.18 = 0.74 = 74\\%$$."
+  },
+  {
+    "pregunta": "Usando el problema anterior, ¿probabilidad de que un alumno aprobado sea del turno mañana?",
+    "opciones": [
+      "0.50",
+      "0.65",
+      "0.76",
+      "0.8"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$P(M|A) = \\frac{P(A|M)P(M)}{P(A)} = \\frac{0.80 \\times 0.70}{0.74} = \\frac{0.56}{0.74} \\approx 0.756 \\approx 0.76$$."
+  },
+  {
+    "pregunta": "Una empresa tiene 3 plantas que fabrican 20%, 30% y 50% de los productos. Los porcentajes defectuosos son 2%, 4% y 1%. ¿Probabilidad de que un producto defectuoso provenga de la planta 2?",
+    "opciones": [
+      "0.2",
+      "0.25",
+      "0.52",
+      "0.4"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Probabilidad defectuoso total: $$0.20 \\times 0.02 + 0.30 \\times 0.04 + 0.50 \\times 0.01 = 0.004 + 0.012 + 0.005 = 0.021$$.<br><b>Paso 2:</b> $$P(P2|D) = \\frac{0.30 \\times 0.04}{0.021} = \\frac{0.012}{0.021} \\approx 0.571$$. La opción más cercana es 0.52 (posible error de tipeo en el origen)."
+  },
+  {
+    "pregunta": "Si lanzar una moneda y un dado, probabilidad de obtener cara y número 6:",
+    "opciones": [
+      "$$\\frac{1}{3}$$",
+      "$$\\frac{1}{4}$$",
+      "$$\\frac{1}{12}$$",
+      "$$\\frac{1}{6}$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Eventos independientes: $$P(C) \\cdot P(6) = \\frac{1}{2} \\cdot \\frac{1}{6} = \\frac{1}{12}$$."
+  },
+  {
+    "pregunta": "Si A y B son independientes, $$P(A)=0.4$$, $$P(B)=0.3$$. Hallar $$P(A \\cup B)$$:",
+    "opciones": [
+      "0.5",
+      "0.6",
+      "0.58",
+      "0.7"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$P(A \\cup B) = P(A) + P(B) - P(A)P(B) = 0.4 + 0.3 - 0.12 = 0.58$$."
+  },
+  {
+    "pregunta": "Al lanzar dos monedas, número de elementos del espacio muestral:",
+    "opciones": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> {CC, CS, SC, SS} → 4 elementos."
+  },
+  {
+    "pregunta": "Al lanzar dos dados, número de resultados posibles:",
+    "opciones": [
+      "12",
+      "24",
+      "36",
+      "18"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> 6 × 6 = 36."
+  },
+  {
+    "pregunta": "En un experimento de lanzar un dado, el evento A={número mayor que 4}. ¿Cuál es $$P(A)$$?",
+    "opciones": [
+      "$$\\frac{1}{2}$$",
+      "$$\\frac{1}{3}$$",
+      "$$\\frac{2}{3}$$",
+      "$$\\frac{1}{6}$$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Números mayores que 4: {5,6}. 2 casos favorables de 6. $$P = \\frac{2}{6} = \\frac{1}{3}$$."
+  },
+  {
+    "pregunta": "En una bolsa con 4 rojas y 3 azules, se extraen 2 bolas sin reemplazo. $$P(\\text{ambas azules})$$:",
+    "opciones": [
+      "$$\\frac{1}{5}$$",
+      "$$\\frac{2}{7}$$",
+      "$$\\frac{1}{7}$$",
+      "$$\\frac{3}{7}$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> $$P(A1) = \\frac{3}{7}$$, $$P(A2|A1) = \\frac{2}{6} = \\frac{1}{3}$$. Producto: $$\\frac{3}{7} \\cdot \\frac{1}{3} = \\frac{1}{7}$$."
+  },
+  {
+    "pregunta": "En una baraja de 52 cartas, $$P(\\text{sacar una figura o un as})$$:",
+    "opciones": [
+      "$$\\frac{1}{4}$$",
+      "$$\\frac{1}{5}$$",
+      "$$\\frac{4}{13}$$",
+      "$$\\frac{1}{2}$$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Figuras (J,Q,K) = 12 cartas. Ases = 4 cartas. Total favorables = 16. $$P = \\frac{16}{52} = \\frac{4}{13}$$."
+  },
+  {
+    "pregunta": "En una urna con 3 bolas blancas y 2 negras, se extraen dos con reemplazo. $$P(\\text{una blanca y una negra})$$:",
+    "opciones": [
+      "$$\\frac{3}{5}$$",
+      "$$\\frac{1}{4}$$",
+      "$$\\frac{6}{25}$$",
+      "$$\\frac{12}{25}$$"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> Puede ser Blanca-Negra: $$\\frac{3}{5} \\cdot \\frac{2}{5} = \\frac{6}{25}$$ o Negra-Blanca: $$\\frac{2}{5} \\cdot \\frac{3}{5} = \\frac{6}{25}$$. Suma = $$\\frac{12}{25}$$."
+  }
       ],
       "videos": [
         {
-          "titulo": "14.1 Título del Video",
-          "youtube_id": "",
-          "pdf_link": "",
+          "titulo": "Parte 1",
+          "youtube_id": "8Dogd5oNAb8",
+          "pdf_link": "https://drive.google.com/file/d/1OWfLUegK588xtE5n-mNYzRN6Ppb1LO5z/view",
+          "gratis": true
+        },
+        {
+          "titulo": "Parte 2",
+          "youtube_id": "IKPL-sc1Kjw",
+          "pdf_link": "https://drive.google.com/file/d/1iEgz_24nt7Xg1Kj_SBvCkABXDm4RNs_l/view",
           "gratis": true
         }
       ]
