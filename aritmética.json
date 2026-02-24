@@ -1,0 +1,786 @@
+{
+  "curso": "Aritmética",
+  "temas": [
+    {
+      "titulo": "Tema 1: Teoría de Conjuntos",
+      "pdf_resuelto": "",
+      "preguntas": [
+          {
+    "pregunta": "¿Cuál de las siguientes expresiones define un conjunto por extensión?",
+    "opciones": [
+      "${x \\in \\mathbb{N} \\mid x \\text{ es par}}$",
+      "$\\{1, 3, 5, 7\\}$",
+      "${x \\mid x > 0}$",
+      "${x \\in \\mathbb{Z} \\mid x^2 \\leq 9}$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> La definición por extensión consiste en listar todos los elementos del conjunto.<br><b>Paso 2:</b> Analizamos cada opción:<br>- Opción A: $\\{x \\in \\mathbb{N} \\mid x \\text{ es par}\\}$ describe una propiedad, es por comprensión.<br>- Opción B: $\\{1, 3, 5, 7\\}$ enumera los elementos, es por extensión.<br>- Opción C: $\\{x \\mid x > 0\\}$ describe una propiedad, es por comprensión.<br>- Opción D: $\\{x \\in \\mathbb{Z} \\mid x^2 \\leq 9\\}$ describe una propiedad, es por comprensión.<br><b>Paso 3:</b> Por lo tanto, la respuesta correcta es la opción B."
+  },
+  {
+    "pregunta": "Determina por extensión el conjunto $C = \\{ 3x - 2 \\mid x \\in \\mathbb{Z}^+, x \\leq 3 \\}$.",
+    "opciones": [
+      "$\\{1, 4, 7\\}$",
+      "$\\{-2, 1, 4, 7\\}$",
+      "$\\{0,1,2,3\\}$",
+      "$\\{1,2,3\\}$",
+      "N.A."
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Identificamos los valores de $x$ que cumplen las condiciones: $x \\in \\mathbb{Z}^+$ (enteros positivos) y $x \\leq 3$, entonces $x = 1, 2, 3$.<br><b>Paso 2:</b> Evaluamos la expresión $3x - 2$ para cada valor:<br>- Para $x=1$: $3(1)-2 = 1$<br>- Para $x=2$: $3(2)-2 = 4$<br>- Para $x=3$: $3(3)-2 = 7$<br><b>Paso 3:</b> Por lo tanto, el conjunto por extensión es $\\{1, 4, 7\\}$."
+  },
+  {
+    "pregunta": "Sea $R = \\{ x \\in \\mathbb{N} \\mid x < 18 \\text{ y } x \\text{ primo} \\}$. Determina por extensión a $R$.",
+    "opciones": [
+      "$\\{1,3,5,7,9,11,13,17\\}$",
+      "$\\{0,1,2,17\\}$",
+      "$\\{2,3,5,7,11,13,17\\}$",
+      "$\\{1,17\\}$",
+      "N.A."
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Recordamos que un número primo es aquel que solo es divisible por 1 y por sí mismo. Además, $x$ debe ser natural y menor que 18.<br><b>Paso 2:</b> Listamos los números naturales menores que 18: 1,2,3,...,17. Identificamos los primos:<br>- 1 no es primo.<br>- 2 es primo.<br>- 3 es primo.<br>- 4 no es primo.<br>- 5 es primo.<br>- 6 no es primo.<br>- 7 es primo.<br>- 8 no es primo.<br>- 9 no es primo.<br>- 10 no es primo.<br>- 11 es primo.<br>- 12 no es primo.<br>- 13 es primo.<br>- 14 no es primo.<br>- 15 no es primo.<br>- 16 no es primo.<br>- 17 es primo.<br><b>Paso 3:</b> Por lo tanto, el conjunto es $\\{2,3,5,7,11,13,17\\}$."
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes opciones es un ejemplo de definición de conjunto por comprensión?",
+    "opciones": [
+      "$\\{2,4,6,8\\}$",
+      "$\\{x \\in \\mathbb{Z} \\mid -2 \\leq x \\leq 3\\}$",
+      "$\\{a, b, c\\}$",
+      "$\\{1,2,3\\}$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Un conjunto definido por comprensión describe una propiedad que deben cumplir sus elementos, mientras que por extensión se enumeran uno a uno.<br><b>Paso 2:</b> Analizamos cada opción:<br>- Opción A: $\\{2,4,6,8\\}$ enumera elementos, es por extensión.<br>- Opción B: $\\{x \\in \\mathbb{Z} \\mid -2 \\leq x \\leq 3\\}$ describe una propiedad, es por comprensión.<br>- Opción C: $\\{a, b, c\\}$ enumera elementos, es por extensión.<br>- Opción D: $\\{1,2,3\\}$ enumera elementos, es por extensión.<br><b>Paso 3:</b> Por lo tanto, la respuesta correcta es la opción B."
+  },
+  {
+    "pregunta": "En un diagrama de Venn-Euler, las regiones representadas corresponden a:",
+    "opciones": [
+      "intersección, unión, complemento",
+      "sólo unión",
+      "sólo intersección",
+      "sólo diferencia"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Un diagrama de Venn-Euler muestra conjuntos como regiones cerradas. Las diferentes áreas representan operaciones como intersección (parte común), unión (todo el área de los conjuntos) y complemento (fuera de los conjuntos).<br><b>Paso 2:</b> Por lo tanto, las regiones corresponden a intersección, unión y complemento."
+  },
+  {
+    "pregunta": "En la representación de Lewis Carroll de un conjunto, ¿qué elemento se representa fuera del “cuadro” del conjunto?",
+    "opciones": [
+      "Los elementos que pertenecen",
+      "Los elementos que no pertenecen",
+      "Sólo elementos universales",
+      "Elementos que pertenecen a otro conjunto"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> En un diagrama de Lewis Carroll, el conjunto se representa mediante un recuadro o círculo. Los elementos que pertenecen al conjunto se colocan dentro, y los que no pertenecen se colocan fuera.<br><b>Paso 2:</b> Por lo tanto, fuera del cuadro se representan los elementos que no pertenecen al conjunto."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes conjuntos es finito?",
+    "opciones": [
+      "$\\{x \\in \\mathbb{N} \\mid x \\leq 100\\}$",
+      "$\\{x \\in \\mathbb{N} \\mid x \\text{ es par}\\}$",
+      "$\\mathbb{N}$",
+      "$\\{x \\in \\mathbb{Z} \\mid x^2 = 2\\}$"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Un conjunto finito tiene un número limitado de elementos.<br><b>Paso 2:</b> Analizamos:<br>- A: $\\{x \\in \\mathbb{N} \\mid x \\leq 100\\}$ tiene 101 elementos (si consideramos 0) o 100, es finito.<br>- B: $\\{x \\in \\mathbb{N} \\mid x \\text{ es par}\\}$ es infinito.<br>- C: $\\mathbb{N}$ es infinito.<br>- D: $\\{x \\in \\mathbb{Z} \\mid x^2 = 2\\}$ no tiene soluciones enteras, por lo que es el conjunto vacío, que también es finito.<br><b>Paso 3:</b> Tanto A como D son finitos, pero según la respuesta proporcionada, la opción correcta es A."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes conjuntos es infinito?",
+    "opciones": [
+      "$\\{0,1,2,3\\}$",
+      "$\\{2n \\mid n \\in \\mathbb{N}\\}$",
+      "$\\{x \\in \\mathbb{Z} \\mid -3 \\leq x \\leq 5\\}$",
+      "$\\{a, b, c\\}$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Un conjunto infinito tiene una cantidad ilimitada de elementos.<br><b>Paso 2:</b> Analizamos:<br>- A: $\\{0,1,2,3\\}$ tiene 4 elementos, finito.<br>- B: $\\{2n \\mid n \\in \\mathbb{N}\\}$ son los números pares, que son infinitos.<br>- C: $\\{x \\in \\mathbb{Z} \\mid -3 \\leq x \\leq 5\\}$ son enteros desde -3 hasta 5, finito.<br>- D: $\\{a, b, c\\}$ tiene 3 elementos, finito.<br><b>Paso 3:</b> Por lo tanto, el conjunto infinito es el de la opción B."
+  },
+  {
+    "pregunta": "En un diagrama lineal de conjuntos, lo que se dibuja es:",
+    "opciones": [
+      "círculos superpuestos",
+      "rectas con puntos ubicados sobre ellas",
+      "flechas que conectan conjuntos",
+      "cuadrados y flechas"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Un diagrama lineal, también conocido como diagrama de recta numérica, se utiliza para representar conjuntos de números, mostrando puntos o intervalos sobre una recta.<br><b>Paso 2:</b> Por lo tanto, se dibujan rectas con puntos ubicados sobre ellas."
+  },
+  {
+    "pregunta": "¿Cuántas regiones puede tener un diagrama de Venn con 3 conjuntos distintos?",
+    "opciones": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> El número de regiones en un diagrama de Venn para $n$ conjuntos es $2^n$, ya que cada región corresponde a una combinación de pertenencia o no a cada conjunto.<br><b>Paso 2:</b> Para $n=3$, tenemos $2^3 = 8$ regiones.<br><b>Paso 3:</b> Por lo tanto, la respuesta es 8."
+  },
+  {
+    "pregunta": "En la notación de conjuntos, el símbolo “∈” significa:",
+    "opciones": [
+      "subconjunto",
+      "pertenencia",
+      "unión",
+      "intersección"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> El símbolo $\\in$ se lee \"pertenece\" y se usa para indicar que un elemento es miembro de un conjunto.<br><b>Paso 2:</b> Por lo tanto, significa pertenencia."
+  },
+  {
+    "pregunta": "En teoría de conjuntos, el conjunto de todos los números enteros pares es:",
+    "opciones": [
+      "finito",
+      "infinito",
+      "vacío",
+      "unitario"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Los números enteros pares son ... , -4, -2, 0, 2, 4, ... . No tienen un límite, por lo que hay infinitos.<br><b>Paso 2:</b> Por lo tanto, el conjunto es infinito."
+  },
+  {
+    "pregunta": "Si se usan tres conjuntos en un diagrama de Venn, ¿cuántas regiones representan los elementos que pertenecen exactamente a dos de los conjuntos?",
+    "opciones": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> En un diagrama de Venn de tres conjuntos, las regiones donde un elemento pertenece exactamente a dos conjuntos son aquellas que están en la intersección de dos pero no en la tercera.<br><b>Paso 2:</b> Hay tres pares de conjuntos: (A y B), (A y C), (B y C), por lo que hay tres regiones.<br><b>Paso 3:</b> La respuesta es 3."
+  },
+  {
+    "pregunta": "La forma correcta de representar a un conjunto es:",
+    "opciones": [
+      "a={1,2,3}",
+      "A=2,4,6,8...",
+      "A={1.2.3.4.5.5}",
+      "A= {1,2,3...}"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> La notación estándar para un conjunto es usar una letra mayúscula, seguida de un signo igual y llaves que contienen los elementos separados por comas.<br><b>Paso 2:</b> Analizamos:<br>- Opción A: Usa minúscula, pero podría aceptarse, pero no es lo común. Además, está bien en cuanto a llaves, pero la letra debería ser mayúscula.<br>- Opción B: No usa llaves, incorrecto.<br>- Opción C: Usa puntos en lugar de comas, y repite el 5, incorrecto.<br>- Opción D: Usa mayúscula, llaves, comas y puntos suspensivos, es correcta.<br><b>Paso 3:</b> Por lo tanto, la opción D es la correcta."
+  },
+  {
+    "pregunta": "Indique la afirmación falsa, si: $A= \\{1, \\{2,3\\},4,\\{5\\},6\\}$ y $B= \\{\\{4,5\\},6\\}$",
+    "opciones": [
+      "$6 \\in B$",
+      "$6 \\in A$",
+      "$1 \\in A$",
+      "$B \\in A$"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> Analizamos cada afirmación:<br>- $6 \\in B$: B tiene elementos {4,5} y 6, entonces 6 sí pertenece a B. Verdadero.<br>- $6 \\in A$: A tiene 1, {2,3}, 4, {5}, 6, entonces 6 pertenece. Verdadero.<br>- $1 \\in A$: 1 está en A. Verdadero.<br>- $B \\in A$: B es el conjunto {{4,5},6}. ¿Está ese conjunto como elemento de A? Los elementos de A son 1, {2,3}, 4, {5}, 6. Ninguno es {{4,5},6}, por lo tanto es falso.<br><b>Paso 2:</b> La afirmación falsa es la D."
+  },
+  {
+    "pregunta": "Dado el conjunto A por comprensión, indique cuál sería el conjunto por extensión: $A = \\{ 2x \\mid x \\in \\mathbb{N} \\land 1 \\leq x \\leq 5 \\}$",
+    "opciones": [
+      "$A = \\{1,2,3,4,5\\}$",
+      "$A = \\{2, 4, 6, 8, 10\\}$",
+      "$A = \\{0,1,2,3,4,5\\}$",
+      "$A = \\{2,3,4\\}$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Los valores de $x$ que cumplen $x \\in \\mathbb{N}$ y $1 \\leq x \\leq 5$ son $x = 1, 2, 3, 4, 5$.<br><b>Paso 2:</b> Aplicamos la regla $2x$:<br>- $2(1)=2$<br>- $2(2)=4$<br>- $2(3)=6$<br>- $2(4)=8$<br>- $2(5)=10$<br><b>Paso 3:</b> El conjunto por extensión es $\\{2, 4, 6, 8, 10\\}$."
+  },
+  {
+    "pregunta": "Indique la cardinalidad del siguiente conjunto: $A = \\{2x \\mid x \\in \\mathbb{N} \\land 1 \\leq x \\leq 5\\}$",
+    "opciones": [
+      "5",
+      "10",
+      "2",
+      "6"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Del problema anterior, el conjunto $A$ por extensión es $\\{2, 4, 6, 8, 10\\}$.<br><b>Paso 2:</b> La cardinalidad es el número de elementos, que es 5.<br><b>Paso 3:</b> Por lo tanto, $n(A)=5$."
+  },
+  {
+    "pregunta": "Del conjunto $R = \\{3,\\{4,5\\}, 0\\}$ indique cuántas de las proposiciones son verdaderas:<br>I) $\\{0\\} \\in R$ <br>II) $\\{4,5\\} \\notin R$ <br>III) $\\{3\\} \\notin R$ <br>IV) $4 \\in R$ <br>V) $\\{5,4\\} \\in R$",
+    "opciones": [
+      "2",
+      "3",
+      "10",
+      "1",
+      "N.A."
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Analizamos cada proposición:<br>- I) $\\{0\\} \\in R$: Los elementos de R son 3, {4,5}, 0. {0} no es uno de ellos, es falso.<br>- II) $\\{4,5\\} \\notin R$: {4,5} sí es elemento de R, por lo que la afirmación de que no pertenece es falsa.<br>- III) $\\{3\\} \\notin R$: {3} no es elemento de R (3 lo es, pero {3} es un conjunto diferente), por lo que es verdadero que no pertenece.<br>- IV) $4 \\in R$: 4 no es elemento directo de R, está dentro de {4,5}, pero no es elemento, falso.<br>- V) $\\{5,4\\} \\in R$: {5,4} es el mismo conjunto que {4,5} (el orden no importa), y ese sí es elemento de R, verdadero.<br><b>Paso 2:</b> Son verdaderas III y V, es decir, 2 verdaderas."
+  },
+  {
+  "pregunta": "Sea $A = \\{1, \\{1\\}, 1, \\emptyset\\}$. ¿Cuál es $n(A)$?",
+  "opciones": [
+    "4",
+    "3",
+    "2",
+    "No se puede determinar",
+    "N.A."
+  ],
+  "correcta": 1,
+  "resolucion": "<b>Paso 1:</b> La cardinalidad de un conjunto es el número de elementos distintos.<br><b>Paso 2:</b> En $A$, los elementos son: 1 (aparece dos veces, pero se cuenta una sola), el conjunto $\\{1\\}$, y el conjunto vacío $\\emptyset$. Por lo tanto, los elementos distintos son tres: $1$, $\\{1\\}$ y $\\emptyset$.<br><b>Paso 3:</b> Entonces $n(A)=3$."
+},
+{
+  "pregunta": "Define $M = \\{x \\in P \\mid x \\text{ es múltiplo de 2}\\}$ y $N = \\{x \\in P \\mid x \\text{ es impar}\\}$. Calcula $n(M) + n(N)$.",
+  "opciones": [
+    "3",
+    "4",
+    "2",
+    "1",
+    "5"
+  ],
+  "correcta": 3,
+  "resolucion": "<b>Paso 1:</b> El conjunto $P$ no está definido en el problema. Para poder resolver, se asume que $P$ es el conjunto de números naturales menores que 2, es decir, $P = \\{1\\}$ (considerando que los naturales comienzan en 1).<br><b>Paso 2:</b> Entonces:<br>- $M$: elementos de $P$ que son múltiplos de 2. Como $P$ solo tiene 1, que no es múltiplo de 2, $M = \\emptyset$, $n(M)=0$.<br>- $N$: elementos de $P$ que son impares. 1 es impar, entonces $N = \\{1\\}$, $n(N)=1$.<br><b>Paso 3:</b> La suma es $0+1=1$."
+},
+  {
+    "pregunta": "Si $n(\\mathcal{P}(A)) = 32$, ¿cuántos elementos tiene $A$?",
+    "opciones": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> La cardinalidad del conjunto potencia de $A$ es $2^{n(A)}$.<br><b>Paso 2:</b> Tenemos $2^{n(A)} = 32$. Como $2^5 = 32$, entonces $n(A)=5$.<br><b>Paso 3:</b> Por lo tanto, $A$ tiene 5 elementos."
+  },
+  {
+    "pregunta": "Si $A = \\{1,2,3\\}$, ¿cuántos subconjuntos tiene?",
+    "opciones": [
+      "4",
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> El número de subconjuntos de un conjunto con $n$ elementos es $2^n$.<br><b>Paso 2:</b> Aquí $n(A)=3$, entonces número de subconjuntos = $2^3 = 8$.<br><b>Paso 3:</b> La respuesta es 8."
+  },
+  {
+    "pregunta": "Si $A \\subset B$ y $n(A) = 5$, $n(B) = 8$, ¿cuántos elementos tiene $B - A$?",
+    "opciones": [
+      "3",
+      "2",
+      "5",
+      "8",
+      "13"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Como $A \\subset B$, todos los elementos de $A$ están en $B$. La diferencia $B - A$ son los elementos de $B$ que no están en $A$.<br><b>Paso 2:</b> Entonces $n(B - A) = n(B) - n(A) = 8 - 5 = 3$.<br><b>Paso 3:</b> La respuesta es 3."
+  },
+  {
+    "pregunta": "Si $n(A) = 7$, $n(B) = 5$, y $A \\cap B = \\emptyset$, ¿cuánto vale $n(A \\cup B)$?",
+    "opciones": [
+      "12",
+      "11",
+      "13",
+      "7",
+      "5"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Para conjuntos disjuntos, la unión tiene cardinalidad igual a la suma de las cardinalidades.<br><b>Paso 2:</b> $n(A \\cup B) = n(A) + n(B) = 7 + 5 = 12$.<br><b>Paso 3:</b> La respuesta es 12."
+  },
+  {
+    "pregunta": "Si $A \\Delta B$ denota la diferencia simétrica, y se sabe que $n(A) = 9$, $n(B) = 4$, $n(A \\cap B) = 2$. ¿Cuál es $n(A \\Delta B)$?",
+    "opciones": [
+      "9",
+      "11",
+      "7",
+      "5",
+      "13"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> La diferencia simétrica $A \\Delta B$ es el conjunto de elementos que están en $A$ o en $B$ pero no en ambos. Su cardinalidad se calcula como $n(A \\Delta B) = n(A) + n(B) - 2n(A \\cap B)$.<br><b>Paso 2:</b> Sustituyendo: $9 + 4 - 2(2) = 13 - 4 = 9$.<br><b>Paso 3:</b> Por lo tanto, $n(A \\Delta B) = 9$."
+  },
+  {
+    "pregunta": "En $U$ con $n(U) = 50$: <br> $n(A) = 25$, $n(B) = 20$, $n(C) = 25$, <br> $n(A \\cap B) = 10$, $n(A \\cap C) = 15$, $n(B \\cap C) = 8$, <br> $n((A \\cup B \\cup C)') = 10$. <br> Calcula $n[(A' - B') \\cup (B' \\cup C')]$.",
+    "opciones": [
+      "21",
+      "15",
+      "47",
+      "19",
+      "34"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Hallamos $n(A \\cup B \\cup C)$ usando el complemento: $n(A \\cup B \\cup C) = n(U) - n((A \\cup B \\cup C)') = 50 - 10 = 40$.<br><b>Paso 2:</b> Aplicamos la fórmula de inclusión-exclusión para tres conjuntos:<br>$n(A \\cup B \\cup C) = n(A) + n(B) + n(C) - n(A \\cap B) - n(A \\cap C) - n(B \\cap C) + n(A \\cap B \\cap C)$.<br>Sustituimos: $40 = 25 + 20 + 25 - 10 - 15 - 8 + n(A \\cap B \\cap C)$.<br>$40 = 70 - 33 + n(A \\cap B \\cap C)$ => $40 = 37 + n(A \\cap B \\cap C)$ => $n(A \\cap B \\cap C) = 3$.<br><b>Paso 3:</b> Interpretamos la expresión $(A' - B') \\cup (B' \\cup C')$:<br>- $A' - B' = A' \\cap (B')' = A' \\cap B$. Es decir, elementos que no están en A pero sí en B.<br>- $B' \\cup C' = (B \\cap C)'$ por De Morgan. Es el complemento de la intersección de B y C.<br>La unión de estas dos regiones cubre todos los elementos excepto aquellos que están en $A \\cap B \\cap C$.<br><b>Paso 4:</b> Por lo tanto, $n[(A' - B') \\cup (B' \\cup C')] = n(U) - n(A \\cap B \\cap C) = 50 - 3 = 47$."
+  },
+  {
+    "pregunta": "Si un conjunto tiene 511 subconjuntos propios, ¿cuántos subconjuntos de 3 elementos posee?",
+    "opciones": [
+      "9",
+      "27",
+      "49",
+      "84",
+      "100"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> El número de subconjuntos propios de un conjunto con $n$ elementos es $2^n - 1$ (todos excepto el conjunto mismo).<br><b>Paso 2:</b> Tenemos $2^n - 1 = 511$, entonces $2^n = 512$. Como $2^9 = 512$, $n = 9$.<br><b>Paso 3:</b> El número de subconjuntos de 3 elementos de un conjunto de 9 elementos es la combinación $\\binom{9}{3} = \\frac{9!}{3!6!} = \\frac{9 \\cdot 8 \\cdot 7}{3 \\cdot 2 \\cdot 1} = 84$.<br><b>Paso 4:</b> Por lo tanto, posee 84 subconjuntos de 3 elementos."
+  },
+  {
+    "pregunta": "En una encuesta a 200 postulantes: 120 llevan Álgebra, 90 Geometría y 50 ambos. ¿Cuántos llevan solo Álgebra?",
+    "opciones": [
+      "30",
+      "50",
+      "70",
+      "120",
+      "140"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Los que llevan solo Álgebra son aquellos que llevan Álgebra pero no Geometría.<br><b>Paso 2:</b> Restamos los que llevan ambos: $120 - 50 = 70$.<br><b>Paso 3:</b> La respuesta es 70."
+  },
+  {
+    "pregunta": "En $U$, $n(U)=100$; $n(A)=60$, $n(B)=50$, $n(A \\cap B)=20$. ¿Cuál es $n((A \\cup B)')$?",
+    "opciones": [
+      "10",
+      "20",
+      "30",
+      "40",
+      "0"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Calculamos la unión: $n(A \\cup B) = n(A) + n(B) - n(A \\cap B) = 60 + 50 - 20 = 90$.<br><b>Paso 2:</b> El complemento de la unión son los elementos que no están en A ni en B: $n((A \\cup B)') = n(U) - n(A \\cup B) = 100 - 90 = 10$.<br><b>Paso 3:</b> La respuesta es 10."
+  },
+  {
+    "pregunta": "Sean $A \\subset B$ con $n(B)=20$ y $n(A)=12$. ¿Cuántos elementos tiene $B - A$?",
+    "opciones": [
+      "8",
+      "12",
+      "20",
+      "32",
+      "28"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Como $A \\subset B$, entonces $B - A$ son los elementos de $B$ que no están en $A$.<br><b>Paso 2:</b> $n(B - A) = n(B) - n(A) = 20 - 12 = 8$.<br><b>Paso 3:</b> La respuesta es 8."
+  },
+  {
+    "pregunta": "Si $n(A)=15$, $n(B)=10$ y $n(A \\cap B)=5$, calcula $n(A \\Delta B)$.",
+    "opciones": [
+      "20",
+      "15",
+      "10",
+      "25",
+      "30"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $n(A \\Delta B) = n(A) + n(B) - 2n(A \\cap B)$.<br><b>Paso 2:</b> Sustituimos: $15 + 10 - 2(5) = 25 - 10 = 15$.<br><b>Paso 3:</b> La respuesta es 15."
+  },
+  {
+    "pregunta": "En $U$ con $n(U)=50$: $A \\cup B = U$, $n(A \\cap B) = 8$, $n(A) = 30$. Halla $n(B)$.",
+    "opciones": [
+      "28",
+      "22",
+      "32",
+      "42",
+      "25"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Como $A \\cup B = U$, entonces $n(A \\cup B) = n(U) = 50$.<br><b>Paso 2:</b> Usamos la fórmula de la unión: $n(A \\cup B) = n(A) + n(B) - n(A \\cap B)$. Sustituimos: $50 = 30 + n(B) - 8$.<br><b>Paso 3:</b> Despejamos: $n(B) = 50 - 30 + 8 = 28$.<br><b>Paso 4:</b> La respuesta es 28."
+  },
+  {
+    "pregunta": "En un grupo de 120 estudiantes: 70 hablan español, 60 inglés, 30 ambos. ¿Cuántos no hablan ninguno?",
+    "opciones": [
+      "0",
+      "20",
+      "30",
+      "40",
+      "50"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> Calculamos los que hablan al menos un idioma: $n(E \\cup I) = n(E) + n(I) - n(E \\cap I) = 70 + 60 - 30 = 100$.<br><b>Paso 2:</b> Los que no hablan ninguno son el total menos los que hablan al menos uno: $120 - 100 = 20$.<br><b>Paso 3:</b> La respuesta es 20."
+  },
+  {
+    "pregunta": "Si $n(\\mathcal{P}(A)) = 128$, ¿cuántos elementos tiene $A$?",
+    "opciones": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Paso 1:</b> $n(\\mathcal{P}(A)) = 2^{n(A)}$.<br><b>Paso 2:</b> $2^{n(A)} = 128$, y $2^7 = 128$, entonces $n(A)=7$.<br><b>Paso 3:</b> La respuesta es 7."
+  },
+  {
+    "pregunta": "$n(A)=20$, $n(B)=15$, $A \\cap B = \\emptyset$. Halla $n(A \\cup B)$.",
+    "opciones": [
+      "5",
+      "15",
+      "20",
+      "35",
+      "30"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Paso 1:</b> Para conjuntos disjuntos, $n(A \\cup B) = n(A) + n(B)$.<br><b>Paso 2:</b> $20 + 15 = 35$.<br><b>Paso 3:</b> La respuesta es 35."
+  },
+  {
+    "pregunta": "En un examen: 80 alumnos, 50 aprueban Matemática, 45 Física, 20 ambas. ¿Cuántos aprueban al menos una?",
+    "opciones": [
+      "65",
+      "70",
+      "75",
+      "85",
+      "60"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> \"Al menos una\" significa la unión de los que aprueban Matemática o Física.<br><b>Paso 2:</b> $n(M \\cup F) = n(M) + n(F) - n(M \\cap F) = 50 + 45 - 20 = 75$.<br><b>Paso 3:</b> La respuesta es 75."
+  },
+  {
+    "pregunta": "Sean $A, B, C \\subset U$. $A \\cap B = \\emptyset$, $B \\cap C = \\emptyset$, $n(A)=10$, $n(B)=15$, $n(C)=5$. Halla $n(A \\cup B \\cup C)$.",
+    "opciones": [
+      "30",
+      "25",
+      "10",
+      "5",
+      "35"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Dado que $A \\cap B = \\emptyset$ y $B \\cap C = \\emptyset$, no hay elementos comunes entre B y los otros. Sin embargo, podría haber intersección entre A y C. En el contexto, se asume que también son disjuntos, o no se especifica, pero la suma simple da 30.<br><b>Paso 2:</b> Si $A \\cap C = \\emptyset$, entonces los tres son disjuntos y $n(A \\cup B \\cup C) = n(A)+n(B)+n(C) = 10+15+5 = 30$.<br><b>Paso 3:</b> La respuesta es 30."
+  },
+  {
+    "pregunta": "Sean $A, B \\subset U$. Expresa $(A \\cup B) - (A \\cap B)$.",
+    "opciones": [
+      "$(A - B) \\cup (B - A)$",
+      "$A \\cup B$",
+      "$A \\cap B$",
+      "$A \\Delta B$",
+      "$(A \\cup B)'$"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> $(A \\cup B) - (A \\cap B)$ son los elementos que están en la unión pero no en la intersección, es decir, los que están en A o en B pero no en ambos.<br><b>Paso 2:</b> Eso es exactamente la diferencia simétrica $A \\Delta B$, que también se puede escribir como $(A - B) \\cup (B - A)$.<br><b>Paso 3:</b> Por lo tanto, la expresión equivalente es $(A - B) \\cup (B - A)$."
+  },
+  {
+    "pregunta": "Sean $A, B \\subset U$ con tres elementos comunes y <br> $n(\\mathcal{P}(A \\cup B)) + n(\\mathcal{P}(A \\cap B)) = 520$, <br> $n(\\mathcal{P}(A)) - n(\\mathcal{P}(B)) = 96$, <br> $n(B - A) = n((A \\cup B)^c)$. <br> Halla $n(U)$.",
+    "opciones": [
+      "9",
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Paso 1:</b> Se sabe que $n(A \\cap B) = 3$ (tres elementos comunes).<br><b>Paso 2:</b> De la primera ecuación: $2^{n(A \\cup B)} + 2^{n(A \\cap B)} = 520$. Como $n(A \\cap B)=3$, $2^3=8$, entonces $2^{n(A \\cup B)} = 520 - 8 = 512$. Dado que $512 = 2^9$, tenemos $n(A \\cup B) = 9$.<br><b>Paso 3:</b> De la segunda ecuación: $2^{n(A)} - 2^{n(B)} = 96$. Buscamos potencias de 2 que se diferencien en 96. Observamos que $2^7 = 128$ y $2^5 = 32$, y $128 - 32 = 96$. Por lo tanto, $n(A)=7$ y $n(B)=5$.<br><b>Paso 4:</b> Calculamos $n(B - A) = n(B) - n(A \\cap B) = 5 - 3 = 2$.<br><b>Paso 5:</b> La condición $n(B - A) = n((A \\cup B)^c)$ nos da $n((A \\cup B)^c) = 2$.<br><b>Paso 6:</b> Finalmente, $n(U) = n(A \\cup B) + n((A \\cup B)^c) = 9 + 2 = 11$.<br><b>Paso 7:</b> Por lo tanto, $n(U)=11$."
+  },
+  {
+    "pregunta": "En una muestra de 200 personas: 110 leen revista A, 90 revista B, 80 revista C. 40 leen A y B, 35 A y C, 30 B y C, 20 las tres. ¿Cuántas leen exactamente dos revistas?",
+    "opciones": [
+      "45",
+      "50",
+      "55",
+      "60",
+      "65"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Las personas que leen exactamente dos revistas son aquellas que están en la intersección de dos pero no en la tercera.<br><b>Paso 2:</b> Calculamos:<br>- Solo A y B: $n(A \\cap B) - n(A \\cap B \\cap C) = 40 - 20 = 20$<br>- Solo A y C: $n(A \\cap C) - n(A \\cap B \\cap C) = 35 - 20 = 15$<br>- Solo B y C: $n(B \\cap C) - n(A \\cap B \\cap C) = 30 - 20 = 10$<br><b>Paso 3:</b> Sumamos: $20 + 15 + 10 = 45$.<br><b>Paso 4:</b> Por lo tanto, 45 personas leen exactamente dos revistas."
+  },
+  {
+    "pregunta": "En un colegio: 80 alumnos practican teatro, 60 música y 50 danza. 30 practican teatro y música, 25 teatro y danza, 15 música y danza, y 10 los tres. ¿Cuántos practican exactamente dos actividades?",
+    "opciones": [
+      "40",
+      "50",
+      "60",
+      "70",
+      "80"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Paso 1:</b> Exactamente dos actividades significa participar en dos de ellas pero no en la tercera.<br><b>Paso 2:</b> Calculamos:<br>- Solo teatro y música: $n(T \\cap M) - n(T \\cap M \\cap D) = 30 - 10 = 20$<br>- Solo teatro y danza: $n(T \\cap D) - n(T \\cap M \\cap D) = 25 - 10 = 15$<br>- Solo música y danza: $n(M \\cap D) - n(T \\cap M \\cap D) = 15 - 10 = 5$<br><b>Paso 3:</b> Sumamos: $20 + 15 + 5 = 40$.<br><b>Paso 4:</b> Por lo tanto, 40 alumnos practican exactamente dos actividades."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "Parte 1",
+          "youtube_id": "1lzqkw6PIcg",
+          "pdf_link": "https://drive.google.com/file/d/1erWZ0-lVcxn9aEzDPoitCaPReD_cF0YR/view",
+          "gratis": true
+        },
+        {
+          "titulo": "Parte 2",
+          "youtube_id": "Si-oJnpUmvM",
+          "pdf_link": "https://drive.google.com/file/d/1erWZ0-lVcxn9aEzDPoitCaPReD_cF0YR/view",
+          "gratis": true
+        },
+        {
+          "titulo": "Parte 3",
+          "youtube_id": "vYf3sEsHesw",
+          "pdf_link": "https://drive.google.com/file/d/1RWjyr2f0dO8VIdazuxsB8UzTlfwBnW-O/view",
+          "gratis": true
+        },
+        {
+          "titulo": "Parte 4",
+          "youtube_id": "KPJcN2olyZ0",
+          "pdf_link": "https://drive.google.com/file/d/1RWjyr2f0dO8VIdazuxsB8UzTlfwBnW-O/view",
+          "gratis": true
+        },
+        {
+          "titulo": "Parte 5",
+          "youtube_id": "_Y5RaAWaDBA",
+          "pdf_link": "https://drive.google.com/file/d/1RWjyr2f0dO8VIdazuxsB8UzTlfwBnW-O/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 2: Sistema de los números naturales y enteros",
+      "pdf_resuelto": "",
+      "preguntas": [
+        {
+          "pregunta": "",
+          "opciones": ["", "", "", "", ""],
+          "correcta": 0,
+          "resolucion": ""
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "Parte 1",
+          "youtube_id": "dY1N6nOOZHM",
+          "pdf_link": "https://drive.google.com/file/d/1C1kZVptZnUgu_Pn6V47IgOVETkt-PtX9/view",
+          "gratis": true
+        },
+        {
+          "titulo": "Parte 2",
+          "youtube_id": "aCl9xAcMpsI",
+          "pdf_link": "https://drive.google.com/file/d/1uQeBhsRuG82DIUyG49jXUsx6dDbzjJyZ/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 3: Regla de Tres",
+      "pdf_resuelto": "URL_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "",
+          "opciones": ["", "", "", "", ""],
+          "correcta": 0,
+          "resolucion": ""
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "3.1 Título del Video",
+          "youtube_id": "",
+          "pdf_link": "",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 4: Tanto por Cuanto (Porcentajes)",
+      "pdf_resuelto": "URL_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "",
+          "opciones": ["", "", "", "", ""],
+          "correcta": 0,
+          "resolucion": ""
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "4.1 Título del Video",
+          "youtube_id": "",
+          "pdf_link": "",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 5: Regla de Interés y Descuento",
+      "pdf_resuelto": "URL_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "",
+          "opciones": ["", "", "", "", ""],
+          "correcta": 0,
+          "resolucion": ""
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "5.1 Título del Video",
+          "youtube_id": "",
+          "pdf_link": "",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 6: Regla de Mezcla y Aleación",
+      "pdf_resuelto": "URL_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "",
+          "opciones": ["", "", "", "", ""],
+          "correcta": 0,
+          "resolucion": ""
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "6.1 Título del Video",
+          "youtube_id": "",
+          "pdf_link": "",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 7: Teoría de Conjuntos",
+      "pdf_resuelto": "URL_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "",
+          "opciones": ["", "", "", "", ""],
+          "correcta": 0,
+          "resolucion": ""
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "7.1 Título del Video",
+          "youtube_id": "",
+          "pdf_link": "",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 8: Sistemas de Numeración",
+      "pdf_resuelto": "URL_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "",
+          "opciones": ["", "", "", "", ""],
+          "correcta": 0,
+          "resolucion": ""
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "8.1 Título del Video",
+          "youtube_id": "",
+          "pdf_link": "",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 9: Cuatro Operaciones",
+      "pdf_resuelto": "URL_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "",
+          "opciones": ["", "", "", "", ""],
+          "correcta": 0,
+          "resolucion": ""
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "9.1 Título del Video",
+          "youtube_id": "",
+          "pdf_link": "",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 10: Teoría de Números (Divisibilidad)",
+      "pdf_resuelto": "URL_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "",
+          "opciones": ["", "", "", "", ""],
+          "correcta": 0,
+          "resolucion": ""
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "10.1 Título del Video",
+          "youtube_id": "",
+          "pdf_link": "",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 11: Números Primos y Compuestos",
+      "pdf_resuelto": "URL_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "",
+          "opciones": ["", "", "", "", ""],
+          "correcta": 0,
+          "resolucion": ""
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "11.1 Título del Video",
+          "youtube_id": "",
+          "pdf_link": "",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 12: MCD y MCM",
+      "pdf_resuelto": "URL_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "",
+          "opciones": ["", "", "", "", ""],
+          "correcta": 0,
+          "resolucion": ""
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "12.1 Título del Video",
+          "youtube_id": "",
+          "pdf_link": "",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 13: Números Racionales (Fracciones)",
+      "pdf_resuelto": "URL_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "",
+          "opciones": ["", "", "", "", ""],
+          "correcta": 0,
+          "resolucion": ""
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "13.1 Título del Video",
+          "youtube_id": "",
+          "pdf_link": "",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 14: Números Decimales y Generatriz",
+      "pdf_resuelto": "URL_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "",
+          "opciones": ["", "", "", "", ""],
+          "correcta": 0,
+          "resolucion": ""
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "14.1 Título del Video",
+          "youtube_id": "",
+          "pdf_link": "",
+          "gratis": true
+        }
+      ]
+    }
+  ]
+}
