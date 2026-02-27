@@ -2036,6 +2036,840 @@
           "gratis": true
         }
       ]
+    },
+  {
+      "titulo": "Tema 8: M.A.S. y Péndulo Simple",
+      "pdf_resuelto": "https://drive.google.com/file/d/1nKn69q6RCW2_OdQoKxt5b9g5C9d7vVdv/view",
+      "preguntas": [
+        {
+          "pregunta": "La gráfica de la figura representa el M.A.S. de una partícula elongación (X) versus tiempo (t). Encontrar la ecuación del movimiento. (La onda parte de 0, llega a 3m en 0.5s y completa media oscilación en 1s).",
+          "opciones": [
+            "$$ x = 2 \\sin(\\pi t) $$",
+            "$$ x = 3 \\sin(\\pi t) $$",
+            "$$ x = 4 \\sin(2\\pi t) $$",
+            "$$ x = 5 \\sin(3\\pi t) $$",
+            "$$ x = 6 \\sin(\\pi t) $$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1: Amplitud</b><br>Del gráfico, el valor máximo de la elongación es $$ A = 3 \\text{ m} $$.<br><br><b>Paso 2: Periodo y Frecuencia Angular</b><br>La onda completa un ciclo (periodo T) en 2 segundos. $$ T = 2 \\text{ s} $$.<br>$$ \\omega = \\frac{2\\pi}{T} = \\frac{2\\pi}{2} = \\pi \\text{ rad/s} $$.<br><br><b>Paso 3: Ecuación</b><br>Como parte del origen hacia los positivos, usamos la función seno:<br>$$ x = A \\sin(\\omega t) $$<br>$$ x = 3 \\sin(\\pi t) $$"
+        },
+        {
+          "pregunta": "La gráfica representa el desplazamiento de un oscilador armónico en función del tiempo. Hallar su amplitud y frecuencia. (Amplitud en eje X es 3cm, la onda cruza el eje 0 en -1/6s y 5/6s).",
+          "opciones": [
+            "2 cm; 0,1 Hz",
+            "6 cm; 0,6 Hz",
+            "3 cm; 0,5 Hz",
+            "4 cm; 1 Hz",
+            "5 cm; 0,2 Hz"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Amplitud:</b><br>Se lee directamente del eje vertical: $$ A = 3 \\text{ cm} $$.<br><br><b>Frecuencia:</b><br>El tiempo para media oscilación es la diferencia de cruces en el eje x:<br>$$ \\frac{T}{2} = \\frac{5}{6} - (-\\frac{1}{6}) = \\frac{6}{6} = 1 \\text{ s} $$.<br>Si $$ T/2 = 1 \\text{ s} $$, entonces el periodo total es $$ T = 2 \\text{ s} $$.<br>La frecuencia es $$ f = \\frac{1}{T} = \\frac{1}{2} = 0.5 \\text{ Hz} $$."
+        },
+        {
+          "pregunta": "En un oscilador armónico, la partícula que lo conforma efectúa 3 oscilaciones en 6 s. ¿Cuánto tiempo demora para efectuar 1 oscilación?",
+          "opciones": [
+            "1 s",
+            "2 s",
+            "3 s",
+            "4 s",
+            "6 s"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Definición de Periodo (T):</b><br>El periodo es el tiempo que demora en realizar una oscilación completa.<br>$$ T = \\frac{\\text{tiempo total}}{\\text{número de oscilaciones}} $$<br>$$ T = \\frac{6 \\text{ s}}{3} = 2 \\text{ s} $$"
+        },
+        {
+          "pregunta": "Una partícula con MAS realiza 120 oscilaciones por minuto. ¿Cuál es la frecuencia de oscilaciones que experimenta?",
+          "opciones": [
+            "2 Hz",
+            "6 Hz",
+            "12 Hz",
+            "60 Hz",
+            "120 Hz"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>La frecuencia se mide en Hertz (oscilaciones por segundo).<br>$$ f = \\frac{\\text{oscilaciones}}{\\text{tiempo}} $$<br>$$ f = \\frac{120}{60 \\text{ s}} = 2 \\text{ Hz} $$"
+        },
+        {
+          "pregunta": "Si un sistema bloque-resorte se mueve con las características de un MAS bajo la ecuación: $$ x = 0,2 \\sin(0,8\\pi t) $$ (x en metros, t en segundos). Calcule la frecuencia de oscilaciones del sistema.",
+          "opciones": [
+            "0,8 Hz",
+            "0,4 Hz",
+            "0,3 Hz",
+            "0,2 Hz",
+            "0,1 Hz"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Comparando ecuaciones:</b><br>Ecuación general: $$ x = A \\sin(\\omega t) $$<br>Ecuación dada: $$ x = 0,2 \\sin(0,8\\pi t) $$<br>Entonces, $$ \\omega = 0,8\\pi $$ rad/s.<br><br><b>Frecuencia:</b><br>$$ \\omega = 2\\pi f $$<br>$$ 0,8\\pi = 2\\pi f $$<br>$$ f = \\frac{0,8}{2} = 0,4 \\text{ Hz} $$"
+        },
+        {
+          "pregunta": "La ecuación que describe la aceleración de una partícula oscilante es: $$ a = -0,25 \\sin(5t + \\pi) \\text{ m/s}^2 $$. Calcule el periodo del MAS que describe la partícula.",
+          "opciones": [
+            "$$ 0,2\\pi \\text{ s} $$",
+            "$$ 0,3\\pi \\text{ s} $$",
+            "$$ 0,4\\pi \\text{ s} $$",
+            "$$ 0,5\\pi \\text{ s} $$",
+            "$$ 0,6\\pi \\text{ s} $$"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Análisis:</b><br>La ecuación de la aceleración es de la forma $$ a(t) = -A\\omega^2 \\sin(\\omega t + \\phi) $$.<br>El coeficiente que acompaña al tiempo 't' es la frecuencia angular ($$ \\omega $$).<br>Por lo tanto, $$ \\omega = 5 \\text{ rad/s} $$.<br><br><b>Periodo (T):</b><br>$$ T = \\frac{2\\pi}{\\omega} = \\frac{2\\pi}{5} = 0,4\\pi \\text{ s} $$"
+        },
+        {
+          "pregunta": "Una partícula describe un MAS y su comportamiento está dado por: $$ x = 20 \\sin(10\\pi t) \\text{ cm} $$. ¿Cuál es la magnitud de su velocidad máxima?",
+          "opciones": [
+            "$$ 10\\pi \\text{ m/s} $$",
+            "$$ 5\\pi \\text{ m/s} $$",
+            "$$ 20\\pi \\text{ m/s} $$",
+            "$$ 2\\pi \\text{ m/s} $$",
+            "$$ 200\\pi \\text{ m/s} $$"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Datos de la ecuación:</b><br>Amplitud $$ A = 20 \\text{ cm} $$<br>Frecuencia angular $$ \\omega = 10\\pi \\text{ rad/s} $$<br><br><b>Velocidad Máxima:</b><br>$$ v_{max} = A\\omega $$<br>$$ v_{max} = 20 \\cdot 10\\pi = 200\\pi \\text{ cm/s} $$<br>Pasando a metros por segundo ($$ 1 \\text{ m} = 100 \\text{ cm} $$):<br>$$ v_{max} = 2\\pi \\text{ m/s} $$"
+        },
+        {
+          "pregunta": "El MAS que desarrolla una partícula está descrito por: $$ x = 10 \\sin(2t + \\pi/2) \\text{ m} $$. Determine el módulo de la aceleración máxima.",
+          "opciones": [
+            "$$ 20 \\text{ m/s}^2 $$",
+            "$$ 30 \\text{ m/s}^2 $$",
+            "$$ 50 \\text{ m/s}^2 $$",
+            "$$ 40 \\text{ m/s}^2 $$",
+            "$$ 80 \\text{ m/s}^2 $$"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Datos de la ecuación:</b><br>Amplitud $$ A = 10 \\text{ m} $$<br>Frecuencia angular $$ \\omega = 2 \\text{ rad/s} $$<br><br><b>Aceleración Máxima:</b><br>$$ a_{max} = A\\omega^2 $$<br>$$ a_{max} = 10 \\cdot (2)^2 = 10 \\cdot 4 = 40 \\text{ m/s}^2 $$"
+        },
+        {
+          "pregunta": "Determine la amplitud de oscilación armónica de una partícula que realiza un MAS horizontal, si cuando $$ x = +7 \\text{ cm} $$ su rapidez es $$ 48 \\text{ cm/s} $$ y cuando $$ x = +20 \\text{ cm} $$ su rapidez es $$ 30 \\text{ cm/s} $$.",
+          "opciones": [
+            "15 cm",
+            "20 cm",
+            "25 cm",
+            "30 cm",
+            "35 cm"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fórmula de la velocidad en función de la posición:</b><br>$$ v = \\omega \\sqrt{A^2 - x^2} $$<br><br><b>Planteando el sistema:</b><br>$$ v_1 = \\omega \\sqrt{A^2 - x_1^2} \\Rightarrow 48 = \\omega \\sqrt{A^2 - 7^2} $$<br>$$ v_2 = \\omega \\sqrt{A^2 - x_2^2} \\Rightarrow 30 = \\omega \\sqrt{A^2 - 20^2} $$<br><br>Elevando al cuadrado y dividiendo ambas ecuaciones:<br>$$ \\frac{48^2}{30^2} = \\frac{A^2 - 49}{A^2 - 400} $$<br>$$ (\\frac{8}{5})^2 = \\frac{64}{25} = \\frac{A^2 - 49}{A^2 - 400} $$<br>$$ 64(A^2 - 400) = 25(A^2 - 49) $$<br>$$ 64A^2 - 25600 = 25A^2 - 1225 $$<br>$$ 39A^2 = 24375 $$<br>$$ A^2 = 625 \\Rightarrow A = 25 \\text{ cm} $$"
+        },
+        {
+          "pregunta": "Un oscilador experimenta 90 vibraciones por minuto con amplitud de 20 cm. Si inicia el movimiento en $$ x_0 = 10 \\text{ cm} $$, determine la ecuación del movimiento.",
+          "opciones": [
+            "$$ 0,20 \\sin(3\\pi t + \\pi/6) \\text{ m} $$",
+            "$$ 20 \\sin(3\\pi t + \\pi/6) \\text{ m} $$",
+            "$$ 0,20 \\sin(3\\pi t + \\pi/3) \\text{ m} $$",
+            "$$ 20 \\sin(3\\pi t + \\pi/3) \\text{ m} $$",
+            "$$ 0,20 \\sin(2\\pi t/6 + \\pi) \\text{ m} $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1: Frecuencia y Velocidad Angular</b><br>$$ f = \\frac{90}{60 \\text{ s}} = 1,5 \\text{ Hz} $$<br>$$ \\omega = 2\\pi f = 2\\pi(1,5) = 3\\pi \\text{ rad/s} $$<br><br><b>Paso 2: Fase Inicial ($\\theta$)</b><br>Amplitud $$ A = 20 \\text{ cm} = 0,2 \\text{ m} $$.<br>En $$ t=0 $$, $$ x_0 = 10 \\text{ cm} = 0,1 \\text{ m} $$.<br>$$ x = A \\sin(\\omega t + \\phi) $$<br>$$ 0,1 = 0,2 \\sin(0 + \\phi) $$<br>$$ \\sin(\\phi) = \\frac{0,1}{0,2} = \\frac{1}{2} \\Rightarrow \\phi = \\pi/6 \\text{ rad} $$<br><br><b>Ecuación Final:</b><br>$$ x = 0,20 \\sin(3\\pi t + \\pi/6) \\text{ m} $$"
+        },
+        {
+          "pregunta": "Un bloque de 3 kg está conectado a un resorte de rigidez $$ k = 300 \\text{ N/m} $$ e inicialmente sin deformar. Si se lanza horizontalmente con rapidez de $$ 5 \\text{ m/s} $$, calcule la magnitud de la aceleración máxima.",
+          "opciones": [
+            "$$ 20 \\text{ m/s}^2 $$",
+            "$$ 30 \\text{ m/s}^2 $$",
+            "$$ 50 \\text{ m/s}^2 $$",
+            "$$ 40 \\text{ m/s}^2 $$",
+            "$$ 80 \\text{ m/s}^2 $$"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1: Frecuencia Angular</b><br>$$ \\omega = \\sqrt{\\frac{k}{m}} = \\sqrt{\\frac{300}{3}} = \\sqrt{100} = 10 \\text{ rad/s} $$<br><br><b>Paso 2: Velocidad Máxima</b><br>Al lanzarse desde la posición de equilibrio (resorte sin deformar), esa velocidad es la máxima.<br>$$ v_{max} = 5 \\text{ m/s} $$<br><br><b>Paso 3: Aceleración Máxima</b><br>$$ a_{max} = \\omega \\cdot v_{max} $$ (ya que $$ a_{max} = A\\omega^2 $$ y $$ v_{max} = A\\omega $$)<br>$$ a_{max} = 10 \\cdot 5 = 50 \\text{ m/s}^2 $$"
+        },
+        {
+          "pregunta": "El movimiento oscilatorio de un cuerpo puede caracterizarse por su frecuencia. En un MAS, un cuerpo presenta un periodo de 2 s. Considere rigidez del resorte $$ K = 200 \\text{ N/m} $$ y $$ \\pi^2 = 10 $$. Calcule su masa.",
+          "opciones": [
+            "5 kg",
+            "10 kg",
+            "15 kg",
+            "20 kg",
+            "25 kg"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Fórmula del Periodo de un Resorte:</b><br>$$ T = 2\\pi \\sqrt{\\frac{m}{k}} $$<br><br><b>Reemplazando datos:</b><br>$$ 2 = 2\\pi \\sqrt{\\frac{m}{200}} $$<br>$$ 1 = \\pi \\sqrt{\\frac{m}{200}} $$<br>Elevando al cuadrado:<br>$$ 1^2 = \\pi^2 \\cdot \\frac{m}{200} $$<br>$$ 1 = 10 \\cdot \\frac{m}{200} $$<br>$$ 1 = \\frac{m}{20} \\Rightarrow m = 20 \\text{ kg} $$"
+        },
+        {
+          "pregunta": "Un sistema en movimiento armónico simple realiza 7 oscilaciones completas en 14 segundos. ¿Cuál es el periodo de una oscilación?",
+          "opciones": [
+            "0,5 s",
+            "1 s",
+            "2 s",
+            "3 s",
+            "4 s"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Cálculo del Periodo:</b><br>$$ T = \\frac{\\text{tiempo total}}{\\text{# de oscilaciones}} $$<br>$$ T = \\frac{14 \\text{ s}}{7} = 2 \\text{ s} $$"
+        },
+        {
+          "pregunta": "Un péndulo simple realiza 6 oscilaciones cada 12 s. Si $$ g = \\pi^2 \\text{ m/s}^2 $$ determine la longitud de la cuerda.",
+          "opciones": [
+            "0,5 m",
+            "1 m",
+            "2 m",
+            "2,5 m",
+            "4 m"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1: Periodo (T)</b><br>$$ T = \\frac{12}{6} = 2 \\text{ s} $$<br><br><b>Paso 2: Longitud del péndulo</b><br>$$ T = 2\\pi \\sqrt{\\frac{L}{g}} $$<br>$$ 2 = 2\\pi \\sqrt{\\frac{L}{\\pi^2}} $$<br>$$ 1 = \\pi \\frac{\\sqrt{L}}{\\pi} $$<br>$$ 1 = \\sqrt{L} \\Rightarrow L = 1 \\text{ m} $$"
+        },
+        {
+          "pregunta": "Un estudiante hace oscilar una esfera de 4 kg con ayuda de un resorte. Cuando pasa por la posición de equilibrio, su rapidez es 2 m/s. Calcule la aceleración máxima. ($$ K = 64 \\text{ N/m} $$)",
+          "opciones": [
+            "$$ 5 \\text{ m/s}^2 $$",
+            "$$ 10 \\text{ m/s}^2 $$",
+            "$$ 8 \\text{ m/s}^2 $$",
+            "$$ 6 \\text{ m/s}^2 $$",
+            "$$ 4 \\text{ m/s}^2 $$"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1: Frecuencia Angular</b><br>$$ \\omega = \\sqrt{\\frac{K}{m}} = \\sqrt{\\frac{64}{4}} = \\sqrt{16} = 4 \\text{ rad/s} $$<br><br><b>Paso 2: Aceleración Máxima</b><br>La rapidez en el equilibrio es la velocidad máxima ($$ v_{max} = 2 \\text{ m/s} $$).<br>Relación: $$ a_{max} = \\omega \\cdot v_{max} $$<br>$$ a_{max} = 4 \\cdot 2 = 8 \\text{ m/s}^2 $$"
+        },
+        {
+          "pregunta": "Si un bloque experimenta un MAS y su análisis de movimiento inicia en la posición $$ x(0) = A/2 $$ hacia el equilibrio, determine la fase inicial considerando la forma de coseno.",
+          "opciones": [
+            "$$ \\pi/6 \\text{ rad} $$",
+            "$$ \\pi/3 \\text{ rad} $$",
+            "$$ \\pi/2 \\text{ rad} $$",
+            "$$ \\pi/4 \\text{ rad} $$",
+            "$$ \\pi \\text{ rad} $$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>Si usamos la ecuación con coseno: $$ x(t) = A \\cos(\\omega t + \\theta) $$<br>Para $$ t = 0 $$:<br>$$ x(0) = A \\cos(\\theta) $$<br>Sustituyendo el dato $$ x(0) = A/2 $$:<br>$$ A/2 = A \\cos(\\theta) $$<br>$$ \\cos(\\theta) = 1/2 \\Rightarrow \\theta = \\pi/3 \\text{ rad} $$ (que equivale a 60°)."
+        },
+        {
+          "pregunta": "En un MAS, la relación entre la rapidez máxima y la máxima aceleración es $$ 2/\\pi $$. Calcule el periodo del MAS.",
+          "opciones": [
+            "1 s",
+            "2 s",
+            "3 s",
+            "4 s",
+            "5 s"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Relación de magnitudes:</b><br>$$ v_{max} = A\\omega $$<br>$$ a_{max} = A\\omega^2 $$<br>Dividiendo ambas:<br>$$ \\frac{v_{max}}{a_{max}} = \\frac{A\\omega}{A\\omega^2} = \\frac{1}{\\omega} $$<br><br><b>Calculando el Periodo:</b><br>Según el dato: $$ \\frac{1}{\\omega} = \\frac{2}{\\pi} \\Rightarrow \\omega = \\frac{\\pi}{2} $$<br>$$ T = \\frac{2\\pi}{\\omega} = \\frac{2\\pi}{\\pi/2} = 4 \\text{ s} $$"
+        },
+        {
+          "pregunta": "Un péndulo de longitud 0,8 m se encuentra en un lugar donde $$ g = 10 \\text{ m/s}^2 $$. ¿Cuál es el periodo aproximado?",
+          "opciones": [
+            "1,6 s",
+            "2,0 s",
+            "1,8 s",
+            "0,9 s",
+            "2,5 s"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Cálculo:</b><br>$$ T = 2\\pi \\sqrt{\\frac{L}{g}} $$<br>$$ T = 2\\pi \\sqrt{\\frac{0,8}{10}} = 2\\pi \\sqrt{0,08} $$<br>$$ T = 2\\pi (0,2828) $$<br>$$ T \\approx 1,77 \\text{ s} \\approx 1,8 \\text{ s} $$"
+        },
+        {
+          "pregunta": "Un péndulo oscila con un periodo de $$ T = 2,2 \\text{ s} $$ en una región donde $$ g = 9,8 \\text{ m/s}^2 $$. Determina la longitud del péndulo.",
+          "opciones": [
+            "0,90 m",
+            "1,20 m",
+            "1,50 m",
+            "0,50 m",
+            "2,00 m"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Despejando L:</b><br>$$ T = 2\\pi \\sqrt{\\frac{L}{g}} \\Rightarrow T^2 = \\frac{4\\pi^2 L}{g} $$<br>$$ L = \\frac{T^2 g}{4\\pi^2} $$<br>$$ L = \\frac{(2,2)^2 \\cdot 9,8}{4 \\cdot (3,1416)^2} $$<br>$$ L = \\frac{4,84 \\cdot 9,8}{39,47} \\approx \\frac{47,432}{39,47} \\approx 1,2 \\text{ m} $$"
+        },
+        {
+          "pregunta": "(CBU 2003-2) Indicar cuál de los siguientes enunciados es incorrecto para un movimiento armónico simple (M.A.S.):",
+          "opciones": [
+            "La energía cinética máxima corresponde a la posición en la que el cuerpo pasa justo por la posición de equilibrio.",
+            "La aceleración mínima del cuerpo corresponde al caso en el que pasa por la posición de equilibrio.",
+            "La energía potencial máxima corresponde al caso en que el cuerpo se halle en la posición de equilibrio.",
+            "La energía potencial máxima corresponde al caso en el que el cuerpo se halle en la posición máxima de elongación.",
+            "La energía potencial mínima corresponde al caso en el que el cuerpo se halla en la posición de equilibrio."
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Análisis de la energía en el MAS:</b><br>- En la posición de equilibrio, el resorte no está deformado ($$ x = 0 $$), por tanto su Energía Potencial ($$ 1/2 kx^2 $$) es MÍNIMA (cero).<br>- Al mismo tiempo, en el equilibrio su velocidad es máxima, por lo que su Energía Cinética es MÁXIMA.<br>- En los extremos (elongación máxima), la deformación es mayor, por tanto la Energía Potencial es MÁXIMA.<br><br><b>Conclusión:</b> El enunciado incorrecto es afirmar que la energía potencial es máxima en la posición de equilibrio."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "8.1. M.A.S y Péndulo - Teoría",
+          "youtube_id": "1twReRE1UBQ",
+          "pdf_link": "https://drive.google.com/file/d/1e_zuCm64uXOHv7hNckGhHJbTfJerwDcE/view",
+          "gratis": true
+        },
+        {
+          "titulo": "8.2. M.A.S y Péndulo - Teoría 2",
+          "youtube_id": "es7Uu_sfcbQ",
+          "pdf_link": "https://drive.google.com/file/d/1e_zuCm64uXOHv7hNckGhHJbTfJerwDcE/view",
+          "gratis": true
+        },
+        {
+          "titulo": "8.1. M.A.S y Péndulo - Ejercicios",
+          "youtube_id": "Yf39NnGzQQ8",
+          "pdf_link": "https://drive.google.com/file/d/10LQrsefc4pIKO78lREa4HN46wX8g5c4m/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 9: Hidrostática & Hidrodinámica",
+      "pdf_resuelto": "https://drive.google.com/file/d/1FuAC9hh4C3fM0WAleXG0JyQkwbAlsrax/view",
+      "preguntas": [
+        {
+          "pregunta": "Halla la presión hidrostática en el fondo del recipiente. (Densidad del líquido A = $$ 600 \\text{ kg/m}^3 $$ y altura = 25 cm; Densidad del líquido B = $$ 800 \\text{ kg/m}^3 $$ y altura = 50 cm). Considere $$ g = 10 \\text{ m/s}^2 $$.",
+          "opciones": [
+            "4 kPa",
+            "5,5 kPa",
+            "8 kPa",
+            "10 kPa",
+            "12,5 kPa"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Principio Fundamental de la Hidrostática:</b><br>La presión total en el fondo es la suma de las presiones de cada líquido.<br>$$ P = \\rho_A g h_A + \\rho_B g h_B $$<br>$$ P = (600)(10)(0,25) + (800)(10)(0,50) $$<br>$$ P = 1500 + 4000 = 5500 \\text{ Pa} $$<br>$$ P = 5,5 \\text{ kPa} $$"
+        },
+        {
+          "pregunta": "Si un cuerpo esférico está en equilibrio atado con una cuerda al fondo de un recipiente con agua, indica su diagrama de cuerpo libre (DCL) correcto.",
+          "opciones": [
+            "Empuje (arriba), Peso (abajo)",
+            "Empuje (arriba), Tensión (abajo), Peso (abajo)",
+            "Tensión (arriba), Peso (abajo)",
+            "Empuje (abajo), Peso (arriba)",
+            "Normal (arriba), Peso (abajo)"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Análisis de Fuerzas:</b><br>1. El <b>Peso ($$ W $$)</b> siempre apunta hacia abajo.<br>2. El <b>Empuje hidrostático ($$ E $$)</b> que ejerce el agua siempre apunta hacia arriba.<br>3. Como la esfera tiende a flotar y está sujeta al fondo por una cuerda, la cuerda la jala hacia abajo, por lo que la <b>Tensión ($$ T $$)</b> apunta hacia abajo.<br><b>Equilibrio:</b> $$ E = W + T $$."
+        },
+        {
+          "pregunta": "En una prensa hidráulica, las áreas de sus respectivos émbolos están en la relación 1:30. ¿Qué fuerza deberá ser aplicada en el émbolo menor para levantar un auto de 600 N en el émbolo mayor?",
+          "opciones": [
+            "10 N",
+            "40 N",
+            "30 N",
+            "20 N",
+            "50 N"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Principio de Pascal:</b><br>$$ \\frac{F_1}{A_1} = \\frac{F_2}{A_2} $$<br>Datos: $$ F_2 = 600 \\text{ N} $$, $$ \\frac{A_1}{A_2} = \\frac{1}{30} $$<br>Despejando $$ F_1 $$:<br>$$ F_1 = F_2 \\left(\\frac{A_1}{A_2}\\right) $$<br>$$ F_1 = 600 \\left(\\frac{1}{30}\\right) $$<br>$$ F_1 = 20 \\text{ N} $$"
+        },
+        {
+          "pregunta": "Calcula la velocidad $$ V_1 $$ que debe tener el agua en un tubo de Venturi. La sección ancha $$ A_1 = 5A_2 $$. La presión $$ P_1 = 48 \\times 10^5 \\text{ Pa} $$ y la velocidad $$ V_2 $$ es tal que $$ P_2 = 0 $$. (Densidad del agua = $$ 1000 \\text{ kg/m}^3 $$).",
+          "opciones": [
+            "$$ 10 \\text{ m/s} $$",
+            "$$ 20 \\text{ m/s} $$",
+            "$$ 30 \\text{ m/s} $$",
+            "$$ 15 \\text{ m/s} $$",
+            "$$ 25 \\text{ m/s} $$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1: Ecuación de Continuidad</b><br>$$ A_1 V_1 = A_2 V_2 \\Rightarrow (5A_2)V_1 = A_2 V_2 \\Rightarrow V_2 = 5V_1 $$<br><br><b>Paso 2: Ecuación de Bernoulli (Tubo horizontal, h=0)</b><br>$$ P_1 + \\frac{1}{2}\\rho V_1^2 = P_2 + \\frac{1}{2}\\rho V_2^2 $$<br>$$ 48 \\times 10^5 + \\frac{1}{2}(1000)V_1^2 = 0 + \\frac{1}{2}(1000)(5V_1)^2 $$<br>$$ 4800000 + 500V_1^2 = 500(25V_1^2) $$<br>$$ 4800000 + 500V_1^2 = 12500V_1^2 $$<br>$$ 4800000 = 12000V_1^2 $$<br>$$ 400 = V_1^2 \\Rightarrow V_1 = 20 \\text{ m/s} $$"
+        },
+        {
+          "pregunta": "(Admisión 2000-2) El barómetro de Torricelli puede medir:",
+          "opciones": [
+            "la presión atmosférica y la humedad",
+            "la humedad y la altura",
+            "la altura y la temperatura",
+            "la presión atmosférica y la altura",
+            "la temperatura y la presión atmosférica"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Teoría:</b><br>El barómetro de Torricelli mide directamente la <b>presión atmosférica</b> determinando la <b>altura</b> de la columna de mercurio en equilibrio. No tiene capacidad para medir humedad ni temperatura."
+        },
+        {
+          "pregunta": "(Admisión 2001-1) La presión hidrostática existe debido a:",
+          "opciones": [
+            "la acción de la gravedad sobre el fluido",
+            "la interacción molecular en el fluido",
+            "la interacción atómica en el fluido",
+            "la interacción del campo magnético terrestre sobre el fluido",
+            "la forma del recipiente que contiene el fluido"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Teoría:</b><br>La presión hidrostática se origina por el <b>peso</b> de las capas superiores del fluido sobre las inferiores. El peso es consecuencia directa de la acción de la <b>gravedad</b> sobre la masa del fluido ($$ P = \\rho g h $$)."
+        },
+        {
+          "pregunta": "(CBU 2001-2) En una prensa hidráulica el área del pistón mayor es ocho veces el área del pistón menor. Si al pistón menor se le aplica una fuerza de 10 N, hallar en N el valor de la fuerza del pistón mayor.",
+          "opciones": [
+            "50",
+            "60",
+            "40",
+            "80",
+            "100"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Principio de Pascal:</b><br>$$ \\frac{F_1}{A_1} = \\frac{F_2}{A_2} $$<br>$$ \\frac{10}{A_1} = \\frac{F_2}{8A_1} $$<br>$$ 10 = \\frac{F_2}{8} $$<br>$$ F_2 = 80 \\text{ N} $$"
+        },
+        {
+          "pregunta": "(CBU 2001-2) Si en una cierta localidad la altura barométrica es de 38 cm de Hg, entonces la presión en kPa de dicha localidad será (considerando que la presión atmosférica es $$ 10^5 \\text{ Pa} $$ a 76 cmHg):",
+          "opciones": [
+            "20",
+            "30",
+            "40",
+            "60",
+            "50"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Regla de tres simple:</b><br>La presión a nivel del mar es 76 cmHg que equivale a $$ 10^5 \\text{ Pa} $$ (o 100 kPa).<br>$$ 76 \\text{ cmHg} \\longrightarrow 100 \\text{ kPa} $$<br>$$ 38 \\text{ cmHg} \\longrightarrow X $$<br>$$ X = \\frac{38 \\times 100}{76} = \\frac{1}{2} \\times 100 = 50 \\text{ kPa} $$"
+        },
+        {
+          "pregunta": "(CBU 2001-2) Un cuerpo de 200 kg suspendido mediante un dinamómetro es colocado dentro de un depósito con agua. Halla el valor de la fuerza en N que se lee en el dinamómetro si el cuerpo queda totalmente sumergido. (Densidad del cuerpo = $$ 2\\times10^3 \\text{ kg/m}^3 $$, $$ g=10 \\text{ m/s}^2 $$).",
+          "opciones": [
+            "850",
+            "900",
+            "1000",
+            "950",
+            "2500"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1: Volumen del cuerpo</b><br>$$ V = \\frac{m}{\\rho} = \\frac{200}{2000} = 0,1 \\text{ m}^3 $$<br><br><b>Paso 2: Empuje hidrostático</b><br>$$ E = \\rho_{\\text{agua}} \\cdot g \\cdot V_{sumergido} $$<br>$$ E = 1000 \\cdot 10 \\cdot 0,1 = 1000 \\text{ N} $$<br><br><b>Paso 3: Equilibrio (Peso Aparente = Tensión del dinamómetro)</b><br>$$ W_{real} = m \\cdot g = 200 \\cdot 10 = 2000 \\text{ N} $$<br>$$ T = W_{real} - E = 2000 - 1000 = 1000 \\text{ N} $$"
+        },
+        {
+          "pregunta": "(CBU 2002-1) Los pistones de una prensa hidráulica poseen radios de 4 mm y 8 cm. Determina el menor valor de la fuerza que deberá aplicarse usando dicha prensa para levantar un cuerpo de 160 kg. ($$ g=10 \\text{ m/s}^2 $$)",
+          "opciones": [
+            "40 N",
+            "160 N",
+            "0,25 N",
+            "80 N",
+            "4 N"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Paso 1: Convertir radios a metros</b><br>$$ r_1 = 4 \\text{ mm} = 4 \\times 10^{-3} \\text{ m} $$<br>$$ r_2 = 8 \\text{ cm} = 8 \\times 10^{-2} \\text{ m} $$<br><br><b>Paso 2: Principio de Pascal</b><br>$$ W = m \\cdot g = 160 \\cdot 10 = 1600 \\text{ N} $$<br>$$ \\frac{F_1}{\\pi r_1^2} = \\frac{F_2}{\\pi r_2^2} $$<br>$$ \\frac{F_1}{(4 \\times 10^{-3})^2} = \\frac{1600}{(8 \\times 10^{-2})^2} $$<br>$$ \\frac{F_1}{16 \\times 10^{-6}} = \\frac{1600}{64 \\times 10^{-4}} $$<br>$$ F_1 = \\frac{1600 \\times 16 \\times 10^{-6}}{64 \\times 10^{-4}} = \\frac{25600 \\times 10^{-6}}{64 \\times 10^{-4}} = 4 \\text{ N} $$"
+        },
+        {
+          "pregunta": "(Admisión 2002-2) Un barómetro de Torricelli, en una mina por debajo del nivel del mar, indica 95 cm de Hg. Calcular en atmósferas la presión del aire de dicha mina.",
+          "opciones": [
+            "1",
+            "5/4",
+            "3/2",
+            "7/4",
+            "3/4"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Conversión simple:</b><br>Sabemos que la presión atmosférica normal a nivel del mar es 1 atm = 76 cmHg.<br>$$ P = \\frac{95 \\text{ cmHg}}{76 \\text{ cmHg/atm}} $$<br>Simplificando (dividiendo entre 19):<br>$$ P = \\frac{5}{4} \\text{ atm} $$"
+        },
+        {
+          "pregunta": "(CBU 2002-2) Sobre un disco de 5 cm de radio actúa una fuerza de $$ 500\\pi \\text{ N} $$. Determina la presión en kPa que ejerce la fuerza sobre el disco si esta forma un ángulo de 37° con la normal del disco.",
+          "opciones": [
+            "120",
+            "16",
+            "1,6",
+            "1,2",
+            "160"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1: Fuerza Normal Efectiva</b><br>La presión solo la ejerce la componente perpendicular al disco.<br>Si forma 37° con el disco (la horizontal), la componente vertical es: $$ F_N = F \\sin(37^\\circ) = 500\\pi \\left(\\frac{3}{5}\\right) = 300\\pi \\text{ N} $$.<br><br><b>Paso 2: Área del disco</b><br>$$ A = \\pi r^2 = \\pi (5 \\times 10^{-2})^2 = 25\\pi \\times 10^{-4} \\text{ m}^2 $$<br><br><b>Paso 3: Presión</b><br>$$ P = \\frac{F_N}{A} = \\frac{300\\pi}{25\\pi \\times 10^{-4}} = 12 \\times 10^4 \\text{ Pa} = 120 \\text{ kPa} $$"
+        },
+        {
+          "pregunta": "(CBU 2002-2) La presión atmosférica en el Cusco es 512 mmHg. Si un barómetro se cargara con un líquido de densidad $$ 6800 \\text{ kg/m}^3 $$ en lugar de mercurio, ¿qué lectura en milímetros proporcionaría dicho barómetro? (Densidad del mercurio $$ 13600 \\text{ kg/m}^3 $$).",
+          "opciones": [
+            "2048",
+            "680",
+            "512",
+            "1024",
+            "256"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Equivalencia de presiones hidrostáticas:</b><br>Ambas columnas deben ejercer la misma presión.<br>$$ \\rho_{Hg} \\cdot g \\cdot h_{Hg} = \\rho_{liq} \\cdot g \\cdot h_{liq} $$<br>$$ 13600 \\cdot 512 = 6800 \\cdot h_{liq} $$<br>$$ h_{liq} = \\frac{13600}{6800} \\times 512 $$<br>$$ h_{liq} = 2 \\times 512 = 1024 \\text{ mm} $$"
+        },
+        {
+          "pregunta": "(Admisión 2002 PO) Un recipiente se encuentra repleto de un líquido cuya densidad es $$ 4 \\text{ g/cm}^3 $$. Si la presión hidrostática en la base del cilindro es 80 kPa, determinar la altura del cilindro. ($$ g=10 \\text{ m/s}^2 $$).",
+          "opciones": [
+            "2 m",
+            "3,2 m",
+            "0,1 m",
+            "1 m",
+            "0,2 m"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Conversión:</b><br>Densidad $$ \\rho = 4 \\text{ g/cm}^3 = 4000 \\text{ kg/m}^3 $$<br>Presión $$ P = 80 \\text{ kPa} = 80000 \\text{ Pa} $$<br><br><b>Fórmula de Presión Hidrostática:</b><br>$$ P = \\rho \\cdot g \\cdot h $$<br>$$ 80000 = 4000 \\cdot 10 \\cdot h $$<br>$$ 80000 = 40000 \\cdot h $$<br>$$ h = 2 \\text{ m} $$"
+        },
+        {
+          "pregunta": "(CBU 2003-1) Si el peso aparente de un objeto en el agua es 4 N menor que su peso aparente en el aceite, determinar el volumen del objeto. (Densidad del aceite: $$ 800 \\text{ kg/m}^3 $$, Densidad agua: $$ 1000 \\text{ kg/m}^3 $$).",
+          "opciones": [
+            "$$ 2\\times10^{-3} \\text{ m}^3 $$",
+            "$$ 1\\times10^{-3} \\text{ m}^3 $$",
+            "$$ 6\\times10^{-3} \\text{ m}^3 $$",
+            "$$ 3\\times10^{-3} \\text{ m}^3 $$",
+            "$$ 4\\times10^{-3} \\text{ m}^3 $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Ecuación de Peso Aparente:</b><br>$$ W_{ap} = W_{real} - E $$<br>Dato: $$ W_{ap(agua)} = W_{ap(aceite)} - 4 $$<br>$$ W_{real} - E_{agua} = W_{real} - E_{aceite} - 4 $$<br>$$ E_{agua} - E_{aceite} = 4 $$<br>Sustituyendo el empuje ($$ \\rho \\cdot g \\cdot V $$):<br>$$ (1000)(10)V - (800)(10)V = 4 $$<br>$$ 10000V - 8000V = 4 $$<br>$$ 2000V = 4 \\Rightarrow V = 2 \\times 10^{-3} \\text{ m}^3 $$"
+        },
+        {
+          "pregunta": "(CBU 2003-2) La viscosidad es la propiedad física que caracteriza:",
+          "opciones": [
+            "el incremento de la densidad de los fluidos",
+            "el decremento de la densidad de los fluidos",
+            "la capacidad de los fluidos para aumentar la velocidad de los cuerpos",
+            "la oposición que ejercen los fluidos al desplazamiento de los cuerpos",
+            "la constancia de la densidad de los fluidos"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Teoría:</b><br>La viscosidad es la propiedad que mide la resistencia interna de un fluido al movimiento o flujo. Físicamente representa la oposición (fricción interna) que ejercen los fluidos al desplazamiento de los cuerpos sólidos en su interior o al deslizamiento de sus propias capas."
+        },
+        {
+          "pregunta": "(Admisión 2003 PO) En un servicentro se emplea una prensa hidráulica para levantar una camioneta de 2000 kg de masa. Los émbolos cilíndricos pequeño y grande tienen diámetros de 5 cm y 50 cm, respectivamente. ¿Qué fuerza en newtons deberá aplicarse en el émbolo pequeño?",
+          "opciones": [
+            "2000",
+            "20",
+            "40",
+            "200",
+            "100"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Principio de Pascal:</b><br>Peso del auto $$ W = 2000 \\cdot 10 = 20000 \\text{ N} $$<br>El área es proporcional al diámetro al cuadrado ($$ A \\propto D^2 $$).<br>$$ \\frac{F_1}{D_1^2} = \\frac{F_2}{D_2^2} $$<br>$$ \\frac{F_1}{5^2} = \\frac{20000}{50^2} $$<br>$$ \\frac{F_1}{25} = \\frac{20000}{2500} $$<br>$$ F_1 = \\frac{20000 \\cdot 25}{2500} = \\frac{500000}{2500} = 200 \\text{ N} $$"
+        },
+        {
+          "pregunta": "(CBU 2004) La presión de un gas en un tanque es 380 cm de Hg. Expresada en pascales, dicha presión es (considerar que 76 cm de Hg = $$ 10^5 \\text{ Pa} $$):",
+          "opciones": [
+            "$$ 6\\times10^5 $$",
+            "$$ 5\\times10^5 $$",
+            "$$ 3,25\\times10^4 $$",
+            "$$ 4,2\\times10^5 $$",
+            "$$ 3,6\\times10^3 $$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Regla de tres simple:</b><br>$$ 76 \\text{ cmHg} \\longrightarrow 10^5 \\text{ Pa} $$<br>$$ 380 \\text{ cmHg} \\longrightarrow X $$<br>$$ X = \\frac{380 \\times 10^5}{76} = 5 \\times 10^5 \\text{ Pa} $$"
+        },
+        {
+          "pregunta": "(CBU 2004-1) En un tubo horizontal por el cual circula agua, la diferencia de presiones entre la sección ancha y la angosta es 24 kPa. Si el área de la sección ancha es el doble del área angosta, determinar la velocidad en la sección angosta.",
+          "opciones": [
+            "$$ 4 \\text{ m/s} $$",
+            "$$ 8 \\text{ m/s} $$",
+            "$$ 16 \\text{ m/s} $$",
+            "$$ 12 \\text{ m/s} $$",
+            "$$ 4\\sqrt{2} \\text{ m/s} $$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1: Continuidad</b><br>$$ A_1 V_1 = A_2 V_2 $$<br>$$ (2A_2)V_1 = A_2 V_2 \\Rightarrow V_1 = \\frac{V_2}{2} $$<br><br><b>Paso 2: Ecuación de Bernoulli</b><br>Dado que es horizontal ($$ h_1 = h_2 $$):<br>$$ P_1 - P_2 = \\frac{1}{2} \\rho (V_2^2 - V_1^2) $$<br>$$ 24000 = \\frac{1}{2}(1000) \\left(V_2^2 - \\left(\\frac{V_2}{2}\\right)^2\\right) $$<br>$$ 24000 = 500 \\left(V_2^2 - \\frac{V_2^2}{4}\\right) $$<br>$$ 48 = \\frac{3V_2^2}{4} \\Rightarrow 192 = 3V_2^2 \\Rightarrow V_2^2 = 64 \\Rightarrow V_2 = 8 \\text{ m/s} $$"
+        },
+        {
+          "pregunta": "(CBU 2005-1) Las siguientes proposiciones indican la que corresponde a presión atmosférica:\nI) La presión barométrica en el Cusco es de 512 mmHg.\nII) La presión máxima en el torrente sanguíneo a la salida del corazón es de 120 mmHg.\nIII) La presión hidrostática a 10 m de profundidad en el mar es de $$ 98\\times10^3 \\text{ Pa} $$.",
+          "opciones": [
+            "I, II y III",
+            "Solo I",
+            "II y III",
+            "Solo II",
+            "I y II"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Análisis:</b><br>- La proposición I habla de presión barométrica, que es la forma de medir la presión que ejerce la <b>atmósfera</b>.<br>- La proposición II corresponde a la presión <b>sanguínea</b>.<br>- La proposición III corresponde a la presión <b>hidrostática</b> en un fluido.<br>Por lo tanto, solo la I corresponde a presión atmosférica."
+        },
+        {
+          "pregunta": "(CBU 2005-1) ¿En cuántas horas se llenará un tanque de volumen $$ 144\\pi \\text{ m}^3 $$ a través de un caño de radio 1 cm, por el cual fluye agua a razón de 4 m/s?",
+          "opciones": [
+            "100",
+            "24",
+            "36",
+            "12",
+            "200"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1: Cálculo del Caudal ($$ Q $$)</b><br>$$ Q = A \\cdot v = (\\pi r^2) \\cdot v $$<br>$$ Q = \\pi (1 \\times 10^{-2} \\text{ m})^2 \\cdot 4 $$<br>$$ Q = 4\\pi \\times 10^{-4} \\text{ m}^3/\\text{s} $$<br><br><b>Paso 2: Tiempo de llenado</b><br>$$ t = \\frac{Volumen}{Q} = \\frac{144\\pi}{4\\pi \\times 10^{-4}} = 36 \\times 10^4 \\text{ s} $$<br>$$ t = 360,000 \\text{ s} $$<br><br><b>Paso 3: Convertir a horas</b><br>$$ t = \\frac{360,000}{3600} = 100 \\text{ h} $$"
+        },
+        {
+          "pregunta": "(CBU 2005-1) La viscosidad genera:",
+          "opciones": [
+            "el decremento de la temperatura",
+            "la variación de la densidad de los líquidos",
+            "la desaceleración en el movimiento de los cuerpos en el interior de los fluidos",
+            "el incremento de la velocidad de los cuerpos que se mueven en los fluidos",
+            "la variación del volumen en los líquidos"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Teoría:</b><br>La viscosidad genera fuerzas de rozamiento interno que se oponen al movimiento relativo. Esta fricción fluida produce una <b>desaceleración</b> en los cuerpos que intentan moverse a través del interior de dicho fluido."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "9.1. Hidrostática e Hidrodinámica - Teoría",
+          "youtube_id": "PFUBbUeYrVQ",
+          "pdf_link": "https://drive.google.com/file/d/11i2EtHZM9OkWHcqI4nlWNt85Q_KMhBdx/view",
+          "gratis": true
+        },
+        {
+          "titulo": "9.2. Hidrostática e Hidrodinámica - Ejercicios 1",
+          "youtube_id": "R4o4ML0EHmk",
+          "pdf_link": "https://drive.google.com/file/d/1We-gzLseWcwPcbe268MGzlgdCzwQifWC/view",
+          "gratis": true
+        },
+        {
+          "titulo": "9.3. Hidrostática e Hidrodinámica - Ejercicios 2",
+          "youtube_id": "o6nEjWA2hs0",
+          "pdf_link": "https://drive.google.com/file/d/1We-gzLseWcwPcbe268MGzlgdCzwQifWC/view",
+          "gratis": true
+        },
+        {
+          "titulo": "9.1. Hidrostática e Hidrodinámica - Ejercicios 3",
+          "youtube_id": "eef4iLeH6AY",
+          "pdf_link": "https://drive.google.com/file/d/1We-gzLseWcwPcbe268MGzlgdCzwQifWC/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 10: Temperatura, Dilatación y Calor",
+      "pdf_resuelto": "https://drive.google.com/file/d/1lZOC8XW0TiSFKbdIc9mqt8is2zz9j3g3/view",
+      "preguntas": [
+        {
+          "pregunta": "(CBU 2002-1B) Una cierta escala absoluta (°X) tiene como temperatura de fusión del hielo $$ 600^{\\circ}X $$. ¿A cuántos grados en la escala centígrada corresponderán $$ 200^{\\circ}X $$?",
+          "opciones": [
+            "$$ -162^{\\circ}C $$",
+            "$$ 182^{\\circ}C $$",
+            "$$ 162^{\\circ}C $$",
+            "$$ -182^{\\circ}C $$",
+            "$$ -148^{\\circ}C $$"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>Al ser escala absoluta, el cero absoluto (0 K o $$ -273^{\\circ}C $$) corresponde a $$ 0^{\\circ}X $$.<br>Relacionamos mediante el teorema de Thales:<br>$$ \\frac{X - 0}{600 - 0} = \\frac{C - (-273)}{0 - (-273)} $$<br>Reemplazamos $$ X = 200 $$:<br>$$ \\frac{200}{600} = \\frac{C + 273}{273} $$<br>$$ \\frac{1}{3} = \\frac{C + 273}{273} $$<br>$$ 91 = C + 273 \\Rightarrow C = -182^{\\circ}C $$"
+        },
+        {
+          "pregunta": "(CBU 2002-2A) En una escala absoluta de temperatura (°A), el hielo se funde a $$ 20^{\\circ}A $$. ¿A cuántos grados centígrados corresponderá un incremento de $$ 40^{\\circ}A $$?",
+          "opciones": [
+            "$$ 0^{\\circ}C $$",
+            "$$ 413^{\\circ}C $$",
+            "$$ 546^{\\circ}C $$",
+            "$$ 446^{\\circ}C $$",
+            "$$ 313^{\\circ}C $$"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>Al ser una escala absoluta, inicia en 0 (que equivale a $$ -273^{\\circ}C $$).<br>El punto de fusión del hielo es $$ 0^{\\circ}C $$ (273 K), que corresponde a $$ 20^{\\circ}A $$.<br>Planteamos la relación de variaciones:<br>$$ \\frac{\\Delta^{\\circ}A}{20 - 0} = \\frac{\\Delta^{\\circ}C}{0 - (-273)} $$<br>Reemplazando $$ \\Delta^{\\circ}A = 40 $$:<br>$$ \\frac{40}{20} = \\frac{\\Delta^{\\circ}C}{273} $$<br>$$ 2 = \\frac{\\Delta^{\\circ}C}{273} \\Rightarrow \\Delta^{\\circ}C = 546 $$"
+        },
+        {
+          "pregunta": "(CBU 2003-1) El partido de fútbol entre los equipos de Eliano y Sport Boys se jugó a las 8 p.m. a una temperatura de $$ 50^{\\circ}F $$. Si la diferencia entre la temperatura de las 3 p.m. y las 8 p.m. fue de $$ 9^{\\circ}F $$, ¿qué temperatura hubo a las 3 p.m. en grados centígrados?",
+          "opciones": [
+            "$$ 18^{\\circ}C $$",
+            "$$ 15^{\\circ}C $$",
+            "$$ 14^{\\circ}C $$",
+            "$$ 16^{\\circ}C $$",
+            "$$ 13^{\\circ}C $$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1: Hallar la temperatura a las 3 p.m.</b><br>Según el contexto del solucionario, la temperatura inicial era mayor: $$ T_F - 50^{\\circ}F = 9^{\\circ}F $$.<br>$$ T_F = 59^{\\circ}F $$<br><br><b>Paso 2: Convertir a Celsius</b><br>$$ \\frac{C}{5} = \\frac{F - 32}{9} $$<br>$$ \\frac{C}{5} = \\frac{59 - 32}{9} = \\frac{27}{9} = 3 $$<br>$$ C = 15^{\\circ}C $$"
+        },
+        {
+          "pregunta": "(CBU 2003-2) Se tiene un termómetro de mercurio graduado en la escala Celsius y en la escala Fahrenheit. Si $$ 40^{\\circ}C $$ abarcan 18 cm de longitud, $$ 30^{\\circ}F $$ abarcarán:",
+          "opciones": [
+            "8 cm",
+            "6 cm",
+            "10 cm",
+            "7,5 cm",
+            "7 cm"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1: Relacionar variaciones</b><br>$$ \\frac{\\Delta T_C}{5} = \\frac{\\Delta T_F}{9} $$<br>Si $$ \\Delta T_C = 40 $$:<br>$$ \\frac{40}{5} = \\frac{\\Delta T_F}{9} \\Rightarrow 8 = \\frac{\\Delta T_F}{9} \\Rightarrow \\Delta T_F = 72^{\\circ}F $$<br><br><b>Paso 2: Regla de tres simple con la longitud</b><br>$$ 72^{\\circ}F \\longrightarrow 18 \\text{ cm} $$<br>$$ 30^{\\circ}F \\longrightarrow X \\text{ cm} $$<br>$$ X = \\frac{30 \\cdot 18}{72} = 7,5 \\text{ cm} $$"
+        },
+        {
+          "pregunta": "(CBU 2005-1) ¿Qué temperatura en Celsius es igual a -5 veces la temperatura en Fahrenheit?",
+          "opciones": [
+            "$$ 16^{\\circ}C $$",
+            "$$ -16^{\\circ}C $$",
+            "$$ -3,2^{\\circ}C $$",
+            "$$ 3,2^{\\circ}C $$",
+            "$$ -40^{\\circ}C $$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Planteamiento:</b><br>Condición: $$ C = -5F $$ (Se asume el signo negativo basado en el solucionario).<br>Fórmula: $$ \\frac{C}{5} = \\frac{F - 32}{9} $$<br>Sustituyendo $$ C $$:<br>$$ \\frac{-5F}{5} = \\frac{F - 32}{9} $$<br>$$ -F = \\frac{F - 32}{9} $$<br>$$ -9F = F - 32 $$<br>$$ 32 = 10F \\Rightarrow F = 3,2 $$<br><br>Reemplazando en la condición:<br>$$ C = -5(3,2) = -16^{\\circ}C $$"
+        },
+        {
+          "pregunta": "(UNSAAC 2004-1) La temperatura de ebullición del agua en una escala arbitraria (°X) es $$ 104^{\\circ}X $$. Si $$ 62^{\\circ}F $$ corresponden a $$ 29^{\\circ}X $$, determinar en cuántos grados Fahrenheit se elevará la temperatura de un cuerpo cuando esta aumenta en $$ 10^{\\circ}X $$.",
+          "opciones": [
+            "$$ 10^{\\circ}F $$",
+            "$$ 19^{\\circ}F $$",
+            "$$ 39^{\\circ}F $$",
+            "$$ 98^{\\circ}F $$",
+            "$$ 20^{\\circ}F $$"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Relacionando intervalos de temperatura:</b><br>Punto de ebullición del agua en °F es $$ 212^{\\circ}F $$ que equivale a $$ 104^{\\circ}X $$.<br>Otro punto dado: $$ 62^{\\circ}F $$ equivale a $$ 29^{\\circ}X $$.<br>Variación en X: $$ \\Delta X = 104 - 29 = 75^{\\circ}X $$<br>Variación en F: $$ \\Delta F = 212 - 62 = 150^{\\circ}F $$<br><br><b>Proporción:</b><br>$$ \\frac{\\Delta X}{75} = \\frac{\\Delta F}{150} \\Rightarrow \\frac{\\Delta X}{1} = \\frac{\\Delta F}{2} $$<br>Si $$ \\Delta X = 10 $$:<br>$$ \\Delta F = 2(10) = 20^{\\circ}F $$"
+        },
+        {
+          "pregunta": "(UNSAAC 2011-2) Un cuerpo se encuentra inicialmente a $$ 20^{\\circ}C $$. Se le incrementa su temperatura en $$ 36^{\\circ}F $$, luego se le disminuye en 20 K y finalmente se le incrementa en $$ 72^{\\circ}R $$. La temperatura final del cuerpo en grados centígrados es:",
+          "opciones": [
+            "$$ 108^{\\circ}C $$",
+            "$$ 80^{\\circ}C $$",
+            "$$ 54^{\\circ}C $$",
+            "$$ 60^{\\circ}C $$",
+            "$$ 30^{\\circ}C $$"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Conversión de Variaciones a Celsius:</b><br>Fórmula de variaciones: $$ \\frac{\\Delta C}{5} = \\frac{\\Delta F}{9} = \\frac{\\Delta K}{5} = \\frac{\\Delta R}{9} $$<br>1. $$ \\Delta F = 36 \\Rightarrow \\Delta C = 36(5/9) = +20^{\\circ}C $$<br>2. $$ \\Delta K = 20 \\Rightarrow \\Delta C = -20^{\\circ}C $$<br>3. $$ \\Delta R = 72 \\Rightarrow \\Delta C = 72(5/9) = +40^{\\circ}C $$<br><br><b>Suma de la temperatura:</b><br>$$ T_F = 20^{\\circ}C + 20^{\\circ}C - 20^{\\circ}C + 40^{\\circ}C = 60^{\\circ}C $$"
+        },
+        {
+          "pregunta": "(UNSAAC 2012) Si un cuerpo se encuentra a 293 K, su temperatura en la escala Fahrenheit es:",
+          "opciones": [
+            "$$ 65^{\\circ}F $$",
+            "$$ 68^{\\circ}F $$",
+            "$$ 20^{\\circ}F $$",
+            "$$ 50^{\\circ}F $$",
+            "$$ 70^{\\circ}F $$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Conversión de Kelvin a Fahrenheit:</b><br>$$ \\frac{F - 32}{9} = \\frac{K - 273}{5} $$<br>$$ \\frac{F - 32}{9} = \\frac{293 - 273}{5} $$<br>$$ \\frac{F - 32}{9} = \\frac{20}{5} = 4 $$<br>$$ F - 32 = 36 \\Rightarrow F = 68^{\\circ}F $$"
+        },
+        {
+          "pregunta": "(CBU 2002-1) Establecer en qué porcentaje aumentará el volumen de una esfera si la temperatura se incrementa en $$ 90^{\\circ}F $$. El radio inicial es 5 cm y el coeficiente de dilatación lineal es $$ 4\\times10^{-5} K^{-1} $$.",
+          "opciones": [
+            "0,9%",
+            "0,6%",
+            "8%",
+            "2%",
+            "0,2%"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1: Variación de temperatura y coeficiente volumétrico</b><br>$$ \\Delta F = 90 \\Rightarrow \\Delta C = 90(5/9) = 50^{\\circ}C = 50 \\text{ K} $$<br>Coeficiente volumétrico $$ \\gamma = 3\\alpha = 3(4\\times 10^{-5}) = 12\\times 10^{-5} \\text{ K}^{-1} $$<br><br><b>Paso 2: Dilatación Volumétrica</b><br>$$ \\frac{\\Delta V}{V_0} = \\gamma \\cdot \\Delta T $$<br>$$ \\frac{\\Delta V}{V_0} = (12\\times 10^{-5}) \\cdot (50) = 600\\times 10^{-5} = 6\\times 10^{-3} = 0,006 $$<br>En porcentaje: $$ 0,006 \\times 100\\% = 0,6\\% $$"
+        },
+        {
+          "pregunta": "(CBU 2004-1) Se dispone de 3 L de un líquido que llena completamente un recipiente. Al proporcionarle calor sin pérdida, el líquido se dilata en 3/10 de su volumen, mientras que el recipiente lo hace en 2/15 de su volumen. Hallar el volumen del líquido derramado.",
+          "opciones": [
+            "$$ 250 \\text{ cm}^3 $$",
+            "$$ 1/3 \\text{ L} $$",
+            "$$ 1/2 \\text{ L} $$",
+            "$$ 375 \\text{ cm}^3 $$",
+            "$$ 1/3\\times10^{-3} \\text{ m}^3 $$"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Volumen Derramado:</b><br>$$ V_{derramado} = \\Delta V_{liquido} - \\Delta V_{recipiente} $$<br>$$ \\Delta V_{liquido} = \\frac{3}{10} \\cdot 3\\text{L} = \\frac{9}{10}\\text{L} $$<br>$$ \\Delta V_{recipiente} = \\frac{2}{15} \\cdot 3\\text{L} = \\frac{6}{15}\\text{L} = \\frac{4}{10}\\text{L} $$<br>$$ V_{derramado} = \\frac{9}{10} - \\frac{4}{10} = \\frac{5}{10} = \\frac{1}{2} \\text{ L} $$"
+        },
+        {
+          "pregunta": "(CBU 2004-2) Un cascarón esférico tiene radio 7 cm a $$ 17^{\\circ}C $$. Si la superficie aumenta en 25%, ¿cuál será su temperatura final? El coeficiente de dilatación lineal es $$ 5\\times10^{-3} K^{-1} $$.",
+          "opciones": [
+            "$$ 25^{\\circ}C $$",
+            "$$ 340^{\\circ}C $$",
+            "$$ 42^{\\circ}C $$",
+            "$$ 315^{\\circ}C $$",
+            "$$ 67^{\\circ}C $$"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Dilatación Superficial:</b><br>El coeficiente superficial es $$ \\beta = 2\\alpha = 2(5\\times10^{-3}) = 10\\times10^{-3} = 10^{-2} \\text{ K}^{-1} $$.<br>Aumento del 25% significa que $$ \\frac{\\Delta S}{S_0} = 0,25 $$.<br>$$ \\frac{\\Delta S}{S_0} = \\beta \\cdot \\Delta T $$<br>$$ 0,25 = 10^{-2} (T_f - 17) $$<br>$$ 25 = T_f - 17 \\Rightarrow T_f = 42^{\\circ}C $$"
+        },
+        {
+          "pregunta": "(CBU 2002-2) Un cuerpo se suelta desde una altura de 1 m. Después del impacto se observa que rebota hasta 0,5 m y que su temperatura aumenta en $$ 1^{\\circ}C $$. Hallar el calor específico del cuerpo. Dato: $$ g=10 \\text{ m/s}^2 $$.",
+          "opciones": [
+            "$$ 5 \\text{ J/kg}\\cdot\\text{K} $$",
+            "$$ 2 \\text{ J/kg}\\cdot\\text{K} $$",
+            "$$ 10 \\text{ J/kg}\\cdot\\text{K} $$",
+            "$$ 7,5 \\text{ J/kg}\\cdot\\text{K} $$",
+            "$$ 2,5 \\text{ J/kg}\\cdot\\text{K} $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Conservación de la energía:</b><br>La energía mecánica perdida en el impacto se transforma en calor.<br>$$ \\Delta E_p = Q $$<br>$$ mg(h_1 - h_2) = m \\cdot c \\cdot \\Delta T $$<br>$$ g(h_1 - h_2) = c \\cdot \\Delta T $$<br>$$ 10(1 - 0,5) = c(1) $$<br>$$ 10(0,5) = c \\Rightarrow c = 5 \\text{ J/kg}\\cdot\\text{K} $$"
+        },
+        {
+          "pregunta": "(UNSAAC 2002-2A) Un bloque de hielo a $$ 0^{\\circ}C $$ y de masa 6400 g se lanza contra una pared con velocidad de $$ 50 \\text{ m/s} $$. Determinar la masa máxima de hielo que se funde debido a la colisión. Calor de fusión del hielo: $$ 3,2\\times10^5 \\text{ J/kg} $$.",
+          "opciones": [
+            "100 g",
+            "25 g",
+            "50 g",
+            "32 g",
+            "64 g"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1: Energía Cinética transformada en calor</b><br>$$ E_k = \\frac{1}{2}mv^2 = \\frac{1}{2}(6,4 \\text{ kg})(50)^2 = 3,2(2500) = 8000 \\text{ J} $$<br><br><b>Paso 2: Masa fundida</b><br>$$ Q = m_f \\cdot L_f $$<br>$$ 8000 = m_f (3,2\\times10^5) $$<br>$$ m_f = \\frac{8000}{320000} = \\frac{1}{40} \\text{ kg} = 0,025 \\text{ kg} $$<br>$$ m_f = 25 \\text{ g} $$"
+        },
+        {
+          "pregunta": "(CBU 2004-2) En un cambio de fase se cumple que:",
+          "opciones": [
+            "No se realiza trabajo termodinámico.",
+            "No se gana ni se pierde calor.",
+            "La entropía no cambia.",
+            "La temperatura permanece constante.",
+            "Cambia la masa."
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Teoría:</b><br>Durante un cambio de fase (como fusión o vaporización), el calor suministrado o extraído se utiliza íntegramente en reordenar la estructura molecular de la sustancia. Por lo tanto, la <b>temperatura permanece constante</b> hasta que el cambio de fase se complete."
+        },
+        {
+          "pregunta": "(CBU 2005-2) Si a 800 g de una sustancia se le entrega 2880 cal y su temperatura aumenta de $$ 10^{\\circ}C $$ a $$ 70^{\\circ}C $$, el calor específico de la sustancia en $$ \\text{cal/g}\\cdot^{\\circ}C $$ es:",
+          "opciones": [
+            "0,08",
+            "0,07",
+            "0,06",
+            "0,05",
+            "0,04"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fórmula de Calor Sensible:</b><br>$$ Q = m \\cdot c \\cdot \\Delta T $$<br>$$ 2880 = 800 \\cdot c \\cdot (70 - 10) $$<br>$$ 2880 = 800 \\cdot c \\cdot 60 $$<br>$$ 2880 = 48000 \\cdot c $$<br>$$ c = \\frac{2880}{48000} = 0,06 \\text{ cal/g}\\cdot^{\\circ}C $$"
+        },
+        {
+          "pregunta": "(CBU 2006-2) En un recipiente se encuentran 50 g de hielo a $$ 0^{\\circ}C $$. El calor necesario para convertirlo totalmente en vapor a $$ 100^{\\circ}C $$, en kJ, es: (Datos: $$ L_f=80 \\text{ cal/g} $$, $$ L_v=540 \\text{ cal/g} $$, $$ 1 \\text{ cal} = 4 \\text{ J} $$).",
+          "opciones": [
+            "143",
+            "140",
+            "142",
+            "144",
+            "141"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1: Calor total en calorías</b><br>$$ Q_T = Q_{fusión} + Q_{calentamiento} + Q_{vaporización} $$<br>$$ Q_T = m L_f + m c \\Delta T + m L_v $$<br>$$ Q_T = 50(80) + 50(1)(100) + 50(540) $$<br>$$ Q_T = 4000 + 5000 + 27000 = 36000 \\text{ cal} $$<br><br><b>Paso 2: Conversión a Joules</b><br>$$ Q_T = 36000 \\text{ cal} \\times 4 \\text{ J/cal} = 144,000 \\text{ J} $$<br>$$ Q_T = 144 \\text{ kJ} $$"
+        },
+        {
+          "pregunta": "(CBU 2006-2) En un calorímetro ideal que no pierde ni gana calor se introducen 200 g de hielo a $$ 0^{\\circ}C $$. Determinar la masa de agua, en gramos, a $$ 100^{\\circ}C $$ que se debe verter para obtener una temperatura final de equilibrio de $$ 10^{\\circ}C $$. (Dato: $$ L_f=80 \\text{ cal/g} $$).",
+          "opciones": [
+            "22 g",
+            "180 g",
+            "200 g",
+            "18 g",
+            "20 g"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Equilibrio Térmico:</b> $$ Q_{ganado} = |Q_{perdido}| $$<br>El hielo gana calor para fundirse y luego elevar su temperatura a $$ 10^{\\circ}C $$:<br>$$ Q_{ganado} = m_{hielo}L_f + m_{hielo}c_{agua}\\Delta T $$<br>$$ Q_{ganado} = 200(80) + 200(1)(10) = 16000 + 2000 = 18000 \\text{ cal} $$<br><br>El agua caliente pierde calor desde $$ 100^{\\circ}C $$ a $$ 10^{\\circ}C $$:<br>$$ |Q_{perdido}| = m_{agua}c_{agua}(100 - 10) = m_{agua}(1)(90) $$<br><br>Igualando:<br>$$ 90 m_{agua} = 18000 \\Rightarrow m_{agua} = 200 \\text{ g} $$"
+        },
+        {
+          "pregunta": "(CBU 2007-2) De las siguientes proposiciones, indicar cuáles son verdaderas (V) y cuáles falsas (F):\nI) El calor es una forma de energía en tránsito que se transfiere de los cuerpos a mayor temperatura hacia los cuerpos de menor temperatura.\nII) La unidad del calor en el Sistema Internacional es la caloría.\nIII) Los calorímetros son dispositivos que permiten determinar el calor específico de sustancias.",
+          "opciones": [
+            "FVV",
+            "FFF",
+            "VFV",
+            "VVV",
+            "VFF"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Análisis:</b><br>I. (V) Definición clásica de calor como energía en tránsito por diferencia de temperatura.<br>II. (F) La unidad de calor (y energía) en el S.I. es el **Joule (J)**, no la caloría.<br>III. (V) Sirven para medir el intercambio de calor y calcular el calor específico.<br>Por tanto: VFV."
+        },
+        {
+          "pregunta": "(CBU 2008-1) El calor:\nI) Es una forma de energía que se propaga en un cuerpo de un punto a menor temperatura a otro punto a mayor temperatura.\nII) Puede propagarse inclusive en el vacío.\nIII) No se almacena.\nIndicar verdadero (V) o falso (F):",
+          "opciones": [
+            "FFF",
+            "VFF",
+            "FVV",
+            "VVF",
+            "VFV"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Análisis:</b><br>I. (F) El calor fluye espontáneamente de **mayor a menor** temperatura, nunca al revés.<br>II. (V) Sí, mediante la radiación térmica (ondas electromagnéticas).<br>III. (V) El calor es energía en transferencia. Un cuerpo no \"almacena\" calor, almacena energía interna.<br>Por tanto: FVV."
+        },
+        {
+          "pregunta": "(CBU 2008-2) De las siguientes proposiciones, indicar las verdaderas:\nI) El calor es una forma de energía en tránsito.\nII) El calor es la cantidad de energía transferida de un cuerpo a otro a una misma temperatura.\nIII) El calor es el flujo de energía entre dos cuerpos, uno de mayor temperatura y otro de menor temperatura.",
+          "opciones": [
+            "Solo II",
+            "I y II",
+            "Solo I",
+            "Solo III",
+            "I y III"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Análisis:</b><br>I. (V) Es su definición exacta.<br>II. (F) Para que exista transferencia de calor, debe haber obligatoriamente una **diferencia** de temperatura.<br>III. (V) Describe la dirección natural del flujo térmico.<br>Por tanto, son verdaderas I y III."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "10.1 Teoría - Parte 1",
+          "youtube_id": "z5BAVdoRDME",
+          "pdf_link": "https://drive.google.com/file/d/1uXXZQqD3HWkbwwg3BW5XJB5yGS_J0Qvp/view",
+          "gratis": true
+        },
+        {
+          "titulo": "10.2 Gráficas Temperatura - Teoría 2",
+          "youtube_id": "gBh27m757fI",
+          "pdf_link": "https://drive.google.com/file/d/1uXXZQqD3HWkbwwg3BW5XJB5yGS_J0Qvp/view",
+          "gratis": true
+        },
+        {
+          "titulo": "10.3 Ejercicios - P1",
+          "youtube_id": "https://drive.google.com/file/d/1KSrW7UTbypidB9TZKLhu7tRPciurU28V/view",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "10.4 Ejercicios - P2",
+          "youtube_id": "uN1w6e-O-3M",
+          "pdf_link": "https://drive.google.com/file/d/1KSrW7UTbypidB9TZKLhu7tRPciurU28V/view",
+          "gratis": true
+        }
+      ]
     }
   ]
 }
