@@ -1816,6 +1816,268 @@
           ]
         }
       ]
+    },
+  {
+      "titulo": "Tema 5: Problema del homre",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "5.1 Origen del hombre",
+          "youtube_id": "aPkHrbP5thE",
+          "pdf_link": "https://drive.google.com/file/d/1zv6x6TUXmBFIlQPijyymEw3e54jtd3HX/view",
+          "gratis": false,
+          "preguntas": [
+            {
+    "pregunta": "Etimológicamente, el término Antropología procede de las voces griegas:",
+    "opciones": ["anthropos y logos", "ethos y logos", "polis y nomos", "philo y sophia", "ontos y logos"],
+    "correcta": 0,
+    "resolucion": "El término Antropología procede de las voces griegas: anthropos: hombre y logos: estudio, tratado, investigación."
+  },
+  {
+    "pregunta": "La disciplina filosófica que estudia la esencia del hombre, su significado, la finalidad de su existencia y su posición en el cosmos es la:",
+    "opciones": ["Antropología Cultural", "Antropología Física", "Antropología Filosófica", "Sociología", "Psicología"],
+    "correcta": 2,
+    "resolucion": "La Antropología Filosófica es, entonces, una disciplina filosófica que estudia la esencia del hombre, su significado, la finalidad de su existencia, su posición en el cosmos, etc.."
+  },
+  {
+    "pregunta": "La Antropología que se ocupa del aspecto biológico humano y su relación con el medio ambiente se denomina:",
+    "opciones": ["Antropología Social", "Antropología Física", "Antropología Filosófica", "Antropología Cultural", "Paleontología"],
+    "correcta": 1,
+    "resolucion": "La primera (antropología física) se ocupa del aspecto biológico humano y su relación con el medio ambiente."
+  },
+  {
+    "pregunta": "La Antropología Cultural se encarga principalmente de estudiar:",
+    "opciones": ["El origen del universo", "Las características genéticas del hombre", "Las manifestaciones culturales, como las costumbres y hábitos", "El aspecto biológico humano", "El sentido último de la existencia"],
+    "correcta": 2,
+    "resolucion": "La segunda (antropología cultural) estudia las manifestaciones culturales, como las costumbres y hábitos."
+  },
+  {
+    "pregunta": "¿Qué filósofo de la antigüedad definió al hombre como un 'animal racional' y un 'animal político'?",
+    "opciones": ["Sócrates", "Platón", "Aristóteles", "Tales de Mileto", "Heráclito"],
+    "correcta": 2,
+    "resolucion": "Se le considera al hombre como un animal racional, esta definición viene desde Aristóteles... de igual modo lo define como un animal político."
+  },
+  {
+    "pregunta": "Desde la antigüedad griega, la existencia del hombre como ser social se adecúa a un factor principal de su evolución, el cual es:",
+    "opciones": ["La guerra", "La religión", "El trabajo", "La filosofía", "La genética"],
+    "correcta": 2,
+    "resolucion": "Desde la antigüedad griega, el hombre es considerado como ser social... cuya existencia se adecúa al trabajo como un factor principal de su evolución."
+  },
+  {
+    "pregunta": "En el mito de Prometeo, ¿quiénes formaron a los seres vivos en el interior oscuro de la tierra mezclando barro, fuego y otros elementos?",
+    "opciones": ["Los propios humanos", "Los animales primigenios", "Los dioses del Olimpo", "Los titanes exclusivamente", "Los demonios"],
+    "correcta": 2,
+    "resolucion": "Los dioses del Olimpo los formaron en el interior oscuro de la tierra, mezclando barro y fuego y otros elementos."
+  },
+  {
+    "pregunta": "En el mito, ¿qué titán se encargó inicialmente de repartir las cualidades a los seres creados, pero lo hizo sin previsión y de manera poco inteligente?",
+    "opciones": ["Zeus", "Prometeo", "Atenea", "Epimeteo", "Hefestos"],
+    "correcta": 3,
+    "resolucion": "Epimeteo, que se creía muy capaz de realizar cualquier tarea, le dijo a Prometeo que lo dejara en sus manos... Sin embargo, como no era muy inteligente ni previsor, gastó todos los dones."
+  },
+  {
+    "pregunta": "Como consecuencia del reparto de cualidades hecho por Epimeteo, los humanos quedaron:",
+    "opciones": ["Con alas para volar", "Equipados con gran fuerza y garras", "Desvalidos, desnudos y sin ningún regalo para protegerse", "Con armaduras de hierro", "Más rápidos que los animales"],
+    "correcta": 2,
+    "resolucion": "Gastó todos los dones en los diferentes animales y dejó a los pobres humanos desvalidos... se dio cuenta de que los hombres y las mujeres estaban desnudos, no tenían con qué protegerse."
+  },
+  {
+    "pregunta": "Para salvar a los humanos, Prometeo entró con sigilo a las moradas divinas y robó la sabiduría, las artes mecánicas y el fuego a los dioses:",
+    "opciones": ["Ares, Afrodita y Apolo", "Zeus, Atenea y Hefestos", "Hades, Poseidón y Hera", "Hermes, Dionisio y Artemisa", "Cronos, Urano y Gea"],
+    "correcta": 1,
+    "resolucion": "Entró con sigilo a la morada de Zeus... y se llevó la sabiduría. A Atenea y a Hefestos les robó las artes mecánicas y el fuego."
+  },
+  {
+    "pregunta": "Según el mito de Prometeo, gracias a los atributos divinos otorgados, los humanos fueron capaces de:",
+    "opciones": ["Destruir el Olimpo", "Convertirse en animales", "Reconocer a los dioses, inventar palabras y construir casas", "Vivir bajo el agua", "Regresar al interior oscuro de la tierra"],
+    "correcta": 2,
+    "resolucion": "Gracias al buen titán, los hombres... poseían parte de los atributos divinos. Por eso, reconocieron a los dioses y levantaron altares... Después inventaron las palabras. Luego, construyeron casas."
+  },
+  {
+    "pregunta": "La doctrina idealista y religiosa que explica el origen del mundo y del hombre en virtud de un solo acto creador se denomina:",
+    "opciones": ["Evolucionismo", "Neo darwinismo", "Creacionismo", "Panteísmo", "Materialismo"],
+    "correcta": 2,
+    "resolucion": "Creacionismo. Doctrina idealista y religiosa acerca de la creación del mundo y del hombre en virtud de un solo acto creador."
+  },
+  {
+    "pregunta": "Según la doctrina del Creacionismo y la explicación que da la Biblia, el hombre fue creado:",
+    "opciones": ["De la evolución de los primates", "Por la combinación estelar", "A imagen y semejanza de Dios", "A partir del agua marina", "Como producto de mutaciones genéticas"],
+    "correcta": 2,
+    "resolucion": "Como la explicación que da la Biblia acerca de la creación del mundo y del hombre por Dios. El hombre fue creado a imagen y semejanza de Dios."
+  },
+  {
+    "pregunta": "¿Qué teoría afirma que las especies se transforman a lo largo de sucesivas generaciones y están emparentadas por descender de antepasados comunes?",
+    "opciones": ["Creacionismo", "Fijismo", "Evolucionismo", "Generación espontánea", "Heliocentrismo"],
+    "correcta": 2,
+    "resolucion": "Evolucionismo... Esta teoría afirma que las especies se trasforman a lo largo de sucesivas generaciones y que... están emparentadas entre sí al descender de antepasados comunes."
+  },
+  {
+    "pregunta": "Una de las ideas fundamentales del Evolucionismo respecto a la naturaleza humana es que el hombre es:",
+    "opciones": ["Una creación divina perfecta", "Producto de la materia altamente evolucionada", "Un ser estático sin cambios", "Descendiente directo de los ángeles", "Una ilusión de la mente"],
+    "correcta": 1,
+    "resolucion": "Las ideas fundamentales son: • El hombre es producto de la materia altamente evolucionada."
+  },
+  {
+    "pregunta": "Según el Evolucionismo, el proceso de evolución se caracteriza por ser:",
+    "opciones": ["Rápido y repentino", "Un acto único e irrepetible", "Permanente, continuo, lento, paulatino y procesado por etapas", "Exclusivo del ser humano", "Un retroceso biológico"],
+    "correcta": 2,
+    "resolucion": "La evolución es un proceso permanente y continuo. • La evolución es un proceso lento y paulatino. • La evolución se procesa por etapas."
+  },
+  {
+    "pregunta": "La teoría que representa el mejoramiento de la teoría de Darwin debido a los nuevos descubrimientos de la genética es el:",
+    "opciones": ["Creacionismo", "Mutacionismo clásico", "Neo darwinismo", "Lamarckismo", "Fijismo"],
+    "correcta": 2,
+    "resolucion": "Neo darwinismo. Es el mejoramiento de la teoría de Darwin debido a los nuevos descubrimientos de la genética."
+  },
+  {
+    "pregunta": "¿Quiénes son los representantes del Neo darwinismo mencionados en el texto?",
+    "opciones": ["Platón y Aristóteles", "Dobzhansky, Mayr y Simpson", "Marx y Engels", "Darwin y Lamarck", "Watson y Crick"],
+    "correcta": 1,
+    "resolucion": "Sus representantes son Dobzhansky, Mayr y Simpson."
+  },
+  {
+    "pregunta": "En el Neo darwinismo, los cambios aleatorios en la estructura genética de los organismos se denominan:",
+    "opciones": ["Selección natural", "Deriva genética", "Flujo genético", "Mutaciones", "Adaptaciones"],
+    "correcta": 3,
+    "resolucion": "Mutaciones. Existen cambios aleatorios en la estructura genética de los organismos."
+  },
+  {
+    "pregunta": "El proceso por el cual las poblaciones se vuelven genéticamente homogéneas, según el Neo darwinismo, se conoce como:",
+    "opciones": ["Deriva genética", "Mutación", "Flujo genético", "Selección natural", "Evolución por etapas"],
+    "correcta": 2,
+    "resolucion": "Flujo genético. Proceso por el cual las poblaciones se vuelven genéticamente homogéneas."
+  }
+          ]
+        },
+        {
+          "titulo": "5.2. Hombre: Natural y Espiritual",
+          "youtube_id": "UgkABO3fCyM",
+          "pdf_link": "https://drive.google.com/file/d/1GV7LOVMRNnTWba8LqoALxzugCC8CgVWr/view",
+          "gratis": false,
+          "preguntas": [
+               {
+    "pregunta": "Desde la perspectiva de las ciencias naturales, ¿cómo está constituido el hombre según el texto?",
+    "opciones": ["De acuerdo a la voluntad divina", "De acuerdo a las leyes de la naturaleza", "Solo por elementos inmateriales", "Como una máquina perfecta", "Exclusivamente por instintos"],
+    "correcta": 1,
+    "resolucion": "Desde la perspectiva de las ciencias naturales, el hombre es un ser constituido de acuerdo a las leyes de la naturaleza."
+  },
+  {
+    "pregunta": "Según Federico Engels mencionado en el texto, ¿qué es la vida?",
+    "opciones": ["Un castigo divino", "Una ilusión de los sentidos", "La forma superior de la evolución de la materia", "Un ciclo interminable de reencarnaciones", "El producto de la generación espontánea"],
+    "correcta": 2,
+    "resolucion": "Engels considera la vida como la forma superior de la evolución de la materia."
+  },
+  {
+    "pregunta": "En cuanto a su composición, el texto afirma que los seres vivos están integrados por:",
+    "opciones": ["Elementos distintos a los del universo", "Una sustancia espiritual pura", "Los mismos elementos que existen en la naturaleza inorgánica", "Materia oscura", "Energía cósmica"],
+    "correcta": 2,
+    "resolucion": "Los seres vivos están integrados por los mismos elementos que existen en la naturaleza inorgánica."
+  },
+  {
+    "pregunta": "Aunque los seres vivos comparten elementos con la naturaleza inorgánica, estos se rigen por:",
+    "opciones": ["Leyes biológicas propias", "Leyes mecánicas simples", "Las mismas leyes de las rocas", "Leyes matemáticas abstractas", "El caos y el azar"],
+    "correcta": 0,
+    "resolucion": "Los seres vivos están integrados por los mismos elementos que existen en la naturaleza inorgánica, sin embargo se rigen por leyes biológicas propias."
+  },
+  {
+    "pregunta": "¿Cuál es un rasgo original del hombre considerado biológicamente en cuanto a su postura?",
+    "opciones": ["El desplazamiento cuadrúpedo", "La posición bípeda, vertical y erecta", "El vuelo planeado", "La postura encorvada permanente", "La capacidad anfibia"],
+    "correcta": 1,
+    "resolucion": "El hombre forma parte de la naturaleza, presenta rasgos originales considerados biológicamente: La posición bípeda, vertical y erecta."
+  },
+  {
+    "pregunta": "La constitución y uso de la mano como 'órgano de aprehensión' le ha permitido al hombre:",
+    "opciones": ["Volar por los aires", "Desarrollar el lenguaje", "Inventar diversos y variados instrumentos de producción", "Correr más rápido que los depredadores", "Respirar bajo el agua"],
+    "correcta": 2,
+    "resolucion": "Constitución y uso de la mano como órgano de aprehensión; esta capacidad le ha permitido al hombre inventar diversos y variados instrumentos de producción."
+  },
+  {
+    "pregunta": "Respecto al sistema nervioso central, un rasgo biológico notable en el hombre es:",
+    "opciones": ["Un cerebro excepcionalmente pequeño", "La ausencia de corteza cerebral", "Un cerebro excepcionalmente grande", "Un cerebro igual al de los primates", "La falta de materia gris"],
+    "correcta": 2,
+    "resolucion": "El hombre presenta rasgos originales considerados biológicamente como un cerebro excepcionalmente grande."
+  },
+  {
+    "pregunta": "El rasgo biológico del hombre referido a su desarrollo vital y crecimiento se caracteriza por:",
+    "opciones": ["Un rápido proceso de maduración", "Una niñez muy corta", "Un lento proceso de maduración", "La maduración inmediata al nacer", "La ausencia de cambios físicos"],
+    "correcta": 2,
+    "resolucion": "El otro rasgo biológico especialmente notable en el hombre es su lento proceso de maduración."
+  },
+  {
+    "pregunta": "Según el texto, el hombre es considerado el animal con la niñez más:",
+    "opciones": ["Corta y específica", "Larga y general", "Peligrosa y solitaria", "Independiente", "Breve y fugaz"],
+    "correcta": 1,
+    "resolucion": "El hombre es el animal de niñez más larga y más general, pues su maduración dura mucho y se extiende a todas las funciones orgánicas."
+  },
+  {
+    "pregunta": "El uso de la mano para crear objetos nuevos (herramientas, utensilios, casa) tiene como consecuencia en la especie:",
+    "opciones": ["Aislar a los individuos", "Generar guerras constantes", "Afianzar los lazos entre los individuos", "Destruir la naturaleza", "Eliminar el instinto gregario"],
+    "correcta": 2,
+    "resolucion": "El uso de la mano, como órgano de aprehensión, hace al hombre apto para crear objetos nuevos y afianzar de este modo los lazos entre los individuos de la especie."
+  },
+  {
+    "pregunta": "El lenguaje articulado en el hombre se ha logrado a través de:",
+    "opciones": ["La telepatía", "El tamaño del cerebro", "La especialización de los órganos fonadores", "El uso de la mano", "El instinto de supervivencia"],
+    "correcta": 2,
+    "resolucion": "Lenguaje articulado, logrado a través de la especialización de los órganos fonadores."
+  },
+  {
+    "pregunta": "El texto afirma que el instinto gregario propio de los animales obligó al hombre a vivir formando grupos, lo que posibilitó:",
+    "opciones": ["La extinción de la especie", "La presencia de la sociedad", "El desarrollo de la agricultura", "La creación del lenguaje escrito", "El aislamiento individual"],
+    "correcta": 1,
+    "resolucion": "A través del instinto gregario propio de los animales, que los obliga a vivir formando grupos, el hombre ha sido el único en posibilitar la presencia de la sociedad."
+  },
+  {
+    "pregunta": "El estudio del hombre 'como ser espiritual', al ser su lado específicamente humano, es motivo de estudio de las:",
+    "opciones": ["Ciencias naturales", "Matemáticas aplicadas", "Ciencias sociales o humanísticas", "Ciencias exactas", "Físicas y químicas"],
+    "correcta": 2,
+    "resolucion": "Como ser espiritual. Es el lado específicamente humano, es motivo de estudio de las ciencias sociales o humanísticas."
+  },
+  {
+    "pregunta": "Para el idealismo, el espíritu humano es concebido como:",
+    "opciones": ["Un subproducto del cerebro", "Un don divino inmaterial, inmortal e indestructible", "Una energía física medible", "El resultado de la evolución biológica", "Una invención social"],
+    "correcta": 1,
+    "resolucion": "Para el idealismo, el espíritu es un don divino, que es inmaterial, inmortal, invisible, incorpóreo e indestructible."
+  },
+  {
+    "pregunta": "Según la concepción idealista descrita en el texto, ¿cuándo se une la entidad espiritual al hombre?",
+    "opciones": ["En la adolescencia", "En el momento de la muerte", "En el momento del nacimiento", "Cuando aprende a hablar", "Durante la niñez"],
+    "correcta": 2,
+    "resolucion": "Esta entidad se une al hombre en el momento del nacimiento y se separa del hombre en el momento de la muerte."
+  },
+  {
+    "pregunta": "¿Qué sucede con el espíritu en el momento de la muerte según el idealismo?",
+    "opciones": ["Se destruye junto con el cuerpo", "Se separa del hombre", "Se reencarna inmediatamente", "Se convierte en materia", "Permanece en la tierra"],
+    "correcta": 1,
+    "resolucion": "Esta entidad se une al hombre en el momento del nacimiento y se separa del hombre en el momento de la muerte."
+  },
+  {
+    "pregunta": "Para el materialismo, ¿qué elementos son considerados características espirituales del hombre?",
+    "opciones": ["Entidades divinas e inmortales", "Solo los instintos de supervivencia", "Su capacidad consciente, racionalidad, voluntad y cultura", "El alma separada del cuerpo", "Las reacciones químicas del estómago"],
+    "correcta": 2,
+    "resolucion": "Para el materialismo son características espirituales del hombre: su capacidad consciente y reflexiva, su racionalidad, su cultura, sus pensamientos, su voluntad."
+  },
+  {
+    "pregunta": "Según las posturas descritas en el texto sobre el ser espiritual, la experiencia moral, la estética y los sentimientos corresponden a características espirituales desde la visión del:",
+    "opciones": ["Materialismo", "Idealismo", "Positivismo", "Darwinismo", "Creacionismo"],
+    "correcta": 0,
+    "resolucion": "Para el materialismo son características espirituales del hombre: su capacidad consciente y reflexiva... su voluntad, su experiencia moral, estética, sentimientos, etc."
+  },
+  {
+    "pregunta": "¿A qué autor se cita en el texto para respaldar las características tanto del ser natural como del ser espiritual?",
+    "opciones": ["Federico Engels", "Max Scheler", "Giraldo", "Charles Darwin", "Karl Marx"],
+    "correcta": 2,
+    "resolucion": "El texto cita a (Giraldo, 2003) tanto en la definición del hombre como ser natural como en la definición de ser espiritual."
+  },
+  {
+    "pregunta": "La postura filosófica que asume que las características como el pensamiento, la racionalidad y la voluntad no son dotes divinas inmateriales, sino propiedades humanas, es el:",
+    "opciones": ["Creacionismo", "Materialismo", "Idealismo", "Fijismo", "Agnosticismo"],
+    "correcta": 1,
+    "resolucion": "A diferencia del idealismo que lo ve como don divino, para el materialismo son características espirituales del hombre: su capacidad consciente y reflexiva, su racionalidad, su cultura, sus pensamientos, su voluntad."
+  }
+          ]
+        }
+      ]
     }
   ]
 }
