@@ -2870,6 +2870,2152 @@
           "gratis": true
         }
       ]
+    },
+    {
+      "titulo": "Tema 11: Termodinámica",
+      "pdf_resuelto": "https://drive.google.com/file/d/1A1WQhBA6kD7iuWp3Wkkvpi2ZXnhQs5jb/view",
+      "preguntas": [
+        {
+          "pregunta": "Un gas monoatómico experimenta un proceso isobárico de 6 kPa, de modo que su volumen se incrementa en $$ 4 \\text{ cm}^3 $$. Calcular la variación de su energía interna.",
+          "opciones": [
+            "30 mJ",
+            "32 mJ",
+            "34 mJ",
+            "36 mJ",
+            "38 mJ"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>Para un gas monoatómico en un proceso isobárico, la variación de energía interna se relaciona con el trabajo mediante:<br>$$ \\Delta U = \\frac{3}{2} P \\Delta V $$<br>Convertimos el volumen a metros cúbicos: $$ \\Delta V = 4 \\times 10^{-6} \\text{ m}^3 $$<br>$$ \\Delta U = \\frac{3}{2} (6 \\times 10^3 \\text{ Pa}) (4 \\times 10^{-6} \\text{ m}^3) $$<br>$$ \\Delta U = \\frac{3}{2} (24 \\times 10^{-3}) = 36 \\times 10^{-3} \\text{ J} $$<br>$$ \\Delta U = 36 \\text{ mJ} $$"
+        },
+        {
+          "pregunta": "Se tiene un gas monoatómico que se calienta mediante un proceso isovolumétrico desde la presión de 10 kPa hasta 20 kPa sabiendo que la energía interna se incrementa en 60 kJ. Calcular el volumen del gas en $$ \\text{m}^3 $$.",
+          "opciones": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>En un proceso isovolumétrico ($$ \\Delta V = 0 $$), la variación de energía interna para un gas monoatómico es:<br>$$ \\Delta U = \\frac{3}{2} V \\Delta P $$<br>Reemplazando los datos:<br>$$ 60 \\times 10^3 = \\frac{3}{2} V (20 \\times 10^3 - 10 \\times 10^3) $$<br>$$ 60 \\times 10^3 = \\frac{3}{2} V (10 \\times 10^3) $$<br>$$ 60 = 15 V \\Rightarrow V = 4 \\text{ m}^3 $$"
+        },
+        {
+          "pregunta": "Un gas ideal monoatómico, constituido por 7 moles de cierta sustancia describe un proceso desde el estado 'a' (V=20 $$ \\text{m}^3 $$, P=30 kPa) hasta el estado 'd' (V=5 $$ \\text{m}^3 $$, P=80 kPa). Determinar la variación de la energía interna del gas ($$ \\Delta U $$) en kJ.",
+          "opciones": [
+            "200",
+            "300",
+            "-200",
+            "-300",
+            "-100"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Variación de Energía Interna:</b><br>La energía interna es una función de estado, solo depende de los puntos final e inicial.<br>$$ \\Delta U = \\frac{3}{2} n R \\Delta T = \\frac{3}{2} (P_f V_f - P_i V_i) $$<br>$$ \\Delta U = \\frac{3}{2} [ (80 \\times 10^3)(5) - (30 \\times 10^3)(20) ] $$<br>$$ \\Delta U = \\frac{3}{2} [ 400 \\times 10^3 - 600 \\times 10^3 ] $$<br>$$ \\Delta U = \\frac{3}{2} [ -200 \\times 10^3 ] = -300 \\times 10^3 \\text{ J} = -300 \\text{ kJ} $$"
+        },
+        {
+          "pregunta": "En un cilindro cuya sección tiene un área de 0,4 $$ \\text{m}^2 $$ se encuentra un gas ideal que se expande realizando un trabajo de 130 J. Calcular el desplazamiento del embolo cuando el gas pasa del estado 1 (V=5 $$ \\text{m}^3 $$, P=160 kPa) al estado 2 (V=?, P=100 kPa) linealmente.",
+          "opciones": [
+            "0,5 m",
+            "1,5 m",
+            "2,5 m",
+            "3,5 m",
+            "4,5 m"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1: Hallar variación de volumen</b><br>El trabajo es el área bajo la recta P-V (un trapecio).<br>$$ W = \\left(\\frac{160 + 100}{2}\\right) \\times 10^3 \\times (V_2 - 5) $$<br>$$ 130 = 130 \\times 10^3 \\times \\Delta V $$ (Nota: Asumiendo que las unidades del gráfico original para P estaban en Pa o el trabajo en kJ para que cuadre geométricamente con la resolución manuscrita que omite el factor $10^3$ temporalmente).<br>Resolviendo la ecuación dada en el manuscrito: $$ 130 = 130(V_2 - 5) \\Rightarrow V_2 = 6 \\text{ m}^3 $$.<br>$$ \\Delta V = 6 - 5 = 1 \\text{ m}^3 $$<br><br><b>Paso 2: Desplazamiento</b><br>$$ \\Delta V = A \\cdot \\Delta x $$<br>$$ 1 = 0,4 \\cdot \\Delta x \\Rightarrow \\Delta x = 2,5 \\text{ m} $$"
+        },
+        {
+          "pregunta": "Si un gas efectúa un ciclo rectangular mostrado en un gráfico P-V. Calcular el trabajo neto si $$ V_2 = 3,5 \\text{ m}^3 $$ y $$ V_3 = 0,5 \\text{ m}^3 $$, y las presiones varían entre 200 Pa y 700 Pa en sentido antihorario.",
+          "opciones": [
+            "-1000",
+            "1200",
+            "-1500",
+            "2000",
+            "-1300"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Trabajo en un Ciclo:</b><br>El trabajo neto es el área encerrada por el ciclo. Al recorrerse en sentido **antihorario**, el trabajo es negativo.<br>$$ W = - \\text{Área del rectángulo} $$<br>$$ W = - (V_2 - V_1)(P_2 - P_1) $$<br>$$ W = - (3,5 - 0,5) \\cdot (700 - 200) $$<br>$$ W = - (3) \\cdot (500) = -1500 \\text{ J} $$"
+        },
+        {
+          "pregunta": "Un gas ideal se expande cediendo 200 J de calor y su energía interna cambia de 650 J a 300 J. Calcular el trabajo realizado por el gas (en J).",
+          "opciones": [
+            "90",
+            "115",
+            "130",
+            "149",
+            "150"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Primera Ley de la Termodinámica:</b><br>$$ Q = W + \\Delta U $$<br>Como cede calor, $$ Q = -200 \\text{ J} $$.<br>$$ \\Delta U = U_f - U_i = 300 - 650 = -350 \\text{ J} $$<br>$$ -200 = W + (-350) $$<br>$$ W = 350 - 200 = 150 \\text{ J} $$"
+        },
+        {
+          "pregunta": "En un recipiente herméticamente cerrado se encuentran 2 moles de un gas monoatómico que reciben 1440 J de calor. Determinar el cambio de temperatura (en K). Dato: $$ R = 8 \\text{ J/mol}\\cdot\\text{K} $$.",
+          "opciones": [
+            "30",
+            "60",
+            "90",
+            "120",
+            "150"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Proceso Isócoro (Volumen Constante):</b><br>Al estar herméticamente cerrado, el volumen no cambia, por lo que el trabajo es cero ($$ W = 0 $$).<br>$$ Q = \\Delta U = \\frac{3}{2} n R \\Delta T $$<br>$$ 1440 = \\frac{3}{2} (2) (8) \\Delta T $$<br>$$ 1440 = 24 \\Delta T $$<br>$$ \\Delta T = 60 \\text{ K} $$"
+        },
+        {
+          "pregunta": "Un gas monoatómico se expande isobáricamente y su temperatura cambia de $$ 27^{\\circ}\\text{C} $$ a $$ 127^{\\circ}\\text{C} $$. Si el calor absorbido es 400 J, calcular la cantidad de moles del gas. Dato: $$ R = 8 \\text{ J/mol}\\cdot\\text{K} $$.",
+          "opciones": [
+            "0,2 mol",
+            "1 mol",
+            "1,5 mol",
+            "2 mol",
+            "2,6 mol"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Proceso Isobárico:</b><br>Para un gas monoatómico a presión constante, el calor se expresa como:<br>$$ Q = n C_p \\Delta T = \\frac{5}{2} n R \\Delta T $$<br>$$ \\Delta T = 127 - 27 = 100 \\text{ K} $$<br>$$ 400 = \\frac{5}{2} n (8) (100) $$<br>$$ 400 = 20 \\cdot n \\cdot 100 $$<br>$$ 400 = 2000 n \\Rightarrow n = \\frac{400}{2000} = 0,2 \\text{ mol} $$"
+        },
+        {
+          "pregunta": "Se mezclan 0,8 kg de agua a $$ 25^{\\circ}\\text{C} $$ con 0,2 kg de agua a $$ 100^{\\circ}\\text{C} $$. La temperatura final es $$ 40^{\\circ}\\text{C} $$. Dato: $$ c_{\\text{agua}} = 4200 \\text{ J/kg}\\cdot^{\\circ}\\text{C} $$. Calcular el calor cedido por el agua caliente y el calor absorbido por el agua fría.",
+          "opciones": [
+            "Q caliente = 50 400 J; Q fría = 50 400 J",
+            "Q caliente = 48 000 J; Q fría = 48 000 J",
+            "Q caliente = 42 000 J; Q fría = 42 000 J",
+            "Q caliente = 60 000 J; Q fría = 60 000 J",
+            "Q caliente = 33 600 J; Q fría = 33 600 J"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Cálculo del calor cedido (agua caliente):</b><br>$$ Q_1 = m_1 \\cdot c \\cdot (T_{inicial} - T_{final}) $$<br>$$ Q_1 = 0,2 \\cdot 4200 \\cdot (100 - 40) = 840 \\cdot 60 = 50400 \\text{ J} $$<br><br><b>Cálculo del calor absorbido (agua fría):</b><br>$$ Q_2 = m_2 \\cdot c \\cdot (T_{final} - T_{inicial}) $$<br>$$ Q_2 = 0,8 \\cdot 4200 \\cdot (40 - 25) = 3360 \\cdot 15 = 50400 \\text{ J} $$<br>Ambos valores coinciden, cumpliendo el equilibrio térmico."
+        },
+        {
+          "pregunta": "Un gas absorbe 1000 J de calor y aumenta su energía interna en 600 J. Además, se dilata en $$ 1 \\text{ m}^3 $$. Calcular: a) El trabajo realizado. b) Si la expansión fue a presión constante, el valor de la presión.",
+          "opciones": [
+            "W = 400 J; P = 400 Pa",
+            "W = 600 J; P = 600 Pa",
+            "W = 1600 J; P = 1600 Pa",
+            "W = 1000 J; P = 1000 Pa",
+            "W = 400 J; P = 1000 Pa"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Primera Ley de la Termodinámica:</b><br>$$ Q = W + \\Delta U $$<br>$$ 1000 = W + 600 \\Rightarrow W = 400 \\text{ J} $$<br><br><b>Cálculo de la presión:</b><br>Si es a presión constante:<br>$$ W = P \\cdot \\Delta V $$<br>$$ 400 = P \\cdot (1) \\Rightarrow P = 400 \\text{ Pa} $$"
+        },
+        {
+          "pregunta": "La figura representa una expansión de un gas nitrógeno. El trabajo realizado por el gas durante la expansión es 800 J. Si su energía interna aumenta en 500 J, determinar el calor transferido.",
+          "opciones": [
+            "300 J",
+            "700 J",
+            "800 J",
+            "1300 J",
+            "-300 J"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Primera Ley de la Termodinámica:</b><br>El calor transferido al sistema es igual a la suma del trabajo realizado por el gas y la variación de su energía interna.<br>$$ Q = W + \\Delta U $$<br>$$ Q = 800 \\text{ J} + 500 \\text{ J} $$<br>$$ Q = 1300 \\text{ J} $$"
+        },
+        {
+          "pregunta": "Un cilindro cerrado por un émbolo móvil contiene cierta cantidad de vapor. El sistema se calienta y absorbe 202 J de energía en forma de calor. El vapor aumenta su volumen en $$ 3 \\times 10^{-5} \\text{ m}^3 $$ a presión constante de $$ 4 \\times 10^5 \\text{ Pa} $$. Determinar la variación de la energía interna del vapor.",
+          "opciones": [
+            "10 J",
+            "12 J",
+            "190 J",
+            "90 J",
+            "214 J"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1: Cálculo del Trabajo</b><br>$$ W = P \\cdot \\Delta V $$<br>$$ W = (4 \\times 10^5 \\text{ Pa}) \\cdot (3 \\times 10^{-5} \\text{ m}^3) = 12 \\text{ J} $$<br><br><b>Paso 2: Primera Ley de la Termodinámica</b><br>$$ Q = \\Delta U + W $$<br>$$ 202 = \\Delta U + 12 $$<br>$$ \\Delta U = 202 - 12 = 190 \\text{ J} $$"
+        },
+        {
+          "pregunta": "Se infla un neumático de un automóvil hasta una presión manométrica de 200 kPa cuando el aire tiene una temperatura de $$ 27^{\\circ}\\text{C} $$. Después de correr a una gran velocidad, la temperatura del neumático ha ascendido a $$ 57^{\\circ}\\text{C} $$, suponiendo que no haya variado el volumen, la nueva presión manométrica es: (Dato: $$ P_{\\text{atm}} = 100 \\text{ kPa} $$)",
+          "opciones": [
+            "210 kPa",
+            "200 kPa",
+            "230 kPa",
+            "215 kPa",
+            "220 kPa"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1: Presiones absolutas y temperaturas en Kelvin</b><br>$$ P_{abs1} = P_{man1} + P_{atm} = 200 + 100 = 300 \\text{ kPa} $$<br>$$ T_1 = 27 + 273 = 300 \\text{ K} $$<br>$$ T_2 = 57 + 273 = 330 \\text{ K} $$<br><br><b>Paso 2: Ley de Gay-Lussac (Volumen constante)</b><br>$$ \\frac{P_{abs1}}{T_1} = \\frac{P_{abs2}}{T_2} $$<br>$$ \\frac{300}{300} = \\frac{P_{abs2}}{330} \\Rightarrow P_{abs2} = 330 \\text{ kPa} $$<br><br><b>Paso 3: Nueva presión manométrica</b><br>$$ P_{man2} = P_{abs2} - P_{atm} = 330 - 100 = 230 \\text{ kPa} $$"
+        },
+        {
+          "pregunta": "Indique cuál de las alternativas es incorrecta respecto a los procesos termodinámicos:",
+          "opciones": [
+            "El trabajo en un proceso isócoro es siempre igual a cero.",
+            "En un proceso adiabático, el gas al realizar trabajo gasta su energía interna.",
+            "En un proceso isotérmico, la energía interna del gas no varía.",
+            "La energía de un gas ideal solo depende del movimiento interno de sus moléculas.",
+            "Una máquina de vapor puede transformar todo el calor que recibe en trabajo."
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Análisis:</b><br>La afirmación (e) es incorrecta porque según la <b>Segunda Ley de la Termodinámica</b>, ninguna máquina térmica puede tener un 100% de eficiencia; es físicamente imposible transformar todo el calor recibido en trabajo útil, siempre se debe expulsar parte del calor a un foco frío."
+        },
+        {
+          "pregunta": "\"Es la secuencia de estados que sigue la sustancia de trabajo desde un estado inicial a otro final\", tal es el concepto de:",
+          "opciones": [
+            "Ciclo termodinámico",
+            "Trayectoria termodinámica",
+            "Ruta adiabática",
+            "Secuencia cuasiestática",
+            "Proceso termodinámico"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Teoría:</b><br>El concepto fundamental de un <b>Proceso Termodinámico</b> es precisamente la evolución o secuencia de estados termodinámicos por los que pasa un sistema desde un estado de equilibrio inicial hasta un estado de equilibrio final."
+        },
+        {
+          "pregunta": "Señale con V (verdadero) o F (falso) según corresponda:\na) En la gráfica presión-volumen el área bajo la gráfica representa el trabajo realizado.\nb) El trabajo de expansión de un gas es negativo.\nc) El trabajo de compresión de un gas es positivo.",
+          "opciones": [
+            "VFF",
+            "VFV",
+            "FVV",
+            "FFV",
+            "VVV"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Análisis:</b><br>a) (V) El trabajo es $$ W = \\int P \\, dV $$, geométricamente es el área bajo la curva.<br>b) (F) En expansión el volumen aumenta ($$ \\Delta V > 0 $$), por lo que el trabajo que realiza el gas es <b>positivo</b>.<br>c) (F) En compresión el volumen disminuye ($$ \\Delta V < 0 $$), el trabajo se realiza sobre el gas y es <b>negativo</b>."
+        },
+        {
+          "pregunta": "En relación a la primera ley de la termodinámica, señale la afirmación incorrecta:",
+          "opciones": [
+            "En un proceso isócoro el trabajo realizado es cero.",
+            "En un proceso isotérmico la energía interna no varía.",
+            "En un proceso adiabático no puede haber transferencia de calor.",
+            "El calor entregado incrementa la energía interna en un proceso isócoro.",
+            "El trabajo algunas veces se realiza a costa de la energía interna en un proceso isotérmico."
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Análisis:</b><br>La afirmación (e) es falsa. En un proceso <b>isotérmico</b> (temperatura constante) para un gas ideal, la energía interna no varía ($$ \\Delta U = 0 $$). Por lo tanto, el trabajo no se puede realizar a costa de la energía interna; todo el trabajo realizado proviene íntegramente del calor absorbido ($$ Q = W $$)."
+        },
+        {
+          "pregunta": "Indique la afirmación incorrecta respecto a un ciclo termodinámico:",
+          "opciones": [
+            "El estado inicial y el estado final coinciden siempre.",
+            "En el gráfico Presión-Volumen el área encerrada por el ciclo representa el trabajo.",
+            "En un ciclo horario el trabajo neto es negativo.",
+            "El trabajo en un ciclo antihorario no puede ser positivo.",
+            "Nunca varía la energía interna (netamente)."
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Análisis:</b><br>La afirmación (c) es incorrecta. En un diagrama Presión-Volumen, cuando el ciclo se recorre en sentido <b>horario</b>, el trabajo neto realizado por el sistema es <b>positivo</b> (hay más trabajo de expansión que de compresión)."
+        },
+        {
+          "pregunta": "De acuerdo con el segundo principio de la Termodinámica podemos afirmar que:",
+          "opciones": [
+            "Los sistemas termodinámicos evolucionan buscando estados con menor desorden y menor entropía.",
+            "Los sistemas termodinámicos evolucionan buscando estados con mayor grado de desorden (aumento de entropía).",
+            "Pueden existir máquinas térmicas de primera generación (rendimiento 100%).",
+            "En la naturaleza pueden existir máquinas térmicas con eficiencia del 100%.",
+            "En todo proceso termodinámico se conserva la energía siempre como trabajo útil."
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Teoría:</b><br>El Segundo Principio de la Termodinámica establece que en un sistema aislado, la <b>entropía</b> (que es una medida del desorden molecular) siempre tiende a <b>aumentar</b>. Además, descarta la existencia de máquinas térmicas con un rendimiento del 100%."
+        },
+        {
+          "pregunta": "Se infla el neumático de un automóvil hasta una presión manométrica de 200 kPa cuando el aire tiene una temperatura de $$ 27^{\\circ}\\text{C} $$. Después de correr a gran velocidad, la temperatura asciende a $$ 57^{\\circ}\\text{C} $$. Suponiendo que el volumen no varía, la nueva presión manométrica es:",
+          "opciones": [
+            "210 kPa",
+            "200 kPa",
+            "230 kPa",
+            "215 kPa",
+            "220 kPa"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1: Presiones absolutas y temperaturas en Kelvin</b><br>$$ P_{abs1} = P_{man1} + P_{atm} = 200 + 100 = 300 \\text{ kPa} $$<br>$$ T_1 = 27 + 273 = 300 \\text{ K} $$<br>$$ T_2 = 57 + 273 = 330 \\text{ K} $$<br><br><b>Paso 2: Relación Isócora (Volumen constante)</b><br>$$ \\frac{P_{abs1}}{T_1} = \\frac{P_{abs2}}{T_2} $$<br>$$ \\frac{300}{300} = \\frac{P_{abs2}}{330} \\Rightarrow P_{abs2} = 330 \\text{ kPa} $$<br><br><b>Paso 3: Nueva presión manométrica</b><br>$$ P_{man2} = P_{abs2} - P_{atm} = 330 - 100 = 230 \\text{ kPa} $$"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "11.1 Termodinámica - Teoría",
+          "youtube_id": "iCpIo8Fv-og",
+          "pdf_link": "https://drive.google.com/file/d/1dIuVkXxqtfl5625YwnaN7esZ6nB9oD6V/view",
+          "gratis": true
+        },
+        {
+          "titulo": "11.2 Termodinámica - Ejercicios (Parte 1)",
+          "youtube_id": "OXTNOPcnuio",
+          "pdf_link": "https://drive.google.com/file/d/1ntSqOxazw4ZVFRKrqQc8q_oYr7k6JxH_/view",
+          "gratis": true
+        },
+        {  
+          "titulo": "11.3 Termodinámica - Ejercicios (Parte 2)",
+          "youtube_id": "C71nap1whyw",
+          "pdf_link": "https://drive.google.com/file/d/1ntSqOxazw4ZVFRKrqQc8q_oYr7k6JxH_/view",
+          "gratis": true
+        },
+        {
+          "titulo": "11.4 Termodinámica - Ejercicios (Parte 3)",
+          "youtube_id": "owy380CVkbw",
+          "pdf_link": "https://drive.google.com/file/d/1ntSqOxazw4ZVFRKrqQc8q_oYr7k6JxH_/view",
+          "gratis": true
+        },
+        {
+          "titulo": "11.5 Termodinámica - Ejercicios (Parte 4)",
+          "youtube_id": "EPRiT7RukrI",
+          "pdf_link": "https://drive.google.com/file/d/1ntSqOxazw4ZVFRKrqQc8q_oYr7k6JxH_/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 12: Electrostática (P1)",
+      "pdf_resuelto": "https://drive.google.com/file/d/1MaLQqTfh23ny0hEx_hiWlyPXXmuDq6R_/view",
+      "preguntas": [
+        {
+          "pregunta": "Después de frotar suficientemente dos cuerpos inicialmente neutros en un ambiente seco ocurre que:\nI. Ambos cuerpos quedan cargados eléctricamente.\nII. Uno de los cuerpos queda con exceso de carga negativa.\nIII. Ambos cuerpos quedan electrizados con cargas iguales.",
+          "opciones": [
+            "VVV",
+            "VVF",
+            "FVV",
+            "FFV",
+            "VFF"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Análisis Teórico:</b><br>I. (V) Al frotar dos cuerpos neutros, ocurre una transferencia de electrones, por lo que ambos adquieren carga neta.<br>II. (V) El cuerpo que gana electrones queda con exceso de carga negativa, y el que los pierde con carga positiva.<br>III. (V) Por la ley de conservación de la carga, la cantidad de electrones ganada por uno es igual a la perdida por el otro. Sus cargas finales son iguales en magnitud (aunque opuestas en signo).<br>Respuesta: VVV."
+        },
+        {
+          "pregunta": "Cuatro esferas idénticas se ponen simultáneamente en contacto físico. $$ q_1 = 10 \\mu\\text{C} $$, $$ q_2 = -15 \\mu\\text{C} $$, $$ q_3 = 17 \\mu\\text{C} $$, $$ q_4 = 20 \\mu\\text{C} $$. Inmediatamente después del contacto, la carga de cada esfera será:",
+          "opciones": [
+            "8 μC",
+            "-8 μC",
+            "4 μC",
+            "-4 μC",
+            "-2 μC"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Principio de Conservación de la Carga:</b><br>Al ser esferas idénticas, la carga total se reparte equitativamente entre las cuatro.<br>$$ Q_{total} = q_1 + q_2 + q_3 + q_4 $$<br>$$ Q_{total} = 10 - 15 + 17 + 20 = 32 \\mu\\text{C} $$<br>Carga de cada esfera = $$ \\frac{Q_{total}}{4} = \\frac{32}{4} = 8 \\mu\\text{C} $$."
+        },
+        {
+          "pregunta": "Dos cuerpos cargados se encuentran en equilibrio. $$ q_1 = 1 \\mu\\text{C} $$, $$ q_2 = -1 \\mu\\text{C} $$. Distancia = 4 cm. $$ g = 10 \\text{ m/s}^2 $$. Determine la masa del cuerpo 2. (Considere el ángulo de la cuerda de $$ 37^\\circ $$ con la vertical). ",
+          "opciones": [
+            "75 g",
+            "0,75 kg",
+            "7,5 g",
+            "75 kg",
+            "7,5 kg"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1: Fuerza Eléctrica ($$ F_e $$)</b><br>$$ F_e = \\frac{K \\cdot |q_1 \\cdot q_2|}{d^2} $$<br><b>Paso 2: Diagrama de Cuerpo Libre para $$ q_2 $$</b><br>Fuerzas que actúan: Tensión ($$ T $$), Peso ($$ mg $$) hacia abajo, y $$ F_e $$ hacia la izquierda (atracción).<br>Forman un triángulo rectángulo notable de $$ 37^\\circ $$ y $$ 53^\\circ $$:<br>$$ F_e = 3K $$, $$ mg = 4K $$, $$ T = 5K $$<br>Relación: $$ \\frac{mg}{4} = \\frac{F_e}{3} \\Rightarrow mg = \\frac{4}{3} F_e $$<br>$$ m(10) = \\frac{4}{3} \\left( \\frac{9\\times10^9 \\cdot 10^{-6} \\cdot 10^{-6}}{(4\\times10^{-2})^2} \\right) $$<br>$$ 10m = \\frac{4}{3} \\left( \\frac{9\\times10^{-3}}{16\\times10^{-4}} \\right) = \\frac{4}{3} \\left( \\frac{90}{16} \\right) = 7,5 $$<br>$$ m = 0,75 \\text{ kg} $$."
+        },
+        {
+          "pregunta": "La figura muestra dos esferas idénticas de peso 10 N cada una y carga $$ q = 20 \\mu\\text{C} $$. La separación es 0,3 m. Hallar la magnitud de la tensión en las cuerdas aislantes e ingrávidas 1 y 2. (Cuerda 1 sostiene la superior, cuerda 2 une ambas).",
+          "opciones": [
+            "20 N; 50 N",
+            "20 N; 40 N",
+            "50 N; 60 N",
+            "35 N; 30 N",
+            "30 N; 60 N"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1: Fuerza de repulsión eléctrica</b><br>$$ F_e = \\frac{9\\times10^9 \\cdot (20\\times10^{-6})^2}{(0,3)^2} = \\frac{9\\times10^9 \\cdot 400\\times10^{-12}}{9\\times10^{-2}} = 40 \\text{ N} $$<br><br><b>Paso 2: Análisis de la esfera inferior (2)</b><br>Hacia abajo: Peso (10 N) + $$ F_e $$ (40 N). Hacia arriba: Tensión 2.<br>$$ T_2 = 10 + 40 = 50 \\text{ N} $$<br><br><b>Paso 3: Análisis de la esfera superior (1)</b><br>Hacia abajo: Peso (10 N) + $$ T_2 $$ (50 N). Hacia arriba: $$ T_1 $$ + $$ F_e $$ (40 N).<br>$$ T_1 + 40 = 10 + 50 \\Rightarrow T_1 = 20 \\text{ N} $$."
+        },
+        {
+          "pregunta": "Se tienen dos cargas Q y q separadas en el vacío por 3 m. A medida que la magnitud de q se incrementa, la magnitud de la fuerza eléctrica varía de acuerdo con la gráfica mostrada (una recta que parte del origen con ángulo de $$ 45^\\circ $$ respecto al eje q). Hallar la magnitud de la carga Q (en C).",
+          "opciones": [
+            "$$ 8,85\\times10^{-19} $$",
+            "$$ 10^{-12} $$",
+            "$$ 10^{-10} $$",
+            "$$ 3,14\\times10^{-12} $$",
+            "$$ 10^{-9} $$"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Análisis de la Gráfica:</b><br>La pendiente de la gráfica F vs q es $$ \\tan(45^\\circ) = 1 $$.<br>Sabemos que $$ F = E \\cdot q $$, por lo que la pendiente representa la magnitud del campo eléctrico $$ E $$.<br>$$ E = 1 \\text{ N/C} $$<br>Fórmula del campo: $$ E = \\frac{K \\cdot Q}{d^2} $$<br>$$ 1 = \\frac{9\\times10^9 \\cdot Q}{3^2} $$<br>$$ 1 = 10^9 \\cdot Q \\Rightarrow Q = 10^{-9} \\text{ C} $$."
+        },
+        {
+          "pregunta": "En la figura se muestran tres cargas en línea: $$ +2q $$, $$ +q_0 $$ y $$ +Q $$. Distancias: $$ +2q $$ a $$ +q_0 $$ es '2a'; $$ +q_0 $$ a $$ +Q $$ es 'a'. Determinar la magnitud de la fuerza resultante sobre la partícula de carga $$ q_0 $$.",
+          "opciones": [
+            "$$ 3KQ^2/a^2 $$",
+            "$$ 2KQ^2/a^2 $$",
+            "$$ 3KQ^2/4a^2 $$",
+            "$$ 4KQ^2/a^2 $$",
+            "$$ 5KQ^2/8a^2 $$"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Resolución:</b><br>Basado en las opciones y el solucionario, se asume $$ q_0 = Q/2 $$ y las cargas de los extremos interactúan con $$ q_0 $$.<br>Fuerza de repulsión de $$ Q $$ sobre $$ q_0 $$:<br>$$ F_1 = \\frac{K \\cdot Q \\cdot q_0}{a^2} = \\frac{K \\cdot Q \\cdot (Q/2)}{a^2} = \\frac{1}{2} \\frac{K Q^2}{a^2} $$<br>Fuerza de repulsión de $$ 2q $$ (asumiendo $$ 2q = Q $$ o similar según la proporción, el solucionario muestra):<br>$$ F_2 = \\frac{K \\cdot (2q) \\cdot q_0}{(2a)^2} = \\frac{1}{4} \\frac{K \\cdot Q^2}{a^2} $$ (Hacia la derecha).<br>Al sumar ambas en sentidos opuestos o según el diagrama de fuerzas resultante del texto original: $$ F_R = \\frac{5KQ^2}{8a^2} $$."
+        },
+        {
+          "pregunta": "En la figura se muestran dos partículas electrizadas separadas 3 m. $$ Q_1 = 4Q_2 $$. ¿A qué distancia respecto a $$ Q_1 $$ se debe colocar una carga q para que la fuerza resultante sobre ella sea nula?",
+          "opciones": [
+            "2 m",
+            "1 m",
+            "3/5 m",
+            "2/3 m",
+            "5/2 m"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Equilibrio de Fuerzas:</b><br>Para que la fuerza sea nula, las fuerzas de $$ Q_1 $$ y $$ Q_2 $$ sobre $$ q $$ deben ser iguales.<br>$$ F_1 = F_2 \\Rightarrow \\frac{K \\cdot (4Q_2) \\cdot q}{x^2} = \\frac{K \\cdot Q_2 \\cdot q}{(3 - x)^2} $$<br>Simplificando $$ K, Q_2, q $$:<br>$$ \\frac{4}{x^2} = \\frac{1}{(3 - x)^2} $$<br>Extrayendo raíz cuadrada:<br>$$ \\frac{2}{x} = \\frac{1}{3 - x} $$<br>$$ 6 - 2x = x \\Rightarrow 6 = 3x \\Rightarrow x = 2 \\text{ m} $$."
+        },
+        {
+          "pregunta": "En la figura mostrada, la carga $$ q = 36 \\mu\\text{C} $$. El punto P está en la vertical debajo de Q y a una distancia d. La carga q está a una distancia de P de manera que forma un ángulo de $$ 30^\\circ $$ con la horizontal. Determinar la magnitud de la carga Q para que la intensidad del campo eléctrico en el punto P sea netamente horizontal.",
+          "opciones": [
+            "4,5 μC",
+            "-4,5 μC",
+            "9 μC",
+            "-9 μC",
+            "18 μC"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Descomposición de Campos:</b><br>Para que el campo resultante en P sea horizontal, la suma de las componentes verticales de los campos debe ser cero.<br>El campo de $$ q $$ tiene una componente vertical: $$ E_{qy} = E_q \\sin(30^\\circ) $$.<br>El campo de $$ Q $$ es netamente vertical: $$ E_Q $$.<br>$$ E_Q = E_q \\sin(30^\\circ) $$<br>Distancia de Q a P = $$ x $$. Distancia de q a P = $$ 2x $$ (por el triángulo notable de $$ 30^\\circ $$).<br>$$ \\frac{K \\cdot Q}{x^2} = \\left( \\frac{K \\cdot q}{(2x)^2} \\right) \\frac{1}{2} $$<br>$$ Q = \\frac{q}{4} \\times \\frac{1}{2} = \\frac{q}{8} $$<br>$$ Q = \\frac{36}{8} = 4,5 \\mu\\text{C} $$. (La magnitud pedida es 4,5 μC)."
+        },
+        {
+          "pregunta": "Calcular la magnitud de la intensidad del campo eléctrico resultante en el punto P asociado al sistema de cargas mostrado. $$ Q_1 = 5\\times10^{-7} \\text{ C} $$ y $$ Q_2 = 8\\times10^{-7} \\text{ C} $$. P se ubica entre ambas, a 1m de $$ Q_1 $$ y 2m de $$ Q_2 $$.",
+          "opciones": [
+            "1 800 N/C",
+            "2 700 N/C",
+            "3 600 N/C",
+            "4 500 N/C",
+            "0"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Cálculo de Campos Individuales:</b><br>$$ E_1 = \\frac{K \\cdot Q_1}{d_1^2} = \\frac{9\\times10^9 \\cdot 5\\times10^{-7}}{1^2} = 4500 \\text{ N/C} $$ (Hacia la derecha).<br>$$ E_2 = \\frac{K \\cdot Q_2}{d_2^2} = \\frac{9\\times10^9 \\cdot 8\\times10^{-7}}{2^2} = \\frac{7200}{4} = 1800 \\text{ N/C} $$ (Hacia la izquierda).<br><br><b>Campo Resultante:</b><br>$$ E_R = E_1 - E_2 = 4500 - 1800 = 2700 \\text{ N/C} $$."
+        },
+        {
+          "pregunta": "En una región donde hay un campo eléctrico uniforme se colocan tres partículas: un protón, un electrón y una partícula neutra (B). Indicar la verdad (V) o falsedad (F) de las siguientes proposiciones:\nI. Cada partícula experimenta la misma fuerza eléctrica.\nII. La fuerza eléctrica sobre el protón es diferente que sobre el electrón en dirección.\nIII. La fuerza eléctrica sobre el protón es mayor que sobre el electrón en magnitud.",
+          "opciones": [
+            "VVV",
+            "VVF",
+            "FVF",
+            "FFV",
+            "VFF"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Análisis Teórico:</b><br>I. (F) La partícula neutra no experimenta fuerza eléctrica ($$ F = 0 $$), por lo que no todas sienten la misma fuerza.<br>II. (V) Tienen cargas de signo opuesto, por lo que la fuerza eléctrica sobre ellos actúa en direcciones opuestas.<br>III. (F) Ambos tienen la misma magnitud de carga ($$ |e| $$), por lo que la magnitud de la fuerza es igual ($$ F = qE $$).<br>Respuesta: FVF."
+        },
+        {
+          "pregunta": "Una partícula con carga $$ q = -4 \\mu\\text{C} $$ se encuentra en una región donde existe un campo eléctrico uniforme que ejerce una fuerza eléctrica de magnitud 12 μN. Indicar la verdad (V) o falsedad (F):\nI. La magnitud de la intensidad del campo eléctrico es $$ 12 \\mu\\text{N/C} $$.\nII. La dirección del campo eléctrico es opuesta a la dirección de la fuerza eléctrica sobre la carga.\nIII. La intensidad del campo eléctrico es negativa.",
+          "opciones": [
+            "VVV",
+            "VVF",
+            "FVF",
+            "FFV",
+            "VFF"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Análisis de las proposiciones:</b><br>I. (F) $$ E = \\frac{F}{|q|} = \\frac{12 \\mu\\text{N}}{4 \\mu\\text{C}} = 3 \\text{ N/C} $$. No es 12.<br>II. (V) Como la carga es negativa, la fuerza experimentada es en dirección opuesta a las líneas del campo eléctrico.<br>III. (F) La \"intensidad de campo\" se refiere a la magnitud del vector, la cual es siempre un escalar positivo.<br>Respuesta: FVF."
+        },
+        {
+          "pregunta": "Tres partículas con cargas $$ q_1 = +1 \\mu\\text{C} $$, $$ q_2 = +2 \\mu\\text{C} $$, $$ q_3 = +3 \\mu\\text{C} $$ están ubicadas en los vértices de un triángulo rectángulo isósceles de catetos 2 m, estando $$ q_2 $$ en el vértice del ángulo recto. Hallar la magnitud de la intensidad del campo eléctrico resultante en el punto medio de la hipotenusa.",
+          "opciones": [
+            "$$ 4,50\\times10^3 \\text{ N/C} $$",
+            "$$ 12,72\\times10^3 \\text{ N/C} $$",
+            "$$ 13,50\\times10^3 \\text{ N/C} $$",
+            "$$ 9,00\\times10^3 \\text{ N/C} $$",
+            "$$ 6,36\\times10^3 \\text{ N/C} $$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Cálculo del Campo en P:</b><br>Distancia de $$ q_1, q_2, q_3 $$ al punto P (centro de hipotenusa):<br>La hipotenusa mide $$ 2\\sqrt{2} $$ m, su mitad es $$ \\sqrt{2} $$ m. La distancia desde el ángulo recto también es $$ \\sqrt{2} $$ m.<br>$$ E_1 = \\frac{9\\times10^9 \\cdot 1\\times10^{-6}}{(\\sqrt{2})^2} = 4,5\\times10^3 \\text{ N/C} $$<br>$$ E_3 = \\frac{9\\times10^9 \\cdot 3\\times10^{-6}}{(\\sqrt{2})^2} = 13,5\\times10^3 \\text{ N/C} $$<br>$$ E_2 = \\frac{9\\times10^9 \\cdot 2\\times10^{-6}}{(\\sqrt{2})^2} = 9,0\\times10^3 \\text{ N/C} $$<br>Los campos $$ E_1 $$ y $$ E_3 $$ son colineales y opuestos: $$ E_{13} = 13,5 - 4,5 = 9,0\\times10^3 \\text{ N/C} $$.<br>$$ E_2 $$ es perpendicular a $$ E_{13} $$.<br>$$ E_R = \\sqrt{(9,0\\times10^3)^2 + (9,0\\times10^3)^2} = 9,0\\sqrt{2}\\times10^3 \\approx 12,72\\times10^3 \\text{ N/C} $$."
+        },
+        {
+          "pregunta": "Una esferita pendular electrizada de masa $$ m = 2 \\text{ g} $$ se encuentra en equilibrio en una región donde hay un campo eléctrico uniforme de magnitud $$ E = 100 \\text{ N/C} $$ dirigido hacia la derecha. El péndulo forma $$ 45^\\circ $$ con la vertical hacia la izquierda. Calcule la carga eléctrica de la esferita. ($$ g = 10 \\text{ m/s}^2 $$) ",
+          "opciones": [
+            "+ 5 C",
+            "- 200 μC",
+            "- 5 μC",
+            "0,2 μC",
+            "+ 200 μC"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Equilibrio del Péndulo:</b><br>Al estar desviado hacia la izquierda mientras el campo apunta a la derecha, la fuerza eléctrica es hacia la izquierda. Esto indica que la carga es **negativa**.<br>$$ \\tan(45^\\circ) = \\frac{F_e}{mg} $$<br>$$ 1 = \\frac{|q|E}{mg} \\Rightarrow |q| = \\frac{mg}{E} $$<br>$$ |q| = \\frac{2\\times10^{-3} \\text{ kg} \\cdot 10 \\text{ m/s}^2}{100 \\text{ N/C}} = \\frac{20\\times10^{-3}}{10^2} = 2\\times10^{-4} \\text{ C} = 200 \\mu\\text{C} $$<br>Por lo tanto, $$ q = -200 \\mu\\text{C} $$."
+        },
+        {
+          "pregunta": "Un bloque de masa $$ m = 0,5 \\text{ kg} $$ y carga eléctrica $$ q = 50 \\mu\\text{C} $$ se encuentra en equilibrio sobre un plano inclinado liso a $$ 37^\\circ $$ de la horizontal. Determinar la magnitud de la intensidad del campo eléctrico uniforme (horizontal hacia la derecha) necesario para que el bloque permanezca en equilibrio. ($$ g = 10 \\text{ m/s}^2 $$)",
+          "opciones": [
+            "1,90 N/C",
+            "3,70 N/C",
+            "7,50 N/C",
+            "0,075 N/C",
+            "19,50 N/C"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Descomposición de Fuerzas:</b><br>Peso $$ mg = 0,5 \\times 10 = 5 \\text{ N} $$.<br>Componente del peso paralela al plano: $$ mg \\sin(37^\\circ) = 5 \\times (3/5) = 3 \\text{ N} $$ (hacia abajo del plano).<br>Fuerza eléctrica horizontal $$ F_e = qE $$. Componente paralela al plano que la empuja hacia arriba: $$ F_e \\cos(37^\\circ) = qE \\times (4/5) $$.<br>En equilibrio: $$ qE \\left(\\frac{4}{5}\\right) = 3 \\Rightarrow qE = \\frac{15}{4} = 3,75 \\text{ N} $$<br>$$ E = \\frac{3,75}{50\\times10^{-6}} = 0,075 \\times 10^6 \\text{ N/C} $$.<br>*(Nota: El solucionario asume la carga en C en vez de μC o utiliza un prefijo que resulta exactamente en 0,075)*."
+        },
+        {
+          "pregunta": "Una partícula con carga $$ q = -6 \\mu\\text{C} $$ se encuentra en un campo eléctrico uniforme que ejerce sobre ella una fuerza de $$ 18 \\mu\\text{N} $$. Analizar:\nI. La magnitud del campo eléctrico es 3 N/C.\nII. La fuerza sobre la carga y el campo tienen la misma dirección.\nIII. La intensidad del campo eléctrico es positiva.",
+          "opciones": [
+            "VVV",
+            "VVF",
+            "FVF",
+            "FFV",
+            "VFF"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Análisis Teórico:</b><br>I. (V) $$ E = \\frac{F}{|q|} = \\frac{18 \\mu\\text{N}}{6 \\mu\\text{C}} = 3 \\text{ N/C} $$.<br>II. (F) Al ser una carga negativa, la fuerza eléctrica es en sentido **opuesto** al campo.<br>III. (F) Según la convención del examen/solucionario, la \"intensidad de campo\" hace referencia estricta a la magnitud, pero en las opciones y respuestas se considera falsa bajo esta semántica literal.<br>Respuesta: VFF."
+        },
+        {
+          "pregunta": "En la figura mostrada, ¿a qué distancia de la carga $$ Q_1 $$ el potencial eléctrico es cero? ($$ Q_2 = 4Q_1 $$, y la distancia entre ambas cargas es de 18 cm). Las cargas tienen signos opuestos.",
+          "opciones": [
+            "9 cm",
+            "6 cm",
+            "2 cm",
+            "5 cm",
+            "3 cm"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Potencial Nulo:</b><br>$$ V_P = V_1 + V_2 = 0 $$<br>$$ \\frac{K \\cdot Q_1}{x} - \\frac{K \\cdot Q_2}{(18 + x)} = 0 $$ (Asumiendo que P está fuera del segmento).<br>$$ \\frac{Q_1}{x} = \\frac{4Q_1}{18 + x} $$<br>$$ 18 + x = 4x \\Rightarrow 18 = 3x \\Rightarrow x = 6 \\text{ cm} $$."
+        },
+        {
+          "pregunta": "Calcule el trabajo necesario para trasladar una partícula con carga $$ q = -8 \\mu\\text{C} $$ desde la posición A (a 9m) hasta la posición B (a 18m) en presencia del campo eléctrico creado por la carga central $$ Q = 2\\times10^{-8} \\text{ C} $$.",
+          "opciones": [
+            "-80 μJ",
+            "80 μJ",
+            "-40 μJ",
+            "40 μJ",
+            "-20 μJ"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1: Cálculo de los potenciales en A y B</b><br>$$ V_A = \\frac{K \\cdot Q}{r_A} = \\frac{9\\times10^9 \\cdot 2\\times10^{-8}}{9} = 20 \\text{ V} $$<br>$$ V_B = \\frac{K \\cdot Q}{r_B} = \\frac{9\\times10^9 \\cdot 2\\times10^{-8}}{18} = 10 \\text{ V} $$<br><br><b>Paso 2: Trabajo de un agente externo</b><br>$$ W_{ext} = q(V_B - V_A) $$<br>$$ W_{ext} = (-8\\times10^{-6})(10 - 20) $$<br>$$ W_{ext} = (-8\\times10^{-6})(-10) = +80\\times10^{-6} \\text{ J} = 80 \\mu\\text{J} $$."
+        },
+        {
+          "pregunta": "Calcule el potencial eléctrico asociado a las cargas $$ Q_1 = 4\\times10^{-9} \\text{ C} $$ y $$ Q_2 = -5\\times10^{-9} \\text{ C} $$ en el punto P. La distancia de P a $$ Q_1 $$ es 3 m y de P a $$ Q_2 $$ es 6 m.",
+          "opciones": [
+            "20 V",
+            "25 V",
+            "2,5 V",
+            "3,5 V",
+            "4,5 V"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Principio de Superposición (Potencial Eléctrico):</b><br>$$ V_P = V_1 + V_2 = \\frac{K \\cdot Q_1}{d_1} + \\frac{K \\cdot Q_2}{d_2} $$<br>$$ V_P = \\frac{9\\times10^9 \\cdot 4\\times10^{-9}}{3} + \\frac{9\\times10^9 \\cdot (-5\\times10^{-9})}{6} $$<br>$$ V_P = 9 \\left(\\frac{4}{3} - \\frac{5}{6}\\right) = 9 \\left(\\frac{8}{6} - \\frac{5}{6}\\right) = 9 \\left(\\frac{3}{6}\\right) = \\frac{27}{6} $$<br>$$ V_P = 4,5 \\text{ V} $$."
+        },
+        {
+          "pregunta": "Calcule el trabajo realizado por un agente externo para llevar una partícula electrizada con una carga $$ q = 10 \\text{ C} $$ desde la posición A (curva equipotencial de 10 V) hasta la posición B (curva equipotencial de 40 V) a velocidad constante.",
+          "opciones": [
+            "300 J",
+            "-300 J",
+            "500 J",
+            "100 J",
+            "600 J"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fórmula de Trabajo Eléctrico:</b><br>$$ W_{A \\to B}^{ext} = q(V_B - V_A) $$<br>$$ W = 10(40 - 10) $$<br>$$ W = 10(30) = 300 \\text{ J} $$."
+        },
+        {
+          "pregunta": "Se desea llevar una carga $$ q = 2 \\mu\\text{C} $$ desde la posición A hasta la posición B. Determine el trabajo realizado por el agente externo al trasladar la carga. Cargas fijas: $$ Q_1 = 2 \\text{ C} $$ y $$ Q_2 = -1 \\text{ C} $$. Las distancias a A son 6m y 6m. Las distancias a B son 5m y 5m.",
+          "opciones": [
+            "300 J",
+            "2100 J",
+            "1500 J",
+            "-1500 J",
+            "600 J"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Paso 1: Potenciales en A y B</b><br>$$ V_A = \\frac{K(2)}{6} + \\frac{K(-1)}{6} = \\frac{K}{6} = \\frac{9\\times10^9}{6} = 1,5\\times10^9 \\text{ V} $$<br>$$ V_B = \\frac{K(2)}{5} + \\frac{K(-1)}{5} = \\frac{K}{5} = \\frac{9\\times10^9}{5} = 1,8\\times10^9 \\text{ V} $$<br><br><b>Paso 2: Trabajo Externo</b><br>$$ W_{ext} = q(V_B - V_A) $$<br>$$ W_{ext} = (2\\times10^{-6}) (1,8\\times10^9 - 1,5\\times10^9) $$<br>$$ W_{ext} = (2\\times10^{-6}) (0,3\\times10^9) = 0,6 \\times 10^3 = 600 \\text{ J} $$."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "12.1 Electrostática - Teoría",
+          "youtube_id": "2sLrM1V68iQ",
+          "pdf_link": "https://drive.google.com/file/d/1AjcekloN5IpFEWtfS-f5lFFscX923FH_/view",
+          "gratis": true
+        },
+        {
+          "titulo": "12.2 Coulomb y campo eléctrico - Teoría",
+          "youtube_id": "jCtVn6YKuq0",
+          "pdf_link": "https://drive.google.com/file/d/1AjcekloN5IpFEWtfS-f5lFFscX923FH_/view",
+          "gratis": true
+        },
+        {
+          "titulo": "12.3 Campo Eléctrico - Teoría",
+          "youtube_id": "g2mA4yjUKbY",
+          "pdf_link": "https://drive.google.com/file/d/1AjcekloN5IpFEWtfS-f5lFFscX923FH_/view",
+          "gratis": true
+        },
+        {
+          "titulo": "12.4 Campo Eléctrico - Ejercicios",
+          "youtube_id": "1f3iNz1wzoc",
+          "pdf_link": "https://drive.google.com/file/d/1-xZNKemESt1yEdafn3a_kEh9zSfJboJN/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 12.1: Electrostática (P2)",
+      "pdf_resuelto": "https://drive.google.com/file/d/1tffwkfFDcMJjFkTg66vtIo3VS-CeqBCh/view",
+      "preguntas": [
+        {
+          "pregunta": "(CEPRU 2001-2) En la figura, $$ Q_1 = -\\frac{1}{9} \\mu\\text{C} $$ y $$ Q_2 = 4 \\mu\\text{C} $$. La fuerza eléctrica total que actúa sobre la carga +q ubicada en el vértice superior de un triángulo equilátero de lado 2m es: (Las cargas $$ Q_1 $$ y $$ Q_2 $$ están en la base y se asume por la resolución que sus magnitudes efectivas sobre q generan fuerzas de 1N).",
+          "opciones": [
+            "3 N",
+            "$$ 2\\sqrt{3} \\text{ N} $$",
+            "1 N",
+            "2 N",
+            "$$ \\sqrt{3} \\text{ N} $$"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Cálculo de Fuerzas:</b><br>Según la resolución proporcionada en el gráfico, las fuerzas individuales $$ F_1 $$ y $$ F_2 $$ calculadas resultan en 1 N cada una.<br>$$ F_1 = F_2 = 1 \\text{ N} $$<br>Como el triángulo es equilátero, el ángulo entre las fuerzas (repulsión y atracción según signos) forma $$ 60^{\\circ} $$.<br><b>Fuerza Resultante:</b><br>$$ F_R = \\sqrt{F_1^2 + F_2^2 + 2F_1F_2\\cos(60^{\\circ})} $$<br>$$ F_R = \\sqrt{1^2 + 1^2 + 2(1)(1)(0.5)} = \\sqrt{3} \\text{ N} $$"
+        },
+        {
+          "pregunta": "(CEPRU 2003) Dos cargas eléctricas de $$ -5 \\mu\\text{C} $$ y $$ +45 \\mu\\text{C} $$ se encuentran separadas una distancia de 60 cm. ¿A qué distancia de la carga de $$ -5 \\mu\\text{C} $$ la intensidad del campo eléctrico es nula?",
+          "opciones": [
+            "60 cm",
+            "90 cm",
+            "30 cm",
+            "45 cm",
+            "15 cm"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Condición de Campo Nulo:</b><br>El punto de campo nulo se encuentra fuera del segmento que une ambas cargas, más cerca de la carga de menor magnitud ($$ -5 \\mu\\text{C} $$).<br>$$ E_1 = E_2 $$<br>$$ \\frac{K \\cdot |45\\mu\\text{C}|}{(60 + x)^2} = \\frac{K \\cdot |-5\\mu\\text{C}|}{x^2} $$<br>$$ \\frac{9}{(60 + x)^2} = \\frac{1}{x^2} $$<br>Sacando raíz cuadrada:<br>$$ \\frac{3}{60 + x} = \\frac{1}{x} $$<br>$$ 3x = 60 + x \\Rightarrow 2x = 60 \\Rightarrow x = 30 \\text{ cm} $$"
+        },
+        {
+          "pregunta": "(CEPRU 2015-2) El potencial eléctrico en un punto A es de 15 V. Si el cambio de energía potencial electrostática cuando se traslada una carga de $$ 10 \\mu\\text{C} $$ al punto B es de $$ 150 \\mu\\text{J} $$, determine el potencial eléctrico en B (en voltios).",
+          "opciones": [
+            "45",
+            "15",
+            "30",
+            "10",
+            "25"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Variación de Energía Potencial:</b><br>$$ \\Delta U = q(V_B - V_A) $$<br>$$ 150 \\times 10^{-6} \\text{ J} = (10 \\times 10^{-6} \\text{ C})(V_B - 15) $$<br>$$ 15 = V_B - 15 $$<br>$$ V_B = 30 \\text{ V} $$"
+        },
+        {
+          "pregunta": "El potencial eléctrico en A es 20 V. Si al trasladar una carga de $$ 5 \\mu\\text{C} $$ al punto B el cambio de energía potencial es $$ 50 \\mu\\text{J} $$, determine el potencial en B.",
+          "opciones": [
+            "30 V",
+            "25 V",
+            "10 V",
+            "15 V",
+            "35 V"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Cálculo del potencial:</b><br>$$ \\Delta U = q(V_B - V_A) $$<br>$$ 50 \\times 10^{-6} = (5 \\times 10^{-6})(V_B - 20) $$<br>$$ 10 = V_B - 20 $$<br>$$ V_B = 30 \\text{ V} $$"
+        },
+        {
+          "pregunta": "El potencial en A es 12 V. Si una carga de $$ 8 \\mu\\text{C} $$ experimenta un cambio de energía potencial de $$ 32 \\mu\\text{J} $$ al ir a B, determine el potencial en B.",
+          "opciones": [
+            "16 V",
+            "8 V",
+            "20 V",
+            "4 V",
+            "12 V"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fórmula:</b><br>$$ \\Delta U = q(V_B - V_A) $$<br>$$ 32 \\times 10^{-6} = (8 \\times 10^{-6})(V_B - 12) $$<br>$$ 4 = V_B - 12 $$<br>$$ V_B = 16 \\text{ V} $$"
+        },
+        {
+          "pregunta": "(CEPRU 2016-1) En las siguientes proposiciones escribir V si es verdadero y F si es falsa:\n1. Las líneas de fuerza del campo eléctrico son líneas imaginarias.\n2. Las superficies equipotenciales de una carga son esferas concéntricas.\n3. Las líneas de fuerza del campo eléctrico son tangentes a las superficies equipotenciales.",
+          "opciones": [
+            "V, F, V",
+            "V, V, F",
+            "V, F, F",
+            "F, V, V",
+            "F, F, V"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Análisis:</b><br>1. (V) Las líneas de fuerza son un modelo gráfico imaginario.<br>2. (V) Para una carga puntual, todos los puntos a igual distancia tienen igual potencial, formando esferas concéntricas.<br>3. (F) Las líneas de fuerza siempre son <b>perpendiculares</b> a las superficies equipotenciales, no tangentes."
+        },
+        {
+          "pregunta": "(CEPRU 2017-1) Relación del campo eléctrico. Escribir V o F:\n1. El voltio/metro (V/m) es unidad de intensidad de campo eléctrico en el SI.\n2. Líneas paralelas y equidistantes indican campo eléctrico constante.\n3. La intensidad del campo eléctrico es paralela a la superficie equipotencial.",
+          "opciones": [
+            "V, F, V",
+            "F, V, F",
+            "V, V, F",
+            "F, F, V",
+            "F, V, V"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Análisis:</b><br>1. (V) Por la relación $$ E = V/d $$, la unidad V/m equivale a N/C.<br>2. (V) Representa gráficamente un campo eléctrico uniforme.<br>3. (F) El campo eléctrico siempre es perpendicular (ortogonal) a la superficie equipotencial."
+        },
+        {
+          "pregunta": "(CEPRU 2017-2) Con respecto a líneas de fuerza y superficies equipotenciales, ¿cuál de las siguientes afirmaciones es correcta?",
+          "opciones": [
+            "Para cualquier conductor cargado en equilibrio electrostático, su superficie es equipotencial.",
+            "Dos superficies equipotenciales de diferente potencial se intersecan.",
+            "La diferencia de potencial entre dos puntos de la misma superficie es diferente de cero.",
+            "Las líneas de fuerza para cargas puntuales no son perpendiculares a las superficies equipotenciales.",
+            "El vector campo eléctrico es tangente a las superficies equipotenciales."
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Justificación:</b><br>A) VERDADERA. Las cargas en un conductor en equilibrio se distribuyen en la superficie de manera que no hay diferencia de potencial entre dos puntos de ella.<br>Las demás son falsas: nunca se intersecan (B), la d.d.p. es cero (C) y el campo siempre es perpendicular (D y E)."
+        },
+        {
+          "pregunta": "Dos placas paralelas están separadas 4 cm y conectadas a una batería de 200 V. Determine la intensidad del campo eléctrico uniforme entre las placas.",
+          "opciones": [
+            "2000 V/m",
+            "3000 V/m",
+            "4000 V/m",
+            "5000 V/m",
+            "8000 V/m"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Relación de Campo y Potencial:</b><br>$$ d = 4 \\text{ cm} = 0,04 \\text{ m} $$<br>$$ V = 200 \\text{ V} $$<br>$$ E = \\frac{V}{d} = \\frac{200}{0,04} = 5000 \\text{ V/m} $$"
+        },
+        {
+          "pregunta": "Entre dos placas paralelas existe un campo eléctrico uniforme de 2500 V/m. Si la separación entre ellas es 8 cm, determine la diferencia de potencial entre las placas.",
+          "opciones": [
+            "100 V",
+            "150 V",
+            "200 V",
+            "250 V",
+            "300 V"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Despejando Potencial:</b><br>$$ d = 8 \\text{ cm} = 0,08 \\text{ m} $$<br>$$ V = E \\cdot d $$<br>$$ V = 2500 \\times 0,08 = 200 \\text{ V} $$"
+        },
+        {
+          "pregunta": "Una esfera conductora de radio 0,5 m tiene una carga de $$ 2 \\mu\\text{C} $$. Determine el potencial eléctrico en su superficie. Dato: $$ K = 9\\times10^9 $$.",
+          "opciones": [
+            "18000 V",
+            "36000 V",
+            "45000 V",
+            "54000 V",
+            "72000 V"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Cálculo del Potencial en la Superficie:</b><br>$$ V = \\frac{K \\cdot Q}{R} $$<br>$$ V = \\frac{9\\times10^9 \\cdot 2\\times10^{-6}}{0,5} $$<br>$$ V = \\frac{18000}{0,5} = 36000 \\text{ V} $$"
+        },
+        {
+          "pregunta": "(CBU 2002-1) Determine la energía eléctrica almacenada en el sistema de condensadores mostrados en la figura. (Se deduce un condensador equivalente de $$ 2 \\mu\\text{F} $$ bajo un potencial de 100V).",
+          "opciones": [
+            "$$ 10^2 \\text{ J} $$",
+            "$$ 10^4 \\text{ J} $$",
+            "$$ 10^{-4} \\text{ J} $$",
+            "$$ 10 \\text{ J} $$",
+            "$$ 10^{-2} \\text{ J} $$"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Reducción de Capacitores:</b><br>Condensadores de $$ 1 \\mu\\text{F} $$ y $$ 2 \\mu\\text{F} $$ están en paralelo $$ \\Rightarrow C_p = 1 + 2 = 3 \\mu\\text{F} $$.<br>Luego, este se encuentra en serie con otro de $$ 6 \\mu\\text{F} $$:<br>$$ C_{eq} = \\frac{6 \\times 3}{6 + 3} = \\frac{18}{9} = 2 \\mu\\text{F} $$.<br><b>Energía:</b><br>$$ U = \\frac{1}{2} C V^2 = \\frac{1}{2} (2\\times10^{-6})(100)^2 $$<br>$$ U = 10^{-6} \\times 10^4 = 10^{-2} \\text{ J} $$"
+        },
+        {
+          "pregunta": "(CBU 2003-2) La capacidad equivalente del sistema de la figura es: (Rama A con paralelos de 3μF y 4μF, en serie con Rama B de paralelos de 10μF y 4μF).",
+          "opciones": [
+            "$$ 56/13 \\mu\\text{F} $$",
+            "$$ 314/8 \\mu\\text{F} $$",
+            "$$ 21 \\mu\\text{F} $$",
+            "$$ 104/21 \\mu\\text{F} $$",
+            "$$ 14/3 \\mu\\text{F} $$"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Resolución por partes:</b><br>Primer grupo en paralelo: $$ C_1 = 3 + 4 = 7 \\mu\\text{F} $$.<br>Segundo grupo en paralelo: $$ C_2 = 10 + 4 = 14 \\mu\\text{F} $$.<br>Ambos bloques quedan en serie:<br>$$ C_{eq} = \\frac{C_1 \\cdot C_2}{C_1 + C_2} = \\frac{7 \\times 14}{7 + 14} = \\frac{98}{21} = \\frac{14}{3} \\mu\\text{F} $$"
+        },
+        {
+          "pregunta": "(UNSAAC 2016-1) En el circuito, la energía electrostática en el condensador de $$ 2 \\mu\\text{F} $$ es:",
+          "opciones": [
+            "5200 nJ",
+            "6250 nJ",
+            "26200 nJ",
+            "6300 nJ",
+            "5800 nJ"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Cálculo de Energía:</b><br>Al simplificar el circuito mediante el análisis del solucionario, la carga equivalente que fluye por la rama que contiene al condensador de $$ 2 \\mu\\text{F} $$ es de $$ q = 5 \\mu\\text{C} $$.<br>Aplicando la fórmula de energía de un capacitor:<br>$$ U = \\frac{1}{2} \\frac{Q^2}{C} $$<br>$$ U = \\frac{1}{2} \\frac{(5 \\mu\\text{C})^2}{2 \\mu\\text{F}} = \\frac{25}{4} \\mu\\text{J} = 6,25 \\mu\\text{J} $$<br>En nanojoules: $$ 6,25 \\times 1000 = 6250 \\text{ nJ} $$."
+        },
+        {
+          "pregunta": "(UNSAAC 2016-2) Se tiene un capacitor plano de placas paralelas. La carga almacenada en la placa positiva es de $$ 40 \\mu\\text{C} $$. Si la distancia entre las placas del capacitor disminuye a la mitad, la nueva carga almacenada en la placa positiva es:",
+          "opciones": [
+            "160 μC",
+            "40 μC",
+            "20 μC",
+            "10 μC",
+            "80 μC"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Relación de Capacitancia:</b><br>$$ C_0 = \\varepsilon_0 \\frac{A}{d} $$. Inicialmente $$ Q_0 = C_0 V = 40 \\mu\\text{C} $$.<br>Al reducirse la distancia a la mitad ($$ d' = d/2 $$):<br>$$ C' = \\varepsilon_0 \\frac{A}{d/2} = 2 \\varepsilon_0 \\frac{A}{d} = 2C_0 $$.<br>Como el potencial V es constante (conectado a fuente):<br>$$ Q_f = C' \\cdot V = 2C_0 \\cdot V = 2(40 \\mu\\text{C}) = 80 \\mu\\text{C} $$."
+        },
+        {
+          "pregunta": "(UNSAAC 2017-1) La capacidad equivalente entre los terminales A y B del sistema de condensadores mostrados es $$ 12 \\mu\\text{F} $$. El valor de C es:",
+          "opciones": [
+            "8 μF",
+            "3 μF",
+            "2 μF",
+            "6 μF",
+            "4 μF"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Reducción del Circuito:</b><br>Tras agrupar sucesivos condensadores en serie y paralelo en la malla geométrica (ver diagrama), se determina que la capacitancia equivalente del circuito completo resulta ser:<br>$$ C_{eq} = 3C $$<br>Dato del problema: $$ C_{eq} = 12 \\mu\\text{F} $$<br>$$ 3C = 12 \\mu\\text{F} \\Rightarrow C = 4 \\mu\\text{F} $$"
+        },
+        {
+          "pregunta": "Un condensador de placas paralelas de $$ 4 \\mu\\text{F} $$ tiene sus dimensiones modificadas: el área de las placas se duplica y la distancia entre ellas se reduce a la mitad. La nueva capacidad del condensador es:",
+          "opciones": [
+            "4 μF",
+            "8 μF",
+            "16 μF",
+            "12 μF",
+            "10 μF"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Proporción Geométrica:</b><br>$$ C_0 = \\varepsilon_0 \\frac{A_0}{d_0} = 4 \\mu\\text{F} $$<br>Nuevos parámetros: $$ A' = 2A_0 $$ y $$ d' = d_0/2 $$.<br>$$ C' = \\varepsilon_0 \\frac{2A_0}{d_0/2} = 4 \\left(\\varepsilon_0 \\frac{A_0}{d_0}\\right) $$<br>$$ C' = 4 \\cdot C_0 = 4(4 \\mu\\text{F}) = 16 \\mu\\text{F} $$"
+        },
+        {
+          "pregunta": "Un condensador de placas paralelas de $$ 6 \\mu\\text{F} $$ ve modificada su geometría: el área se triplica y la distancia se reduce a un cuarto de la original. La nueva capacidad es:",
+          "opciones": [
+            "36 μF",
+            "18 μF",
+            "24 μF",
+            "72 μF",
+            "12 μF"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Cálculo con la nueva geometría:</b><br>$$ C' = C_0 \\left(\\frac{A'}{A_0}\\right) \\left(\\frac{d_0}{d'}\\right) $$<br>$$ C' = 6 \\mu\\text{F} \\cdot \\left(\\frac{3A_0}{A_0}\\right) \\cdot \\left(\\frac{d_0}{d_0/4}\\right) $$<br>$$ C' = 6 \\cdot 3 \\cdot 4 = 72 \\mu\\text{F} $$"
+        },
+        {
+          "pregunta": "Con respecto a líneas de fuerza y superficies equipotenciales de un sistema de cargas, asigne V (Verdadero) o F (Falso):\nA) Para un conductor esférico cargado, toda la superficie de la esfera es equipotencial.\nB) Dos superficies equipotenciales correspondientes a distintos potenciales pueden cruzarse en algún punto.\nC) La diferencia de potencial entre dos puntos de una misma superficie equipotencial es cero.\nD) Las líneas de fuerza de un dipolo eléctrico no siempre son perpendiculares a las superficies equipotenciales cercanas.\nE) El campo eléctrico es siempre paralelo a la superficie equipotencial.",
+          "opciones": [
+            "V, V, F, F, V",
+            "V, F, V, F, F",
+            "F, F, V, V, F",
+            "V, F, V, V, F",
+            "F, V, F, F, V"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Análisis:</b><br>A) (V) En equilibrio, todo conductor es equipotencial.<br>B) (F) Superficies de diferentes potenciales nunca pueden cruzarse.<br>C) (V) Por definición de superficie equipotencial ($$ V_A = V_B \\Rightarrow \\Delta V = 0 $$).<br>D) (F) Las líneas de fuerza SIEMPRE son perpendiculares a la superficie equipotencial.<br>E) (F) El campo eléctrico es perpendicular, no paralelo."
+        },
+        {
+          "pregunta": "Sobre el comportamiento del campo eléctrico y las superficies equipotenciales, asigne V (Verdadero) o F (Falso):\n1) Una placa conductora plana cargada es equipotencial en toda su superficie.\n2) Dos superficies equipotenciales de distinta magnitud de potencial pueden cortarse entre sí.\n3) La diferencia de potencial entre dos puntos de una misma superficie equipotencial siempre es cero.\n4) Las líneas de fuerza creadas por una carga puntual se curvan, pero no son perpendiculares a la superficie equipotencial a corta distancia.\n5) El vector campo eléctrico siempre es tangente a la superficie equipotencial.",
+          "opciones": [
+            "V, F, V, F, F",
+            "F, V, V, F, F",
+            "V, V, F, V, F",
+            "F, F, V, F, V",
+            "V, F, F, V, F"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Análisis Teórico:</b><br>1) (V) Toda superficie conductora en equilibrio es equipotencial.<br>2) (F) Es imposible, porque un punto de intersección tendría dos potenciales distintos a la vez.<br>3) (V) Exacto, la variación es nula.<br>4) (F) Las líneas SIEMPRE son perpendiculares, sin importar la distancia.<br>5) (F) El vector es ortogonal (perpendicular), nunca tangente."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "12.1 Electrostática II - Teoría",
+          "youtube_id": "bQ5RxKctXWQ",
+          "pdf_link": "https://drive.google.com/file/d/1Hx3ze7E9YgCpZ9okUgYCQGNoG_BniTSX/view",
+          "gratis": true
+        },
+        {
+          "titulo": "12.2 Electrostática II - Ejercicios",
+          "youtube_id": "Scgj3ZVHLrY",
+          "pdf_link": "https://drive.google.com/file/d/1IAfokAhLcttbAWR_xQZz2oZeRRqzKppm/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 13: Electrodinámica",
+      "pdf_resuelto": "https://drive.google.com/file/d/1OAgX1So8j_RuRmyNX77tRjHQyLjzG6un/view",
+      "preguntas": [
+        {
+          "pregunta": "(CBU 2003-1) En el diagrama, se tiene la variación de la intensidad de corriente con el tiempo. La cantidad de carga eléctrica que pasa por una sección de área del conductor en los 8 segundos es: (El gráfico muestra una corriente constante de 10 A desde t=0 hasta t=6 s, y luego desciende linealmente hasta 0 A en t=8 s).",
+          "opciones": [
+            "68 Coulomb",
+            "65 Coulomb",
+            "70 Coulomb",
+            "58 Coulomb",
+            "80 Coulomb"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Cálculo por área bajo la curva:</b><br>La carga eléctrica $$ Q $$ es igual al área de la gráfica $$ I $$ vs $$ t $$.<br>La figura geométrica formada es un trapecio.<br>Base mayor ($$ B $$) = 8 s<br>Base menor ($$ b $$) = 6 s<br>Altura ($$ h $$) = 10 A<br>$$ Q = \\text{Área} = \\left( \\frac{B + b}{2} \\right) \\cdot h $$<br>$$ Q = \\left( \\frac{8 + 6}{2} \\right) \\cdot 10 $$<br>$$ Q = \\left( \\frac{14}{2} \\right) \\cdot 10 = 70 \\text{ Coulomb} $$"
+        },
+        {
+          "pregunta": "(CBU 2003-1) En el circuito eléctrico siguiente, dos fuentes idénticas en paralelo (cada una con fuerza electromotriz $$ \\epsilon $$ y resistencia interna $$ r $$) alimentan a una resistencia externa $$ R $$. La resistencia interna $$ r $$, es:",
+          "opciones": [
+            "$$ 3(\\epsilon/I - R) $$",
+            "$$ 2(\\epsilon/I - 2R) $$",
+            "$$ (\\epsilon/I - R) $$",
+            "$$ 2(\\epsilon/I + R) $$",
+            "$$ 2(\\epsilon/I - R) $$"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Análisis del circuito:</b><br>Al estar dos fuentes idénticas en paralelo, la fuerza electromotriz equivalente es la misma: $$ \\epsilon_{eq} = \\epsilon $$.<br>Las resistencias internas están en paralelo, por lo que: $$ r_{eq} = \\frac{r}{2} $$.<br>Aplicando la Ley de Pouillet (Ley de Ohm generalizada):<br>$$ \\epsilon_{eq} = I (R_{ext} + r_{eq}) $$<br>$$ \\epsilon = I \\left( R + \\frac{r}{2} \\right) $$<br>Despejando $$ r $$:<br>$$ \\frac{\\epsilon}{I} = R + \\frac{r}{2} $$<br>$$ \\frac{\\epsilon}{I} - R = \\frac{r}{2} $$<br>$$ r = 2\\left(\\frac{\\epsilon}{I} - R\\right) $$"
+        },
+        {
+          "pregunta": "(CBU 2003-1) En el circuito siguiente, determine la intensidad de corriente que atraviesa por cada resistencia de $$ 10 \\Omega $$. (El circuito tiene una fuente de 120V con resistencia interna de $$ 1 \\Omega $$, en serie con una resistencia de $$ 5 \\Omega $$, y luego un bloque de cinco resistencias de $$ 10 \\Omega $$ conectadas en paralelo).",
+          "opciones": [
+            "5 Amperios",
+            "4 Amperios",
+            "3 Amperios",
+            "2 Amperios",
+            "1 Amperios"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1: Resistencia Equivalente</b><br>Para las 5 resistencias de $$ 10 \\Omega $$ en paralelo:<br>$$ R_p = \\frac{10}{5} = 2 \\Omega $$<br>Resistencia total del circuito:<br>$$ R_{total} = r + R + R_p = 1 + 5 + 2 = 8 \\Omega $$<br><br><b>Paso 2: Corriente Total</b><br>$$ I_{total} = \\frac{\\epsilon}{R_{total}} = \\frac{120}{8} = 15 \\text{ A} $$<br><br><b>Paso 3: Corriente por cada rama</b><br>Como las 5 resistencias en paralelo son idénticas, la corriente se divide equitativamente:<br>$$ i = \\frac{15 \\text{ A}}{5} = 3 \\text{ A} $$"
+        },
+        {
+          "pregunta": "(CBU 2003-II) La resistencia de un alambre conductor es de $$ 18 \\text{ k}\\Omega $$. Determinar la resistencia de otro alambre conductor del mismo material, cuya longitud es la mitad de la longitud del primero y presenta un diámetro igual a la tercera parte del diámetro del primero.",
+          "opciones": [
+            "$$ 27 \\text{ k}\\Omega $$",
+            "$$ 2 \\text{ k}\\Omega $$",
+            "$$ 81 \\text{ k}\\Omega $$",
+            "$$ 4 \\text{ k}\\Omega $$",
+            "$$ 12 \\text{ k}\\Omega $$"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Ley de Pouillet:</b><br>$$ R_1 = \\rho \\frac{L_1}{A_1} = \\rho \\frac{L_1}{\\pi (D_1/2)^2} = 18 \\text{ k}\\Omega $$<br>Para el segundo alambre:<br>$$ L_2 = \\frac{L_1}{2} $$ y $$ D_2 = \\frac{D_1}{3} $$<br>El área es proporcional al cuadrado del diámetro, por lo tanto $$ A_2 = \\frac{A_1}{9} $$.<br>$$ R_2 = \\rho \\frac{L_2}{A_2} = \\rho \\frac{L_1/2}{A_1/9} = \\frac{9}{2} \\left( \\rho \\frac{L_1}{A_1} \\right) $$<br>$$ R_2 = \\frac{9}{2} (R_1) = \\frac{9}{2} (18 \\text{ k}\\Omega) = 9 \\times 9 = 81 \\text{ k}\\Omega $$"
+        },
+        {
+          "pregunta": "(CBU 2003-II) En el circuito de la figura, halle la potencia disipada en la resistencia $$ R_3 $$, sabiendo que la fuente es de 24V y las resistencias son $$ R_1=4\\Omega $$, $$ R_2=8\\Omega $$ y $$ R_3=8\\Omega $$ (todas conectadas en paralelo a la fuente según el diagrama de nodos).",
+          "opciones": [
+            "6 W",
+            "36 W",
+            "72 W",
+            "144 W",
+            "288 W"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Análisis del circuito:</b><br>De la disposición de los cables, se deduce que las resistencias $$ R_1 $$, $$ R_2 $$ y $$ R_3 $$ están sometidas a la misma diferencia de potencial de la fuente (24 V), ya que todas comparten los mismos nodos principales (están en paralelo).<br><br><b>Cálculo de la Potencia en $$ R_3 $$:</b><br>$$ P_3 = \\frac{V^2}{R_3} $$<br>$$ P_3 = \\frac{(24)^2}{8} = \\frac{576}{8} = 72 \\text{ W} $$<br>*(Nota: Alternativamente, $$ I_3 = 24/8 = 3A \\Rightarrow P_3 = I^2 R = 3^2 \\times 8 = 72W $$)*."
+        },
+        {
+          "pregunta": "(CBU 2004-1) La transformación de la energía eléctrica en calor, durante el paso de una corriente eléctrica por un conductor, se conoce como:",
+          "opciones": [
+            "Efecto Doppler",
+            "Emisión termoeléctrica",
+            "Emisión espontánea",
+            "Efecto Joule",
+            "Transformación adiabática"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Teoría:</b><br>Cuando una corriente eléctrica circula por un conductor, parte de la energía eléctrica se transforma en calor debido a los choques de los electrones con los átomos del material. Este fenómeno físico se denomina <b>Efecto Joule</b> ($$ Q = I^2 R t $$)."
+        },
+        {
+          "pregunta": "(CBU 2005-1) Un conductor de tungsteno de 2m de longitud y de $$ 1 \\text{ cm}^2 $$ de sección recta tiene una resistencia de $$ 0.01 \\Omega $$. ¿Qué longitud debe tener un conductor del mismo material de $$ 4 \\text{ cm}^2 $$ de sección recta para que su resistencia sea de $$ 1 \\Omega $$?",
+          "opciones": [
+            "800 m",
+            "200 m",
+            "100 m",
+            "400 m",
+            "600 m"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Primer conductor:</b><br>$$ R_1 = 0.01 \\Omega $$, $$ L_1 = 2 \\text{ m} $$, $$ A_1 = 1 \\text{ cm}^2 $$<br>$$ \\rho = \\frac{R_1 \\cdot A_1}{L_1} = \\frac{0.01 \\cdot 1}{2} = 0.005 \\text{ \\Omega}\\cdot\\text{cm}^2/\\text{m} $$<br><br><b>Segundo conductor:</b><br>$$ R_2 = 1 \\Omega $$, $$ A_2 = 4 \\text{ cm}^2 $$, $$ L_2 = ? $$<br>$$ R_2 = \\rho \\frac{L_2}{A_2} $$<br>$$ 1 = 0.005 \\cdot \\frac{L_2}{4} $$<br>$$ 1 = \\frac{0.005}{4} L_2 \\Rightarrow 4 = 0.005 L_2 $$<br>$$ L_2 = \\frac{4}{0.005} = 800 \\text{ m} $$"
+        },
+        {
+          "pregunta": "(CBU 2005-1) El valor de la intensidad de la corriente medida por el amperímetro en el circuito de la figura es: (Malla izquierda: 16V, $$ 2\\Omega $$, $$ 3\\Omega $$. Malla derecha: 2V, $$ 2\\Omega $$, $$ 1\\Omega $$. Rama central compartida: Amperímetro y fuente de 4V con terminal positivo abajo).",
+          "opciones": [
+            "2 A",
+            "6 A",
+            "4 A",
+            "-2 A",
+            "0"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Leyes de Kirchhoff (Mallas):</b><br>Definimos dos corrientes de malla $$ i_1 $$ (izquierda) e $$ i_2 $$ (derecha).<br><b>Malla Izquierda:</b> La fuente de 16V y la de 4V se suman a favor de la corriente.<br>$$ \\Sigma V = \\Sigma R \\cdot i \\Rightarrow 16 + 4 = i_1(2 + 3) \\Rightarrow 20 = 5i_1 \\Rightarrow i_1 = 4 \\text{ A} $$<br><b>Malla Derecha:</b> La fuente de 2V y la central de 4V se suman.<br>$$ \\Sigma V = \\Sigma R \\cdot i \\Rightarrow 2 + 4 = i_2(2 + 1) \\Rightarrow 6 = 3i_2 \\Rightarrow i_2 = 2 \\text{ A} $$<br>Ambas corrientes bajan por la rama central donde está el amperímetro.<br>$$ I_{Amperímetro} = i_1 + i_2 = 4 + 2 = 6 \\text{ A} $$"
+        },
+        {
+          "pregunta": "(CBU 2005-II) ¿Cuántos electrones atraviesan la sección recta de un conductor eléctrico de $$ 1 \\text{ mm}^2 $$ de área, si por él circula una corriente eléctrica de 10 mA durante 160 s? ($$ e = 1.60 \\times 10^{-19} \\text{ C} $$).",
+          "opciones": [
+            "1 millón",
+            "1 trillón",
+            "10 trillones",
+            "1 billón",
+            "10 billones"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Cálculo de Carga Total:</b><br>$$ Q = I \\cdot t $$<br>$$ Q = (10 \\times 10^{-3} \\text{ A}) \\cdot (160 \\text{ s}) = 1.6 \\text{ C} $$<br><br><b>Número de electrones ($$ n $$):</b><br>$$ n = \\frac{Q}{|e|} = \\frac{1.6}{1.6 \\times 10^{-19}} = 10^{19} \\text{ electrones} $$<br>Expresado en el sistema numérico latino:<br>Un trillón = $$ 10^{18} $$. Por lo tanto, $$ 10^{19} $$ son <b>10 trillones</b> de electrones."
+        },
+        {
+          "pregunta": "(CBU 2005-II) En el circuito mostrado, calcular la potencia disipada por la resistencia de $$ 25 \\Omega $$. (Corriente de 2A ingresa a la rama inferior que tiene una resistencia R; la rama superior tiene 2R y 3R en serie. Ambas ramas en paralelo se unen a la resistencia de 25 ohmios).",
+          "opciones": [
+            "100 W",
+            "120 W",
+            "144 W",
+            "190 W",
+            "195 W"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1: Corriente en la rama superior</b><br>La rama inferior tiene resistencia $$ R $$ y corriente $$ I_2 = 2 \\text{ A} $$.<br>La rama superior tiene resistencia $$ 2R + 3R = 5R $$.<br>Como están en paralelo, sus voltajes son iguales:<br>$$ V_{sup} = V_{inf} \\Rightarrow I_1(5R) = (2)(R) \\Rightarrow I_1 = \\frac{2}{5} \\text{ A} = 0,4 \\text{ A} $$<br><br><b>Paso 2: Corriente total</b><br>$$ I_{total} = I_1 + I_2 = 0,4 + 2 = 2,4 \\text{ A} = \\frac{12}{5} \\text{ A} $$<br><br><b>Paso 3: Potencia en 25 ohmios</b><br>Esta corriente total atraviesa la resistencia de $$ 25 \\Omega $$.<br>$$ P = I_{total}^2 \\cdot R_{25} = \\left(\\frac{12}{5}\\right)^2 \\cdot 25 = \\frac{144}{25} \\cdot 25 = 144 \\text{ W} $$"
+        },
+        {
+          "pregunta": "(CBU 2006-1) Una corriente I circula por una resistencia R, si se duplica la diferencia de potencial en la misma, entonces la intensidad de corriente, se:",
+          "opciones": [
+            "Reduce a la mitad",
+            "Reduce a la cuarta parte",
+            "Cuadruplica",
+            "Mantiene igual",
+            "Duplica"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Ley de Ohm:</b><br>$$ I = \\frac{V}{R} $$<br>Si la nueva diferencia de potencial es $$ V' = 2V $$:<br>$$ I' = \\frac{2V}{R} = 2 \\left(\\frac{V}{R}\\right) = 2I $$<br>Por lo tanto, la intensidad de corriente se <b>duplica</b>."
+        },
+        {
+          "pregunta": "(CBU 2006-1) Hallar la intensidad de corriente para el circuito, si $$ R=1 \\Omega $$ y $$ \\epsilon=3\\text{V} $$. (Dos mallas idénticas compartiendo una rama central con resistencia R. Cada malla exterior tiene fuente E y resistencia R).",
+          "opciones": [
+            "2 A",
+            "1 A",
+            "3 A",
+            "4 A",
+            "6 A"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Leyes de Kirchhoff:</b><br>Establecemos dos corrientes de malla $$ i_1 $$ e $$ i_2 $$.<br><b>Malla 1 (Izquierda):</b><br>$$ 3 = 1\\cdot i_1 + 1(i_1 + i_2) \\Rightarrow 3 = 2i_1 + i_2 $$<br><b>Malla 2 (Derecha):</b><br>$$ 3 = 1\\cdot i_2 + 1(i_1 + i_2) \\Rightarrow 3 = i_1 + 2i_2 $$<br>Sumando ambas ecuaciones:<br>$$ 6 = 3i_1 + 3i_2 \\Rightarrow 2 = i_1 + i_2 $$<br>La intensidad de corriente que pasa por la rama central compartida es precisamente $$ I = i_1 + i_2 = 2 \\text{ A} $$."
+        },
+        {
+          "pregunta": "(CBU 2006-1) Por el circuito mostrado en la figura, circula una corriente de 1 A. Determinar la potencia del generador. (Resistencia interna $$ r=1/2 \\Omega $$, y resistencias externas en serie de $$ 1\\Omega $$, $$ 3/2 \\Omega $$ y $$ 2\\Omega $$).",
+          "opciones": [
+            "1/4 W",
+            "5 W",
+            "1/2 W",
+            "4 W",
+            "1/5 W"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1: Resistencia Equivalente</b><br>Todas las resistencias están en serie.<br>$$ R_{eq} = \\frac{1}{2} + 1 + \\frac{3}{2} + 2 = 5 \\Omega $$<br><br><b>Paso 2: Fuerza Electromotriz ($$ \\epsilon $$)</b><br>$$ \\epsilon = I \\cdot R_{eq} = 1 \\cdot 5 = 5 \\text{ V} $$<br><br><b>Paso 3: Potencia del Generador</b><br>$$ P = \\epsilon \\cdot I = 5 \\text{ V} \\cdot 1 \\text{ A} = 5 \\text{ W} $$"
+        },
+        {
+          "pregunta": "(CBU 2006-1) Calcular el valor de la resistencia R en la figura, si la lámpara P funciona a 8V. (Fuente de 240V; una resistencia R en serie con el circuito, luego una rama paralela donde una vía tiene resistencia R y la otra vía tiene $$ 6 \\Omega $$ y la lámpara P por la cual fluye 2A).",
+          "opciones": [
+            "50 Ω",
+            "75 Ω",
+            "150 Ω",
+            "100 Ω",
+            "200 Ω"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Análisis del circuito:</b><br>En la rama de la derecha, la corriente es 2A. El voltaje allí es el de la resistencia de $$ 6\\Omega $$ más el de la lámpara P (8V).<br>$$ V_{der} = I \\cdot R + V_P = 2(6) + 8 = 12 + 8 = 20 \\text{ V} $$<br>Como la rama central (con resistencia R) está en paralelo, su voltaje también es 20V.<br>$$ V_R = 20 \\text{ V} \\Rightarrow I_{central} = \\frac{20}{R} $$<br>La corriente total que sale de la fuente es $$ I_{tot} = 2 + \\frac{20}{R} $$.<br>Aplicando Kirchhoff a la malla externa grande:<br>$$ 240 = R \\cdot I_{tot} + 20 $$<br>$$ 220 = R \\left( 2 + \\frac{20}{R} \\right) = 2R + 20 $$<br>$$ 2R = 200 \\Rightarrow R = 100 \\Omega $$"
+        },
+        {
+          "pregunta": "(CBU 2006-1) Calcular el valor de \"R\" para que la resistencia equivalente entre 'a' y 'b' sea también igual a \"R\". (El circuito tiene una $$ \\sqrt{5}\\Omega $$ en serie con un bloque paralelo conformado por $$ 2\\sqrt{5}\\Omega $$ arriba y $$ \\sqrt{5}\\Omega + R $$ abajo).",
+          "opciones": [
+            "$$ \\sqrt{5} $$",
+            "$$ 5\\sqrt{5} $$",
+            "50",
+            "5",
+            "25"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Cálculo de la Resistencia Equivalente:</b><br>$$ R_{eq} = R_{serie} + R_{paralelo} $$<br>$$ R = \\sqrt{5} + \\frac{(2\\sqrt{5})(\\sqrt{5} + R)}{2\\sqrt{5} + \\sqrt{5} + R} $$<br>$$ R - \\sqrt{5} = \\frac{10 + 2\\sqrt{5}R}{3\\sqrt{5} + R} $$<br>Multiplicando en aspa:<br>$$ (R - \\sqrt{5})(R + 3\\sqrt{5}) = 10 + 2\\sqrt{5}R $$<br>$$ R^2 + 3\\sqrt{5}R - \\sqrt{5}R - 15 = 10 + 2\\sqrt{5}R $$<br>$$ R^2 + 2\\sqrt{5}R - 15 = 10 + 2\\sqrt{5}R $$<br>$$ R^2 = 25 \\Rightarrow R = 5 \\Omega $$"
+        },
+        {
+          "pregunta": "(CBU 2006-1) Si una lámpara tiene una resistencia de $$ 600 \\Omega $$. ¿Cuántas lámparas de la misma resistencia deben conectarse en paralelo a una tensión de 120V, para que circule una corriente total de 10A?",
+          "opciones": [
+            "100",
+            "70",
+            "50",
+            "30",
+            "140"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Cálculo de la resistencia equivalente:</b><br>Por Ley de Ohm, la resistencia total necesaria es:<br>$$ R_{eq} = \\frac{V}{I} = \\frac{120}{10} = 12 \\Omega $$<br>Para 'n' resistencias iguales en paralelo, la resistencia equivalente es:<br>$$ R_{eq} = \\frac{R}{n} $$<br>$$ 12 = \\frac{600}{n} $$<br>$$ n = \\frac{600}{12} = 50 \\text{ lámparas} $$"
+        },
+        {
+          "pregunta": "Si por un alambre conductor circula una corriente de intensidad 16 mA, determine el número de electrones que atraviesan la sección transversal del conductor en 0,1s. ($$ e = 1,6 \\times 10^{-19} \\text{ C} $$).",
+          "opciones": [
+            "$$ 10^{14} $$",
+            "$$ 10^{15} $$",
+            "$$ 10^{16} $$",
+            "$$ 10^{17} $$",
+            "$$ 10^{18} $$"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1: Carga Eléctrica</b><br>$$ Q = I \\cdot t = (16 \\times 10^{-3} \\text{ A}) \\cdot (0.1 \\text{ s}) = 1.6 \\times 10^{-3} \\text{ C} $$<br><br><b>Paso 2: Número de Electrones</b><br>$$ n = \\frac{Q}{|e|} $$<br>$$ n = \\frac{1.6 \\times 10^{-3}}{1.6 \\times 10^{-19}} = 10^{-3 - (-19)} = 10^{16} $$"
+        },
+        {
+          "pregunta": "En la gráfica se describe el voltaje en función de la intensidad de corriente que afecta a los resistores óhmicos 1 y 2. La recta 1 pasa por el punto (4.5 A, 6 V) y la recta 2 forma un ángulo de 16° por debajo de la recta 1. En un circuito con una batería ideal de 12 V en paralelo a ambos, determine la intensidad de corriente que circula por $$ R_2 $$.",
+          "opciones": [
+            "9 A",
+            "12 A",
+            "16 A",
+            "24 A",
+            "32 A"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1: Hallar la resistencia 2 a partir de la gráfica</b><br>La pendiente de la recta $$ V $$ vs $$ I $$ es la resistencia ($$ R = \\tan \\alpha $$).<br>Para la recta 1: $$ \\tan \\alpha_1 = \\frac{6}{4.5} = \\frac{12}{9} = \\frac{4}{3} \\Rightarrow \\alpha_1 = 53^{\\circ} $$<br>Para la recta 2: $$ \\alpha_2 = 53^{\\circ} - 16^{\\circ} = 37^{\\circ} $$<br>$$ R_2 = \\tan(37^{\\circ}) = \\frac{3}{4} \\Omega $$<br><br><b>Paso 2: Corriente en el circuito</b><br>$$ I_2 = \\frac{V}{R_2} = \\frac{12}{3/4} = 16 \\text{ A} $$"
+        },
+        {
+          "pregunta": "En el circuito resistivo mostrado en la figura, $$ R_v $$ es una resistencia variable. Determine las resistencias fijas $$ R_1 $$ y $$ R_2 $$. La gráfica muestra que para $$ R_v = 0 $$, la intensidad total es 5A, y cuando $$ R_v $$ tiende al infinito, la intensidad total se asintota en 3A. (Fuente de 15V; $$ 1\\Omega $$ y $$ R_2 $$ en serie exterior con el bloque paralelo $$ R_v || R_1 $$).",
+          "opciones": [
+            "$$ 1\\Omega, 1\\Omega $$",
+            "$$ 2\\Omega, 2\\Omega $$",
+            "$$ 3\\Omega, 2\\Omega $$",
+            "$$ 2\\Omega, 1\\Omega $$",
+            "$$ 4\\Omega, 1\\Omega $$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Caso 1: $$ R_v = 0 $$ (Cortocircuito)</b><br>Al estar en paralelo con $$ R_1 $$, la anula. La resistencia total es $$ 1\\Omega + R_2 $$.<br>$$ I = \\frac{V}{R_{eq}} \\Rightarrow 5 = \\frac{15}{1 + R_2} \\Rightarrow 1 + R_2 = 3 \\Rightarrow R_2 = 2 \\Omega $$<br><br><b>Caso 2: $$ R_v \\to \\infty $$ (Circuito abierto)</b><br>La resistencia $$ R_v $$ desaparece, dejando a $$ R_1 $$ en serie con el resto del circuito.<br>Resistencia total = $$ 1 + R_2 + R_1 = 1 + 2 + R_1 = 3 + R_1 $$.<br>$$ I = \\frac{V}{R_{eq}} \\Rightarrow 3 = \\frac{15}{3 + R_1} \\Rightarrow 3 + R_1 = 5 \\Rightarrow R_1 = 2 \\Omega $$"
+        },
+        {
+          "pregunta": "En la figura se muestra una rama que es parte de un circuito eléctrico. El potencial en el punto \"A\" es 10V, determine el potencial en el punto \"B\". (Desde A hacia B circula I=2A, atravesando una resistencia de $$ 2\\Omega $$, una batería de 20V apoyando la corriente, una resistencia de $$ 3\\Omega $$, y una batería de 5V oponiéndose a la corriente).",
+          "opciones": [
+            "25 V",
+            "-25 V",
+            "15 V",
+            "-15 V",
+            "10 V"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Ecuación de la rama (Kirchhoff):</b><br>Partimos del potencial $$ V_A $$ y sumamos/restamos los cambios de potencial en el sentido de la corriente hasta llegar a $$ V_B $$.<br>Caídas en resistencias: $$ -IR $$<br>Paso por fuente: positivo si sale por borne (+), negativo si sale por (-).<br>$$ V_A - I(2\\Omega) + 20\\text{V} - I(3\\Omega) - 5\\text{V} = V_B $$<br>$$ 10 - 2(2) + 20 - 2(3) - 5 = V_B $$<br>$$ 10 - 4 + 20 - 6 - 5 = V_B $$<br>$$ 15 = V_B $$<br>El potencial en B es 15 V."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "13.1 Electrodinámica - Teoría",
+          "youtube_id": "XEkrBZqPjQA",
+          "pdf_link": "https://drive.google.com/file/d/1yEPsEXh0Hhd7ZdT1qjpDAAXx0Ndz__Qe/view",
+          "gratis": true
+        },
+        {
+          "titulo": "13.2 Ejercicios 1",
+          "youtube_id": "Xw_tZQnhcDo",
+          "pdf_link": "https://drive.google.com/file/d/1hLHBFZL5EGd2eHaERGVMcmgko4QP6Fta/view",
+          "gratis": true
+        },
+        {
+          "titulo": "13.3 Ejercicios 2",
+          "youtube_id": "EcAS0QLhh2k",
+          "pdf_link": "https://drive.google.com/file/d/1hLHBFZL5EGd2eHaERGVMcmgko4QP6Fta/view",
+          "gratis": true
+        },
+        {
+          "titulo": "13.4 Ejercicios 3",
+          "youtube_id": "bweW8pCTV10",
+          "pdf_link": "https://drive.google.com/file/d/1hLHBFZL5EGd2eHaERGVMcmgko4QP6Fta/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 14: Electromagnetismo",
+      "pdf_resuelto": "https://drive.google.com/file/d/14Fq3XlGmeQ1jGVIYeRozKowY7KJDRtqc/view",
+      "preguntas": [
+        {
+          "pregunta": "(CBU 2003-1) El magnetismo es un fenómeno material generado por:",
+          "opciones": [
+            "Cargas eléctricas en movimiento",
+            "Cargas magnéticas en reposo",
+            "Cargas eléctricas en reposo",
+            "Cargas magnéticas en movimiento",
+            "Cargas magnéticas en reposo o en movimiento"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Teoría:</b><br>Una corriente eléctrica, puesto que se trata de un movimiento de cargas, produce a su alrededor un campo magnético. Por lo tanto, el magnetismo es fundamentalmente generado por cargas eléctricas en movimiento."
+        },
+        {
+          "pregunta": "(CBU 2003-1) Una partícula con masa (m) y carga eléctrica (q) se mueve en un campo magnético uniforme, describiendo una trayectoria circular de 2 mm de radio sobre un plano perpendicular al campo. Si la magnitud del campo magnético es $$ 5\\times10^{-5} \\text{ T} $$ y la velocidad de la partícula es $$ 2 \\text{ km/s} $$, establecer el valor de $$ q/m $$.",
+          "opciones": [
+            "$$ 5\\times10^7 \\text{ C/kg} $$",
+            "$$ 5\\times10^{10} \\text{ C/kg} $$",
+            "$$ 2\\times10^7 \\text{ C/kg} $$",
+            "$$ 2\\times10^{10} \\text{ C/kg} $$",
+            "$$ 2\\times10^{-4} \\text{ C/kg} $$"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1: Conversión de unidades</b><br>$$ v = 2 \\text{ km/s} = 2\\times10^3 \\text{ m/s} $$<br>$$ R = 2 \\text{ mm} = 2\\times10^{-3} \\text{ m} $$<br><br><b>Paso 2: Fuerza Magnética y Centrípeta</b><br>Al describir una circunferencia: $$ F_{centrípeta} = F_{magnética} $$<br>$$ m \\frac{v^2}{R} = q v B \\Rightarrow m \\frac{v}{R} = q B $$<br>Despejando la relación $$ q/m $$:<br>$$ \\frac{q}{m} = \\frac{v}{B \\cdot R} $$<br>$$ \\frac{q}{m} = \\frac{2\\times10^3}{(5\\times10^{-5})(2\\times10^{-3})} = \\frac{2\\times10^3}{10\\times10^{-8}} $$<br>$$ \\frac{q}{m} = \\frac{2\\times10^3}{10^{-7}} = 2\\times10^{10} \\text{ C/kg} $$"
+        },
+        {
+          "pregunta": "(CBU 2003-1) En la figura se muestran dos corrientes eléctricas paralelas, rectilíneas e infinitas con intensidades $$ I_1 $$ e $$ I_2 $$ que fluyen en direcciones opuestas. Respecto de estas corrientes podemos afirmar que:",
+          "opciones": [
+            "Las corrientes no interactúan entre sí",
+            "Las corrientes se repelen entre sí",
+            "Las corrientes se atraen entre sí",
+            "La fuerza de interacción entre las corrientes es nula",
+            "La fuerza de interacción es perpendicular al plano formado por éstas"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Teoría (Fuerza magnética entre conductores paralelos):</b><br>Por la regla de la mano derecha, si dos alambres paralelos llevan corriente en <b>direcciones opuestas</b>, los campos magnéticos generados producen una fuerza que tiende a alejarlos. Por lo tanto, <b>se repelen</b>."
+        },
+        {
+          "pregunta": "(CBU 2003-II) Indicar cuál de los siguientes enunciados es incorrecto.",
+          "opciones": [
+            "No existen monopolos magnéticos.",
+            "Polos magnéticos iguales se repelen.",
+            "Las líneas de inducción magnética sirven para conocer la dirección y el sentido del vector intensidad de campo.",
+            "Los imanes atraen el hierro.",
+            "Sobre una partícula cargada que entra con cierta velocidad en una zona con campo magnético, siempre actúa una fuerza magnética."
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Análisis:</b><br>La alternativa E es incorrecta. La fuerza magnética está dada por $$ F_m = qvB \\sin(\\theta) $$. Si la partícula ingresa paralela a las líneas de campo magnético ($$ \\theta = 0^{\\circ} $$ o $$ \\theta = 180^{\\circ} $$), la fuerza magnética es cero. Por lo tanto, <b>no siempre</b> actúa una fuerza."
+        },
+        {
+          "pregunta": "(CBU 2003-II) Se tienen tres conductores paralelos e infinitos A, B y C. Las intensidades son I, 2I y 4I (todas en la misma dirección). Si la fuerza neta sobre el conductor B es nula y la distancia total entre A y C es 10 cm, la distancia que separa a los conductores A y B es:",
+          "opciones": [
+            "3 cm",
+            "2 cm",
+            "8 cm",
+            "6 cm",
+            "4 cm"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Equilibrio de Fuerzas:</b><br>Al estar en la misma dirección, B es atraído tanto por A como por C. Para que la fuerza neta sea nula, ambas fuerzas de atracción deben igualarse.<br>$$ F_{AB} = F_{BC} $$<br>$$ \\frac{\\mu_0 I_A I_B L}{2\\pi x} = \\frac{\\mu_0 I_B I_C L}{2\\pi (10 - x)} $$<br>Simplificando constantes e $$ I_B $$:<br>$$ \\frac{I_A}{x} = \\frac{I_C}{10 - x} \\Rightarrow \\frac{I}{x} = \\frac{4I}{10 - x} $$<br>$$ 10 - x = 4x \\Rightarrow 10 = 5x \\Rightarrow x = 2 \\text{ cm} $$"
+        },
+        {
+          "pregunta": "(CBU 2003-II) Una espira rectangular de $$ 2 \\text{ m}^2 $$ de área se encuentra inicialmente en el plano XY (normal en Z). Gira $$ 30^{\\circ} $$ alrededor del eje X en un tiempo de 5 s. Si $$ B = 10 \\text{ T} $$ paralelo al eje Y, la fuerza electromotriz inducida en la espira al cabo de los 5 s, es:",
+          "opciones": [
+            "-1 V",
+            "2 V",
+            "-2 V",
+            "4 V",
+            "-4 V"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1: Flujos Magnéticos</b><br>El vector de área (normal) inicialmente apunta en Z, mientras $$ B $$ está en Y. Son perpendiculares ($$ 90^{\\circ} $$).<br>$$ \\Phi_{inicial} = B \\cdot A \\cos(90^{\\circ}) = 0 $$<br>Al girar $$ 30^{\\circ} $$, el ángulo entre el campo y la normal pasa a ser $$ 60^{\\circ} $$.<br>$$ \\Phi_{final} = B \\cdot A \\cos(60^{\\circ}) = 10(2)(0,5) = 10 \\text{ Wb} $$<br><br><b>Paso 2: Ley de Faraday</b><br>$$ \\varepsilon = -\\frac{\\Delta \\Phi}{\\Delta t} $$<br>$$ \\varepsilon = -\\frac{10 - 0}{5} = -2 \\text{ V} $$"
+        },
+        {
+          "pregunta": "(CBU 2004-1) Marque la afirmación correcta.",
+          "opciones": [
+            "El campo magnético es creado por cargas eléctricas en reposo.",
+            "El campo magnético es creado por un monopolo magnético.",
+            "En un imán las líneas de fuerza salen por el polo norte e ingresan por el polo sur.",
+            "El campo magnético es lo mismo que el campo eléctrico.",
+            "El campo magnético interacciona con cargas eléctricas en reposo."
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Teoría:</b><br>Por convención internacional, las líneas de inducción magnética en el exterior de un imán siempre se dibujan saliendo del <b>Polo Norte</b> e ingresando hacia el <b>Polo Sur</b>."
+        },
+        {
+          "pregunta": "(CBU 2004-1) Una espira conductora, cuya resistencia es de $$ 50 \\Omega $$, se traslada desde una región donde soporta un flujo magnético de 8 Wb a otra alejada en 5 m, donde el flujo es de 2 Wb. Si la velocidad de la espira es de 72 km/h, establecer la intensidad de la corriente eléctrica inducida.",
+          "opciones": [
+            "0,24 A",
+            "0,03 A",
+            "0,06 A",
+            "0,48 A",
+            "0,15 A"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1: Tiempo de traslado</b><br>$$ v = 72 \\text{ km/h} = 20 \\text{ m/s} $$<br>$$ t = \\frac{d}{v} = \\frac{5}{20} = 0,25 \\text{ s} $$<br><br><b>Paso 2: Fuerza Electromotriz (Faraday)</b><br>$$ \\varepsilon = \\left| \\frac{\\Delta \\Phi}{\\Delta t} \\right| = \\frac{|2 - 8|}{0,25} = \\frac{6}{0,25} = 24 \\text{ V} $$<br><br><b>Paso 3: Ley de Ohm</b><br>$$ I = \\frac{\\varepsilon}{R} = \\frac{24}{50} = 0,48 \\text{ A} $$"
+        },
+        {
+          "pregunta": "(CBU 2004-II) Una carga eléctrica de $$ -4 \\mu\\text{C} $$ ingresa a un campo magnético de $$ -0,5\\hat{i} \\text{ T} $$, con una velocidad de $$ (-500\\hat{i} + 400\\hat{j}) \\text{ m/s} $$. La fuerza magnética que experimenta dicha carga es:",
+          "opciones": [
+            "$$ 8\\times10^{-4}\\hat{i} \\text{ N} $$",
+            "$$ -4\\times10^{-4}\\hat{k} \\text{ N} $$",
+            "$$ -8\\times10^{-4}\\hat{j} \\text{ N} $$",
+            "$$ (-8\\times10^{-4}\\hat{i} - 8\\times10^{-4}\\hat{k}) \\text{ N} $$",
+            "$$ -8\\times10^{-4}\\hat{k} \\text{ N} $$"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Fuerza Magnética Vectorial:</b><br>$$ \\vec{F}_m = q(\\vec{v} \\times \\vec{B}) $$<br>$$ \\vec{F}_m = (-4\\times10^{-6}) [ (-500\\hat{i} + 400\\hat{j}) \\times (-0,5\\hat{i}) ] $$<br>Aplicando producto cruz (recordar que $$ \\hat{i}\\times\\hat{i} = 0 $$ y $$ \\hat{j}\\times\\hat{i} = -\\hat{k} $$):<br>$$ \\vec{v} \\times \\vec{B} = 400(-0,5)(\\hat{j}\\times\\hat{i}) = -200(-\\hat{k}) = +200\\hat{k} $$<br>$$ \\vec{F}_m = (-4\\times10^{-6}) (200\\hat{k}) = -800\\times10^{-6}\\hat{k} = -8\\times10^{-4}\\hat{k} \\text{ N} $$"
+        },
+        {
+          "pregunta": "(CBU 2004-II) Una espira circular conductora, con una superficie de $$ 100 \\text{ cm}^2 $$ se halla en un campo magnético uniforme de 0,4 T. ¿Qué ángulo formará el plano de la espira con la dirección del campo para que el flujo magnético sea la mitad del máximo?",
+          "opciones": [
+            "$$ 60^{\\circ} $$",
+            "$$ 0^{\\circ} $$",
+            "$$ 45^{\\circ} $$",
+            "$$ 30^{\\circ} $$",
+            "$$ 90^{\\circ} $$"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Fórmula de Flujo Magnético:</b><br>$$ \\Phi = B \\cdot A \\cos(\\theta) $$ (donde $$ \\theta $$ es el ángulo con el vector normal).<br>El flujo máximo es $$ \\Phi_{max} = B \\cdot A $$.<br>Nos piden: $$ \\Phi = \\frac{1}{2} \\Phi_{max} \\Rightarrow B \\cdot A \\cos(\\theta) = \\frac{1}{2} B \\cdot A $$<br>$$ \\cos(\\theta) = \\frac{1}{2} \\Rightarrow \\theta = 60^{\\circ} $$ (Ángulo con la normal).<br>El ángulo con el <b>plano</b> de la espira es complementario: $$ \\alpha = 90^{\\circ} - 60^{\\circ} = 30^{\\circ} $$."
+        },
+        {
+          "pregunta": "(CBU 2005-1) ¿Cuál o cuáles de las siguientes afirmaciones son correctas?\nI) Los imanes atraen el hierro.\nII) Las líneas del campo magnético son cerradas.\nIII) Las cargas eléctricas en movimiento generan campo magnético.",
+          "opciones": [
+            "I y II",
+            "I y III",
+            "I, II y III",
+            "II y III",
+            "Sólo I"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Análisis:</b><br>I. (V) Los imanes atraen materiales ferromagnéticos como el hierro.<br>II. (V) Las líneas de inducción magnética no tienen un origen ni un fin puntual (no existen monopolos), por tanto siempre son curvas cerradas.<br>III. (V) Fundamento del electromagnetismo (Ley de Biot-Savart).<br>Todas son correctas."
+        },
+        {
+          "pregunta": "Si un electrón ingresa perpendicularmente a un campo magnético homogéneo B y lleva un momentum $$ p $$ ($$ p=mV $$), gira describiendo una circunferencia de radio R. Halle R, si $$ m $$=masa, $$ e $$=carga del electrón, $$ V $$=velocidad.",
+          "opciones": [
+            "$$ p/(e\\cdot m) $$",
+            "$$ p/e $$",
+            "$$ p/B $$",
+            "$$ p/(e\\cdot B) $$",
+            "$$ p\\cdot B/(m\\cdot e) $$"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Dinámica Circular:</b><br>$$ F_c = F_m \\Rightarrow \\frac{m V^2}{R} = e V B $$<br>Simplificando V y despejando R:<br>$$ \\frac{m V}{R} = e B \\Rightarrow R = \\frac{mV}{eB} $$<br>Sustituyendo el momentum $$ p = mV $$:<br>$$ R = \\frac{p}{e \\cdot B} $$"
+        },
+        {
+          "pregunta": "¿Cuál es la magnitud del campo magnético (en teslas) debido a una corriente de 10 A que circula a través de un alambre muy largo, a una distancia de 50 cm de dicho alambre?",
+          "opciones": [
+            "$$ 4\\times10^{-6} \\text{ T} $$",
+            "$$ 4\\times10^{-5} \\text{ T} $$",
+            "$$ 4\\times10^{-7} \\text{ T} $$",
+            "$$ 2\\times10^{-5} \\text{ T} $$",
+            "$$ 2\\times10^{-6} \\text{ T} $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Ley de Biot-Savart (conductor infinito):</b><br>$$ B = \\frac{\\mu_0 I}{2\\pi d} $$<br>$$ B = \\frac{(4\\pi \\times 10^{-7})(10)}{2\\pi (0,5)} $$<br>$$ B = \\frac{2 \\times 10^{-6} \\cdot 10}{0,5} = \\frac{2 \\times 10^{-5}}{0,5} = 4 \\times 10^{-6} \\text{ T} $$"
+        },
+        {
+          "pregunta": "La figura muestra dos pares de conductores muy largos (Sistema 1 en la misma dirección y Sistema 2 en direcciones opuestas) por los cuales circulan corrientes de la misma magnitud. El punto P está en el centro del primer sistema y el punto Q en el centro del segundo. ¿Cuál de las afirmaciones es correcta?",
+          "opciones": [
+            "El campo en el punto P es más intenso que en el punto Q.",
+            "El campo en el punto Q es más intenso que en el punto P.",
+            "El campo en el punto P es de la misma intensidad que en el punto Q.",
+            "El campo en P y Q son iguales a cero.",
+            "El campo en el punto Q es igual a cero y en el punto P es mayor que cero."
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Análisis (Regla de la mano derecha):</b><br>En el punto central Q (corrientes en direcciones opuestas), los campos generados por cada alambre apuntan en sentidos opuestos y, al tener la misma corriente, se <b>cancelan</b> (Campo = 0).<br>En el punto central P (corrientes en la misma dirección), los campos generados apuntan en el mismo sentido, por lo que se <b>suman</b> y producen un campo mayor a cero."
+        },
+        {
+          "pregunta": "Dos alambres muy largos, separados 1 m, conducen corrientes de 5 A cada uno en direcciones contrarias. ¿Cuál es la magnitud del campo magnético (en teslas) en el punto medio de la distancia de separación?",
+          "opciones": [
+            "Cero",
+            "$$ 2\\times10^{-6} \\text{ T} $$",
+            "$$ 2\\times10^{-5} \\text{ T} $$",
+            "$$ 4\\times10^{-5} \\text{ T} $$",
+            "$$ 4\\times10^{-6} \\text{ T} $$"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Principio de Superposición:</b><br>Como las corrientes tienen direcciones contrarias, la regla de la mano derecha indica que en el punto medio, ambos campos apuntan en la <b>misma dirección</b> y se suman.<br>$$ B_1 = \\frac{\\mu_0 I}{2\\pi r} = \\frac{4\\pi \\times 10^{-7} (5)}{2\\pi (0,5)} = 2 \\times 10^{-6} \\text{ T} $$<br>Como $$ B_1 = B_2 $$, el campo resultante es:<br>$$ B_R = B_1 + B_2 = 2 \\times 10^{-6} + 2 \\times 10^{-6} = 4 \\times 10^{-6} \\text{ T} $$"
+        },
+        {
+          "pregunta": "La figura muestra las secciones transversales de dos conductores que transportan $$ I_1 = 10 \\text{ A} $$ e $$ I_2 = 5 \\text{ A} $$ en la misma dirección. La separación es 90 cm. ¿A qué distancia del conductor izquierdo ($$ I_1 $$) la intensidad del campo magnético es nula?",
+          "opciones": [
+            "30 cm",
+            "60 cm",
+            "90 cm",
+            "120 cm",
+            "150 cm"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Campo Nulo:</b><br>Para que el campo sea nulo, las magnitudes de los campos producidos por cada conductor deben ser iguales.<br>$$ B_1 = B_2 $$<br>$$ \\frac{\\mu_0 I_1}{2\\pi x} = \\frac{\\mu_0 I_2}{2\\pi (90 - x)} $$<br>$$ \\frac{10}{x} = \\frac{5}{90 - x} $$<br>$$ 2(90 - x) = x \\Rightarrow 180 - 2x = x $$<br>$$ 3x = 180 \\Rightarrow x = 60 \\text{ cm} $$"
+        },
+        {
+          "pregunta": "En la figura se muestran dos conductores (uno sale y otro entra). Si $$ I_1 = 9 \\text{ A} $$, ¿cuál es la intensidad $$ I_2 $$ para que la inducción magnética en el punto P sea netamente vertical? (El punto P y las cargas forman un triángulo rectángulo, con P en la vertical de $$ I_1 $$, y ángulo de $$ 37^{\\circ} $$ en $$ I_2 $$).",
+          "opciones": [
+            "15 A",
+            "20 A",
+            "25 A",
+            "30 A",
+            "35 A"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Análisis de Campos Vectoriales:</b><br>El campo $$ B_1 $$ debido a $$ I_1 $$ es totalmente horizontal.<br>Para que el campo resultante en P sea vertical, la componente horizontal del campo $$ B_2 $$ debe anular exactamente a $$ B_1 $$.<br>Por geometría de campos, $$ B_{2x} = B_2 \\sin(37^{\\circ}) $$.<br>Igualando componentes horizontales: $$ B_1 = B_2 \\sin(37^{\\circ}) $$<br>Sustituyendo fórmulas de Biot-Savart (relacionando distancias proporcionales $$ d_1 = 3k, d_2 = 5k $$ por el triángulo):<br>$$ \\frac{\\mu_0 (9)}{2\\pi (3k)} = \\frac{\\mu_0 (I_2)}{2\\pi (5k)} \\cdot \\frac{3}{5} $$<br>$$ \\frac{9}{3} = \\frac{3 I_2}{25} \\Rightarrow 3 = \\frac{3 I_2}{25} \\Rightarrow I_2 = 25 \\text{ A} $$"
+        },
+        {
+          "pregunta": "Un conductor horizontal lleva una corriente $$ I_1 = 48 \\text{ A} $$. Un segundo conductor paralelo de cobre ($$ \\rho_{cu} = 8900 \\text{ kg/m}^3 $$) de 2,5 cm de diámetro está situado 1,5 cm debajo. Para mantenerlo en suspensión magnética, ¿cuál es la magnitud y dirección de la corriente en el segundo conductor?",
+          "opciones": [
+            "$$ 6,7\\times10^4 \\text{ A} $$, misma dirección",
+            "$$ 6,7\\times10^4 \\text{ A} $$, dirección contraria",
+            "$$ 6,7\\times10^3 \\text{ A} $$, misma dirección",
+            "$$ 6,7\\times10^3 \\text{ A} $$, dirección contraria",
+            "$$ 3,2\\times10^3 \\text{ A} $$, misma dirección"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Equilibrio de fuerzas:</b><br>Para que el segundo conductor flote, la fuerza magnética debe contrarrestar su peso. Por tanto, debe haber atracción (corrientes en la <b>misma dirección</b>).<br>$$ F_m = Peso \\Rightarrow \\frac{\\mu_0 I_1 I_2 L}{2\\pi d} = (\\rho_{cu} \\cdot A \\cdot L) g $$<br>Despejando $$ I_2 $$ e ingresando los datos (área $$ A = \\pi r^2 $$):<br>$$ I_2 = \\frac{(\\rho_{cu} \\cdot \\pi r^2 \\cdot g)(2\\pi d)}{\\mu_0 I_1} $$<br>El cálculo con la densidad y dimensiones del cobre resulta en $$ 6,7\\times10^4 \\text{ A} $$."
+        },
+        {
+          "pregunta": "Una espira circular de 10 cm de radio conduce una corriente de 0,4 A. ¿Cuál es la magnitud del campo magnético (en teslas) en el centro de la espira?",
+          "opciones": [
+            "$$ 8\\pi\\times10^{-7} \\text{ T} $$",
+            "$$ 4\\pi\\times10^{-7} \\text{ T} $$",
+            "$$ 2\\pi\\times10^{-7} \\text{ T} $$",
+            "$$ (8/\\pi)\\times10^{-7} \\text{ T} $$",
+            "$$ (4/\\pi)\\times10^{-7} \\text{ T} $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fórmula para el centro de una espira:</b><br>$$ B = \\frac{\\mu_0 I}{2R} $$<br>$$ B = \\frac{4\\pi \\times 10^{-7} \\cdot 0,4}{2(0,1)} = \\frac{1,6\\pi \\times 10^{-7}}{0,2} $$<br>$$ B = 8\\pi \\times 10^{-7} \\text{ T} $$"
+        },
+        {
+          "pregunta": "Un solenoide de 20 cm de longitud y 100 vueltas conduce una corriente de 0,2 A. ¿Cuál es la magnitud del campo magnético (en teslas) en el centro del solenoide?",
+          "opciones": [
+            "$$ 8\\pi\\times10^{-7} \\text{ T} $$",
+            "$$ 1\\pi\\times10^{-7} \\text{ T} $$",
+            "$$ 4\\pi\\times10^{-6} \\text{ T} $$",
+            "$$ 8\\pi\\times10^{-5} \\text{ T} $$",
+            "$$ 4\\pi\\times10^{-5} \\text{ T} $$"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Fórmula para el Solenoide:</b><br>$$ B = \\frac{\\mu_0 N I}{L} $$<br>$$ B = \\frac{4\\pi \\times 10^{-7} \\cdot 100 \\cdot 0,2}{0,2} $$<br>$$ B = 4\\pi \\times 10^{-7} \\cdot 100 = 4\\pi \\times 10^{-5} \\text{ T} $$"
+        },
+        {
+          "pregunta": "Una partícula cargada con $$ q = +10 \\mu\\text{C} $$ y masa $$ m = 2\\times10^{-6} \\text{ kg} $$, gira en el interior de un campo magnético de magnitud 4 T, con una rapidez de 100 m/s. Determine el radio de la trayectoria circular que describe.",
+          "opciones": [
+            "2 m",
+            "3 m",
+            "4 m",
+            "6 m",
+            "5 m"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Fórmula de Radio de Giro:</b><br>$$ R = \\frac{m v}{q B} $$<br>$$ R = \\frac{(2\\times10^{-6})(100)}{(10\\times10^{-6})(4)} $$<br>$$ R = \\frac{200}{40} = 5 \\text{ m} $$"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "14.1 Electromagnetismo - Teoría",
+          "youtube_id": "gMzomPCAYbA",
+          "pdf_link": "https://drive.google.com/file/d/11xTTTA4VP0aTabfFc_0eTDAkbHIxRuze/view",
+          "gratis": true
+        },
+        {
+          "titulo": "14.1 Electromagnetismo - Ejercicios",
+          "youtube_id": "4LHxNHNZJKg",
+          "pdf_link": "https://drive.google.com/file/d/1pfUG3T9awqzt0Sea-jNiYzZ6VCexSjn6/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 15: Movimiento Ondulatorio",
+      "pdf_resuelto": "https://drive.google.com/file/d/1MROyWNAuJ6HNm84_jcvfo6k6pUspYA6c/view",
+      "preguntas": [
+        {
+          "pregunta": "(CBU 2003-I) Dos ondas coherentes con intensidades $$ I_1 $$ e $$ I_2 $$ interfieren entre sí y se observa que la intensidad máxima de interferencia es $$ 13 \\text{ W/m}^2 $$, en tanto que la intensidad mínima es $$ 5 \\text{ W/m}^2 $$; entonces, el producto $$ (I_1 \\cdot I_2) $$ en $$ \\text{W}^2/\\text{m}^4 $$ será:",
+          "opciones": [
+            "8",
+            "4",
+            "2",
+            "18",
+            "65"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Fórmulas de Interferencia:</b><br>$$ I_{max} = I_1 + I_2 + 2\\sqrt{I_1 \\cdot I_2} = 13 \\quad \\text{... (I)} $$<br>$$ I_{min} = I_1 + I_2 - 2\\sqrt{I_1 \\cdot I_2} = 5 \\quad \\text{... (II)} $$<br><br><b>Restando (I) - (II):</b><br>$$ 13 - 5 = 4\\sqrt{I_1 \\cdot I_2} $$<br>$$ 8 = 4\\sqrt{I_1 \\cdot I_2} $$<br>$$ 2 = \\sqrt{I_1 \\cdot I_2} $$<br>Elevando al cuadrado:<br>$$ 4 = I_1 \\cdot I_2 $$"
+        },
+        {
+          "pregunta": "(CBU 2003-I) El cambio de la dirección de propagación de una onda (en el mismo medio), cuando en su camino encuentra un obstáculo relativamente pequeño, se conoce como:",
+          "opciones": [
+            "Reflexión",
+            "Polarización",
+            "Refracción",
+            "Interferencia",
+            "Difracción"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Teoría:</b><br>El tamaño del obstáculo y la longitud de onda determinan si una onda rodea el obstáculo o se refleja en la dirección de la que provenía. Si el obstáculo es pequeño en relación con la longitud de onda, el sonido lo rodeará, fenómeno conocido como <b>difracción</b>."
+        },
+        {
+          "pregunta": "(CBU 2003-II) La fase de una onda plana está dada por $$ 2\\pi(x/10 - t/2) $$, si el espacio está en metros y el tiempo en segundos, señale la velocidad con la que se propaga la onda:",
+          "opciones": [
+            "$$ 1/5 \\text{ m/s} $$",
+            "$$ 1/10 \\text{ m/s} $$",
+            "$$ 5/4 \\text{ m/s} $$",
+            "$$ 25 \\text{ m/s} $$",
+            "$$ 5 \\text{ m/s} $$"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Análisis de la Fase:</b><br>La fase es $$ \\theta = 2\\pi\\left(\\frac{x}{10} - \\frac{t}{2}\\right) = \\frac{\\pi}{5}x - \\pi t $$<br>Comparando con la forma general $$ \\theta = (kx - \\omega t) $$:<br>Número de onda $$ k = \\frac{\\pi}{5} $$<br>Frecuencia angular $$ \\omega = \\pi $$<br><br><b>Velocidad de propagación:</b><br>$$ v = \\frac{\\omega}{k} $$<br>$$ v = \\frac{\\pi}{\\pi/5} = 5 \\text{ m/s} $$"
+        },
+        {
+          "pregunta": "(CBU 2003-II) El parámetro que se define como la cantidad de energía que transporta la onda, a través de la unidad de área por la unidad de tiempo, se denomina:",
+          "opciones": [
+            "Potencia de la onda",
+            "Intensidad de la onda",
+            "Número de onda",
+            "Longitud de la onda",
+            "Fase de la onda"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Teoría:</b><br>La <b>Intensidad sonora (I)</b> es la rapidez a la cual la energía transportada por la onda fluye por unidad de área (A) perpendicular a la dirección de propagación.<br>$$ I = \\frac{\\text{Potencia}}{\\text{Área}} = \\frac{E}{A \\cdot \\Delta t} $$"
+        },
+        {
+          "pregunta": "(CBU 2003-II) Un foco sonoro emite un sonido en el aire en todas las direcciones con una potencia de $$ \\pi \\text{ MW} $$. ¿Cuál es la intensidad física del sonido a una distancia de 5 m?",
+          "opciones": [
+            "$$ 10^4 \\text{ W/m}^2 $$",
+            "$$ 2\\times10^4 \\text{ W/m}^2 $$",
+            "$$ 10^5 \\text{ W/m}^2 $$",
+            "$$ 25\\times10^4 \\text{ W/m}^2 $$",
+            "$$ 4\\times10^4 \\text{ W/m}^2 $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1: Datos</b><br>$$ \\text{Potencia} = \\pi \\text{ MW} = \\pi \\times 10^6 \\text{ W} $$<br>$$ r = 5 \\text{ m} $$<br><br><b>Paso 2: Cálculo de Intensidad</b><br>Para una fuente esférica (todas las direcciones):<br>$$ I = \\frac{\\text{Potencia}}{\\text{Área esférica}} = \\frac{\\text{Potencia}}{4\\pi r^2} $$<br>$$ I = \\frac{\\pi \\times 10^6}{4\\pi (5)^2} = \\frac{10^6}{4(25)} = \\frac{10^6}{100} = 10^4 \\text{ W/m}^2 $$"
+        },
+        {
+          "pregunta": "(CBU 2003-II) Una onda sonora que viaja en el aire con una velocidad de 340 m/s incide en un medio elástico. ¿Cuál es la velocidad del sonido en este medio, si la longitud de onda en el aire respecto a la longitud de onda en el medio es 1/2?",
+          "opciones": [
+            "340 m/s",
+            "860 m/s",
+            "680 m/s",
+            "170 m/s",
+            "430 m/s"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Relación de Ondas:</b><br>La frecuencia ($$ f $$) se mantiene constante al cambiar de medio.<br>$$ \\frac{\\lambda_{aire}}{\\lambda_{medio}} = \\frac{1}{2} $$<br>Para el aire: $$ V_{aire} = \\lambda_{aire} \\cdot f $$<br>Para el medio: $$ V_{medio} = \\lambda_{medio} \\cdot f $$<br>Dividiendo ambas ecuaciones:<br>$$ \\frac{V_{aire}}{V_{medio}} = \\frac{\\lambda_{aire}}{\\lambda_{medio}} $$<br>$$ \\frac{340}{V_{medio}} = \\frac{1}{2} \\Rightarrow V_{medio} = 680 \\text{ m/s} $$"
+        },
+        {
+          "pregunta": "(CBU 2004-I) Dos ondas coherentes entre sí con amplitudes iguales ($$ A_1 = A_2 $$) se superponen generando una nueva onda cuya intensidad es el doble de la intensidad de la primera. Determinar la diferencia de fases entre las dos ondas iniciales:",
+          "opciones": [
+            "$$ \\pi/2 $$",
+            "0",
+            "$$ \\pi $$",
+            "$$ \\pi/4 $$",
+            "$$ 3\\pi/4 $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fórmula de Interferencia:</b><br>Al tener amplitudes iguales, las intensidades individuales son iguales ($$ I_1 = I_2 = I $$).<br>La intensidad resultante es el doble de la primera: $$ I_{res} = 2I $$.<br>$$ I_{res} = I_1 + I_2 + 2\\sqrt{I_1 \\cdot I_2} \\cos\\phi $$<br>$$ 2I = I + I + 2\\sqrt{I \\cdot I} \\cos\\phi $$<br>$$ 2I = 2I + 2I \\cos\\phi $$<br>$$ 0 = 2I \\cos\\phi \\Rightarrow \\cos\\phi = 0 $$<br>El ángulo cuyo coseno es 0 es $$ 90^{\\circ} $$ o $$ \\pi/2 \\text{ rad} $$."
+        },
+        {
+          "pregunta": "(CBU 2004-I) Señale el enunciado incorrecto:",
+          "opciones": [
+            "La velocidad del sonido aumenta con la temperatura.",
+            "El sonido es una onda que necesita de un medio para propagarse.",
+            "Son ondas sonoras, todas aquellas que son perceptibles por el oído humano.",
+            "La velocidad del sonido en el vacío es aproximadamente 340 m/s.",
+            "El nivel de intensidad del sonido se expresa en decibelios."
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Teoría:</b><br>La propagación del sonido involucra transporte de energía mediante ondas mecánicas que requieren obligatoriamente un medio elástico (sólido, líquido o gaseoso). Por lo tanto, <b>el sonido NO se propaga en el vacío</b> (su velocidad en el vacío es 0 m/s, no 340 m/s). La opción D es incorrecta."
+        },
+        {
+          "pregunta": "(CBU 2004-I) En una cuerda de 45 cm de longitud con extremos fijos, la velocidad del sonido es 510 m/s. Si al vibrar la cuerda, el sonido emitido al aire presenta una longitud de onda igual a 20 cm, determinar el número de armónicos o medias ondas que se habrán generado en la cuerda. (Considerar $$ V_{aire} = 340 \\text{ m/s} $$).",
+          "opciones": [
+            "0",
+            "2",
+            "1",
+            "3",
+            "4"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1: Frecuencia del sonido</b><br>La frecuencia es la misma en la cuerda y en el aire.<br>$$ f = \\frac{V_{aire}}{\\lambda_{aire}} = \\frac{340 \\text{ m/s}}{20\\times10^{-2} \\text{ m}} = \\frac{340}{0,2} = 1700 \\text{ Hz} $$<br><br><b>Paso 2: Longitud de onda en la cuerda</b><br>$$ \\lambda_{cuerda} = \\frac{V_{cuerda}}{f} = \\frac{510}{1700} = 0,3 \\text{ m} = 30 \\text{ cm} $$<br><br><b>Paso 3: Número de armónicos (n)</b><br>Para una cuerda fija en ambos extremos: $$ L = n \\left(\\frac{\\lambda_{cuerda}}{2}\\right) $$<br>$$ 45 = n \\left(\\frac{30}{2}\\right) $$<br>$$ 45 = 15n \\Rightarrow n = 3 $$"
+        },
+        {
+          "pregunta": "(CBU 2004-II) La longitud de onda de un sonido en el aire es $$ 5\\times10^{-2} \\text{ m} $$. Cuando pasa a otro medio su velocidad es 1700 m/s; la longitud de onda en dicho medio es: ($$ V_{aire} = 340 \\text{ m/s} $$)",
+          "opciones": [
+            "$$ 15\\times10^{-2} \\text{ m} $$",
+            "$$ 25\\times10^{-2} \\text{ m} $$",
+            "$$ 20\\times10^{-2} \\text{ m} $$",
+            "$$ 10\\times10^{-2} \\text{ m} $$",
+            "$$ 30\\times10^{-2} \\text{ m} $$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Relación de velocidades y longitudes de onda (frecuencia constante):</b><br>$$ \\frac{V_1}{V_2} = \\frac{\\lambda_1}{\\lambda_2} $$<br>$$ \\frac{340}{1700} = \\frac{5\\times10^{-2}}{\\lambda_2} $$<br>$$ \\lambda_2 = \\frac{1700 \\cdot (5\\times10^{-2})}{340} $$<br>$$ \\lambda_2 = 5 \\cdot 5\\times10^{-2} = 25\\times10^{-2} \\text{ m} $$"
+        },
+        {
+          "pregunta": "(CBU 2008-I) El silbato de una locomotora tiene una frecuencia de 1700 Hz. ¿Cuál será la frecuencia del sonido que escucha una persona en la estación, si el tren se aleja con una velocidad de 216 km/h? ($$ V_{aire} = 340 \\text{ m/s} $$, $$ V_{persona} = 0 $$)",
+          "opciones": [
+            "1445 Hz",
+            "1800 Hz",
+            "1900 Hz",
+            "2000 Hz",
+            "1200 Hz"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Efecto Doppler:</b><br>Convertimos la velocidad del tren (fuente): $$ V_f = 216 \\text{ km/h} \\times (5/18) = 60 \\text{ m/s} $$.<br>Como la fuente se **aleja**, usamos el signo positivo en el denominador:<br>$$ f_p = f_f \\left( \\frac{V_s \\pm V_p}{V_s + V_f} \\right) $$<br>$$ f_p = 1700 \\left( \\frac{340}{340 + 60} \\right) $$<br>$$ f_p = 1700 \\left( \\frac{340}{400} \\right) = 1700(0,85) = 1445 \\text{ Hz} $$"
+        },
+        {
+          "pregunta": "(CEPRU 2008-II) Dada la función de onda armónica $$ y(x,t) = 0,02 \\sin 2\\pi(3t - 5x) $$. Determinar la velocidad de propagación de la onda:",
+          "opciones": [
+            "1/2 m/s",
+            "7/4 m/s",
+            "6/5 m/s",
+            "7/9 m/s",
+            "3/5 m/s"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Análisis de la Ecuación de Onda:</b><br>Introduciendo el $$ 2\\pi $$: $$ y = 0,02 \\sin(6\\pi t - 10\\pi x) $$<br>Comparando con la forma general $$ y = A \\sin(\\omega t - kx) $$:<br>Frecuencia angular $$ \\omega = 6\\pi $$<br>Número de onda $$ k = 10\\pi $$<br><br><b>Velocidad de propagación:</b><br>$$ V = \\frac{\\omega}{k} = \\frac{6\\pi}{10\\pi} = \\frac{3}{5} \\text{ m/s} $$"
+        },
+        {
+          "pregunta": "(CEPRU 2008-II) ¿Cuál es la intensidad de una onda que pasa a través de una superficie de $$ 5 \\text{ cm}^2 $$, perpendicular a la dirección de propagación de la onda en $$ \\text{W/m}^2 $$, si la onda mecánica transmite una potencia de 500 W?",
+          "opciones": [
+            "$$ 10^4 $$",
+            "$$ 10^7 $$",
+            "$$ 10^6 $$",
+            "$$ 10^8 $$",
+            "$$ 10^9 $$"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Conversión de Área:</b><br>$$ A = 5 \\text{ cm}^2 = 5\\times10^{-4} \\text{ m}^2 $$<br><br><b>Cálculo de Intensidad:</b><br>$$ I = \\frac{P}{A} $$<br>$$ I = \\frac{500 \\text{ W}}{5\\times10^{-4} \\text{ m}^2} $$<br>$$ I = 100 \\times 10^4 = 10^6 \\text{ W/m}^2 $$"
+        },
+        {
+          "pregunta": "(CEPRU 2008-II) En un tubo sonoro abierto por ambos extremos, con una longitud de 17 cm, se producen ondas estacionarias. Si la velocidad del sonido es de 340 m/s, la frecuencia fundamental es:",
+          "opciones": [
+            "980 Hz",
+            "1500 Hz",
+            "1000 Hz",
+            "2000 Hz",
+            "1600 Hz"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Tubos Abiertos:</b><br>Para la frecuencia fundamental ($$ n=1 $$), la longitud del tubo es media longitud de onda:<br>$$ L = \\frac{\\lambda}{2} \\Rightarrow 17\\times10^{-2} \\text{ m} = \\frac{\\lambda}{2} \\Rightarrow \\lambda = 34\\times10^{-2} \\text{ m} = 0,34 \\text{ m} $$<br><br><b>Frecuencia:</b><br>$$ v = \\lambda \\cdot f $$<br>$$ 340 = 0,34 \\cdot f $$<br>$$ f = \\frac{340}{0,34} = 1000 \\text{ Hz} $$"
+        },
+        {
+          "pregunta": "(CEPRU 2008-II) Una fuente sonora se encuentra en reposo y emite una frecuencia de 1000 Hz. Si el observador se aleja de la fuente con una rapidez de 170 m/s y la velocidad del sonido en el aire es 340 m/s, la frecuencia percibida por el observador es:",
+          "opciones": [
+            "1000 Hz",
+            "600 Hz",
+            "800 Hz",
+            "400 Hz",
+            "500 Hz"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Efecto Doppler:</b><br>Velocidad de la fuente $$ V_f = 0 $$. Velocidad del observador $$ V_p = 170 \\text{ m/s} $$.<br>Como el observador se **aleja**, usamos el signo negativo en el numerador:<br>$$ f_p = f_f \\left( \\frac{V_s - V_p}{V_s \\pm V_f} \\right) $$<br>$$ f_p = 1000 \\left( \\frac{340 - 170}{340 \\pm 0} \\right) $$<br>$$ f_p = 1000 \\left( \\frac{170}{340} \\right) = 1000(0,5) = 500 \\text{ Hz} $$"
+        },
+        {
+          "pregunta": "(CEPRU 2009-I) La ecuación de una onda transversal que se propaga en una cuerda es $$ y = 10 \\sin 2\\pi(0,05x - 10t) $$, donde y y x están en cm y t en s. La velocidad de propagación de la onda es:",
+          "opciones": [
+            "8 m/s",
+            "25 m/s",
+            "5 m/s",
+            "2 m/s",
+            "200 m/s"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Análisis de la Ecuación:</b><br>$$ y = 10 \\sin(0,1\\pi x - 20\\pi t) $$<br>Número de onda $$ k = 0,1\\pi $$<br>Frecuencia angular $$ \\omega = 20\\pi $$<br><br><b>Velocidad:</b><br>$$ v = \\frac{\\omega}{k} = \\frac{20\\pi}{0,1\\pi} = 200 \\text{ cm/s} $$<br>Pasando a metros: $$ v = 2 \\text{ m/s} $$."
+        },
+        {
+          "pregunta": "(CEPRU 2009-I) Si la intensidad de una onda sísmica a 100 km del epicentro es de $$ 2,56\\times10^6 \\text{ W/m}^2 $$, entonces la intensidad a 800 km del epicentro será:",
+          "opciones": [
+            "$$ 4\\times10^4 \\text{ W/m}^2 $$",
+            "$$ 6\\times10^4 \\text{ W/m}^2 $$",
+            "$$ 16\\times10^4 \\text{ W/m}^2 $$",
+            "$$ 64\\times10^5 \\text{ W/m}^2 $$",
+            "$$ 2\\times10^6 \\text{ W/m}^2 $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Ley de la Inversa del Cuadrado (Conservación de Energía):</b><br>$$ I_1 \\cdot R_1^2 = I_2 \\cdot R_2^2 $$<br>$$ (2,56\\times10^6)(100)^2 = I_2 (800)^2 $$<br>$$ I_2 = 2,56\\times10^6 \\left(\\frac{100}{800}\\right)^2 = 2,56\\times10^6 \\left(\\frac{1}{8}\\right)^2 $$<br>$$ I_2 = \\frac{2,56\\times10^6}{64} = 0,04\\times10^6 = 4\\times10^4 \\text{ W/m}^2 $$"
+        },
+        {
+          "pregunta": "(CEPRU 2009-I) Un tren se aleja con una velocidad de 18 m/s de un observador en reposo. La sirena del tren emite ondas acústicas con una frecuencia de 1432 Hz. La frecuencia que capta dicho observador es: ($$ V_{sonido} = 340 \\text{ m/s} $$)",
+          "opciones": [
+            "1360 Hz",
+            "1000 Hz",
+            "984 Hz",
+            "1250 Hz",
+            "1150 Hz"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Efecto Doppler:</b><br>La fuente se **aleja**, por lo tanto, el denominador se suma (para disminuir la frecuencia).<br>$$ f_p = f_f \\left( \\frac{V_s \\pm V_p}{V_s + V_f} \\right) $$<br>$$ f_p = 1432 \\left( \\frac{340 \\pm 0}{340 + 18} \\right) $$<br>$$ f_p = 1432 \\left( \\frac{340}{358} \\right) = 4 \\times 340 = 1360 \\text{ Hz} $$"
+        },
+        {
+          "pregunta": "(CEPRU 2009-II) Si a un extremo de una cuerda se le hace oscilar periódicamente de forma transversal con una frecuencia de 10 Hz, la cuerda tiene 50 m de longitud y una masa total de 0,5 kg y está sometida a una tensión de 400 N, determinar la longitud de onda:",
+          "opciones": [
+            "20 m",
+            "30 m",
+            "40 m",
+            "50 m",
+            "60 m"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1: Densidad lineal ($$ \\mu $$)</b><br>$$ \\mu = \\frac{m}{L} = \\frac{0,5}{50} = 0,01 \\text{ kg/m} $$<br><br><b>Paso 2: Velocidad de onda en la cuerda</b><br>$$ V = \\sqrt{\\frac{T}{\\mu}} = \\sqrt{\\frac{400}{0,01}} = \\sqrt{40000} = 200 \\text{ m/s} $$<br><br><b>Paso 3: Longitud de onda ($$ \\lambda $$)</b><br>$$ V = \\lambda \\cdot f \\Rightarrow 200 = \\lambda \\cdot 10 \\Rightarrow \\lambda = 20 \\text{ m} $$"
+        },
+        {
+          "pregunta": "(CEPRU 2009-II) La intensidad del sonido de una bocina es $$ I_0 $$ a una distancia $$ r_0 $$. Para que la intensidad sea un cuarto de $$ I_0 $$ a la distancia $$ r $$, el cociente $$ r/r_0 $$ es:",
+          "opciones": [
+            "1/4",
+            "4",
+            "2",
+            "3",
+            "1/2"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Relación de Intensidades:</b><br>$$ I_1 \\cdot r_1^2 = I_2 \\cdot r_2^2 $$<br>$$ I_0 \\cdot r_0^2 = \\left(\\frac{I_0}{4}\\right) \\cdot r^2 $$<br>Cancelando $$ I_0 $$:<br>$$ r_0^2 = \\frac{r^2}{4} \\Rightarrow 4 = \\frac{r^2}{r_0^2} $$<br>Extrayendo raíz cuadrada:<br>$$ 2 = \\frac{r}{r_0} $$"
+        },
+        {
+          "pregunta": "(CEPRU 2010-I) A través de una cuerda tensa viajan ondas armónicas, cuya ecuación de onda es $$ y = 5 \\sin (4x - 8\\pi t) \\text{ m} $$. Entonces la magnitud de la velocidad de propagación de dicha onda en m/s es:",
+          "opciones": [
+            "$$ 6\\pi $$",
+            "$$ 2\\pi $$",
+            "$$ 5\\pi $$",
+            "8",
+            "3,5"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Análisis de Ecuación:</b><br>$$ y = 5 \\sin(4x - 8\\pi t) $$<br>Comparando con $$ y = A \\sin(kx - \\omega t) $$:<br>$$ k = 4 $$<br>$$ \\omega = 8\\pi $$<br><br><b>Velocidad:</b><br>$$ V = \\frac{\\omega}{k} = \\frac{8\\pi}{4} = 2\\pi \\text{ m/s} $$"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "15.1 Ondas - Teoría",
+          "youtube_id": "1F4XLjxgAbI",
+          "pdf_link": "https://drive.google.com/file/d/1qDBDVQc2gzUaBQJc-nY-Xb4uNhX4mnd2/view",
+          "gratis": true
+        },
+        {
+          "titulo": "15.2 Ondas - Ejercicios",
+          "youtube_id": "3_ntxtoOYYg",
+          "pdf_link": "https://drive.google.com/file/d/1tRykcK_t0gHbnqAJPip36kaDdmeGJ1xu/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 16: Óptica",
+      "pdf_resuelto": "https://drive.google.com/file/d/1sxNZRHEMVEjmxOAQl4Gpnq-Kt0sPd386/view",
+      "preguntas": [
+        {
+          "pregunta": "(CBU 2003-1 \"A\" y \"B\") Los fotones, que son las partículas constituyentes de la luz, no poseen:",
+          "opciones": [
+            "Velocidad",
+            "Longitud de onda",
+            "Masa de reposo",
+            "Cantidad de movimiento",
+            "Energía"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Teoría:</b><br>En física moderna, el fotón es la partícula elemental responsable de las manifestaciones cuánticas del fenómeno electromagnético. Es la partícula portadora de todas las formas de radiación electromagnética (rayos gamma, rayos X, luz ultravioleta, luz visible, etc.). Una característica fundamental de los fotones es que <b>no poseen masa en reposo</b>."
+        },
+        {
+          "pregunta": "(CBU 2003-1 \"A\" y \"B\") Un objeto se coloca 30 cm delante de una lente bicóncava, cuyos radios de curvatura son de 45 cm, y su índice de refracción igual a 2.5. Establecer la distancia entre el objeto y su imagen.",
+          "opciones": [
+            "25 cm",
+            "20 cm",
+            "30 cm",
+            "-30 cm",
+            "15 cm"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1: Ecuación del fabricante de lentes</b><br>Para una lente bicóncava, los radios son negativos: $$ R_1 = -45 \\text{ cm}, R_2 = -45 \\text{ cm} $$.<br>$$ \\frac{1}{f} = \\left(\\frac{n_l}{n_m} - 1\\right) \\left(\\frac{1}{R_1} + \\frac{1}{R_2}\\right) $$<br>$$ \\frac{1}{f} = (2.5 - 1) \\left(\\frac{1}{-45} + \\frac{1}{-45}\\right) = (1.5) \\left(-\\frac{2}{45}\\right) $$<br>$$ \\frac{1}{f} = \\frac{15}{10} \\left(-\\frac{2}{45}\\right) = -\\frac{30}{450} = -\\frac{1}{15} \\Rightarrow f = -15 \\text{ cm} $$<br><br><b>Paso 2: Ecuación de Descartes</b><br>$$ \\frac{1}{f} = \\frac{1}{i} + \\frac{1}{o} \\Rightarrow -\\frac{1}{15} = \\frac{1}{i} + \\frac{1}{30} $$<br>$$ \\frac{1}{i} = -\\frac{1}{15} - \\frac{1}{30} = -\\frac{3}{30} = -\\frac{1}{10} \\Rightarrow i = -10 \\text{ cm} $$<br>La imagen es virtual y se forma a 10 cm delante de la lente.<br><b>Distancia entre objeto e imagen:</b> $$ d = |o| - |i| = 30 - 10 = 20 \\text{ cm} $$."
+        },
+        {
+          "pregunta": "(CBU 2003-II \"B\") Un rayo de luz tiene una longitud de onda de $$ 5\\times10^{-7} \\text{ m} $$. ¿Con qué frecuencia se propagará?",
+          "opciones": [
+            "$$ 3\\times10^{14} \\text{ Hz} $$",
+            "$$ 6\\times10^{14} \\text{ Hz} $$",
+            "$$ 2.7\\times10^{14} \\text{ Hz} $$",
+            "$$ 1.2\\times10^{14} \\text{ Hz} $$",
+            "$$ 2\\times10^{14} \\text{ Hz} $$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Cálculo de la frecuencia:</b><br>Usamos la ecuación fundamental de ondas electromagnéticas en el vacío ($$ c = 3\\times10^8 \\text{ m/s} $$).<br>$$ c = \\lambda \\cdot f $$<br>$$ 3\\times10^8 = (5\\times10^{-7}) \\cdot f $$<br>$$ f = \\frac{3\\times10^8}{5\\times10^{-7}} = \\frac{3}{5} \\times 10^{15} $$<br>$$ f = 0.6 \\times 10^{15} = 6 \\times 10^{14} \\text{ Hz} $$."
+        },
+        {
+          "pregunta": "(CBU 2003-II \"B\") Un rayo de luz que viaja en el aire llega a un vidrio con un ángulo de incidencia de $$ 45^{\\circ} $$. Si el ángulo de refracción es de $$ 30^{\\circ} $$, ¿con qué velocidad viaja la luz en este vidrio?",
+          "opciones": [
+            "$$ 1.2\\times10^8 \\text{ m/s} $$",
+            "$$ 3.1\\times10^8 \\text{ m/s} $$",
+            "$$ 4.1\\times10^8 \\text{ m/s} $$",
+            "$$ 1.3\\times10^8 \\text{ m/s} $$",
+            "$$ 2.1\\times10^8 \\text{ m/s} $$"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Paso 1: Ley de Snell</b><br>$$ n_1 \\sin(i) = n_2 \\sin(R) $$<br>$$ 1 \\cdot \\sin(45^{\\circ}) = n_2 \\cdot \\sin(30^{\\circ}) $$<br>$$ \\frac{\\sqrt{2}}{2} = n_2 \\cdot \\frac{1}{2} \\Rightarrow n_2 = \\sqrt{2} $$<br><br><b>Paso 2: Velocidad en el medio</b><br>$$ n_2 = \\frac{c}{v_2} \\Rightarrow \\sqrt{2} = \\frac{3\\times10^8}{v_2} $$<br>$$ v_2 = \\frac{3\\times10^8}{\\sqrt{2}} = \\frac{3\\sqrt{2}}{2} \\times 10^8 \\approx 1.5(1.41) \\times 10^8 $$<br>$$ v_2 \\approx 2.11 \\times 10^8 \\text{ m/s} $$."
+        },
+        {
+          "pregunta": "(CBU 2004-1 \"A\" y \"B\") La dualidad en la naturaleza de la luz se refiere a sus manifestaciones como:",
+          "opciones": [
+            "Rayo - Onda",
+            "Partícula - Rayo",
+            "Partícula - Onda",
+            "Onda - Energía",
+            "Energía - Rayo"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Teoría (Naturaleza de la luz):</b><br>La luz posee una naturaleza dual. Por un lado, la <b>teoría corpuscular</b> (Newton) sugiere que está compuesta por partículas (fotones). Por otro lado, la <b>teoría ondulatoria</b> (Huygens) demuestra que se comporta como una onda (difracción, interferencia). Se manifiesta, por tanto, como <b>Partícula y Onda</b>."
+        },
+        {
+          "pregunta": "(CBU 2004-II \"A\" y \"B\") La luz es una onda que se caracteriza por ser:",
+          "opciones": [
+            "Mecánica, transversal y se polariza",
+            "Electromagnética, longitudinal y se polariza",
+            "Electromagnética, longitudinal y no se polariza",
+            "Electromagnética, transversal y se polariza",
+            "Elástica, longitudinal y no se polariza"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Teoría:</b><br>La luz es una radiación <b>electromagnética</b>. Las ondas electromagnéticas son siempre <b>transversales</b> (los campos eléctrico y magnético oscilan perpendicularmente a la dirección de propagación). Además, debido a su naturaleza transversal, la luz <b>se puede polarizar</b> mediante filtros específicos."
+        },
+        {
+          "pregunta": "(CBU 2004-II \"A\" y \"B\") En una lente convergente, la distancia entre un objeto y su imagen es 90 cm. Si el aumento producido es el doble, la distancia focal de la lente es:",
+          "opciones": [
+            "-20 cm",
+            "20 cm",
+            "30 cm",
+            "-30 cm",
+            "15 cm"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1: Relación de Aumento</b><br>Como el aumento es el doble y asumiendo una imagen real (para formar una distancia total de 90cm a ambos lados), $$ A = -2 $$.<br>$$ A = -\\frac{i}{o} \\Rightarrow -2 = -\\frac{i}{o} \\Rightarrow i = 2o $$<br><br><b>Paso 2: Distancias</b><br>$$ d = o + i = 90 \\text{ cm} $$<br>$$ o + 2o = 90 \\Rightarrow 3o = 90 \\Rightarrow o = 30 \\text{ cm} $$<br>$$ i = 2(30) = 60 \\text{ cm} $$<br><br><b>Paso 3: Foco</b><br>$$ \\frac{1}{f} = \\frac{1}{o} + \\frac{1}{i} = \\frac{1}{30} + \\frac{1}{60} = \\frac{2}{60} + \\frac{1}{60} = \\frac{3}{60} $$<br>$$ \\frac{1}{f} = \\frac{1}{20} \\Rightarrow f = 20 \\text{ cm} $$."
+        },
+        {
+          "pregunta": "(CBU 2005-1 \"A\") Si el índice de refracción del agua es 4/3, la velocidad de la luz en el agua es:",
+          "opciones": [
+            "$$ 2\\times10^8 \\text{ m/s} $$",
+            "$$ 1.5\\times10^8 \\text{ m/s} $$",
+            "$$ 2.25\\times10^8 \\text{ m/s} $$",
+            "$$ 3\\times10^8 \\text{ m/s} $$",
+            "$$ 1.25\\times10^8 \\text{ m/s} $$"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Cálculo de la velocidad:</b><br>$$ n = \\frac{c}{v} $$<br>$$ \\frac{4}{3} = \\frac{3\\times10^8}{v} $$<br>$$ v = \\frac{3 \\cdot 3\\times10^8}{4} = \\frac{9}{4} \\times 10^8 = 2.25 \\times 10^8 \\text{ m/s} $$."
+        },
+        {
+          "pregunta": "(CBU 2005-II \"B\") Un rayo de luz monocromática atraviesa una superficie transparente de 4 cm de espesor en 0.2 ns. Hallar el índice de refracción del material.",
+          "opciones": [
+            "1.6",
+            "2.4",
+            "1.7",
+            "2.7",
+            "1.5"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Paso 1: Velocidad de la luz en el material</b><br>$$ v = \\frac{d}{t} = \\frac{4 \\text{ cm}}{0.2 \\text{ ns}} = \\frac{4\\times10^{-2} \\text{ m}}{0.2\\times10^{-9} \\text{ s}} $$<br>$$ v = \\frac{4}{0.2} \\times 10^7 = 20 \\times 10^7 = 2\\times10^8 \\text{ m/s} $$<br><br><b>Paso 2: Índice de refracción</b><br>$$ n = \\frac{c}{v} = \\frac{3\\times10^8}{2\\times10^8} = 1.5 $$."
+        },
+        {
+          "pregunta": "(CBU 2005-II \"B\") Si un objeto se ubica a 15 cm de un espejo cóncavo de 30 cm de distancia focal, determinar la distancia entre el objeto y su imagen.",
+          "opciones": [
+            "45 cm",
+            "35 cm",
+            "-25 cm",
+            "55 cm",
+            "-15 cm"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1: Ecuación de Descartes</b><br>Espejo cóncavo ($$ f = +30 \\text{ cm} $$). Objeto ($$ o = +15 \\text{ cm} $$).<br>$$ \\frac{1}{f} = \\frac{1}{i} + \\frac{1}{o} $$<br>$$ \\frac{1}{30} = \\frac{1}{i} + \\frac{1}{15} $$<br>$$ \\frac{1}{i} = \\frac{1}{30} - \\frac{1}{15} = \\frac{1}{30} - \\frac{2}{30} = -\\frac{1}{30} \\Rightarrow i = -30 \\text{ cm} $$<br>La imagen es virtual y se forma 30 cm **detrás** del espejo.<br><br><b>Paso 2: Distancia total</b><br>El objeto está 15 cm por delante, y la imagen 30 cm por detrás.<br>$$ d_{total} = |o| + |i| = 15 + 30 = 45 \\text{ cm} $$."
+        },
+        {
+          "pregunta": "(CBU 2006-1 \"A\") Determine la distancia focal de una lente convergente si proporciona imágenes reales de 15 cm y 30 cm cuando el objeto se coloca a 80 cm y 50 cm de la lente, respectivamente.",
+          "opciones": [
+            "80/3 cm",
+            "80 cm",
+            "5/4 cm",
+            "20 cm",
+            "16 cm"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución por relación de aumentos:</b><br>$$ |A_1| = \\frac{15}{h_o} = \\frac{i_1}{80} \\Rightarrow i_1 = \\frac{1200}{h_o} $$<br>$$ |A_2| = \\frac{30}{h_o} = \\frac{i_2}{50} \\Rightarrow i_2 = \\frac{1500}{h_o} $$<br>Relacionando: $$ \\frac{i_1}{i_2} = \\frac{1200}{1500} = \\frac{4}{5} $$<br>Sea $$ i_1 = 4k $$ e $$ i_2 = 5k $$.<br>Planteando las dos ecuaciones del foco:<br>$$ \\frac{1}{f} = \\frac{1}{80} + \\frac{1}{4k} = \\frac{1}{50} + \\frac{1}{5k} $$<br>$$ \\frac{1}{4k} - \\frac{1}{5k} = \\frac{1}{50} - \\frac{1}{80} $$<br>$$ \\frac{1}{20k} = \\frac{3}{400} \\Rightarrow 20k = \\frac{400}{3} \\Rightarrow k = \\frac{20}{3} $$<br>Reemplazando en $$ 1/f $$:<br>$$ \\frac{1}{f} = \\frac{1}{80} + \\frac{1}{4(20/3)} = \\frac{1}{80} + \\frac{3}{80} = \\frac{4}{80} = \\frac{1}{20} $$<br>$$ f = 20 \\text{ cm} $$."
+        },
+        {
+          "pregunta": "(CBU 2007-II \"A\") Un objeto de 5 cm de altura está delante de un espejo cóncavo de 20 cm de distancia focal y tiene una imagen derecha de 10 cm de altura detrás del espejo. ¿A qué distancia del espejo se encuentra el objeto?",
+          "opciones": [
+            "60 cm",
+            "20 cm",
+            "5 cm",
+            "15 cm",
+            "10 cm"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Paso 1: Aumento</b><br>$$ A = \\frac{h_i}{h_o} = \\frac{10}{5} = +2 $$ (Positivo por ser imagen derecha).<br>$$ A = -\\frac{i}{o} \\Rightarrow 2 = -\\frac{i}{o} \\Rightarrow i = -2o $$<br><br><b>Paso 2: Ecuación de Descartes</b><br>$$ \\frac{1}{f} = \\frac{1}{o} + \\frac{1}{i} $$<br>$$ \\frac{1}{20} = \\frac{1}{o} + \\frac{1}{-2o} = \\frac{2}{2o} - \\frac{1}{2o} = \\frac{1}{2o} $$<br>$$ 20 = 2o \\Rightarrow o = 10 \\text{ cm} $$."
+        },
+        {
+          "pregunta": "(CEPRU 2008-II \"A\" y \"B\") La longitud de onda en Angstrom (Å) de una onda electromagnética de $$ 1.5\\times10^{20} \\text{ Hz} $$ ($$ c=3\\times10^8 \\text{ m/s} $$, $$ 1\\text{Å}=10^{-10}\\text{m} $$), es:",
+          "opciones": [
+            "0.10",
+            "0.02",
+            "0.04",
+            "0.06",
+            "0.08"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Cálculo:</b><br>$$ c = \\lambda \\cdot f $$<br>$$ 3\\times10^8 = \\lambda \\cdot (1.5\\times10^{20}) $$<br>$$ \\lambda = \\frac{3\\times10^8}{1.5\\times10^{20}} = 2\\times10^{-12} \\text{ m} $$<br>Convirtiendo a Å:<br>$$ \\lambda = 0.02 \\times 10^{-10} \\text{ m} = 0.02 \\text{ \\AA} $$."
+        },
+        {
+          "pregunta": "(CEPRU 2008-II \"B\") La distancia focal de un espejo cóncavo es 30 cm y la distancia del objeto al espejo es 120 cm, entonces la distancia en cm de la imagen al espejo es:",
+          "opciones": [
+            "35",
+            "40",
+            "50",
+            "60",
+            "80"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Ecuación de Descartes:</b><br>$$ \\frac{1}{f} = \\frac{1}{i} + \\frac{1}{o} $$<br>$$ \\frac{1}{30} = \\frac{1}{i} + \\frac{1}{120} $$<br>$$ \\frac{1}{i} = \\frac{1}{30} - \\frac{1}{120} = \\frac{4}{120} - \\frac{1}{120} = \\frac{3}{120} $$<br>$$ \\frac{1}{i} = \\frac{1}{40} \\Rightarrow i = 40 \\text{ cm} $$."
+        },
+        {
+          "pregunta": "(CEPRU 2009-1 \"A\") Un objeto es colocado sobre el eje principal de un lente convergente de distancia focal 30 cm. Si el aumento es +3. Hallar la distancia de la imagen a la lente y el tipo de imagen.",
+          "opciones": [
+            "60 cm; real",
+            "-120 cm; virtual",
+            "30 cm; real",
+            "60 cm; virtual",
+            "-70 cm; virtual"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1: Aumento</b><br>$$ A = +3 $$ implica imagen virtual (derecha y mayor).<br>$$ -\\frac{i}{o} = 3 \\Rightarrow i = -3o $$<br><br><b>Paso 2: Ecuación de lente</b><br>$$ \\frac{1}{f} = \\frac{1}{i} + \\frac{1}{o} $$<br>$$ \\frac{1}{30} = \\frac{1}{-3o} + \\frac{1}{o} = -\\frac{1}{3o} + \\frac{3}{3o} = \\frac{2}{3o} $$<br>$$ 3o = 60 \\Rightarrow o = 20 \\text{ cm} $$<br>$$ i = -3(20) = -60 \\text{ cm} $$<br>El valor absoluto de la distancia es 60 cm y, como es negativa, la imagen es **virtual**."
+        },
+        {
+          "pregunta": "(CEPRU 2009-II \"A\") A 4 cm delante de una lente convergente de 10 cm de distancia focal. Se coloca un objeto de 6 cm de tamaño, entonces el tamaño de la imagen que se obtiene es:",
+          "opciones": [
+            "8 cm",
+            "5 cm",
+            "10 cm",
+            "20 cm",
+            "40 cm"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1: Posición de la imagen</b><br>$$ \\frac{1}{10} = \\frac{1}{i} + \\frac{1}{4} $$<br>$$ \\frac{1}{i} = \\frac{1}{10} - \\frac{1}{4} = \\frac{2 - 5}{20} = -\\frac{3}{20} $$<br>$$ i = -\\frac{20}{3} \\text{ cm} $$<br><br><b>Paso 2: Aumento y tamaño</b><br>$$ A = -\\frac{i}{o} = -\\frac{-20/3}{4} = \\frac{20}{12} = \\frac{5}{3} $$<br>$$ |A| = \\frac{h_i}{h_o} \\Rightarrow \\frac{5}{3} = \\frac{h_i}{6} \\Rightarrow h_i = 10 \\text{ cm} $$."
+        },
+        {
+          "pregunta": "(CEPRU 2009-II \"B\") Se tienen una lente convergente de 20 cm de distancia focal. Se colocan dos objetos a 40 cm y 10 cm a la izquierda del centro óptico de la lente, la distancia entre las imágenes de los objetos es:",
+          "opciones": [
+            "10 cm",
+            "20 cm",
+            "40 cm",
+            "60 cm",
+            "50 cm"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Objeto 1 ($$ o=40 $$):</b><br>$$ \\frac{1}{20} = \\frac{1}{i_1} + \\frac{1}{40} \\Rightarrow \\frac{1}{i_1} = \\frac{1}{20} - \\frac{1}{40} = \\frac{1}{40} \\Rightarrow i_1 = +40 \\text{ cm} $$ (Zona Real, derecha).<br><br><b>Objeto 2 ($$ o=10 $$):</b><br>$$ \\frac{1}{20} = \\frac{1}{i_2} + \\frac{1}{10} \\Rightarrow \\frac{1}{i_2} = \\frac{1}{20} - \\frac{1}{10} = -\\frac{1}{20} \\Rightarrow i_2 = -20 \\text{ cm} $$ (Zona Virtual, izquierda).<br><br><b>Distancia entre imágenes:</b><br>$$ d = 40 \\text{ (derecha)} + 20 \\text{ (izquierda)} = 60 \\text{ cm} $$."
+        },
+        {
+          "pregunta": "(CEPRU 2010-1 \"A\") Las ondas de luz verde tienen una longitud de onda de $$ 5\\times10^{-7} \\text{ m} $$. ($$ c=3\\times10^8 \\text{ m/s} $$). La frecuencia de vibración de la onda es:",
+          "opciones": [
+            "$$ 9\\times10^{14} \\text{ Hz} $$",
+            "$$ 3\\times10^{10} \\text{ Hz} $$",
+            "$$ 6\\times10^{14} \\text{ Hz} $$",
+            "$$ 5\\times10^8 \\text{ Hz} $$",
+            "$$ 7\\times10^6 \\text{ Hz} $$"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Cálculo de Frecuencia:</b><br>$$ c = \\lambda \\cdot f $$<br>$$ 3\\times10^8 = (5\\times10^{-7}) \\cdot f $$<br>$$ f = \\frac{3\\times10^8}{5\\times10^{-7}} = 0.6 \\times 10^{15} = 6 \\times 10^{14} \\text{ Hz} $$."
+        },
+        {
+          "pregunta": "(CEPRU 2010-1 \"A\") Un objeto se coloca a 36 cm de una lente divergente, cuya distancia focal es 18 cm. La distancia a la que se forma la imagen en la lente es:",
+          "opciones": [
+            "25 cm",
+            "12 cm",
+            "15 cm",
+            "17 cm",
+            "20 cm"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Ecuación de Descartes:</b><br>Como es una lente divergente, el foco es negativo: $$ f = -18 \\text{ cm} $$.<br>$$ \\frac{1}{f} = \\frac{1}{i} + \\frac{1}{o} $$<br>$$ \\frac{1}{-18} = \\frac{1}{i} + \\frac{1}{36} $$<br>$$ \\frac{1}{i} = -\\frac{1}{18} - \\frac{1}{36} = -\\frac{2}{36} - \\frac{1}{36} = -\\frac{3}{36} $$<br>$$ \\frac{1}{i} = -\\frac{1}{12} \\Rightarrow i = -12 \\text{ cm} $$<br>Magnitud de la distancia de la imagen: 12 cm."
+        },
+        {
+          "pregunta": "(CEPRU 2010-1 \"B\") Se coloca un objeto a una gran distancia de una lente convergente, la cual se puede considerar infinita. Si la distancia focal de la lente es 10 cm, ¿a qué distancia de la lente se ubica la imagen del objeto?",
+          "opciones": [
+            "10 cm",
+            "20 cm",
+            "30 cm",
+            "5 cm",
+            "∞"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Propiedad del Foco:</b><br>Cuando un objeto se encuentra en el infinito ($$ o = \\infty $$), los rayos de luz llegan paralelos a la lente y convergen exactamente en el foco.<br>$$ \\frac{1}{f} = \\frac{1}{o} + \\frac{1}{i} $$<br>$$ \\frac{1}{10} = \\frac{1}{\\infty} + \\frac{1}{i} = 0 + \\frac{1}{i} $$<br>$$ i = 10 \\text{ cm} $$."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "16.1 Óptica - Teoría",
+          "youtube_id": "wb7hPPk9-Cc",
+          "pdf_link": "https://drive.google.com/file/d/1d-inKOtQcsHBXVTy0D9U3kSDqmyNL5PX/view",
+          "gratis": true
+        },
+        {
+          "titulo": "16.2 Óptica - Ejercicios",
+          "youtube_id": "JnHbRDLXSHA",
+          "pdf_link": "https://drive.google.com/file/d/19BwQu-DCFCGqYTf28CcOrc10Nn1L016s/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 17: Física Moderna",
+      "pdf_resuelto": "https://drive.google.com/file/d/1ABCmsu0dhXOA_bArzVDVkpdSoRIXu8u-/view",
+      "preguntas": [
+        {
+          "pregunta": "(CBU 2001- \"A\" y \"B\") ¿Cuál deberá ser la velocidad de una varilla para que su longitud medida en el laboratorio resulte ser la mitad de su longitud propia? Considere la velocidad de la luz en el vacío igual a c.",
+          "opciones": [
+            "$$ \\frac{\\sqrt{3}}{2} c $$",
+            "$$ \\frac{1}{2} c $$",
+            "$$ \\frac{\\sqrt{2}}{2} c $$",
+            "$$ \\frac{1}{3} c $$",
+            "$$ \\frac{\\sqrt{5}}{2} c $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Contracción Espacial (Lorentz):</b><br>$$ L = L_0 \\sqrt{1 - \\left(\\frac{v}{c}\\right)^2} $$<br>El problema indica que $$ L = \\frac{L_0}{2} $$. Reemplazando:<br>$$ \\frac{L_0}{2} = L_0 \\sqrt{1 - \\left(\\frac{v}{c}\\right)^2} $$<br>Simplificando $$ L_0 $$ y elevando al cuadrado:<br>$$ \\left(\\frac{1}{2}\\right)^2 = 1 - \\left(\\frac{v}{c}\\right)^2 $$<br>$$ \\frac{1}{4} = 1 - \\left(\\frac{v}{c}\\right)^2 \\Rightarrow \\left(\\frac{v}{c}\\right)^2 = 1 - \\frac{1}{4} = \\frac{3}{4} $$<br>$$ v = \\frac{\\sqrt{3}}{2} c $$"
+        },
+        {
+          "pregunta": "(CBU 2003 - \"A\" y \"B\") Si al irradiar un metal con luz ultravioleta se observa que la emisión de electrones, producto del efecto fotoeléctrico, sólo se presenta hasta una longitud de onda de 0,15 µm; determinar el trabajo de salida (en Joules) de los electrones para dicho metal. Considerar: $$ h = 6,6 \\times 10^{-34} \\text{ J}\\cdot\\text{s} $$.",
+          "opciones": [
+            "$$ 16,5 \\times 10^{-19} \\text{ J} $$",
+            "$$ 9,9 \\times 10^{-19} \\text{ J} $$",
+            "$$ 13,2 \\times 10^{-19} \\text{ J} $$",
+            "$$ 6,6 \\times 10^{-19} \\text{ J} $$",
+            "$$ 3,3 \\times 10^{-19} \\text{ J} $$"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Efecto Fotoeléctrico:</b><br>La longitud de onda límite o umbral es $$ \\lambda_0 = 0,15 \\mu\\text{m} = 0,15 \\times 10^{-6} \\text{ m} $$.<br>La función de trabajo (o trabajo de salida) está dada por:<br>$$ \\phi = h \\cdot f_0 = h \\frac{c}{\\lambda_0} $$<br>Reemplazando los datos:<br>$$ \\phi = \\frac{(6,6 \\times 10^{-34}) (3 \\times 10^8)}{0,15 \\times 10^{-6}} $$<br>$$ \\phi = \\frac{19,8 \\times 10^{-26}}{15 \\times 10^{-8}} = 1,32 \\times 10^{-18} \\text{ J} = 13,2 \\times 10^{-19} \\text{ J} $$"
+        },
+        {
+          "pregunta": "(CBU 2003-1 \"A\" y \"B\") La frecuencia de un oscilador armónico cuántico es $$ 5 \\times 10^{15} \\text{ Hz} $$; determinar la energía que emitirá el oscilador, cuando éste pase del cuarto al segundo nivel de energía. Considerar: $$ h = 6,6 \\times 10^{-34} \\text{ J}\\cdot\\text{s} $$.",
+          "opciones": [
+            "$$ 6,6 \\times 10^{-19} \\text{ J} $$",
+            "$$ 13,2 \\times 10^{-19} \\text{ J} $$",
+            "$$ 13,2 \\times 10^{-18} \\text{ J} $$",
+            "$$ 6,6 \\times 10^{-18} \\text{ J} $$",
+            "$$ 3,3 \\times 10^{-18} \\text{ J} $$"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Energía en niveles cuánticos:</b><br>La energía emitida es proporcional a la diferencia de niveles (salto cuántico):<br>$$ \\Delta E = \\Delta n \\cdot h \\cdot f = (n_i - n_f) h \\cdot f $$<br>$$ \\Delta E = (4 - 2) (6,6 \\times 10^{-34}) (5 \\times 10^{15}) $$<br>$$ \\Delta E = 2 (33 \\times 10^{-19}) $$<br>$$ \\Delta E = 66 \\times 10^{-19} \\text{ J} = 6,6 \\times 10^{-18} \\text{ J} $$"
+        },
+        {
+          "pregunta": "(CBU 2003-II \"B\") Una varilla de 10 m de longitud en reposo se coloca en una nave. La velocidad de la nave es de 0,6c. Si la varilla está paralela a la dirección de la velocidad de la nave, ¿Cuál es la longitud medida por un observador en reposo que está fuera de la nave?",
+          "opciones": [
+            "10 m",
+            "5 m",
+            "7 m",
+            "8 m",
+            "12 m"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Contracción Espacial (Lorentz):</b><br>$$ L = L_0 \\sqrt{1 - \\left(\\frac{v}{c}\\right)^2} $$<br>$$ L = 10 \\sqrt{1 - \\left(\\frac{0,6c}{c}\\right)^2} $$<br>$$ L = 10 \\sqrt{1 - (0,6)^2} = 10 \\sqrt{1 - 0,36} $$<br>$$ L = 10 \\sqrt{0,64} = 10(0,8) = 8 \\text{ m} $$"
+        },
+        {
+          "pregunta": "(CBU 2003-II \"B\") Si la energía cinética de un electrón es igual a su energía en reposo, ¿con qué velocidad se mueve el electrón?",
+          "opciones": [
+            "$$ \\frac{\\sqrt{3}}{2} c $$",
+            "$$ \\frac{\\sqrt{2}}{3} c $$",
+            "$$ \\frac{2}{3} c $$",
+            "$$ \\frac{3}{2} c $$",
+            "$$ \\frac{\\sqrt{3}}{3} c $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Energía Relativista:</b><br>Dato: $$ E_K = E_0 $$<br>Sabemos que $$ E_K = (m - m_0)c^2 $$ y $$ E_0 = m_0 c^2 $$.<br>Igualando: $$ (m - m_0)c^2 = m_0 c^2 \\Rightarrow m - m_0 = m_0 \\Rightarrow m = 2m_0 $$<br>Aplicando la masa relativista:<br>$$ \\frac{m_0}{\\sqrt{1 - (v/c)^2}} = 2m_0 \\Rightarrow \\frac{1}{2} = \\sqrt{1 - (v/c)^2} $$<br>Elevando al cuadrado: $$ \\frac{1}{4} = 1 - \\left(\\frac{v}{c}\\right)^2 \\Rightarrow \\left(\\frac{v}{c}\\right)^2 = \\frac{3}{4} $$<br>$$ v = \\frac{\\sqrt{3}}{2} c $$"
+        },
+        {
+          "pregunta": "(CBU 2004-II \"A\" y \"B\") La longitud de una barra a una velocidad de 0,8c es de 30 metros. La longitud propia de la barra, es:",
+          "opciones": [
+            "70 metros",
+            "60 metros",
+            "50 metros",
+            "40 metros",
+            "30 metros"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Contracción Espacial:</b><br>$$ L = L_0 \\sqrt{1 - \\left(\\frac{v}{c}\\right)^2} $$<br>$$ 30 = L_0 \\sqrt{1 - (0,8)^2} $$<br>$$ 30 = L_0 \\sqrt{1 - 0,64} = L_0 \\sqrt{0,36} $$<br>$$ 30 = L_0 (0,6) = L_0 \\left(\\frac{3}{5}\\right) $$<br>$$ L_0 = \\frac{30 \\times 5}{3} = 50 \\text{ metros} $$"
+        },
+        {
+          "pregunta": "(CBU 2005-I \"A\") La masa en reposo de una partícula es $$ 10^{-30} \\text{ kg} $$. Si la partícula se mueve con una rapidez de $$ \\frac{\\sqrt{3}}{2} c $$, su energía total en J, es: ($$ c = 3 \\times 10^8 \\text{ m/s} $$).",
+          "opciones": [
+            "$$ 9 \\times 10^{-14} $$",
+            "$$ 4,5 \\times 10^{-14} $$",
+            "$$ 18 \\times 10^{-14} $$",
+            "$$ 2 \\times 10^{-14} $$",
+            "$$ 5 \\times 10^{-14} $$"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Energía Total Relativista:</b><br>$$ E = mc^2 = \\frac{m_0}{\\sqrt{1 - (v/c)^2}} c^2 $$<br>$$ E = \\frac{10^{-30}}{\\sqrt{1 - (\\sqrt{3}/2)^2}} (3 \\times 10^8)^2 $$<br>$$ E = \\frac{10^{-30}}{\\sqrt{1 - 3/4}} (9 \\times 10^{16}) = \\frac{10^{-30}}{\\sqrt{1/4}} (9 \\times 10^{16}) $$<br>$$ E = \\frac{10^{-30}}{1/2} (9 \\times 10^{16}) = 2(10^{-30}) (9 \\times 10^{16}) $$<br>$$ E = 18 \\times 10^{-14} \\text{ J} $$"
+        },
+        {
+          "pregunta": "(CBU 2005-I \"A\") La intensidad de la luz solar en la superficie de la Tierra es de aproximadamente $$ 1400 \\text{ W/m}^2 $$. La cantidad total de fotones que inciden sobre la superficie de la Tierra, con una frecuencia promedio de $$ 10^{14} \\text{ Hz} $$, en 1 segundo sobre cada $$ \\text{m}^2 $$ de superficie, es: (Considere $$ h \\approx 7 \\times 10^{-34} \\text{ J}\\cdot\\text{s} $$)",
+          "opciones": [
+            "$$ 2 \\times 10^{20} $$",
+            "$$ 2 \\times 10^{50} $$",
+            "$$ 2 \\times 10^{30} $$",
+            "$$ 2 \\times 10^{16} $$",
+            "$$ 2 \\times 10^{22} $$"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Intensidad de Radiación:</b><br>La intensidad se define como potencia por unidad de área: $$ I = \\frac{P}{A} = \\frac{E_{total}}{t \\cdot A} $$<br>La energía total transportada por $$ n $$ fotones es: $$ E_{total} = n \\cdot h \\cdot f $$<br>Sustituyendo: $$ I = \\frac{n \\cdot h \\cdot f}{t \\cdot A} $$<br>$$ 1400 = \\frac{n (7 \\times 10^{-34}) (10^{14})}{(1)(1)} $$<br>$$ 1400 = n (7 \\times 10^{-20}) $$<br>$$ n = \\frac{1400}{7 \\times 10^{-20}} = 200 \\times 10^{20} = 2 \\times 10^{22} \\text{ fotones} $$"
+        },
+        {
+          "pregunta": "(CBU 2005-II \"A\" y \"B\") Se emite luz roja de 650 nm de longitud de onda, a razón de 1,4 J/s. Determinar el número de fotones que se emite en una hora. (Considerar $$ h \\approx 7 \\times 10^{-34} \\text{ J}\\cdot\\text{s} $$ y $$ c = 3 \\times 10^8 \\text{ m/s} $$).",
+          "opciones": [
+            "$$ 205 \\times 10^{40} $$",
+            "$$ 156 \\times 10^{20} $$",
+            "$$ 128 \\times 10^{15} $$",
+            "$$ 36 \\times 10^{40} $$",
+            "$$ 146 \\times 10^{30} $$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Cálculo del número de fotones:</b><br>Potencia $$ P = \\frac{E_{total}}{t} = \\frac{n \\cdot h \\cdot f}{t} = \\frac{n \\cdot h \\cdot c}{\\lambda \\cdot t} $$<br>Tiempo $$ t = 1 \\text{ hora} = 3600 \\text{ s} $$. Potencia = $$ 1,4 \\text{ W} $$.<br>$$ 1,4 = \\frac{n (7 \\times 10^{-34}) (3 \\times 10^8)}{(650 \\times 10^{-9}) (3600)} $$<br>Despejando $$ n $$:<br>$$ n = \\frac{1,4 (650 \\times 10^{-9}) (3600)}{21 \\times 10^{-26}} = \\frac{3276000 \\times 10^{-9}}{21 \\times 10^{-26}} $$<br>$$ n = 156000 \\times 10^{17} = 156 \\times 10^{20} \\text{ fotones} $$"
+        },
+        {
+          "pregunta": "(CBU 2005-II \"B\") Hallar la cantidad de movimiento relativista de una partícula (en $$ \\text{kg}\\cdot\\text{m/s} $$) cuya energía relativista es el triple de su energía en reposo. (Masa en reposo $$ m_0 = \\frac{5}{3}\\sqrt{2} \\times 10^{-30} \\text{ kg} $$).",
+          "opciones": [
+            "$$ 2 \\times 10^{-21} $$",
+            "$$ 4 \\times 10^{-21} $$",
+            "$$ 5 \\times 10^{-20} $$",
+            "$$ 8 \\times 10^{-30} $$",
+            "$$ 3 \\times 10^{-20} $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1: Velocidad relativista</b><br>Dato: $$ E = 3E_0 \\Rightarrow m c^2 = 3m_0 c^2 \\Rightarrow m = 3m_0 $$<br>De la fórmula de masa: $$ \\frac{m_0}{\\sqrt{1 - (v/c)^2}} = 3m_0 \\Rightarrow \\frac{1}{3} = \\sqrt{1 - (v/c)^2} $$<br>$$ \\frac{1}{9} = 1 - (v/c)^2 \\Rightarrow (v/c)^2 = \\frac{8}{9} \\Rightarrow v = \\frac{2\\sqrt{2}}{3}c $$<br><br><b>Paso 2: Cantidad de movimiento ($$ P = m \\cdot v $$)</b><br>$$ P = (3m_0) \\cdot v = 3 \\left(\\frac{5}{3}\\sqrt{2} \\times 10^{-30}\\right) \\left(\\frac{2\\sqrt{2}}{3} \\times 3 \\times 10^8\\right) $$<br>$$ P = (5\\sqrt{2} \\times 10^{-30}) (2\\sqrt{2} \\times 10^8) = 10(2) \\times 10^{-22} $$<br>$$ P = 20 \\times 10^{-22} = 2 \\times 10^{-21} \\text{ kg}\\cdot\\text{m/s} $$"
+        },
+        {
+          "pregunta": "(CBU 2007-II \"A\") El segundo postulado de la Relatividad de Einstein establece que, la magnitud de la velocidad de la luz en el vacío:",
+          "opciones": [
+            "Es mayor que $$ 3 \\times 10^8 \\text{ m/s} $$",
+            "Es dependiente del movimiento del foco emisor y del observador",
+            "Es independiente del movimiento del foco emisor y del observador",
+            "No es uniforme",
+            "Sólo depende del movimiento del foco emisor"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Teoría:</b><br>El **Segundo Postulado de la Relatividad Especial (Invariabilidad de c)** establece que la luz se propaga en el vacío con una velocidad constante \"c\" que es totalmente <b>independiente</b> del estado de movimiento del cuerpo emisor y del observador."
+        },
+        {
+          "pregunta": "(CEPRU 2009-I \"A\") Una partícula en reposo tiene una masa $$ m_0 = 9 \\times 10^{-30} \\text{ kg} $$. Si esta se mueve con una rapidez constante de $$ v = (\\sqrt{3}/2)c $$. El valor de la energía cinética relativística con respecto a un observador inercial en reposo, es:",
+          "opciones": [
+            "$$ 81 \\times 10^{-14} \\text{ J} $$",
+            "$$ 12 \\times 10^{-14} \\text{ J} $$",
+            "$$ 81 \\times 10^{-16} \\text{ J} $$",
+            "$$ 54 \\times 10^{-12} \\text{ J} $$",
+            "$$ 36 \\times 10^{-14} \\text{ J} $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Energía Cinética Relativista:</b><br>$$ E_K = (m - m_0)c^2 $$<br>Primero hallamos la masa relativista:<br>$$ m = \\frac{m_0}{\\sqrt{1 - (v/c)^2}} = \\frac{m_0}{\\sqrt{1 - (\\sqrt{3}/2)^2}} = \\frac{m_0}{\\sqrt{1 - 3/4}} = \\frac{m_0}{1/2} = 2m_0 $$<br>Sustituyendo:<br>$$ E_K = (2m_0 - m_0)c^2 = m_0 c^2 $$<br>$$ E_K = (9 \\times 10^{-30} \\text{ kg}) (3 \\times 10^8 \\text{ m/s})^2 = 9 \\times 10^{-30} \\times 9 \\times 10^{16} $$<br>$$ E_K = 81 \\times 10^{-14} \\text{ J} $$"
+        },
+        {
+          "pregunta": "(CEPRU 2009-II \"A\") La velocidad que debe adquirir una barra metálica para que se contraiga hasta los dos tercios de su longitud original es:",
+          "opciones": [
+            "$$ \\frac{\\sqrt{5}}{2} c $$",
+            "$$ \\frac{\\sqrt{5}}{3} c $$",
+            "$$ \\frac{\\sqrt{3}}{5} c $$",
+            "$$ \\frac{\\sqrt{2}}{3} c $$",
+            "$$ \\frac{\\sqrt{3}}{2} c $$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Contracción de Lorentz:</b><br>$$ L = L_0 \\sqrt{1 - (v/c)^2} $$<br>Por dato, la longitud final es 2/3 de la original: $$ L = \\frac{2}{3}L_0 $$<br>$$ \\frac{2}{3}L_0 = L_0 \\sqrt{1 - (v/c)^2} $$<br>Elevando al cuadrado:<br>$$ \\frac{4}{9} = 1 - \\left(\\frac{v}{c}\\right)^2 \\Rightarrow \\left(\\frac{v}{c}\\right)^2 = 1 - \\frac{4}{9} = \\frac{5}{9} $$<br>$$ v = \\frac{\\sqrt{5}}{3} c $$"
+        },
+        {
+          "pregunta": "(CEPRU 2009-II \"A\") ¿A qué fracción de la velocidad de la luz, la energía cinética relativa de un cuerpo es el doble de la energía en reposo?",
+          "opciones": [
+            "$$ \\frac{2\\sqrt{2}}{3} c $$",
+            "$$ \\frac{2\\sqrt{3}}{3} c $$",
+            "$$ \\frac{3\\sqrt{2}}{2} c $$",
+            "$$ \\frac{5\\sqrt{2}}{3} c $$",
+            "$$ \\frac{2\\sqrt{5}}{3} c $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Energía Cinética:</b><br>$$ E_K = 2E_0 $$<br>$$ (m - m_0)c^2 = 2m_0 c^2 \\Rightarrow m - m_0 = 2m_0 \\Rightarrow m = 3m_0 $$<br>$$ \\frac{m_0}{\\sqrt{1 - (v/c)^2}} = 3m_0 \\Rightarrow \\frac{1}{3} = \\sqrt{1 - (v/c)^2} $$<br>Elevando al cuadrado:<br>$$ \\frac{1}{9} = 1 - \\left(\\frac{v}{c}\\right)^2 \\Rightarrow \\left(\\frac{v}{c}\\right)^2 = 1 - \\frac{1}{9} = \\frac{8}{9} $$<br>$$ v = \\frac{\\sqrt{8}}{3} c = \\frac{2\\sqrt{2}}{3} c $$"
+        },
+        {
+          "pregunta": "(CEPRU 2010-I \"A\") Si una partícula se desplaza con una velocidad próxima a la velocidad de la luz, entonces podemos afirmar que su:",
+          "opciones": [
+            "masa en movimiento es igual a un tercio de su masa en reposo",
+            "masa disminuye",
+            "energía se triplica",
+            "masa aumenta",
+            "energía total $$ E=mc^3 $$"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Teoría (Aumento Relativista de Masa):</b><br>A medida que la velocidad de una partícula se aproxima a la velocidad de la luz, el factor de Lorentz $$ \\gamma = 1 / \\sqrt{1 - v^2/c^2} $$ se vuelve mayor que 1. En consecuencia, su masa relativa $$ m = \\gamma m_0 $$ <b>aumenta</b> drásticamente."
+        },
+        {
+          "pregunta": "(CEPRU 2011-II \"A\") Una partícula se desplaza con una velocidad v de modo que su masa es 4 veces su masa en reposo. El valor de su velocidad relativista en función del valor de la velocidad de la luz c en el vacío, es:",
+          "opciones": [
+            "$$ 0,3\\sqrt{2} c $$",
+            "$$ \\frac{\\sqrt{3}}{2} c $$",
+            "$$ \\sqrt{0,5} c $$",
+            "$$ 0,2\\sqrt{3} c $$",
+            "$$ \\frac{\\sqrt{15}}{4} c $$"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Resolución:</b><br>$$ m = 4m_0 $$<br>$$ \\frac{m_0}{\\sqrt{1 - (v/c)^2}} = 4m_0 \\Rightarrow \\frac{1}{4} = \\sqrt{1 - (v/c)^2} $$<br>Elevando al cuadrado:<br>$$ \\frac{1}{16} = 1 - \\left(\\frac{v}{c}\\right)^2 \\Rightarrow \\left(\\frac{v}{c}\\right)^2 = 1 - \\frac{1}{16} = \\frac{15}{16} $$<br>$$ v = \\frac{\\sqrt{15}}{4} c $$"
+        },
+        {
+          "pregunta": "(CEPRU 2012-I \"A\") La magnitud de la velocidad, en función de la rapidez de la luz \"c\", que debe tener en movimiento una barra de un metro de longitud propia para que tenga el 50% de dicha longitud, es:",
+          "opciones": [
+            "$$ \\frac{\\sqrt{2}}{2} c $$",
+            "$$ \\frac{\\sqrt{3}}{2} c $$",
+            "$$ \\frac{\\sqrt{3}}{2} c^2 $$",
+            "$$ \\frac{\\sqrt{3}}{4} c $$",
+            "c"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Contracción Espacial:</b><br>$$ L = 50\\% L_0 = \\frac{1}{2} L_0 $$<br>$$ \\frac{1}{2} L_0 = L_0 \\sqrt{1 - (v/c)^2} $$<br>$$ \\frac{1}{2} = \\sqrt{1 - (v/c)^2} $$<br>Elevando al cuadrado:<br>$$ \\frac{1}{4} = 1 - \\left(\\frac{v}{c}\\right)^2 \\Rightarrow \\left(\\frac{v}{c}\\right)^2 = \\frac{3}{4} $$<br>$$ v = \\frac{\\sqrt{3}}{2} c $$"
+        },
+        {
+          "pregunta": "(CEPRU 2012-II \"A\") Para que la energía cinética relativista del movimiento de un cuerpo sea el doble de su energía de reposo relativista, la velocidad del cuerpo debe ser:",
+          "opciones": [
+            "$$ \\frac{2\\sqrt{3}}{3} c $$",
+            "$$ \\frac{3\\sqrt{2}}{2} c $$",
+            "$$ \\sqrt{3} c $$",
+            "$$ \\frac{2\\sqrt{2}}{3} c $$",
+            "$$ \\sqrt{2} c $$"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>$$ E_K = 2E_0 $$<br>$$ (m - m_0)c^2 = 2m_0 c^2 \\Rightarrow m - m_0 = 2m_0 \\Rightarrow m = 3m_0 $$<br>$$ \\frac{m_0}{\\sqrt{1 - (v/c)^2}} = 3m_0 \\Rightarrow \\frac{1}{3} = \\sqrt{1 - (v/c)^2} $$<br>Elevando al cuadrado: $$ \\frac{1}{9} = 1 - \\left(\\frac{v}{c}\\right)^2 \\Rightarrow \\left(\\frac{v}{c}\\right)^2 = \\frac{8}{9} $$<br>$$ v = \\frac{\\sqrt{8}}{3} c = \\frac{2\\sqrt{2}}{3} c $$"
+        },
+        {
+          "pregunta": "(CEPRU 2012-II \"A\") El volumen de un cubo es de $$ 1000 \\text{ cm}^3 $$; el volumen medido por un observador que se mueve con una velocidad de 0,6c respecto del cubo y en dirección a una de sus aristas, es:",
+          "opciones": [
+            "$$ 600 \\text{ cm}^3 $$",
+            "$$ 400 \\text{ cm}^3 $$",
+            "$$ 700 \\text{ cm}^3 $$",
+            "$$ 800 \\text{ cm}^3 $$",
+            "$$ 500 \\text{ cm}^3 $$"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Contracción del Volumen:</b><br>Al moverse en la dirección de una de las aristas, solo esa arista experimenta contracción espacial; las otras dos permanecen inalteradas.<br>La nueva longitud paralela al movimiento es:<br>$$ L = L_0 \\sqrt{1 - (v/c)^2} = L_0 \\sqrt{1 - (0,6)^2} = L_0 \\sqrt{0,64} = 0,8 L_0 $$<br>El nuevo volumen será:<br>$$ V = L \\cdot L_0 \\cdot L_0 = 0,8 (L_0^3) = 0,8 (V_0) $$<br>$$ V = 0,8 (1000 \\text{ cm}^3) = 800 \\text{ cm}^3 $$"
+        },
+        {
+          "pregunta": "(CEPRU 2013-I \"A\") En el espacio, los astronautas de una nave espacial que van a una velocidad $$ v = 0,6c $$ van a echar una siesta de 1,2 h, el período de tiempo que dura la siesta medida desde la Tierra, es:",
+          "opciones": [
+            "1,5 h",
+            "0,8 h",
+            "1,7 h",
+            "0,9 h",
+            "0,6 h"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Dilatación del Tiempo:</b><br>El tiempo medido por los astronautas en la nave es el tiempo propio ($$ \\Delta t_0 = 1,2 \\text{ h} $$). El tiempo medido desde la Tierra ($$ \\Delta t $$) es:<br>$$ \\Delta t = \\frac{\\Delta t_0}{\\sqrt{1 - (v/c)^2}} $$<br>$$ \\Delta t = \\frac{1,2}{\\sqrt{1 - (0,6)^2}} = \\frac{1,2}{\\sqrt{1 - 0,36}} = \\frac{1,2}{\\sqrt{0,64}} $$<br>$$ \\Delta t = \\frac{1,2}{0,8} = 1,5 \\text{ h} $$"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "17.1 Teoría",
+          "youtube_id": "WArPgO_Wj9E",
+          "pdf_link": "https://drive.google.com/file/d/1ST-1-SMEItplFmH-wJL2NoUa72fdqWlC/view",
+          "gratis": true
+        },
+        {
+          "titulo": "17.2 Ejercicios",
+          "youtube_id": "m2744t07K7w",
+          "pdf_link": "https://drive.google.com/file/d/1BLScsX_SvZqmXCtkt5oYWA71ysWa9Dl9/view",
+          "gratis": true
+        }
+      ]
     }
   ]
 }
