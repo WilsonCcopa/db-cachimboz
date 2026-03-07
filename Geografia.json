@@ -1,0 +1,1093 @@
+{
+  "curso": "Geografía",
+  "temas": [
+    {
+      "titulo": "Tema 1: Espacio Geográfico",
+      "preguntas": [
+        {
+    "pregunta": "La palabra Geografía proviene del griego y significa:",
+    "opciones": [
+      "Ciencia de la naturaleza",
+      "Descripción de los mares",
+      "Estudio del espacio humano",
+      "Descripción de la Tierra",
+      "Ciencia de los planetas"
+    ],
+    "correcta": 3,
+    "resolucion": "La palabra viene del griego Geo (Tierra) y Graphía (descripción)."
+  },
+  {
+    "pregunta": "¿Qué estudia la Geografía?",
+    "opciones": [
+      "El espacio astronómico",
+      "El espacio geográfico",
+      "Solo los países y fronteras",
+      "Solo la flora y fauna",
+      "La historia de la Tierra"
+    ],
+    "correcta": 1,
+    "resolucion": "Objeto central de la Geografía: el espacio donde el hombre interactúa con la naturaleza."
+  },
+  {
+    "pregunta": "Una herramienta moderna de la Geografía es:",
+    "opciones": [
+      "Brújula de madera",
+      "Papiro",
+      "GPS",
+      "Esfera armilar",
+      "Clepsidra"
+    ],
+    "correcta": 2,
+    "resolucion": "Hoy la geografía usa satélites, GPS y SIG, no instrumentos antiguos."
+  },
+  {
+    "pregunta": "En la Geografía Antigua, el conocimiento era:",
+    "opciones": [
+      "Científico y exacto",
+      "Teórico y sistemático",
+      "Empírico y descriptivo",
+      "Experimental",
+      "Tecnológico"
+    ],
+    "correcta": 2,
+    "resolucion": "Se basaba en observar y relatar, no en métodos científicos."
+  },
+  {
+    "pregunta": "Calculó la circunferencia de la Tierra con gran aproximación:",
+    "opciones": [
+      "Aristóteles",
+      "Claudio Ptolomeo",
+      "Heródoto",
+      "Eratóstenes",
+      "Tales de Mileto"
+    ],
+    "correcta": 3,
+    "resolucion": "Calculó la circunferencia de la Tierra con sorprendente exactitud."
+  },
+  {
+    "pregunta": "Elaboró el primer Atlas Universal:",
+    "opciones": [
+      "Marco Polo",
+      "Ptolomeo",
+      "Humboldt",
+      "Ritter",
+      "Magallanes"
+    ],
+    "correcta": 1,
+    "resolucion": "Claudio Ptolomeo elaboró el primer Atlas Universal."
+  },
+  {
+    "pregunta": "En la Edad Media la Geografía retrocedió porque:",
+    "opciones": [
+      "Faltaban exploraciones",
+      "Se destruyeron mapas",
+      "Dominaba la visión teocéntrica",
+      "No existían libros",
+      "Hubo guerras"
+    ],
+    "correcta": 2,
+    "resolucion": "En la Edad Media, la religión limitaba la investigación científica."
+  },
+  {
+    "pregunta": "La Geografía Moderna inicia con:",
+    "opciones": [
+      "Copérnico y Galileo",
+      "Colón y Magallanes",
+      "Humboldt y Ritter",
+      "Darwin y Wallace",
+      "Marco Polo y Heródoto"
+    ],
+    "correcta": 2,
+    "resolucion": "Padres de la Geografía Moderna, s. XIX."
+  },
+  {
+    "pregunta": "La Geografía Moderna se basaba en:",
+    "opciones": [
+      "Misticismo",
+      "Positivismo",
+      "Empirismo medieval",
+      "Deductivismo",
+      "Idealismo"
+    ],
+    "correcta": 1,
+    "resolucion": "Filosofía que prioriza la observación de hechos reales y comprobables."
+  },
+  {
+    "pregunta": "Método usado en la Geografía Moderna:",
+    "opciones": [
+      "Deductivo",
+      "Histórico",
+      "Inductivo",
+      "Dialéctico",
+      "Comparativo"
+    ],
+    "correcta": 2,
+    "resolucion": "Se observaban fenómenos particulares para formular principios generales."
+  },
+  {
+    "pregunta": "Para Humboldt, la Geografía era:",
+    "opciones": [
+      "Ciencia de mapas",
+      "Ciencia de síntesis",
+      "Ciencia política",
+      "Ciencia natural aplicada",
+      "Ciencia económica"
+    ],
+    "correcta": 1,
+    "resolucion": "Humboldt veía la Geografía como ciencia que une conocimientos de otras ciencias."
+  },
+  {
+    "pregunta": "La Geografía Nueva se desarrolla desde:",
+    "opciones": [
+      "Edad Media",
+      "Siglo XVIII",
+      "Mediados del siglo XX",
+      "Renacimiento",
+      "Inicios del siglo XIX"
+    ],
+    "correcta": 2,
+    "resolucion": "En este tiempo surge la Geografía Nueva, cuantitativa y tecnológica."
+  },
+  {
+    "pregunta": "La filosofía que fundamenta la Geografía Nueva es:",
+    "opciones": [
+      "Positivismo clásico",
+      "Humanismo",
+      "Neopositivismo",
+      "Idealismo",
+      "Empirismo medieval"
+    ],
+    "correcta": 2,
+    "resolucion": "Propone no solo describir, sino predecir y aplicar teorías."
+  },
+  {
+    "pregunta": "En la Geografía Nueva, se enfatiza en:",
+    "opciones": [
+      "Relatos de viajeros",
+      "Localización exacta de fenómenos",
+      "Descripción de climas",
+      "Mapas artísticos",
+      "Filosofía"
+    ],
+    "correcta": 1,
+    "resolucion": "Se busca precisión con coordenadas, mapas y SIG."
+  },
+  {
+    "pregunta": "Herramientas clave de la Geografía Nueva:",
+    "opciones": [
+      "Carabelas y brújulas",
+      "Relojes solares",
+      "Computadoras y satélites",
+      "Globos terráqueos",
+      "Mapas medievales"
+    ],
+    "correcta": 2,
+    "resolucion": "Herramientas modernas clave para procesar y analizar información espacial."
+  },
+  {
+    "pregunta": "Método usado principalmente en la Geografía Nueva:",
+    "opciones": [
+      "Inductivo",
+      "Deductivo",
+      "Filosófico",
+      "Narrativo",
+      "Descriptivo"
+    ],
+    "correcta": 1,
+    "resolucion": "Parte de teorías y modelos para explicar hechos."
+  },
+  {
+    "pregunta": "El concepto de espacio relativo pertenece a:",
+    "opciones": [
+      "Geografía Antigua",
+      "Geografía Moderna",
+      "Geografía Nueva",
+      "Edad Media",
+      "Geografía mística"
+    ],
+    "correcta": 2,
+    "resolucion": "Propone que el espacio no es absoluto sino relativo, según relaciones humanas."
+  },
+  {
+    "pregunta": "La Geografía Nueva usa como apoyo principal:",
+    "opciones": [
+      "Experimentos de laboratorio",
+      "Viajes de exploración",
+      "Técnicas estadísticas y matemáticas",
+      "Filosofía griega",
+      "Teología"
+    ],
+    "correcta": 2,
+    "resolucion": "Se aplican para cuantificar fenómenos y crear modelos espaciales."
+  },
+  {
+    "pregunta": "Representante de la Geografía Nueva:",
+    "opciones": [
+      "Aristóteles",
+      "Humboldt",
+      "Milton Santos",
+      "Ptolomeo",
+      "Ritter"
+    ],
+    "correcta": 2,
+    "resolucion": "Gran representante de la Geografía Nueva, junto a Schaefer y Bunge."
+  },
+  {
+    "pregunta": "En síntesis, la Geografía pasó de ser:",
+    "opciones": [
+      "Mágica → Filosófica → Moderna",
+      "Descriptiva → Científica → Tecnológica",
+      "Política → Económica → Humana",
+      "Teológica → Positivista → Idealista",
+      "Mística → Narrativa → Social"
+    ],
+    "correcta": 1,
+    "resolucion": "Antigua = descripción, Moderna = ciencia, Nueva = tecnología y aplicación."
+  },
+  {
+    "pregunta": "La Geografía se define principalmente como:",
+    "opciones": [
+      "Ciencia natural",
+      "Ciencia que estudia el espacio geográfico",
+      "Ciencia histórica",
+      "Filosofía de la naturaleza",
+      "Descripción de países"
+    ],
+    "correcta": 1,
+    "resolucion": "La Geografía no se limita a describir, sino que analiza la organización del espacio donde se relacionan sociedad y naturaleza."
+  },
+  {
+    "pregunta": "El objeto de estudio de la Geografía es:",
+    "opciones": [
+      "El universo",
+      "El espacio astronómico",
+      "El espacio geográfico",
+      "El sistema solar",
+      "Las culturas antiguas"
+    ],
+    "correcta": 2,
+    "resolucion": "Es el núcleo de la Geografía, pues allí interactúan elementos físicos y humanos."
+  },
+  {
+    "pregunta": "El espacio geográfico se entiende como:",
+    "opciones": [
+      "Solo montañas y ríos",
+      "El lugar donde vive la sociedad",
+      "La interacción entre sociedad y naturaleza",
+      "La superficie terrestre únicamente",
+      "El estudio del cosmos"
+    ],
+    "correcta": 2,
+    "resolucion": "El espacio geográfico no es solo físico; se construye con la acción humana."
+  },
+  {
+    "pregunta": "El espacio geográfico está formado por:",
+    "opciones": [
+      "Sociedad y economía",
+      "Sociedad, naturaleza y su interacción",
+      "Suelo, agua y clima",
+      "Solo fenómenos sociales",
+      "Recursos minerales"
+    ],
+    "correcta": 1,
+    "resolucion": "Estos tres componentes definen la complejidad del espacio geográfico."
+  },
+  {
+    "pregunta": "La Geografía Física estudia principalmente:",
+    "opciones": [
+      "Países y fronteras",
+      "Procesos de la naturaleza",
+      "Comportamiento humano",
+      "Comercio internacional",
+      "Historia de la humanidad"
+    ],
+    "correcta": 1,
+    "resolucion": "La Geografía Física estudia fenómenos como clima, relieve, ríos, mares, suelos, etc."
+  },
+  {
+    "pregunta": "Ejemplo de tema que estudia la Geografía Física:",
+    "opciones": [
+      "Población urbana",
+      "Ríos y climas",
+      "Comercio mundial",
+      "Migración",
+      "Industrias"
+    ],
+    "correcta": 1,
+    "resolucion": "Son ejemplos clásicos de temas de la Geografía Física."
+  },
+  {
+    "pregunta": "La Geografía Humana se centra en:",
+    "opciones": [
+      "El estudio de la atmósfera",
+      "El relieve terrestre",
+      "La actividad y organización del hombre en el espacio",
+      "Los volcanes",
+      "La dinámica de la biosfera"
+    ],
+    "correcta": 2,
+    "resolucion": "La Geografía Humana analiza cómo el hombre distribuye y organiza actividades en el territorio."
+  },
+  {
+    "pregunta": "Ejemplo de estudio de la Geografía Humana:",
+    "opciones": [
+      "Corrientes marinas",
+      "Ciudades y migraciones",
+      "Montañas",
+      "Glaciares",
+      "Volcanes"
+    ],
+    "correcta": 1,
+    "resolucion": "Son fenómenos propios de la organización social del espacio."
+  },
+  {
+    "pregunta": "La Geografía Mixta o Biogeografía estudia:",
+    "opciones": [
+      "Población y recursos",
+      "Clima y montañas",
+      "Seres vivos en relación con el espacio",
+      "Minerales",
+      "Comercio"
+    ],
+    "correcta": 2,
+    "resolucion": "La Geografía Mixta estudia ecosistemas y la relación de flora y fauna con el medio."
+  },
+  {
+    "pregunta": "Ejemplo de Geografía Mixta:",
+    "opciones": [
+      "Estudio de glaciares",
+      "Estudio de ciudades",
+      "Estudio de bosques y ecosistemas",
+      "Estudio de fronteras políticas",
+      "Estudio de economía"
+    ],
+    "correcta": 2,
+    "resolucion": "Ejemplo directo de la Biogeografía o Geografía Mixta."
+  },
+  {
+    "pregunta": "Uno de los principios geográficos es:",
+    "opciones": [
+      "Empirismo",
+      "Causalidad",
+      "Filosofía",
+      "Dogma",
+      "Astronomía"
+    ],
+    "correcta": 1,
+    "resolucion": "Este principio explica los \"por qué\" de los hechos y fenómenos geográficos."
+  },
+  {
+    "pregunta": "El principio de localización se refiere a:",
+    "opciones": [
+      "Identificar dónde ocurren los fenómenos",
+      "Estudiar las causas de los fenómenos",
+      "Comparar hechos",
+      "Analizar la evolución histórica",
+      "Usar mapas artísticos"
+    ],
+    "correcta": 0,
+    "resolucion": "Localizar es fundamental para entender los hechos geográficos."
+  },
+  {
+    "pregunta": "El principio de causalidad se centra en:",
+    "opciones": [
+      "Ubicar los hechos",
+      "Explicar las causas de los fenómenos",
+      "Describir sin explicación",
+      "Narrar procesos históricos",
+      "Enumerar elementos"
+    ],
+    "correcta": 1,
+    "resolucion": "Permite comprender el origen de lo que ocurre en el espacio."
+  },
+  {
+    "pregunta": "El principio de relación busca:",
+    "opciones": [
+      "Aislar los fenómenos",
+      "Relacionar fenómenos naturales y sociales",
+      "Estudiar solo el medio físico",
+      "Explicar solo lo humano",
+      "Separar causas de efectos"
+    ],
+    "correcta": 1,
+    "resolucion": "Muestra la conexión entre naturaleza y sociedad."
+  },
+  {
+    "pregunta": "El principio de actividad sostiene que:",
+    "opciones": [
+      "La naturaleza está inmóvil",
+      "Todo está en constante cambio",
+      "El hombre no influye en la naturaleza",
+      "La sociedad es estática",
+      "Los paisajes son eternos"
+    ],
+    "correcta": 1,
+    "resolucion": "La naturaleza y la sociedad modifican el paisaje permanentemente."
+  },
+  {
+    "pregunta": "El principio de evolución indica que:",
+    "opciones": [
+      "Los fenómenos no cambian",
+      "Los hechos geográficos se transforman en el tiempo",
+      "Todo permanece igual",
+      "Solo la sociedad cambia",
+      "La naturaleza no evoluciona"
+    ],
+    "correcta": 1,
+    "resolucion": "El principio de evolución estudia los cambios en el largo plazo."
+  },
+  {
+    "pregunta": "El principio de generalidad busca:",
+    "opciones": [
+      "Explicar hechos aislados",
+      "Formular leyes o teorías generales",
+      "Narrar la historia de un pueblo",
+      "Describir solo un río",
+      "Identificar fenómenos únicos"
+    ],
+    "correcta": 1,
+    "resolucion": "Busca generalizar fenómenos para elaborar explicaciones universales."
+  },
+  {
+    "pregunta": "Una aplicación práctica de la Geografía es:",
+    "opciones": [
+      "Construcción de ciudades y carreteras",
+      "Narración de mitos",
+      "Elaboración de poemas",
+      "Filosofía medieval",
+      "Historia del arte"
+    ],
+    "correcta": 0,
+    "resolucion": "Ejemplo práctico del uso de la Geografía en la planificación."
+  },
+  {
+    "pregunta": "En la vida cotidiana, la Geografía ayuda a:",
+    "opciones": [
+      "Entender solo la historia",
+      "Planificar el territorio y los recursos",
+      "Leer novelas",
+      "Hacer cálculos matemáticos",
+      "Estudiar lenguas antiguas"
+    ],
+    "correcta": 1,
+    "resolucion": "La Geografía ayuda en la organización y el aprovechamiento sostenible."
+  },
+  {
+    "pregunta": "En síntesis, la Geografía se concibe como:",
+    "opciones": [
+      "Ciencia del pasado",
+      "Ciencia del universo",
+      "Ciencia del espacio geográfico y de las relaciones sociedad-naturaleza",
+      "Ciencia de los planetas",
+      "Ciencia política únicamente"
+    ],
+    "correcta": 2,
+    "resolucion": "Es la definición moderna y más completa de esta ciencia."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "1.1 Espacio Geográfico - P1",
+          "youtube_id": "9vqFI_4xk1U",
+          "pdf_link": "https://drive.google.com/file/d/1lSyTQpBKwG4NcVVCmkQ7f5iHxc0v5Kj_/view",
+          "gratis": true
+        },
+        {
+          "titulo": "1.2 Espacio Geográfico - P2",
+          "youtube_id": "0B5bC_P1ewg",
+          "pdf_link": "https://drive.google.com/file/d/1GxRBhW6VPJ8HxvVPpVdFNaz5rG9FB-2O/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 2: El Universo y el Sistema Solar",
+      "preguntas": [
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        },
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "2.1 El Universo y el Sistema Solar - V1",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": true
+        },
+        {
+          "titulo": "2.2 El Universo y el Sistema Solar - V2",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 3: La Tierra: Movimientos y Consecuencias",
+      "preguntas": [
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        },
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "3.1 Movimientos de la Tierra - V1",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": true
+        },
+        {
+          "titulo": "3.2 Consecuencias de los movimientos - V2",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 4: Estructura de la Tierra y Geodinámica Interna",
+      "preguntas": [
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        },
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "4.1 Estructura de la Tierra - V1",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": true
+        },
+        {
+          "titulo": "4.2 Geodinámica Interna - V2",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 5: Geodinámica Externa",
+      "preguntas": [
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        },
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "5.1 Geodinámica Externa - V1",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": true
+        },
+        {
+          "titulo": "5.2 Fuerzas exógenas - V2",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 6: Atmósfera y Tiempo Meteorológico",
+      "preguntas": [
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        },
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "6.1 Atmósfera - V1",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": true
+        },
+        {
+          "titulo": "6.2 Tiempo Meteorológico - V2",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 7: Climatología y Cambio Climático",
+      "preguntas": [
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        },
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "7.1 Climatología - V1",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": true
+        },
+        {
+          "titulo": "7.2 Cambio Climático - V2",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 8: Hidrografía: Océanos y Mares",
+      "preguntas": [
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        },
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "8.1 Océanos - V1",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": true
+        },
+        {
+          "titulo": "8.2 Mares y corrientes - V2",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 9: Hidrografía Continental: Ríos y Lagos",
+      "preguntas": [
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        },
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "9.1 Ríos del mundo - V1",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": true
+        },
+        {
+          "titulo": "9.2 Lagos importantes - V2",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 10: Biogeografía y Ecosistemas del Mundo",
+      "preguntas": [
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        },
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "10.1 Biogeografía - V1",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": true
+        },
+        {
+          "titulo": "10.2 Ecosistemas del Mundo - V2",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 11: Geografía Física del Perú: Relieve Costeño y Andino",
+      "preguntas": [
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        },
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "11.1 Relieve Costeño - V1",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": true
+        },
+        {
+          "titulo": "11.2 Relieve Andino - V2",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 12: Geografía Física del Perú: Relieve Amazónico",
+      "preguntas": [
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        },
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "12.1 Selva Alta - V1",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": true
+        },
+        {
+          "titulo": "12.2 Selva Baja - V2",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 13: Hidrografía del Perú: Vertientes y Cuencas",
+      "preguntas": [
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        },
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "13.1 Vertiente del Pacífico y Titicaca - V1",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": true
+        },
+        {
+          "titulo": "13.2 Vertiente del Amazonas - V2",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 14: Climas del Perú",
+      "preguntas": [
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        },
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "14.1 Factores climáticos del Perú - V1",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": true
+        },
+        {
+          "titulo": "14.2 Tipos de clima en el Perú - V2",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 15: Ecorregiones del Perú (Antonio Brack Egg)",
+      "preguntas": [
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        },
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "15.1 Las 11 Ecorregiones - P1",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": true
+        },
+        {
+          "titulo": "15.2 Las 11 Ecorregiones - P2",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 16: Geografía de la Población y Demografía",
+      "preguntas": [
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        },
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "16.1 Geografía de la Población - V1",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": true
+        },
+        {
+          "titulo": "16.2 Demografía del Perú - V2",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 17: Geografía Económica: Actividades Primarias",
+      "preguntas": [
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        },
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "17.1 Agricultura y Ganadería - V1",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": true
+        },
+        {
+          "titulo": "17.2 Minería y Pesca - V2",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 18: Geografía Económica: Actividades Secundarias y Terciarias",
+      "preguntas": [
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        },
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "18.1 Industria - V1",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": true
+        },
+        {
+          "titulo": "18.2 Comercio y Transporte - V2",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 19: Geografía Política y Organización Territorial",
+      "preguntas": [
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        },
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "19.1 Geografía Política - V1",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": true
+        },
+        {
+          "titulo": "19.2 Organización Territorial del Perú - V2",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 20: Problemas Ambientales y Desarrollo Sostenible",
+      "preguntas": [
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        },
+        {
+          "pregunta": "Escribe tu pregunta aquí...",
+          "opciones": ["Opción A", "Opción B", "Opción C", "Opción D", "Opción E"],
+          "correcta": 0,
+          "resolucion": "Escribe la resolución de la pregunta aquí..."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "20.1 Problemas Ambientales - V1",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": true
+        },
+        {
+          "titulo": "20.2 Desarrollo Sostenible - V2",
+          "youtube_id": "ID_DEL_VIDEO_AQUI",
+          "pdf_link": "ENLACE_AL_PDF_AQUI",
+          "gratis": false
+        }
+      ]
+    }
+  ]
+}
