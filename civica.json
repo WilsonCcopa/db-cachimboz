@@ -1,0 +1,4861 @@
+{
+  "curso": "Educación Cívica",
+  "temas": [
+    {
+      "titulo": "Tema 1: Derecho, Ley  y Moral",
+      "preguntas": [
+        {
+          "pregunta": "Los romanos designaban al derecho con la palabra IUS; que deriva de la voz del;",
+          "opciones": [
+            "Griega",
+            "Ortodoxa",
+            "Italiana",
+            "Fenicia",
+            "Latina"
+          ],
+          "correcta": 4,
+          "resolucion": "Derecho viene de la voz latina: ius, es el término con el que los romanos designaban al Derecho (Ossorio, 2005)."
+        },
+        {
+          "pregunta": "Bajo el vulgarismo se conoció al derecho con la palabra.",
+          "opciones": [
+            "Rectum",
+            "Dirigere",
+            "Directum",
+            "Justum",
+            "Mores"
+          ],
+          "correcta": 2,
+          "resolucion": "Posteriormente, con la publicación del Corpus Iuris Civilis… se aplicó la palabra directum, que significa ‘recto’, ‘lo que está conforme a la regla o a la norma’."
+        },
+        {
+          "pregunta": "El respectivo concepto “Derecho es la ordenación social e imperativa de la vida humana orientada a la realización de justicia” es señalado por:",
+          "opciones": [
+            "Celso Osorio",
+            "Claude du Pasquier",
+            "Mario Alzamora",
+            "Por la diosa",
+            "Osorio"
+          ],
+          "correcta": 1,
+          "resolucion": "Derecho es la ordenación social e imperativa de la vida humana orientada a la realización de justicia (Claude Du Pasquier)."
+        },
+        {
+          "pregunta": "Al referirse que la palabra tiene múltiples acepciones, el derecho es:",
+          "opciones": [
+            "Plural",
+            "Genérico",
+            "Semántico",
+            "Polisémico",
+            "Diverso"
+          ],
+          "correcta": 3,
+          "resolucion": "La palabra Derecho es polisémica, es decir tiene múltiples acepciones."
+        },
+        {
+          "pregunta": "La doble faz del derecho está referido a:",
+          "opciones": [
+            "La pluralidad del derecho",
+            "La clasificación del derecho",
+            "El origen de las fuentes del derecho",
+            "Las fuentes formales del derecho",
+            "A la variedad polisémica del derecho"
+          ],
+          "correcta": 1,
+          "resolucion": "Se refiere a las dos caras del derecho: objetivo y subjetivo: “algunos autores denominan la doble faz del derecho” (Ossorio, 2005, p.295)."
+        },
+        {
+          "pregunta": "Al referirnos que es aquel Conjunto de normas jurídicas que regulan la conducta de una persona natural o jurídica en relación a otra; esta afirmación señala a:",
+          "opciones": [
+            "El derecho en general",
+            "El derecho en particular",
+            "El derecho objetivo",
+            "El derecho subjetivo",
+            "Todas son correctas"
+          ],
+          "correcta": 2,
+          "resolucion": "Conjunto de normas jurídicas que regulan la conducta de una persona natural o jurídica en relación a otra."
+        },
+        {
+          "pregunta": "Al derecho objetivo también se le denomina:",
+          "opciones": [
+            "Derecho puesto por el hombre",
+            "Derecho atributivo",
+            "Derecho facultativo",
+            "Derecho negativo",
+            "Iusnaturalista"
+          ],
+          "correcta": 0,
+          "resolucion": "El derecho objetivo llamado también derecho puesto por el hombre."
+        },
+        {
+          "pregunta": "Señale el ejemplo que no corresponda al derecho objetivo:",
+          "opciones": [
+            "Decreto supremo 044-2020",
+            "Ley nro. 27444",
+            "Articulo 1 del código civil",
+            "Derecho a amar",
+            "Todas son correctas"
+          ],
+          "correcta": 3,
+          "resolucion": "El derecho subjetivo son facultades o prerrogativas individuales, como el derecho a la vida, libertad, propiedad, etc. Por tanto, “amar” es subjetivo, no objetivo."
+        },
+        {
+          "pregunta": "Señale verdadero o falso según corresponda:\n- El derecho objetivo también es conocido como derecho positivo ( )\n- La ley emitida por el congreso es parte del derecho Subjetivo ( ) \n- Los principios jurídicos regulan la vida de los hombres en sociedad Esta referido al derecho positivo ( ) \n- Derecho a la propiedad es ejemplo de derecho subjetivo ( )\nCorresponde:",
+          "opciones": [
+            "VVVF",
+            "VFVV",
+            "FFFF",
+            "FVFV",
+            "N.A"
+          ],
+          "correcta": 3,
+          "resolucion": "1. V: El derecho objetivo es el conjunto de normas jurídicas obligatorias... 2. F: La ley es una norma general... 3. F: Los principios jurídicos son fundamentos del derecho natural... 4. V: Es una facultad concreta... (Nota: La deducción lógica da VFFV, sin embargo, la clave proporcionada como respuesta correcta oficial es FVFV)."
+        },
+        {
+          "pregunta": "UNSAAC 2009-II el derecho se diferencia de la moral por ser:",
+          "opciones": [
+            "Autónoma",
+            "Unilateral",
+            "Incoercible",
+            "Heterónoma",
+            "Mas amplio"
+          ],
+          "correcta": 3,
+          "resolucion": "La moral es autónoma y el derecho es heterónomo. El Derecho emana de un poder extraño que se manifiesta a través de la ley y que es de ineludible cumplimiento. (Rodríguez, 2009, 14)."
+        },
+        {
+          "pregunta": "CEPRU UNSAAC 2009-II la limitación al poder público, es una característica de:",
+          "opciones": [
+            "La costumbre",
+            "La jurisprudencia",
+            "La constitución política del Perú",
+            "La ley",
+            "La doctrina"
+          ],
+          "correcta": 2,
+          "resolucion": "La Constitución regula y limita el ejercicio del poder político, garantizando derechos."
+        },
+        {
+          "pregunta": "CEPRU UNSAAC 2010-I a la clasificación del derecho objetivo y subjetivo algunos autores la denominan:",
+          "opciones": [
+            "Bipolaridad del derecho",
+            "Heteronomia del derecho",
+            "Bilateralidad del derecho",
+            "Doble faz del derecho",
+            "Dualidad del derecho"
+          ],
+          "correcta": 3,
+          "resolucion": "“algunos autores denominan la doble faz del derecho” al objetivo y subjetivo (Ossorio, 2005)."
+        },
+        {
+          "pregunta": "CEPRU UNSAAC 2010-I dentro del tema de diferencias entre derecho y la moral, pro sus efectos el derecho es:",
+          "opciones": [
+            "Bilateral",
+            "Unilateral",
+            "Coercible",
+            "Incoercible",
+            "Exterior"
+          ],
+          "correcta": 0,
+          "resolucion": "La moral es unilateral... En cambio el derecho es bilateral porque concede atribuciones y al mismo tiempo deberes. (Rodríguez, 2009, 14)."
+        },
+        {
+          "pregunta": "CEPRU UNSAAC 2010-I La libertad es:",
+          "opciones": [
+            "Actuar de acuerdo a mi voluntad, respetando la ley",
+            "Hacer lo correcto y lo verdadero",
+            "Actuar de acuerdo a mi libre albedrio",
+            "Dar a cada quien lo que corresponde",
+            "Respetar las ideas ajenas"
+          ],
+          "correcta": 0,
+          "resolucion": "Texto: “La libertad implica actuar de acuerdo a la conciencia propia... dueño de sus actos y puede autodeterminarse sin coacción.” Es decir, libertad con responsabilidad."
+        },
+        {
+          "pregunta": "El enunciado correcto sobre las diferencias entre el derecho y la moral es:",
+          "opciones": [
+            "La moral es bilateral y el derecho es unilateral",
+            "La moral es coercible y el derecho es incoercible",
+            "La moral es exterior y el derecho es interior",
+            "El derecho impone deberes para consigo mismo",
+            "La moral es autónoma y el derecho heterónomo"
+          ],
+          "correcta": 4,
+          "resolucion": "La moral es autónoma… En cambio el Derecho es heterónomo porque emana de un poder extraño que se manifiesta a través de la ley."
+        },
+        {
+          "pregunta": "Es característica de la ley:",
+          "opciones": [
+            "Autónoma",
+            "Interioridad",
+            "Incoercibilidad",
+            "Coercibilidad",
+            "Unilateralidad"
+          ],
+          "correcta": 3,
+          "resolucion": "Texto: “Características de la ley… Coercitivas: su no cumplimiento implica la imposición de una pena o castigo.”"
+        },
+        {
+          "pregunta": "El respeto como valor cívico, tiene como sinónimos a las palabras:",
+          "opciones": [
+            "Atención- consideración",
+            "Pluralidad- honestidad",
+            "Fidelidad – equidad",
+            "Paz- armonía",
+            "Miramiento – justicia"
+          ],
+          "correcta": 0,
+          "resolucion": "El respeto como valor cívico implica reconocer y valorar a los demás, tratándolos con atención (cuidando el trato) y consideración (pensando en su dignidad y derechos). Estos dos términos son sinónimos directos del respeto."
+        },
+        {
+          "pregunta": "La ayuda desinteresada que se prestan los unos y los otros, se denomina:",
+          "opciones": [
+            "Solidaridad",
+            "Tolerancia",
+            "Justicia",
+            "Distributiva",
+            "Equidad"
+          ],
+          "correcta": 0,
+          "resolucion": "Valor moral que surge de la convivencia social y mutuo apoyo."
+        },
+        {
+          "pregunta": "El tipo de justicia que se otorga por gracia y bondad, es:",
+          "opciones": [
+            "Particular",
+            "Social",
+            "Distributiva",
+            "General",
+            "Atributiva"
+          ],
+          "correcta": 4,
+          "resolucion": "En filosofía jurídica se entiende como justicia otorgada por favor o concesión, no por estricta obligación."
+        },
+        {
+          "pregunta": "El regulador de comportamiento destinado a hacer el bien, desde el mundo interior esta referido a:",
+          "opciones": [
+            "Derecho",
+            "Moral",
+            "Valores",
+            "Virtudes",
+            "Normas"
+          ],
+          "correcta": 1,
+          "resolucion": "La moral concierne al fuero interno porque tiene efectos en el ascenso espiritual y la perfección humana."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "1.1 - Parte 1",
+          "youtube_id": "-vCHCyuvLas",
+          "pdf_link": "https://drive.google.com/file/d/1cVHApO8XhSJTwIpnnKtQJdoP9c8h_mn5/view",
+          "gratis": true
+        },
+        {
+          "titulo": "1.2 - Parte 2",
+          "youtube_id": "cKFIZ6FSJtA",
+          "pdf_link": "https://drive.google.com/file/d/1cVHApO8XhSJTwIpnnKtQJdoP9c8h_mn5/view",
+          "gratis": false
+        },
+        {
+          "titulo": "1.3 - Parte 3",
+          "youtube_id": "cOPJbw4atv4",
+          "pdf_link": "https://drive.google.com/file/d/1cVHApO8XhSJTwIpnnKtQJdoP9c8h_mn5/view",
+          "gratis": true
+        },
+        {
+          "titulo": "1.4 - Parte 4",
+          "youtube_id": "ON_iIcjqE0g",
+          "pdf_link": "https://drive.google.com/file/d/1cVHApO8XhSJTwIpnnKtQJdoP9c8h_mn5/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 2: Valores Cívicos Sociales",
+      "preguntas": [
+        {
+    "pregunta": "Los valores son:",
+    "opciones": [
+      "Normas escritas que imponen conducta",
+      "Vivencias e ideales que orientan nuestros actos",
+      "Costumbres heredadas de los antepasados",
+      "Reglas religiosas"
+    ],
+    "correcta": 1,
+    "resolucion": "Son vivencias e ideales que guían el comportamiento hacia el bien propio y colectivo."
+  },
+  {
+    "pregunta": "¿Qué ciencia filosófica estudia los valores?",
+    "opciones": [
+      "Axiología",
+      "Ética",
+      "Antropología",
+      "Ontología"
+    ],
+    "correcta": 0,
+    "resolucion": "La Axiología, rama de la filosofía que se ocupa de los valores."
+  },
+  {
+    "pregunta": "La dignidad se entiende como:",
+    "opciones": [
+      "Un premio otorgado por la sociedad",
+      "El valor inherente al ser humano por ser racional y libre",
+      "Un mérito académico",
+      "Una condición laboral"
+    ],
+    "correcta": 1,
+    "resolucion": "Es un valor propio de todo ser humano, independiente de condiciones externas."
+  },
+  {
+    "pregunta": "La palabra justicia proviene del latín:",
+    "opciones": [
+      "Justitia",
+      "Jus naturae",
+      "Iustitia",
+      "Justum"
+    ],
+    "correcta": 2,
+    "resolucion": "Proviene de Iustitia, que significa dar a cada cual lo que le corresponde."
+  },
+  {
+    "pregunta": "La justicia consiste en:",
+    "opciones": [
+      "Cumplir las leyes sin cuestionarlas",
+      "Dar a cada cual lo que le pertenece",
+      "Mantener la paz entre países",
+      "Defender intereses individuales"
+    ],
+    "correcta": 1,
+    "resolucion": "Es el valor que asegura a cada persona lo que le corresponde."
+  },
+  {
+    "pregunta": "La justicia general busca:",
+    "opciones": [
+      "Resolver casos judiciales concretos",
+      "El bien de toda la sociedad",
+      "Igualdad estricta entre individuos",
+      "Favorecer intereses personales"
+    ],
+    "correcta": 1,
+    "resolucion": "Su finalidad es garantizar el bien común de la sociedad entera."
+  },
+  {
+    "pregunta": "La justicia particular regula:",
+    "opciones": [
+      "La vida económica del país",
+      "La relación entre individuos dentro de la comunidad",
+      "El poder de los jueces",
+      "Los privilegios colectivos"
+    ],
+    "correcta": 1,
+    "resolucion": "Se encarga de armonizar los intereses individuales dentro de la sociedad."
+  },
+  {
+    "pregunta": "Cuando un juez dicta sentencia, aplica:",
+    "opciones": [
+      "Justicia distributiva",
+      "Justicia judicial",
+      "Justicia general",
+      "Justicia conmutativa"
+    ],
+    "correcta": 1,
+    "resolucion": "Es justicia judicial, porque se concreta en resoluciones legales."
+  },
+  {
+    "pregunta": "La justicia social se basa en:",
+    "opciones": [
+      "Privilegios otorgados a grupos de poder",
+      "Normas razonables para el bienestar colectivo",
+      "Intereses únicamente económicos",
+      "Autoridad del juez"
+    ],
+    "correcta": 1,
+    "resolucion": "Busca la equidad en normas y decisiones según la organización de la sociedad."
+  },
+  {
+    "pregunta": "La justicia conmutativa se caracteriza por:",
+    "opciones": [
+      "La igualdad en la relación entre individuos",
+      "El privilegio de unos sobre otros",
+      "Favorecer al Estado sobre el individuo",
+      "La superioridad del bien común"
+    ],
+    "correcta": 0,
+    "resolucion": "Es la justicia clásica que asegura igualdad y reciprocidad entre personas."
+  },
+  {
+    "pregunta": "La justicia distributiva se centra en:",
+    "opciones": [
+      "La igualdad entre individuos particulares",
+      "El individuo frente al todo social",
+      "El poder de los jueces",
+      "Relaciones de mercado"
+    ],
+    "correcta": 1,
+    "resolucion": "Busca la distribución justa de bienes y cargas en función del bien común."
+  },
+  {
+    "pregunta": "La palabra solidaridad proviene de:",
+    "opciones": [
+      "Solidus",
+      "Societas",
+      "Solus",
+      "Solitudo"
+    ],
+    "correcta": 0,
+    "resolucion": "Proviene de solidus, que significa firme o compacto."
+  },
+  {
+    "pregunta": "La solidaridad implica:",
+    "opciones": [
+      "Competencia entre los individuos",
+      "Colaboración mutua sin distinción",
+      "Obligación exclusiva con la familia",
+      "Beneficio personal inmediato"
+    ],
+    "correcta": 1,
+    "resolucion": "Es la ayuda y cooperación desinteresada entre personas."
+  },
+  {
+    "pregunta": "La honestidad significa:",
+    "opciones": [
+      "Coherencia y sinceridad en la conducta",
+      "Respetar solo las leyes",
+      "Generosidad sin límites",
+      "Cumplir siempre órdenes de otros"
+    ],
+    "correcta": 0,
+    "resolucion": "Es la cualidad de actuar con verdad, coherencia y honradez."
+  },
+  {
+    "pregunta": "La palabra respeto proviene de:",
+    "opciones": [
+      "Respectus",
+      "Respetare",
+      "Respublica",
+      "Res judicare"
+    ],
+    "correcta": 0,
+    "resolucion": "Proviene de respectus, que significa atención o consideración."
+  },
+  {
+    "pregunta": "El respeto consiste en:",
+    "opciones": [
+      "Obedecer a la autoridad",
+      "Reconocer y valorar derechos y cualidades de los demás",
+      "Cumplir normas morales únicamente",
+      "Mantener silencio ante otros"
+    ],
+    "correcta": 1,
+    "resolucion": "Es reconocer y valorar a las personas y sus derechos."
+  },
+  {
+    "pregunta": "La libertad es:",
+    "opciones": [
+      "Ausencia de toda norma",
+      "Estado en el cual el hombre es dueño de sus actos",
+      "Poder absoluto sobre otros",
+      "Cumplimiento estricto de leyes"
+    ],
+    "correcta": 1,
+    "resolucion": "Es la capacidad de autodeterminarse sin coacción, siendo responsable de los propios actos."
+  },
+  {
+    "pregunta": "La frase “El hombre nace libre, pero en todas partes está encadenado” pertenece a:",
+    "opciones": [
+      "Sócrates",
+      "Aristóteles",
+      "Rousseau",
+      "Kant"
+    ],
+    "correcta": 2,
+    "resolucion": "Rousseau, quien explicó que la libertad es inherente pero limitada por la sociedad."
+  },
+  {
+    "pregunta": "La igualdad en el ámbito social significa:",
+    "opciones": [
+      "Que todos tengan idénticas condiciones económicas",
+      "Equivalencia y trato equitativo entre las personas",
+      "Ausencia de diferencias naturales",
+      "Que la ley favorezca a la mayoría"
+    ],
+    "correcta": 1,
+    "resolucion": "Es la equivalencia en derechos y trato justo entre los seres humanos."
+  },
+  {
+    "pregunta": "La igualdad se relaciona con:",
+    "opciones": [
+      "La justicia y la solidaridad",
+      "La obediencia y el orden",
+      "El poder y la autoridad",
+      "La libertad y el libertinaje"
+    ],
+    "correcta": 0,
+    "resolucion": "Se vincula con justicia y solidaridad como valores que buscan trato equitativo."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "2.1 - Parte 1",
+          "youtube_id": "WJ6MnIGBa6w",
+          "pdf_link": "https://drive.google.com/file/d/1dIaRWrlBbZ7hkJmXY3GBtVf106_0KrFm/view",
+          "gratis": true
+        },
+        {
+          "titulo": "2.2 - Parte 2",
+          "youtube_id": "tjTOfSWmx9k",
+          "pdf_link": "https://drive.google.com/file/d/1dIaRWrlBbZ7hkJmXY3GBtVf106_0KrFm/view",
+          "gratis": false
+        },
+        {
+          "titulo": "2.3 - Parte 3",
+          "youtube_id": "BSie036Vaks",
+          "pdf_link": "https://drive.google.com/file/d/1dIaRWrlBbZ7hkJmXY3GBtVf106_0KrFm/view",
+          "gratis": true
+        },
+        {
+          "titulo": "2.4 - Parte 4",
+          "youtube_id": "Rji4-WyG3ds",
+          "pdf_link": "https://drive.google.com/file/d/1dIaRWrlBbZ7hkJmXY3GBtVf106_0KrFm/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 3: Persona y Sociedad",
+      "preguntas": [
+        {
+    "pregunta": "Según la Constitución Política del Perú, el fin supremo de la sociedad y del Estado es:",
+    "opciones": [
+      "El desarrollo económico",
+      "La justicia social",
+      "La defensa de la persona humana y respeto de su dignidad",
+      "La igualdad ante la ley"
+    ],
+    "correcta": 2,
+    "resolucion": "La persona y su dignidad son el centro del Estado."
+  },
+  {
+    "pregunta": "El inicio de la existencia de la persona natural se da:",
+    "opciones": [
+      "Con el nacimiento",
+      "Desde la concepción",
+      "Desde la inscripción en el RENIEC",
+      "Desde el bautizo"
+    ],
+    "correcta": 1,
+    "resolucion": "El concebido es sujeto de derecho en lo que le favorece."
+  },
+  {
+    "pregunta": "La existencia jurídica de la persona natural concluye:",
+    "opciones": [
+      "Con el entierro",
+      "Con la muerte",
+      "Con la desaparición",
+      "Con la declaratoria judicial"
+    ],
+    "correcta": 1,
+    "resolucion": "La muerte extingue la personalidad civil."
+  },
+  {
+    "pregunta": "La aptitud para ser titular de derechos y obligaciones se denomina:",
+    "opciones": [
+      "Capacidad de ejercicio",
+      "Capacidad de goce",
+      "Capacidad legal",
+      "Capacidad civil"
+    ],
+    "correcta": 1,
+    "resolucion": "Todos los seres humanos poseen capacidad de goce."
+  },
+  {
+    "pregunta": "La aptitud para ejercer derechos y obligaciones por sí mismo es:",
+    "opciones": [
+      "Capacidad de goce",
+      "Capacidad de derecho",
+      "Capacidad de ejercicio",
+      "Capacidad innata"
+    ],
+    "correcta": 2,
+    "resolucion": "Requiere mayoría de edad y discernimiento."
+  },
+  {
+    "pregunta": "El concebido es sujeto de derecho en todo lo que le favorece, según:",
+    "opciones": [
+      "Código Civil, art. 1",
+      "Constitución, art. 2",
+      "Código Penal, art. 2",
+      "Código Civil, art. 60"
+    ],
+    "correcta": 0,
+    "resolucion": "El art. 1 del Código Civil reconoce al concebido como sujeto de derecho."
+  },
+  {
+    "pregunta": "La muerte presunta se declara por:",
+    "opciones": [
+      "Notario",
+      "Juez",
+      "Familiares",
+      "Registro Civil"
+    ],
+    "correcta": 1,
+    "resolucion": "Solo mediante resolución judicial."
+  },
+  {
+    "pregunta": "Efecto de la muerte presunta:",
+    "opciones": [
+      "El divorcio automático",
+      "Apertura de la sucesión",
+      "La inscripción de nacimiento",
+      "Nulidad de matrimonio"
+    ],
+    "correcta": 1,
+    "resolucion": "El patrimonio del ausente pasa a sus herederos."
+  },
+  {
+    "pregunta": "Cuando dos personas mueren en un mismo accidente y no se sabe quién murió primero, se aplica:",
+    "opciones": [
+      "Teoría de la prioridad",
+      "Teoría de la continuidad",
+      "Teoría de la conmoriencia",
+      "Teoría de la prelación"
+    ],
+    "correcta": 2,
+    "resolucion": "Se presume muerte simultánea."
+  },
+  {
+    "pregunta": "Son personas naturales:",
+    "opciones": [
+      "Solo los mayores de edad",
+      "Todo ser humano",
+      "Los ciudadanos con DNI",
+      "Los trabajadores"
+    ],
+    "correcta": 1,
+    "resolucion": "Persona natural es cualquier ser humano."
+  },
+  {
+    "pregunta": "Son personas jurídicas:",
+    "opciones": [
+      "Solo los colegios",
+      "Solo el Estado",
+      "Asociaciones y corporaciones",
+      "Individuos mayores de edad"
+    ],
+    "correcta": 2,
+    "resolucion": "Son entes creados por la ley."
+  },
+  {
+    "pregunta": "Las personas jurídicas de derecho público son creadas por:",
+    "opciones": [
+      "Contrato",
+      "Ley",
+      "Acuerdo privado",
+      "Testamento"
+    ],
+    "correcta": 1,
+    "resolucion": "Su origen es legal, no contractual."
+  },
+  {
+    "pregunta": "Ejemplo de persona jurídica de derecho público:",
+    "opciones": [
+      "Una empresa privada",
+      "El Estado",
+      "Una asociación cultural",
+      "Una sociedad anónima"
+    ],
+    "correcta": 1,
+    "resolucion": "El Estado y sus organismos son de derecho público."
+  },
+  {
+    "pregunta": "Etimológicamente, “persona” proviene de:",
+    "opciones": [
+      "Griego anthropos",
+      "Latín persona (máscara teatral)",
+      "Hebreo adam",
+      "Inglés person"
+    ],
+    "correcta": 1,
+    "resolucion": "Se refería a la máscara usada en el teatro romano."
+  },
+  {
+    "pregunta": "Diferencia entre persona natural y jurídica:",
+    "opciones": [
+      "Natural es física; jurídica es abstracta",
+      "Natural tiene derechos; jurídica no",
+      "Jurídica no paga impuestos",
+      "Jurídica siempre tiene fin de lucro"
+    ],
+    "correcta": 0,
+    "resolucion": "La persona natural es un ser humano, la jurídica una ficción legal."
+  },
+  {
+    "pregunta": "Según el Código Civil, la muerte pone fin a la persona en el artículo:",
+    "opciones": [
+      "1",
+      "60",
+      "61",
+      "62"
+    ],
+    "correcta": 2,
+    "resolucion": "El art. 61 regula la muerte y fin de personalidad."
+  },
+  {
+    "pregunta": "Un elemento material de la sociedad es:",
+    "opciones": [
+      "El idioma",
+      "La religión",
+      "El territorio",
+      "El derecho"
+    ],
+    "correcta": 2,
+    "resolucion": "El territorio es la base física de toda sociedad."
+  },
+  {
+    "pregunta": "Un elemento espiritual de la sociedad es:",
+    "opciones": [
+      "El clima",
+      "La economía",
+      "El instinto social",
+      "La tecnología"
+    ],
+    "correcta": 2,
+    "resolucion": "El hombre es social por naturaleza."
+  },
+  {
+    "pregunta": "La sociedad se entiende como:",
+    "opciones": [
+      "Conjunto de personas que se relacionan bajo normas y fines comunes",
+      "Conjunto de animales que viven en manada",
+      "Una simple asociación de individuos",
+      "Un grupo político"
+    ],
+    "correcta": 0,
+    "resolucion": "Implica convivencia organizada con normas."
+  },
+  {
+    "pregunta": "Thomasius sostenía que:",
+    "opciones": [
+      "El derecho existe antes de la sociedad",
+      "Fuera de la sociedad no hay derecho",
+      "El derecho nace en la familia únicamente",
+      "El derecho es igual a moral"
+    ],
+    "correcta": 1,
+    "resolucion": "El derecho solo surge dentro de la vida social."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "3.1 - Parte 1",
+          "youtube_id": "sQB3C7J8yPM",
+          "pdf_link": "https://drive.google.com/file/d/10iQ8lfIGTym1_Jw6D3hKGC6R7hWR8mkm/view",
+          "gratis": true
+        },
+        {
+          "titulo": "3.2 - Parte 2",
+          "youtube_id": "6uT_N2ywCWg",
+          "pdf_link": "https://drive.google.com/file/d/10iQ8lfIGTym1_Jw6D3hKGC6R7hWR8mkm/view",
+          "gratis": false
+        },
+        {
+          "titulo": "3.3 - Parte 3",
+          "youtube_id": "H8097oZlvz0",
+          "pdf_link": "https://drive.google.com/file/d/10iQ8lfIGTym1_Jw6D3hKGC6R7hWR8mkm/view",
+          "gratis": true
+        },
+        {
+          "titulo": "3.4 - Parte 4",
+          "youtube_id": "erIZpQBF2J4",
+          "pdf_link": "https://drive.google.com/file/d/10iQ8lfIGTym1_Jw6D3hKGC6R7hWR8mkm/view",
+          "gratis": false
+        },
+        {
+          "titulo": "3.5 - Parte 5",
+          "youtube_id": "yUwjKVWW2WU",
+          "pdf_link": "https://drive.google.com/file/d/10iQ8lfIGTym1_Jw6D3hKGC6R7hWR8mkm/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 4: La Familia",
+      "preguntas": [
+        {
+    "pregunta": "La familia es considerada:",
+    "opciones": [
+      "Una creación de la ley",
+      "Una institución natural, jurídica y social",
+      "Una convención humana",
+      "Una relación de trabajo"
+    ],
+    "correcta": 1,
+    "resolucion": "Porque la familia surge de la naturaleza, pero también tiene reconocimiento jurídico y social."
+  },
+  {
+    "pregunta": "Según la Constitución Política del Perú, la familia es:",
+    "opciones": [
+      "Un grupo voluntario de personas",
+      "Un instituto natural y fundamental de la sociedad",
+      "Una unión económica",
+      "Una asociación privada"
+    ],
+    "correcta": 1,
+    "resolucion": "La Constitución (art. 4) reconoce a la familia como instituto natural y fundamental."
+  },
+  {
+    "pregunta": "El concubinato regulado en el art. 326 del Código Civil peruano se denomina:",
+    "opciones": [
+      "Matrimonio religioso",
+      "Unión de hecho",
+      "Sociedad conyugal",
+      "Pareja de convivencia"
+    ],
+    "correcta": 1,
+    "resolucion": "La ley denomina al concubinato como “unión de hecho”."
+  },
+  {
+    "pregunta": "El parentesco por consanguinidad se da entre:",
+    "opciones": [
+      "Esposos",
+      "Padres e hijos",
+      "Suegros y nueras",
+      "Adoptantes y adoptados"
+    ],
+    "correcta": 1,
+    "resolucion": "La consanguinidad une a los descendientes de un mismo tronco."
+  },
+  {
+    "pregunta": "La patria potestad es:",
+    "opciones": [
+      "La herencia de los padres",
+      "El derecho de administrar bienes propios",
+      "Conjunto de deberes y derechos de los padres sobre los hijos",
+      "Un contrato familiar"
+    ],
+    "correcta": 2,
+    "resolucion": "Implica cuidado de la persona y bienes de los hijos (art. 418 C.C.)."
+  },
+  {
+    "pregunta": "El matrimonio civil en el Perú es definido como:",
+    "opciones": [
+      "Una unión religiosa",
+      "Un contrato patrimonial",
+      "La unión voluntaria entre un varón y una mujer legalmente aptos",
+      "Una sociedad mercantil"
+    ],
+    "correcta": 2,
+    "resolucion": "Así lo establece el art. 234 del Código Civil."
+  },
+  {
+    "pregunta": "El impedimento absoluto para casarse es:",
+    "opciones": [
+      "Estar divorciado",
+      "Ser mayor de 50 años",
+      "Ser casado",
+      "Haber enviudado"
+    ],
+    "correcta": 2,
+    "resolucion": "Una persona ya casada no puede contraer nuevo matrimonio."
+  },
+  {
+    "pregunta": "La familia concubinaria se caracteriza por:",
+    "opciones": [
+      "Estar unida por matrimonio religioso",
+      "Convivencia estable sin matrimonio civil",
+      "Vínculos únicamente económicos",
+      "Ser reconocida solo por la costumbre"
+    ],
+    "correcta": 1,
+    "resolucion": "Es la unión libre, sin matrimonio, pero estable."
+  },
+  {
+    "pregunta": "La tutela se aplica a:",
+    "opciones": [
+      "Mayores de edad con bienes",
+      "Menores huérfanos o privados de patria potestad",
+      "Matrimonios sin hijos",
+      "Personas casadas"
+    ],
+    "correcta": 1,
+    "resolucion": "La tutela protege a menores sin patria potestad."
+  },
+  {
+    "pregunta": "La curatela se otorga para:",
+    "opciones": [
+      "Niños sin padres",
+      "Mayores de edad incapacitados",
+      "Menores delincuentes",
+      "Personas casadas"
+    ],
+    "correcta": 1,
+    "resolucion": "Busca proteger bienes y persona de mayores incapacitados."
+  },
+  {
+    "pregunta": "El concubinato propio o strictu sensu se da cuando:",
+    "opciones": [
+      "Existe impedimento para casarse",
+      "No existe impedimento matrimonial",
+      "Es una relación de conveniencia",
+      "Solo dura un año"
+    ],
+    "correcta": 1,
+    "resolucion": "El concubinato propio ocurre cuando nada impide contraer matrimonio."
+  },
+  {
+    "pregunta": "En el parentesco, el “tronco” se refiere a:",
+    "opciones": [
+      "El hijo mayor",
+      "El ascendiente común",
+      "Los colaterales",
+      "Los padrinos"
+    ],
+    "correcta": 1,
+    "resolucion": "Es la persona reconocida como ascendiente común."
+  },
+  {
+    "pregunta": "Una familia extensa está formada por:",
+    "opciones": [
+      "Solo padre, madre e hijos",
+      "Familia nuclear más otros parientes agregados",
+      "Amigos y vecinos",
+      "Personas sin parentesco"
+    ],
+    "correcta": 1,
+    "resolucion": "Incluye a abuelos, tíos u otros junto a la familia nuclear."
+  },
+  {
+    "pregunta": "El divorcio es:",
+    "opciones": [
+      "Una separación temporal",
+      "La disolución absoluta del matrimonio",
+      "Un acuerdo económico",
+      "Una separación religiosa"
+    ],
+    "correcta": 1,
+    "resolucion": "Disuelve el vínculo matrimonial y permite volver a casarse."
+  },
+  {
+    "pregunta": "La adopción crea un parentesco de:",
+    "opciones": [
+      "Consanguinidad",
+      "Afinidad",
+      "Origen legal",
+      "Espiritual"
+    ],
+    "correcta": 2,
+    "resolucion": "Es un parentesco legal con efectos similares al de sangre."
+  },
+  {
+    "pregunta": "El artículo 16 de la Declaración Universal de Derechos Humanos reconoce:",
+    "opciones": [
+      "Solo el matrimonio religioso",
+      "El derecho a casarse y fundar familia",
+      "La familia como institución económica",
+      "La prohibición del divorcio"
+    ],
+    "correcta": 1,
+    "resolucion": "Reconoce el derecho de hombres y mujeres a casarse y fundar familia."
+  },
+  {
+    "pregunta": "La familia andina basada en el servinacuy es:",
+    "opciones": [
+      "Una unión efímera",
+      "Una unión estable no matrimonial",
+      "Una unión económica temporal",
+      "Una unión religiosa"
+    ],
+    "correcta": 1,
+    "resolucion": "El servinacuy son uniones estables, sin matrimonio civil."
+  },
+  {
+    "pregunta": "La patria potestad se extingue:",
+    "opciones": [
+      "Al cumplir el hijo 18 años",
+      "Con la independencia económica",
+      "Al casarse los padres",
+      "Con el divorcio automáticamente"
+    ],
+    "correcta": 0,
+    "resolucion": "Se extingue con la mayoría de edad del hijo."
+  },
+  {
+    "pregunta": "El impedimento especial para contraer matrimonio es:",
+    "opciones": [
+      "Ser mayor de edad",
+      "Haber enviudado sin inventario judicial de bienes",
+      "Ser padre de familia",
+      "Haber estado separado de hecho"
+    ],
+    "correcta": 1,
+    "resolucion": "El viudo debe acreditar inventario judicial de bienes de sus hijos."
+  },
+  {
+    "pregunta": "El parentesco espiritual se establece:",
+    "opciones": [
+      "Solo por matrimonio civil",
+      "Por bautismo, confirmación o compadrazgo",
+      "Por unión libre",
+      "Por testamento"
+    ],
+    "correcta": 1,
+    "resolucion": "Surge de sacramentos y vínculos sociales como el compadrazgo."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "4.1 - Parte 1",
+          "youtube_id": "JW_88hML9CY",
+          "pdf_link": "https://drive.google.com/file/d/1p7OfK2rGHbkwShP_X3Mc8IF9zbxrUwQs/view",
+          "gratis": true
+        },
+        {
+          "titulo": "4.2 - Parte 2",
+          "youtube_id": "jHF86ojCmVw",
+          "pdf_link": "https://drive.google.com/file/d/1p7OfK2rGHbkwShP_X3Mc8IF9zbxrUwQs/view",
+          "gratis": false
+        },
+        {
+          "titulo": "4.3 - Parte 3",
+          "youtube_id": "pHV_6oQM3mw",
+          "pdf_link": "https://drive.google.com/file/d/1p7OfK2rGHbkwShP_X3Mc8IF9zbxrUwQs/view",
+          "gratis": true
+        },
+        {
+          "titulo": "4.4 - Parte 4",
+          "youtube_id": "LfkoD-yW_aI",
+          "pdf_link": "https://drive.google.com/file/d/1p7OfK2rGHbkwShP_X3Mc8IF9zbxrUwQs/view",
+          "gratis": false
+        },
+        {
+          "titulo": "4.5 - Parte 5",
+          "youtube_id": "jMRv7mA0cAY",
+          "pdf_link": "https://drive.google.com/file/d/1p7OfK2rGHbkwShP_X3Mc8IF9zbxrUwQs/view",
+          "gratis": true
+        },
+        {
+          "titulo": "4.6 - Parte 6",
+          "youtube_id": "ziABJ3im9xc",
+          "pdf_link": "https://drive.google.com/file/d/1p7OfK2rGHbkwShP_X3Mc8IF9zbxrUwQs/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 5: Nación",
+      "preguntas": [
+        {
+    "pregunta": "La etimología de la palabra “nación” proviene del latín:",
+    "opciones": [
+      "Patria",
+      "Natío, nationis",
+      "Civitas",
+      "Populus",
+      "Societas"
+    ],
+    "correcta": 1,
+    "resolucion": "Cuyo significado es nacimiento o raza."
+  },
+  {
+    "pregunta": "Según Herder y Fichte, la nación es la expresión de",
+    "opciones": [
+      "La soberanía del pueblo",
+      "Un alma colectiva",
+      "El poder político",
+      "La identidad territorial",
+      "La supremacía cultural"
+    ],
+    "correcta": 1,
+    "resolucion": "Se basa en compartir etnia, cultura y tradición."
+  },
+  {
+    "pregunta": "Para Anthony D. Smith, la nación se caracteriza por:",
+    "opciones": [
+      "Solo el idioma común",
+      "Comunidad humana sin territorio",
+      "Mitos comunes y memoria histórica",
+      "Exclusivamente una religión",
+      "Unidad política"
+    ],
+    "correcta": 2,
+    "resolucion": "Además de cultura y solidaridad."
+  },
+  {
+    "pregunta": "Un elemento esencial de la nación es:",
+    "opciones": [
+      "Raza",
+      "Religión",
+      "Territorio",
+      "Conciencia nacional",
+      "Idioma"
+    ],
+    "correcta": 3,
+    "resolucion": "Es la continuidad del pasado histórico."
+  },
+  {
+    "pregunta": "Los elementos secundarios de la nación son:",
+    "opciones": [
+      "Tradición histórica y conciencia",
+      "Cultura y folclore",
+      "Raza, religión e idioma",
+      "Solidaridad y mitos",
+      "Memoria histórica"
+    ],
+    "correcta": 2,
+    "resolucion": "Se consideran secundarios pero influyen."
+  },
+  {
+    "pregunta": "La nacionalidad es entendida como:",
+    "opciones": [
+      "Una forma de gobierno",
+      "Capacidad especial con derechos y deberes",
+      "Identidad étnica",
+      "Un patrimonio cultural",
+      "Una institución jurídica universal"
+    ],
+    "correcta": 1,
+    "resolucion": "Otorga pertenencia permanente a un Estado."
+  },
+  {
+    "pregunta": "Según la Constitución peruana (1993), son peruanos por nacimiento:",
+    "opciones": [
+      "Todos los nacidos en América",
+      "Solo los hijos de padres peruanos",
+      "Los nacidos en territorio nacional",
+      "Quienes se nacionalizan en el exterior",
+      "Los descendientes de peruanos sin inscripción"
+    ],
+    "correcta": 2,
+    "resolucion": "Así lo establece el artículo 52."
+  },
+  {
+    "pregunta": "Los peruanos de nacimiento que adoptan otra nacionalidad:",
+    "opciones": [
+      "Pierden la peruana automáticamente",
+      "Mantienen la peruana salvo renuncia expresa",
+      "No pueden tener dos nacionalidades",
+      "Mantienen ambas sin restricción",
+      "Deben inscribirse de nuevo en Perú"
+    ],
+    "correcta": 1,
+    "resolucion": "Así lo indica la Ley N.º 26574."
+  },
+  {
+    "pregunta": "Para renunciar a la nacionalidad peruana es requisito:",
+    "opciones": [
+      "Ser menor de edad",
+      "Vivir en Perú",
+      "Escritura pública y mayoría de edad",
+      "Ser funcionario público",
+      "Votar en elecciones"
+    ],
+    "correcta": 2,
+    "resolucion": "Además se debe contar con DNI vigente."
+  },
+  {
+    "pregunta": "La identidad nacional es principalmente:",
+    "opciones": [
+      "Una condición solo jurídica",
+      "Un sentimiento subjetivo de pertenencia",
+      "Una obligación política",
+      "Una categoría económica",
+      "Una simple tradición familiar"
+    ],
+    "correcta": 1,
+    "resolucion": "Basado en lengua, cultura y religión."
+  },
+  {
+    "pregunta": "El término “peruanidad” fue acuñado por:",
+    "opciones": [
+      "José de la Riva Agüero",
+      "Raúl Porras Barrenechea",
+      "Víctor Andrés Belaunde",
+      "Ricardo Palma",
+      "Jorge Basadre"
+    ],
+    "correcta": 2,
+    "resolucion": "Define la unidad y tradición del Perú."
+  },
+  {
+    "pregunta": "La etapa prehispánica de la peruanidad comprende:",
+    "opciones": [
+      "Solo la civilización Inka",
+      "Rebeliones contra España",
+      "Culturas preincas e inca",
+      "Virreinato y colonia",
+      "Conflictos republicanos"
+    ],
+    "correcta": 2,
+    "resolucion": "Caral, Chavín, Nazca, Wari, Inka, etc."
+  },
+  {
+    "pregunta": "El Sistema de Defensa Nacional es presidido por:",
+    "opciones": [
+      "El Congreso de la República",
+      "El Presidente de la República",
+      "El Ministro de Defensa",
+      "La Policía Nacional",
+      "El Consejo de Ministros"
+    ],
+    "correcta": 1,
+    "resolucion": "Es el jefe supremo de FF.AA. y PNP."
+  },
+  {
+    "pregunta": "La misión principal de las Fuerzas Armadas es:",
+    "opciones": [
+      "Restablecer el orden interno",
+      "Garantizar independencia y soberanía",
+      "Administrar justicia",
+      "Supervisar elecciones",
+      "Proteger el patrimonio cultural"
+    ],
+    "correcta": 1,
+    "resolucion": "Y también la integridad territorial."
+  },
+  {
+    "pregunta": "El artículo 49 de la Constitución establece como símbolos de la patria:",
+    "opciones": [
+      "Bandera, Escarapela e Himno",
+      "Bandera, Escudo e Himno",
+      "Escudo, Moneda y Bandera",
+      "Bandera, Himno y Lengua",
+      "Escarapela, Himno y Árbol nacional"
+    ],
+    "correcta": 1,
+    "resolucion": "Son los símbolos oficiales."
+  },
+  {
+    "pregunta": "La teoría que afirma que San Martín se inspiró en las parihuanas para la bandera es de:",
+    "opciones": [
+      "Jorge Basadre",
+      "Mario Felipe Paz Soldán",
+      "Abraham Valdelomar",
+      "Víctor Andrés Belaunde",
+      "José Bernardo Alcedo"
+    ],
+    "correcta": 2,
+    "resolucion": "Por los flamencos de alas rojas y pecho blanco. "
+  },
+  {
+    "pregunta": "El Escudo del Perú fue establecido definitivamente en:",
+    "opciones": [
+      "1821 por San Martín",
+      "1824 por Bolívar",
+      "1825 por ley de Bolívar",
+      "1836 por la Confederación",
+      "1840 por Castilla"
+    ],
+    "correcta": 2,
+    "resolucion": "25 de febrero de 1825. "
+  },
+  {
+    "pregunta": "El Himno Nacional del Perú tiene actualmente cuántas estrofas que se cantan:",
+    "opciones": [
+      "6 estrofas completas",
+      "Solo el coro",
+      "1ra y 6ta estrofa",
+      "1ra estrofa únicamente",
+      "3 estrofas"
+    ],
+    "correcta": 2,
+    "resolucion": "Por Resolución Ministerial N.º 0244-2010-ED."
+  },
+  {
+    "pregunta": "El Patrimonio Cultural, según la UNESCO, está conformado por:",
+    "opciones": [
+      "Solo bienes arqueológicos",
+      "Bienes materiales e inmateriales",
+      "Exclusivamente patrimonio natural",
+      "Monumentos coloniales",
+      "Obras artísticas modernas"
+    ],
+    "correcta": 1,
+    "resolucion": "Tangibles e intangibles transmitidos a futuras generaciones."
+  },
+  {
+    "pregunta": "El artículo 66 de la Constitución señala que los recursos naturales son:",
+    "opciones": [
+      "Propiedad privada",
+      "Bienes comunales",
+      "Patrimonio de la nación",
+      "Patrimonio municipal",
+      "Propiedad extranjera"
+    ],
+    "correcta": 2,
+    "resolucion": "El Estado es soberano en su aprovechamiento."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "5.1 - Parte 1",
+          "youtube_id": "v3lSBZZoVhA",
+          "pdf_link": "https://drive.google.com/file/d/1cn21bLZdnvqRDh7lu0bW1n3VgIzk8bnA/view",
+          "gratis": true
+        },
+        {
+          "titulo": "5.2 - Parte 2",
+          "youtube_id": "VoZxpeaopNo",
+          "pdf_link": "https://drive.google.com/file/d/1cn21bLZdnvqRDh7lu0bW1n3VgIzk8bnA/view",
+          "gratis": false
+        },
+        {
+          "titulo": "5.3 - Parte 3",
+          "youtube_id": "mUrOUyDupH8",
+          "pdf_link": "https://drive.google.com/file/d/1cn21bLZdnvqRDh7lu0bW1n3VgIzk8bnA/view",
+          "gratis": true
+        },
+        {
+          "titulo": "5.4 - Parte 4",
+          "youtube_id": "a-5hwkEimpM",
+          "pdf_link": "https://drive.google.com/file/d/1cn21bLZdnvqRDh7lu0bW1n3VgIzk8bnA/view",
+          "gratis": false
+        },
+        {
+          "titulo": "5.5 - Parte 5",
+          "youtube_id": "sa2J32EaNjU",
+          "pdf_link": "https://drive.google.com/file/d/1cn21bLZdnvqRDh7lu0bW1n3VgIzk8bnA/view",
+          "gratis": true
+        },
+        {
+          "titulo": "5.6 - Parte 6",
+          "youtube_id": "5QriCPAujw4",
+          "pdf_link": "https://drive.google.com/file/d/1cn21bLZdnvqRDh7lu0bW1n3VgIzk8bnA/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 6: Estado",
+      "preguntas": [
+        {
+    "pregunta": "El Estado, en sentido amplio, puede entenderse como:",
+    "opciones": [
+      "El conjunto de leyes que regulan la vida social",
+      "La nación jurídicamente organizada",
+      "La organización política de un gobierno",
+      "Un territorio delimitado por fronteras"
+    ],
+    "correcta": 1,
+    "resolucion": "El Estado es la nación organizada jurídicamente."
+  },
+  {
+    "pregunta": "El elemento del Estado que comprende el suelo, subsuelo, mar territorial y espacio aéreo es:",
+    "opciones": [
+      "Población",
+      "Territorio",
+      "Soberanía",
+      "Organización Jurídica"
+    ],
+    "correcta": 1,
+    "resolucion": "El artículo 54 de la Constitución señala que el territorio comprende suelo, subsuelo, mar territorial y espacio aéreo."
+  },
+  {
+    "pregunta": "La soberanía interna se manifiesta cuando el Estado:",
+    "opciones": [
+      "Reconoce la existencia de otros poderes iguales",
+      "Relaciona su poder con los Estados vecinos",
+      "Impone supremacía sobre los poderes sociales de su territorio",
+      "Se sujeta a normas internacionales"
+    ],
+    "correcta": 2,
+    "resolucion": "Internamente, el Estado no reconoce ningún poder superior en su espacio nacional."
+  },
+  {
+    "pregunta": "La soberanía externa implica:",
+    "opciones": [
+      "La supremacía sobre poderes internos",
+      "El reconocimiento de un único poder en el territorio",
+      "La independencia e igualdad jurídica frente a otros Estados",
+      "La existencia de un gobierno descentralizado"
+    ],
+    "correcta": 2,
+    "resolucion": "Externamente el Estado es independiente y no reconoce superiores, solo iguales."
+  },
+  {
+    "pregunta": "El Estado Constitucional surgió en Inglaterra en el siglo XVII para:",
+    "opciones": [
+      "Consolidar la supremacía del rey",
+      "Reforzar la economía de mercado",
+      "Limitar el poder de los monarcas absolutos",
+      "Unificar el sistema judicial"
+    ],
+    "correcta": 2,
+    "resolucion": "Nació del intento de restringir las decisiones políticas de los monarcas."
+  },
+  {
+    "pregunta": "El Estado Liberal del siglo XIX se caracterizó principalmente por:",
+    "opciones": [
+      "La supremacía militar y religiosa",
+      "La economía de mercado competitiva y la propiedad privada",
+      "La descentralización política",
+      "El absolutismo monárquico"
+    ],
+    "correcta": 1,
+    "resolucion": "Sus pilares fueron el constitucionalismo, la propiedad privada y el mercado."
+  },
+  {
+    "pregunta": "La forma de Estado dominante en el siglo XX fue:",
+    "opciones": [
+      "El Estado Unipartidista",
+      "El Estado Liberal clásico",
+      "El Estado Democrático Representativo",
+      "El Estado Confederado"
+    ],
+    "correcta": 2,
+    "resolucion": "Se consolidó como el modelo predominante del Estado moderno."
+  },
+  {
+    "pregunta": "Un Estado Unipartidista se caracteriza por:",
+    "opciones": [
+      "Reconocer varios partidos en competencia",
+      "Considerar a un solo partido como expresión de la voluntad general",
+      "Basarse en la descentralización política",
+      "Poseer un gobierno federal autónomo"
+    ],
+    "correcta": 1,
+    "resolucion": "Es típico de los sistemas comunistas."
+  },
+  {
+    "pregunta": "En un Estado Unitario en sentido estricto:",
+    "opciones": [
+      "Existe descentralización de funciones",
+      "Se reconoce la autonomía regional",
+      "El poder central monopoliza el mando y se organiza piramidalmente",
+      "Se permite diversidad de constituciones"
+    ],
+    "correcta": 2,
+    "resolucion": "El texto señala que existe un solo centro de impulsión política: el gobierno central."
+  },
+  {
+    "pregunta": "La diferencia entre Estado unitario desconcentrado y descentralizado es que:",
+    "opciones": [
+      "Ambos mantienen el monopolio absoluto del poder",
+      "El primero delega funciones, el segundo otorga autonomía local",
+      "El primero permite parlamentos regionales, el segundo no",
+      "El primero nace de tratados internacionales, el segundo de la Constitución"
+    ],
+    "correcta": 1,
+    "resolucion": "La desconcentración es delegación interna; la descentralización concede autonomía."
+  },
+  {
+    "pregunta": "El Estado Federal se compone de:",
+    "opciones": [
+      "Una sola nación homogénea",
+      "Estados autónomos que ceden parte de su soberanía al poder central",
+      "Territorios dependientes del parlamento central",
+      "Regiones subordinadas sin legislación propia"
+    ],
+    "correcta": 1,
+    "resolucion": "Cada Estado conserva autonomía, pero delega competencias al nivel federal."
+  },
+  {
+    "pregunta": "La confederación se constituye principalmente por:",
+    "opciones": [
+      "Un poder judicial común",
+      "Un tratado internacional entre Estados soberanos",
+      "La unión voluntaria de provincias subordinadas",
+      "La imposición de un gobierno central"
+    ],
+    "correcta": 1,
+    "resolucion": "La confederación surge de un tratado entre territorios autónomos."
+  },
+  {
+    "pregunta": "El Estado Peruano, según el artículo 43 de la Constitución, es:",
+    "opciones": [
+      "Federal, democrático y unitario",
+      "Confederado, social y representativo",
+      "Democrático, social, independiente y soberano",
+      "Absolutista, centralizado y monárquico"
+    ],
+    "correcta": 2,
+    "resolucion": "Es unitario, representativo y descentralizado, bajo separación de poderes."
+  },
+  {
+    "pregunta": "El Gobierno es entendido como:",
+    "opciones": [
+      "La Constitución escrita de un Estado",
+      "La organización política internacional",
+      "La autoridad que dirige, controla y administra el Estado",
+      "Un poder subordinado al Legislativo"
+    ],
+    "correcta": 2,
+    "resolucion": "Es la conducción política general, principalmente el Poder Ejecutivo."
+  },
+  {
+    "pregunta": "La Monarquía absoluta se diferencia de la constitucional porque:",
+    "opciones": [
+      "Reconoce la supremacía del pueblo",
+      "Se somete al poder de la Constitución",
+      "Su poder proviene de la divinidad y está por encima del Estado",
+      "Está controlada por el parlamento"
+    ],
+    "correcta": 2,
+    "resolucion": "En la absoluta, el monarca es superior al propio Estado."
+  },
+  {
+    "pregunta": "La República democrática se caracteriza por:",
+    "opciones": [
+      "El predominio de una clase religiosa o militar",
+      "La participación de todos los ciudadanos en igualdad",
+      "La supremacía del monarca sobre las leyes",
+      "El poder exclusivo de una minoría"
+    ],
+    "correcta": 1,
+    "resolucion": "Se basa en el principio de igualdad en la vida política."
+  },
+  {
+    "pregunta": "La tiranía, según Aristóteles, es la deformación de:",
+    "opciones": [
+      "Democracia",
+      "Oligarquía",
+      "Monarquía",
+      "Aristocracia"
+    ],
+    "correcta": 2,
+    "resolucion": "La tiranía es el abuso del poder por parte de un gobernante único. "
+  },
+  {
+    "pregunta": "La demagogia es la deformación de la:",
+    "opciones": [
+      "Democracia",
+      "Oligarquía",
+      "Aristocracia",
+      "Monarquía"
+    ],
+    "correcta": 0,
+    "resolucion": "El gobernante halaga al pueblo para manipularlo en beneficio propio."
+  },
+  {
+    "pregunta": "El Gobierno de facto se caracteriza por:",
+    "opciones": [
+      "Ser elegido conforme a la Constitución",
+      "Ejercer el poder sin ajustarse a la Constitución",
+      "Basarse en un tratado internacional",
+      "Derivar de una revolución popular"
+    ],
+    "correcta": 1,
+    "resolucion": "No necesariamente usa la fuerza, pero no sigue los procedimientos constitucionales."
+  },
+  {
+    "pregunta": "El Gobierno Presidencialista se caracteriza por:",
+    "opciones": [
+      "Predominio del Legislativo",
+      "Predominio del Poder Ejecutivo",
+      "Fusión entre Legislativo y Ejecutivo",
+      "Ausencia de división de poderes"
+    ],
+    "correcta": 1,
+    "resolucion": "Aunque existe división de poderes, se da un mayor peso al Ejecutivo."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "6.1 Estado - P1",
+          "youtube_id": "X1-XwzqQ-2M",
+          "pdf_link": "https://drive.google.com/file/d/18QBDYfS3sswr_u6A8C2Qp9k--aMReD9v/view",
+          "gratis": true
+        },
+        {
+          "titulo": "6.2 Estado - P2",
+          "youtube_id": "bGiQ-0D6mN8",
+          "pdf_link": "https://drive.google.com/file/d/18QBDYfS3sswr_u6A8C2Qp9k--aMReD9v/view",
+          "gratis": false
+        },
+        {
+          "titulo": "6.3 Estado - P3",
+          "youtube_id": "QIZyM1FQ3rI",
+          "pdf_link": "https://drive.google.com/file/d/18QBDYfS3sswr_u6A8C2Qp9k--aMReD9v/view",
+          "gratis": true
+        },
+        {
+          "titulo": "6.4 Estado - P4",
+          "youtube_id": "OgIMRYbpE0U",
+          "pdf_link": "https://drive.google.com/file/d/18QBDYfS3sswr_u6A8C2Qp9k--aMReD9v/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 7: Constitución Política",
+      "preguntas": [
+        {
+    "pregunta": "La Constitución es denominada “fuente de fuentes” porque:",
+    "opciones": [
+      "Se deriva del derecho internacional",
+      "Establece la supremacía de la ley ordinaria",
+      "Es la cúspide del ordenamiento jurídico",
+      "Depende de tratados internacionales",
+      "Puede ser modificada por decretos de urgencia"
+    ],
+    "correcta": 2,
+    "resolucion": "La Constitución es la Ley Suprema, base de todas las demás normas."
+  },
+  {
+    "pregunta": "Según el artículo 51 de la Constitución peruana, ¿qué norma prevalece sobre todas las demás?",
+    "opciones": [
+      "La ley orgánica",
+      "El decreto legislativo",
+      "La Constitución",
+      "Los tratados internacionales",
+      "La ley ordinaria"
+    ],
+    "correcta": 2,
+    "resolucion": "El art. 51 señala que la Constitución prevalece sobre toda norma legal."
+  },
+  {
+    "pregunta": "La parte de la Constitución que declara los derechos fundamentales se denomina:",
+    "opciones": [
+      "Preámbulo",
+      "Parte dogmática",
+      "Parte orgánica",
+      "Cláusula de reforma",
+      "Declaración"
+    ],
+    "correcta": 1,
+    "resolucion": "En la parte dogmática se reconocen los derechos y garantías de los ciudadanos."
+  },
+  {
+    "pregunta": "La Constitución de 1993 fue elaborada por:",
+    "opciones": [
+      "Asamblea Constituyente de 1978",
+      "Congreso Constituyente Democrático",
+      "Parlamento bicameral",
+      "Comisión de reforma constitucional del 2000",
+      "Asamblea Nacional de 1979"
+    ],
+    "correcta": 1,
+    "resolucion": "Fue redactada por el Congreso Constituyente Democrático presidido por Jaime Yoshiyama."
+  },
+  {
+    "pregunta": "Cuando una Constitución puede ser modificada por un procedimiento legislativo ordinario, se le denomina:",
+    "opciones": [
+      "Rígida",
+      "Flexible",
+      "Originaria",
+      "Derivada",
+      "Consuetudinaria"
+    ],
+    "correcta": 1,
+    "resolucion": "Las constituciones flexibles no requieren un procedimiento especial para su reforma."
+  },
+  {
+    "pregunta": "Una Constitución que nace de la voluntad popular y es aceptada por el Rey como símbolo de esa voluntad, se denomina:",
+    "opciones": [
+      "Otorgada",
+      "Pactada",
+      "Popular",
+      "Rígida",
+      "Formal"
+    ],
+    "correcta": 2,
+    "resolucion": "Las constituciones populares expresan la soberanía del pueblo como poder constituyente."
+  },
+  {
+    "pregunta": "La clasificación de constituciones en normativas, nominales y semánticas corresponde a:",
+    "opciones": [
+      "Rousseau",
+      "Montesquieu",
+      "Loewenstein",
+      "Vattel",
+      "Hobbes"
+    ],
+    "correcta": 2,
+    "resolucion": "Loewenstein clasifica las constituciones según su eficacia real."
+  },
+  {
+    "pregunta": "El poder constituyente es originario porque:",
+    "opciones": [
+      "Se funda en tratados internacionales",
+      "Surge del derecho vigente",
+      "Emana de sí mismo y no de otro poder",
+      "Es creado por el poder legislativo",
+      "Depende del Congreso"
+    ],
+    "correcta": 2,
+    "resolucion": "Es originario porque no deriva de ninguna otra autoridad, sino del pueblo."
+  },
+  {
+    "pregunta": "Cuando el pueblo elige representantes para elaborar y aprobar la Constitución, se utiliza el mecanismo de:",
+    "opciones": [
+      "Referéndum",
+      "Convención o Asamblea Constituyente",
+      "Decreto Legislativo",
+      "Parlamento ordinario",
+      "Consejo de Ministros"
+    ],
+    "correcta": 1,
+    "resolucion": "La Asamblea Constituyente es un órgano extraordinario con la única función de redactar la Constitución."
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO pertenece a las partes de la Constitución del Perú?",
+    "opciones": [
+      "Preámbulo",
+      "Parte orgánica",
+      "Parte dogmática",
+      "Cláusula de reforma",
+      "Exposición de motivos"
+    ],
+    "correcta": 4,
+    "resolucion": "La exposición de motivos corresponde a leyes, no a la estructura de la Constitución."
+  },
+  {
+    "pregunta": "Un tratado internacional ratificado por el Perú se ubica en la jerarquía normativa:",
+    "opciones": [
+      "Por encima de la Constitución",
+      "Al mismo nivel que decretos de urgencia",
+      "Por debajo de la Constitución y al mismo nivel que la ley",
+      "Por encima de las leyes ordinarias y debajo de la Constitución",
+      "Por debajo de reglamentos ministeriales"
+    ],
+    "correcta": 3,
+    "resolucion": "Los tratados ocupan el segundo nivel, luego de la Constitución."
+  },
+  {
+    "pregunta": "El Decreto de Urgencia es válido siempre que:",
+    "opciones": [
+      "Sea emitido en cualquier materia",
+      "Modifique leyes ordinarias",
+      "Regule situaciones extraordinarias en materia económica y financiera",
+      "Sustituya a la Asamblea Constituyente",
+      "Sea aprobado solo por un Ministro"
+    ],
+    "correcta": 2,
+    "resolucion": "Los DU son excepcionales y solo en materia económica-financiera."
+  },
+  {
+    "pregunta": "Las resoluciones legislativas tienen rango de:",
+    "opciones": [
+      "Decreto",
+      "Ley",
+      "Reglamento",
+      "Acto administrativo",
+      "Resolución ministerial"
+    ],
+    "correcta": 1,
+    "resolucion": "Poseen fuerza de ley, aunque se refieren a asuntos específicos del Congreso."
+  },
+  {
+    "pregunta": "El acto administrativo tiene como característica principal:",
+    "opciones": [
+      "Ser abstracto y general",
+      "Producir efectos jurídicos inmediatos e individuales",
+      "Ser creado solo por el Congreso",
+      "Tener rango de ley",
+      "Estar por encima de los tratados"
+    ],
+    "correcta": 1,
+    "resolucion": "El acto administrativo genera efectos individuales inmediatos."
+  },
+  {
+    "pregunta": "La Constitución de 1993 fue aprobada mediante:",
+    "opciones": [
+      "Acuerdo parlamentario",
+      "Referéndum",
+      "Decreto supremo",
+      "Resolución legislativa",
+      "Proclama del Presidente"
+    ],
+    "correcta": 1,
+    "resolucion": "Entró en vigencia tras su aprobación por referéndum en 1993."
+  },
+  {
+    "pregunta": "Una Constitución que sigue modelos extranjeros y solo los adapta a las necesidades nacionales se denomina:",
+    "opciones": [
+      "Originaria",
+      "Derivada",
+      "Flexible",
+      "Rígida",
+      "Utilitaria"
+    ],
+    "correcta": 1,
+    "resolucion": "La derivada adapta modelos preexistentes."
+  },
+  {
+    "pregunta": "Cuando la Constitución no limita el poder, sino que lo perpetúa, se clasifica como:",
+    "opciones": [
+      "Nominal",
+      "Rígida",
+      "Normativa",
+      "Semántica",
+      "Popular"
+    ],
+    "correcta": 3,
+    "resolucion": "Una Constitución semántica es usada para consolidar el poder de los gobernantes."
+  },
+  {
+    "pregunta": "La pirámide normativa de Kelsen coloca en la cúspide:",
+    "opciones": [
+      "La ley ordinaria",
+      "El reglamento",
+      "La Constitución",
+      "Los actos administrativos",
+      "Los tratados internacionales"
+    ],
+    "correcta": 2,
+    "resolucion": "La Constitución es la norma suprema, fundamento del sistema jurídico. "
+  },
+  {
+    "pregunta": "El poder constituido se diferencia del poder constituyente porque es:",
+    "opciones": [
+      "Originario y creador",
+      "Derivado, ordinario y limitado",
+      "Extraordinario y absoluto",
+      "Ilimitado y autónomo",
+      "Encargado de elaborar la Constitución"
+    ],
+    "correcta": 1,
+    "resolucion": "El poder constituido deriva de la Constitución, es limitado y permanente."
+  },
+  {
+    "pregunta": "En la Constitución peruana, la cláusula de reforma garantiza:",
+    "opciones": [
+      "La supremacía de la ley ordinaria",
+      "La flexibilidad absoluta de la Constitución",
+      "La rigidez constitucional al establecer un procedimiento especial de modificación",
+      "La supremacía de los tratados sobre la Constitución",
+      "Que el Congreso legisle sin límites"
+    ],
+    "correcta": 2,
+    "resolucion": "La cláusula de reforma asegura la rigidez constitucional y establece cómo modificarla."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "7.1 Constitución - P1",
+          "youtube_id": "6g-QlqGxmYE",
+          "pdf_link": "https://drive.google.com/file/d/1lFhbzNMUAVpPoaKrhpxuAUB6UCLK64PC/view",
+          "gratis": true
+        },
+        {
+          "titulo": "7.2 Constitución - P2",
+          "youtube_id": "HhIjoOk7j_I",
+          "pdf_link": "https://drive.google.com/file/d/1lFhbzNMUAVpPoaKrhpxuAUB6UCLK64PC/view",
+          "gratis": false
+        },
+        {
+          "titulo": "7.3 Constitución - P3",
+          "youtube_id": "DlQyhte1myo",
+          "pdf_link": "https://drive.google.com/file/d/1lFhbzNMUAVpPoaKrhpxuAUB6UCLK64PC/view",
+          "gratis": true
+        },
+        {
+          "titulo": "7.4 Constitución - P4",
+          "youtube_id": "Ce_2Hcjwj-U",
+          "pdf_link": "https://drive.google.com/file/d/1lFhbzNMUAVpPoaKrhpxuAUB6UCLK64PC/view",
+          "gratis": false
+        },
+        {
+          "titulo": "7.5 Constitución - P5",
+          "youtube_id": "41iz0LtrKXs",
+          "pdf_link": "https://drive.google.com/file/d/1lFhbzNMUAVpPoaKrhpxuAUB6UCLK64PC/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 8: Derechos Civiles y Políticos",
+      "preguntas": [
+        {
+    "pregunta": "La Constitución es considerada:",
+    "opciones": [
+      "Una norma secundaria",
+      "Una ley ordinaria",
+      "La fuente de fuentes del Derecho",
+      "Un reglamento",
+      "Un acto administrativo"
+    ],
+    "correcta": 2,
+    "resolucion": "La Constitución es la norma suprema dentro del ordenamiento jurídico, todas las demás leyes y normas deben ajustarse a ella."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un elemento esencial del Estado?",
+    "opciones": [
+      "Cultura",
+      "Población",
+      "Educación",
+      "Economía",
+      "Religión"
+    ],
+    "correcta": 1,
+    "resolucion": "El Estado requiere población, territorio y poder (gobierno). La población es el conjunto de personas que lo conforman."
+  },
+  {
+    "pregunta": "La palabra \"nación\" proviene del latín:",
+    "opciones": [
+      "Civitas",
+      "Populus",
+      "Natio",
+      "Regnum",
+      "Status"
+    ],
+    "correcta": 2,
+    "resolucion": "“Natio” significa nacimiento o grupo de origen común, de allí deriva “nación” como comunidad cultural, histórica y social."
+  },
+  {
+    "pregunta": "La libertad es:",
+    "opciones": [
+      "La ausencia de leyes",
+      "Actuar conforme al instinto",
+      "La capacidad de autodeterminación consciente",
+      "Una obligación moral",
+      "La imposición de la mayoría"
+    ],
+    "correcta": 2,
+    "resolucion": "La libertad significa decidir y actuar de acuerdo a la propia conciencia, sin coacción ilegítima."
+  },
+  {
+    "pregunta": "La dignidad humana implica:",
+    "opciones": [
+      "Un privilegio otorgado por la sociedad",
+      "Una cualidad inherente a todo ser humano",
+      "Una norma legal positiva",
+      "Una característica solo de los ciudadanos",
+      "Una cualidad de la moral"
+    ],
+    "correcta": 1,
+    "resolucion": "La dignidad no depende de leyes ni concesiones, es parte esencial de la condición humana."
+  },
+  {
+    "pregunta": "Los valores cívicos sociales se entienden como:",
+    "opciones": [
+      "Normas penales",
+      "Ideas que orientan actos en beneficio común",
+      "Reglas administrativas",
+      "Principios económicos",
+      "Derechos subjetivos"
+    ],
+    "correcta": 1,
+    "resolucion": "Son ideales que guían la convivencia armónica y responsable en la sociedad."
+  },
+  {
+    "pregunta": "¿Cuál de estos es un valor cívico-social?",
+    "opciones": [
+      "Egoísmo",
+      "Justicia",
+      "Desigualdad",
+      "Odio",
+      "Desobediencia"
+    ],
+    "correcta": 1,
+    "resolucion": "La justicia orienta la vida comunitaria hacia la equidad, el respeto y el cumplimiento de normas."
+  },
+  {
+    "pregunta": "El respeto como valor tiene como sinónimo:",
+    "opciones": [
+      "Desprecio – burla",
+      "Atención – consideración",
+      "Rebeldía – libertad",
+      "Egoísmo – interés",
+      "Odio – rencor"
+    ],
+    "correcta": 1,
+    "resolucion": "Respetar implica reconocer al otro, valorarlo y actuar con miramiento hacia su dignidad."
+  },
+  {
+    "pregunta": "La ley es considerada:",
+    "opciones": [
+      "Norma jurídica dictada por el Parlamento",
+      "Cualquier disposición administrativa",
+      "Una orden religiosa",
+      "Un principio moral",
+      "Un reglamento local"
+    ],
+    "correcta": 0,
+    "resolucion": "La ley es una norma de carácter general, obligatoria y creada por el órgano legislativo."
+  },
+  {
+    "pregunta": "¿Qué diferencia al derecho de la moral?",
+    "opciones": [
+      "Que ambos son jurídicos",
+      "El derecho es coercible y la moral no",
+      "La moral se impone por sanciones legales",
+      "El derecho es interior y la moral exterior",
+      "Ninguna diferencia"
+    ],
+    "correcta": 1,
+    "resolucion": "El derecho puede ser exigido por la fuerza, mientras que la moral se cumple por conciencia."
+  },
+  {
+    "pregunta": "La familia se entiende como:",
+    "opciones": [
+      "Una creación de la ley positiva",
+      "Una institución natural y social",
+      "Una obligación estatal",
+      "Una forma económica",
+      "Un contrato mercantil"
+    ],
+    "correcta": 1,
+    "resolucion": "La familia surge de la naturaleza y vínculos afectivos, no es creada por el derecho sino reconocida por él."
+  },
+  {
+    "pregunta": "El territorio es un elemento del Estado porque:",
+    "opciones": [
+      "Permite la cultura",
+      "Delimita el espacio donde ejerce soberanía",
+      "Genera riqueza",
+      "Representa el nacionalismo",
+      "Sustituye al gobierno"
+    ],
+    "correcta": 1,
+    "resolucion": "El territorio fija el ámbito espacial donde el Estado ejerce autoridad."
+  },
+  {
+    "pregunta": "La soberanía es:",
+    "opciones": [
+      "Poder supremo del pueblo y del Estado",
+      "Una norma religiosa",
+      "Una ley secundaria",
+      "Un derecho privado",
+      "Una costumbre social"
+    ],
+    "correcta": 0,
+    "resolucion": "La soberanía permite decidir libremente sus normas y destino político sin subordinación externa."
+  },
+  {
+    "pregunta": "El Estado peruano es:",
+    "opciones": [
+      "Monárquico",
+      "Federal",
+      "Unitario y representativo",
+      "Confederado",
+      "Absolutista"
+    ],
+    "correcta": 2,
+    "resolucion": "El Perú se organiza en un solo Estado (unitario), con autoridades elegidas por representación democrática."
+  },
+  {
+    "pregunta": "El poder del Estado que se encarga de crear leyes es:",
+    "opciones": [
+      "Ejecutivo",
+      "Judicial",
+      "Legislativo",
+      "Constitucional",
+      "Electoral"
+    ],
+    "correcta": 2,
+    "resolucion": "El Congreso elabora, modifica y deroga leyes dentro del sistema democrático."
+  },
+  {
+    "pregunta": "El derecho público se caracteriza por:",
+    "opciones": [
+      "Regular relaciones entre particulares",
+      "Regular relaciones entre Estado y particulares",
+      "Carecer de coercibilidad",
+      "Ser voluntario",
+      "Ser moral"
+    ],
+    "correcta": 1,
+    "resolucion": "El derecho público regula cómo actúa el Estado y sus vínculos con los ciudadanos."
+  },
+  {
+    "pregunta": "El derecho privado regula principalmente:",
+    "opciones": [
+      "Relaciones internacionales",
+      "Relaciones entre particulares",
+      "El poder estatal",
+      "La función pública",
+      "El derecho constitucional"
+    ],
+    "correcta": 1,
+    "resolucion": "Se centra en normas de contratos, propiedad, familia y comercio."
+  },
+  {
+    "pregunta": "La supremacía constitucional significa que:",
+    "opciones": [
+      "La Constitución está por debajo de las leyes",
+      "Ninguna norma puede contradecirla",
+      "Es solo una norma política",
+      "Depende de tratados internacionales",
+      "Tiene el mismo valor que un reglamento"
+    ],
+    "correcta": 1,
+    "resolucion": "Toda norma jurídica debe adecuarse a la Constitución; de lo contrario, es inconstitucional."
+  },
+  {
+    "pregunta": "El Tribunal Constitucional en el Perú se encarga de:",
+    "opciones": [
+      "Dictar leyes",
+      "Administrar justicia ordinaria",
+      "Controlar la constitucionalidad de las normas",
+      "Organizar elecciones",
+      "Gobernar el país"
+    ],
+    "correcta": 2,
+    "resolucion": "El Tribunal Constitucional es el máximo intérprete de la Constitución y resuelve procesos constitucionales."
+  },
+  {
+    "pregunta": "El principio de igualdad implica que:",
+    "opciones": [
+      "Todos los ciudadanos son idénticos",
+      "Todos tienen los mismos derechos y deberes ante la ley",
+      "No existen diferencias biológicas",
+      "La justicia es subjetiva",
+      "El Estado no regula nada"
+    ],
+    "correcta": 1,
+    "resolucion": "La igualdad jurídica asegura que nadie reciba privilegios ni discriminación en la aplicación de las normas."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "8.1 - Parte 1",
+          "youtube_id": "-D2wEbYw7sU",
+          "pdf_link": "https://drive.google.com/file/d/1i3kfvIgHzU8BXJHHwoFiDwnbgBT4U4Ow/view",
+          "gratis": true
+        },
+        {
+          "titulo": "8.2 - Parte 2",
+          "youtube_id": "403DhQimKcU",
+          "pdf_link": "https://drive.google.com/file/d/1i3kfvIgHzU8BXJHHwoFiDwnbgBT4U4Ow/view",
+          "gratis": false
+        },
+        {
+          "titulo": "8.3 - Parte 3",
+          "youtube_id": "xD4Hhc3nyhI",
+          "pdf_link": "https://drive.google.com/file/d/1i3kfvIgHzU8BXJHHwoFiDwnbgBT4U4Ow/view",
+          "gratis": true
+        },
+        {
+          "titulo": "8.4 - Parte 4",
+          "youtube_id": "uR7UznPINUc",
+          "pdf_link": "https://drive.google.com/file/d/1i3kfvIgHzU8BXJHHwoFiDwnbgBT4U4Ow/view",
+          "gratis": false
+        },
+        {
+          "titulo": "8.5 - Parte 5",
+          "youtube_id": "f14QeBGygLo",
+          "pdf_link": "https://drive.google.com/file/d/1i3kfvIgHzU8BXJHHwoFiDwnbgBT4U4Ow/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 9: Derechos Económicos y Culturales",
+      "preguntas": [
+        {
+    "pregunta": "Los derechos económicos, sociales y culturales buscan principalmente:",
+    "opciones": [
+      "Fortalecer al Estado frente a otros países",
+      "Garantizar privilegios a grupos sociales",
+      "Equilibrar las desigualdades sociales",
+      "Restringir el derecho a la propiedad",
+      "Limitar la participación ciudadana"
+    ],
+    "correcta": 2,
+    "resolucion": "Estos derechos permiten que toda persona acceda a condiciones mínimas de bienestar, superando desventajas económicas o sociales."
+  },
+  {
+    "pregunta": "¿Cuál es el fundamento básico de todos los derechos humanos?",
+    "opciones": [
+      "El progreso social",
+      "La dignidad humana",
+      "La igualdad de oportunidades",
+      "El desarrollo económico",
+      "La solidaridad"
+    ],
+    "correcta": 1,
+    "resolucion": "La dignidad es el valor intrínseco de toda persona, y sobre ella se construyen tanto los derechos civiles como los sociales y económicos."
+  },
+  {
+    "pregunta": "El artículo 22 de la Constitución del Perú reconoce que el trabajo es:",
+    "opciones": [
+      "Un derecho solamente",
+      "Un deber únicamente",
+      "Un deber y un derecho",
+      "Una obligación económica",
+      "Un beneficio del empleador"
+    ],
+    "correcta": 2,
+    "resolucion": "El trabajo es base del bienestar social y medio de realización personal, reconocido como deber y derecho constitucional."
+  },
+  {
+    "pregunta": "El derecho a una remuneración suficiente se encuentra en el artículo:",
+    "opciones": [
+      "22",
+      "23",
+      "24",
+      "25",
+      "26"
+    ],
+    "correcta": 2,
+    "resolucion": "El artículo 24 establece el derecho a una remuneración justa que asegure bienestar material y espiritual para el trabajador y su familia."
+  },
+  {
+    "pregunta": "El principio de \"irrenunciabilidad de derechos laborales\" significa que:",
+    "opciones": [
+      "El trabajador puede vender sus derechos",
+      "El Estado puede reducir derechos en crisis",
+      "Los derechos reconocidos no pueden cederse ni anularse",
+      "Solo aplican a los empleados públicos",
+      "Son negociables mediante contratos privados"
+    ],
+    "correcta": 2,
+    "resolucion": "Ningún trabajador puede renunciar a los derechos establecidos en la Constitución y la ley."
+  },
+  {
+    "pregunta": "El derecho de sindicación, negociación colectiva y huelga está en el artículo:",
+    "opciones": [
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "correcta": 2,
+    "resolucion": "Este artículo reconoce la libertad sindical y regula la huelga para garantizar un equilibrio entre derechos laborales e interés social."
+  },
+  {
+    "pregunta": "El derecho a participar en las utilidades de la empresa corresponde al artículo:",
+    "opciones": [
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "correcta": 3,
+    "resolucion": "El artículo 29 reconoce la participación del trabajador en utilidades y fomenta otras formas de participación en la empresa."
+  },
+  {
+    "pregunta": "El derecho a la salud en el Perú está garantizado en el artículo:",
+    "opciones": [
+      "5",
+      "6",
+      "7",
+      "9",
+      "11"
+    ],
+    "correcta": 2,
+    "resolucion": "El artículo 7 reconoce el derecho a la protección de la salud individual, familiar y comunitaria."
+  },
+  {
+    "pregunta": "Los 4 criterios que el Estado debe garantizar en el derecho a la salud son:",
+    "opciones": [
+      "Igualdad, equidad, justicia y solidaridad",
+      "Disponibilidad, accesibilidad, aceptabilidad y calidad",
+      "Libertad, equidad, eficacia y eficiencia",
+      "Universalidad, gratuidad, legalidad y control",
+      "Ninguna de las anteriores"
+    ],
+    "correcta": 1,
+    "resolucion": "Estos son los pilares internacionales para garantizar la cobertura de salud de forma integral y equitativa."
+  },
+  {
+    "pregunta": "El artículo 13 de la Constitución reconoce como finalidad de la educación:",
+    "opciones": [
+      "Preparar para la vida laboral exclusivamente",
+      "Garantizar igualdad económica",
+      "El desarrollo integral de la persona humana",
+      "Formar ciudadanos productivos",
+      "Mantener la tradición cultural"
+    ],
+    "correcta": 2,
+    "resolucion": "La educación busca la formación completa de la persona en valores, conocimientos y capacidades."
+  },
+  {
+    "pregunta": "La educación primaria y secundaria en el Perú es:",
+    "opciones": [
+      "Facultativa",
+      "Gratuita y obligatoria",
+      "Solo gratuita",
+      "Opcional",
+      "Privilegio estatal"
+    ],
+    "correcta": 1,
+    "resolucion": "El artículo 17 establece que la educación inicial, primaria y secundaria son obligatorias y gratuitas en instituciones estatales."
+  },
+  {
+    "pregunta": "El artículo que garantiza la autonomía universitaria es el:",
+    "opciones": [
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "correcta": 2,
+    "resolucion": "El artículo 18 reconoce la autonomía normativa, académica, administrativa y económica de las universidades."
+  },
+  {
+    "pregunta": "Según el artículo 19, las universidades e institutos educativos gozan de:",
+    "opciones": [
+      "Subsidios estatales ilimitados",
+      "Exoneración de impuestos",
+      "Autonomía política",
+      "Fondos privados garantizados",
+      "Financiamiento internacional obligatorio"
+    ],
+    "correcta": 1,
+    "resolucion": "No se les aplica impuestos directos ni indirectos sobre bienes y actividades vinculados a su finalidad educativa."
+  },
+  {
+    "pregunta": "El Pacto Internacional de Derechos Económicos, Sociales y Culturales (PIDESC) entró en vigor en:",
+    "opciones": [
+      "1960",
+      "1966",
+      "1973",
+      "1976",
+      "1980"
+    ],
+    "correcta": 3,
+    "resolucion": "El PIDESC fue adoptado en 1966 y entró en vigor el 3 de enero de 1976."
+  },
+  {
+    "pregunta": "El Protocolo de San Salvador se centra en:",
+    "opciones": [
+      "Derechos políticos",
+      "Derechos de propiedad",
+      "Derechos económicos, sociales y culturales",
+      "Derechos penales",
+      "Derechos internacionales"
+    ],
+    "correcta": 2,
+    "resolucion": "Este protocolo complementa la Convención Americana sobre Derechos Humanos en materia social y cultural."
+  },
+  {
+    "pregunta": "Según el Protocolo de San Salvador, el derecho a la salud se entiende como:",
+    "opciones": [
+      "Acceso gratuito a hospitales",
+      "El disfrute del más alto nivel de bienestar físico, mental y social",
+      "La ausencia de enfermedades",
+      "Una obligación familiar",
+      "Un derecho solo para trabajadores formales"
+    ],
+    "correcta": 1,
+    "resolucion": "La salud se concibe integralmente, más allá de la ausencia de enfermedad."
+  },
+  {
+    "pregunta": "La seguridad social en la Constitución está reconocida en el artículo:",
+    "opciones": [
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correcta": 2,
+    "resolucion": "El artículo 10 establece el derecho universal y progresivo a la seguridad social para afrontar contingencias y mejorar la calidad de vida."
+  },
+  {
+    "pregunta": "El artículo 11 garantiza el acceso a:",
+    "opciones": [
+      "Educación universitaria gratuita",
+      "Prestaciones de salud y pensiones",
+      "Subsidios de vivienda",
+      "Créditos laborales",
+      "Ninguna de las anteriores"
+    ],
+    "correcta": 1,
+    "resolucion": "Este artículo garantiza libre acceso a servicios de salud y pensiones, administrados por entidades públicas, privadas o mixtas."
+  },
+  {
+    "pregunta": "El Estado tiene el deber de promover la integración armónica de todos los sectores de la Nación porque:",
+    "opciones": [
+      "Favorece la globalización",
+      "Facilita el control político",
+      "Garantiza el derecho a participar con igualdad de oportunidades",
+      "Mejora la economía exclusivamente",
+      "Obliga a la descentralización"
+    ],
+    "correcta": 2,
+    "resolucion": "Esto se vincula con la función del Estado de buscar el bien común y la cohesión social."
+  },
+  {
+    "pregunta": "Los derechos económicos, sociales y culturales están principalmente orientados a:",
+    "opciones": [
+      "Proteger a las empresas",
+      "Garantizar la estabilidad política",
+      "Asegurar el bienestar material y espiritual de la persona",
+      "Reforzar la autoridad del Estado",
+      "Limitar los derechos civiles y políticos"
+    ],
+    "correcta": 2,
+    "resolucion": "Buscan que cada individuo pueda desarrollarse plenamente en igualdad de condiciones."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "9.1 - Parte 1",
+          "youtube_id": "DvzuNvlNyp4",
+          "pdf_link": "https://drive.google.com/file/d/1U6EGKSI_JYRtBo6TtUbwmM8JWly4tevG/view",
+          "gratis": true
+        },
+        {
+          "titulo": "9.2 - Parte 2",
+          "youtube_id": "muOqcPT-lNY",
+          "pdf_link": "https://drive.google.com/file/d/1U6EGKSI_JYRtBo6TtUbwmM8JWly4tevG/view",
+          "gratis": false
+        },
+        {
+          "titulo": "9.3 - Parte 3",
+          "youtube_id": "gu_JZqN5V2c",
+          "pdf_link": "https://drive.google.com/file/d/1U6EGKSI_JYRtBo6TtUbwmM8JWly4tevG/view",
+          "gratis": true
+        },
+        {
+          "titulo": "9.4 - Parte 4",
+          "youtube_id": "PTjDZwEvS1g",
+          "pdf_link": "https://drive.google.com/file/d/1U6EGKSI_JYRtBo6TtUbwmM8JWly4tevG/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 10: Poder Legislativo",
+      "preguntas": [
+        {
+    "pregunta": "¿Qué es el Poder Legislativo?",
+    "opciones": [
+      "La facultad del Estado para administrar justicia",
+      "La facultad del Estado para legislar, controlar y representar",
+      "El organismo encargado de ejecutar las leyes",
+      "El conjunto de los poderes públicos",
+      "Ninguna de las anteriores"
+    ],
+    "correcta": 1,
+    "resolucion": "El Poder Legislativo dicta, modifica, interpreta y deroga leyes; además fiscaliza y representa a la Nación."
+  },
+  {
+    "pregunta": "¿En qué órgano reside el Poder Legislativo en el Perú?",
+    "opciones": [
+      "El Presidente de la República",
+      "El Congreso de la República",
+      "El Poder Judicial",
+      "Los Gobiernos Regionales",
+      "La Corte Suprema"
+    ],
+    "correcta": 1,
+    "resolucion": "Según el artículo 90 de la Constitución de 1993, el Poder Legislativo reside en el Congreso. "
+  },
+  {
+    "pregunta": "Diferencia entre Poder Legislativo y Congreso de la República:",
+    "opciones": [
+      "Son exactamente lo mismo",
+      "El Congreso es una institución y el Poder Legislativo es una función del Estado",
+      "El Congreso dicta decretos ley y el Legislativo las interpreta",
+      "El Legislativo pertenece al Ejecutivo",
+      "El Legislativo es un órgano del Poder Judicial"
+    ],
+    "correcta": 1,
+    "resolucion": "El Congreso ejerce la función legislativa, pero el Poder Legislativo es una facultad del Estado."
+  },
+  {
+    "pregunta": "¿Qué artículo de la Constitución precisa que el poder legislativo reside en el Congreso?",
+    "opciones": [
+      "Artículo 102",
+      "Artículo 108",
+      "Artículo 91",
+      "Artículo 90-A",
+      "Artículo 109"
+    ],
+    "correcta": 2,
+    "resolucion": "El artículo 91 establece expresamente que el poder legislativo reside en el Congreso."
+  },
+  {
+    "pregunta": "Además del Congreso, ¿qué otras entidades pueden emitir normas con rango de ley?",
+    "opciones": [
+      "Solo el Presidente de la República",
+      "Gobiernos Regionales, Gobiernos Locales y el Presidente de la República",
+      "Solo el Poder Judicial",
+      "Gobiernos Locales únicamente",
+      "Ninguno"
+    ],
+    "correcta": 1,
+    "resolucion": "El Presidente dicta decretos de urgencia y legislativos; los gobiernos regionales dictan normas generales y los locales, ordenanzas."
+  },
+  {
+    "pregunta": "La función legislativa implica varias fases. ¿Cuál corresponde a la iniciativa?",
+    "opciones": [
+      "Deliberación y aprobación en el Congreso",
+      "Presentación de proyectos de ley por órganos autorizados",
+      "Publicación en El Peruano",
+      "Promulgación por el Presidente de la República",
+      "Dictamen por comisiones investigadoras"
+    ],
+    "correcta": 1,
+    "resolucion": "La fase introductoria es la iniciativa legislativa, que en el Perú puede ser del Ejecutivo, Legislativo, Poder Judicial, gobiernos, colegios profesionales y ciudadanos."
+  },
+  {
+    "pregunta": "En el Perú, la iniciativa legislativa popular requiere:",
+    "opciones": [
+      "1% de la población electoral",
+      "0.5% de la población electoral",
+      "0.3% de la población electoral",
+      "2% de la población electoral",
+      "Ninguna"
+    ],
+    "correcta": 2,
+    "resolucion": "Ese es el requisito fijado por la Constitución para que los ciudadanos presenten proyectos de ley."
+  },
+  {
+    "pregunta": "La fase constitutiva de la función legislativa corresponde a:",
+    "opciones": [
+      "Presentación del proyecto de ley",
+      "Estudio, dictamen y aprobación en el Congreso",
+      "Publicación en el diario oficial",
+      "Observación presidencial",
+      "Control político"
+    ],
+    "correcta": 1,
+    "resolucion": "Aquí se analizan los proyectos en comisiones y luego son aprobados por el Pleno."
+  },
+  {
+    "pregunta": "¿Qué tipo de mayoría se requiere para aprobar leyes ordinarias en el Perú?",
+    "opciones": [
+      "Dos tercios del Congreso",
+      "Mayoría absoluta",
+      "Mayoría calificada",
+      "Mayoría simple",
+      "Ninguna"
+    ],
+    "correcta": 3,
+    "resolucion": "Las leyes ordinarias requieren más votos a favor que en contra de los congresistas presentes."
+  },
+  {
+    "pregunta": "La promulgación de una ley corresponde a:",
+    "opciones": [
+      "El Presidente del Consejo de Ministros",
+      "El Presidente del Congreso",
+      "El Presidente de la República",
+      "La Corte Suprema",
+      "El Defensor del Pueblo"
+    ],
+    "correcta": 2,
+    "resolucion": "Es el encargado de promulgar la ley aprobada por el Congreso; si no lo hace, lo hace el Presidente del Congreso."
+  },
+  {
+    "pregunta": "La publicación de la ley en el diario oficial es importante porque:",
+    "opciones": [
+      "Permite su interpretación",
+      "Da inicio a su vigencia",
+      "Refuerza su constitucionalidad",
+      "Anula las anteriores",
+      "Ninguna"
+    ],
+    "correcta": 1,
+    "resolucion": "La publicación en El Peruano es requisito esencial para que la ley entre en vigor (art. 109)."
+  },
+  {
+    "pregunta": "La función de control del Congreso se ejerce mediante:",
+    "opciones": [
+      "Juicios políticos únicamente",
+      "Preguntas, interpelaciones, comisiones investigadoras e informes",
+      "Solo mediante la Contraloría",
+      "El Tribunal Constitucional",
+      "Ninguna"
+    ],
+    "correcta": 1,
+    "resolucion": "Son mecanismos de control político reconocidos en la Constitución."
+  },
+  {
+    "pregunta": "El Congreso del Perú es de tipo:",
+    "opciones": [
+      "Bicameral",
+      "Tricameral",
+      "Unicameral",
+      "Mixto",
+      "Ninguno"
+    ],
+    "correcta": 2,
+    "resolucion": "Desde la Constitución de 1993, el Perú tiene un Congreso unicameral con 130 miembros."
+  },
+  {
+    "pregunta": "Una ventaja del unicameralismo es:",
+    "opciones": [
+      "Mayor discusión legislativa",
+      "Celeridad y ahorro de recursos",
+      "Evita normas inconstitucionales",
+      "Más independencia del Ejecutivo",
+      "Todas las anteriores"
+    ],
+    "correcta": 1,
+    "resolucion": "Con una sola cámara, las leyes se aprueban más rápido y con menor gasto."
+  },
+  {
+    "pregunta": "Una desventaja del unicameralismo es:",
+    "opciones": [
+      "Permite mayor pluralidad política",
+      "Fortalece el control legislativo",
+      "Puede generar normas poco debatidas e inconstitucionales",
+      "Reduce la burocracia",
+      "Refuerza la fiscalización"
+    ],
+    "correcta": 2,
+    "resolucion": "La ausencia de una cámara revisora disminuye la calidad del debate legislativo."
+  },
+  {
+    "pregunta": "¿Quién compone la Mesa Directiva del Congreso?",
+    "opciones": [
+      "El Presidente y dos vicepresidentes",
+      "El Presidente y tres vicepresidentes",
+      "El Presidente y cuatro vicepresidentes",
+      "Solo el Presidente",
+      "Ninguno"
+    ],
+    "correcta": 1,
+    "resolucion": "Dirigen los debates, la administración y la representación del Congreso."
+  },
+  {
+    "pregunta": "¿Cuántos congresistas integran actualmente el Congreso del Perú?",
+    "opciones": [
+      "100",
+      "110",
+      "120",
+      "130",
+      "150"
+    ],
+    "correcta": 3,
+    "resolucion": "Según la Constitución vigente, el Congreso está compuesto por 130 parlamentarios. "
+  },
+  {
+    "pregunta": "¿Qué órgano cumple funciones legislativas en receso parlamentario?",
+    "opciones": [
+      "Consejo Directivo",
+      "Junta de Portavoces",
+      "Comisión Permanente",
+      "Mesa Directiva",
+      "Ninguna"
+    ],
+    "correcta": 2,
+    "resolucion": "Asume funciones durante el receso y tiene atribuciones constitucionales específicas."
+  },
+  {
+    "pregunta": "La interpelación es:",
+    "opciones": [
+      "Una sanción contra los ministros",
+      "La facultad del Congreso para citar obligatoriamente a ministros a responder preguntas",
+      "Una votación de censura directa",
+      "Una moción de confianza",
+      "Ninguna"
+    ],
+    "correcta": 1,
+    "resolucion": "Es un mecanismo de control político que puede derivar en censura o cuestión de confianza."
+  },
+  {
+    "pregunta": "El mandato parlamentario dura:",
+    "opciones": [
+      "4 años",
+      "5 años",
+      "6 años",
+      "7 años",
+      "10 años"
+    ],
+    "correcta": 1,
+    "resolucion": "El período parlamentario coincide con el del Presidente de la República, y no permite reelección inmediata (art. 90-A)."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "10.1 Legislativo - P1",
+          "youtube_id": "pvyFbmIsxfg",
+          "pdf_link": "https://drive.google.com/file/d/1jc9NBlMgd7FSB3C0ZYxWclq_nb53AVBp/view",
+          "gratis": true
+        },
+        {
+          "titulo": "10.2 Legislativo - P2",
+          "youtube_id": "mgmm3ymJfHM",
+          "pdf_link": "https://drive.google.com/file/d/1jc9NBlMgd7FSB3C0ZYxWclq_nb53AVBp/view",
+          "gratis": false
+        },
+        {
+          "titulo": "10.3 Legislativo - P3",
+          "youtube_id": "ZdcHPLFCs2o",
+          "pdf_link": "https://drive.google.com/file/d/1jc9NBlMgd7FSB3C0ZYxWclq_nb53AVBp/view",
+          "gratis": true
+        },
+        {
+          "titulo": "10.4 Legislativo - P4",
+          "youtube_id": "0-y3QbJwfvc",
+          "pdf_link": "https://drive.google.com/file/d/1jc9NBlMgd7FSB3C0ZYxWclq_nb53AVBp/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 11: Poder Ejecutivo",
+      "preguntas": [
+        {
+    "pregunta": "El Poder Ejecutivo está conformado por:",
+    "opciones": [
+      "El Presidente de la República, Vicepresidentes y Congreso.",
+      "El Presidente de la República y Consejo de Ministros.",
+      "Solo por el Presidente de la República.",
+      "Consejo de Ministros y Asamblea Nacional.",
+      "Presidente y Poder Judicial."
+    ],
+    "correcta": 1,
+    "resolucion": "El Presidente de la República y Consejo de Ministros. "
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es función del Presidente como Jefe de Estado?",
+    "opciones": [
+      "Representar al Estado dentro y fuera del país.",
+      "Dirigir la política general del Gobierno.",
+      "Presidir el Sistema de Defensa Nacional.",
+      "Cumplir y hacer cumplir la Constitución.",
+      "Administrar la hacienda pública."
+    ],
+    "correcta": 1,
+    "resolucion": "Dirigir la política general del Gobierno. (Esa es función como Jefe de Gobierno, no de Estado)."
+  },
+  {
+    "pregunta": "Para postular a la Presidencia de la República se requiere:",
+    "opciones": [
+      "Ser peruano, 30 años, ciudadano en ejercicio.",
+      "Ser peruano por nacimiento, 25 años y ciudadano en ejercicio.",
+      "Ser peruano por nacimiento, 35 años y derecho de sufragio.",
+      "Ser peruano naturalizado, 40 años y con educación superior.",
+      "Ser peruano por nacimiento, 30 años y casado."
+    ],
+    "correcta": 2,
+    "resolucion": "Ser peruano por nacimiento, 35 años y derecho de sufragio."
+  },
+  {
+    "pregunta": "El periodo presidencial en el Perú es de:",
+    "opciones": [
+      "4 años sin reelección.",
+      "5 años con reelección inmediata.",
+      "5 años sin reelección inmediata.",
+      "6 años sin reelección inmediata.",
+      "7 años con reelección alternada."
+    ],
+    "correcta": 2,
+    "resolucion": "5 años sin reelección inmediata."
+  },
+  {
+    "pregunta": "Si ningún candidato presidencial alcanza mayoría absoluta en primera vuelta:",
+    "opciones": [
+      "El Congreso elige al Presidente.",
+      "Se convoca a nueva elección entre los 3 primeros.",
+      "Se convoca a segunda vuelta entre los 2 más votados.",
+      "Asume el Primer Vicepresidente.",
+      "Se declara nulo el proceso electoral."
+    ],
+    "correcta": 2,
+    "resolucion": "Se convoca a segunda vuelta entre los 2 más votados."
+  },
+  {
+    "pregunta": "El Presidente presta juramento y asume el cargo el:",
+    "opciones": [
+      "15 de julio del año electoral.",
+      "28 de julio del año electoral.",
+      "29 de julio del año electoral.",
+      "1 de enero posterior a la elección.",
+      "28 de agosto del año electoral."
+    ],
+    "correcta": 1,
+    "resolucion": "28 de julio del año electoral."
+  },
+  {
+    "pregunta": "Una atribución del Presidente de la República es:",
+    "opciones": [
+      "Dictar sentencias judiciales.",
+      "Aprobar leyes sin participación del Congreso.",
+      "Conceder indultos y derecho de gracia.",
+      "Convocar referéndums directamente.",
+      "Modificar la Constitución sin consulta."
+    ],
+    "correcta": 2,
+    "resolucion": "Conceder indultos y derecho de gracia."
+  },
+  {
+    "pregunta": "¿Quién asume la Presidencia en caso de impedimento temporal del Presidente?",
+    "opciones": [
+      "Presidente del Congreso.",
+      "Presidente del Poder Judicial.",
+      "Primer Vicepresidente.",
+      "Segundo Vicepresidente.",
+      "Ministro de Defensa."
+    ],
+    "correcta": 2,
+    "resolucion": "Primer Vicepresidente."
+  },
+  {
+    "pregunta": "Según la Constitución, la Presidencia vaca por:",
+    "opciones": [
+      "Sanción administrativa del Congreso.",
+      "Declaración de incapacidad moral o física.",
+      "Renuncia del Primer Ministro.",
+      "Pérdida de confianza del Legislativo.",
+      "Acusación del Jurado Nacional de Elecciones."
+    ],
+    "correcta": 1,
+    "resolucion": "Declaración de incapacidad moral o física."
+  },
+  {
+    "pregunta": "Durante su mandato, el Presidente solo puede ser acusado por:",
+    "opciones": [
+      "Abuso de autoridad.",
+      "Corrupción de funcionarios.",
+      "Traición a la patria.",
+      "Incumplimiento de promesas electorales.",
+      "Malversación de fondos."
+    ],
+    "correcta": 2,
+    "resolucion": "Traición a la patria."
+  },
+  {
+    "pregunta": "El Consejo de Ministros está conformado por:",
+    "opciones": [
+      "12 ministerios y un Primer Ministro.",
+      "18 ministerios y un Primer Ministro.",
+      "15 ministerios y dos Vicepresidentes.",
+      "18 ministerios y el Presidente de la República.",
+      "20 ministerios sin Premier."
+    ],
+    "correcta": 1,
+    "resolucion": "18 ministerios y un Primer Ministro. "
+  },
+  {
+    "pregunta": "Para ser ministro de Estado se requiere:",
+    "opciones": [
+      "Ser ciudadano en ejercicio y tener 21 años.",
+      "Ser peruano de nacimiento y tener 25 años.",
+      "Ser peruano naturalizado y 35 años.",
+      "Ser peruano de nacimiento y 30 años.",
+      "Ser ciudadano en ejercicio y 28 años."
+    ],
+    "correcta": 1,
+    "resolucion": "Ser peruano de nacimiento y tener 25 años."
+  },
+  {
+    "pregunta": "Los actos del Presidente de la República carecen de validez si:",
+    "opciones": [
+      "No cuentan con refrendación ministerial.",
+      "No son aprobados por el Congreso.",
+      "No tienen respaldo popular.",
+      "No son publicados en El Peruano.",
+      "No pasan por el Jurado Nacional de Elecciones."
+    ],
+    "correcta": 0,
+    "resolucion": "No cuentan con refrendación ministerial."
+  },
+  {
+    "pregunta": "¿Qué ocurre si el Congreso niega la cuestión de confianza a dos gabinetes?",
+    "opciones": [
+      "El Congreso se suspende.",
+      "El Presidente convoca a elecciones presidenciales.",
+      "El Presidente disuelve el Congreso.",
+      "El Congreso puede vacar al Presidente.",
+      "Los ministros continúan en funciones."
+    ],
+    "correcta": 2,
+    "resolucion": "El Presidente disuelve el Congreso."
+  },
+  {
+    "pregunta": "Durante el estado de emergencia pueden restringirse los derechos relativos a:",
+    "opciones": [
+      "Propiedad y libertad de prensa.",
+      "Libertad personal, reunión, tránsito y domicilio.",
+      "Derecho al trabajo y salud.",
+      "Derecho de sufragio y educación.",
+      "Nacionalidad y ciudadanía."
+    ],
+    "correcta": 1,
+    "resolucion": "Libertad personal, reunión, tránsito y domicilio."
+  },
+  {
+    "pregunta": "El plazo máximo del estado de emergencia es:",
+    "opciones": [
+      "30 días.",
+      "45 días.",
+      "60 días.",
+      "90 días.",
+      "Indefinido."
+    ],
+    "correcta": 2,
+    "resolucion": "60 días."
+  },
+  {
+    "pregunta": "El estado de sitio se declara en casos de:",
+    "opciones": [
+      "Desastres naturales.",
+      "Guerra exterior o guerra civil.",
+      "Crisis económica.",
+      "Pandemias.",
+      "Protestas sociales."
+    ],
+    "correcta": 1,
+    "resolucion": "Guerra exterior o guerra civil."
+  },
+  {
+    "pregunta": "El plazo máximo del estado de sitio es:",
+    "opciones": [
+      "15 días.",
+      "30 días.",
+      "45 días.",
+      "60 días.",
+      "90 días."
+    ],
+    "correcta": 2,
+    "resolucion": "45 días."
+  },
+  {
+    "pregunta": "¿Qué órgano se mantiene en funciones cuando el Congreso es disuelto?",
+    "opciones": [
+      "Consejo de Estado.",
+      "Consejo de Ministros.",
+      "Comisión Permanente.",
+      "Jurado Nacional de Elecciones.",
+      "Poder Judicial."
+    ],
+    "correcta": 2,
+    "resolucion": "Comisión Permanente."
+  },
+  {
+    "pregunta": "Los ministros son responsables:",
+    "opciones": [
+      "Solo ante el Presidente de la República.",
+      "Individualmente por sus actos y solidariamente por los del Consejo.",
+      "Únicamente por actos firmados en secreto.",
+      "Solamente por delitos comunes.",
+      "Solo si lo aprueba el Congreso."
+    ],
+    "correcta": 1,
+    "resolucion": "Individualmente por sus actos y solidariamente por los del Consejo."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "11.1 Ejecutivo - P1",
+          "youtube_id": "4o_hHGF7YOY",
+          "pdf_link": "https://drive.google.com/file/d/1u4T2Fpmx7ZgGkTEKd7Of0Pf8UOQIo3cV/view",
+          "gratis": true
+        },
+        {
+          "titulo": "11.2 Ejecutivo - P2",
+          "youtube_id": "BEtv9-LNywU",
+          "pdf_link": "https://drive.google.com/file/d/1u4T2Fpmx7ZgGkTEKd7Of0Pf8UOQIo3cV/view",
+          "gratis": false
+        },
+        {
+          "titulo": "11.3 Ejecutivo - P3",
+          "youtube_id": "TMwnyeLOVSk",
+          "pdf_link": "https://drive.google.com/file/d/1u4T2Fpmx7ZgGkTEKd7Of0Pf8UOQIo3cV/view",
+          "gratis": false
+        },
+        {
+          "titulo": "11.4 Ejecutivo - P4",
+          "youtube_id": "5mo66tbBY74",
+          "pdf_link": "https://drive.google.com/file/d/1u4T2Fpmx7ZgGkTEKd7Of0Pf8UOQIo3cV/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 12: Poder Judicial",
+      "preguntas": [
+        {
+    "pregunta": "¿Qué órgano del Estado tiene la potestad de administrar justicia en el Perú?",
+    "opciones": [
+      "El Poder Legislativo",
+      "El Poder Judicial",
+      "El Poder Ejecutivo",
+      "El Tribunal Constitucional"
+    ],
+    "correcta": 1,
+    "resolucion": "Según la Constitución, la potestad de administrar justicia corresponde al Poder Judicial, a través de sus órganos jerárquicos. "
+  },
+  {
+    "pregunta": "Según la Ley Orgánica del Poder Judicial, este órgano es autónomo en lo:",
+    "opciones": [
+      "Político, administrativo, económico y jurisdiccional",
+      "Político, administrativo, económico y disciplinario",
+      "Administrativo, legislativo y financiero",
+      "Económico, judicial y militar"
+    ],
+    "correcta": 1,
+    "resolucion": "El artículo 2 de la Ley Orgánica del Poder Judicial lo establece expresamente."
+  },
+  {
+    "pregunta": "¿Cuál es el máximo órgano jurisdiccional del Poder Judicial?",
+    "opciones": [
+      "Cortes Superiores",
+      "Corte Suprema",
+      "Juzgados Especializados",
+      "Juzgados de Paz"
+    ],
+    "correcta": 1,
+    "resolucion": "La Corte Suprema es la instancia superior que integra la cúspide del sistema judicial."
+  },
+  {
+    "pregunta": "La unidad y exclusividad de la función jurisdiccional significa que:",
+    "opciones": [
+      "Solo los jueces de paz pueden administrar justicia",
+      "No puede crearse una jurisdicción independiente salvo la militar y la arbitral",
+      "El Congreso puede asumir funciones judiciales",
+      "El Ejecutivo puede intervenir en los procesos judiciales"
+    ],
+    "correcta": 1,
+    "resolucion": "Así lo señala la Constitución para garantizar la independencia judicial."
+  },
+  {
+    "pregunta": "La independencia en el ejercicio de la función jurisdiccional implica que:",
+    "opciones": [
+      "El Congreso puede dejar sin efecto resoluciones judiciales",
+      "El Ejecutivo puede modificar sentencias",
+      "Ninguna autoridad puede interferir en causas pendientes",
+      "El presidente puede revisar procesos judiciales"
+    ],
+    "correcta": 2,
+    "resolucion": "La independencia judicial garantiza que los jueces actúen sin presiones externas."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un órgano jurisdiccional del Poder Judicial?",
+    "opciones": [
+      "Juzgados de Paz",
+      "Juzgados de Paz Letrados",
+      "Ministerio Público",
+      "Cortes Superiores"
+    ],
+    "correcta": 2,
+    "resolucion": "El Ministerio Público es un órgano autónomo, no parte de la estructura jurisdiccional."
+  },
+  {
+    "pregunta": "¿Qué principio garantiza que ninguna persona sea desviada de la jurisdicción predeterminada por ley?",
+    "opciones": [
+      "Observancia del debido proceso",
+      "Publicidad",
+      "Pluralidad de instancia",
+      "Gratuidad"
+    ],
+    "correcta": 0,
+    "resolucion": "El debido proceso asegura que nadie sea juzgado por tribunales de excepción."
+  },
+  {
+    "pregunta": "La motivación escrita de las resoluciones judiciales es obligatoria en:",
+    "opciones": [
+      "Solo en la Corte Suprema",
+      "Solo en procesos penales",
+      "Todas las instancias, salvo decretos de mero trámite",
+      "Únicamente en procesos constitucionales"
+    ],
+    "correcta": 2,
+    "resolucion": "Garantiza transparencia y control ciudadano sobre la labor jurisdiccional."
+  },
+  {
+    "pregunta": "¿Qué principio establece que nadie puede ser sancionado sin un proceso judicial?",
+    "opciones": [
+      "Debido proceso",
+      "No ser penado sin proceso judicial",
+      "No ser condenado en ausencia",
+      "Legalidad penal"
+    ],
+    "correcta": 1,
+    "resolucion": "Protege el derecho de defensa frente a sanciones arbitrarias."
+  },
+  {
+    "pregunta": "El principio de pluralidad de instancia significa:",
+    "opciones": [
+      "Que todo proceso debe ser público",
+      "Que toda persona puede apelar una sentencia",
+      "Que se aplicará siempre la ley más favorable",
+      "Que los jueces son elegidos por voto popular"
+    ],
+    "correcta": 1,
+    "resolucion": "Permite que una decisión sea revisada por un órgano superior."
+  },
+  {
+    "pregunta": "¿Cuál es la extensión de la competencia del Poder Judicial?",
+    "opciones": [
+      "Regional",
+      "Nacional",
+      "Local",
+      "Municipal"
+    ],
+    "correcta": 1,
+    "resolucion": "Su competencia se extiende a todo el territorio de la República."
+  },
+  {
+    "pregunta": "¿Qué principio establece que la administración de justicia no puede dejar de actuarse por vacío legal?",
+    "opciones": [
+      "Gratuidad",
+      "Observancia del debido proceso",
+      "Principio de no dejar de administrar justicia",
+      "Principio de legalidad"
+    ],
+    "correcta": 2,
+    "resolucion": "Ante vacío legal, se aplican los principios generales del derecho."
+  },
+  {
+    "pregunta": "¿Qué principio establece que no se aplica por analogía la ley penal ni normas restrictivas de derechos?",
+    "opciones": [
+      "Principio de legalidad",
+      "Inaplicabilidad por analogía",
+      "Debido proceso",
+      "Publicidad"
+    ],
+    "correcta": 1,
+    "resolucion": "Evita ampliar el ámbito de la ley penal en perjuicio del ciudadano."
+  },
+  {
+    "pregunta": "¿Qué principio protege contra la reviviscencia de procesos concluidos con resolución firme?",
+    "opciones": [
+      "Cosa juzgada",
+      "Debido proceso",
+      "Publicidad procesal",
+      "Pluralidad de instancias"
+    ],
+    "correcta": 0,
+    "resolucion": "Evita que un proceso fenecido sea reabierto vulnerando seguridad jurídica."
+  },
+  {
+    "pregunta": "¿Qué derecho garantiza defensa gratuita para los de escasos recursos?",
+    "opciones": [
+      "Defensa legal absoluta",
+      "Gratuidad de la administración de justicia",
+      "Publicidad de los procesos",
+      "Independencia judicial"
+    ],
+    "correcta": 1,
+    "resolucion": "Asegura acceso a la justicia a quienes no tienen medios económicos."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un principio penitenciario reconocido?",
+    "opciones": [
+      "La prisión como venganza social",
+      "El aislamiento permanente del penado",
+      "La reeducación, rehabilitación y reincorporación del penado",
+      "La eliminación de derechos políticos"
+    ],
+    "correcta": 2,
+    "resolucion": "El fin del régimen penitenciario es reintegrar al individuo a la sociedad."
+  },
+  {
+    "pregunta": "¿Qué órgano del Poder Judicial administra y organiza la conducción de los servicios públicos judiciales?",
+    "opciones": [
+      "Corte Suprema",
+      "Consejo Ejecutivo del Poder Judicial",
+      "Presidencia de la República",
+      "Tribunal Constitucional"
+    ],
+    "correcta": 1,
+    "resolucion": "Es el órgano de gestión y administración interna del PJ."
+  },
+  {
+    "pregunta": "¿Quién ejerce la presidencia del Poder Judicial?",
+    "opciones": [
+      "El Presidente del Consejo de Ministros",
+      "El Fiscal de la Nación",
+      "El Presidente de la Corte Suprema",
+      "El Defensor del Pueblo"
+    ],
+    "correcta": 2,
+    "resolucion": "Según la Constitución y la LOPJ, este magistrado dirige el Poder Judicial."
+  },
+  {
+    "pregunta": "La publicidad de los procesos judiciales significa que:",
+    "opciones": [
+      "Todos los juicios deben ser secretos",
+      "Los procesos por derechos fundamentales y delitos de prensa son públicos",
+      "Solo las audiencias penales son públicas",
+      "Ningún proceso puede ser observado por la ciudadanía"
+    ],
+    "correcta": 1,
+    "resolucion": "La transparencia fortalece la confianza en la justicia."
+  },
+  {
+    "pregunta": "¿Qué principio prohíbe que alguien ejerza función judicial sin haber sido nombrado según Constitución y ley?",
+    "opciones": [
+      "Legalidad",
+      "Exclusividad",
+      "Nombramiento legítimo de magistrados",
+      "Independencia judicial"
+    ],
+    "correcta": 2,
+    "resolucion": "Nadie puede administrar justicia sin haber sido designado formalmente."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "12.1 Judicial - P1",
+          "youtube_id": "2ov1pRN1hP0",
+          "pdf_link": "https://drive.google.com/file/d/1pV5xofuQrl07JNC-HbiRnZ1TjZtkLnKk/view",
+          "gratis": true
+        },
+        {
+          "titulo": "12.2 Judicial - P2",
+          "youtube_id": "0asdLPjqgX8",
+          "pdf_link": "https://drive.google.com/file/d/1pV5xofuQrl07JNC-HbiRnZ1TjZtkLnKk/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 13: Organismos Consitucionales",
+      "preguntas": [
+        {
+    "pregunta": "El Tribunal Constitucional es el órgano:",
+    "opciones": [
+      "Administrativo supremo del Poder Judicial",
+      "De control de constitucionalidad",
+      "Electoral supremo",
+      "Consultivo del Congreso",
+      "De gestión de la justicia"
+    ],
+    "correcta": 1,
+    "resolucion": "Según el art. 201 de la Constitución, el TC es el órgano de control de la Constitución y supremo intérprete de la misma. "
+  },
+  {
+    "pregunta": "¿Cuántos miembros conforman el Tribunal Constitucional?",
+    "opciones": [
+      "5",
+      "6",
+      "7",
+      "9",
+      "11"
+    ],
+    "correcta": 2,
+    "resolucion": "La Constitución (art. 201) establece que son 7 miembros, elegidos por el Congreso por 5 años."
+  },
+  {
+    "pregunta": "Para ser miembro del Tribunal Constitucional se exige:",
+    "opciones": [
+      "Ser mayor de 40 años",
+      "Los mismos requisitos que para ser vocal supremo",
+      "Tener doctorado en Derecho",
+      "Haber sido congresista",
+      "Haber sido fiscal supremo"
+    ],
+    "correcta": 1,
+    "resolucion": "El art. 201 señala que los requisitos son los mismos que para ser vocal de la Corte Suprema."
+  },
+  {
+    "pregunta": "¿Quién preside el Ministerio Público?",
+    "opciones": [
+      "El Tribunal Constitucional",
+      "La Junta Nacional de Justicia",
+      "El Defensor del Pueblo",
+      "El Fiscal de la Nación",
+      "El Contralor General"
+    ],
+    "correcta": 3,
+    "resolucion": "El Ministerio Público es presidido por el Fiscal de la Nación (art. 158)."
+  },
+  {
+    "pregunta": "La duración del cargo de Fiscal de la Nación es:",
+    "opciones": [
+      "2 años no renovables",
+      "3 años con posibilidad de reelección por 2 períodos",
+      "4 años improrrogables",
+      "5 años sin reelección",
+      "7 años"
+    ],
+    "correcta": 1,
+    "resolucion": "Según el art. 158, dura 3 años, reelegible solo por 2 períodos."
+  },
+  {
+    "pregunta": "Una atribución del Ministerio Público es:",
+    "opciones": [
+      "Fiscalizar la legalidad del sufragio",
+      "Conducir la investigación del delito",
+      "Supervisar presupuesto público",
+      "Elegir magistrados del TC",
+      "Dirigir procesos electorales"
+    ],
+    "correcta": 1,
+    "resolucion": "El art. 159 señala que el MP conduce desde su inicio la investigación del delito. "
+  },
+  {
+    "pregunta": "¿Qué organismo reemplazó al Consejo Nacional de la Magistratura?",
+    "opciones": [
+      "Defensoría del Pueblo",
+      "Jurado Nacional de Elecciones",
+      "Junta Nacional de Justicia",
+      "Contraloría General",
+      "Tribunal Constitucional"
+    ],
+    "correcta": 2,
+    "resolucion": "Tras el referéndum del 2018, la JNJ sustituyó al CNM en 2020."
+  },
+  {
+    "pregunta": "¿Cuántos miembros conforman la Junta Nacional de Justicia?",
+    "opciones": [
+      "5",
+      "6",
+      "7",
+      "9",
+      "11"
+    ],
+    "correcta": 2,
+    "resolucion": "El art. 157 establece 7 miembros titulares, sin reelección, seleccionados por concurso público."
+  },
+  {
+    "pregunta": "La función principal de la JNJ es:",
+    "opciones": [
+      "Administrar justicia en materia electoral",
+      "Controlar la política monetaria",
+      "Nombrar y ratificar jueces y fiscales",
+      "Defender derechos fundamentales",
+      "Conducir la investigación del delito"
+    ],
+    "correcta": 2,
+    "resolucion": "Según el art. 154, la JNJ selecciona, nombra, ratifica y sanciona jueces y fiscales. "
+  },
+  {
+    "pregunta": "La máxima autoridad de la Defensoría del Pueblo es:",
+    "opciones": [
+      "El Congreso de la República",
+      "El Defensor del Pueblo",
+      "El Presidente del Poder Judicial",
+      "El Tribunal Constitucional",
+      "La Junta de Fiscales Supremos"
+    ],
+    "correcta": 1,
+    "resolucion": "La autoridad es el Defensor del Pueblo, elegido por el Congreso (art. 161)."
+  },
+  {
+    "pregunta": "Requisito para ser Defensor del Pueblo:",
+    "opciones": [
+      "25 años y ser abogado",
+      "30 años y ser ciudadano",
+      "35 años y ser abogado",
+      "40 años y doctorado",
+      "45 años y experiencia judicial"
+    ],
+    "correcta": 2,
+    "resolucion": "El art. 161 establece que debe tener 35 años y ser abogado."
+  },
+  {
+    "pregunta": "El cargo de Defensor del Pueblo dura:",
+    "opciones": [
+      "3 años",
+      "4 años",
+      "5 años",
+      "6 años",
+      "7 años"
+    ],
+    "correcta": 2,
+    "resolucion": "El art. 161 fija su mandato en 5 años."
+  },
+  {
+    "pregunta": "La finalidad del Banco Central de Reserva es:",
+    "opciones": [
+      "Controlar la inflación externa",
+      "Preservar la estabilidad monetaria",
+      "Regular el sistema electoral",
+      "Supervisar el sistema financiero",
+      "Controlar la deuda pública"
+    ],
+    "correcta": 1,
+    "resolucion": "Según el art. 84, el BCR tiene como finalidad preservar la estabilidad monetaria. "
+  },
+  {
+    "pregunta": "El BCR está prohibido de:",
+    "opciones": [
+      "Regular el crédito",
+      "Administrar reservas",
+      "Financiar al erario público",
+      "Informar sobre finanzas",
+      "Comprar valores del Tesoro en mercado secundario"
+    ],
+    "correcta": 2,
+    "resolucion": "El art. 84 prohíbe al BCR financiar al erario, salvo compra secundaria limitada de valores."
+  },
+  {
+    "pregunta": "La Superintendencia de Banca y Seguros es designada por:",
+    "opciones": [
+      "El Congreso",
+      "El Poder Ejecutivo y ratificada por el Congreso",
+      "La JNJ",
+      "El Tribunal Constitucional",
+      "El Defensor del Pueblo"
+    ],
+    "correcta": 1,
+    "resolucion": "El art. 87 establece que el Ejecutivo designa y el Congreso ratifica al Superintendente."
+  },
+  {
+    "pregunta": "La Contraloría General supervisa principalmente:",
+    "opciones": [
+      "Elecciones",
+      "Presupuesto del Estado y deuda pública",
+      "Derechos fundamentales",
+      "Estabilidad monetaria",
+      "Procesos penales"
+    ],
+    "correcta": 1,
+    "resolucion": "El art. 82 señala que supervisa la legalidad del presupuesto y deuda pública."
+  },
+  {
+    "pregunta": "El Contralor General es designado por:",
+    "opciones": [
+      "El Congreso, a propuesta del Ejecutivo",
+      "La JNJ",
+      "El Presidente de la República",
+      "La Corte Suprema",
+      "La ONPE"
+    ],
+    "correcta": 0,
+    "resolucion": "El art. 82 establece que el Congreso designa al Contralor a propuesta del Ejecutivo."
+  },
+  {
+    "pregunta": "El sistema electoral peruano es:",
+    "opciones": [
+      "Bicéfalo",
+      "Unicéfalo",
+      "Tricéfalo",
+      "Pluricéfalo",
+      "Mixto"
+    ],
+    "correcta": 2,
+    "resolucion": "El art. 177 establece que está integrado por JNE, ONPE y RENIEC. "
+  },
+  {
+    "pregunta": "La máxima autoridad del Jurado Nacional de Elecciones es:",
+    "opciones": [
+      "El Presidente del TC",
+      "El Presidente del Congreso",
+      "El Pleno del JNE (5 miembros)",
+      "El Fiscal de la Nación",
+      "El Ejecutivo"
+    ],
+    "correcta": 2,
+    "resolucion": "El art. 179 establece que el Pleno del JNE está compuesto por 5 miembros."
+  },
+  {
+    "pregunta": "El RENIEC tiene como función principal:",
+    "opciones": [
+      "Proclamar resultados electorales",
+      "Conducir la investigación del delito",
+      "Inscribir nacimientos, matrimonios, defunciones y emitir DNI",
+      "Supervisar el crédito",
+      "Fiscalizar la legalidad del sufragio"
+    ],
+    "correcta": 2,
+    "resolucion": "El art. 183 asigna al RENIEC la función de registro civil e identificación ciudadana."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "13.1 - Parte 1",
+          "youtube_id": "36zv004mSKc",
+          "pdf_link": "https://drive.google.com/file/d/1ZtfTwitgQ7gq6k-3cI8wvdb5VD0WbWg0/view",
+          "gratis": true
+        },
+        {
+          "titulo": "13.2 - Parte 2",
+          "youtube_id": "3eW8YpcPul0",
+          "pdf_link": "https://drive.google.com/file/d/1ZtfTwitgQ7gq6k-3cI8wvdb5VD0WbWg0/view",
+          "gratis": false
+        },
+        {
+          "titulo": "13.3 - Parte 3",
+          "youtube_id": "vd46wtMqwQg",
+          "pdf_link": "https://drive.google.com/file/d/1ZtfTwitgQ7gq6k-3cI8wvdb5VD0WbWg0/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 14: Régimen Económico",
+      "preguntas": [
+        {
+    "pregunta": "¿En qué periodo histórico surge la llamada “Constitución Económica”?",
+    "opciones": [
+      "Revolución Francesa",
+      "Ilustración",
+      "Periodo de entreguerras",
+      "Edad Media",
+      "Siglo XIX"
+    ],
+    "correcta": 2,
+    "resolucion": "Surge en el periodo de entreguerras, consolidándose en la primera mitad del siglo XX."
+  },
+  {
+    "pregunta": "La Constitución de Weimar (1919) es pionera en la Constitución Económica porque:",
+    "opciones": [
+      "Elimina la propiedad privada",
+      "Solo regula tributos",
+      "Garantiza la propiedad, pero con función social",
+      "Promueve un Estado absolutista",
+      "Prohíbe la libertad de empresa"
+    ],
+    "correcta": 2,
+    "resolucion": "Reconoce la propiedad privada, pero sujeta a límites en función del bien común."
+  },
+  {
+    "pregunta": "El modelo económico peruano adoptado en la Constitución es:",
+    "opciones": [
+      "Economía de mercado absoluta",
+      "Economía socialista centralizada",
+      "Economía social de mercado",
+      "Economía mixta estatista",
+      "Capitalismo liberal clásico"
+    ],
+    "correcta": 2,
+    "resolucion": "La Constitución del Perú consagra la economía social de mercado."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes principios NO pertenece al régimen económico peruano?",
+    "opciones": [
+      "Pluralismo económico",
+      "Libertad contractual",
+      "Igualdad de tratamiento al capital",
+      "Monopolio estatal obligatorio",
+      "Derechos del consumidor"
+    ],
+    "correcta": 3,
+    "resolucion": "El monopolio estatal obligatorio no existe en el régimen constitucional peruano."
+  },
+  {
+    "pregunta": "La economía social de mercado busca equilibrar:",
+    "opciones": [
+      "Solo la libertad individual",
+      "Productividad individual y progreso social",
+      "El control total del Estado",
+      "Solo el beneficio empresarial",
+      "Exclusivamente la igualdad material"
+    ],
+    "correcta": 1,
+    "resolucion": "El principio central es transformar la productividad individual en progreso social."
+  },
+  {
+    "pregunta": "El principio de subsidiariedad implica que:",
+    "opciones": [
+      "El Estado debe asumir toda la actividad económica",
+      "El Estado solo actúa cuando los particulares no pueden",
+      "El mercado siempre regula todo sin Estado",
+      "El Estado tiene prioridad sobre el individuo",
+      "Los consumidores dependen de la empresa"
+    ],
+    "correcta": 1,
+    "resolucion": "El Estado interviene solo cuando los particulares no puedan satisfacer necesidades."
+  },
+  {
+    "pregunta": "El pluralismo económico supone:",
+    "opciones": [
+      "La hegemonía de la propiedad privada",
+      "La coexistencia de diversas formas de propiedad",
+      "Que solo el Estado puede tener empresas",
+      "Que no exista igualdad entre formas de empresa",
+      "La prohibición de empresas privadas extranjeras"
+    ],
+    "correcta": 1,
+    "resolucion": "Busca equilibrio y coexistencia democrática de diversas formas de propiedad."
+  },
+  {
+    "pregunta": "Según el artículo 58 de la Constitución, la iniciativa privada en el Perú es:",
+    "opciones": [
+      "Prohibida",
+      "Controlada totalmente por el Estado",
+      "Libre, dentro de una economía social de mercado",
+      "Permitida solo en salud y educación",
+      "Limitada al sector industrial"
+    ],
+    "correcta": 2,
+    "resolucion": "La iniciativa privada es libre bajo el marco de la economía social de mercado."
+  },
+  {
+    "pregunta": "¿Qué libertad económica otorga a las personas la posibilidad de crear, organizar y cerrar una empresa?",
+    "opciones": [
+      "Libertad de comercio",
+      "Libertad contractual",
+      "Libertad de empresa",
+      "Libertad de industria",
+      "Libertad de asociación"
+    ],
+    "correcta": 2,
+    "resolucion": "La libertad de empresa engloba todo el ciclo empresarial."
+  },
+  {
+    "pregunta": "La libertad de comercio significa:",
+    "opciones": [
+      "Que el Estado fija los precios",
+      "La capacidad de ofrecer y demandar bienes y servicios",
+      "Que solo el Estado regula exportaciones",
+      "La inexistencia de competencia",
+      "Que se prohíban los contratos mercantiles"
+    ],
+    "correcta": 1,
+    "resolucion": "Es la facultad de realizar intercambios económicos libremente."
+  },
+  {
+    "pregunta": "¿Qué artículo constitucional establece la libertad contractual en el Perú?",
+    "opciones": [
+      "Art. 58",
+      "Art. 59",
+      "Art. 61",
+      "Art. 62",
+      "Art. 65"
+    ],
+    "correcta": 3,
+    "resolucion": "El artículo 62 garantiza la libertad de contratar."
+  },
+  {
+    "pregunta": "El artículo 65 de la Constitución protege principalmente:",
+    "opciones": [
+      "A las empresas",
+      "Al Tesoro Público",
+      "A los consumidores y usuarios",
+      "Al capital extranjero",
+      "A los gremios sindicales"
+    ],
+    "correcta": 2,
+    "resolucion": "El Estado tiene el deber de proteger a consumidores y usuarios."
+  },
+  {
+    "pregunta": "¿Cuál NO es un derecho de los consumidores según la Constitución y la jurisprudencia?",
+    "opciones": [
+      "Información sobre bienes y servicios",
+      "Protección de la salud y seguridad",
+      "Acceso al mercado",
+      "Reparación por daños",
+      "Monopolizar la producción"
+    ],
+    "correcta": 4,
+    "resolucion": "El monopolio no es un derecho del consumidor."
+  },
+  {
+    "pregunta": "El régimen tributario comprende:",
+    "opciones": [
+      "Solo impuestos",
+      "Impuesto, tasa y contribución",
+      "Solo arbitrios municipales",
+      "Tributos y préstamos",
+      "Aportes sindicales"
+    ],
+    "correcta": 1,
+    "resolucion": "El tributo incluye tres especies: impuesto, tasa y contribución."
+  },
+  {
+    "pregunta": "Los arbitrios son:",
+    "opciones": [
+      "Impuestos nacionales",
+      "Contribuciones especiales",
+      "Tasas municipales por servicios públicos",
+      "Derechos de importación",
+      "Licencias de actividad industrial"
+    ],
+    "correcta": 2,
+    "resolucion": "Son tasas que pagan los ciudadanos por servicios municipales."
+  },
+  {
+    "pregunta": "El principio de reserva de ley en materia tributaria significa que:",
+    "opciones": [
+      "Solo el MEF puede crear tributos",
+      "Los municipios crean impuestos nacionales",
+      "Solo por ley se pueden establecer tributos",
+      "Los tributos se crean por reglamento",
+      "El Ejecutivo puede fijar tributos por urgencia"
+    ],
+    "correcta": 2,
+    "resolucion": "Solo por ley se crean, modifican o eliminan tributos."
+  },
+  {
+    "pregunta": "El principio de igualdad tributaria implica:",
+    "opciones": [
+      "Tratar igual a todos, sin distinción",
+      "Que todos paguen lo mismo",
+      "Que quienes más ganan deben pagar más",
+      "Que el Estado exonere a todos",
+      "Que solo los pobres paguen impuestos"
+    ],
+    "correcta": 2,
+    "resolucion": "Se orienta a la equidad fiscal: más pago para mayor capacidad contributiva."
+  },
+  {
+    "pregunta": "El principio de no confiscatoriedad significa que:",
+    "opciones": [
+      "El Estado puede apropiarse de la riqueza",
+      "Los tributos no deben desnaturalizar la propiedad",
+      "Todo impuesto debe ser bajo y fijo",
+      "Solo se paga si hay contrato previo",
+      "Los municipios pueden confiscar tributos"
+    ],
+    "correcta": 1,
+    "resolucion": "Los tributos no deben absorber o eliminar el patrimonio o renta del contribuyente."
+  },
+  {
+    "pregunta": "Según el art. 74 de la Constitución, ¿qué órgano NO puede emitir normas tributarias?",
+    "opciones": [
+      "Congreso",
+      "Ejecutivo mediante delegación",
+      "Gobiernos locales (tasas y contribuciones)",
+      "Ejecutivo vía decretos de urgencia",
+      "Congreso mediante leyes anuales"
+    ],
+    "correcta": 3,
+    "resolucion": "Los decretos de urgencia no pueden contener materia tributaria."
+  },
+  {
+    "pregunta": "El régimen económico en la Constitución peruana busca principalmente:",
+    "opciones": [
+      "Favorecer a monopolios privados",
+      "Garantizar la gobernabilidad y el desarrollo económico",
+      "Eliminar la empresa privada",
+      "Centralizar toda la economía en el Estado",
+      "Promover un sistema feudal"
+    ],
+    "correcta": 1,
+    "resolucion": "Su finalidad es dar gobernabilidad y un marco jurídico al desarrollo económico."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "14.1 Régimen - P1",
+          "youtube_id": "Cjy4z0ZBxU8",
+          "pdf_link": "https://drive.google.com/file/d/1PsEai7xDAmvUBW494pXqhiGbugLNu3k2/view",
+          "gratis": true
+        },
+        {
+          "titulo": "14.2 Régimen - P2",
+          "youtube_id": "UvMBoFpcICk",
+          "pdf_link": "https://drive.google.com/file/d/1PsEai7xDAmvUBW494pXqhiGbugLNu3k2/view",
+          "gratis": false
+        },
+        {
+          "titulo": "14.3 Régimen - P3",
+          "youtube_id": "3r_AeOrfWPE",
+          "pdf_link": "https://drive.google.com/file/d/1PsEai7xDAmvUBW494pXqhiGbugLNu3k2/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 15: Descentralización de Gobiernos",
+      "preguntas": [
+        {
+    "pregunta": "La descentralización en el Perú busca principalmente:",
+    "opciones": [
+      "Aumentar el poder del gobierno central",
+      "Crear nuevos ministerios en Lima",
+      "Transferir competencias del nivel central al subnacional",
+      "Disolver los gobiernos regionales",
+      "Reducir la participación ciudadana"
+    ],
+    "correcta": 2,
+    "resolucion": "La descentralización transfiere competencias, recursos y responsabilidades del gobierno central hacia los gobiernos regionales y locales."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes no es un objetivo general de la descentralización?",
+    "opciones": [
+      "Que cada gobierno regional y local decida sobre sus recursos",
+      "Aumentar la centralización administrativa",
+      "Integrar al Estado con la sociedad civil",
+      "Promover la participación ciudadana",
+      "Complementar los sectores al desarrollo regional"
+    ],
+    "correcta": 1,
+    "resolucion": "La descentralización justamente busca disminuir la centralización, no aumentarla."
+  },
+  {
+    "pregunta": "El objetivo económico de la descentralización es:",
+    "opciones": [
+      "Institucionalizar gobiernos regionales",
+      "Redistribuir equitativamente los recursos del Estado",
+      "Lograr mayor gobernabilidad democrática",
+      "Promover la fiscalización ciudadana",
+      "Garantizar la unidad nacional"
+    ],
+    "correcta": 1,
+    "resolucion": "En lo económico, la descentralización busca redistribución equitativa de recursos y desarrollo regional sostenible."
+  },
+  {
+    "pregunta": "En el Perú, los gobiernos regionales conforman el:",
+    "opciones": [
+      "Primer nivel de gobierno",
+      "Segundo nivel de gobierno",
+      "Tercer nivel de gobierno",
+      "Poder legislativo descentralizado",
+      "Órgano de desconcentración del Ejecutivo"
+    ],
+    "correcta": 1,
+    "resolucion": "El primer nivel es el nacional, el segundo los gobiernos regionales, y el tercero los locales. "
+  },
+  {
+    "pregunta": "¿Quién fue el principal impulsor de la descentralización civilista de 1873?",
+    "opciones": [
+      "José Carlos Mariátegui",
+      "Augusto Leguía",
+      "Manuel Pardo",
+      "Víctor Raúl Haya de la Torre",
+      "Jorge Basadre"
+    ],
+    "correcta": 2,
+    "resolucion": "Manuel Pardo impulsó la creación de los Consejos Departamentales en 1873."
+  },
+  {
+    "pregunta": "La descentralización es considerada un proceso:",
+    "opciones": [
+      "Exclusivamente económico",
+      "Exclusivamente político",
+      "Multidimensional: político, fiscal y administrativo",
+      "Militar y político",
+      "Judicial y administrativo"
+    ],
+    "correcta": 2,
+    "resolucion": "Involucra dimensiones políticas, fiscales y administrativas."
+  },
+  {
+    "pregunta": "¿Cuál fue la Constitución que por primera vez consagró la regionalización en el Perú?",
+    "opciones": [
+      "1823",
+      "1920",
+      "1933",
+      "1979",
+      "1993"
+    ],
+    "correcta": 3,
+    "resolucion": "La Constitución de 1979 ordenó un plan nacional de regionalización."
+  },
+  {
+    "pregunta": "El gobernador regional es elegido por:",
+    "opciones": [
+      "El Congreso de la República",
+      "El Presidente de la República",
+      "Sufragio directo por la población",
+      "El Consejo Regional",
+      "El Jurado Nacional de Elecciones"
+    ],
+    "correcta": 2,
+    "resolucion": "Se elige por voto directo, junto con un vicegobernador, para 4 años."
+  },
+  {
+    "pregunta": "Para ganar en primera vuelta la fórmula de gobernador y vicegobernador debe obtener:",
+    "opciones": [
+      "25 % de votos válidos",
+      "30 % de votos válidos",
+      "35 % de votos válidos",
+      "40 % de votos válidos",
+      "Mayoría simple"
+    ],
+    "correcta": 1,
+    "resolucion": "El requisito mínimo es el 30% de votos válidos."
+  },
+  {
+    "pregunta": "El Consejo Regional es:",
+    "opciones": [
+      "El órgano normativo y fiscalizador del Gobierno Regional",
+      "El órgano ejecutivo del Gobierno Regional",
+      "El órgano consultivo de la sociedad civil",
+      "Un organismo desconcentrado",
+      "Una oficina del MEF"
+    ],
+    "correcta": 0,
+    "resolucion": "Es el órgano normativo y fiscalizador integrado por consejeros elegidos."
+  },
+  {
+    "pregunta": "La Presidencia Regional (Gobernador) tiene entre sus funciones:",
+    "opciones": [
+      "Aprobar normas de alcance general",
+      "Fiscalizar al Consejo Regional",
+      "Dirigir la marcha del Gobierno Regional",
+      "Legislar en materias exclusivas",
+      "Supervisar al Poder Judicial"
+    ],
+    "correcta": 2,
+    "resolucion": "El Gobernador dirige la gestión y ejecución de las políticas regionales."
+  },
+  {
+    "pregunta": "El Consejo de Coordinación Regional está integrado por:",
+    "opciones": [
+      "Gobernadores regionales y ministros",
+      "Alcaldes provinciales y sociedad civil",
+      "Presidentes del Congreso y del Ejecutivo",
+      "Solo consejeros regionales",
+      "Representantes empresariales"
+    ],
+    "correcta": 1,
+    "resolucion": "Es un órgano consultivo donde participan alcaldes provinciales y sociedad civil."
+  },
+  {
+    "pregunta": "Las ordenanzas regionales son dictadas por:",
+    "opciones": [
+      "El Presidente de la República",
+      "El Consejo Regional",
+      "El Gobernador regional",
+      "El Jurado Nacional de Elecciones",
+      "La ONPE"
+    ],
+    "correcta": 1,
+    "resolucion": "El Consejo Regional aprueba ordenanzas, y el gobernador las promulga."
+  },
+  {
+    "pregunta": "Durante el gobierno de Fujimori (1992) se suprimieron:",
+    "opciones": [
+      "Consejos de Coordinación Regional",
+      "Regiones y Asambleas Regionales",
+      "Gobiernos locales",
+      "Ministerios descentralizados",
+      "Municipalidades"
+    ],
+    "correcta": 1,
+    "resolucion": "Fujimori eliminó las regiones y asambleas regionales tras el autogolpe de 1992."
+  },
+  {
+    "pregunta": "Según la Constitución de 1993, las regiones tienen:",
+    "opciones": [
+      "Autonomía plena sin límites",
+      "Autonomía política, económica y administrativa",
+      "Funciones solo consultivas",
+      "Competencias únicamente judiciales",
+      "Competencias militares"
+    ],
+    "correcta": 1,
+    "resolucion": "Reconoce la autonomía en esos tres ámbitos, dentro de la unidad del Estado."
+  },
+  {
+    "pregunta": "¿Qué requisito se utiliza para la asignación de consejeros regionales por provincia?",
+    "opciones": [
+      "El área territorial",
+      "La densidad poblacional",
+      "La población electoral",
+      "Los ingresos tributarios",
+      "El número de municipalidades"
+    ],
+    "correcta": 2,
+    "resolucion": "El JNE distribuye consejeros según la población electoral de cada provincia."
+  },
+  {
+    "pregunta": "¿Cuál de estos NO fue un intento histórico de descentralización en el Perú?",
+    "opciones": [
+      "Federalismo fallido (1821–1873)",
+      "Descentralización civilista (1873–1920)",
+      "Descentralización leguiísta (1920–1933)",
+      "Autogobierno indígena (1930–1940)",
+      "Proyectos de regionalización (1979–1987)"
+    ],
+    "correcta": 3,
+    "resolucion": "No existió un proceso llamado autogobierno indígena; es distractor."
+  },
+  {
+    "pregunta": "El “shock descentralista” ocurrió durante el gobierno de:",
+    "opciones": [
+      "Manuel Pardo",
+      "Alan García (segundo gobierno)",
+      "Alberto Fujimori",
+      "Alejandro Toledo",
+      "Fernando Belaúnde"
+    ],
+    "correcta": 1,
+    "resolucion": "En su segundo gobierno se transfirieron funciones rápidamente, sin suficiente planificación."
+  },
+  {
+    "pregunta": "El instrumento legal que expresa la decisión del Consejo Regional sobre asuntos internos se denomina:",
+    "opciones": [
+      "Ordenanza regional",
+      "Acuerdo regional",
+      "Decreto regional",
+      "Resolución regional",
+      "Edicto regional"
+    ],
+    "correcta": 1,
+    "resolucion": "Los acuerdos regionales expresan decisiones internas o institucionales."
+  },
+  {
+    "pregunta": "Los gobiernos locales corresponden al:",
+    "opciones": [
+      "Primer nivel de gobierno",
+      "Segundo nivel de gobierno",
+      "Tercer nivel de gobierno",
+      "Poder legislativo local",
+      "Órganos consultivos de los gobiernos regionales"
+    ],
+    "correcta": 2,
+    "resolucion": "El tercer nivel de gobierno en el Perú lo constituyen los gobiernos locales (municipalidades)."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "15.1 - Parte 1",
+          "youtube_id": "-mAvk_haf9k",
+          "pdf_link": "https://drive.google.com/file/d/1OOn-Z_BoyTbjJrWs5QeWEENuf68bIHlZ/view",
+          "gratis": true
+        },
+        {
+          "titulo": "15.2 - Parte 2",
+          "youtube_id": "hV_9gbVbs8k",
+          "pdf_link": "https://drive.google.com/file/d/1OOn-Z_BoyTbjJrWs5QeWEENuf68bIHlZ/view",
+          "gratis": false
+        },
+        {
+          "titulo": "15.3 - Parte 3",
+          "youtube_id": "lMpAsWMwcoA",
+          "pdf_link": "https://drive.google.com/file/d/1OOn-Z_BoyTbjJrWs5QeWEENuf68bIHlZ/view",
+          "gratis": true
+        },
+        {
+          "titulo": "15.4 - Parte 4",
+          "youtube_id": "FqGaYGHKj6c",
+          "pdf_link": "https://drive.google.com/file/d/1OOn-Z_BoyTbjJrWs5QeWEENuf68bIHlZ/view",
+          "gratis": false
+        },
+        {
+          "titulo": "15.5 - Parte 5",
+          "youtube_id": "8aw5JhJxOr0",
+          "pdf_link": "https://drive.google.com/file/d/1OOn-Z_BoyTbjJrWs5QeWEENuf68bIHlZ/view",
+          "gratis": true
+        },
+        {
+          "titulo": "15.6 - Parte 6",
+          "youtube_id": "PzHUGOWq1Uk",
+          "pdf_link": "https://drive.google.com/file/d/1OOn-Z_BoyTbjJrWs5QeWEENuf68bIHlZ/view",
+          "gratis": false
+        },
+        {
+          "titulo": "15.7 - Parte 7",
+          "youtube_id": "eSW6dpdXYjo",
+          "pdf_link": "https://drive.google.com/file/d/1OOn-Z_BoyTbjJrWs5QeWEENuf68bIHlZ/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 16: Derechos Humanos",
+      "preguntas": [
+        {
+    "pregunta": "¿Cuál es la principal característica de los derechos humanos?",
+    "opciones": [
+      "Se aplican solo en democracia",
+      "Dependen de la religión",
+      "Son universales",
+      "Cambian con cada gobierno",
+      "Solo benefician a los ciudadanos nacionales"
+    ],
+    "correcta": 2,
+    "resolucion": "Los derechos humanos son universales, corresponden a toda persona sin distinción."
+  },
+  {
+    "pregunta": "¿Qué significa que los derechos humanos son imprescriptibles?",
+    "opciones": [
+      "Se pierden si no se ejercen",
+      "Nunca caducan con el tiempo",
+      "Pueden suspenderse por ley",
+      "Solo aplican en la juventud",
+      "Son opcionales según el Estado"
+    ],
+    "correcta": 1,
+    "resolucion": "No caducan ni se extinguen, aunque no se usen durante mucho tiempo."
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una característica de los derechos humanos?",
+    "opciones": [
+      "Indivisibles",
+      "Inviolables",
+      "Irreversibles",
+      "Excluyentes",
+      "Universales"
+    ],
+    "correcta": 3,
+    "resolucion": "Los derechos humanos no son excluyentes, pertenecen a todos."
+  },
+  {
+    "pregunta": "La Carta Magna de 1215 en Inglaterra es un ejemplo de:",
+    "opciones": [
+      "Universalización de los derechos",
+      "Primer momento de juridificación",
+      "Derechos de tercera generación",
+      "Derechos económicos y sociales",
+      "Declaración de la ONU"
+    ],
+    "correcta": 1,
+    "resolucion": "Fue uno de los primeros documentos en reconocer libertades frente al poder absoluto."
+  },
+  {
+    "pregunta": "La Declaración Universal de los Derechos Humanos se aprobó en:",
+    "opciones": [
+      "1776",
+      "1215",
+      "1945",
+      "1948",
+      "1980"
+    ],
+    "correcta": 3,
+    "resolucion": "El 10 de diciembre de 1948 en la ONU. "
+  },
+  {
+    "pregunta": "Los derechos civiles y políticos corresponden a la generación:",
+    "opciones": [
+      "Primera",
+      "Segunda",
+      "Tercera",
+      "Cuarta",
+      "Ninguna"
+    ],
+    "correcta": 0,
+    "resolucion": "Son de primera generación, reconocen libertades individuales como vida, igualdad, libertad."
+  },
+  {
+    "pregunta": "¿Cuál es un derecho de segunda generación?",
+    "opciones": [
+      "Derecho a la vida",
+      "Derecho a la libertad de conciencia",
+      "Derecho a la propiedad",
+      "Derecho a la salud",
+      "Derecho a la paz"
+    ],
+    "correcta": 3,
+    "resolucion": "Los derechos económicos, sociales y culturales (salud, trabajo, educación) son de segunda generación."
+  },
+  {
+    "pregunta": "Los derechos de tercera generación también se conocen como:",
+    "opciones": [
+      "Derechos políticos",
+      "Derechos colectivos o de solidaridad",
+      "Derechos individuales",
+      "Derechos tradicionales",
+      "Derechos prescriptibles"
+    ],
+    "correcta": 1,
+    "resolucion": "Se orientan a la protección de pueblos y comunidades: medio ambiente, paz, patrimonio común."
+  },
+  {
+    "pregunta": "El derecho a un medio ambiente saludable pertenece a:",
+    "opciones": [
+      "Primera generación",
+      "Segunda generación",
+      "Tercera generación",
+      "Ninguna",
+      "Derecho fundamental prescriptible"
+    ],
+    "correcta": 2,
+    "resolucion": "Es un derecho de solidaridad, de la tercera generación."
+  },
+  {
+    "pregunta": "¿Qué documento dio origen al sistema universal de protección de DD.HH.?",
+    "opciones": [
+      "Acta de Independencia de EE. UU.",
+      "Carta de San Francisco",
+      "Carta Magna",
+      "Pacto de San José",
+      "Ley Habeas Corpus"
+    ],
+    "correcta": 1,
+    "resolucion": "La Carta de San Francisco (1945) creó la ONU y dio base al sistema internacional de protección."
+  },
+  {
+    "pregunta": "¿Quién propuso la división en tres generaciones de los derechos humanos?",
+    "opciones": [
+      "Rousseau",
+      "Montesquieu",
+      "Karel Vasak",
+      "Locke",
+      "Kant"
+    ],
+    "correcta": 2,
+    "resolucion": "El jurista checo Karel Vasak lo propuso en 1979."
+  },
+  {
+    "pregunta": "La libertad de conciencia y religión corresponde a:",
+    "opciones": [
+      "Derechos de segunda generación",
+      "Derechos colectivos",
+      "Derechos de primera generación",
+      "Derechos económicos",
+      "Derechos sociales"
+    ],
+    "correcta": 2,
+    "resolucion": "Es un derecho civil y político, propio de la primera generación."
+  },
+  {
+    "pregunta": "La Declaración de los Derechos del Hombre y del Ciudadano fue proclamada en:",
+    "opciones": [
+      "Inglaterra, 1679",
+      "EE. UU., 1776",
+      "Francia, 1789",
+      "ONU, 1948",
+      "Perú, 1821"
+    ],
+    "correcta": 2,
+    "resolucion": "Fue proclamada en Francia tras la Revolución Francesa. "
+  },
+  {
+    "pregunta": "El derecho a la libre sindicación corresponde a:",
+    "opciones": [
+      "Primera generación",
+      "Segunda generación",
+      "Tercera generación",
+      "Ninguna generación",
+      "Derechos imprescriptibles"
+    ],
+    "correcta": 1,
+    "resolucion": "Pertenece a los derechos laborales y sociales (segunda generación)."
+  },
+  {
+    "pregunta": "¿Qué caracteriza a los derechos de primera generación?",
+    "opciones": [
+      "Son económicos",
+      "Se reconocen desde la Revolución Industrial",
+      "Protegen al individuo frente al Estado",
+      "Se basan en la solidaridad",
+      "Surgen en la ONU"
+    ],
+    "correcta": 2,
+    "resolucion": "Defienden la libertad y autonomía del individuo frente al poder estatal."
+  },
+  {
+    "pregunta": "La progresividad de los derechos humanos implica que:",
+    "opciones": [
+      "Pueden eliminarse con reformas legales",
+      "Nunca cambian con el tiempo",
+      "Pueden ampliarse y reconocerse nuevos derechos",
+      "Solo existen en los tratados internacionales",
+      "Son reversibles"
+    ],
+    "correcta": 2,
+    "resolucion": "Los derechos humanos pueden evolucionar y ampliar su alcance histórico."
+  },
+  {
+    "pregunta": "El Pacto Internacional de Derechos Civiles y Políticos fue ratificado por Perú en:",
+    "opciones": [
+      "1948",
+      "1966",
+      "1976",
+      "1980",
+      "1993"
+    ],
+    "correcta": 2,
+    "resolucion": "Ratificado en 1976 mediante Decreto Ley N.º 22128."
+  },
+  {
+    "pregunta": "El derecho a la paz es un derecho de:",
+    "opciones": [
+      "Primera generación",
+      "Segunda generación",
+      "Tercera generación",
+      "Derechos laborales",
+      "Derechos reversibles"
+    ],
+    "correcta": 2,
+    "resolucion": "El derecho a la paz pertenece a los derechos de solidaridad."
+  },
+  {
+    "pregunta": "Los derechos humanos son obligatorios porque:",
+    "opciones": [
+      "El Estado puede suspenderlos libremente",
+      "Solo existen si hay leyes",
+      "Se imponen al Estado y a las personas aun sin ley expresa",
+      "Son relativos según la cultura",
+      "Se cumplen solo en la ONU"
+    ],
+    "correcta": 2,
+    "resolucion": "Los derechos humanos obligan a todos, aunque no estén formalmente positivizados."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un instrumento supranacional de DD.HH.?",
+    "opciones": [
+      "Constitución peruana",
+      "Declaración Universal de 1948",
+      "Código Civil",
+      "Ley de Reforma Agraria",
+      "Ninguno"
+    ],
+    "correcta": 1,
+    "resolucion": "La Declaración Universal de 1948 es un instrumento internacional de protección de DD.HH."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "16.1 DH - P1",
+          "youtube_id": "7AQN9_2zOjI",
+          "pdf_link": "https://drive.google.com/file/d/10o-03i-FWBvjEkTie8ERJr_Fw-LMKvF-/view",
+          "gratis": true
+        },
+        {
+          "titulo": "16.2 DH - P2",
+          "youtube_id": "640LsgsSfFM",
+          "pdf_link": "https://drive.google.com/file/d/10o-03i-FWBvjEkTie8ERJr_Fw-LMKvF-/view",
+          "gratis": false
+        },
+        {
+          "titulo": "16.3 DH - P3",
+          "youtube_id": "1oHWpYHrK9g",
+          "pdf_link": "https://drive.google.com/file/d/10o-03i-FWBvjEkTie8ERJr_Fw-LMKvF-/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 17: Garantias Constitucionales",
+      "preguntas": [
+        {
+    "pregunta": "Las garantías constitucionales en el Perú se institucionalizan por primera vez en la Constitución de:",
+    "opciones": [
+      "1823",
+      "1920",
+      "1933",
+      "1979",
+      "1993"
+    ],
+    "correcta": 1,
+    "resolucion": "La Constitución de 1920 distinguió garantías nacionales, individuales y sociales. "
+  },
+  {
+    "pregunta": "¿Cuál fue la primera garantía constitucional reconocida en el Perú?",
+    "opciones": [
+      "Acción Popular",
+      "Acción de Cumplimiento",
+      "Habeas Corpus",
+      "Habeas Data",
+      "Amparo"
+    ],
+    "correcta": 2,
+    "resolucion": "Fue regulada por primera vez en la Constitución de 1920 para proteger la libertad individual."
+  },
+  {
+    "pregunta": "La Acción de Amparo se introdujo en la Constitución de:",
+    "opciones": [
+      "1920",
+      "1933",
+      "1979",
+      "1993",
+      "Ninguna"
+    ],
+    "correcta": 2,
+    "resolucion": "Esta Carta incluyó el amparo para proteger derechos distintos a la libertad individual."
+  },
+  {
+    "pregunta": "El Habeas Data aparece en la Constitución de:",
+    "opciones": [
+      "1920",
+      "1933",
+      "1979",
+      "1993",
+      "2001"
+    ],
+    "correcta": 3,
+    "resolucion": "Se incluyó para proteger frente al abuso de la informática y garantizar acceso a la información."
+  },
+  {
+    "pregunta": "La Acción de Inconstitucionalidad se regula por primera vez en la Constitución de:",
+    "opciones": [
+      "1920",
+      "1933",
+      "1979",
+      "1993",
+      "2001"
+    ],
+    "correcta": 2,
+    "resolucion": "Fue creada para controlar normas de rango inferior contrarias a la Constitución."
+  },
+  {
+    "pregunta": "La Acción Popular se introduce en la Constitución de:",
+    "opciones": [
+      "1920",
+      "1933",
+      "1979",
+      "1993",
+      "2000"
+    ],
+    "correcta": 1,
+    "resolucion": "Apareció por primera vez en 1933 y se mantiene en 1979 y 1993."
+  },
+  {
+    "pregunta": "La Acción de Cumplimiento fue creada en la Constitución de:",
+    "opciones": [
+      "1920",
+      "1933",
+      "1979",
+      "1993",
+      "2001"
+    ],
+    "correcta": 3,
+    "resolucion": "Para hacer cumplir mandatos de normas jurídicas y actos administrativos."
+  },
+  {
+    "pregunta": "¿Cuál es la garantía constitucional más antigua en el derecho comparado, con origen en Inglaterra (1679)?",
+    "opciones": [
+      "Habeas Data",
+      "Habeas Corpus",
+      "Acción Popular",
+      "Amparo",
+      "Cumplimiento"
+    ],
+    "correcta": 1,
+    "resolucion": "Surge en Inglaterra como mecanismo supremo de libertad individual."
+  },
+  {
+    "pregunta": "¿Quién puede interponer un Habeas Corpus en el Perú?",
+    "opciones": [
+      "Solo el agraviado",
+      "Solo un abogado",
+      "El agraviado, cualquier persona o la Defensoría del Pueblo",
+      "Solo el juez",
+      "Solo un fiscal"
+    ],
+    "correcta": 2,
+    "resolucion": "No requiere formalidades ni abogado."
+  },
+  {
+    "pregunta": "El Tribunal Constitucional resuelve en instancia única y final en la:",
+    "opciones": [
+      "Acción de Amparo",
+      "Habeas Corpus",
+      "Habeas Data",
+      "Acción de Inconstitucionalidad",
+      "Acción de Cumplimiento"
+    ],
+    "correcta": 3,
+    "resolucion": "Se presenta solo ante el TC como control concentrado."
+  },
+  {
+    "pregunta": "¿Cuál de estas NO es una garantía constitucional prevista en la Constitución de 1993?",
+    "opciones": [
+      "Habeas Corpus",
+      "Amparo",
+      "Habeas Data",
+      "Acción Popular",
+      "Juicio de Residencia"
+    ],
+    "correcta": 4,
+    "resolucion": "No forma parte de las garantías constitucionales del art. 200."
+  },
+  {
+    "pregunta": "La Acción de Amparo no procede contra:",
+    "opciones": [
+      "Normas legales",
+      "Amenaza de violación de derecho fundamental",
+      "Resoluciones judiciales arbitrarias",
+      "Vulneración de derechos fundamentales",
+      "Actos administrativos que violen derechos"
+    ],
+    "correcta": 0,
+    "resolucion": "El Amparo no procede contra leyes ni contra resoluciones judiciales dictadas en procesos regulares."
+  },
+  {
+    "pregunta": "El Habeas Data busca proteger principalmente el derecho a:",
+    "opciones": [
+      "Propiedad",
+      "Igualdad",
+      "Información y privacidad",
+      "Educación",
+      "Participación política"
+    ],
+    "correcta": 2,
+    "resolucion": "Su objeto es el acceso a información y defensa de la intimidad."
+  },
+  {
+    "pregunta": "¿Quiénes pueden interponer una Acción de Inconstitucionalidad?",
+    "opciones": [
+      "El Presidente de la República",
+      "25% de congresistas",
+      "Gobiernos regionales y locales",
+      "Ciudadanos con 5000 firmas",
+      "Todas las anteriores"
+    ],
+    "correcta": 4,
+    "resolucion": "Están facultados según el art. 203 de la Constitución."
+  },
+  {
+    "pregunta": "La Acción de Cumplimiento procede cuando:",
+    "opciones": [
+      "No se cumple un mandato legal o administrativo",
+      "Existe vulneración de libertad individual",
+      "Hay amenaza de violación de derechos",
+      "Se vulnera la intimidad",
+      "Una norma es contraria a la Constitución"
+    ],
+    "correcta": 0,
+    "resolucion": "Busca efectividad de normas y actos administrativos."
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes garantías es competencia del Poder Judicial exclusivamente?",
+    "opciones": [
+      "Habeas Corpus",
+      "Acción de Amparo",
+      "Acción Popular",
+      "Habeas Data",
+      "Acción de Cumplimiento"
+    ],
+    "correcta": 2,
+    "resolucion": "La competencia es exclusiva del Poder Judicial."
+  },
+  {
+    "pregunta": "¿Cuál es el plazo para interponer una Acción Popular?",
+    "opciones": [
+      "30 días",
+      "60 días",
+      "6 meses",
+      "5 años",
+      "10 años"
+    ],
+    "correcta": 3,
+    "resolucion": "El plazo corre desde la publicación de la norma cuestionada."
+  },
+  {
+    "pregunta": "El plazo máximo para interponer una Acción de Inconstitucionalidad contra un tratado internacional es de:",
+    "opciones": [
+      "30 días",
+      "60 días",
+      "6 meses",
+      "1 año",
+      "5 años"
+    ],
+    "correcta": 2,
+    "resolucion": "Diferente al plazo de 6 años para leyes."
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes garantías no requiere firma de abogado?",
+    "opciones": [
+      "Habeas Corpus",
+      "Amparo",
+      "Habeas Data",
+      "Acción de Cumplimiento",
+      "Acción Popular"
+    ],
+    "correcta": 0,
+    "resolucion": "Está exento de formalismos para facilitar la protección inmediata de la libertad."
+  },
+  {
+    "pregunta": "El Proceso Competencial se encarga de resolver conflictos entre:",
+    "opciones": [
+      "Particulares y el Estado",
+      "Poderes del Estado, gobiernos regionales y locales",
+      "Empresas privadas",
+      "Universidades y estudiantes",
+      "Ciudadanos y bancos"
+    ],
+    "correcta": 1,
+    "resolucion": "Su finalidad es resolver conflictos de competencia y atribuciones."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "17.1 Garantias - P1",
+          "youtube_id": "oteale-SL3c",
+          "pdf_link": "https://drive.google.com/file/d/1O6PtQqr63e9OlzPQgSYOAjqo6T4Lg51r/view",
+          "gratis": true
+        },
+        {
+          "titulo": "17.2 Garantias - P2",
+          "youtube_id": "O4l1BY-X924",
+          "pdf_link": "https://drive.google.com/file/d/1O6PtQqr63e9OlzPQgSYOAjqo6T4Lg51r/view",
+          "gratis": false
+        },
+        {
+          "titulo": "17.3 Garantias - P3",
+          "youtube_id": "f82LwIfm4aw",
+          "pdf_link": "https://drive.google.com/file/d/1O6PtQqr63e9OlzPQgSYOAjqo6T4Lg51r/view",
+          "gratis": true
+        },
+        {
+          "titulo": "17.4 Garantias - P4",
+          "youtube_id": "wCZ54SJQoKA",
+          "pdf_link": "https://drive.google.com/file/d/1O6PtQqr63e9OlzPQgSYOAjqo6T4Lg51r/view",
+          "gratis": false
+        },
+        {
+          "titulo": "17.5 Garantias - P5",
+          "youtube_id": "CEwlUP-sgTE",
+          "pdf_link": "https://drive.google.com/file/d/1O6PtQqr63e9OlzPQgSYOAjqo6T4Lg51r/view",
+          "gratis": true
+        },
+        {
+          "titulo": "17.6 Garantias - P6",
+          "youtube_id": "TBXj5Mo6xNk",
+          "pdf_link": "https://drive.google.com/file/d/1O6PtQqr63e9OlzPQgSYOAjqo6T4Lg51r/view",
+          "gratis": false
+        },
+        {
+          "titulo": "17.7 Garantias - P7",
+          "youtube_id": "NHBrzAkSiKs",
+          "pdf_link": "https://drive.google.com/file/d/1O6PtQqr63e9OlzPQgSYOAjqo6T4Lg51r/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 18: Sistemas de Protección de los Derechos Humanos",
+      "preguntas": [
+        {
+    "pregunta": "La precursora de la ONU fue:",
+    "opciones": [
+      "La Unión Europea",
+      "La Liga Árabe",
+      "La Sociedad de Naciones",
+      "El G7",
+      "La OTAN"
+    ],
+    "correcta": 2,
+    "resolucion": "Creada en 1919 tras la Primera Guerra Mundial, fracasó en evitar la Segunda Guerra Mundial. "
+  },
+  {
+    "pregunta": "El término “Naciones Unidas” fue acuñado por:",
+    "opciones": [
+      "Winston Churchill",
+      "Franklin D. Roosevelt",
+      "Joseph Stalin",
+      "Charles de Gaulle",
+      "Harry Truman"
+    ],
+    "correcta": 1,
+    "resolucion": "Lo utilizó por primera vez en 1942, durante la Segunda Guerra Mundial."
+  },
+  {
+    "pregunta": "La Carta de la ONU fue firmada el:",
+    "opciones": [
+      "1 de enero de 1942",
+      "24 de octubre de 1945",
+      "26 de junio de 1945",
+      "10 de diciembre de 1948",
+      "30 de abril de 1948"
+    ],
+    "correcta": 2,
+    "resolucion": "En San Francisco, por 50 Estados; entró en vigor el 24 de octubre de 1945."
+  },
+  {
+    "pregunta": "La ONU empezó a existir oficialmente el:",
+    "opciones": [
+      "1 de enero de 1942",
+      "10 de diciembre de 1948",
+      "24 de octubre de 1945",
+      "30 de abril de 1948",
+      "15 de marzo de 1946"
+    ],
+    "correcta": 2,
+    "resolucion": "Día de las Naciones Unidas. "
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes no es un órgano principal de la ONU?",
+    "opciones": [
+      "Asamblea General",
+      "Corte Internacional de Justicia",
+      "Consejo de Seguridad",
+      "Consejo de Europa",
+      "Consejo Económico y Social"
+    ],
+    "correcta": 3,
+    "resolucion": "Ese es un organismo regional europeo, no parte de la ONU."
+  },
+  {
+    "pregunta": "El Secretario General de la ONU es designado por:",
+    "opciones": [
+      "Asamblea General a propuesta del Consejo de Seguridad",
+      "Corte Internacional de Justicia",
+      "Asamblea General mediante votación directa de los pueblos",
+      "Consejo Económico y Social",
+      "Consejo Fiduciario"
+    ],
+    "correcta": 0,
+    "resolucion": "Por un período renovable de 5 años."
+  },
+  {
+    "pregunta": "¿Quién fue el único Secretario General peruano de la ONU?",
+    "opciones": [
+      "Antonio Guterres",
+      "Ban Ki-moon",
+      "Javier Pérez de Cuéllar",
+      "Kofi Annan",
+      "Dag Hammarskjöld"
+    ],
+    "correcta": 2,
+    "resolucion": "Ocupó el cargo entre 1982 y 1991. "
+  },
+  {
+    "pregunta": "El órgano de la ONU encargado de mantener la paz y seguridad internacionales es:",
+    "opciones": [
+      "Asamblea General",
+      "Consejo de Seguridad",
+      "Secretaría General",
+      "Corte Internacional de Justicia",
+      "Consejo Económico y Social"
+    ],
+    "correcta": 1,
+    "resolucion": "Tiene 15 miembros, 5 permanentes con poder de veto."
+  },
+  {
+    "pregunta": "Los miembros permanentes del Consejo de Seguridad son:",
+    "opciones": [
+      "Alemania, Japón, China, EEUU, Francia",
+      "China, Francia, Rusia, Reino Unido, EEUU",
+      "China, Rusia, India, Francia, Alemania",
+      "Francia, Italia, China, Rusia, EEUU",
+      "EEUU, Canadá, Francia, Rusia, Reino Unido"
+    ],
+    "correcta": 1,
+    "resolucion": "Los vencedores de la Segunda Guerra Mundial. "
+  },
+  {
+    "pregunta": "La Corte Internacional de Justicia tiene sede en:",
+    "opciones": [
+      "Nueva York",
+      "París",
+      "Ginebra",
+      "La Haya",
+      "Washington"
+    ],
+    "correcta": 3,
+    "resolucion": "Es el único órgano principal de la ONU fuera de Nueva York. "
+  },
+  {
+    "pregunta": "El mandato de los jueces de la Corte Internacional de Justicia dura:",
+    "opciones": [
+      "3 años",
+      "5 años",
+      "6 años",
+      "9 años",
+      "12 años"
+    ],
+    "correcta": 3,
+    "resolucion": "Con renovación parcial de un tercio cada 3 años."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es idioma oficial de la ONU?",
+    "opciones": [
+      "Español",
+      "Árabe",
+      "Alemán",
+      "Inglés",
+      "Ruso"
+    ],
+    "correcta": 2,
+    "resolucion": "Los 6 idiomas oficiales son inglés, chino, francés, ruso, español y árabe."
+  },
+  {
+    "pregunta": "El Consejo Económico y Social (ECOSOC) está conformado por:",
+    "opciones": [
+      "15 miembros",
+      "27 miembros",
+      "54 miembros",
+      "10 miembros",
+      "30 miembros"
+    ],
+    "correcta": 2,
+    "resolucion": "Elegidos por períodos de 3 años."
+  },
+  {
+    "pregunta": "El Consejo de Administración Fiduciaria suspendió sus operaciones en:",
+    "opciones": [
+      "1948",
+      "1967",
+      "1994",
+      "2000",
+      "2010"
+    ],
+    "correcta": 2,
+    "resolucion": "Tras la independencia de los territorios bajo fideicomiso."
+  },
+  {
+    "pregunta": "El organismo especializado de la ONU dedicado a la salud mundial es:",
+    "opciones": [
+      "UNICEF",
+      "OMS",
+      "OIT",
+      "FAO",
+      "UNESCO"
+    ],
+    "correcta": 1,
+    "resolucion": "Organización Mundial de la Salud, fundada en 1948, sede en Ginebra. "
+  },
+  {
+    "pregunta": "La UNESCO tiene su sede en:",
+    "opciones": [
+      "Washington",
+      "París",
+      "Ginebra",
+      "Roma",
+      "Bruselas"
+    ],
+    "correcta": 1,
+    "resolucion": "Promueve la educación, ciencia y cultura."
+  },
+  {
+    "pregunta": "El UNICEF fue creado en:",
+    "opciones": [
+      "1919",
+      "1945",
+      "1946",
+      "1948",
+      "1951"
+    ],
+    "correcta": 2,
+    "resolucion": "Para atender las necesidades urgentes de la infancia tras la Segunda Guerra Mundial."
+  },
+  {
+    "pregunta": "La Declaración Universal de los Derechos Humanos fue aprobada el:",
+    "opciones": [
+      "24 de octubre de 1945",
+      "30 de abril de 1948",
+      "10 de diciembre de 1948",
+      "15 de marzo de 1949",
+      "1 de enero de 1950"
+    ],
+    "correcta": 2,
+    "resolucion": "Mediante Resolución 217 (III) de la Asamblea General de la ONU."
+  },
+  {
+    "pregunta": "La OEA fue creada el 30 de abril de 1948 en:",
+    "opciones": [
+      "San Francisco",
+      "Washington",
+      "Bogotá",
+      "Buenos Aires",
+      "Montevideo"
+    ],
+    "correcta": 2,
+    "resolucion": "Mediante la Carta de la OEA, en vigencia desde 1951."
+  },
+  {
+    "pregunta": "Los cuatro pilares de la OEA son:",
+    "opciones": [
+      "Paz, comercio, soberanía y cultura",
+      "Democracia, derechos humanos, seguridad y desarrollo",
+      "Paz, justicia, soberanía y armamento",
+      "Cultura, economía, soberanía y justicia",
+      "Integración, comercio, paz y educación"
+    ],
+    "correcta": 1,
+    "resolucion": "Son los fundamentos principales de la organización. "
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "18.1 Sistemas - P1",
+          "youtube_id": "nV8RMni2w7g",
+          "pdf_link": "https://drive.google.com/file/d/1t6OGIlHcNtMEEe3sIpHhGMYM5BTWIz0v/view",
+          "gratis": true
+        },
+        {
+          "titulo": "18.2 Sistemas - P2",
+          "youtube_id": "PVGGT_q67HE",
+          "pdf_link": "https://drive.google.com/file/d/1t6OGIlHcNtMEEe3sIpHhGMYM5BTWIz0v/view",
+          "gratis": false
+        },
+        {
+          "titulo": "18.3 Sistemas - P3",
+          "youtube_id": "ppw-RkiAVak",
+          "pdf_link": "https://drive.google.com/file/d/1t6OGIlHcNtMEEe3sIpHhGMYM5BTWIz0v/view",
+          "gratis": true
+        },
+        {
+          "titulo": "18.4 Sistemas - P4",
+          "youtube_id": "CrtSM1JyIWY",
+          "pdf_link": "https://drive.google.com/file/d/1t6OGIlHcNtMEEe3sIpHhGMYM5BTWIz0v/view",
+          "gratis": false
+        },
+        {
+          "titulo": "18.5 Sistemas - P5",
+          "youtube_id": "NVg1CyV-DBQ",
+          "pdf_link": "https://drive.google.com/file/d/1t6OGIlHcNtMEEe3sIpHhGMYM5BTWIz0v/view",
+          "gratis": true
+        },
+        {
+          "titulo": "18.6 Sistemas - P6",
+          "youtube_id": "NB-Jgf1eDdc",
+          "pdf_link": "https://drive.google.com/file/d/1t6OGIlHcNtMEEe3sIpHhGMYM5BTWIz0v/view",
+          "gratis": false
+        },
+        {
+          "titulo": "18.7 Sistemas - P7",
+          "youtube_id": "Faj9_szWqBk",
+          "pdf_link": "https://drive.google.com/file/d/1t6OGIlHcNtMEEe3sIpHhGMYM5BTWIz0v/view",
+          "gratis": true
+        },
+        {
+          "titulo": "18.8 Sistemas - P8",
+          "youtube_id": "Ct5Bn2oH-ng",
+          "pdf_link": "https://drive.google.com/file/d/1t6OGIlHcNtMEEe3sIpHhGMYM5BTWIz0v/view",
+          "gratis": false
+        },
+        {
+          "titulo": "18.9 Sistemas - P9",
+          "youtube_id": "ZN5uuWPbvzg",
+          "pdf_link": "https://drive.google.com/file/d/1t6OGIlHcNtMEEe3sIpHhGMYM5BTWIz0v/view",
+          "gratis": false
+        }
+      ]
+    }
+  ]
+}
