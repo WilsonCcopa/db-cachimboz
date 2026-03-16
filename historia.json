@@ -1,0 +1,3983 @@
+{
+  "curso": "Historia",
+  "temas": [
+    {
+      "titulo": "Tema 1: La Historia",
+      "preguntas": [
+        {
+    "pregunta": "¿Qué autor es considerado por Cicerón como el \"Padre de la Historia\"?",
+    "opciones": [
+      "Tucídides",
+      "Jenofonte",
+      "Heródoto de Alicarnaso",
+      "Aristóteles",
+      "Platón"
+    ],
+    "correcta": 2,
+    "resolucion": "Heródoto de Alicarnaso. Personaje que investigó el pasado de su tiempo."
+  },
+  {
+    "pregunta": "La Historia como ciencia estudia los hechos del pasado humano de manera:",
+    "opciones": [
+      "Subjetiva y literaria",
+      "Sistemática, metódica y verídica",
+      "Azarosa y desordenada",
+      "Únicamente cronológica",
+      "Basada en mitos"
+    ],
+    "correcta": 1,
+    "resolucion": "Sistemática, metódica y verídica. Son las tres características que ayudan a comprender mejor el estudio del pasado humano."
+  },
+  {
+    "pregunta": "¿Cuáles son considerados por Heródoto los \"dos ojos de la Historia\"?",
+    "opciones": [
+      "Pasado y presente",
+      "Hombre y sociedad",
+      "Espacio y tiempo",
+      "Arqueología y ciencia",
+      "Memoria y olvido"
+    ],
+    "correcta": 2,
+    "resolucion": "Espacio y tiempo. Frase atribuida al gran Heródoto."
+  },
+  {
+    "pregunta": "La definición de Historia como \"hecho\" se refiere a:",
+    "opciones": [
+      "La interpretación del historiador",
+      "La metodología científica aplicada",
+      "Todos los acontecimientos o procesos sociales",
+      "El estudio del futuro",
+      "Solo los restos materiales"
+    ],
+    "correcta": 2,
+    "resolucion": "Todos los acontecimientos o procesos sociales. Esto desde el origen del hombre hasta nuestros tiempos."
+  },
+  {
+    "pregunta": "El patrimonio cultural inmaterial incluye:",
+    "opciones": [
+      "Restos arqueológicos",
+      "Legado artístico",
+      "Folclore y tradiciones",
+      "Bibliotecas nacionales",
+      "Edificaciones coloniales"
+    ],
+    "correcta": 2,
+    "resolucion": "Folclore y tradiciones. Ya que son manifestaciones y no elementos materiales."
+  },
+  {
+    "pregunta": "¿Qué institución en el Perú es la encargada de proteger la herencia social y cultural?",
+    "opciones": [
+      "Biblioteca Nacional",
+      "Archivo General de la Nación",
+      "Ministerio de Cultura",
+      "Congreso de la República",
+      "Ministerio de Educación"
+    ],
+    "correcta": 2,
+    "resolucion": "Ministerio de Cultura. El Estado protege el patrimonio cultural a través de leyes, y por medio de esta institución a nivel nacional."
+  },
+  {
+    "pregunta": "Los restos arqueológicos y el legado artístico son ejemplos de patrimonio:",
+    "opciones": [
+      "Inmaterial",
+      "Documental",
+      "Bibliográfico",
+      "Material",
+      "Natural"
+    ],
+    "correcta": 3,
+    "resolucion": "Material."
+  },
+  {
+    "pregunta": "Uno de los objetivos de la Historia como ciencia social es:",
+    "opciones": [
+      "Olvidar el pasado",
+      "Entender el presente",
+      "Ignorar el futuro",
+      "Recopilar datos sin orden",
+      "Narrar leyendas"
+    ],
+    "correcta": 1,
+    "resolucion": "Entender el presente. Es uno de los tres puntos clave de la ciencia histórica."
+  },
+  {
+    "pregunta": "El Archivo General de la Nación custodia principalmente el fondo:",
+    "opciones": [
+      "Bibliográfico",
+      "Artístico",
+      "Documental",
+      "Arqueológico",
+      "Paisajístico"
+    ],
+    "correcta": 2,
+    "resolucion": "Fondo documental. Función específica asignada a dicha institución."
+  },
+  {
+    "pregunta": "La obra principal de Heródoto de Alicarnaso se titula:",
+    "opciones": [
+      "Anales de la guerra",
+      "Nueve libros de la Historia",
+      "La República",
+      "El hombre antediluviano",
+      "Crónica del Perú"
+    ],
+    "correcta": 1,
+    "resolucion": "Nueve libros de la Historia."
+  },
+  {
+    "pregunta": "¿Cuál es un elemento fundamental de la Historia que involucra a los grupos humanos?",
+    "opciones": [
+      "Espacio",
+      "Tiempo",
+      "Sociedad",
+      "Patrimonio",
+      "Ciencia"
+    ],
+    "correcta": 2,
+    "resolucion": "Sociedad."
+  },
+  {
+    "pregunta": "El fondo bibliográfico en el Perú es responsabilidad de la:",
+    "opciones": [
+      "Universidad Nacional",
+      "Biblioteca Nacional del Perú",
+      "Academia de la Historia",
+      "Municipalidad de Lima",
+      "UNESCO"
+    ],
+    "correcta": 1,
+    "resolucion": "Biblioteca Nacional del Perú. Institución vinculada al fondo bibliográfico."
+  },
+  {
+    "pregunta": "La Historia como hecho abarca desde la aparición del hombre hasta:",
+    "opciones": [
+      "La invención de la escritura",
+      "La Edad Media",
+      "La actualidad",
+      "La Revolución Industrial",
+      "El año 2000"
+    ],
+    "correcta": 2,
+    "resolucion": "La actualidad. Rango temporal definido en \"Historia como hecho\"."
+  },
+  {
+    "pregunta": "Proyectar al futuro es una finalidad de:",
+    "opciones": [
+      "El patrimonio inmaterial",
+      "La Historia como ciencia",
+      "El fondo documental",
+      "La arqueología aislada",
+      "El Ministerio de Educación"
+    ],
+    "correcta": 1,
+    "resolucion": "La Historia como ciencia."
+  },
+  {
+    "pregunta": "En el contexto de la Historia, el patrimonio se define genéricamente como toda herencia de carácter:",
+    "opciones": [
+      "Económico y mercantil",
+      "Político y militar",
+      "Social y cultural",
+      "Individual y privado",
+      "Religioso y místico"
+    ],
+    "correcta": 2,
+    "resolucion": "Social y cultural."
+  },
+  {
+    "pregunta": "¿Qué elemento de la Historia responde a la pregunta \"¿Cuándo ocurrió?\"?",
+    "opciones": [
+      "Sociedad",
+      "Espacio",
+      "Tiempo",
+      "Veracidad",
+      "Método"
+    ],
+    "correcta": 2,
+    "resolucion": "Tiempo."
+  },
+  {
+    "pregunta": "El término \"cultura viva de los pueblos\" hace referencia al patrimonio:",
+    "opciones": [
+      "Material",
+      "Inmaterial",
+      "Bibliográfico",
+      "Documental",
+      "Fósil"
+    ],
+    "correcta": 1,
+    "resolucion": "Inmaterial. Es sinónimo de folclore y tradición."
+  },
+  {
+    "pregunta": "¿Qué característica de la Historia como ciencia asegura que los datos sean reales?",
+    "opciones": [
+      "Sistemática",
+      "Metódica",
+      "Verídica",
+      "Proyectiva",
+      "Social"
+    ],
+    "correcta": 2,
+    "resolucion": "Verídica. Atributo que garantiza la verdad de los hechos estudiados."
+  },
+  {
+    "pregunta": "La Geografía está relacionada con el elemento de la Historia, llamada:",
+    "opciones": [
+      "Tiempo",
+      "Espacio",
+      "Clima",
+      "Territorio nacional",
+      "Paisaje"
+    ],
+    "correcta": 1,
+    "resolucion": "Espacio. Elemento que ubica geográficamente los hechos históricos."
+  },
+  {
+    "pregunta": "Cicerón fue quien otorgó un título honorífico a Heródoto. Este título es:",
+    "opciones": [
+      "Primer Historiador",
+      "Sabio de Alicarnaso",
+      "Padre de la Historia",
+      "Gran Arqueólogo",
+      "Filósofo del Pasado"
+    ],
+    "correcta": 2,
+    "resolucion": "Padre de la Historia."
+  },
+  {
+    "pregunta": "Las evidencias, restos y testimonios dejados por los hombres antiguos se denominan:",
+    "opciones": [
+      "Herencia",
+      "Fuentes de la Historia",
+      "Patrimonio material",
+      "Fósiles",
+      "Archivos"
+    ],
+    "correcta": 1,
+    "resolucion": "Fuentes de la Historia."
+  },
+  {
+    "pregunta": "¿Cuál es la importancia principal de las fuentes históricas?",
+    "opciones": [
+      "Adornar los museos",
+      "Conocer el futuro",
+      "Reconstruir la historia de la sociedad",
+      "Clasificar objetos antiguos",
+      "Estudiar la geografía"
+    ],
+    "correcta": 2,
+    "resolucion": "Reconstruir la historia de la sociedad. Se indica explícitamente como su finalidad."
+  },
+  {
+    "pregunta": "Las fuentes que permiten conocer el grado de adelanto cultural de una sociedad, que son llamadas también como monumentales, son:",
+    "opciones": [
+      "Escritas",
+      "Orales",
+      "Antroposomáticas",
+      "Materiales",
+      "Audiovisuales"
+    ],
+    "correcta": 3,
+    "resolucion": "Materiales. También llamadas monumentales o arqueológicas."
+  },
+  {
+    "pregunta": "¿Qué tipo de fuente histórica son las crónicas, actas y decretos?",
+    "opciones": [
+      "Tradicionales",
+      "Monumentales",
+      "Escritas",
+      "Tecnológicas",
+      "Étcnicas"
+    ],
+    "correcta": 2,
+    "resolucion": "Escritas. Se clasifican como registros escritos o documentales."
+  },
+  {
+    "pregunta": "Los mitos y leyendas que se transmiten de generación en generación pertenecen a las fuentes:",
+    "opciones": [
+      "Documentales",
+      "Orales",
+      "Audiovisuales",
+      "Físicas",
+      "Materiales"
+    ],
+    "correcta": 1,
+    "resolucion": "Orales. Se definen como relatos verbales y tradicionales."
+  },
+  {
+    "pregunta": "Las fuentes antroposomáticas son aquellas que consisten en:",
+    "opciones": [
+      "Restos físicos humanos",
+      "Herramientas de piedra",
+      "Grabaciones de audio",
+      "Libros antiguos",
+      "Pinturas rupestres"
+    ],
+    "correcta": 0,
+    "resolucion": "Restos físicos humanos."
+  },
+  {
+    "pregunta": "Un ejemplo de fuente antroposomática es:",
+    "opciones": [
+      "Los Vladivideos",
+      "La Señora de Cao",
+      "El Palacio de Gobierno",
+      "Las crónicas de Indias",
+      "El idioma quechua"
+    ],
+    "correcta": 1,
+    "resolucion": "La Señora de Cao."
+  },
+  {
+    "pregunta": "Las fuentes de carácter tecnológico que registran voces, videos e imágenes son:",
+    "opciones": [
+      "Escritas",
+      "Tradicionales",
+      "Monumentales",
+      "Audiovisuales",
+      "Antroposomáticas"
+    ],
+    "correcta": 3,
+    "resolucion": "Audiovisuales. Se destaca su naturaleza tecnológica y capacidad de registro multimedia."
+  },
+  {
+    "pregunta": "¿Qué tipo de información permite obtener el estudio de las fuentes materiales o monumentales?",
+    "opciones": [
+      "El origen de los mitos y leyendas",
+      "El grado de adelanto cultural de una sociedad",
+      "Los registros de voces y videos tecnológicos",
+      "El desarrollo físico y étnico del hombre",
+      "Los nombres antiguos de los lugares o topónimos"
+    ],
+    "correcta": 1,
+    "resolucion": "El grado de adelanto cultural de una sociedad. Las fuentes materiales como cerámica, tejidos y construcciones son las que permiten conocer dicho nivel de avance."
+  },
+  {
+    "pregunta": "Los \"Petroaudios\" y las fotos de Martín Chambi son ejemplos de fuentes:",
+    "opciones": [
+      "Escritas",
+      "Orales",
+      "Materiales",
+      "Audiovisuales",
+      "Biológicas"
+    ],
+    "correcta": 3,
+    "resolucion": "Audiovisuales."
+  },
+  {
+    "pregunta": "El estudio de los coprolitos (heces) permite entender el desarrollo humano desde la fuente:",
+    "opciones": [
+      "Material",
+      "Antroposomática",
+      "Oral",
+      "Escrita",
+      "Arqueológica"
+    ],
+    "correcta": 1,
+    "resolucion": "Antroposomática. Las heces se incluyen dentro de los restos físicos humanos."
+  },
+  {
+    "pregunta": "Los topónimos (nombres de lugares) y el idioma son ejemplos de fuentes:",
+    "opciones": [
+      "Escritas",
+      "Materiales",
+      "Orales",
+      "Audiovisuales",
+      "Documentales"
+    ],
+    "correcta": 2,
+    "resolucion": "Orales. Forman parte de la tradición verbal de los pueblos."
+  },
+  {
+    "pregunta": "Las construcciones, herramientas y cerámica se clasifican como fuentes:",
+    "opciones": [
+      "Documentales",
+      "Antroposomáticas",
+      "Materiales",
+      "Orales",
+      "Audiovisuales"
+    ],
+    "correcta": 2,
+    "resolucion": "Materiales. Son evidencias físicas de la actividad y adelanto cultural."
+  },
+  {
+    "pregunta": "El estudio de huesos, uñas y cabellos sirve para entender:",
+    "opciones": [
+      "La economía antigua",
+      "El grado de desarrollo físico y étnico",
+      "La mitología del pueblo",
+      "La política del pasado",
+      "El uso del papel"
+    ],
+    "correcta": 1,
+    "resolucion": "El grado de desarrollo físico y étnico. Es la utilidad señalada para las fuentes antroposomáticas."
+  },
+  {
+    "pregunta": "Las fuentes tradicionales también son conocidas como:",
+    "opciones": [
+      "Monumentales",
+      "Documentales",
+      "Orales",
+      "Tecnológicas",
+      "Arqueológicas"
+    ],
+    "correcta": 2,
+    "resolucion": "Orales. Ambos términos se usan para describir relatos transmitidos verbalmente."
+  },
+  {
+    "pregunta": "¿Qué tipo de fuente histórica es una filmina o una película histórica?",
+    "opciones": [
+      "Escrita",
+      "Audiovisual",
+      "Oral",
+      "Material",
+      "Antroposomática"
+    ],
+    "correcta": 1,
+    "resolucion": "Audiovisual. Son medios que registran imágenes y sonidos mediante tecnología."
+  },
+  {
+    "pregunta": "Las fuentes materiales también reciben el nombre de:",
+    "opciones": [
+      "Tradicionales",
+      "Monumentales/Arqueológicas",
+      "Documentales",
+      "Tecnológicas",
+      "Fisiológicas"
+    ],
+    "correcta": 1,
+    "resolucion": "Monumentales/Arqueológicas."
+  },
+  {
+    "pregunta": "El folclore es considerado una fuente de tipo:",
+    "opciones": [
+      "Escrita",
+      "Material",
+      "Oral",
+      "Antroposomática",
+      "Audiovisual"
+    ],
+    "correcta": 2,
+    "resolucion": "Oral. Se incluye dentro de los relatos y tradiciones verbales."
+  },
+  {
+    "pregunta": "Los registros plasmados en papiro se clasifican como fuentes:",
+    "opciones": [
+      "Tradicionales",
+      "Monumentales",
+      "Escritas",
+      "Audiovisuales",
+      "Antroposomáticas"
+    ],
+    "correcta": 2,
+    "resolucion": "Escritas."
+  },
+  {
+    "pregunta": "Si un historiador estudia la \"Dama de Ampato\", está utilizando una fuente:",
+    "opciones": [
+      "Escrita",
+      "Oral",
+      "Audiovisual",
+      "Antroposomática",
+      "Monumental"
+    ],
+    "correcta": 3,
+    "resolucion": "Antroposomática. Al ser un cuerpo preservado, entra en la categoría de restos físicos."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "1.1 Historia como Ciencia",
+          "youtube_id": "LaFiJ7tbSeQ",
+          "pdf_link": "https://drive.google.com/file/d/1x4VWDsKn36GbJshMv9VtrltdVeDrqyWg/view",
+          "gratis": true
+        },
+        {
+          "titulo": "1.2 Fuentes de la Historia",
+          "youtube_id": "qEWM7j9JNts",
+          "pdf_link": "https://drive.google.com/file/d/1x4VWDsKn36GbJshMv9VtrltdVeDrqyWg/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 2: Prehistoria",
+      "preguntas": [
+        {
+    "pregunta": "Etimológicamente, el término \"Paleolítico\" proviene de las voces griegas paleo y lithos, lo que se traduce como:",
+    "opciones": [
+      "Piedra nueva.",
+      "Piedra media.",
+      "Piedra antigua.",
+      "Piedra tallada.",
+      "Piedra pulida."
+    ],
+    "correcta": 2,
+    "resolucion": "Paleolítico deriva de dos términos, \"Paleo\" = antiguo y \"Lithos\" = piedra. Es el periodo más extenso donde el hombre usaba piedra tallada de forma tosca."
+  },
+  {
+    "pregunta": "¿Quién es el arqueólogo y antropólogo que utilizó por primera vez el término \"Prehistoria\" en su obra La arqueología y los anales prehistóricos de Escocia?",
+    "opciones": [
+      "Boucher de Perthes.",
+      "Christian Thomsen.",
+      "Daniel Wilson.",
+      "Charles Darwin.",
+      "Luis Guillermo Lumbreras."
+    ],
+    "correcta": 2,
+    "resolucion": "Daniel Wilson fue el primero en acuñar el término en 1851 para referirse al periodo anterior a la escritura."
+  },
+  {
+    "pregunta": "El personaje considerado como el \"Padre de la Prehistoria\" por demostrar la existencia del hombre antiguo en su obra Antigüedades célticas y antediluvianas es:",
+    "opciones": [
+      "Jacobo Boucher de Perthes.",
+      "Christian Thomsen.",
+      "Daniel Wilson.",
+      "John Lubbock.",
+      "Richard MacNeish."
+    ],
+    "correcta": 0,
+    "resolucion": "Boucher de Perthes es el padre de la Prehistoria porque fue el primero en recoger y catalogar herramientas líticas junto a restos de animales extintos, demostrando que el hombre era mucho más antiguo de lo que se creía."
+  },
+  {
+    "pregunta": "La división clásica de la Prehistoria en \"Edad de Piedra\" y \"Edad de los Metales\" fue propuesta originalmente por:",
+    "opciones": [
+      "Daniel Wilson.",
+      "Christian J. Thomsen.",
+      "Boucher de Perthes.",
+      "Max Uhle.",
+      "Federico Kauffmann."
+    ],
+    "correcta": 1,
+    "resolucion": "Thomsen, basándose en los materiales de las herramientas encontradas, estableció este sistema de tres edades (Piedra, Bronce, Hierro) para organizar las colecciones del Museo Nacional de Dinamarca."
+  },
+  {
+    "pregunta": "La Prehistoria se define esencialmente como el periodo de las sociedades:",
+    "opciones": [
+      "Esclavistas.",
+      "Ágrafas.",
+      "Civilizadas.",
+      "Teocráticas.",
+      "Globalizadas."
+    ],
+    "correcta": 1,
+    "resolucion": "El término \"ágrafo\" significa \"sin escritura\". La Prehistoria comprende todo el desarrollo humano antes de la invención de los registros escritos."
+  },
+  {
+    "pregunta": "El periodo intermedio entre el Paleolítico y el Neolítico, caracterizado por el cambio climático y la industria microlítica, es el:",
+    "opciones": [
+      "Calcolítico.",
+      "Edad de Cobre.",
+      "Mesolítico.",
+      "Arcaico Superior.",
+      "Formativo."
+    ],
+    "correcta": 2,
+    "resolucion": "\"Meso\" significa medio. El Mesolítico es la etapa de transición donde el hombre empieza a adaptarse al clima actual (Holoceno)."
+  },
+  {
+    "pregunta": "Dentro de la Edad de los Metales, ¿cuál es el orden cronológico correcto de aparición según el esquema de Thomsen?",
+    "opciones": [
+      "Hierro, Bronce, Cobre.",
+      "Cobre, Hierro, Bronce.",
+      "Cobre, Bronce, Hierro.",
+      "Bronce, Cobre, Hierro.",
+      "Oro, Plata, Cobre."
+    ],
+    "correcta": 2,
+    "resolucion": "El hombre primero usó el cobre (natural), luego descubrió la aleación con estaño para el bronce y finalmente desarrolló hornos más potentes para el hierro."
+  },
+  {
+    "pregunta": "El término \"Neolítico\" hace referencia a:",
+    "opciones": [
+      "Piedra antigua.",
+      "Piedra de colores.",
+      "Piedra nueva.",
+      "Piedra fundida.",
+      "Piedra tallada."
+    ],
+    "correcta": 2,
+    "resolucion": "\"Neo\" significa nuevo. Se refiere a la técnica de la piedra pulida, que permitía herramientas más eficaces para la agricultura."
+  },
+  {
+    "pregunta": "¿Cuál es el periodo más largo de la historia de la humanidad?",
+    "opciones": [
+      "Neolítico.",
+      "Edad de los Metales.",
+      "Mesolítico.",
+      "Paleolítico.",
+      "Edad de Cobre."
+    ],
+    "correcta": 3,
+    "resolucion": "El Paleolítico abarca desde la aparición de los primeros homínidos hasta hace unos 10,000 años, ocupando más del 95% de la existencia humana."
+  },
+  {
+    "pregunta": "En el video se menciona que el término \"Prehistoria\" se ha dejado de usar en sectores académicos modernos porque:",
+    "opciones": [
+      "Es un término muy difícil de pronunciar.",
+      "Se considera una referencia meramente eurocentrista.",
+      "No existen pruebas del hombre antiguo.",
+      "La escritura ya existía desde el inicio.",
+      "No hubo edad de piedra en América."
+    ],
+    "correcta": 1,
+    "resolucion": "El concepto tradicional de Prehistoria se basa en la historia europea. En otras regiones (como América), los procesos culturales no encajan exactamente con las fechas o hitos europeos."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes periodos pertenece a la Edad de Piedra?",
+    "opciones": [
+      "Edad de Bronce.",
+      "Paleolítico.",
+      "Edad de Hierro.",
+      "Calcolítico.",
+      "Edad de Oro."
+    ],
+    "correcta": 1,
+    "resolucion": "La Edad de Piedra se divide en Paleolítico, Mesolítico y Neolítico. Las otras opciones pertenecen a la Edad de los Metales."
+  },
+  {
+    "pregunta": "La obra Antigüedades célticas y antediluvianas pertenece a:",
+    "opciones": [
+      "Daniel Wilson.",
+      "Jacobo Boucher de Perthes.",
+      "Christian Thomsen.",
+      "Herodoto.",
+      "Julio C. Tello."
+    ],
+    "correcta": 1,
+    "resolucion": "Esta obra es fundamental porque en ella Boucher de Perthes expone sus hallazgos en el valle del Somme, probando la coexistencia de humanos con fauna extinguida."
+  },
+  {
+    "pregunta": "El estudio de la Prehistoria se basa principalmente en fuentes:",
+    "opciones": [
+      "Escritas.",
+      "Arqueológicas (restos materiales).",
+      "Audiovisuales.",
+      "Hemerográficas.",
+      "Epigráficas."
+    ],
+    "correcta": 1,
+    "resolucion": "Al ser sociedades ágrafas (sin escritura), la única forma de conocer su historia es a través de sus restos materiales: herramientas, huesos, cerámicas, etc."
+  },
+  {
+    "pregunta": "Si \"Lithos\" significa piedra, ¿qué ciencia se encarga del estudio de los restos fósiles humanos y animales de la prehistoria?",
+    "opciones": [
+      "Numismática.",
+      "Paleontología.",
+      "Heráldica.",
+      "Sigilografía.",
+      "Diplomática."
+    ],
+    "correcta": 1,
+    "resolucion": "Aunque no está escrita directamente en el texto, la relación con \"Paleo\" (antiguo) indica que la Paleontología es la ciencia auxiliar que estudia los seres orgánicos desaparecidos."
+  },
+  {
+    "pregunta": "El Mesolítico se ubica cronológicamente entre:",
+    "opciones": [
+      "La Edad de Cobre y Bronce.",
+      "El Paleolítico y el Neolítico.",
+      "El Neolítico y la Historia.",
+      "El Pleistoceno y el Mioceno.",
+      "El Paleolítico Inferior y el Medio."
+    ],
+    "correcta": 1,
+    "resolucion": "Es el periodo de transición donde ocurren cambios en la flora y fauna tras la última glaciación."
+  },
+  {
+    "pregunta": "La etimología de la palabra \"Mesolítico\" es:",
+    "opciones": [
+      "Piedra antigua.",
+      "Piedra entre ríos.",
+      "Piedra media.",
+      "Piedra pulimentada.",
+      "Piedra preciosa."
+    ],
+    "correcta": 2,
+    "resolucion": "Proviene de mesos (medio) y lithos (piedra)."
+  },
+  {
+    "pregunta": "Un aporte importante de Christian Thomsen a la ciencia fue:",
+    "opciones": [
+      "Descubrir el fuego.",
+      "Pintar en las cuevas de Altamira.",
+      "Establecer un método cronológico basado en la tecnología de los materiales.",
+      "Escribir el primer libro sobre los Incas.",
+      "Inventar la escritura cuneiforme."
+    ],
+    "correcta": 2,
+    "resolucion": "Su clasificación permitió a los arqueólogos ordenar los objetos hallados según si eran de piedra, bronce o hierro, creando una línea de tiempo tecnológica."
+  },
+  {
+    "pregunta": "¿A qué se refiere el término \"Sociedad Ágrafa\"?",
+    "opciones": [
+      "Una sociedad que no practica la agricultura.",
+      "Una sociedad que no tiene religión.",
+      "Una sociedad que carece de escritura.",
+      "Una sociedad que vive en ciudades.",
+      "Una sociedad que solo usa metales."
+    ],
+    "correcta": 2,
+    "resolucion": "Proviene del griego a (sin) y graphos (escritura). Es la característica que define a todos los pueblos de la Prehistoria."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes periodos NO forma parte de la división de la Edad de Piedra?",
+    "opciones": [
+      "Paleolítico.",
+      "Mesolítico.",
+      "Neolítico.",
+      "Edad de Bronce.",
+      "Todos pertenecen a la Edad de Piedra."
+    ],
+    "correcta": 3,
+    "resolucion": "La Edad de Bronce es parte de la Edad de los Metales, no de la Edad de Piedra."
+  },
+  {
+    "pregunta": "En la Prehistoria, el periodo que sirve de transición entre la Edad de Piedra y la Edad de los Metales, donde se empieza a usar el metal sin abandonar la piedra, se denomina:",
+    "opciones": [
+      "Edad de Hierro",
+      "Edad de Bronce",
+      "Edad de Cobre (Calcolítico)",
+      "Neolítico Superior",
+      "Paleolítico Final."
+    ],
+    "correcta": 2,
+    "resolucion": "Este periodo (también llamado Calcolítico o Cuprolítico) representa la transición técnica donde el ser humano descubre la maleabilidad del cobre, pero sigue utilizando herramientas de piedra para las tareas más pesadas, ya que el cobre puro es un metal blando."
+  },
+  {
+    "pregunta": "La etimología de la palabra Paleolítico es:",
+    "opciones": [
+      "Piedra nueva",
+      "Piedra media",
+      "Piedra antigua",
+      "Piedra pulida",
+      "Piedra fundida"
+    ],
+    "correcta": 2,
+    "resolucion": "Proviene de los vocablos griegos paleos (antiguo) y lithos (piedra). Hace referencia a la tecnología más primitiva donde el hombre tallaba la piedra a golpes para obtener bordes cortantes."
+  },
+  {
+    "pregunta": "Durante el Paleolítico, la economía se define como:",
+    "opciones": [
+      "Productora",
+      "Parasitaria",
+      "Industrial",
+      "Mercantil",
+      "Monetaria"
+    ],
+    "correcta": 1,
+    "resolucion": "Se le llama parasitaria, depredadora o de subsistencia porque el ser humano no produce su alimento. Se limita a consumir lo que la naturaleza le ofrece mediante la caza y la recolección, sin reponer los recursos."
+  },
+  {
+    "pregunta": "El estilo de vida del hombre paleolítico, al tener que perseguir animales, era:",
+    "opciones": [
+      "Sedentario",
+      "Nómade",
+      "Trashumante",
+      "Urbano",
+      "Estable"
+    ],
+    "correcta": 1,
+    "resolucion": "El nomadismo es el desplazamiento constante de un lugar a otro en busca de recursos. Al agotarse los frutos de una zona o migrar los animales, la banda debía trasladarse para sobrevivir."
+  },
+  {
+    "pregunta": "La organización social del Paleolítico basada en vínculos de sangre fue:",
+    "opciones": [
+      "La Tribu",
+      "El Estado",
+      "La Banda",
+      "El ayllu",
+      "La Ciudad"
+    ],
+    "correcta": 2,
+    "resolucion": "La banda fue la forma de organización más simple y primaria. Eran grupos pequeños (generalmente menos de 30 personas) unidos por parentesco, lo que facilitaba la cooperación en la caza."
+  },
+  {
+    "pregunta": "El arte rupestre se define como aquel realizado en:",
+    "opciones": [
+      "Piedras pequeñas",
+      "Paredes de cuevas",
+      "Arcilla cocida",
+      "Metales preciosos",
+      "Huesos de aves"
+    ],
+    "correcta": 1,
+    "resolucion": "El arte rupestre o parietal son las pinturas realizadas sobre las rocas de las cuevas o abrigos naturales. Los ejemplos más famosos son las cuevas de Lascaux (Francia) y Altamira (España)."
+  },
+  {
+    "pregunta": "Las estatuillas de piedra que representaban la fertilidad se llaman:",
+    "opciones": [
+      "Menhires",
+      "Dólmenes",
+      "Venus",
+      "Tótem",
+      "Microlitos"
+    ],
+    "correcta": 2,
+    "resolucion": "Las \"Venus Paleolíticas\" son esculturas de arte mobiliar que exageraban los rasgos femeninos asociados a la reproducción, reflejando el culto a la vida y la continuidad de la especie."
+  },
+  {
+    "pregunta": "El descubrimiento que permitió al hombre cocinar y ahuyentar fieras fue:",
+    "opciones": [
+      "La rueda",
+      "El fuego",
+      "El bronce",
+      "La cerámica",
+      "El arado"
+    ],
+    "correcta": 1,
+    "resolucion": "El fuego fue el avance tecnológico más importante del Paleolítico. Permitió mejorar la dieta mediante la cocción, extendió las horas de actividad gracias a la luz y sirvió como defensa natural."
+  },
+  {
+    "pregunta": "El concepto de \"Tótem\" en las bandas paleolíticas se refiere a:",
+    "opciones": [
+      "Un arma de guerra",
+      "Un antepasado sagrado",
+      "Un tipo de vivienda",
+      "Un jefe militar",
+      "Una herramienta lítica"
+    ],
+    "correcta": 1,
+    "resolucion": "El tótem es un símbolo (animal o planta) que la banda considera su ancestro o protector. Representa el origen de los lazos espirituales y la identidad del grupo."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un ejemplo de arte mobiliar?",
+    "opciones": [
+      "Pintura de Altamira",
+      "Cueva de Lascaux",
+      "Venus de Willendorf",
+      "Grabados de Toquepala",
+      "Pinturas de manos"
+    ],
+    "correcta": 2,
+    "resolucion": "El arte mobiliar es aquel que se puede transportar. La Venus de Willendorf es una estatuilla pequeña que el hombre nómade podía llevar consigo durante sus traslados."
+  },
+  {
+    "pregunta": "La técnica lítica del Paleolítico consistía principalmente en:",
+    "opciones": [
+      "Pulido de piedra",
+      "Percusión o tallado",
+      "Fundición de roca",
+      "Moldeado de barro",
+      "Grabado láser"
+    ],
+    "correcta": 1,
+    "resolucion": "El hombre obtenía sus herramientas golpeando una piedra contra otra (percusión) para desprender lascas y crear filos, una técnica manual y tosca a diferencia del pulido posterior."
+  },
+  {
+    "pregunta": "El Mesolítico es el periodo de transición entre el:",
+    "opciones": [
+      "Bronce e Hierro",
+      "Paleolítico y Neolítico",
+      "Cobre y Bronce",
+      "Oro y Plata",
+      "Lítico y Arcaico"
+    ],
+    "correcta": 1,
+    "resolucion": "Etimológicamente significa \"piedra media\". Es la etapa que conecta la antigua vida de cazador con la futura vida de agricultor, ocurriendo durante un gran cambio climático."
+  },
+  {
+    "pregunta": "El cambio climático que marca el inicio del Mesolítico es el:",
+    "opciones": [
+      "Pleistoceno",
+      "Mioceno",
+      "Holoceno",
+      "Jurásico",
+      "Cretácico"
+    ],
+    "correcta": 2,
+    "resolucion": "El Holoceno es la época de calentamiento global que puso fin a la última glaciación. Esto provocó el retiro de los hielos y la desaparición de la fauna gigante (megafauna)."
+  },
+  {
+    "pregunta": "La economía del Mesolítico se caracteriza por la aparición de la:",
+    "opciones": [
+      "Agricultura",
+      "Horticultura",
+      "Industria",
+      "Minería",
+      "Ganadería"
+    ],
+    "correcta": 1,
+    "resolucion": "La horticultura es el cultivo experimental o inicial de plantas en huertos pequeños. No es una agricultura masiva, sino una fase de observación y ensayo del ciclo botánico."
+  },
+  {
+    "pregunta": "El estilo de vida seminómade del Mesolítico se denomina también:",
+    "opciones": [
+      "Nomadismo total",
+      "Trashumancia",
+      "Sedentarismo",
+      "Urbanismo",
+      "Migración forzada"
+    ],
+    "correcta": 1,
+    "resolucion": "La trashumancia o seminomadismo implica que el hombre se queda en un lugar por temporadas largas dependiendo del clima o de la cosecha de sus huertos, pero aún se desplaza."
+  },
+  {
+    "pregunta": "Las herramientas de piedra muy pequeñas del Mesolítico se llaman:",
+    "opciones": [
+      "Megalitos",
+      "Monolitos",
+      "Microlitos",
+      "Aerolitos",
+      "Estalagmitas"
+    ],
+    "correcta": 2,
+    "resolucion": "Los microlitos son puntas de piedra diminutas y geométricas. Eran ideales para ser insertadas en madera o hueso para fabricar flechas y arpones más ligeros y precisos."
+  },
+  {
+    "pregunta": "La extinción de la megafauna ocurrió debido al:",
+    "opciones": [
+      "Exceso de caza",
+      "Calentamiento global",
+      "Frío extremo",
+      "Diluvio universal",
+      "Ataque de virus"
+    ],
+    "correcta": 1,
+    "resolucion": "Con el fin de la glaciación (inicio del Holoceno), el hábitat de los grandes animales cambió drásticamente. El calor redujo sus zonas de alimento, provocando su desaparición y obligando al hombre a cazar presas más pequeñas."
+  },
+  {
+    "pregunta": "Un avance tecnológico importante en la pesca mesolítica fue el:",
+    "opciones": [
+      "Barco de vapor",
+      "Arpón de hueso",
+      "Motor de agua",
+      "Radar marino",
+      "Submarino"
+    ],
+    "correcta": 1,
+    "resolucion": "El mayor desarrollo de la pesca con arpón permitió al hombre diversificar su dieta, aprovechando los recursos de ríos y costas ante la escasez de los grandes mamíferos terrestres."
+  },
+  {
+    "pregunta": "¿Qué fenómeno social se inicia con la diferenciación racial?",
+    "opciones": [
+      "El lenguaje",
+      "La escritura",
+      "Grupos humanos diversos",
+      "La moneda",
+      "El imperio"
+    ],
+    "correcta": 2,
+    "resolucion": "Durante el Mesolítico, al estar los grupos más aislados o adaptados a climas específicos tras el deshielo, se acentuaron las características físicas distintas entre las poblaciones humanas del planeta."
+  },
+  {
+    "pregunta": "La recolección de moluscos en las costas durante el Mesolítico se llama:",
+    "opciones": [
+      "Caza mayor",
+      "Horticultura",
+      "Marisqueo",
+      "Pastoreo",
+      "Alfarería"
+    ],
+    "correcta": 2,
+    "resolucion": "Ante el cambio climático, las comunidades costeras dependieron fuertemente de la recolección de mariscos y peces, acumulando conchas en grandes montículos que hoy sirven de evidencia arqueológica."
+  },
+  {
+    "pregunta": "El dominio del fuego en el Paleolítico se atribuye inicialmente al:",
+    "opciones": [
+      "Homo habilis",
+      "Homo erectus",
+      "Homo sapiens",
+      "Australopithecus",
+      "Neandertal"
+    ],
+    "correcta": 1,
+    "resolucion": "Aunque las láminas se centran en los periodos, históricamente el Homo erectus fue quien logró controlar y utilizar el fuego, hito que se consolidó y perfeccionó durante todo el Paleolítico."
+  },
+  {
+    "pregunta": "La \"Revolución Neolítica\" se define esencialmente por una economía:",
+    "opciones": [
+      "Parasitaria",
+      "Depredadora",
+      "Productora",
+      "Recolectora",
+      "Mercantil"
+    ],
+    "correcta": 2,
+    "resolucion": "El gran cambio del Neolítico fue el paso de una economía de subsistencia a una productora. El hombre dejó de solo \"tomar\" de la naturaleza y empezó a transformar su entorno para generar su propio alimento mediante la agricultura y la ganadería."
+  },
+  {
+    "pregunta": "El estilo de vida que se establece en el Neolítico gracias a la agricultura es el:",
+    "opciones": [
+      "Nomadismo",
+      "Sedentarismo",
+      "Seminomadismo",
+      "Trashumancia",
+      "Migratorio"
+    ],
+    "correcta": 1,
+    "resolucion": "Al tener que cuidar los cultivos y el ganado, el ser humano ya no podía desplazarse constantemente. Esto llevó a la construcción de viviendas permanentes y al establecimiento definitivo en un territorio."
+  },
+  {
+    "pregunta": "El tipo de vivienda construida sobre estacas en lagos o ríos se denomina:",
+    "opciones": [
+      "Cueva",
+      "Choza",
+      "Palafito",
+      "Templo",
+      "Menhir"
+    ],
+    "correcta": 2,
+    "resolucion": "Los palafitos son una muestra de la arquitectura neolítica. Estas viviendas elevadas sobre el agua ofrecían protección contra animales salvajes y grupos enemigos, aprovechando además los recursos hídricos."
+  },
+  {
+    "pregunta": "En el Neolítico, el grupo social basado en la descendencia de un antepasado común se llama:",
+    "opciones": [
+      "Banda",
+      "Familia",
+      "Estado",
+      "Horda",
+      "Imperio"
+    ],
+    "correcta": 1,
+    "resolucion": "La estructura social se vuelve más compleja. La familia nuclear y extendida se convierte en la base de la organización, sustituyendo a las bandas nómades del periodo anterior."
+  },
+  {
+    "pregunta": "¿Qué derecho surge sobre la tierra y el ganado durante el Neolítico?",
+    "opciones": [
+      "Propiedad colectiva",
+      "Propiedad privada",
+      "Uso temporal",
+      "Bien público",
+      "Donación real"
+    ],
+    "correcta": 1,
+    "resolucion": "Al establecerse en un lugar y trabajar la tierra, aparece el concepto de pertenencia. Los grupos y familias empiezan a reclamar el control exclusivo sobre sus excedentes y territorios, naciendo la propiedad privada."
+  },
+  {
+    "pregunta": "La aparición de excedentes productivos permitió el origen de las:",
+    "opciones": [
+      "Pinturas rupestres",
+      "Bandas nómades",
+      "Clases sociales",
+      "Glaciaciones",
+      "Venus de piedra"
+    ],
+    "correcta": 2,
+    "resolucion": "Cuando hay sobra de comida, no todos necesitan cultivar. Algunos acumulan más riqueza y poder que otros, generando una jerarquía donde aparecen grupos dominantes y grupos trabajadores."
+  },
+  {
+    "pregunta": "Para organizar la producción y defender el territorio, en el Neolítico surge el:",
+    "opciones": [
+      "Totemismo",
+      "Estado",
+      "Nomadismo",
+      "Fuego",
+      "Lenguaje"
+    ],
+    "correcta": 1,
+    "resolucion": "El Estado nace como una necesidad de administración y control. Se requiere una autoridad que gestione los excedentes, dirija las obras hidráulicas y organice la defensa frente a otros grupos."
+  },
+  {
+    "pregunta": "La actividad artesanal destinada a almacenar granos y líquidos es la:",
+    "opciones": [
+      "Textilería",
+      "Metalurgia",
+      "Cerámica",
+      "Pintura",
+      "Caza"
+    ],
+    "correcta": 2,
+    "resolucion": "La cerámica o alfarería fue fundamental para el hombre sedentario. Necesitaban recipientes resistentes para guardar las cosechas y transportar agua, lo que impulsó esta industria."
+  },
+  {
+    "pregunta": "El intercambio de productos sobrantes entre comunidades neolíticas se llama:",
+    "opciones": [
+      "Compra",
+      "Venta",
+      "Trueque",
+      "Subasta",
+      "Impuesto"
+    ],
+    "correcta": 2,
+    "resolucion": "El trueque fue la primera forma de comercio. Al haber excedentes, una comunidad podía intercambiar lo que le sobraba (por ejemplo, lana) por lo que le faltaba (por ejemplo, granos)."
+  },
+  {
+    "pregunta": "Un monumento megalítico formado por una sola piedra vertical hincada es el:",
+    "opciones": [
+      "Dolmen",
+      "Cromlech",
+      "Menhir",
+      "Palafito",
+      "Zigurat"
+    ],
+    "correcta": 2,
+    "resolucion": "El Menhir es la expresión más simple del megalitismo. Se asocia a cultos solares, ritos funerarios o simplemente a la delimitación de un territorio considerado sagrado por la comunidad."
+  },
+  {
+    "pregunta": "El monumento que consiste en dos piedras verticales y una horizontal es el:",
+    "opciones": [
+      "Menhir",
+      "Dolmen",
+      "Cromlech",
+      "Totem",
+      "Obelisco"
+    ],
+    "correcta": 1,
+    "resolucion": "El dolmen funcionaba principalmente como una cámara funeraria colectiva. Representa la complejidad de las creencias religiosas y el respeto por los antepasados en las sociedades neolíticas."
+  },
+  {
+    "pregunta": "Un conjunto de menhires y dólmenes dispuestos en forma circular se denomina:",
+    "opciones": [
+      "Necrópolis",
+      "Pirámide",
+      "Cromlech",
+      "Mastaba",
+      "Hipogeo"
+    ],
+    "correcta": 2,
+    "resolucion": "El cromlech (como Stonehenge) era un centro ritual y astronómico. Permitía observar los astros para determinar las épocas de siembra y cosecha, uniendo la religión con la agricultura."
+  },
+  {
+    "pregunta": "El primer metal utilizado por el hombre, aún trabajando la piedra, fue el:",
+    "opciones": [
+      "Oro",
+      "Bronce",
+      "Hierro",
+      "Cobre",
+      "Plata"
+    ],
+    "correcta": 3,
+    "resolucion": "La Edad de Cobre (Calcolítico) es la transición. El cobre fue el primer metal usado por ser maleable, aunque no reemplazó totalmente a la piedra porque era un material blando."
+  },
+  {
+    "pregunta": "La aleación de cobre con estaño dio origen a la Edad de:",
+    "opciones": [
+      "Hierro",
+      "Bronce",
+      "Oro",
+      "Cobre",
+      "Acero"
+    ],
+    "correcta": 1,
+    "resolucion": "El bronce fue un gran avance porque es mucho más duro y resistente que el cobre puro. Permitió fabricar mejores armas y herramientas, dando una ventaja militar y económica a quienes lo poseían."
+  },
+  {
+    "pregunta": "¿Qué metal permitió la fabricación de armas más resistentes y herramientas de cultivo pesadas?",
+    "opciones": [
+      "Cobre",
+      "Bronce",
+      "Hierro",
+      "Oro",
+      "Estaño"
+    ],
+    "correcta": 2,
+    "resolucion": "El hierro requirió hornos más sofisticados por su alto punto de fusión. Su dureza revolucionó la guerra y la agricultura, permitiendo arar tierras más duras y crear ejércitos más poderosos."
+  },
+  {
+    "pregunta": "En la Edad de los Metales, el aumento de la guerra llevó a la construcción de:",
+    "opciones": [
+      "Palafitos",
+      "Ciudades amuralladas",
+      "Cuevas",
+      "Dólmenes",
+      "Huertos"
+    ],
+    "correcta": 1,
+    "resolucion": "Con el uso de metales, los conflictos por recursos se volvieron más violentos. Las aldeas crecieron y se convirtieron en ciudades protegidas por murallas para defender sus riquezas y su población."
+  },
+  {
+    "pregunta": "La invención de la rueda y la vela en la Edad de los Metales impulsó el:",
+    "opciones": [
+      "Nomadismo",
+      "Arte rupestre",
+      "Comercio",
+      "Sedentarismo",
+      "Totemismo"
+    ],
+    "correcta": 2,
+    "resolucion": "Estos inventos facilitaron el transporte de grandes cantidades de mercancías por tierra y mar, expandiendo los horizontes comerciales y culturales entre regiones lejanas."
+  },
+  {
+    "pregunta": "Una consecuencia del uso del hierro en la organización social fue:",
+    "opciones": [
+      "Igualdad social",
+      "Jerarquización militar",
+      "Fin del Estado",
+      "Regreso a las bandas",
+      "Desuso de la cerámica"
+    ],
+    "correcta": 1,
+    "resolucion": "La superioridad de las armas de hierro consolidó el poder de una casta guerrera y de reyes militares, profundizando la división entre quienes gobernaban y el resto de la población."
+  },
+  {
+    "pregunta": "¿Cuál de estos avances pertenece al Neolítico?",
+    "opciones": [
+      "Uso del hierro",
+      "Textilería",
+      "Caza de mamuts",
+      "Vida en bandas",
+      "Piedra tallada"
+    ],
+    "correcta": 1,
+    "resolucion": "La textilería surgió en el Neolítico gracias a la ganadería (lana) y el cultivo de fibras como el lino o algodón, permitiendo al hombre confeccionar sus propias vestimentas."
+  },
+  {
+    "pregunta": "El culto a los muertos y la construcción megalítica demuestran en el Neolítico:",
+    "opciones": [
+      "Falta de inteligencia",
+      "Pensamiento mágico-religioso",
+      "Escasez de comida",
+      "Vida nómade",
+      "Uso de la escritura"
+    ],
+    "correcta": 1,
+    "resolucion": "La construcción de dólmenes y monumentos enormes indica una sociedad con creencias complejas, una organización del trabajo colectiva y una fuerte veneración a sus antepasados."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "2.1 Prehistoria",
+          "youtube_id": "V8iaUAmJOs8",
+          "pdf_link": "https://drive.google.com/file/d/1zlGK0Fj_3CYStvytK7N7KN_hXgaflZ06/view",
+          "gratis": true
+        },
+        {
+          "titulo": "2.2 Paleolítico y  Mesolítico",
+          "youtube_id": "yObidmNkYaE",
+          "pdf_link": "https://drive.google.com/file/d/1zlGK0Fj_3CYStvytK7N7KN_hXgaflZ06/view",
+          "gratis": false
+        },
+        {
+          "titulo": "2.3 Neolítico",
+          "youtube_id": "HIWlxromBX0",
+          "pdf_link": "https://drive.google.com/file/d/1zlGK0Fj_3CYStvytK7N7KN_hXgaflZ06/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 3: Culturas Antiguas",
+      "preguntas": [
+        {
+    "pregunta": "Mesopotamia, nombre que significa \"tierra entre ríos\", se ubica geográficamente entre los ríos:",
+    "opciones": [
+      "Nilo y Jordán",
+      "Indo y Ganges",
+      "Tigris y Éufrates",
+      "Yangtsé y Amarillo",
+      "Amazonas y Orinoco"
+    ],
+    "correcta": 2,
+    "resolucion": "La civilización mesopotámica surgió en la llanura aluvial formada por estos dos ríos, cuyas crecidas anuales permitieron una agricultura altamente productiva en un entorno semiárido."
+  },
+  {
+    "pregunta": "La primera civilización histórica en Mesopotamia fue la de los:",
+    "opciones": [
+      "Asirios",
+      "Babilonios",
+      "Sumerios",
+      "Acadios",
+      "Hititas"
+    ],
+    "correcta": 2,
+    "resolucion": "Los sumerios son considerados los creadores de la base cultural de Mesopotamia; a ellos se les atribuye la invención de la escritura cuneiforme y la organización en ciudades-estado."
+  },
+  {
+    "pregunta": "¿Cómo se llama el sistema de escritura inventado por los sumerios?",
+    "opciones": [
+      "Jeroglífica",
+      "Alfabética",
+      "Cuneiforme",
+      "Demótica",
+      "Fenicia"
+    ],
+    "correcta": 2,
+    "resolucion": "Se denomina cuneiforme porque se realizaba con un punzón sobre tablillas de arcilla blanda, dejando marcas con forma de cuña. Fue diseñada inicialmente para fines contables y comerciales."
+  },
+  {
+    "pregunta": "La principal construcción arquitectónica religiosa de Mesopotamia es el:",
+    "opciones": [
+      "Zigurat",
+      "Pirámide",
+      "Mastaba",
+      "Hipogeo",
+      "Templo circular"
+    ],
+    "correcta": 0,
+    "resolucion": "El zigurat era una torre escalonada de varios niveles que funcionaba como centro religioso y administrativo; el templo principal se ubicaba en la cúspide, acercando al hombre a los dioses."
+  },
+  {
+    "pregunta": "El primer código de leyes escrito de la humanidad fue obra de:",
+    "opciones": [
+      "Sargón I",
+      "Hammurabi",
+      "Nabucodonosor II",
+      "Asurbanipal",
+      "Gilgamesh"
+    ],
+    "correcta": 1,
+    "resolucion": "El Código de Hammurabi, de origen babilonio, es famoso por aplicar la \"Ley del Talión\" (ojo por ojo, diente por diente), estableciendo penas fijas basadas en la jerarquía social."
+  },
+  {
+    "pregunta": "Mesopotamia se encuentra en la región conocida como:",
+    "opciones": [
+      "Extremo Oriente",
+      "Creciente Fértil",
+      "Mesoamérica",
+      "Andes Centrales",
+      "Valle del Indo"
+    ],
+    "correcta": 1,
+    "resolucion": "Es una zona con forma de media luna que abarca desde el golfo Pérsico hasta el Mediterráneo, donde las condiciones geográficas facilitaron el nacimiento de la agricultura y las primeras civilizaciones."
+  },
+  {
+    "pregunta": "Los acadios, bajo el mando de Sargón I, lograron:",
+    "opciones": [
+      "La paz eterna",
+      "El primer imperio",
+      "La escritura alfabética",
+      "La democracia",
+      "El fin de la historia"
+    ],
+    "correcta": 1,
+    "resolucion": "Sargón I unificó las ciudades-estado sumerias, creando el primer imperio centralizado de la historia, lo cual permitió una mayor expansión territorial y cultural."
+  },
+  {
+    "pregunta": "El pueblo conocido por su carácter guerrero y el uso del hierro fue el:",
+    "opciones": [
+      "Acadio",
+      "Asirio",
+      "Sumerio",
+      "Babilonio",
+      "Persa"
+    ],
+    "correcta": 1,
+    "resolucion": "Los asirios destacaron por su crueldad militar y una organización técnica avanzada; utilizaron carros de combate y armas de hierro para dominar todo el Creciente Fértil."
+  },
+  {
+    "pregunta": "¿Qué rey babilonio ordenó la construcción de los Jardines Colgantes?",
+    "opciones": [
+      "Hammurabi",
+      "Nabucodonosor II",
+      "Asurbanipal",
+      "Sargón II",
+      "Gilgamesh"
+    ],
+    "correcta": 1,
+    "resolucion": "Nabucodonosor II es el máximo representante del segundo apogeo babilónico; bajo su gobierno, Babilonia se convirtió en la ciudad más majestuosa de la antigüedad, destacando por su ingeniería hidráulica."
+  },
+  {
+    "pregunta": "La organización política básica de los sumerios era la:",
+    "opciones": [
+      "Ciudad-Estado",
+      "Provincia",
+      "República",
+      "Monarquía universal",
+      "Comunidad aldeana"
+    ],
+    "correcta": 0,
+    "resolucion": "Ciudades como Ur, Uruk y Lagash funcionaban como estados independientes con su propio gobierno, ejército y divinidad protectora, compitiendo frecuentemente entre sí."
+  },
+  {
+    "pregunta": "¿Qué principio jurídico regulaba las sentencias en el Código de Hammurabi?",
+    "opciones": [
+      "Justicia divina",
+      "Ley del Talión",
+      "Libertad total",
+      "Perdón real",
+      "Igualdad social"
+    ],
+    "correcta": 1,
+    "resolucion": "El código establecía castigos basados en la proporcionalidad del daño causado, un principio conocido como Ley del Talión."
+  },
+  {
+    "pregunta": "¿Cuál era el sistema de escritura desarrollado en Mesopotamia?",
+    "opciones": [
+      "Jeroglífica",
+      "Alfabética",
+      "Cuneiforme",
+      "Demótica",
+      "Fenicia"
+    ],
+    "correcta": 2,
+    "resolucion": "La escritura se realizaba mediante marcas en forma de cuña sobre tablillas de arcilla blanda, proceso conocido como sistema cuneiforme."
+  },
+  {
+    "pregunta": "¿Qué grupo social ocupaba la cúspide de la pirámide social mesopotámica?",
+    "opciones": [
+      "Comerciantes",
+      "Soldados",
+      "Rey-Sacerdote",
+      "Esclavos",
+      "Artesanos"
+    ],
+    "correcta": 2,
+    "resolucion": "La autoridad suprema (Patesi o Lugal) era considerada el representante de los dioses en la tierra, centralizando el poder político, militar y religioso."
+  },
+  {
+    "pregunta": "¿Cuál era el material principal para la construcción en Mesopotamia?",
+    "opciones": [
+      "Granito",
+      "Ladrillo de barro",
+      "Mármol",
+      "Madera",
+      "Bronce"
+    ],
+    "correcta": 1,
+    "resolucion": "Debido a la escasez de piedra y madera en la llanura mesopotámica, utilizaron arcilla o adobe cocido al sol para edificar sus casas, templos y murallas."
+  },
+  {
+    "pregunta": "Los asirios crearon una de las bibliotecas más famosas de la antigüedad en:",
+    "opciones": [
+      "Ur",
+      "Nínive",
+      "Uruk",
+      "Babilonia",
+      "Lagash"
+    ],
+    "correcta": 1,
+    "resolucion": "La biblioteca de Asurbanipal en Nínive contenía miles de tablillas de arcilla con conocimientos astronómicos, literarios y médicos, convirtiéndose en un centro de saber mundial."
+  },
+  {
+    "pregunta": "La \"Ley del Talión\" es el principio jurídico que dice:",
+    "opciones": [
+      "Libertad total",
+      "Ojo por ojo",
+      "Perdón real",
+      "Igualdad social",
+      "Justicia divina"
+    ],
+    "correcta": 1,
+    "resolucion": "Es la base de la justicia en el Código de Hammurabi: las penas debían ser proporcionales al daño recibido. Era una forma de limitar la venganza privada por parte del Estado."
+  },
+  {
+    "pregunta": "Mesopotamia fue invadida frecuentemente debido a:",
+    "opciones": [
+      "Su aislamiento",
+      "Su riqueza y falta de defensas naturales",
+      "Su clima gélido",
+      "Su pobreza",
+      "Su religión pacífica"
+    ],
+    "correcta": 1,
+    "resolucion": "Al ser una zona de llanuras abiertas sin barreras montañosas importantes, Mesopotamia era fácilmente accesible para pueblos invasores atraídos por su prosperidad agrícola."
+  },
+  {
+    "pregunta": "¿Cómo llamaban los sumerios a su gobernante principal?",
+    "opciones": [
+      "Faraón",
+      "Patesi",
+      "Emperador",
+      "Cónsul",
+      "Presidente"
+    ],
+    "correcta": 1,
+    "resolucion": "El término \"Patesi\" se refería al gobernante que administraba la ciudad-estado en nombre del dios protector, combinando funciones civiles y rituales."
+  },
+  {
+    "pregunta": "¿Cómo se denominaba al gobernante que administraba la ciudad-estado sumeria?",
+    "opciones": [
+      "Faraón",
+      "Patesi",
+      "Emperador",
+      "Cónsul",
+      "Presidente"
+    ],
+    "correcta": 1,
+    "resolucion": "El Patesi era la autoridad principal de la ciudad-estado, encargado tanto de la administración civil como de representar a la divinidad local."
+  },
+  {
+    "pregunta": "¿Qué función principal cumplían los sellos cilíndricos en la vida administrativa?",
+    "opciones": [
+      "Adorno personal",
+      "Validación de documentos",
+      "Moneda de cambio",
+      "Herramienta de labranza",
+      "Arma de defensa"
+    ],
+    "correcta": 1,
+    "resolucion": "Estos objetos grabados permitían autenticar contratos y marcar la propiedad sobre la arcilla, asegurando la validez de los documentos oficiales."
+  },
+  {
+    "pregunta": "¿Qué río fue el recurso geográfico fundamental para el desarrollo de la civilización egipcia?",
+    "opciones": [
+      "Tigris",
+      "Éufrates",
+      "Nilo",
+      "Indo",
+      "Jordán"
+    ],
+    "correcta": 2,
+    "resolucion": "El río Nilo permitía la agricultura en medio del desierto gracias a sus crecidas anuales, las cuales depositaban un fertilizante natural llamado limo sobre las tierras de cultivo."
+  },
+  {
+    "pregunta": "¿Cómo se denominaba al gobernante que ostentaba el poder absoluto en Egipto?",
+    "opciones": [
+      "Patesi",
+      "Faraón",
+      "Lugal",
+      "Emperador",
+      "Cónsul"
+    ],
+    "correcta": 1,
+    "resolucion": "El Faraón era la máxima autoridad política, militar y religiosa, considerado un dios viviente en la Tierra y dueño de todas las tierras del imperio."
+  },
+  {
+    "pregunta": "¿Qué nombre recibe la escritura egipcia de tipo sagrada y monumental?",
+    "opciones": [
+      "Cuneiforme",
+      "Hierática",
+      "Jeroglífica",
+      "Demótica",
+      "Alfabética"
+    ],
+    "correcta": 2,
+    "resolucion": "La escritura jeroglífica se basaba en dibujos o pictogramas y se utilizaba principalmente en las paredes de los templos y tumbas para fines religiosos y oficiales."
+  },
+  {
+    "pregunta": "¿Cuál era el fertilizante natural que dejaba el río Nilo tras sus inundaciones?",
+    "opciones": [
+      "Estiércol",
+      "Limo",
+      "Arcilla",
+      "Salitre",
+      "Abono"
+    ],
+    "correcta": 1,
+    "resolucion": "El limo (o légamo) es un barro fértil que se depositaba en los valles del Nilo, permitiendo que Egipto fuera el \"don del Nilo\" y tuviera una producción agrícola constante."
+  },
+  {
+    "pregunta": "¿Cuál es la tumba real más antigua que tiene forma de pirámide escalonada?",
+    "opciones": [
+      "Mastaba",
+      "Sakkara",
+      "Keops",
+      "Hipogeo",
+      "Cenotafio"
+    ],
+    "correcta": 1,
+    "resolucion": "La pirámide de Sakkara, construida para el faraón Zoser, representa la evolución arquitectónica desde la mastaba simple hacia las pirámides de caras lisas."
+  },
+  {
+    "pregunta": "¿Quién fue el investigador que logró descifrar la escritura jeroglífica gracias a la Piedra de Rosetta?",
+    "opciones": [
+      "Howard Carter",
+      "Jean-François Champollion",
+      "Gaston Maspero",
+      "Auguste Mariette",
+      "Flinders Petrie"
+    ],
+    "correcta": 1,
+    "resolucion": "Champollion descifró los jeroglíficos en 1822 al comparar los nombres reales en griego y egipcio presentes en la Piedra de Rosetta, abriendo así el estudio científico de esta civilización."
+  },
+  {
+    "pregunta": "¿Qué tipo de escritura egipcia era de uso popular, más simple y utilizada para el comercio?",
+    "opciones": [
+      "Jeroglífica",
+      "Hierática",
+      "Demótica",
+      "Cuneiforme",
+      "Fonética"
+    ],
+    "correcta": 2,
+    "resolucion": "La escritura demótica es una variante simplificada de la hierática que se utilizaba para asuntos cotidianos, contratos y literatura popular, alejándose del carácter sagrado de los jeroglíficos."
+  },
+  {
+    "pregunta": "¿Cuál era la función principal de las grandes pirámides de Giza?",
+    "opciones": [
+      "Graneros",
+      "Fortalezas",
+      "Tumbas reales",
+      "Palacios",
+      "Observatorios"
+    ],
+    "correcta": 2,
+    "resolucion": "Las pirámides de Keops, Kefrén y Micerino fueron construidas como moradas eternas para los faraones, diseñadas para proteger su cuerpo y asegurar su paso al más allá."
+  },
+  {
+    "pregunta": "¿Qué sistema de escritura era utilizado por los escribas para documentos rápidos y administrativos?",
+    "opciones": [
+      "Jeroglífica",
+      "Hierática",
+      "Cuneiforme",
+      "Griega",
+      "Fenicia"
+    ],
+    "correcta": 1,
+    "resolucion": "La escritura hierática era una forma cursiva y simplificada de los jeroglíficos, lo que permitía a los escribas registrar información de manera más ágil sobre papiros."
+  },
+  {
+    "pregunta": "¿Cómo se llaman las tumbas excavadas directamente en las laderas de las montañas o rocas?",
+    "opciones": [
+      "Mastabas",
+      "Hipogeos",
+      "Pirámides",
+      "Menhires",
+      "Cromlechs"
+    ],
+    "correcta": 1,
+    "resolucion": "Los hipogeos surgieron en el Imperio Nuevo para evitar los saqueos de tumbas, ocultando los entierros reales en el interior de las formaciones rocosas."
+  },
+  {
+    "pregunta": "¿Qué grupo social se encargaba de la administración, el censo y la contabilidad en Egipto?",
+    "opciones": [
+      "Sacerdotes",
+      "Escribas",
+      "Artesanos",
+      "Guerreros",
+      "Campesinos"
+    ],
+    "correcta": 1,
+    "resolucion": "Los escribas eran funcionarios fundamentales que sabían leer y escribir, encargados de llevar el registro de los impuestos, la producción agrícola y los documentos del faraón."
+  },
+  {
+    "pregunta": "¿Cuál es la planta que crecía en las orillas del Nilo y servía para fabricar material de escritura?",
+    "opciones": [
+      "Lino",
+      "Algodón",
+      "Papiro",
+      "Trigo",
+      "Cebada"
+    ],
+    "correcta": 2,
+    "resolucion": "El papiro era procesado para crear láminas sobre las cuales se escribía, siendo el principal soporte de información en el mundo antiguo."
+  },
+  {
+    "pregunta": "¿Qué creencia motivaba la práctica de la momificación en el antiguo Egipto?",
+    "opciones": [
+      "Higiene",
+      "Castigo",
+      "Vida eterna",
+      "Estética",
+      "Tradición médica"
+    ],
+    "correcta": 2,
+    "resolucion": "Los egipcios creían que para que el alma sobreviviera en el más allá, el cuerpo físico debía conservarse intacto, por lo que desarrollaron técnicas avanzadas de embalsamamiento."
+  },
+  {
+    "pregunta": "¿En qué región se ubicaba el Bajo Egipto?",
+    "opciones": [
+      "Sur (Valle)",
+      "Norte (Delta)",
+      "Desierto Occidental",
+      "Península del Sinaí",
+      "Nubia"
+    ],
+    "correcta": 1,
+    "resolucion": "El Bajo Egipto corresponde a la zona norte donde el río Nilo se divide en múltiples brazos formando un delta antes de desembocar en el Mar Mediterráneo."
+  },
+  {
+    "pregunta": "¿Cómo se le conoce a la región del sur de Egipto, caracterizada por ser un valle estrecho?",
+    "opciones": [
+      "Bajo Egipto",
+      "Delta",
+      "Alto Egipto",
+      "Sinaí",
+      "Nubia"
+    ],
+    "correcta": 2,
+    "resolucion": "El territorio egipcio se dividía en dos: el Alto Egipto, que comprende el valle del río desde Asuán hasta Menfis, y el Bajo Egipto, que corresponde a la zona del delta en el norte."
+  },
+  {
+    "pregunta": "¿Qué faraón logró la unificación definitiva de los gnomos o pueblos del Alto y Bajo Egipto?",
+    "opciones": [
+      "Zoser",
+      "Menes",
+      "Keops",
+      "Amosis",
+      "Seti I"
+    ],
+    "correcta": 1,
+    "resolucion": "Menes (también conocido como Narmer) es reconocido como el primer unificador de Egipto, dando inicio al Periodo Tinita y estableciendo la capital en la ciudad de Tinis."
+  },
+  {
+    "pregunta": "¿Durante qué periodo histórico se construyeron las grandes pirámides de Giza?",
+    "opciones": [
+      "Imperio Medio",
+      "Periodo Tinita",
+      "Imperio Antiguo",
+      "Imperio Nuevo",
+      "Época Saíta"
+    ],
+    "correcta": 2,
+    "resolucion": "El Imperio Antiguo (o Reino Antiguo) fue la época dorada de la arquitectura monumental, donde los faraones de la IV dinastía (Keops, Kefrén y Micerino) erigieron sus famosas tumbas en la llanura de Giza."
+  },
+  {
+    "pregunta": "¿Qué pueblo invasor introdujo el uso del caballo y el carro de guerra en Egipto?",
+    "opciones": [
+      "Asirios",
+      "Persas",
+      "Hicsos",
+      "Romanos",
+      "Griegos"
+    ],
+    "correcta": 2,
+    "resolucion": "Los Hicsos, un pueblo de origen asiático, invadieron Egipto durante el Segundo Intermedio utilizando armas de bronce y carros de guerra, elementos tecnológicos que los egipcios adoptarían después."
+  },
+  {
+    "pregunta": "¿Cuál fue la ciudad que se convirtió en la capital principal durante el Imperio Nuevo?",
+    "opciones": [
+      "Menfis",
+      "Tinis",
+      "Tebas",
+      "Alejandría",
+      "Sais"
+    ],
+    "correcta": 2,
+    "resolucion": "Tebas fue el centro político y religioso del Imperio Nuevo. Desde allí, los faraones expulsaron a los invasores y expandieron las fronteras de Egipto hacia Asia y Nubia."
+  },
+  {
+    "pregunta": "¿Qué faraón lideró la expulsión de los Hicsos, dando inicio al Imperio Nuevo?",
+    "opciones": [
+      "Tutankamón",
+      "Amosis",
+      "Ramsés II",
+      "Mentuhotep II",
+      "Kefrén"
+    ],
+    "correcta": 1,
+    "resolucion": "Amosis fue el príncipe tebano que logró derrotar a los Hicsos y reunificar Egipto, inaugurando la Dinastía XVIII, el periodo de mayor esplendor y expansión militar."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "3.1 Mesopotamia",
+          "youtube_id": "juAQEseM3_g",
+          "pdf_link": "https://drive.google.com/file/d/1EGYmGIp6kmPTTq-TYUCoh4-HYquS1VqJ/view",
+          "gratis": true
+        },
+        {
+          "titulo": "3.2 Egipto",
+          "youtube_id": "riXTlsThD2Q",
+          "pdf_link": "https://drive.google.com/file/d/1EGYmGIp6kmPTTq-TYUCoh4-HYquS1VqJ/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 4: Culturas Clásicas",
+      "preguntas": [
+        {
+    "pregunta": "¿En qué península europea se ubicó la civilización griega?",
+    "opciones": [
+      "Itálica",
+      "Balcanes",
+      "Ibérica",
+      "Peloponeso",
+      "Anatolia"
+    ],
+    "correcta": 1,
+    "resolucion": "Grecia se ubicó en la península de los Balcanes e influyó en el Mar Egeo y las costas de Asia Menor."
+  },
+  {
+    "pregunta": "¿Cuál es el nombre mitológico primitivo de Grecia?",
+    "opciones": [
+      "Ática",
+      "Laconia",
+      "Hélade",
+      "Pelasgia",
+      "Eubea"
+    ],
+    "correcta": 2,
+    "resolucion": "El nombre primitivo es Hélade, atribuido a Helén, el ancestro legendario de los helenos."
+  },
+  {
+    "pregunta": "¿A qué civilización de la Edad de Bronce perteneció el legendario rey Minos?",
+    "opciones": [
+      "Micénica",
+      "Arcaica",
+      "Minoica",
+      "Macedonia",
+      "Jónica"
+    ],
+    "correcta": 2,
+    "resolucion": "La civilización cretense también es llamada Minoica por su rey Minos."
+  },
+  {
+    "pregunta": "¿Quiénes fueron los invasores que provocaron la decadencia de la civilización micénica?",
+    "opciones": [
+      "Persas",
+      "Dorios",
+      "Jonios",
+      "Eolios",
+      "Medos"
+    ],
+    "correcta": 1,
+    "resolucion": "La decadencia micénica se debió a conflictos internos y a la invasión de los Dorios."
+  },
+  {
+    "pregunta": "¿En qué periodo de la historia griega surgieron las primeras ciudades-estado o polis?",
+    "opciones": [
+      "Edad de Bronce",
+      "Época Oscura",
+      "Periodo Micénico",
+      "Época Helenística",
+      "Periodo Cretense"
+    ],
+    "correcta": 1,
+    "resolucion": "Al final de la Época Oscura se formaron las primeras ciudades-estado."
+  },
+  {
+    "pregunta": "¿Cuál fue el evento deportivo más importante que surgió en la época Arcaica?",
+    "opciones": [
+      "Guerras Médicas",
+      "Juegos Olímpicos",
+      "Maratón",
+      "Teatro",
+      "Gimnasio"
+    ],
+    "correcta": 1,
+    "resolucion": "En la época Arcaica se celebraron los primeros Juegos Olímpicos."
+  },
+  {
+    "pregunta": "¿Quién es considerado el \"Padre de la democracia\" en Atenas?",
+    "opciones": [
+      "Pericles",
+      "Solón",
+      "Licurgo",
+      "Clístenes",
+      "Filipo II"
+    ],
+    "correcta": 3,
+    "resolucion": "Clístenes es reconocido como el padre de la democracia por llevarla a la práctica."
+  },
+  {
+    "pregunta": "¿Cómo se denominaba a la clase social de esclavos o siervos del Estado en Esparta?",
+    "opciones": [
+      "Periecos",
+      "Metecos",
+      "Ilotas",
+      "Espartanos",
+      "Arcontes"
+    ],
+    "correcta": 2,
+    "resolucion": "Los ilotas eran los esclavos o siervos del Estado sometidos a trabajos inhumanos."
+  },
+  {
+    "pregunta": "¿Qué filósofo o político lideró el \"Siglo de Oro\" de Atenas?",
+    "opciones": [
+      "Alejandro Magno",
+      "Pericles",
+      "Solón",
+      "Licurgo",
+      "Leónidas"
+    ],
+    "correcta": 1,
+    "resolucion": "Bajo el gobierno de Pericles, Atenas vivió su máximo apogeo cultural y político."
+  },
+  {
+    "pregunta": "¿Quiénes se enfrentaron en las Guerras Médicas?",
+    "opciones": [
+      "Atenas vs Esparta",
+      "Griegos vs Persas",
+      "Macedonios vs Persas",
+      "Griegos vs Romanos",
+      "Dorios vs Aqueos"
+    ],
+    "correcta": 1,
+    "resolucion": "Las Guerras Médicas enfrentaron a los griegos contra los persas."
+  },
+  {
+    "pregunta": "¿En qué guerra se enfrentaron Atenas y Esparta?",
+    "opciones": [
+      "Guerra de Troya",
+      "Guerras Médicas",
+      "Guerra del Peloponeso",
+      "Guerra de Corinto",
+      "Guerra Púnica"
+    ],
+    "correcta": 2,
+    "resolucion": "La Guerra del Peloponeso fue el conflicto entre Atenas y Esparta."
+  },
+  {
+    "pregunta": "¿Qué rey macedonio inició la invasión de Grecia desde el norte?",
+    "opciones": [
+      "Alejandro Magno",
+      "Filipo II",
+      "Darío I",
+      "Jerjes",
+      "Ptolomeo"
+    ],
+    "correcta": 1,
+    "resolucion": "Filipo II de Macedonia fue quien invadió Grecia al inicio de su decadencia."
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del consejo de 28 ancianos en el sistema político de Esparta?",
+    "opciones": [
+      "Éforos",
+      "Gerusia",
+      "Areópago",
+      "Arcontado",
+      "Apella"
+    ],
+    "correcta": 1,
+    "resolucion": "La Gerusia o Senado estaba integrado por 28 ancianos encargados de elaborar leyes."
+  },
+  {
+    "pregunta": "¿Cómo se llamaba a los extranjeros que radicaban en Atenas y pagaban impuestos?",
+    "opciones": [
+      "Periecos",
+      "Metecos",
+      "Ilotas",
+      "Patricios",
+      "Plebeyos"
+    ],
+    "correcta": 1,
+    "resolucion": "Los metecos eran extranjeros residentes que poseían negocios y pagaban el impuesto \"metoikion\"."
+  },
+  {
+    "pregunta": "¿Qué estilo de columna griega es el más decorado y utiliza hojas de acanto?",
+    "opciones": [
+      "Dórico",
+      "Jónico",
+      "Corinto",
+      "Toscano",
+      "Barroco"
+    ],
+    "correcta": 2,
+    "resolucion": "El estilo Corinto es el más decorado y florido, con capiteles de hojas de acanto."
+  },
+  {
+    "pregunta": "¿Qué escultura de Mirón representa el movimiento y la proporción ideal?",
+    "opciones": [
+      "Atenea",
+      "Doríforo",
+      "Afrodita",
+      "Discóbolo",
+      "Marsias"
+    ],
+    "correcta": 3,
+    "resolucion": "El Discóbolo es la obra más famosa de Mirón que destaca por su movimiento y proporción."
+  },
+  {
+    "pregunta": "¿Qué plaza pública era el centro de la vida civil en las polis griegas?",
+    "opciones": [
+      "Teatro",
+      "Hipódromo",
+      "Ágora",
+      "Gimnasio",
+      "Estadio"
+    ],
+    "correcta": 2,
+    "resolucion": "El Ágora era la plaza pública donde se desarrollaba la vida social y civil."
+  },
+  {
+    "pregunta": "¿Qué autor es responsable de la escultura del Doríforo?",
+    "opciones": [
+      "Fidias",
+      "Praxíteles",
+      "Mirón",
+      "Policleto",
+      "Lisipo"
+    ],
+    "correcta": 3,
+    "resolucion": "Policleto esculpió el Doríforo para mostrar la proporción ideal del cuerpo humano."
+  },
+  {
+    "pregunta": "¿En qué isla se originó la civilización minoica?",
+    "opciones": [
+      "Rodas",
+      "Delos",
+      "Creta",
+      "Samos",
+      "Eubea"
+    ],
+    "correcta": 2,
+    "resolucion": "La civilización minoica se desarrolló en la isla de Creta."
+  },
+  {
+    "pregunta": "¿Qué ciudad fue considerada la \"cuna de la cultura griega\"?",
+    "opciones": [
+      "Esparta",
+      "Corinto",
+      "Atenas",
+      "Olimpia",
+      "Micenas"
+    ],
+    "correcta": 2,
+    "resolucion": "Atenas es llamada la cuna de la cultura por su progreso en ciencias y artes."
+  },
+  {
+    "pregunta": "¿En qué península europea surgió la civilización romana?",
+    "opciones": [
+      "Balcanes",
+      "Itálica",
+      "Ibérica",
+      "Escandinava",
+      "Anatolia"
+    ],
+    "correcta": 1,
+    "resolucion": "Roma surgió en la península itálica, en el centro y sur de Europa."
+  },
+  {
+    "pregunta": "¿Qué forma geográfica característica tiene la península donde se ubica Roma?",
+    "opciones": [
+      "Círculo",
+      "Triángulo",
+      "Bota",
+      "Cuadrado",
+      "Estrella"
+    ],
+    "correcta": 2,
+    "resolucion": "La península itálica tiene una forma geográfica de bota."
+  },
+  {
+    "pregunta": "¿Cuáles son las dos dinastías que gobernaron durante la Monarquía romana?",
+    "opciones": [
+      "Latina y Griega",
+      "Latina y Etrusca",
+      "Etrusca y Macedonia",
+      "Julio-Claudia y Flavia",
+      "Antonina y Severa"
+    ],
+    "correcta": 1,
+    "resolucion": "Durante la Monarquía gobernaron las dinastías Latina y Etrusca."
+  },
+  {
+    "pregunta": "¿Quién fue el último rey de Roma, conocido por su tiranía?",
+    "opciones": [
+      "Rómulo",
+      "Numa Pompilio",
+      "Tarquino el Soberbio",
+      "Tulio Hostilio",
+      "Anco Marcio"
+    ],
+    "correcta": 2,
+    "resolucion": "Tarquino el Soberbio fue el último rey etrusco cuya tiranía llevó a la expulsión de la familia real."
+  },
+  {
+    "pregunta": "¿Qué funcionarios gobernaban durante el periodo de la República?",
+    "opciones": [
+      "Reyes",
+      "Emperadores",
+      "Cónsules",
+      "Dictadores",
+      "Arcontes"
+    ],
+    "correcta": 2,
+    "resolucion": "En la República romana, el gobierno estaba a cargo de los cónsules."
+  },
+  {
+    "pregunta": "¿Quiénes se enfrentaron en las Guerras Púnicas?",
+    "opciones": [
+      "Roma vs Grecia",
+      "Roma vs Cartago",
+      "Roma vs Persas",
+      "Patricios vs Plebeyos",
+      "Galos vs Romanos"
+    ],
+    "correcta": 1,
+    "resolucion": "Las Guerras Púnicas enfrentaron a Roma contra Cartago."
+  },
+  {
+    "pregunta": "¿Cuál era la clase social aristocrática que tenía el monopolio del poder político?",
+    "opciones": [
+      "Plebeyos",
+      "Metecos",
+      "Patricios",
+      "Ilotas",
+      "Clientes"
+    ],
+    "correcta": 2,
+    "resolucion": "Los patricios eran la clase aristocrática con el control político, religioso y legal."
+  },
+  {
+    "pregunta": "¿Quiénes integraban el primer triunvirato de la República?",
+    "opciones": [
+      "Octavio, Marco Antonio y Lépido",
+      "Julio César, Pompeyo y Craso",
+      "Rómulo, Remo y Faustulo",
+      "Augusto, Tiberio y Calígula",
+      "Tito, Trajano y Adriano"
+    ],
+    "correcta": 1,
+    "resolucion": "El primer triunvirato estuvo formado por Julio César, Pompeyo Magno y Marco Licinio Craso."
+  },
+  {
+    "pregunta": "¿Quién fue el primer emperador de Roma?",
+    "opciones": [
+      "Julio César",
+      "César Augusto",
+      "Nerón",
+      "Trajano",
+      "Constantino"
+    ],
+    "correcta": 1,
+    "resolucion": "César Augusto (Octavio) fue el primer emperador, iniciando el \"Siglo de Augusto\"."
+  },
+  {
+    "pregunta": "¿Qué periodo de paz y estabilidad se vivió durante el Imperio romano?",
+    "opciones": [
+      "Siglo de Pericles",
+      "Pax Romana",
+      "Época Oscura",
+      "Crisis del Siglo III",
+      "Siglo de Oro"
+    ],
+    "correcta": 1,
+    "resolucion": "La Pax Romana fue un periodo de paz y relativa estabilidad iniciado bajo Augusto."
+  },
+  {
+    "pregunta": "¿Qué emperador dividió el Imperio romano en dos a su muerte en el 395 d.C.?",
+    "opciones": [
+      "Teodosio",
+      "Constantino",
+      "Diocleciano",
+      "Honorio",
+      "Arcadio"
+    ],
+    "correcta": 0,
+    "resolucion": "El emperador Teodosio dividió el imperio entre sus hijos Honorio y Arcadio."
+  },
+  {
+    "pregunta": "¿Quién fue el último emperador de Roma de Occidente?",
+    "opciones": [
+      "Rómulo Augusto",
+      "Julio César",
+      "Teodosio",
+      "Constantino",
+      "Justiniano"
+    ],
+    "correcta": 0,
+    "resolucion": "Rómulo Augusto fue el último emperador de Occidente, derrocado por Odoacro."
+  },
+  {
+    "pregunta": "¿Qué código de leyes es considerado la fuente de todo el derecho romano?",
+    "opciones": [
+      "Código de Hammurabi",
+      "Ley de las 12 Tablas",
+      "Código Civil",
+      "Las Partidas",
+      "Constitución"
+    ],
+    "correcta": 1,
+    "resolucion": "Según Tito Livio, las 12 tablas son la fuente de todo el derecho romano."
+  },
+  {
+    "pregunta": "¿Quién es considerado el \"Padre del derecho romano\" por su recopilación?",
+    "opciones": [
+      "Tito Livio",
+      "Julio César",
+      "Justiniano",
+      "Augusto",
+      "Teodosio"
+    ],
+    "correcta": 2,
+    "resolucion": "Justiniano es reconocido como el padre del derecho romano por su labor de recopilación."
+  },
+  {
+    "pregunta": "¿Cuál es el nombre del anfiteatro más famoso de Roma (Anfiteatro de Flavio)?",
+    "opciones": [
+      "Panteón",
+      "Circo Máximo",
+      "Coliseo Romano",
+      "Foro Romano",
+      "Arco de Tito"
+    ],
+    "correcta": 2,
+    "resolucion": "El Anfiteatro de Flavio es mundialmente conocido como el Coliseo Romano."
+  },
+  {
+    "pregunta": "¿Qué material de construcción permitía a los romanos crear estructuras sólidas?",
+    "opciones": [
+      "Madera",
+      "Hormigón",
+      "Adobe",
+      "Barro",
+      "Papiro"
+    ],
+    "correcta": 1,
+    "resolucion": "Entre los materiales usados por los romanos destacan el hormigón, la cal, el ladrillo y la piedra."
+  },
+  {
+    "pregunta": "¿A quién le correspondió la parte Occidental del Imperio tras la división de Teodosio?",
+    "opciones": [
+      "Arcadio",
+      "Honorio",
+      "Odoacro",
+      "Augusto",
+      "Rómulo"
+    ],
+    "correcta": 1,
+    "resolucion": "El Imperio de Occidente fue entregado a Honorio."
+  },
+  {
+    "pregunta": "¿A quién le correspondió la parte Oriental del Imperio tras la división de Teodosio?",
+    "opciones": [
+      "Honorio",
+      "Arcadio",
+      "Odoacro",
+      "Teodosio II",
+      "Constantino"
+    ],
+    "correcta": 1,
+    "resolucion": "El Imperio de Oriente fue entregado a Arcadio."
+  },
+  {
+    "pregunta": "¿Cuál es la isla que forma parte de la región insular de Roma?",
+    "opciones": [
+      "Creta",
+      "Rodas",
+      "Sicilia",
+      "Delos",
+      "Samos"
+    ],
+    "correcta": 2,
+    "resolucion": "La región insular romana está formada por las islas de Córcega, Cerdeña y Sicilia."
+  },
+  {
+    "pregunta": "¿Qué río atraviesa la zona de la Galia Cisalpina en el norte de Italia?",
+    "opciones": [
+      "Tíber",
+      "Nilo",
+      "Po",
+      "Éufrates",
+      "Rin"
+    ],
+    "correcta": 2,
+    "resolucion": "El río Po atraviesa la zona continental de Roma conocida como Galia Cisalpina."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "4.1 Grecia",
+          "youtube_id": "kor3Mw-XP48",
+          "pdf_link": "https://drive.google.com/file/d/1cnShSZzEC4X53ami0uBQ2cVHuY2kYZ9M/view",
+          "gratis": true
+        },
+        {
+          "titulo": "4.2 Roma",
+          "youtube_id": "9_d1QPW3h54",
+          "pdf_link": "https://drive.google.com/file/d/1cnShSZzEC4X53ami0uBQ2cVHuY2kYZ9M/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 5: Poblamiento Americano",
+      "preguntas": [
+        {
+    "pregunta": "¿Quién es el autor de la teoría Autoctonista sobre el poblamiento de América?",
+    "opciones": [
+      "Alex Hrdlicka",
+      "Florentino Ameghino",
+      "Paul Rivet",
+      "Mendez Correa",
+      "José de Acosta"
+    ],
+    "correcta": 1,
+    "resolucion": "Florentino Ameghino sostuvo que el hombre era originario de las pampas argentinas (Homus Pampeanus) y que desde allí pobló el resto del mundo."
+  },
+  {
+    "pregunta": "Según la teoría Asiática, ¿qué estrecho cruzó el hombre para llegar a América?",
+    "opciones": [
+      "Magallanes",
+      "Gibraltar",
+      "Bering",
+      "Cook",
+      "Ormuz"
+    ],
+    "correcta": 2,
+    "resolucion": "Alex Hrdlicka planteó que grupos paleomongoloides cruzaron el Estrecho de Bering durante la glaciación de Wisconsin aprovechando el puente terrestre."
+  },
+  {
+    "pregunta": "¿Cuál es el principal sustento antropológico de la teoría Asiática?",
+    "opciones": [
+      "El uso del bumerán",
+      "La mancha lumbar",
+      "La construcción de pirámides",
+      "El cultivo de la papa",
+      "El uso de la canoa"
+    ],
+    "correcta": 1,
+    "resolucion": "Hrdlicka señaló semejanzas físicas como los pómulos salientes, ojos rasgados y la mancha mongólica en los recién nacidos."
+  },
+  {
+    "pregunta": "¿Qué autor planteó la teoría Oceánica (Polinésica y Melanésica)?",
+    "opciones": [
+      "Paul Rivet",
+      "Alex Hrdlicka",
+      "Mendez Correa",
+      "Thor Heyerdahl",
+      "Bruce Bradley"
+    ],
+    "correcta": 0,
+    "resolucion": "Paul Rivet sostuvo que América fue poblada por múltiples rutas, incluyendo grupos que cruzaron el Océano Pacífico."
+  },
+  {
+    "pregunta": "Según la teoría Oceánica, ¿qué elemento cultural trajeron los melanesios?",
+    "opciones": [
+      "La rueda",
+      "La cerbatana",
+      "El arado",
+      "El hierro",
+      "La escritura"
+    ],
+    "correcta": 1,
+    "resolucion": "Paul Rivet señaló que el uso de la cerbatana, hamacas y puentes colgantes son evidencias de la influencia melanésica en América."
+  },
+  {
+    "pregunta": "¿Qué ruta habrían seguido los australianos para llegar a América?",
+    "opciones": [
+      "El Estrecho de Bering",
+      "El Océano Atlántico",
+      "La Antártida",
+      "El Océano Índico",
+      "El Amazonas"
+    ],
+    "correcta": 2,
+    "resolucion": "Mendez Correa planteó que los australianos cruzaron Tasmania y las islas Auckland hasta llegar a la Antártida y luego a la Tierra del Fuego."
+  },
+  {
+    "pregunta": "¿Qué fenómeno climático facilitó el paso de los australianos según su teoría?",
+    "opciones": [
+      "Glaciación de Wisconsin",
+      "Optimus Ceramicus",
+      "Optimum Climaticum",
+      "Diluvio universal",
+      "Fenómeno del Niño"
+    ],
+    "correcta": 2,
+    "resolucion": "Se plantea que hubo un periodo de clima cálido (Optimum Climaticum) que permitió el tránsito por el continente antártico."
+  },
+  {
+    "pregunta": "¿Quién propuso que el primer hombre de América sería el Proto Homo Pampeanus?",
+    "opciones": [
+      "Bruce Bradley",
+      "Paul Rivet",
+      "Alex Hrdlicka",
+      "Mendez Correa",
+      "Florentino Ameghino"
+    ],
+    "correcta": 4,
+    "resolucion": "Florentino Ameghino planteó el origen del hombre americano desde las Pampas Argentinas, a la cual llamó como el Proto Homo Pampeanus."
+  },
+  {
+    "pregunta": "La teoría de Paul Rivet es considerada de carácter:",
+    "opciones": [
+      "Monorracial",
+      "Polirracial",
+      "Autoctonista",
+      "Difusionista",
+      "Evolucionista"
+    ],
+    "correcta": 1,
+    "resolucion": "Es polirracial porque acepta diversas procedencias (asiática, melanésica y polinésica)."
+  },
+  {
+    "pregunta": "¿Qué islas sirvieron de escala a los polinesios para llegar a Sudamérica?",
+    "opciones": [
+      "Islas Canarias",
+      "Isla de Pascua",
+      "Islas Baleares",
+      "Islas Malvinas",
+      "Islas Azores"
+    ],
+    "correcta": 1,
+    "resolucion": "La Isla de Pascua es el punto de referencia clave en la ruta transpacífica de los polinesios hacia la costa chilena."
+  },
+  {
+    "pregunta": "¿En qué era geológica se produjo el poblamiento americano según la teoría asiática?",
+    "opciones": [
+      "Mesozoica",
+      "Pleistoceno",
+      "Paleozoica",
+      "Precámbrica",
+      "Jurásica"
+    ],
+    "correcta": 1,
+    "resolucion": "El ingreso de los asiáticos se produjo durante el Pleistoceno, específicamente a finales de la última glaciación (Wisconsin)."
+  },
+  {
+    "pregunta": "¿Qué evidencia lingüística utilizó Rivet para los polinesios?",
+    "opciones": [
+      "Palabras similares",
+      "El alfabeto latino",
+      "La escritura cuneiforme",
+      "Los jeroglíficos",
+      "El lenguaje de señas"
+    ],
+    "correcta": 0,
+    "resolucion": "Rivet encontró semejanzas lingüísticas entre el quechua y el polinésico (ejemplo: Kumara = camote)."
+  },
+  {
+    "pregunta": "¿Qué grupo humano llegó a América según Alex Hrdlicka?",
+    "opciones": [
+      "Melanesios",
+      "Paleomongoloides",
+      "Australianos",
+      "Vikingos",
+      "Fenicios"
+    ],
+    "correcta": 1,
+    "resolucion": "Hrdlicka afirmó que fueron grupos asiáticos paleomongoloides los que cruzaron hacia Alaska."
+  },
+  {
+    "pregunta": "¿Cuál es el error de la teoría autoctonista de Ameghino?",
+    "opciones": [
+      "El clima era frío",
+      "Los restos eran del Terciario",
+      "Los restos eran del Cuaternario",
+      "El hombre no usaba fuego",
+      "No había animales"
+    ],
+    "correcta": 2,
+    "resolucion": "Se demostró que los restos óseos pertenecían a capas del Cuaternario y no del Terciario, y muchos eran de animales."
+  },
+  {
+    "pregunta": "¿Qué autor propuso la existencia de \"puentes intercontinentales\" para la migración de América a otros continentes?",
+    "opciones": [
+      "Bruce Bradley",
+      "Thor Heyerdahl",
+      "Florentino Ameghino",
+      "Alex Hrdlicka",
+      "Paul Rivet"
+    ],
+    "correcta": 2,
+    "resolucion": "Ameghino menciona que el hombre más antiguo de la tierra es de Sudamérica, y esta especie migró a otros continentes a través de puentes intercontinentales."
+  },
+  {
+    "pregunta": "¿Qué semejanza sanguínea hay entre australianos y americanos según Mendes Correa?",
+    "opciones": [
+      "Grupo A positivo",
+      "Grupo B negativo",
+      "Grupo O positivo",
+      "Grupo AB",
+      "Rh negativo"
+    ],
+    "correcta": 2,
+    "resolucion": "La predominancia del grupo sanguíneo O positivo es un factor común entre ambas poblaciones."
+  },
+  {
+    "pregunta": "¿Qué tipo de chozas usaban los australianos y americanos del sur?",
+    "opciones": [
+      "Iglús",
+      "Colmenas",
+      "Chozas en forma de colmena",
+      "Edificios de piedra",
+      "Tiendas de tela"
+    ],
+    "correcta": 2,
+    "resolucion": "Mendez Correa señaló la similitud en la construcción de viviendas circulares o en forma de colmena."
+  },
+  {
+    "pregunta": "¿Cómo llamamos al descenso del nivel del mar que formó el puente de Bering?",
+    "opciones": [
+      "Isostasia",
+      "Eustacia glacial",
+      "Eustasia glaciomarina",
+      "Tsunami",
+      "Maremoto"
+    ],
+    "correcta": 1,
+    "resolucion": "La eustasia glacial provocó que el nivel del mar bajara unos 100 metros, dejando el fondo marino al descubierto."
+  },
+  {
+    "pregunta": "La escasa pilosidad facial y los dientes de pala son evidencia de la teoría:",
+    "opciones": [
+      "Oceánica",
+      "Asiática",
+      "Australiana",
+      "Azteca",
+      "Europea"
+    ],
+    "correcta": 1,
+    "resolucion": "La teoría asiática presenta pruebas antroposomáticas, entre ellas la pilosidad corporal escasa y la forma de los incisivos superiores en forma de pala."
+  },
+  {
+    "pregunta": "¿Qué autor del siglo XVI ya sospechaba del origen asiático?",
+    "opciones": [
+      "Cristóbal Colón",
+      "José de Acosta",
+      "Hernán Cortés",
+      "Francisco Pizarro",
+      "Américo Vespucio"
+    ],
+    "correcta": 1,
+    "resolucion": "En su obra \"Historia natural y moral de las Indias\", José de Acosta planteó que el hombre vino de Asia por el norte."
+  },
+  {
+    "pregunta": "¿Cuál es el periodo donde el hombre era nómade, cazador y recolector?",
+    "opciones": [
+      "Formativo",
+      "Lítico",
+      "Arcaico Inferior",
+      "Arcaico Superior",
+      "Horizonte Temprano"
+    ],
+    "correcta": 1,
+    "resolucion": "En el periodo Lítico, los primeros habitantes tenían una economía depredadora y vivían en cuevas o abrigos rocosos."
+  },
+  {
+    "pregunta": "¿Quién es el descubridor de los restos de Pacaicasa en Ayacucho?",
+    "opciones": [
+      "Richard Mac Neish",
+      "Edward Lanning",
+      "Rafael Larco Hoyle",
+      "Augusto Cardich",
+      "Federico Engel"
+    ],
+    "correcta": 0,
+    "resolucion": "Mac Neish encontró instrumentos líticos considerados los más antiguos del Perú en la cueva de Pacaicasa."
+  },
+  {
+    "pregunta": "¿En qué lugar se encuentran las pinturas rupestres más antiguas del Perú?",
+    "opciones": [
+      "Lauricocha",
+      "Paiján",
+      "Toquepala",
+      "Paccaicasa",
+      "Kotosh"
+    ],
+    "correcta": 2,
+    "resolucion": "En Toquepala (Tacna), Miomir Bojovich y Emilio González hallaron pinturas que representan escenas de caza (chacu)."
+  },
+  {
+    "pregunta": "¿Quién descubrió los restos humanos más antiguos de la sierra peruana?",
+    "opciones": [
+      "Augusto Cardich",
+      "Rafael Larco",
+      "Richard Mac Neish",
+      "Claude Chauchat",
+      "Miomir Bojovich"
+    ],
+    "correcta": 0,
+    "resolucion": "Augusto Cardich descubrió en Lauricocha (Huánuco) esqueletos humanos asociados a ritos funerarios."
+  },
+  {
+    "pregunta": "¿Qué hombre del periodo Lítico destaca por sus puntas bifaciales con pedúnculo?",
+    "opciones": [
+      "Hombre de Chivateros",
+      "Hombre de Paiján",
+      "Hombre de Toquepala",
+      "Hombre de Lauricocha",
+      "Hombre de Nanchoc"
+    ],
+    "correcta": 1,
+    "resolucion": "Claude Chauchat descubrió en Paiján (La Libertad) una tradición lítica de puntas delgadas con pedúnculo."
+  },
+  {
+    "pregunta": "¿Quién es considerado el primer horticultor del Perú?",
+    "opciones": [
+      "Hombre de Guitarrero II",
+      "Hombre de Nanchoc",
+      "Hombre de Paracas",
+      "Hombre de Jayhuamachay",
+      "Hombre de Piquimachay"
+    ],
+    "correcta": 1,
+    "resolucion": "Tom Dillehay descubrió que el hombre de Nanchoc (Cajamarca) cultivaba calabaza y maní hacia los 7000 a.C."
+  },
+  {
+    "pregunta": "¿Qué hombre domesticó al perro peruano?",
+    "opciones": [
+      "Paracas",
+      "Lurín",
+      "Toquepala",
+      "Paccaicasa",
+      "Chilca"
+    ],
+    "correcta": 4,
+    "resolucion": "El domesticador del perro peruano o calato fue el hombre de Chilca."
+  },
+  {
+    "pregunta": "¿Qué resto arqueológico destaca por ser el primer músico del Perú?",
+    "opciones": [
+      "Hombre de Santo Domingo",
+      "Hombre de Telarmachay",
+      "Hombre de Chilca",
+      "Hombre de Caral",
+      "Hombre de Kotosh"
+    ],
+    "correcta": 0,
+    "resolucion": "En Santo Domingo (Paracas), Federico Engel halló la flauta de hueso más antigua del Perú."
+  },
+  {
+    "pregunta": "¿A qué hombre se le considera como el primer arquitecto del Perú?",
+    "opciones": [
+      "Chilca",
+      "Paracas",
+      "Huaca Prieta",
+      "Tablada de Lurín",
+      "Paiján"
+    ],
+    "correcta": 3,
+    "resolucion": "El primer hombre sedentario y constructor de viviendas rústicas pertenece a Lurín."
+  },
+  {
+    "pregunta": "¿Cuál es el templo donde se encuentran las \"Manos Cruzadas\"?",
+    "opciones": [
+      "Caral",
+      "Kotosh",
+      "Huaricoto",
+      "Galgada",
+      "Sechín"
+    ],
+    "correcta": 1,
+    "resolucion": "Seichi Izumi descubrió en Kotosh (Huánuco) el Templo de las Manos Cruzadas, muestra de escultura religiosa temprana."
+  },
+  {
+    "pregunta": "¿En qué periodo surge la agricultura, ganadería y el sedentarismo?",
+    "opciones": [
+      "Lítico",
+      "Arcaico Superior",
+      "Formativo",
+      "Horizonte Medio",
+      "Periodo Inicial"
+    ],
+    "correcta": 1,
+    "resolucion": "El Arcaico Superior se caracteriza por la economía productora y el establecimiento en aldeas permanentes."
+  },
+  {
+    "pregunta": "¿Quién es el primer domesticador de cuyes en el Perú?",
+    "opciones": [
+      "Hombre de Piquimachay",
+      "Hombre de Telarmachay",
+      "Hombre de Chilca",
+      "Hombre de Nanchoc",
+      "Hombre de Lauricocha"
+    ],
+    "correcta": 0,
+    "resolucion": "Richard Mac Neish encontró evidencias de crianza de cuyes en la cueva de Piquimachay (Ayacucho)."
+  },
+  {
+    "pregunta": "¿Qué resto arqueológico muestra redes de pesca hechas con fibra de cactus?",
+    "opciones": [
+      "Santo Domingo",
+      "Chilca",
+      "Paiján",
+      "Chivateros",
+      "Toquepala"
+    ],
+    "correcta": 0,
+    "resolucion": "El hombre de Santo Domingo o Paracas destacó por ser el primer pescador con red en el litoral peruano."
+  },
+  {
+    "pregunta": "Lugar donde se hallaron restos humanos completos, corresponde al hombre de:",
+    "opciones": [
+      "Kotosh",
+      "Paiján",
+      "El Paraíso",
+      "Sechín",
+      "Chavín"
+    ],
+    "correcta": 1,
+    "resolucion": "El hombre de Paiján se caracteriza por el hallazgo de los 11 esqueletos humanos completos."
+  },
+  {
+    "pregunta": "¿Quién descubrió el taller lítico más grande de la costa (Chivateros)?",
+    "opciones": [
+      "Edward Lanning",
+      "Federico Engel",
+      "Ruth Shady",
+      "Max Uhle",
+      "Rafael Larco"
+    ],
+    "correcta": 0,
+    "resolucion": "Lanning encontró en la desembocadura del río Chillón una gran cantidad de preformas líticas (piedras toscas)."
+  },
+  {
+    "pregunta": "El hombre de Huaca Prieta desarrolló el tejido, representando el cóndor andino, fue descubierto por:",
+    "opciones": [
+      "Junius Bird",
+      "Ruth Shady",
+      "Seichi Izumi",
+      "Federico Engel",
+      "Richard Mac Neish"
+    ],
+    "correcta": 0,
+    "resolucion": "Junius Bird descubrió en Huaca Prieta (La Libertad) tejidos con diseños de cóndor y serpiente, antes del uso de la cerámica."
+  },
+  {
+    "pregunta": "¿Cómo se llama el proceso de domesticación inicial de plantas?",
+    "opciones": [
+      "Agricultura",
+      "Horticultura",
+      "Silvicultura",
+      "Ganadería",
+      "Apicultura"
+    ],
+    "correcta": 1,
+    "resolucion": "La horticultura es el cultivo incipiente de plantas en huertos, característico del Arcaico Inferior."
+  },
+  {
+    "pregunta": "¿Qué resto humano es el primero en usar el perro como compañero?",
+    "opciones": [
+      "Hombre de Telarmachay",
+      "Hombre de Chilca",
+      "Hombre de Nanchoc",
+      "Hombre de Lauricocha",
+      "Hombre de Paiján"
+    ],
+    "correcta": 1,
+    "resolucion": "Federico Engel descubrió en Chilca (Lima) entierros donde los humanos estaban acompañados por perros."
+  },
+  {
+    "pregunta": "¿Cuál es la principal característica social del Arcaico Superior o periodo de los sedentarios?",
+    "opciones": [
+      "Bandas nómades",
+      "Tribus seminómades",
+      "Sociedades clasistas y teocráticas",
+      "Imperios militares",
+      "Hordas salvajes"
+    ],
+    "correcta": 2,
+    "resolucion": "Surgen las primeras jerarquías sociales dirigidas por sacerdotes-astrónomos que controlaban el excedente productivo."
+  },
+  {
+    "pregunta": "¿Qué arqueólogo descubrió los restos de Telarmachay?",
+    "opciones": [
+      "Daniele Lavallée",
+      "Claude Chauchat",
+      "Paul Rivet",
+      "Max Uhle",
+      "Richard Mac Neish"
+    ],
+    "correcta": 0,
+    "resolucion": "Lavallée descubrió en Junín evidencias de la domesticación de camélidos (alpacas) en el Arcaico Inferior."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "5.1 P. Americano",
+          "youtube_id": "D2zsTjytUf8",
+          "pdf_link": "https://drive.google.com/file/d/1PS3VmDoiM5Wqvv2F0WHI7IlriHaW07rW/view",
+          "gratis": true
+        },
+        {
+          "titulo": "5.2 P. Peruano",
+          "youtube_id": "oPao9c043UU",
+          "pdf_link": "https://drive.google.com/file/d/1PS3VmDoiM5Wqvv2F0WHI7IlriHaW07rW/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 6: Cultura Preincas",
+      "preguntas": [
+        {
+    "pregunta": "¿En qué se basa la periodificación de John Rowe para clasificar las culturas?",
+    "opciones": [
+      "Desarrollo social",
+      "Estilos cerámicos",
+      "Poder militar",
+      "Técnicas agrícolas",
+      "Uso de metales"
+    ],
+    "correcta": 1,
+    "resolucion": "John Rowe utiliza los Horizontes e Intermedios basándose principalmente en la expansión de estilos cerámicos y la cronología."
+  },
+  {
+    "pregunta": "Según Rowe, ¿qué es un Horizonte cultural?",
+    "opciones": [
+      "Cultura regional",
+      "Fragmentación",
+      "Gran expansión",
+      "Caída de imperios",
+      "Periodo inicial"
+    ],
+    "correcta": 2,
+    "resolucion": "Un Horizonte representa un periodo de mayor expansión territorial e integración cultural (Pan-Peruana)."
+  },
+  {
+    "pregunta": "¿Qué caracteriza a los Intermedios en la cronología de Rowe?",
+    "opciones": [
+      "Integración total",
+      "Menor expansión",
+      "Imperio mundial",
+      "Estilo único",
+      "Gobierno central"
+    ],
+    "correcta": 1,
+    "resolucion": "Los Intermedios son periodos de fragmentación o culturas regionales con menor expansión territorial."
+  },
+  {
+    "pregunta": "¿Quién es la arqueóloga que estudió y puso en valor la ciudad de Caral?",
+    "opciones": [
+      "Maria Reiche",
+      "Ruth Shady",
+      "Victoria de la Jara",
+      "Josefina Ramos",
+      "Blanca Varela"
+    ],
+    "correcta": 1,
+    "resolucion": "Ruth Shady es la principal investigadora de Caral, logrando que sea declarada Patrimonio de la Humanidad."
+  },
+  {
+    "pregunta": "¿En qué valle se encuentra ubicada la Ciudad Sagrada de Caral?",
+    "opciones": [
+      "Moche",
+      "Rímac",
+      "Supe",
+      "Ica",
+      "Chicama"
+    ],
+    "correcta": 2,
+    "resolucion": "Caral se ubica en el valle de Supe, al norte de Lima."
+  },
+  {
+    "pregunta": "Caral es considerada la civilización más antigua de:",
+    "opciones": [
+      "Solo el Perú",
+      "Sudamérica",
+      "Perú y América",
+      "El mundo entero",
+      "La costa central"
+    ],
+    "correcta": 2,
+    "resolucion": "Es reconocida como la civilización más antigua de Perú y del continente americano (2 800 a.C.)."
+  },
+  {
+    "pregunta": "¿Qué tipo de estado presentaba la sociedad de Caral?",
+    "opciones": [
+      "Militarista",
+      "Teocrático",
+      "Democrático",
+      "Monárquico",
+      "Imperial"
+    ],
+    "correcta": 1,
+    "resolucion": "Fue un estado teocrático no militarista, dirigido por sacerdotes astrónomos."
+  },
+  {
+    "pregunta": "¿A qué elemento de la naturaleza rindieron culto principal en Caral?",
+    "opciones": [
+      "Al agua",
+      "Al fuego",
+      "Al viento",
+      "A la tierra",
+      "A las estrellas"
+    ],
+    "correcta": 1,
+    "resolucion": "En Caral se construyeron altares con conductos de ventilación para mantener el fuego sagrado."
+  },
+  {
+    "pregunta": "¿Qué instrumento de registro de información se halló en Caral, siendo el más antiguo?",
+    "opciones": [
+      "Escritura cuneiforme",
+      "Quipu",
+      "Tocapu",
+      "Pallariforme",
+      "Glifo"
+    ],
+    "correcta": 1,
+    "resolucion": "En Caral se encontró el quipu más antiguo del Perú, utilizado para el registro de datos."
+  },
+  {
+    "pregunta": "¿Cuál fue la actividad económica que permitió el intercambio con la costa?",
+    "opciones": [
+      "Minería",
+      "Pesca",
+      "Caza",
+      "Orfebrería",
+      "Ganadería"
+    ],
+    "correcta": 1,
+    "resolucion": "Caral intercambiaba productos agrícolas por productos marinos (pescado y moluscos)."
+  },
+  {
+    "pregunta": "¿Cuál era el cultivo principal en Caral usado para la fabricación de redes?",
+    "opciones": [
+      "Maíz",
+      "Algodón",
+      "Totora",
+      "Lino",
+      "Junco"
+    ],
+    "correcta": 1,
+    "resolucion": "El algodón fue fundamental para su industria textil y la creación de redes de pesca."
+  },
+  {
+    "pregunta": "¿Qué organización social básica surge durante el periodo de Caral?",
+    "opciones": [
+      "La Encomienda",
+      "El Ayllu",
+      "La Intendencia",
+      "El Corregimiento",
+      "La República"
+    ],
+    "correcta": 1,
+    "resolucion": "En Caral surgen los primeros ayllus, que son unidades sociales basadas en parentesco y trabajo común."
+  },
+  {
+    "pregunta": "¿Qué entidad internacional declaró a Caral Patrimonio de la Humanidad?",
+    "opciones": [
+      "ONU",
+      "OEA",
+      "UNESCO",
+      "UNICEF",
+      "OMS"
+    ],
+    "correcta": 2,
+    "resolucion": "La UNESCO otorgó esta distinción en el año 2009."
+  },
+  {
+    "pregunta": "¿Qué tipo de arquitectura monumental destaca en Caral?",
+    "opciones": [
+      "Palacios de madera",
+      "Pirámides truncas",
+      "Castillos feudales",
+      "Torres de metal",
+      "Anfiteatros griegos"
+    ],
+    "correcta": 1,
+    "resolucion": "Destacan sus grandes pirámides truncas hechas de piedra y adobe con plazas circulares hundidas."
+  },
+  {
+    "pregunta": "¿Cómo se denominaba a los gobernantes en la sociedad de Caral?",
+    "opciones": [
+      "Faraones",
+      "Sacerdotes",
+      "Curacas",
+      "Incas",
+      "Shamanes"
+    ],
+    "correcta": 1,
+    "resolucion": "Al ser una teocracia, el poder estaba en manos de sacerdotes que conocían los ciclos agrícolas."
+  },
+  {
+    "pregunta": "¿Qué técnica utilizaban en Caral para sismorresistencia?",
+    "opciones": [
+      "Columnas de hierro",
+      "Shicras",
+      "Cemento",
+      "Vigas de roble",
+      "Adobe cocido"
+    ],
+    "correcta": 1,
+    "resolucion": "Las shicras eran bolsas de fibras vegetales llenas de piedras que daban estabilidad a las pirámides."
+  },
+  {
+    "pregunta": "La antigüedad de Caral y su alto desarrollo, lo convierten en la primera civilización de:",
+    "opciones": [
+      "Mundo",
+      "Perú y América",
+      "Sudamérica",
+      "Arcaico",
+      "Lítico"
+    ],
+    "correcta": 2,
+    "resolucion": "Caral floreció entre los años 3 000 y 1 800 a.C. aproximadamente, civilización más antigua de Perú y de América."
+  },
+  {
+    "pregunta": "¿Qué tipo de instrumentos musicales se hallaron en Caral?",
+    "opciones": [
+      "Guitarras",
+      "Flautas trasversas",
+      "Flautas de hueso",
+      "Tambores de metal",
+      "Arpas"
+    ],
+    "correcta": 2,
+    "resolucion": "Se encontraron conjuntos de flautas traversas hechas de hueso de pelícano y cóndor."
+  },
+  {
+    "pregunta": "¿Por qué se dice que Caral fue una civilización pacífica?",
+    "opciones": [
+      "No tenían leyes",
+      "No hay murallas ni armas",
+      "No tenían vecinos",
+      "No conocían el fuego",
+      "No tenían jefes"
+    ],
+    "correcta": 1,
+    "resolucion": "A diferencia de culturas posteriores, en Caral no se han hallado evidencias de actividad militar o armas de guerra."
+  },
+  {
+    "pregunta": "¿Qué cultura pertenece al Horizonte Temprano según el cuadro de Rowe?",
+    "opciones": [
+      "Wari",
+      "Chavín",
+      "Chimú",
+      "Mochica",
+      "Nasca"
+    ],
+    "correcta": 1,
+    "resolucion": "Chavín es la cultura representativa del Horizonte Temprano o Formativo Medio."
+  },
+  {
+    "pregunta": "¿Quién es el arqueólogo que descubrió y llamó a Chavín \"Cultura Matriz\"?",
+    "opciones": [
+      "Max Uhle",
+      "Federico Kauffman",
+      "Julio C. Tello",
+      "Luis Lumbreras",
+      "Rafael Larco"
+    ],
+    "correcta": 2,
+    "resolucion": "Julio C. Tello la consideró la madre de todas las culturas andinas."
+  },
+  {
+    "pregunta": "¿Dónde se encuentra ubicado el centro principal de Chavín?",
+    "opciones": [
+      "Valle del Mantaro",
+      "Callejón de Conchucos",
+      "Valle de Ica",
+      "Altiplano",
+      "Costa Norte"
+    ],
+    "correcta": 1,
+    "resolucion": "Se ubica en Huari (Ancash), en el Callejón de Conchucos, entre los ríos Mosna y Huacheksa."
+  },
+  {
+    "pregunta": "¿Qué animales formaban la \"Tríada Sagrada\" de Chavín?",
+    "opciones": [
+      "Llama, alpaca y cuy",
+      "Jaguar, cóndor y serpiente",
+      "Puma, perro y halcón",
+      "Zorro, ballena y águila",
+      "Mono, lagarto y pez"
+    ],
+    "correcta": 1,
+    "resolucion": "Su iconografía religiosa se basaba en elementos de la selva: felino (jaguar), ave (cóndor) y reptil (serpiente)."
+  },
+  {
+    "pregunta": "¿Cuál es la escultura de Chavín que representa al \"Dios de las Varas\"?",
+    "opciones": [
+      "Lanzón Monolítico",
+      "Cabeza Clava",
+      "Estela Raimondi",
+      "Obelisco Tello",
+      "Pórtico de las Falcónidas"
+    ],
+    "correcta": 2,
+    "resolucion": "La Estela Raimondi muestra a una divinidad antropomorfa con dos báculos o varas."
+  },
+  {
+    "pregunta": "¿Qué función cumplían las Cabezas Clavas?",
+    "opciones": [
+      "Instrumentos de molienda",
+      "Guardianes del templo",
+      "Utensilios de cocina",
+      "Adornos de tumbas",
+      "Armas de guerra"
+    ],
+    "correcta": 1,
+    "resolucion": "Eran cabezas zoomorfas que estaban empotradas en los muros exteriores del templo para causar terror y protegerlo."
+  },
+  {
+    "pregunta": "¿Cómo era la cerámica Chavín?",
+    "opciones": [
+      "Policroma y brillante",
+      "Monocroma e incisa",
+      "Bícroma y pictórica",
+      "Asa puente y fina",
+      "Escultórica y realista"
+    ],
+    "correcta": 1,
+    "resolucion": "Era de color oscuro (gris o negro), imitando la piedra, con decoraciones mediante incisiones."
+  },
+  {
+    "pregunta": "¿Quién descubrió la cultura Paracas?",
+    "opciones": [
+      "Max Uhle",
+      "Julio C. Tello",
+      "Ruth Shady",
+      "Maria Reiche",
+      "Seichi Izumi"
+    ],
+    "correcta": 1,
+    "resolucion": "Fue descubierta por Tello en 1925 en la península de Paracas (Ica)."
+  },
+  {
+    "pregunta": "¿En qué periodo de Paracas las tumbas tenían forma de botella o copa invertida?",
+    "opciones": [
+      "Paracas Necrópolis",
+      "Paracas Cavernas",
+      "Paracas Inicial",
+      "Paracas Tardío",
+      "Paracas Imperial"
+    ],
+    "correcta": 1,
+    "resolucion": "En la fase Cavernas, los entierros se hacían en pozos profundos con forma de copa invertida."
+  },
+  {
+    "pregunta": "¿Cuál fue la fase de Paracas famosa por sus mantos textiles de alta calidad?",
+    "opciones": [
+      "Cavernas",
+      "Necrópolis",
+      "Horizonte",
+      "Intermedio",
+      "Formativo"
+    ],
+    "correcta": 1,
+    "resolucion": "En Paracas Necrópolis (fase de influencia local) se elaboraron los tejidos más bellos y complejos del Perú antiguo."
+  },
+  {
+    "pregunta": "¿Qué técnica médica destacaron los Paracas para curar heridas de guerra?",
+    "opciones": [
+      "Vacunación",
+      "Cirugía plástica",
+      "Trepanaciones craneanas",
+      "Trasplantes",
+      "Acupuntura"
+    ],
+    "correcta": 2,
+    "resolucion": "Realizaban operaciones quirúrgicas en el cráneo usando cuchillos de obsidiana y placas de metal."
+  },
+  {
+    "pregunta": "¿Qué es un fardo funerario?",
+    "opciones": [
+      "Un tipo de pirámide",
+      "Un conjunto de mantos envolviendo un cadáver",
+      "Un arma de defensa",
+      "Un instrumento musical",
+      "Un sistema de riego"
+    ],
+    "correcta": 1,
+    "resolucion": "Era el paquete formado por capas de finos textiles que contenían el cuerpo del difunto en posición fetal."
+  },
+  {
+    "pregunta": "¿Por qué los Paracas practicaban la deformación craneana?",
+    "opciones": [
+      "Por salud",
+      "Para cargar pesos",
+      "Distinción social",
+      "Castigo militar",
+      "Rito de iniciación"
+    ],
+    "correcta": 2,
+    "resolucion": "Se realizaba en niños para diferenciar a los grupos sociales o linajes de la nobleza."
+  },
+  {
+    "pregunta": "¿Qué nombre recibe la escultura Chavín enterrada en el centro del Templo Viejo?",
+    "opciones": [
+      "Estela Raimondi",
+      "Lanzón Monolítico",
+      "Cabeza Clava",
+      "Obelisco Tello",
+      "Medusa"
+    ],
+    "correcta": 1,
+    "resolucion": "El Lanzón es una escultura de granito de 4.5 metros que representa al \"Dios Irritado\"."
+  },
+  {
+    "pregunta": "¿Cuál es el principal material de construcción de Chavín de Huántar?",
+    "opciones": [
+      "Adobe",
+      "Madera",
+      "Piedra",
+      "Quincha",
+      "Ladrillo"
+    ],
+    "correcta": 2,
+    "resolucion": "Chavín destaca por su arquitectura monumental en piedra, con galerías subterráneas."
+  },
+  {
+    "pregunta": "¿Qué cultura influyó directamente en los inicios de Paracas?",
+    "opciones": [
+      "Mochica",
+      "Chavín",
+      "Nasca",
+      "Wari",
+      "Chimú"
+    ],
+    "correcta": 1,
+    "resolucion": "Paracas Cavernas presenta una fuerte influencia de Chavín, especialmente en el culto al felino."
+  },
+  {
+    "pregunta": "¿Cuál fue el centro político-religioso de Paracas Necrópolis?",
+    "opciones": [
+      "Tajahuana",
+      "Topará",
+      "Cahuachi",
+      "Chavín de Huántar",
+      "Chan Chan"
+    ],
+    "correcta": 1,
+    "resolucion": "El estilo Topará es el centro de referencia para la fase Necrópolis."
+  },
+  {
+    "pregunta": "¿Cómo era la cerámica en Paracas Cavernas?",
+    "opciones": [
+      "Pintura precocción",
+      "Pintura post-cocción",
+      "Monocroma sin brillo",
+      "Solo de barro crudo",
+      "No tenían cerámica"
+    ],
+    "correcta": 1,
+    "resolucion": "Usaban la técnica de \"pintura fugitiva\" aplicada después de que la pieza salía del horno."
+  },
+  {
+    "pregunta": "¿Qué representaban los textiles de Paracas Necrópolis?",
+    "opciones": [
+      "Solo flores",
+      "Seres mitológicos y deidades",
+      "Paisajes europeos",
+      "La vida del pueblo",
+      "Mapas estelares"
+    ],
+    "correcta": 1,
+    "resolucion": "Representaban deidades como el \"Ser Oculado\" y figuras complejas con hilos de oro y plumas."
+  },
+  {
+    "pregunta": "¿A qué horizonte pertenece la cultura Chavín?",
+    "opciones": [
+      "Horizonte Medio",
+      "Horizonte Temprano",
+      "Horizonte Tardío",
+      "Intermedio Temprano",
+      "Intermedio Tardío"
+    ],
+    "correcta": 1,
+    "resolucion": "Chavín es la cultura principal del Horizonte Temprano."
+  },
+  {
+    "pregunta": "¿Qué usaban los cirujanos Paracas como anestesia?",
+    "opciones": [
+      "Alcohol y éter",
+      "Chicha y coca",
+      "Plantas marinas",
+      "No usaban nada",
+      "Hipnosis"
+    ],
+    "correcta": 1,
+    "resolucion": "Se cree que utilizaban la chicha de jora y la hoja de coca para adormecer al paciente."
+  },
+  {
+    "pregunta": "¿Dónde se ubicó la cultura Nasca?",
+    "opciones": [
+      "La Libertad",
+      "Valle del río Grande (Ica)",
+      "Valle del Rímac",
+      "Lago Titicaca",
+      "Meseta del Collao"
+    ],
+    "correcta": 1,
+    "resolucion": "Nasca se desarrolló en la costa sur, en la actual región de Ica."
+  },
+  {
+    "pregunta": "¿Quién es el descubridor científico de la cultura Nasca?",
+    "opciones": [
+      "Julio C. Tello",
+      "Max Uhle",
+      "Maria Reiche",
+      "Federico Engel",
+      "Paul Kosok"
+    ],
+    "correcta": 1,
+    "resolucion": "Max Uhle la descubrió y la llamó \"Proto-Nasca\"."
+  },
+  {
+    "pregunta": "¿Cuál fue la capital o centro religioso más importante de Nasca?",
+    "opciones": [
+      "Tambo de Mora",
+      "Cahuachi",
+      "Chan Chan",
+      "Pachacámac",
+      "Huaca del Sol"
+    ],
+    "correcta": 1,
+    "resolucion": "Cahuachi es considerada la ciudad de barro más grande del mundo Nasca, usada como centro ceremonial."
+  },
+  {
+    "pregunta": "¿Cuál es la principal característica de la cerámica Nasca?",
+    "opciones": [
+      "Escultórica y realista",
+      "Monocroma y opaca",
+      "Policroma y horror al vacío",
+      "Incisa y tosca",
+      "Solo ceremonial"
+    ],
+    "correcta": 2,
+    "resolucion": "Usaron hasta 11 colores y no dejaban espacios sin pintar (horror al vacío)."
+  },
+  {
+    "pregunta": "¿Qué técnica de ingeniería hidráulica crearon los Nasca para obtener agua subterránea?",
+    "opciones": [
+      "Camellones",
+      "Puquios o galerías filtrantes",
+      "Waru waru",
+      "Represas de cemento",
+      "Pozos artesianos"
+    ],
+    "correcta": 1,
+    "resolucion": "Los acueductos o puquios permitían extraer agua del subsuelo en una zona desértica."
+  },
+  {
+    "pregunta": "¿Quién dedicó gran parte de su vida al estudio y conservación de las Líneas de Nasca?",
+    "opciones": [
+      "Ruth Shady",
+      "Maria Reiche",
+      "Victoria de la Jara",
+      "Paul Kosok",
+      "Rafael Larco"
+    ],
+    "correcta": 1,
+    "resolucion": "La matemática alemana Maria Reiche es conocida como la \"Dama de la Pampa\"."
+  },
+  {
+    "pregunta": "¿Qué interpretación dio Paul Kosok a los Geoglifos de Nasca?",
+    "opciones": [
+      "Caminos sagrados",
+      "Calendario astronómico",
+      "Mapas de tesoros",
+      "Pistas de aterrizaje",
+      "Canales de riego"
+    ],
+    "correcta": 1,
+    "resolucion": "Kosok los llamó el \"Calendario astronómico más grande del mundo\"."
+  },
+  {
+    "pregunta": "¿Dónde se desarrolló la cultura Mochica?",
+    "opciones": [
+      "Ica y Nazca",
+      "Costa norte (La Libertad y Lambayeque)",
+      "Sierra sur",
+      "Selva central",
+      "Altiplano"
+    ],
+    "correcta": 1,
+    "resolucion": "Ocuparon los valles de Moche, Chicama y Virú en el norte peruano."
+  },
+  {
+    "pregunta": "¿Cuál es la característica principal de la cerámica Mochica?",
+    "opciones": [
+      "Pictórica y plana",
+      "Escultórica y realista (Huacos Retrato)",
+      "Monocroma oscura",
+      "Solo decorativa",
+      "Hecha en serie con moldes"
+    ],
+    "correcta": 1,
+    "resolucion": "Destacan por los \"Huacos Retrato\" que expresan estados de ánimo y rasgos físicos con gran realismo."
+  },
+  {
+    "pregunta": "¿Quién descubrió la tumba del Señor de Sipán?",
+    "opciones": [
+      "Max Uhle",
+      "Walter Alva",
+      "Rafael Larco",
+      "Julio C. Tello",
+      "Federico Kauffman"
+    ],
+    "correcta": 1,
+    "resolucion": "Walter Alva halló esta tumba real intacta en 1987 en Huaca Rajada."
+  },
+  {
+    "pregunta": "¿Cómo se llama la deidad principal de los Mochica, conocida como el \"degollador\"?",
+    "opciones": [
+      "Wiracocha",
+      "Inti",
+      "Ai Apaec",
+      "Kon",
+      "Pariacaca"
+    ],
+    "correcta": 2,
+    "resolucion": "Ai Apaec era el dios supremo, representado con colmillos de felino y rodeado de cabezas trofeo."
+  },
+  {
+    "pregunta": "¿Qué técnica de navegación usaban los Mochica?",
+    "opciones": [
+      "Barcos de madera",
+      "Caballitos de totora",
+      "Canoas de piel de lobo",
+      "Galeones",
+      "Balsas de vela"
+    ],
+    "correcta": 1,
+    "resolucion": "Pequeñas embarcaciones de fibra de totora que aún se usan en Huanchaco."
+  },
+  {
+    "pregunta": "¿Cuál era la función de la Huaca del Sol y la Huaca de la Luna?",
+    "opciones": [
+      "Centros comerciales",
+      "Centros administrativo y religioso",
+      "Tumbas de campesinos",
+      "Almacenes de comida",
+      "Viviendas del pueblo"
+    ],
+    "correcta": 1,
+    "resolucion": "La Huaca del Sol era el centro administrativo y la de la Luna el centro religioso."
+  },
+  {
+    "pregunta": "¿Qué tipo de sociedad eran los Mochica?",
+    "opciones": [
+      "Pacífica y democrática",
+      "Militarista y clasista",
+      "Igualitaria",
+      "Banda nómade",
+      "Imperio pacífico"
+    ],
+    "correcta": 1,
+    "resolucion": "Era una sociedad dirigida por guerreros y sacerdotes, con una estratificación muy marcada."
+  },
+  {
+    "pregunta": "¿Cómo se llamaba la gobernante mujer hallada en la Huaca Cao Viejo?",
+    "opciones": [
+      "Dama de Cao",
+      "Señora de Sipán",
+      "Coya Real",
+      "Princesa de Moche",
+      "Venus de barro"
+    ],
+    "correcta": 0,
+    "resolucion": "Fue una poderosa líder mochica descubierta con tatuajes de serpientes y arañas en sus brazos."
+  },
+  {
+    "pregunta": "¿Qué colores predominaban en la cerámica Mochica?",
+    "opciones": [
+      "Verde y azul",
+      "Rojo (crema) y ocre",
+      "Negro y gris",
+      "Morado y naranja",
+      "Amarillo y blanco"
+    ],
+    "correcta": 1,
+    "resolucion": "Fue bícroma, usando principalmente el rojo arcilla (ocre) y el crema."
+  },
+  {
+    "pregunta": "¿A qué periodo pertenecen Nasca y Mochica según Rowe?",
+    "opciones": [
+      "Horizonte Temprano",
+      "Intermedio Temprano",
+      "Horizonte Medio",
+      "Intermedio Tardío",
+      "Horizonte Tardío"
+    ],
+    "correcta": 1,
+    "resolucion": "Ambas son culturas del Intermedio Temprano o de los Desarrollos Regionales."
+  },
+  {
+    "pregunta": "¿Qué costumbre guerrera tenían los Nasca con sus enemigos?",
+    "opciones": [
+      "Les daban tierras",
+      "Cabezas trofeo",
+      "Los hacían sacerdotes",
+      "Los enviaban a la selva",
+      "No tenían guerras"
+    ],
+    "correcta": 1,
+    "resolucion": "Cortaban las cabezas de sus enemigos, las momificaban y las colgaban en su cintura como símbolo de poder."
+  },
+  {
+    "pregunta": "¿Qué idioma hablaban los Mochica?",
+    "opciones": [
+      "Quechua",
+      "Aimara",
+      "Muchic",
+      "Puquina",
+      "Uru"
+    ],
+    "correcta": 2,
+    "resolucion": "El muchic o mochica era su lengua nativa en la costa norte."
+  },
+  {
+    "pregunta": "¿Qué representaban los \"Huacos Eróticos\" de los Mochica?",
+    "opciones": [
+      "Solo placer",
+      "Fertilidad y ritos propiciatorios",
+      "Castigos sociales",
+      "Escenas prohibidas",
+      "Historias de amor"
+    ],
+    "correcta": 1,
+    "resolucion": "Estaban ligados al culto a la vida, la reproducción y la fertilidad de la tierra."
+  },
+  {
+    "pregunta": "¿Dónde se encuentra ubicado el centro principal de Tiahuanaco?",
+    "opciones": [
+      "Costa norte",
+      "Meseta del Collao (Altiplano)",
+      "Selva alta",
+      "Valle del Cuzco",
+      "Callejón de Huaylas"
+    ],
+    "correcta": 1,
+    "resolucion": "Se ubica al sur del Lago Titicaca, entre Perú y Bolivia."
+  },
+  {
+    "pregunta": "¿Qué técnica agrícola usaron los Tiahuanaco para proteger los cultivos de las heladas?",
+    "opciones": [
+      "Camellones o Waru waru",
+      "Puquios",
+      "Canales de piedra",
+      "Invernaderos de vidrio",
+      "Tala y quema"
+    ],
+    "correcta": 0,
+    "resolucion": "Eran montículos de tierra rodeados de agua que retenían el calor del sol durante el día."
+  },
+  {
+    "pregunta": "¿Cuál es la deidad principal representada en la Portada del Sol?",
+    "opciones": [
+      "Kon",
+      "Wiracocha (Dios de los Báculos)",
+      "Ai Apaec",
+      "Pachacámac",
+      "Pariacaca"
+    ],
+    "correcta": 1,
+    "resolucion": "El \"Dios Llorón\" o Wiracocha aparece en el centro del dintel de la Portada del Sol."
+  },
+  {
+    "pregunta": "¿Qué sistema económico permitió a Tiahuanaco obtener recursos de diversas regiones?",
+    "opciones": [
+      "Trueque simple",
+      "Control vertical de pisos ecológicos",
+      "Moneda de oro",
+      "Comercio marítimo",
+      "Solo exportación"
+    ],
+    "correcta": 1,
+    "resolucion": "Establecían \"archipiélagos\" o colonias en distintos niveles de altura para obtener productos que no crecían en el Altiplano."
+  },
+  {
+    "pregunta": "¿Cómo se llama el vaso ceremonial de madera o arcilla típico de Tiahuanaco?",
+    "opciones": [
+      "Aríbalo",
+      "Kero",
+      "Pebetero",
+      "Urna funeraria",
+      "Plato base"
+    ],
+    "correcta": 1,
+    "resolucion": "El Kero es el vaso representativo usado en sus rituales."
+  },
+  {
+    "pregunta": "¿Qué técnica de metalurgia perfeccionaron los Tiahuanaco?",
+    "opciones": [
+      "El oro puro",
+      "El bronce (cobre + estaño)",
+      "El hierro forjado",
+      "La plata martillada",
+      "El acero"
+    ],
+    "correcta": 1,
+    "resolucion": "Lograron la aleación del bronce, lo que les dio herramientas más duras para trabajar la piedra."
+  },
+  {
+    "pregunta": "¿Qué función tenían las grapas de cobre en la arquitectura Tiahuanaco?",
+    "opciones": [
+      "Decoración",
+      "Unir grandes bloques de piedra",
+      "Sujetar techos de paja",
+      "Instrumentos musicales",
+      "Armas de defensa"
+    ],
+    "correcta": 1,
+    "resolucion": "Eran piezas de metal en forma de \"T\" o \"I\" para asegurar la estabilidad de las construcciones."
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la pirámide escalonada más grande de Tiahuanaco?",
+    "opciones": [
+      "Kalasasaya",
+      "Akapana",
+      "Pumapunku",
+      "Templete semisubterráneo",
+      "Putuni"
+    ],
+    "correcta": 1,
+    "resolucion": "Akapana es la estructura piramidal más imponente del complejo arqueológico."
+  },
+  {
+    "pregunta": "¿A qué horizonte pertenece la cultura Tiahuanaco?",
+    "opciones": [
+      "Horizonte Temprano",
+      "Horizonte Medio",
+      "Horizonte Tardío",
+      "Intermedio Temprano",
+      "Intermedio Tardío"
+    ],
+    "correcta": 1,
+    "resolucion": "Es una de las dos culturas dominantes del Horizonte Medio."
+  },
+  {
+    "pregunta": "¿Cuál es la cultura considerada el \"Primer Imperio Andino\"?",
+    "opciones": [
+      "Chavín",
+      "Tiahuanaco",
+      "Wari",
+      "Inca",
+      "Chimú"
+    ],
+    "correcta": 2,
+    "resolucion": "Wari es reconocida como el primer imperio debido a su expansión militar y urbana."
+  },
+  {
+    "pregunta": "¿Dónde se originó la cultura Wari?",
+    "opciones": [
+      "Cusco",
+      "Ayacucho (Huanta)",
+      "Puno",
+      "Lima",
+      "Trujillo"
+    ],
+    "correcta": 1,
+    "resolucion": "Surgió de la síntesis de las culturas Huarpa, Nasca y Tiahuanaco en Ayacucho."
+  },
+  {
+    "pregunta": "¿Quién es el principal arqueólogo que propuso el carácter imperial de Wari?",
+    "opciones": [
+      "Max Uhle",
+      "Luis Lumbreras",
+      "Julio C. Tello",
+      "Rafael Larco",
+      "Ruth Shady"
+    ],
+    "correcta": 1,
+    "resolucion": "Luis Guillermo Lumbreras es el máximo estudioso de esta cultura."
+  },
+  {
+    "pregunta": "¿Cuál fue la capital del Imperio Wari?",
+    "opciones": [
+      "Cahuachi",
+      "Viñaque",
+      "Chan Chan",
+      "Pachacámac",
+      "Pikillacta"
+    ],
+    "correcta": 1,
+    "resolucion": "La ciudad de Wari (o Viñaque) en Ayacucho fue su centro administrativo."
+  },
+  {
+    "pregunta": "¿Qué elemento fue clave para la expansión y control del territorio Wari?",
+    "opciones": [
+      "El comercio por mar",
+      "Red de caminos y cabeceras de región",
+      "La paz democrática",
+      "Solo la religión",
+      "El uso de la rueda"
+    ],
+    "correcta": 1,
+    "resolucion": "Construyeron ciudades administrativas (cabeceras) conectadas por una red vial que luego usarían los Incas."
+  },
+  {
+    "pregunta": "¿Qué ciudad Wari se encuentra ubicada en el Cuzco?",
+    "opciones": [
+      "Willkawain",
+      "Pikillacta",
+      "Cajamarquilla",
+      "Huiracochapampa",
+      "Pachacámac"
+    ],
+    "correcta": 1,
+    "resolucion": "Pikillacta fue un importante centro administrativo Wari en territorio cuzqueño."
+  },
+  {
+    "pregunta": "¿Qué técnica textil destacaron los Wari?",
+    "opciones": [
+      "Mantos de plumas",
+      "Tapices policromos y camisas (unckus)",
+      "Solo fibras de algodón",
+      "No usaban lana",
+      "Tejidos de oro"
+    ],
+    "correcta": 1,
+    "resolucion": "Sus tejidos eran muy finos, con diseños geométricos y representaciones del dios de los báculos."
+  },
+  {
+    "pregunta": "¿Cuál era el dios principal de los Wari?",
+    "opciones": [
+      "Kon",
+      "Wiracocha",
+      "Ai Apaec",
+      "Inti",
+      "El Sol"
+    ],
+    "correcta": 1,
+    "resolucion": "Adoptaron la religión de Tiahuanaco, rindiendo culto al Dios de las Varas o de los Báculos."
+  },
+  {
+    "pregunta": "¿Por qué se dice que Wari tuvo una revolución urbana?",
+    "opciones": [
+      "Vivían en el campo",
+      "Planificaron ciudades con muros y calles",
+      "Solo tenían templos",
+      "Inventaron el cemento",
+      "No tenían ciudades"
+    ],
+    "correcta": 1,
+    "resolucion": "Establecieron un patrón arquitectónico de ciudades amuralladas y organizadas para la administración."
+  },
+  {
+    "pregunta": "¿Cuál fue una de las causas de la caída del Imperio Wari?",
+    "opciones": [
+      "Un tsunami",
+      "Rebelión de las cabeceras de región y descontento interno",
+      "Llegada de los españoles",
+      "Falta de religión",
+      "No tenían ejército"
+    ],
+    "correcta": 1,
+    "resolucion": "El exceso de poder de las provincias y las crisis internas llevaron a su fragmentación."
+  },
+  {
+    "pregunta": "¿Qué instrumento de contabilidad usaron los Wari, antecesor del incaico?",
+    "opciones": [
+      "Ábaco",
+      "Quipu",
+      "Escritura jeroglífica",
+      "Piedras pintadas",
+      "Hilos de oro"
+    ],
+    "correcta": 1,
+    "resolucion": "Los Wari ya utilizaban quipus para la contabilidad y administración de su imperio."
+  },
+  {
+    "pregunta": "¿Dónde se ubicó la cultura Chimú?",
+    "opciones": [
+      "Costa sur",
+      "Costa norte (Valles de Moche, Chicama y Virú)",
+      "Sierra central",
+      "Selva norte",
+      "Altiplano"
+    ],
+    "correcta": 1,
+    "resolucion": "Se desarrolló en la misma zona que los Mochica, con capital en La Libertad."
+  },
+  {
+    "pregunta": "¿Quién es el fundador mítico de la cultura Chimú?",
+    "opciones": [
+      "Naylamp",
+      "Tacaynamo",
+      "Manco Cápac",
+      "Michan Caman",
+      "Ai Apaec"
+    ],
+    "correcta": 1,
+    "resolucion": "Según la leyenda, Tacaynamo llegó por el mar para fundar la dinastía."
+  },
+  {
+    "pregunta": "¿Cuál es la capital de los Chimú, considerada la ciudad de barro más grande de América?",
+    "opciones": [
+      "Chan Chan",
+      "Paramonga",
+      "Apurlec",
+      "Pacatnamú",
+      "Cahuachi"
+    ],
+    "correcta": 0,
+    "resolucion": "Chan Chan se ubica cerca de Trujillo y está compuesta por 10 ciudadelas amuralladas."
+  },
+  {
+    "pregunta": "¿A qué actividad se les considera a los Chimú los \"mejores de la época\"?",
+    "opciones": [
+      "Tejido",
+      "Orfebrería y Metalurgia",
+      "Arquitectura de piedra",
+      "Pintura mural",
+      "Escultura de madera"
+    ],
+    "correcta": 1,
+    "resolucion": "Fueron los más destacados joyeros del Perú antiguo, asimilando técnicas de la cultura Lambayeque."
+  },
+  {
+    "pregunta": "¿Qué famoso cuchillo ceremonial de oro pertenece a la metalurgia Chimú/Lambayeque?",
+    "opciones": [
+      "Daga de bronce",
+      "Tumi",
+      "Espada real",
+      "Hacha de piedra",
+      "Cortaplumas"
+    ],
+    "correcta": 1,
+    "resolucion": "El Tumi o cuchillo de Íllimo representa a la deidad Naylamp."
+  },
+  {
+    "pregunta": "¿Cómo era la cerámica Chimú?",
+    "opciones": [
+      "Policroma brillante",
+      "Monocroma negra lustrosa",
+      "Bícroma realista",
+      "Solo blanca",
+      "No usaban moldes"
+    ],
+    "correcta": 1,
+    "resolucion": "Predominó el color negro brillante obtenido mediante ahumado y el uso de moldes para producción en serie."
+  },
+  {
+    "pregunta": "¿Qué técnica agrícola usaron para ganar tierras al desierto?",
+    "opciones": [
+      "Terrazas",
+      "Huachaques (chacras hundidas)",
+      "Invernaderos",
+      "Riego por goteo",
+      "Waru waru"
+    ],
+    "correcta": 1,
+    "resolucion": "Los huachaques eran pozos excavados para alcanzar la napa freática y cultivar plantas como la totora."
+  },
+  {
+    "pregunta": "¿Quién fue el último gobernante Chimú que enfrentó a los Incas?",
+    "opciones": [
+      "Tacaynamo",
+      "Michan Caman",
+      "Guacricur",
+      "Naucenpinco",
+      "Atahualpa"
+    ],
+    "correcta": 1,
+    "resolucion": "Fue derrotado por Túpac Inca Yupanqui y llevado al Cusco como prisionero de honor."
+  },
+  {
+    "pregunta": "¿Cuál era la deidad más importante para los Chimú?",
+    "opciones": [
+      "El Sol (Inti)",
+      "La Luna (Si)",
+      "El Mar (Ni)",
+      "El Rayo",
+      "El Jaguar"
+    ],
+    "correcta": 1,
+    "resolucion": "La Luna era superior al Sol porque aparecía de noche y de día, y servía para medir el tiempo."
+  },
+  {
+    "pregunta": "¿A qué periodo pertenecen las culturas Chimú y Chanca?",
+    "opciones": [
+      "Horizonte Temprano",
+      "Intermedio Temprano",
+      "Horizonte Medio",
+      "Intermedio Tardío",
+      "Horizonte Tardío"
+    ],
+    "correcta": 3,
+    "resolucion": "Son culturas regionales que florecieron antes de la hegemonía incaica."
+  },
+  {
+    "pregunta": "¿Dónde se ubicó el centro político de la cultura Chanca?",
+    "opciones": [
+      "Huancavelica",
+      "Andahuaylas",
+      "Cusco",
+      "Ayacucho",
+      "Junín"
+    ],
+    "correcta": 1,
+    "resolucion": "Su núcleo central estuvo en el valle del río Pampas, en Andahuaylas."
+  },
+  {
+    "pregunta": "¿Cuál era el origen mítico (pacarina) de los Chancas?",
+    "opciones": [
+      "El Lago Titicaca",
+      "La laguna de Choclococha",
+      "El cerro Tamputoco",
+      "El Mar de Grau",
+      "La Cueva del Guitarrero"
+    ],
+    "correcta": 1,
+    "resolucion": "Creían que sus ancestros emergieron de la laguna de Choclococha en Huancavelica."
+  },
+  {
+    "pregunta": "¿Qué tipo de sociedad eran los Chancas?",
+    "opciones": [
+      "Pacífica y religiosa",
+      "Guerrera y expansiva",
+      "Comerciante marítima",
+      "Un imperio consolidado",
+      "Una confederación de pescadores"
+    ],
+    "correcta": 1,
+    "resolucion": "Eran un pueblo temido y muy belicoso que buscaba expandirse por la sierra central."
+  },
+  {
+    "pregunta": "¿Contra qué cultura se enfrentaron los Chancas por el control del territorio?",
+    "opciones": [
+      "Mochica",
+      "Chimú",
+      "Incas",
+      "Nasca",
+      "Chavín"
+    ],
+    "correcta": 2,
+    "resolucion": "El conflicto más importante fue contra los Incas del Cuzco."
+  },
+  {
+    "pregunta": "¿Quién fue el príncipe inca que derrotó definitivamente a los Chancas?",
+    "opciones": [
+      "Manco Cápac",
+      "Pachacútec (Cusi Yupanqui)",
+      "Huiracocha",
+      "Atahualpa",
+      "Huáscar"
+    ],
+    "correcta": 1,
+    "resolucion": "Tras la victoria en Yawarpampa, Cusi Yupanqui cambió su nombre a Pachacútec e inició el Imperio Inca."
+  },
+  {
+    "pregunta": "¿Cuál era el ídolo o deidad de los Chancas?",
+    "opciones": [
+      "Inti",
+      "Uscovilca",
+      "Pachacámac",
+      "Ai Apaec",
+      "Illapa"
+    ],
+    "correcta": 1,
+    "resolucion": "Adoraban a la momia de su fundador Uscovilca, la cual cargaban a las batallas."
+  },
+  {
+    "pregunta": "¿Cómo era la cerámica de los Chancas?",
+    "opciones": [
+      "Muy fina y elegante",
+      "Tosca y sencilla",
+      "De oro y plata",
+      "Con influencia griega",
+      "De color azul brillante"
+    ],
+    "correcta": 1,
+    "resolucion": "Al ser un pueblo eminentemente guerrero, su cerámica no tuvo el refinamiento artístico de otras culturas."
+  },
+  {
+    "pregunta": "¿Qué departamentos actuales abarcó la influencia Chanca?",
+    "opciones": [
+      "Lima y Ancash",
+      "Apurímac, Ayacucho y Huancavelica",
+      "Puno y Moquegua",
+      "Tumbes y Piura",
+      "Loreto y Ucayali"
+    ],
+    "correcta": 1,
+    "resolucion": "Se expandieron principalmente por la región sur-central andina."
+  },
+  {
+    "pregunta": "¿Qué construcción Chimú servía como fortaleza militar en Lima?",
+    "opciones": [
+      "Pachacámac",
+      "Paramonga",
+      "Puruchuco",
+      "Huaca Pucllana",
+      "Caral"
+    ],
+    "correcta": 1,
+    "resolucion": "La Fortaleza de Paramonga es una imponente estructura de defensa en el norte de Lima."
+  },
+  {
+    "pregunta": "¿Qué determinó el fin de la independencia de la cultura Chimú?",
+    "opciones": [
+      "Un terremoto",
+      "La invasión de los Incas",
+      "La llegada de Colón",
+      "Una guerra civil entre hermanos",
+      "La falta de agua"
+    ],
+    "correcta": 1,
+    "resolucion": "Túpac Inca Yupanqui los conquistó e incorporó su territorio al Tahuantinsuyo."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "6.1 Periodificación y Caral",
+          "youtube_id": "Vwm8BOJUKdI",
+          "pdf_link": "https://drive.google.com/file/d/12bqEYuY8P7HfX_eCDXWIvrCN_x_aXR_g/view",
+          "gratis": true
+        },
+        {
+          "titulo": "6.2 Chavin y Paracas",
+          "youtube_id": "N4JD4Aoa6U8",
+          "pdf_link": "https://drive.google.com/file/d/12bqEYuY8P7HfX_eCDXWIvrCN_x_aXR_g/view",
+          "gratis": false
+        },
+        {
+          "titulo": "6.3 Nasca y Mochica",
+          "youtube_id": "-M9UTEDHiyg",
+          "pdf_link": "https://drive.google.com/file/d/12bqEYuY8P7HfX_eCDXWIvrCN_x_aXR_g/view",
+          "gratis": true
+        },
+        {
+          "titulo": "6.4 Tiahuanaco y Wari",
+          "youtube_id": "NW73hDT_G6E",
+          "pdf_link": "https://drive.google.com/file/d/12bqEYuY8P7HfX_eCDXWIvrCN_x_aXR_g/view",
+          "gratis": false
+        },
+        {
+          "titulo": "6.5 Chimú y Chanka",
+          "youtube_id": "7Je25KVpNTs",
+          "pdf_link": "https://drive.google.com/file/d/12bqEYuY8P7HfX_eCDXWIvrCN_x_aXR_g/view",
+          "gratis": false
+        }
+      ]
+    }
+  ]
+}
