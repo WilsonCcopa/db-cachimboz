@@ -525,7 +525,7 @@
     "contexto_img": "",
     "pregunta": "La figura representa una región de cultivo que tiene la forma de un círculo dividido en zonas de sembríos. Si la medida del arco BC es $$50^{\\circ}$$, $$m\\angle BNC = 40^{\\circ}$$ y O es circuncentro del triángulo ABC, halle la medida del ángulo AOC que forman los linderos AO y OC.",
     "pregunta_b64": "",
-    "pregunta_img": "URL_IMAGEN_PREGUNTA_35",
+    "pregunta_img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq-PA8RuZyyPTa88OSzyLLXKGvv9jF-F-cjerZWnktfqT8kReBMM5VtICCXCHzYTdbRk1umgA0srz6gKyFzQ_c14OkaNwEZeQ-i-RjkFvHdbZ03Mh0NAeAerhuDeri_rKfSVzROH52AzXa1O828namy-cGQAyuUFxFt3ADY4pbhNOeqIRQtUOrZhxb2_s/s569/imagen%2035.png",
     "opciones": [
       "A) 120°",
       "B) 140°",
@@ -536,7 +536,7 @@
     "respuesta": "C) 150°",
     "resolucion": "Nos piden hallar la medida del ángulo AOC (x). Al analizar la gráfica y trazar las líneas auxiliares, determinamos que CM es diámetro, por lo que el ángulo MBC es recto. Aplicando propiedades de ángulos interiores y el circuncentro, encontramos el valor final.",
     "resolucion_latex": "Como $$\\overline{CM}$$ es diámetro, entonces $$m\\angle MBC = 90^{\\circ}$$. \\n Por ángulo interior: $$m\\angle BMC = 25^{\\circ}$$. \\n En el $$\\triangle MBN$$, el $$m\\angle MBN = 15^{\\circ}$$. \\n Dado que en el $$\\triangle ABC$$, O es el circuncentro, el ángulo central es el doble del ángulo inscrito correspondiente. \\n $$\\therefore x = 2(75^{\\circ}) = 150^{\\circ}$$.",
-    "resolucion_img": "URL_IMAGEN_RESOLUCION_35",
+    "resolucion_img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-3CBju6y9Ok5JCNIEATFQXdH0R3SRJ7161UkKffrEN4d9mE_K_bsEbFiFldbxDsgafo0NzVf1j8DXBPu0O037_hW56EDrOTImjhR9JBFBJw9fjzehJxOYjwq5IOoScENCOu5quEPV-yNwFiDpHesmBZlKz2EcAqs47blmfzvZhKP6c66ta2iszmVGyPQ/s608/resoluci%C3%B3n%2035.png",
     "_cita": ""
   },
   {
