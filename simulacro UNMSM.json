@@ -5,18 +5,18 @@
     "tema": "Inferencia",
     "contexto": "Texto N.º 1\nLas noticias falsas, o \"infodemia\", son informaciones de interés público que se publican o difunden a sabiendas de su falsedad, con la intención de engañar o confundir, desinformar, crear pánico en las personas, implantar angustia y promover conductas incorrectas. [cite: 2424] Son percibidas por los usuarios como ciertas y en muchas ocasiones se van modificando mientras se difunden. [cite: 2425] Tienen una gran capacidad de propagación, principalmente por medio de las redes sociales y en las aplicaciones de mensajería instantánea. [cite: 2426] Tres son los elementos que las componen: a) que la información sea de interés público y su divulgación sea masiva; [cite: 2427] b) que haya conocimiento de la falsedad de la información que se divulga, y c) que exista la intención de engañar o confundir. [cite: 2428] \n\nUna encuesta realizada por la Universidad Nacional Autónoma de México (UNAM) señaló que el 90% de los encuestados recibieron noticias falsas sobre la COVID-19 por medio de WhatsApp, mientras que el 88% las obtuvo a través de Facebook. [cite: 2445] En México, el 91,5% de las personas usuarias de Internet utilizan WhatsApp y el 82,8%, Facebook, por lo que están constantemente expuestas a recibir información falsa. [cite: 2446] En la mayoría de casos, no tienen tiempo para investigar ni determinar la veracidad de la información. [cite: 2447]",
     "contexto_img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp1mLOKAK6Yo3g27q3njhQab_wLAFIKN78ZeQeXlXrdz7cQFwWxZXVuyr47FTDMwLFKIZMuPoFlTAe3NTkDpgvg53Ss7-FLRhSjTs7ZrC_5oeY2VCXI9gn1tSxX4zJkI3P3oZSivmEkEnrvkfdR0o96FG4eedkZeRlTk8EWuttxQzlvPzp4vMkeqc8VZs/s1536/Infograf%C3%ADa%20HB.png",
-    "pregunta": "Según los datos presentados, ¿qué se puede inferir sobre la relación entre las plataformas digitales y las noticias falsas? [cite: 2465]",
+    "pregunta": "Según los datos presentados, ¿qué se puede inferir sobre la relación entre las plataformas digitales y las noticias falsas?",
     "pregunta_b64": "",
     "pregunta_img": "",
     "opciones": [
-      "A) La alta penetración de WhatsApp y Facebook en México facilita la exposición masiva a información falsa. [cite: 2466]",
-      "B) Las redes sociales no implementan sistemas efectivos que eliminen automáticamente noticias falsas. [cite: 2467]",
-      "C) La mayoría de usuarios mexicanos evita las noticias falsas, pues prefiere los medios tradicionales de información. [cite: 2468]",
-      "D) WhatsApp y Facebook son utilizados principalmente por personas que no conceden valor a las noticias verdaderas. [cite: 2469]",
-      "E) Solo los mayores, quienes aún siguen usando plataformas \"viejas\", reciben y comparten noticias falsas. [cite: 2470]"
+      "A) La alta penetración de WhatsApp y Facebook en México facilita la exposición masiva a información falsa.",
+      "B) Las redes sociales no implementan sistemas efectivos que eliminen automáticamente noticias falsas.",
+      "C) La mayoría de usuarios mexicanos evita las noticias falsas, pues prefiere los medios tradicionales de información.",
+      "D) WhatsApp y Facebook son utilizados principalmente por personas que no conceden valor a las noticias verdaderas.",
+      "E) Solo los mayores, quienes aún siguen usando plataformas \"viejas\", reciben y comparten noticias falsas."
     ],
     "respuesta": "A) La alta penetración de WhatsApp y Facebook en México facilita la exposición masiva a información falsa.",
-    "resolucion": "Se indica que la encuesta de la UNAM reveló que el 90% de los encuestados recibió noticias falsas sobre la COVID-19 a través de WhatsApp y un 88% por medio de Facebook. [cite: 2473] Estos porcentajes demuestran la gran influencia de ambas plataformas en la vida de los usuarios, lo cual las convierte en los vehículos principales para la difusión masiva de contenido falso. [cite: 2474] Así el texto establece una conexión causal entre el amplio uso de estas redes sociales y la alta exposición de la población a las noticias falsas (infodemia). [cite: 2475]",
+    "resolucion": "Se indica que la encuesta de la UNAM reveló que el 90% de los encuestados recibió noticias falsas sobre la COVID-19 a través de WhatsApp y un 88% por medio de Facebook. Estos porcentajes demuestran la gran influencia de ambas plataformas en la vida de los usuarios, lo cual las convierte en los vehículos principales para la difusión masiva de contenido falso. Así el texto establece una conexión causal entre el amplio uso de estas redes sociales y la alta exposición de la población a las noticias falsas (infodemia).",
     "resolucion_b64": "",
     "resolucion_img": ""
   },
@@ -26,18 +26,18 @@
     "tema": "Jerarquía textual",
     "contexto": "Depende del Texto N.º 1 del id UNMSM_2026_I_A_11",
     "contexto_img": "",
-    "pregunta": "¿Cuál es el mejor resumen del texto? [cite: 2482]",
+    "pregunta": "¿Cuál es el mejor resumen del texto?",
     "pregunta_b64": "",
     "pregunta_img": "",
     "opciones": [
-      "A) La \"infodemia\" consiste en publicar información de interés público, pero falsa, lo que afecta a millones de personas usuarias de las redes sociales. [cite: 2483]",
-      "B) Las noticias falsas propagan información perjudicial, fomentan la desconfianza entre los internautas y generan sistemáticamente pánico social. [cite: 2484]",
-      "C) Las noticias falsas tienen un gran poder de difusión, pueden generar una serie de riesgos a la sociedad y poseen tres elementos constitutivos. [cite: 2485]",
-      "D) La divulgación de información falsa daña el tejido social pues los internautas no poseen el tiempo necesario para poder comprobar su veracidad. [cite: 2486]",
-      "E) La difusión de noticias falsas en las redes sociales genera alarma, principalmente, entre los usuarios de redes, como Facebook y WhatsApp. [cite: 2487]"
+      "A) La \"infodemia\" consiste en publicar información de interés público, pero falsa, lo que afecta a millones de personas usuarias de las redes sociales.",
+      "B) Las noticias falsas propagan información perjudicial, fomentan la desconfianza entre los internautas y generan sistemáticamente pánico social.",
+      "C) Las noticias falsas tienen un gran poder de difusión, pueden generar una serie de riesgos a la sociedad y poseen tres elementos constitutivos.",
+      "D) La divulgación de información falsa daña el tejido social pues los internautas no poseen el tiempo necesario para poder comprobar su veracidad.",
+      "E) La difusión de noticias falsas en las redes sociales genera alarma, principalmente, entre los usuarios de redes, como Facebook y WhatsApp."
     ],
     "respuesta": "C) Las noticias falsas tienen un gran poder de difusión, pueden generar una serie de riesgos a la sociedad y poseen tres elementos constitutivos.",
-    "resolucion": "El mejor resumen del texto es el siguiente: Las noticias falsas tienen un gran poder de difusión, pueden generar una serie de riesgos a la sociedad y poseen tres elementos constitutivos. [cite: 2501] El texto abarca tres bloques temáticos. El primero alude a la definición de las noticias falsas y sus tres elementos constitutivos (información de interés público, conocimiento de la falsedad e intención de engañar) El segundo destaca su principal característica al mencionar su gran poder de difusión (propagación instantánea por redes sociales). [cite: 2502] Finalmente, el tercero refiere al impacto negativo de las noticias falsas (riesgos sociales). [cite: 2503]",
+    "resolucion": "El mejor resumen del texto es el siguiente: Las noticias falsas tienen un gran poder de difusión, pueden generar una serie de riesgos a la sociedad y poseen tres elementos constitutivos. El texto abarca tres bloques temáticos. El primero alude a la definición de las noticias falsas y sus tres elementos constitutivos (información de interés público, conocimiento de la falsedad e intención de engañar) El segundo destaca su principal característica al mencionar su gran poder de difusión (propagación instantánea por redes sociales). Finalmente, el tercero refiere al impacto negativo de las noticias falsas (riesgos sociales).",
     "resolucion_b64": "",
     "resolucion_img": ""
   },
@@ -47,18 +47,18 @@
     "tema": "Relaciones intratextuales",
     "contexto": "Depende del Texto N.º 1 del id UNMSM_2026_I_A_11",
     "contexto_img": "",
-    "pregunta": "Sin duda, son acertados los pasos que se proponen en la infografía para comprobar si una noticia es falsa; [cite: 2492] no obstante, presentan un problema que se comenta en el texto: [cite: 2493]",
+    "pregunta": "Sin duda, son acertados los pasos que se proponen en la infografía para comprobar si una noticia es falsa;  no obstante, presentan un problema que se comenta en el texto:",
     "pregunta_b64": "",
     "pregunta_img": "",
     "opciones": [
-      "A) los usuarios de las redes sociales, como Facebook o WhatsApp, están más expuestos a las noticias falsas. [cite: 2494]",
-      "B) la mayoría de personas no dispone de tiempo para determinar la veracidad de las noticias que leen. [cite: 2495]",
-      "C) las personas que navegan en la red tienen dificultades para determinar las autoridades académicas. [cite: 2496]",
-      "D) los prejuicios que tienen las personas constituyen el principal óbice para descartar una noticia falsa. [cite: 2497]",
-      "E) los lectores están dispuestos a creer en aquellas noticias que confirman sus particulares puntos de vista. [cite: 2498]"
+      "A) los usuarios de las redes sociales, como Facebook o WhatsApp, están más expuestos a las noticias falsas.",
+      "B) la mayoría de personas no dispone de tiempo para determinar la veracidad de las noticias que leen.",
+      "C) las personas que navegan en la red tienen dificultades para determinar las autoridades académicas.",
+      "D) los prejuicios que tienen las personas constituyen el principal óbice para descartar una noticia falsa.",
+      "E) los lectores están dispuestos a creer en aquellas noticias que confirman sus particulares puntos de vista."
     ],
     "respuesta": "B) la mayoría de personas no dispone de tiempo para determinar la veracidad de las noticias que leen.",
-    "resolucion": "El texto sostiene que los usuarios están constantemente expuestos a recibir información falsa y que, en la mayoría de los casos, no tienen tiempo para investigar ni determinar la veracidad de la información. [cite: 2506] Por tanto, la falta de tiempo es el problema que impide o limita la tarea de verificación de la información, ya que las personas prefieren consumir el contenido de manera pasiva en lugar de dedicar el esfuerzo requerido para la comprobación. [cite: 2507]",
+    "resolucion": "El texto sostiene que los usuarios están constantemente expuestos a recibir información falsa y que, en la mayoría de los casos, no tienen tiempo para investigar ni determinar la veracidad de la información. Por tanto, la falta de tiempo es el problema que impide o limita la tarea de verificación de la información, ya que las personas prefieren consumir el contenido de manera pasiva en lugar de dedicar el esfuerzo requerido para la comprobación.",
     "resolucion_b64": "",
     "resolucion_img": ""
   },
@@ -66,9 +66,9 @@
     "id": "UNMSM_2026_I_A_14",
     "curso": "Habilidad Verbal",
     "tema": "Sentido contextual",
-    "contexto": "Texto N.º 2\nTexto A\nLos beneficios de las tarjetas de crédito son múltiples. Permiten ahorrar tiempo y evitan problemas: no hay que buscar un cajero automático o llevar dinero en efectivo. [cite: 2513] Además, los estados de cuenta de las tarjetas de crédito pueden ayudar a dar seguimiento a los gastos. [cite: 2514] Algunas tarjetas proveen, incluso, un resumen anual que es muy útil a la hora de verificar el pago de los impuestos. [cite: 2515] Asimismo, facilitan la obtención de préstamos a bajo costo mediante el crédito rotativo (por ejemplo, en la venta especial de un día), siempre que, por alguna razón, no se tenga dinero disponible hasta dentro de unos días. [cite: 2516] Las tarjetas de crédito también son convenientes por los adelantos de dinero en caso de que se necesite con urgencia para algún pago extra o un gasto fuera de la planificación mensual o anual. [cite: 2517] Generan un historial de calificación positiva de crédito, dado que el uso controlado de una tarjeta de crédito puede ayudar a establecer crédito por primera vez o a reconstruir su crédito si ha tenido problemas en el pasado. [cite: 2518] Esto siempre y cuando una persona se mantenga dentro de sus posibilidades y pague sus cuentas a tiempo. [cite: 2519] Otro beneficio es que protege las compras de los avatares cibernéticos, dado que la mayoría de las compañías de tarjetas de crédito manejarán las disputas legales. [cite: 2520]\n\nTexto B\nUsar tarjetas de crédito puede ser pernicioso en diversos sentidos. [cite: 2522] El crédito rotativo genera que la persona gaste más de lo que sus medios le permiten. [cite: 2523] Es necesario guardar los recibos (vouchers) con el fin de verificar los movimientos con el reporte de estado de cuenta mensual. [cite: 2524] Así, se tendría la seguridad de que no haya un cobro extra. [cite: 2525] La tarjeta de crédito también genera un elevado costo de los cargos; [cite: 2526] de igual modo, si se dejara de hacer un pago, una compra podría salir demasiado cara. [cite: 2527] A veces, incluso, aparecen cargos inesperados: típicamente, se pagará un porcentaje adicional solo por obtener un adelanto de dinero en efectivo; [cite: 2528] además, los adelantos normalmente conllevan altas tasas de interés. Estas altas tasas y los cargos anuales asociados a las tarjetas de crédito, con frecuencia, superan los beneficios que se reciben. [cite: 2529] Se debe recordar que los ahorros que ofrecen las tarjetas de crédito se pueden obtener por otros medios no tan onerosos. [cite: 2532] Por otro lado, existen consumidores que suelen utilizar el crédito sin control, lo que acarrea una grave dificultad. [cite: 2533] Si se hace cargos a la tarjeta de manera libre, muy pronto se notará que la situación está por encima de las posibilidades reales, al ver que el balance aumenta y también el pago mínimo mensual. [cite: 2534] Finalmente, aunque las tasas bajas introductorias pueden ser una opción atractiva, duran un tiempo muy limitado. [cite: 2535] Cuando la tasa señuelo vence, la tasa de interés cargada al balance puede aumentar drásticamente. [cite: 2536]",
+    "contexto": "Texto N.º 2\nTexto A\nLos beneficios de las tarjetas de crédito son múltiples. Permiten ahorrar tiempo y evitan problemas: no hay que buscar un cajero automático o llevar dinero en efectivo. Además, los estados de cuenta de las tarjetas de crédito pueden ayudar a dar seguimiento a los gastos. Algunas tarjetas proveen, incluso, un resumen anual que es muy útil a la hora de verificar el pago de los impuestos. Asimismo, facilitan la obtención de préstamos a bajo costo mediante el crédito rotativo (por ejemplo, en la venta especial de un día), siempre que, por alguna razón, no se tenga dinero disponible hasta dentro de unos días. Las tarjetas de crédito también son convenientes por los adelantos de dinero en caso de que se necesite con urgencia para algún pago extra o un gasto fuera de la planificación mensual o anual. Generan un historial de calificación positiva de crédito, dado que el uso controlado de una tarjeta de crédito puede ayudar a establecer crédito por primera vez o a reconstruir su crédito si ha tenido problemas en el pasado. Esto siempre y cuando una persona se mantenga dentro de sus posibilidades y pague sus cuentas a tiempo. Otro beneficio es que protege las compras de los avatares cibernéticos, dado que la mayoría de las compañías de tarjetas de crédito manejarán las disputas legales. \n\nTexto B\nUsar tarjetas de crédito puede ser pernicioso en diversos sentidos. El crédito rotativo genera que la persona gaste más de lo que sus medios le permiten. Es necesario guardar los recibos (vouchers) con el fin de verificar los movimientos con el reporte de estado de cuenta mensual. Así, se tendría la seguridad de que no haya un cobro extra. La tarjeta de crédito también genera un elevado costo de los cargos; de igual modo, si se dejara de hacer un pago, una compra podría salir demasiado cara. A veces, incluso, aparecen cargos inesperados: típicamente, se pagará un porcentaje adicional solo por obtener un adelanto de dinero en efectivo; además, los adelantos normalmente conllevan altas tasas de interés. Estas altas tasas y los cargos anuales asociados a las tarjetas de crédito, con frecuencia, superan los beneficios que se reciben. Se debe recordar que los ahorros que ofrecen las tarjetas de crédito se pueden obtener por otros medios no tan onerosos. Por otro lado, existen consumidores que suelen utilizar el crédito sin control, lo que acarrea una grave dificultad. Si se hace cargos a la tarjeta de manera libre, muy pronto se notará que la situación está por encima de las posibilidades reales, al ver que el balance aumenta y también el pago mínimo mensual. Finalmente, aunque las tasas bajas introductorias pueden ser una opción atractiva, duran un tiempo muy limitado. Cuando la tasa señuelo vence, la tasa de interés cargada al balance puede aumentar drásticamente.",
     "contexto_img": "",
-    "pregunta": "En el texto B, la palabra ONEROSO guarda sinonimia con [cite: 2540]",
+    "pregunta": "En el texto B, la palabra ONEROSO guarda sinonimia con",
     "pregunta_b64": "",
     "pregunta_img": "",
     "opciones": [
@@ -79,7 +79,7 @@
       "E) diluido."
     ],
     "respuesta": "B) costoso.",
-    "resolucion": "El texto B argumenta sobre las desventajas del uso de tarjetas de crédito y enfatiza en los costos que traen consigo. [cite: 2545] En ese sentido, la palabra oneroso se utiliza en la expresión \"otros medios no tan onerosos\" para aludir a otras formas de ahorro donde se pague menos que en una tarjeta de crédito. [cite: 2546] Por eso, la palabra oneroso sería sinónima de costoso. [cite: 2547]",
+    "resolucion": "El texto B argumenta sobre las desventajas del uso de tarjetas de crédito y enfatiza en los costos que traen consigo. En ese sentido, la palabra oneroso se utiliza en la expresión \"otros medios no tan onerosos\" para aludir a otras formas de ahorro donde se pague menos que en una tarjeta de crédito. Por eso, la palabra oneroso sería sinónima de costoso. [cite: 2547]",
     "resolucion_b64": "",
     "resolucion_img": ""
   },
