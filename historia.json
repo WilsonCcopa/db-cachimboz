@@ -3978,6 +3978,2081 @@
           "gratis": false
         }
       ]
+    },
+    {
+      "titulo": "Tema 7: Incas",
+      "preguntas": [
+        {
+    "pregunta": "¿Quién es reconocido como el fundador del imperio?",
+    "opciones": [
+      "Pachacútec",
+      "Manco Cápac",
+      "Atahualpa",
+      "Inca Roca",
+      "Huayna Cápac"
+    ],
+    "correcta": 1,
+    "resolucion": "Manco Cápac es la figura histórica y legendaria a quien se le atribuye la fundación."
+  },
+  {
+    "pregunta": "¿Cuál era el límite geográfico por el norte, ubicado en la actual Colombia?",
+    "opciones": [
+      "Río Maule",
+      "Río Amazonas",
+      "Río Rímac",
+      "Río Ancashmayo",
+      "Río Ucayali"
+    ],
+    "correcta": 3,
+    "resolucion": "La expansión máxima por el norte llegó hasta el río Ancashmayo."
+  },
+  {
+    "pregunta": "¿Qué nombre recibía la región ubicada al este, correspondiente a la zona amazónica?",
+    "opciones": [
+      "Chinchaysuyo",
+      "Contisuyo",
+      "Collasuyo",
+      "Antisuyo",
+      "Qosqo"
+    ],
+    "correcta": 3,
+    "resolucion": "El Antisuyo era el suyo que comprendía la ceja de selva y la región amazónica."
+  },
+  {
+    "pregunta": "¿Qué río marcaba el límite extremo por el sur en territorio chileno?",
+    "opciones": [
+      "Río Biobío",
+      "Río Maule",
+      "Río Ancashmayo",
+      "Río de la Plata",
+      "Río Mapocho"
+    ],
+    "correcta": 1,
+    "resolucion": "El río Maule fue la frontera natural que detuvo el avance inca hacia el sur."
+  },
+  {
+    "pregunta": "¿Cómo se denominaba el suyo ubicado en la zona del Nor Oeste?",
+    "opciones": [
+      "Antisuyo",
+      "Ccollasuyo",
+      "Chinchaysuyo",
+      "Contisuyo",
+      "Condesuyo"
+    ],
+    "correcta": 2,
+    "resolucion": "El Chinchaysuyo era la región situada al noroeste de la capital."
+  },
+  {
+    "pregunta": "¿A qué periodo del proceso histórico pertenecen Manco Cápac y Sinchi Roca?",
+    "opciones": [
+      "Regional",
+      "Imperial",
+      "Decadencia",
+      "Resistencia",
+      "Legendario"
+    ],
+    "correcta": 4,
+    "resolucion": "Estos gobernantes forman parte de la etapa inicial o Legendaria."
+  },
+  {
+    "pregunta": "Durante el periodo Regional, ¿bajo qué título se conocía a los jefes locales?",
+    "opciones": [
+      "Incas Históricos",
+      "Curacas",
+      "Sinchis",
+      "Virreyes",
+      "Presidentes"
+    ],
+    "correcta": 2,
+    "resolucion": "En la etapa de confederación o regional, los líderes eran denominados Sinchis."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes gobernantes es considerado uno de los Incas Históricos?",
+    "opciones": [
+      "Lloque Yupanqui",
+      "Pachacútec",
+      "Manco Inca",
+      "Huáscar",
+      "Sinchi Roca"
+    ],
+    "correcta": 1,
+    "resolucion": "Pachacútec es el gran transformador que da inicio a la etapa imperial."
+  },
+  {
+    "pregunta": "¿Qué personajes protagonizaron el periodo de Decadencia?",
+    "opciones": [
+      "Pachacútec y Huayna Cápac",
+      "Manco Cápac y Sinchi Roca",
+      "Huáscar y Atahualpa",
+      "Túpac Amaru I y Sairi Túpac",
+      "Inca Roca y Wiracocha"
+    ],
+    "correcta": 2,
+    "resolucion": "La guerra civil entre los hermanos Huáscar y Atahualpa marcó el declive del imperio."
+  },
+  {
+    "pregunta": "¿Qué nombre recibió el grupo de gobernantes que lideró la etapa de Resistencia?",
+    "opciones": [
+      "Incas de Vilcabamba",
+      "Incas del Cusco",
+      "Curacas de Caral",
+      "Sinchis de la Selva",
+      "Incas Históricos"
+    ],
+    "correcta": 0,
+    "resolucion": "Se les llama Incas de Vilcabamba por establecer su último bastión en esa zona."
+  },
+  {
+    "pregunta": "¿Quién fue el último líder de la resistencia en Vilcabamba?",
+    "opciones": [
+      "Manco Inca",
+      "Sairi Túpac",
+      "Titu Cusi Yupanqui",
+      "Túpac Amaru I",
+      "Atahualpa"
+    ],
+    "correcta": 3,
+    "resolucion": "Túpac Amaru I fue el último inca de la línea de resistencia ejecutado por los españoles."
+  },
+  {
+    "pregunta": "¿Cuál es la unidad básica y sólida de la organización social inca?",
+    "opciones": [
+      "El Suyo",
+      "El Tahuantinsuyo",
+      "El Ayllu",
+      "El Qosqo",
+      "La Marka"
+    ],
+    "correcta": 2,
+    "resolucion": "El Ayllu era la célula fundamental de la sociedad y la economía."
+  },
+  {
+    "pregunta": "¿Cómo se llamaba el jefe directo de un Ayllu?",
+    "opciones": [
+      "Inca",
+      "Sinchi",
+      "Curaca",
+      "Huaraca",
+      "Amauta"
+    ],
+    "correcta": 2,
+    "resolucion": "El Curaca era la autoridad encargada de dirigir y organizar a los miembros del ayllu."
+  },
+  {
+    "pregunta": "¿En qué consiste el vínculo de \"Territorio\" entre los miembros del Ayllu?",
+    "opciones": [
+      "Compartir la misma religión",
+      "Trabajar en la misma obra pública",
+      "Habitar el mismo espacio o Marka",
+      "Hablar el mismo dialecto",
+      "Tener el mismo apellido"
+    ],
+    "correcta": 2,
+    "resolucion": "El vínculo de territorio implica que todos comparten un espacio geográfico común llamado Marka."
+  },
+  {
+    "pregunta": "¿A qué se refiere el vínculo de \"Tótem\"?",
+    "opciones": [
+      "Al uso de un idioma común",
+      "A un antepasado común de carácter sagrado",
+      "Al sistema de trabajo colectivo",
+      "Al lugar de origen físico",
+      "Al intercambio de productos"
+    ],
+    "correcta": 1,
+    "resolucion": "El Tótem es el elemento o ancestro sagrado que une simbólicamente a los miembros."
+  },
+  {
+    "pregunta": "¿Cómo se manifiesta el vínculo de \"Economía\" dentro del ayllu?",
+    "opciones": [
+      "Mediante el pago de tributos en moneda",
+      "A través del trabajo colectivo",
+      "Por la propiedad privada de las herramientas",
+      "Por el comercio con otros continentes",
+      "Mediante la acumulación individual de tierras"
+    ],
+    "correcta": 1,
+    "resolucion": "La base económica del ayllu es el apoyo mutuo y el trabajo colectivo de sus integrantes."
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el lugar de origen común donde se cree que surgió el Ayllu?",
+    "opciones": [
+      "Marka",
+      "Tótem",
+      "Pacarina",
+      "Huaca",
+      "Tambo"
+    ],
+    "correcta": 2,
+    "resolucion": "La Pacarina es el lugar sagrado (cerro, cueva, lago) de donde el grupo cree provenir."
+  },
+  {
+    "pregunta": "¿Cuál de estos soberanos pertenece al periodo Imperial?",
+    "opciones": [
+      "Lloque Yupanqui",
+      "Inca Roca",
+      "Wiracocha",
+      "Huayna Cápac",
+      "Capac Yupanqui"
+    ],
+    "correcta": 3,
+    "resolucion": "Huayna Cápac fue uno de los grandes incas históricos durante el apogeo del imperio."
+  },
+  {
+    "pregunta": "¿Qué característica de la sociedad inca permitía que las clases sociales no fueran totalmente cerradas?",
+    "opciones": [
+      "El teocratismo",
+      "La movilidad social",
+      "El militarismo",
+      "La herencia absoluta",
+      "El centralismo"
+    ],
+    "correcta": 1,
+    "resolucion": "A diferencia de otras sociedades estamentales, la sociedad inca presentaba movilidad social, lo que permitía ascender de estrato por méritos."
+  },
+  {
+    "pregunta": "¿Quién era considerado el hijo mayor y primogénito dentro de la realeza?",
+    "opciones": [
+      "Auqui",
+      "Sapa Inca",
+      "Pihuichuri",
+      "Curaca",
+      "Apunchic"
+    ],
+    "correcta": 2,
+    "resolucion": "El término Pihuichuri se utilizaba específicamente para designar al hijo mayor o primogénito del Inca."
+  },
+  {
+    "pregunta": "¿A qué clase social pertenecían los jefes de pueblos sometidos al incario?",
+    "opciones": [
+      "Realeza",
+      "Nobleza de Sangre",
+      "Nobleza Regional",
+      "Hatun Runa",
+      "Yanaconas"
+    ],
+    "correcta": 2,
+    "resolucion": "La Nobleza Regional estaba conformada por los líderes o caciques de las naciones conquistadas que se integraban al sistema inca."
+  },
+  {
+    "pregunta": "¿Cuál era la condición social de los Yanaconas en el Tahuantinsuyo?",
+    "opciones": [
+      "Ciudadanos con plenos derechos",
+      "Prisioneros de guerra en servidumbre perpetua",
+      "Colonizadores de nuevas tierras",
+      "Asesores directos del Consejo Imperial",
+      "Jefes militares de provincia"
+    ],
+    "correcta": 1,
+    "resolucion": "Los yanaconas eran individuos destinados a la servidumbre perpetua, generalmente tras ser prisioneros de guerra."
+  },
+  {
+    "pregunta": "Los Mitimaes enviados a lugares diametralmente opuestos por razones de rebeldía cumplían una función de:",
+    "opciones": [
+      "Conquista",
+      "Colonización",
+      "Castigo",
+      "Producción",
+      "Sucesión"
+    ],
+    "correcta": 2,
+    "resolucion": "Cuando los grupos eran trasladados por actos de rebeldía, se consideraba un sistema de castigo para desarticular posibles levantamientos."
+  },
+  {
+    "pregunta": "¿Cómo se denominaba a los ciudadanos comunes que estaban en pleno ejercicio de sus derechos y obligaciones?",
+    "opciones": [
+      "Mitimaes",
+      "Yanaconas",
+      "Auquis",
+      "Hatun Runa",
+      "Sinchis"
+    ],
+    "correcta": 3,
+    "resolucion": "El Hatun Runa era el hombre del pueblo, la base productiva del imperio con derechos y deberes definidos."
+  },
+  {
+    "pregunta": "¿Qué tipo de nobleza estaba integrada por aquellos individuos que ascendían de nivel gracias a sus hazañas o méritos personales?",
+    "opciones": [
+      "Nobleza de Sangre",
+      "Nobleza Regional",
+      "Nobleza de Privilegio",
+      "Realeza",
+      "Hatun Runa"
+    ],
+    "correcta": 2,
+    "resolucion": "La nobleza de privilegio estaba conformada por personas del pueblo que, por servicios destacados al Estado, eran ascendidas de estrato social."
+  },
+  {
+    "pregunta": "Dentro de la jerarquía de la Realeza, ¿quién era considerado el soberano y \"Hijo del Sol\"?",
+    "opciones": [
+      "El Auqui",
+      "El Sapa Inca",
+      "El Pihuichuri",
+      "La Coya",
+      "El Curaca"
+    ],
+    "correcta": 1,
+    "resolucion": "El Inca (Sapa Inca) era la máxima autoridad, considerado un ser sagrado y descendiente directo del Sol."
+  },
+  {
+    "pregunta": "¿Cuál era la función principal de los Mitimaes enviados bajo la modalidad de \"Colonización\"?",
+    "opciones": [
+      "Castigar a los pueblos rebeldes.",
+      "Servir como prisioneros de guerra.",
+      "Poblar lugares deshabitados y hacer producir dichas tierras.",
+      "Asesorar al Inca en temas de guerra.",
+      "Vigilar las fronteras del Tahuantinsuyo."
+    ],
+    "correcta": 2,
+    "resolucion": "Los mitimaes de colonización eran trasladados a zonas de baja producción o despobladas para integrarlas a la economía imperial."
+  },
+  {
+    "pregunta": "¿Quién conformaba la Nobleza de Sangre según la estructura social?",
+    "opciones": [
+      "Los jefes de los pueblos conquistados.",
+      "Únicamente el Inca y la Coya.",
+      "Los ascendientes y descendientes directos del Inca y la Coya.",
+      "Los mejores guerreros del ejército.",
+      "Los encargados de la contabilidad en los quipus."
+    ],
+    "correcta": 2,
+    "resolucion": "La nobleza de sangre estaba constituida por los familiares directos del Inca, formando la élite cusqueña."
+  },
+  {
+    "pregunta": "Dentro de la organización política, ¿qué función cumplía el Tucuy Ricuc?",
+    "opciones": [
+      "Jefe de un suyo",
+      "Príncipe heredero",
+      "Supervisor y \"el que todo lo ve\"",
+      "Asesor del Consejo Imperial",
+      "Jefe de una provincia"
+    ],
+    "correcta": 2,
+    "resolucion": "El Tucuy Ricuc era el inspector imperial encargado de supervisar que las leyes y funciones se cumplieran en todo el territorio."
+  },
+  {
+    "pregunta": "¿Cuál era el rol político del Auqui durante el gobierno del Sapa Inca?",
+    "opciones": [
+      "Jefe supremo militar",
+      "Co-gobernante y príncipe heredero",
+      "Supervisor de los Curacas",
+      "Líder del Consejo Imperial",
+      "Jefe de la provincia de Wamani"
+    ],
+    "correcta": 1,
+    "resolucion": "El Auqui no solo era el heredero, sino que ejercía funciones de co-gobierno para aprender las labores del mando."
+  },
+  {
+    "pregunta": "¿Qué autoridad política se desempeñaba como el jefe de una provincia o Wamani?",
+    "opciones": [
+      "Suyuyoc Apu",
+      "Apunchic",
+      "Sinchi",
+      "Curaca",
+      "Tucuy Ricuc"
+    ],
+    "correcta": 1,
+    "resolucion": "El Apunchic era el gobernador de las provincias, también conocidas como Wamanis."
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes es una característica de la monarquía incaica?",
+    "opciones": [
+      "Democrática y participativa",
+      "Descentralista y federal",
+      "Teocrática, hereditaria y militarista",
+      "Exclusivamente comercial",
+      "Basada en el sufragio popular"
+    ],
+    "correcta": 2,
+    "resolucion": "El sistema político inca se caracterizaba por ser una monarquía absoluta, teocrática, militarista, hereditaria y centralista."
+  },
+  {
+    "pregunta": "¿Cómo se denominaba al jefe encargado de supervisar a una familia dentro del sistema decimal administrativo?",
+    "opciones": [
+      "Chunka kamayuq",
+      "Pureq",
+      "Pisqa kamayuq",
+      "Pachak kamayuq",
+      "Huno kamayuq"
+    ],
+    "correcta": 1,
+    "resolucion": "El Pureq era el jefe de familia y la base del sistema decimal de población."
+  },
+  {
+    "pregunta": "¿Qué nombre recibía el jefe administrativo que tenía bajo su mando a 1,000 familias?",
+    "opciones": [
+      "Waranqa kamayuq",
+      "Pisqa waranqa",
+      "Huno kamayuq",
+      "Chunka kamayuq",
+      "Pachak kamayuq"
+    ],
+    "correcta": 0,
+    "resolucion": "El Waranqa kamayuq era el responsable de la administración de mil familias."
+  },
+  {
+    "pregunta": "El sistema de contabilidad y registro de información basado en cuerdas y nudos se llamaba:",
+    "opciones": [
+      "Capac Ñan",
+      "Quipu",
+      "Tocapu",
+      "Urpu",
+      "Chusi"
+    ],
+    "correcta": 1,
+    "resolucion": "El Quipu era el instrumento de cuerdas y nudos utilizado para la contabilidad y el registro de datos del imperio."
+  },
+  {
+    "pregunta": "¿Cuál era el idioma oficial del Imperio Incaico según la organización administrativa?",
+    "opciones": [
+      "Aimara",
+      "Puquina",
+      "Quechua",
+      "Muchik",
+      "Kauki"
+    ],
+    "correcta": 2,
+    "resolucion": "El Quechua (o Runa Simi) fue establecido como la lengua oficial para unificar la comunicación en el Tahuantinsuyo."
+  },
+  {
+    "pregunta": "¿Qué nombre recibían los asesores directos del Inca que conformaban el organismo de consulta política?",
+    "opciones": [
+      "Apunchic",
+      "Sinchis",
+      "Consejo Imperial",
+      "Tucuy Ricuc",
+      "Hatun Runa"
+    ],
+    "correcta": 2,
+    "resolucion": "El Consejo Imperial estaba integrado por asesores encargados de orientar al Inca en las decisiones más importantes del Estado."
+  },
+  {
+    "pregunta": "Dentro de la jerarquía administrativa, ¿qué jefe tenía bajo su mando la responsabilidad de 50 familias?",
+    "opciones": [
+      "Chunka kamayuq",
+      "Pisqa chunka",
+      "Pachak kamayuq",
+      "Huno kamayuq",
+      "Pureq"
+    ],
+    "correcta": 1,
+    "resolucion": "Bajo el sistema decimal, el Pisqa chunka era el jefe administrativo encargado de un grupo de 50 familias."
+  },
+  {
+    "pregunta": "La característica de la economía inca que indica que los ayllus consumían lo que ellos mismos producían es:",
+    "opciones": [
+      "Colectiva",
+      "Usu fructuaria",
+      "Mercantilista",
+      "Auto suficiente",
+      "Centralista"
+    ],
+    "correcta": 3,
+    "resolucion": "La autosuficiencia permitía que cada ayllu se abasteciera con su propia producción agrícola y ganadera."
+  },
+  {
+    "pregunta": "¿Qué significa que la tenencia de la tierra en el incanato fuera \"Usu fructuaria\"?",
+    "opciones": [
+      "Que el pueblo era dueño absoluto de la tierra.",
+      "Que las tierras se vendían al mejor postor.",
+      "Que los ayllus usaban las tierras, pero no eran los dueños.",
+      "Que solo la nobleza podía cultivar.",
+      "Que la tierra no tenía valor económico."
+    ],
+    "correcta": 2,
+    "resolucion": "Las tierras pertenecían al Estado, y el pueblo solo tenía el derecho de usarlas y disfrutar de sus frutos."
+  },
+  {
+    "pregunta": "La forma de trabajo destinada al auxilio recíproco entre miembros de familias (interfamiliar) se denomina:",
+    "opciones": [
+      "Minka",
+      "Mita",
+      "Chunka",
+      "Ayni",
+      "Servidumbre"
+    ],
+    "correcta": 3,
+    "resolucion": "El Ayni era el sistema de trabajo recíproco entre las familias del mismo ayllu."
+  },
+  {
+    "pregunta": "¿En qué consistía la \"Mita\" como forma de trabajo?",
+    "opciones": [
+      "Trabajo colectivo en beneficio de la comunidad.",
+      "Trabajo obligatorio y por turnos para el Estado.",
+      "Trabajo de emergencia ante desastres naturales.",
+      "Intercambio de productos entre regiones.",
+      "Ayuda mutua entre esposos."
+    ],
+    "correcta": 1,
+    "resolucion": "La Mita era el trabajo obligatorio, estatal y rotativo que realizaban los hatunrunas."
+  },
+  {
+    "pregunta": "¿Qué forma de trabajo se activaba exclusivamente en casos de emergencia o desastres naturales?",
+    "opciones": [
+      "Ayni",
+      "Minka",
+      "Mita",
+      "Chunka",
+      "Trueque"
+    ],
+    "correcta": 3,
+    "resolucion": "El trabajo de Chunka era el sistema de defensa civil o de emergencia estatal."
+  },
+  {
+    "pregunta": "El proceso económico donde el Inca devolvía bienes sobrantes a los ayllus según sus necesidades se llama:",
+    "opciones": [
+      "Circulación",
+      "Redistribución",
+      "Consumo",
+      "Producción",
+      "Control ecológico"
+    ],
+    "correcta": 1,
+    "resolucion": "La redistribución era la función del Estado de repartir el excedente de producción entre la población."
+  },
+  {
+    "pregunta": "¿Qué técnica permitía a los ayllus obtener productos de diferentes altitudes para su abastecimiento?",
+    "opciones": [
+      "El Trueque",
+      "La Mita minera",
+      "El control de pisos ecológicos",
+      "La arquitectura civil",
+      "El uso del Quipu"
+    ],
+    "correcta": 2,
+    "resolucion": "Mediante el control de pisos ecológicos, los ayllus aprovechaban la variedad geográfica y climática del territorio andino."
+  },
+  {
+    "pregunta": "¿Cuál es una característica fundamental de la arquitectura inca?",
+    "opciones": [
+      "Fragilidad y complejidad",
+      "Solidez, sencillez y simetría",
+      "Uso exclusivo de madera",
+      "Muros con relieves de colores",
+      "Estilo gótico andino"
+    ],
+    "correcta": 1,
+    "resolucion": "La arquitectura inca destaca por ser sólida, simétrica y de formas sencillas pero imponentes."
+  },
+  {
+    "pregunta": "¿Qué tipo de arquitectura representan Sacsayhuaman y el Qoricancha?",
+    "opciones": [
+      "Civil",
+      "Militar",
+      "Religioso",
+      "Popular",
+      "Funerario"
+    ],
+    "correcta": 2,
+    "resolucion": "Ambos son ejemplos destacados de la arquitectura dedicada al culto y la religión."
+  },
+  {
+    "pregunta": "El \"Urpu\" o Aríbalo se caracteriza principalmente por tener:",
+    "opciones": [
+      "Base plana y cuello corto.",
+      "Forma globular, cuello alargado y base cónica.",
+      "Material de madera exclusivamente.",
+      "Forma de cabeza humana.",
+      "Un solo asa lateral."
+    ],
+    "correcta": 1,
+    "resolucion": "El Urpu es el cántaro inca por excelencia con forma globular y base en punta (cónica)."
+  },
+  {
+    "pregunta": "¿Qué material se utilizaba principalmente para la elaboración de los Keros (vasos ceremoniales)?",
+    "opciones": [
+      "Oro",
+      "Piedra",
+      "Madera",
+      "Arcilla",
+      "Hueso"
+    ],
+    "correcta": 2,
+    "resolucion": "Aunque hubo de otros materiales, la característica principal mencionada para el Kero es el uso de madera."
+  },
+  {
+    "pregunta": "¿Cómo se llamaba el tejido fino hecho de lana de vicuña destinado exclusivamente a la nobleza?",
+    "opciones": [
+      "Abasca",
+      "Chusi",
+      "Cumbi",
+      "Plumeria",
+      "Chaquira"
+    ],
+    "correcta": 2,
+    "resolucion": "El Cumbi era el tejido de más alta calidad, suave y lujoso, reservado para las élites."
+  },
+  {
+    "pregunta": "¿Qué nombre recibían los tejidos comunes utilizados por el pueblo (hatunrunas)?",
+    "opciones": [
+      "Cumbi",
+      "Chaquira",
+      "Abasca",
+      "Tocapu",
+      "Minka"
+    ],
+    "correcta": 2,
+    "resolucion": "La Abasca era el tejido sencillo elaborado con lana de llama y alpaca para el uso popular."
+  },
+  {
+    "pregunta": "Los diseños geométricos, zoomorfos e iconográficos presentes en los tejidos incas se llaman:",
+    "opciones": [
+      "Pacarinas",
+      "Tocapus",
+      "Tambos",
+      "Quipus",
+      "Aríbalos"
+    ],
+    "correcta": 1,
+    "resolucion": "Los Tocapus son los recuadros con diseños geométricos que decoraban los tejidos más importantes."
+  },
+  {
+    "pregunta": "¿Qué tipo de tejido incluía hilos de oro y estaba reservado para la nobleza?",
+    "opciones": [
+      "Chusi",
+      "Abasca",
+      "Chaquira",
+      "Plumeria",
+      "Tintes"
+    ],
+    "correcta": 2,
+    "resolucion": "El tejido de Chaquira se distinguía por el uso de hilos de oro y su exclusividad nobiliaria."
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes plantas era utilizada como tinte para la textilería inca?",
+    "opciones": [
+      "Papa",
+      "Quinua",
+      "Molle",
+      "Coca",
+      "Maíz"
+    ],
+    "correcta": 2,
+    "resolucion": "El Molle (junto con la cochinilla y otros) era una de las fuentes naturales para teñir las fibras."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "7.1 Incas 1",
+          "youtube_id": "XlB_99CKunI",
+          "pdf_link": "https://drive.google.com/file/d/15dlGmjUXogTHu0f4YNy5qnriC5uxTTu5/view",
+          "gratis": true
+        },
+        {
+          "titulo": "7.2 Incas 2",
+          "youtube_id": "_uyjoX-J2cs",
+          "pdf_link": "https://drive.google.com/file/d/15dlGmjUXogTHu0f4YNy5qnriC5uxTTu5/view",
+          "gratis": false
+        },
+        {
+          "titulo": "7.3 Incas 3",
+          "youtube_id": "QVw66EFRwJg",
+          "pdf_link": "https://drive.google.com/file/d/15dlGmjUXogTHu0f4YNy5qnriC5uxTTu5/view",
+          "gratis": true
+        },
+        {
+          "titulo": "7.4 Incas 4",
+          "youtube_id": "-mbnyDjAhAg",
+          "pdf_link": "https://drive.google.com/file/d/15dlGmjUXogTHu0f4YNy5qnriC5uxTTu5/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 8: Edad Media y Moderna",
+      "preguntas": [
+        {
+    "pregunta": "¿Qué acontecimiento se considera el hito que divide la Edad Antigua de la Edad Media?",
+    "opciones": [
+      "La caída de Constantinopla",
+      "La invención de la escritura",
+      "La caída del Imperio Romano de Occidente",
+      "El descubrimiento de América",
+      "El inicio de las Cruzadas"
+    ],
+    "correcta": 2,
+    "resolucion": "Este evento marca el fin de la Edad Antigua y el comienzo de la etapa medieval."
+  },
+  {
+    "pregunta": "¿Cuál es la unidad básica de producción dentro del sistema feudal?",
+    "opciones": [
+      "La ciudad",
+      "El feudo",
+      "El puerto",
+      "La fábrica",
+      "La feria"
+    ],
+    "correcta": 1,
+    "resolucion": "El feudo constituía el centro de la vida económica y productiva del periodo."
+  },
+  {
+    "pregunta": "La economía feudal se define principalmente por ser:",
+    "opciones": [
+      "Comercial y global",
+      "Industrial y urbana",
+      "Autárquica o de autosuficiencia",
+      "Monetaria y financiera",
+      "Mercantilista"
+    ],
+    "correcta": 2,
+    "resolucion": "El sistema buscaba producir internamente todo lo necesario para el consumo del feudo."
+  },
+  {
+    "pregunta": "¿Cuáles eran las actividades económicas que servían de base al sistema medieval?",
+    "opciones": [
+      "La pesca y la minería",
+      "La artesanía y el comercio",
+      "La agricultura y la ganadería",
+      "La industria y la banca",
+      "El transporte marítimo"
+    ],
+    "correcta": 2,
+    "resolucion": "El trabajo de la tierra y la crianza de animales eran los pilares de la economía."
+  },
+  {
+    "pregunta": "Dentro del contrato de vasallaje, ¿cuáles son los compromisos del vasallo?",
+    "opciones": [
+      "Pagar renta por la vivienda",
+      "Brindar auxilio militar y consejo",
+      "Educar a los hijos del señor",
+      "Trabajar en los mansos",
+      "Fabricar armas para el feudo"
+    ],
+    "correcta": 1,
+    "resolucion": "El vasallo se obligaba a apoyar al señor en la guerra y en la toma de decisiones políticas."
+  },
+  {
+    "pregunta": "¿Qué nombre recibe la ceremonia donde el vasallo juraba lealtad a su señor?",
+    "opciones": [
+      "Investidura",
+      "Homenaje",
+      "Espaldarazo",
+      "Bautismo",
+      "Coronación"
+    ],
+    "correcta": 1,
+    "resolucion": "El homenaje era el acto formal de declaración de voluntad y fidelidad."
+  },
+  {
+    "pregunta": "¿En qué consiste el acto de la \"Investidura\"?",
+    "opciones": [
+      "En la venta de esclavos",
+      "En la entrega simbólica del feudo al vasallo",
+      "En el cobro de la corvea",
+      "En la expulsión de un noble",
+      "En la bendición de las cosechas"
+    ],
+    "correcta": 1,
+    "resolucion": "Es el paso posterior al homenaje, donde se simbolizaba la entrega del beneficio o tierra."
+  },
+  {
+    "pregunta": "La característica principal que definía al \"Siervo de la gleba\" era:",
+    "opciones": [
+      "Ser un ciudadano libre con derecho a voto",
+      "Estar vinculado legalmente a la tierra",
+      "Ser el dueño de las herramientas de labranza",
+      "Ser un soldado mercenario",
+      "Ser un consejero del rey"
+    ],
+    "correcta": 1,
+    "resolucion": "El siervo no podía abandonar el feudo, pues estaba ligado al territorio que trabajaba."
+  },
+  {
+    "pregunta": "Uno de los antecedentes del feudalismo fue la descentralización administrativa en núcleos de poder autónomos, resultado de las reformas jurídicas de:",
+    "opciones": [
+      "Carlomagno",
+      "Diocleciano",
+      "Constantino",
+      "Justiniano",
+      "Teodosio"
+    ],
+    "correcta": 0,
+    "resolucion": "Carlomagno dividió el territorio en marcas, condados y ducados bajo el mando de nobles. Tras su muerte, estos nobles convirtieron esos cargos administrativos en núcleos de poder autónomos y hereditarios, sentando las bases del sistema feudal."
+  },
+  {
+    "pregunta": "La desmembración del Imperio Carolingio en ducados, condados y provincias fue una causa directa para el surgimiento del:",
+    "opciones": [
+      "Capitalismo",
+      "Renacimiento",
+      "Feudalismo",
+      "Absolutismo",
+      "Humanismo"
+    ],
+    "correcta": 2,
+    "resolucion": "La pérdida de autoridad central de los reyes carolingios permitió que los jefes locales (duques y condes) tomaran el control político y militar de sus territorios, dando origen al régimen feudal."
+  },
+  {
+    "pregunta": "¿Cuál es el origen cronológico de la burguesía según la información presentada?",
+    "opciones": [
+      "Siglo XV",
+      "Siglo XVIII",
+      "Siglo XII",
+      "Siglo XVI",
+      "Siglo XX"
+    ],
+    "correcta": 2,
+    "resolucion": "La burguesía tiene su origen en el siglo XII, formada inicialmente por campesinos libres."
+  },
+  {
+    "pregunta": "¿Qué nombre recibían los documentos legales que permitían anular el poder del señor feudal sobre una ciudad?",
+    "opciones": [
+      "Capitulaciones",
+      "Cartas de Franquicia",
+      "Tratados de Libre Comercio",
+      "Bulas Papales",
+      "Actas de Navegación"
+    ],
+    "correcta": 1,
+    "resolucion": "Las Cartas de Franquicia funcionaban como el \"Acta de Independencia Burguesa\", otorgando autogobierno y leyes propias a la ciudad."
+  },
+  {
+    "pregunta": "¿En qué consiste la consigna principal del Capitalismo Mercantil (siglos XVI al XVIII)?",
+    "opciones": [
+      "Eliminar la propiedad privada.",
+      "Fomentar las importaciones de lujo.",
+      "Aumentar exportaciones y acumular metales preciosos.",
+      "Prohibir el comercio marítimo.",
+      "Fortalecer el poder absoluto del señor feudal."
+    ],
+    "correcta": 2,
+    "resolucion": "El sistema se basaba en la acumulación de capital mediante el aumento de exportaciones y la reserva de metales preciosos."
+  },
+  {
+    "pregunta": "¿Qué característica del Renacimiento se define como \"el hombre, autor de la historia\"?",
+    "opciones": [
+      "Teocentrismo",
+      "Humanismo intelectual",
+      "Antropocentrismo",
+      "Mercantilismo",
+      "Feudalismo"
+    ],
+    "correcta": 2,
+    "resolucion": "El antropocentrismo sitúa al ser humano como el centro y autor de los procesos históricos, oponiéndose al teocentrismo."
+  },
+  {
+    "pregunta": "¿Qué famosa familia destacó como financista y mecenas durante el Renacimiento?",
+    "opciones": [
+      "Familia Estuardo",
+      "Familia Bonaparte",
+      "Familia Borbón",
+      "Familia Medici",
+      "Familia Romanov"
+    ],
+    "correcta": 3,
+    "resolucion": "La familia Medici es mencionada como los principales financistas y mecenas que apoyaron el desarrollo artístico."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes autores es considerado el \"Padre de la ciencia política\" por su libro \"El Príncipe\"?",
+    "opciones": [
+      "Tomás Moro",
+      "Sandro Botticelli",
+      "Nicolás Maquiavelo",
+      "Leonardo da Vinci",
+      "Miguel Ángel"
+    ],
+    "correcta": 2,
+    "resolucion": "Nicolás Maquiavelo escribió \"El Príncipe\", obra fundamental que le otorgó dicho título en la historia política."
+  },
+  {
+    "pregunta": "¿Qué obra literaria de Tomás Moro se caracteriza por idealizar la república?",
+    "opciones": [
+      "La Gioconda",
+      "El Príncipe",
+      "La Piedad",
+      "Utopía",
+      "El hombre de Vitruvio"
+    ],
+    "correcta": 3,
+    "resolucion": "Tomás Moro es el autor de \"Utopía\", libro donde plantea una sociedad ideal."
+  },
+  {
+    "pregunta": "¿Cuál de estas obras pertenece al ámbito de la escultura realizada por Miguel Ángel?",
+    "opciones": [
+      "El nacimiento de Venus",
+      "La última cena",
+      "Moisés",
+      "Primavera",
+      "El hombre de Vitruvio"
+    ],
+    "correcta": 2,
+    "resolucion": "Entre las esculturas destacadas de Miguel Ángel se mencionan el Moisés, el David y La Piedad."
+  },
+  {
+    "pregunta": "¿De las alternativas cuál es el famoso dibujo de Leonardo da Vinci?",
+    "opciones": [
+      "El juicio final",
+      "La Gioconda",
+      "El hombre de Vitruvio",
+      "La última cena",
+      "Nacimiento de Venus"
+    ],
+    "correcta": 2,
+    "resolucion": "Además de sus pinturas, se destaca el dibujo del \"Hombre de Vitruvio\" como parte de la obra de Da Vinci."
+  },
+  {
+    "pregunta": "El Capitalismo Mercantil, ¿qué evento histórico se llevó a cabo bajo este sistema económico?",
+    "opciones": [
+      "La Revolución Industrial",
+      "Los viajes de descubrimiento",
+      "La caída del Imperio Romano",
+      "Las Cruzadas",
+      "La invención de la imprenta"
+    ],
+    "correcta": 1,
+    "resolucion": "La diapositiva indica que bajo el sistema del capitalismo mercantil se realizaron los viajes de descubrimiento."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "8.1 Edad Media y Moderna",
+          "youtube_id": "T3UZ7fRP3qU",
+          "pdf_link": "https://drive.google.com/file/d/1Kt1Wa9-8_s8DNEZHaR2OOlgSY2iXfDAm/view",
+          "gratis": true
+        },
+        {
+          "titulo": "8.2 Edad Media y Moderna",
+          "youtube_id": "-W3bUko-A6s",
+          "pdf_link": "https://drive.google.com/file/d/1Kt1Wa9-8_s8DNEZHaR2OOlgSY2iXfDAm/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 9: Expansión Europea",
+      "preguntas": [
+        {
+    "pregunta": "¿Qué ciudad fue tomada en 1453, provocando el cierre del comercio entre Europa e India?",
+    "opciones": [
+      "Génova",
+      "Venecia",
+      "Constantinopla",
+      "Lisboa",
+      "Madrid"
+    ],
+    "correcta": 2,
+    "resolucion": "La caída de Constantinopla en 1453 en manos de Mahomet II fue la causa principal que obligó a los europeos a buscar nuevas rutas."
+  },
+  {
+    "pregunta": "¿Quién fue el líder que cerró el paso comercial terrestre hacia Asia?",
+    "opciones": [
+      "Vasco da Gama",
+      "Mahomet II",
+      "Cristóbal Colón",
+      "Paolo Toscanelli",
+      "Pierre d'Ailly"
+    ],
+    "correcta": 1,
+    "resolucion": "Mahomet II tomó Constantinopla y cerró el flujo comercial de especias y seda."
+  },
+  {
+    "pregunta": "¿Qué productos eran los más buscados por los europeos en el comercio con Asia?",
+    "opciones": [
+      "Oro y plata",
+      "Trigo y cebada",
+      "Especias y seda",
+      "Esclavos y madera",
+      "Papel y pólvora"
+    ],
+    "correcta": 2,
+    "resolucion": "Las diapositivas muestran que el intercambio principal desde Asia hacia Europa consistía en especias y seda."
+  },
+  {
+    "pregunta": "¿Qué invento tecnológico se muestra como un mapa detallado para la navegación?",
+    "opciones": [
+      "Brújula",
+      "Astrolabio",
+      "Sextante",
+      "Portulano",
+      "Carabela"
+    ],
+    "correcta": 3,
+    "resolucion": "El portulano era el mapa o carta náutica utilizada por los marinos para ubicarse en las costas."
+  },
+  {
+    "pregunta": "¿Cuál fue la ruta que utilizó Portugal para llegar a la India en 1499?",
+    "opciones": [
+      "Cruzando el Océano Atlántico por el oeste.",
+      "Navegando por el Mar Mediterráneo.",
+      "Bordeando las costas de África.",
+      "Atravesando el Estrecho de Bering.",
+      "Por tierra a través de Rusia."
+    ],
+    "correcta": 2,
+    "resolucion": "Portugal, con Vasco da Gama, logró llegar a la India navegando por las costas del continente africano."
+  },
+  {
+    "pregunta": "¿Qué ruta tomó Cristóbal Colón para llegar a la India?",
+    "opciones": [
+      "Costas de África",
+      "Mar Mediterráneo",
+      "Mar Ártico",
+      "Océano Atlántico",
+      "Océano Pacífico"
+    ],
+    "correcta": 3,
+    "resolucion": "Bajo la bandera de España, Colón cruzó el Océano Atlántico en 1492 buscando una ruta alterna."
+  },
+  {
+    "pregunta": "Cristóbal Colón se casó con una mujer de sociedad alta de Portugal, llamada:",
+    "opciones": [
+      "Isabel la Católica",
+      "Felipa Munis de Perestrello",
+      "Juana de Arco",
+      "María de Médici",
+      "Ana Bolena"
+    ],
+    "correcta": 1,
+    "resolucion": "Felipa Munis de Perestrello es la esposa del navegante."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes libros consultados por Colón fue escrito por Marco Polo?",
+    "opciones": [
+      "Imago Mundi",
+      "Cartas geográficas",
+      "El libro de las maravillas",
+      "Cartas de navegación",
+      "Clásicos griegos"
+    ],
+    "correcta": 2,
+    "resolucion": "\"El libro de las maravillas\" fue una de las fuentes consultadas por Colón y pertenece a Marco Polo."
+  },
+  {
+    "pregunta": "¿A qué autor pertenecen las \"Cartas geográficas\" que Colón utilizó para su proyecto?",
+    "opciones": [
+      "Pierre d'Ailly",
+      "Ptolomeo",
+      "Bartolomé Perestrello",
+      "Paolo Toscanelli",
+      "Vasco da Gama"
+    ],
+    "correcta": 3,
+    "resolucion": "El sabio florentino Paolo Toscanelli fue el autor de las cartas geográficas y mapas que sugerían la posibilidad de llegar a Asia navegando hacia el oeste."
+  },
+  {
+    "pregunta": "¿Cuál fue la embarcación ligera y resistente que permitió a los navegantes recorrer los océanos de manera más rápida y segura?",
+    "opciones": [
+      "Portulano",
+      "Brújula",
+      "Carabela",
+      "Astrolabio",
+      "Sextante"
+    ],
+    "correcta": 2,
+    "resolucion": "La Carabela fue el tipo de barco diseñado en la época que, por su combinación de velas y estructura, facilitó los viajes de exploración a través del océano."
+  },
+  {
+    "pregunta": "¿Qué documento legal estableció los títulos de Virrey y Almirante para Cristóbal Colón antes de su expedición?",
+    "opciones": [
+      "Tratado de Tordesillas",
+      "Real Cédula de Cádiz",
+      "Capitulación de Santa Fe",
+      "Acta de navegación",
+      "Carta de Franquicia"
+    ],
+    "correcta": 2,
+    "resolucion": "La Capitulación de Santa Fe otorgó a Colón los títulos de \"Don\", Virrey, Almirante y Gobernador."
+  },
+  {
+    "pregunta": "¿Quiénes fueron los frailes que brindaron apoyo decisivo a Colón en su proyecto ante la corona española?",
+    "opciones": [
+      "Juan Pérez y Antonio de Marchena",
+      "Luis de Santángel y Alonso de Quintanilla",
+      "Rodrigo de Triana y Diego de Arana",
+      "Francisco de Bobadilla y Roldán",
+      "Bartolomé de las Casas y Vicente Yáñez"
+    ],
+    "correcta": 0,
+    "resolucion": "Los frailes Juan Pérez y Antonio de Marchena fueron personajes clave que apoyaron al navegante genovés."
+  },
+  {
+    "pregunta": "¿Qué porcentaje o parte de las riquezas obtenidas le correspondía a Colón por derecho según lo pactado con la reina Isabel?",
+    "opciones": [
+      "La mitad de todo lo hallado",
+      "La quinta parte (Quinto Real)",
+      "La décima parte",
+      "El total de los metales preciosos",
+      "Solo el pago de su tripulación"
+    ],
+    "correcta": 2,
+    "resolucion": "En los beneficios para Colón se estipulaba el derecho a la décima parte de las riquezas."
+  },
+  {
+    "pregunta": "¿Cuál fue el puerto de salida utilizado para equipar la expedición del primer viaje de descubrimiento?",
+    "opciones": [
+      "Puerto de Cádiz",
+      "Puerto de Sanlúcar",
+      "Puerto de Palos",
+      "Puerto de Sevilla",
+      "Puerto de Lisboa"
+    ],
+    "correcta": 2,
+    "resolucion": "El Puerto de Palos fue el punto designado para equipar y dar salida al primer viaje (1492)."
+  },
+  {
+    "pregunta": "¿Qué isla fue bautizada como San Salvador tras ser la primera en ser avistada en el primer viaje?",
+    "opciones": [
+      "Cuba",
+      "Haití",
+      "Guananí",
+      "Jamaica",
+      "Martinica"
+    ],
+    "correcta": 2,
+    "resolucion": "La isla de Guananí recibió el nombre de San Salvador al momento del descubrimiento."
+  },
+  {
+    "pregunta": "¿Cómo fue bautizada la isla de Cuba por Cristóbal Colón durante su primer recorrido?",
+    "opciones": [
+      "La Española",
+      "Juana",
+      "Monserrat",
+      "San Salvador",
+      "La Isabela"
+    ],
+    "correcta": 1,
+    "resolucion": "A la isla de Cuba se le asignó el nombre de Juana."
+  },
+  {
+    "pregunta": "¿Qué construcción se realizó utilizando los restos del naufragio de la carabela Santa María?",
+    "opciones": [
+      "La ciudad de La Isabela",
+      "El Fortín de Navidad",
+      "El puerto de Santo Domingo",
+      "La casa de contratación",
+      "El virreinato de las Antillas"
+    ],
+    "correcta": 1,
+    "resolucion": "Tras el naufragio de la Santa María, sus restos sirvieron para construir el Fortín de Navidad."
+  },
+  {
+    "pregunta": "¿Quién fue el marinero que dio el grito de \"¡Tierra!\" al divisar el nuevo continente?",
+    "opciones": [
+      "Rodrigo de Triana",
+      "Diego de Arana",
+      "Luis de Santángel",
+      "Francisco Roldán",
+      "Américo Vespucio"
+    ],
+    "correcta": 0,
+    "resolucion": "Rodrigo de Triana fue el encargado de divisar tierra durante la expedición inicial."
+  },
+  {
+    "pregunta": "¿Cuál fue el puerto de salida para el segundo viaje, que contó con 17 embarcaciones y 1500 tripulantes?",
+    "opciones": [
+      "Palos",
+      "Sanlúcar",
+      "Cádiz",
+      "Sevilla",
+      "Huelva"
+    ],
+    "correcta": 2,
+    "resolucion": "El segundo viaje partió desde el puerto de Cádiz."
+  },
+  {
+    "pregunta": "¿Cuál fue la primera ciudad española fundada en el continente americano?",
+    "opciones": [
+      "San Salvador",
+      "Juana",
+      "La Española",
+      "La Isabela",
+      "Portobelo"
+    ],
+    "correcta": 3,
+    "resolucion": "La Isabela es reconocida como la primera ciudad española fundada en América."
+  },
+  {
+    "pregunta": "Durante el segundo viaje, Colón se enteró del asesinato de los 40 españoles que dejó en el primer viaje a manos de:",
+    "opciones": [
+      "Los aztecas e incas",
+      "Los mayas y olmecas",
+      "Los taínos y caribes",
+      "Los quechuas y aymaras",
+      "Los apaches y navajos"
+    ],
+    "correcta": 2,
+    "resolucion": "Los 40 españoles al mando de Diego de Arana fueron asesinados por los grupos nativos taínos y caribes."
+  },
+  {
+    "pregunta": "¿En qué viaje Colón llegó a tocar \"Tierra Firme\", explorando la desembocadura del río Orinoco?",
+    "opciones": [
+      "Primer viaje",
+      "Segundo viaje",
+      "Tercer viaje",
+      "Cuarto viaje",
+      "Viaje de circunnavegación"
+    ],
+    "correcta": 2,
+    "resolucion": "Fue en el tercer viaje cuando se exploró la Isla Trinidad, el río Orinoco y el Golfo de Párea (Tierra Firme)."
+  },
+  {
+    "pregunta": "¿Quién fue el personaje enviado por los reyes para poner orden en las Antillas y que terminó arrestando a Colón?",
+    "opciones": [
+      "Rodrigo de Triana",
+      "Francisco de Bobadilla",
+      "Francisco Roldán",
+      "Américo Vespucio",
+      "Alonso de Quintanilla"
+    ],
+    "correcta": 1,
+    "resolucion": "Bobadilla fue enviado para mediar en los conflictos de la isla, pero terminó llevando a Colón encadenado a España."
+  },
+  {
+    "pregunta": "¿Qué países actuales de Centroamérica fueron recorridos por Colón durante su cuarto y último viaje?",
+    "opciones": [
+      "México, Guatemala y Belice",
+      "Colombia, Venezuela y Ecuador",
+      "Honduras, Nicaragua, Costa Rica y Panamá",
+      "Cuba, Haití y Puerto Rico",
+      "Brasil, Argentina y Chile"
+    ],
+    "correcta": 2,
+    "resolucion": "El cuarto viaje se centró en la exploración de las costas de Centroamérica (Honduras, Nicaragua, Costa Rica y Panamá)."
+  },
+  {
+    "pregunta": "¿Quién fue el navegante que difundió la noticia de que las tierras descubiertas pertenecían a un nuevo continente?",
+    "opciones": [
+      "Cristóbal Colón",
+      "Vasco da Gama",
+      "Américo Vespucio",
+      "Diego de Arana",
+      "Luis de Santángel"
+    ],
+    "correcta": 2,
+    "resolucion": "El italiano Américo Vespucio fue quien dio la noticia de que se trataba de un continente distinto a Asia."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "9.1 Expansión - P1",
+          "youtube_id": "VToc4G2nkf4",
+          "pdf_link": "https://drive.google.com/file/d/1TUiNh5L53fdjhg6Qr9COFHHBM5D5r2X_/view",
+          "gratis": true
+        },
+        {
+          "titulo": "9.2 Expansión - P2",
+          "youtube_id": "t59p1mwJsgM",
+          "pdf_link": "https://drive.google.com/file/d/1TUiNh5L53fdjhg6Qr9COFHHBM5D5r2X_/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 10: Invasión Española",
+      "preguntas": [
+        {
+    "pregunta": "¿Qué personaje histórico fue el primero en recibir noticias sobre la existencia de un rico reino al sur (el Tahuantinsuyo) por parte de Panquiaco?",
+    "opciones": [
+      "Francisco Pizarro",
+      "Diego de Almagro",
+      "Blasco Núñez de Balboa",
+      "Hernando de Soto",
+      "Pedro Arias Dávila"
+    ],
+    "correcta": 2,
+    "resolucion": "Núñez de Balboa recibió la información del hijo del cacique Careta mientras exploraba el istmo de Panamá."
+  },
+  {
+    "pregunta": "¿Cómo bautizó Blasco Núñez de Balboa al actual Océano Pacífico al avistarlo por primera vez?",
+    "opciones": [
+      "Mar de los Sargazos",
+      "Mar de la China",
+      "Mar del Sur",
+      "Mar del Norte",
+      "Mar de las Antillas"
+    ],
+    "correcta": 2,
+    "resolucion": "Balboa lo llamó Mar del Sur al cruzar el istmo de Panamá."
+  },
+  {
+    "pregunta": "¿Quién fue el gobernador de Panamá, conocido como \"Pedrarias\", que fundó dicha ciudad y ejecutó a Núñez de Balboa?",
+    "opciones": [
+      "Pedro de los Ríos",
+      "Pedro Arias Dávila",
+      "Pascual de Andagoya",
+      "Diego de Nicuesa",
+      "Gaspar de Morales"
+    ],
+    "correcta": 1,
+    "resolucion": "Pedrarias Dávila fundó Panamá y es recordado por su autoritarismo y la ejecución de Balboa."
+  },
+  {
+    "pregunta": "En la empresa de Levante, ¿quién era el encargado de la financiación y la gestión de documentos?",
+    "opciones": [
+      "Francisco Pizarro",
+      "Diego de Almagro",
+      "Hernando de Luque",
+      "Gaspar de Espinoza",
+      "Pedrarias Dávila"
+    ],
+    "correcta": 2,
+    "resolucion": "El clérigo Hernando de Luque representaba los intereses económicos y legales de la sociedad."
+  },
+  {
+    "pregunta": "¿Quién fue el financista \"oculto\" de la expedición de Pizarro, que aportó el capital a través de Hernando de Luque?",
+    "opciones": [
+      "Pedro de los Ríos",
+      "Gaspar de Espinoza",
+      "Bartolomé Ruiz",
+      "Felipillo",
+      "Juan de Tafur"
+    ],
+    "correcta": 1,
+    "resolucion": "Gaspar de Espinoza fue el socio capitalista que financió gran parte de la empresa."
+  },
+  {
+    "pregunta": "Durante el Primer Viaje de Pizarro (Viaje de Exploración), ¿en qué lugar Diego de Almagro perdió un ojo tras un enfrentamiento con los nativos?",
+    "opciones": [
+      "Puerto Piñas",
+      "Puerto del Hambre",
+      "Pueblo Quemado",
+      "Islas Perlas",
+      "Chochama"
+    ],
+    "correcta": 2,
+    "resolucion": "Almagro perdió un ojo en el ataque a Pueblo Quemado, lugar que luego incendiaron en represalia."
+  },
+  {
+    "pregunta": "¿Cuál fue el incidente donde Pizarro trazó una línea en la arena retando a sus hombres a continuar hacia el sur para ser ricos?",
+    "opciones": [
+      "El incidente de Pueblo Quemado",
+      "Los Trece de la Isla del Gallo",
+      "La firma de la Capitulación de Toledo",
+      "El encuentro en Cajamarca",
+      "El desembarco en Tumbes"
+    ],
+    "correcta": 1,
+    "resolucion": "En la Isla del Gallo, solo trece hombres decidieron cruzar la línea y continuar la expedición con Pizarro."
+  },
+  {
+    "pregunta": "¿Quién fue el piloto que, durante el segundo viaje, capturó una balsa de indios tallanes con mercancías, confirmando la riqueza del imperio inca?",
+    "opciones": [
+      "Juan de Tafur",
+      "Bartolomé Ruiz",
+      "Pedro de Candía",
+      "Alonso de Molina",
+      "Rodrigo de Triana"
+    ],
+    "correcta": 1,
+    "resolucion": "El piloto Bartolomé Ruiz interceptó la balsa de mercaderes que servía de prueba de la existencia del Tahuantinsuyo."
+  },
+  {
+    "pregunta": "¿Qué documento legal otorgó a Francisco Pizarro los títulos de Gobernador, Capitán General y Adelantado?",
+    "opciones": [
+      "Capitulación de Santa Fe",
+      "Tratado de Tordesillas",
+      "Capitulación de Toledo",
+      "Real Cédula de Panamá",
+      "Contrato de Panamá"
+    ],
+    "correcta": 2,
+    "resolucion": "La Capitulación de Toledo, firmada con la Corona Española, formalizó la invasión y otorgó los máximos beneficios a Pizarro."
+  },
+  {
+    "pregunta": "¿Qué título recibió Diego de Almagro en la Capitulación de Toledo, lo que generó resentimiento hacia Pizarro?",
+    "opciones": [
+      "Gobernador de Nueva Castilla",
+      "Alcaide de la fortaleza de Tumbes",
+      "Virrey del Perú",
+      "Protector de Indios",
+      "Capitán de la Armada Invencible"
+    ],
+    "correcta": 1,
+    "resolucion": "Almagro solo recibió el título de Alcaide de Tumbes y una hidalguía, premios muy inferiores a los de Pizarro."
+  },
+  {
+    "pregunta": "¿Cuál fue la primera ciudad española fundada por Pizarro en el actual territorio peruano?",
+    "opciones": [
+      "Lima",
+      "Cusco",
+      "San Miguel de Tangarará",
+      "Trujillo",
+      "Cajamarca"
+    ],
+    "correcta": 2,
+    "resolucion": "San Miguel de Tangarará (en Piura) fue la primera fundación española en el Perú."
+  },
+  {
+    "pregunta": "En el contexto de la guerra civil inca, ¿quién era el inca que se encontraba en Cajamarca al momento de la llegada de los españoles?",
+    "opciones": [
+      "Huáscar",
+      "Ninan Cuyuchi",
+      "Atahualpa",
+      "Manco Inca",
+      "Túpac Amaru I"
+    ],
+    "correcta": 2,
+    "resolucion": "Atahualpa descansaba en Cajamarca tras vencer a su hermano Huáscar."
+  },
+  {
+    "pregunta": "¿Qué personaje realizó la lectura del \"Requerimiento\" al inca Atahualpa en la plaza de Cajamarca?",
+    "opciones": [
+      "Hernando de Soto",
+      "Fray Vicente Valverde",
+      "Hernando Pizarro",
+      "Felipillo",
+      "Pedro de Candía"
+    ],
+    "correcta": 1,
+    "resolucion": "El fraile dominico Vicente Valverde leyó el requerimiento y mostró la Biblia al Inca."
+  },
+  {
+    "pregunta": "¿Cuál fue la causa real que facilitó la caída del Tahuantinsuyo, más allá de las armas de fuego y caballos?",
+    "opciones": [
+      "La superioridad numérica de los españoles.",
+      "El apoyo de las etnias regionales (huancas, cañaris) enemigas de los incas.",
+      "El uso de la brújula y el sextante.",
+      "La voluntad de los dioses incas.",
+      "La falta de oro en el imperio."
+    ],
+    "correcta": 1,
+    "resolucion": "El apoyo de diversas naciones indígenas que buscaban liberarse del dominio inca fue el factor determinante."
+  },
+  {
+    "pregunta": "¿Qué explorador español fue el primero en desembarcar en Tumbes durante el segundo viaje de Pizarro?",
+    "opciones": [
+      "Diego de Almagro",
+      "Pedro de Candía",
+      "Bartolomé Ruiz",
+      "Juan de Tafur",
+      "Hernando de Luque"
+    ],
+    "correcta": 1,
+    "resolucion": "El griego Pedro de Candía fue el primero en bajar a Tumbes y asombrarse con sus construcciones."
+  },
+  {
+    "pregunta": "Durante la guerra entre invasores en su primera fase, ¿quiénes fueron los bandos beligerantes enfrentados?",
+    "opciones": [
+      "Españoles vs. Incas",
+      "Pizarristas vs. Almagristas",
+      "La Corona vs. Encomenderos",
+      "Nueva Castilla vs. Portugal",
+      "Diego de Almagro vs. El Mozo"
+    ],
+    "correcta": 1,
+    "resolucion": "Los Pizarristas y Almagristas fueron quienes desataron este conflicto por la posesión del Cusco y por el reparto desigual de bienes."
+  },
+  {
+    "pregunta": "¿Cuál fue la causa principal que desató el conflicto entre los invasores?",
+    "opciones": [
+      "La posesión del Cusco",
+      "La captura de Atahualpa",
+      "El control del Océano Atlántico",
+      "La creación del Virreinato",
+      "Las Nuevas Leyes de Indias"
+    ],
+    "correcta": 0,
+    "resolucion": "La \"Posesión del Cusco\", capital del Imperio de los Incas, fue la causa central."
+  },
+  {
+    "pregunta": "¿Cómo se llamaba la gobernación concedida a Diego de Almagro?",
+    "opciones": [
+      "Nueva Castilla",
+      "Dominios de Portugal",
+      "Nueva Toledo",
+      "Gobernación del Cusco",
+      "Gobernación de Quito"
+    ],
+    "correcta": 2,
+    "resolucion": "A Diego de Almagro le correspondió la gobernación de Nueva Toledo, más al sur de la gobernación de Nueva Castilla."
+  },
+  {
+    "pregunta": "¿Quiénes se enfrentaron en la Batalla de Salinas en el Cusco?",
+    "opciones": [
+      "Francisco Pizarro vs. Diego de Almagro",
+      "Blasco Núñez de Vela vs. Gonzalo Pizarro",
+      "Hernando Pizarro vs. Rodrigo de Ordoñez",
+      "Cristobal Baca de Castro vs. Diego de Almagro \"El Mozo\"",
+      "Pedro de la Gasca vs. Gonzalo Pizarro"
+    ],
+    "correcta": 2,
+    "resolucion": "El duelo fue entre Hernando Pizarro (Pizarrista) y Rodrigo de Ordoñez (Almagrista)."
+  },
+  {
+    "pregunta": "¿Qué personaje le dio la estocada final a Francisco Pizarro en el palacio de Lima?",
+    "opciones": [
+      "Juan de Rada",
+      "Diego de Almagro \"El Viejo\"",
+      "Martín de Bilbao",
+      "Rodrigo de Ordoñez",
+      "Diego Centeno"
+    ],
+    "correcta": 2,
+    "resolucion": "El asalto fue liderado por Juan de Rada, y Martín de Bilbao fue quien le dio la estocada final."
+  },
+  {
+    "pregunta": "En la segunda fase, ¿contra quiénes se enfrentó la Corona Española?",
+    "opciones": [
+      "Contra los Incas de Vilcabamba",
+      "Contra los Encomenderos",
+      "Contra los portugueses",
+      "Contra Juan de Rada",
+      "Contra los Pizarristas originales"
+    ],
+    "correcta": 1,
+    "resolucion": "En la segunda etapa se dio un enfrentamiento entre la Corona Española y los Encomenderos, así la corona logró consolidar su poder en el Perú."
+  },
+  {
+    "pregunta": "¿Qué documento o normativa emitida por el Rey Carlos V impulsó la creación del Virreinato del Perú?",
+    "opciones": [
+      "El Tratado de Tordesillas",
+      "La Capitulación de Toledo",
+      "Las Nuevas Leyes de Indias",
+      "El Acta de Lima",
+      "El Edicto de Salinas"
+    ],
+    "correcta": 2,
+    "resolucion": "El Rey Carlos V con las \"Nuevas Leyes de Indias\" dio la creación del Virreinato del Perú y enviando para su cumplimiento al primer virrey del Perú."
+  },
+  {
+    "pregunta": "¿Quién fue el primer Virrey del Perú mencionado en las diapositivas?",
+    "opciones": [
+      "Cristobal Baca de Castro",
+      "Pedro de la Gasca",
+      "Blasco Núñez de Vela",
+      "Gonzalo Pizarro",
+      "Diego Centeno"
+    ],
+    "correcta": 2,
+    "resolucion": "Blasco Núñez de Vela fue el \"1° Virrey del Perú\", enviado a cumplir las Nuevas Leyes, sin embargo fue asesinado por los encomenderos."
+  },
+  {
+    "pregunta": "¿Qué ocurrió con el primer virrey tras la Batalla de Añaquito en Ecuador?",
+    "opciones": [
+      "Fue nombrado Capitán General",
+      "Fue ejecutado y su cabeza exhibida en Quito",
+      "Logró huir a España",
+      "Se alió con Gonzalo Pizarro",
+      "Ganó la batalla contra los rebeldes"
+    ],
+    "correcta": 1,
+    "resolucion": "Tras la batalla contra Gonzalo Pizarro, el virrey fue ejecutado y su cabeza cortada."
+  },
+  {
+    "pregunta": "¿Quién fue el vencedor definitivo en la Batalla de Jaquijahuana frente a Gonzalo Pizarro?",
+    "opciones": [
+      "Diego Centeno",
+      "Blasco Núñez de Vela",
+      "Pedro de la Gasca",
+      "Rodrigo de Ordoñez",
+      "Diego de Almagro"
+    ],
+    "correcta": 2,
+    "resolucion": "El sacerdote Pedro de La Gasca venció al líder de los encomenderos Gonzalo Pizarro y a su aliado Francisco de Carbajal."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "10.1 Invasión - P1",
+          "youtube_id": "VraWGJlg0ao",
+          "pdf_link": "https://drive.google.com/file/d/1uhuF0pS71wmPkvabE4d6J98jteb3lnoU/view",
+          "gratis": true
+        },
+        {
+          "titulo": "10.2 Invasión - P2",
+          "youtube_id": "17uMJSjDigw",
+          "pdf_link": "https://drive.google.com/file/d/1uhuF0pS71wmPkvabE4d6J98jteb3lnoU/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 11: Instituciones Coloniales",
+      "preguntas": [
+        {
+    "pregunta": "¿Qué eran los Repartimientos?",
+    "opciones": [
+      "Enseñanza religiosa",
+      "Distribución de tierras e indios",
+      "Cobro de impuestos marítimos",
+      "Leyes de protección",
+      "Fundación de ciudades"
+    ],
+    "correcta": 1,
+    "resolucion": "Fue la entrega inicial de tierras y mano de obra que hacían los jefes conquistadores a sus soldados como recompensa."
+  },
+  {
+    "pregunta": "¿Cuál era el deber del encomendero?",
+    "opciones": [
+      "Pagar salarios",
+      "Explorar la selva",
+      "Proteger y evangelizar",
+      "Construir barcos",
+      "Nombrar jueces"
+    ],
+    "correcta": 2,
+    "resolucion": "El encomendero recibía tributo indígena a cambio de asegurar la protección y la fe cristiana de los nativos."
+  },
+  {
+    "pregunta": "¿Cuál fue la última dinastía española de la colonia?",
+    "opciones": [
+      "Habsburgo",
+      "Trastámara",
+      "Borbones",
+      "Tudor",
+      "Capeto"
+    ],
+    "correcta": 2,
+    "resolucion": "Los Borbones (Felipe V a Fernando VII) fueron la segunda y última dinastía que gobernó el Virreinato."
+  },
+  {
+    "pregunta": "¿Qué institución era el organismo supremo para las colonias?",
+    "opciones": [
+      "Casa de Contratación",
+      "Consejo de Indias",
+      "Real Audiencia",
+      "Tribunal del Consulado",
+      "Intendencia"
+    ],
+    "correcta": 1,
+    "resolucion": "Creado en 1524, el Consejo de Indias era la máxima autoridad administrativa, legislativa y judicial para América."
+  },
+  {
+    "pregunta": "¿Cuál era la función de la Casa de Contratación?",
+    "opciones": [
+      "Redactar leyes",
+      "Controlar el comercio",
+      "Nombrar virreyes",
+      "Proteger al indígena",
+      "Dirigir la iglesia"
+    ],
+    "correcta": 1,
+    "resolucion": "Esta institución se encargaba exclusivamente de los asuntos económicos, aduanas y el tránsito de barcos."
+  },
+  {
+    "pregunta": "¿Qué era el Juicio de Residencia?",
+    "opciones": [
+      "Un censo poblacional",
+      "Una ley de tierras",
+      "Fiscalización a funcionarios",
+      "Un entierro real",
+      "Un reparto de ropa"
+    ],
+    "correcta": 2,
+    "resolucion": "Era la investigación obligatoria al final del mandato de una autoridad para evaluar su honestidad y desempeño."
+  },
+  {
+    "pregunta": "¿Qué documento era el balance de gestión del Virrey?",
+    "opciones": [
+      "Pliego de Mortaja",
+      "Real Cédula",
+      "Memoria de Gobierno",
+      "Ordenanza",
+      "Juicio Final"
+    ],
+    "correcta": 2,
+    "resolucion": "Al terminar su cargo, el virrey entregaba este informe detallado sobre el estado de su administración al sucesor."
+  },
+  {
+    "pregunta": "¿Qué función tenía el Pliego de Mortaja?",
+    "opciones": [
+      "Cobrar impuestos",
+      "Sucesión de emergencia",
+      "Declarar la guerra",
+      "Fundar conventos",
+      "Perdonar deudas"
+    ],
+    "correcta": 1,
+    "resolucion": "Era un pliego cerrado que contenía el nombre del reemplazo del virrey en caso de que este falleciera de forma repentina."
+  },
+  {
+    "pregunta": "¿Quién fue el primer virrey del Perú?",
+    "opciones": [
+      "Francisco Pizarro",
+      "José de la Serna",
+      "Blasco Núñez de Vela",
+      "Manuel Amat",
+      "Francisco de Toledo"
+    ],
+    "correcta": 2,
+    "resolucion": "Blasco Núñez de Vela fue nombrado el primer virrey tras la creación del Virreinato en 1542."
+  },
+  {
+    "pregunta": "¿Cuál era la función principal de la Real Audiencia?",
+    "opciones": [
+      "Cobrar tributos",
+      "Administrar justicia",
+      "Explorar territorios",
+      "Evangelizar indios",
+      "Organizar la armada"
+    ],
+    "correcta": 1,
+    "resolucion": "Era el tribunal de justicia encargado de resolver litigios civiles y penales en el territorio colonial."
+  },
+  {
+    "pregunta": "¿Quién preside una Audiencia Virreinal?",
+    "opciones": [
+      "El Rey",
+      "El Oidor",
+      "El Virrey",
+      "El Corregidor",
+      "El Alcalde"
+    ],
+    "correcta": 2,
+    "resolucion": "Las audiencias más importantes, como la de Lima, eran presididas directamente por la máxima autoridad colonial."
+  },
+  {
+    "pregunta": "¿Qué Audiencia dependía de un letrado y no de un virrey?",
+    "opciones": [
+      "Pretorial",
+      "Virreinal",
+      "Subordinada",
+      "Autónoma",
+      "Metropolitana"
+    ],
+    "correcta": 2,
+    "resolucion": "Las subordinadas (como Cusco) eran presididas por un letrado y dependían administrativamente de la capital."
+  },
+  {
+    "pregunta": "¿Para qué se crearon los Corregimientos?",
+    "opciones": [
+      "Ganar guerras",
+      "Frenar abusos de encomenderos",
+      "Exportar oro",
+      "Crear universidades",
+      "Viajar a España"
+    ],
+    "correcta": 1,
+    "resolucion": "Su objetivo teórico era proteger a los indígenas de los maltratos de los encomenderos, aunque en la práctica no se cumplió."
+  },
+  {
+    "pregunta": "¿Qué eran los Repartos Forzosos?",
+    "opciones": [
+      "Regalo de semillas",
+      "Venta obligatoria de mercancía",
+      "Distribución de medicinas",
+      "Herencia de tierras",
+      "Trabajo en las minas"
+    ],
+    "correcta": 1,
+    "resolucion": "Los corregidores obligaban a los indígenas a comprar productos inútiles a precios muy elevados para enriquecerse."
+  },
+  {
+    "pregunta": "¿Qué institución reemplazó a los Corregimientos?",
+    "opciones": [
+      "Cabildos",
+      "Intendencias",
+      "Cacicazgos",
+      "Audiencias",
+      "Consulados"
+    ],
+    "correcta": 1,
+    "resolucion": "Tras la rebelión de Túpac Amaru II, se eliminaron los corregimientos y se establecieron las intendencias para mejorar el orden."
+  },
+  {
+    "pregunta": "¿Cuántas Intendencias tuvo el Perú en 1810?",
+    "opciones": [
+      "Dos",
+      "Cinco",
+      "Ocho",
+      "Doce",
+      "Cuarenta"
+    ],
+    "correcta": 2,
+    "resolucion": "El territorio se dividió en 8: Lima, Trujillo, Arequipa, Huancavelica, Tarma, Huamanga, Puno y Cusco."
+  },
+  {
+    "pregunta": "¿Qué institución es similar a las municipalidades?",
+    "opciones": [
+      "Intendencia",
+      "Corregimiento",
+      "Cabildo",
+      "Audiencia",
+      "Curacazgo"
+    ],
+    "correcta": 2,
+    "resolucion": "Los Cabildos (Ayuntamientos) se encargaban de la limpieza, el orden y el ornato de las ciudades."
+  },
+  {
+    "pregunta": "¿Quién gestionaba beneficios para la ciudad ante el Rey?",
+    "opciones": [
+      "El Alcalde",
+      "El Alguacil",
+      "El Procurador",
+      "El Intendente",
+      "El Corregidor"
+    ],
+    "correcta": 2,
+    "resolucion": "El Procurador era el representante encargado de realizar gestiones y pedidos directos a la Corona en favor del cabildo."
+  },
+  {
+    "pregunta": "¿Cuál era el rol negativo del Curaca (Cacique)?",
+    "opciones": [
+      "Dictar leyes reales",
+      "Apoyar el reparto forzado",
+      "Gobernar España",
+      "Explorar el mar",
+      "Comerciar con piratas"
+    ],
+    "correcta": 1,
+    "resolucion": "Los curacas servían de nexo y ayudaban a los españoles en el cobro de tributos y la venta forzada de productos."
+  },
+  {
+    "pregunta": "¿Qué significa el \"Vice Patronato\" del Virrey?",
+    "opciones": [
+      "Cobrar diezmos",
+      "Nombrar cargos eclesiásticos",
+      "Ser jefe de la inquisición",
+      "Casar a los indios",
+      "Construir solo catedrales"
+    ],
+    "correcta": 1,
+    "resolucion": "Era la atribución del virrey para nombrar cargos inferiores de la iglesia en representación del Rey."
+  },
+  {
+    "pregunta": "¿Qué característica describe la búsqueda de riqueza mediante la acumulación de metales preciosos?",
+    "opciones": [
+      "Intervencionismo",
+      "Monopolio",
+      "Mercantilismo",
+      "Liberalismo",
+      "Industrialismo"
+    ],
+    "correcta": 2,
+    "resolucion": "El mercantilismo fue la base de la economía colonial, priorizando la obtención de oro y plata para la Corona."
+  },
+  {
+    "pregunta": "¿Cuál fue la actividad económica considerada como la \"más importante\"?",
+    "opciones": [
+      "Agricultura",
+      "Ganadería",
+      "Industria textil",
+      "Minería",
+      "Comercio"
+    ],
+    "correcta": 3,
+    "resolucion": "La minería fue el motor principal de la economía colonial, destacando centros como Potosí."
+  },
+  {
+    "pregunta": "¿Qué centro minero era famoso por la extracción de azogue (mercurio)?",
+    "opciones": [
+      "Potosí",
+      "Santa Bárbara",
+      "Castrovirreyna",
+      "Laycacota",
+      "Cerro de Pasco"
+    ],
+    "correcta": 1,
+    "resolucion": "Santa Bárbara, en Huancavelica, suministraba el mercurio necesario para purificar la plata."
+  },
+  {
+    "pregunta": "¿Cómo se llamaba la tenencia de tierra en las grandes haciendas coloniales?",
+    "opciones": [
+      "Colectiva",
+      "Estatal",
+      "Individual y privada",
+      "Comunal",
+      "Temporal"
+    ],
+    "correcta": 2,
+    "resolucion": "A diferencia del sistema inca, la agricultura colonial se basó en la propiedad privada de grandes extensiones de tierra."
+  },
+  {
+    "pregunta": "¿Qué actividad económica \"no prosperó\" en la colonia?",
+    "opciones": [
+      "Minería",
+      "Agricultura",
+      "Ganadería",
+      "Industria",
+      "Comercio"
+    ],
+    "correcta": 3,
+    "resolucion": "La industria fue limitada para no competir con los productos que venían de España."
+  },
+  {
+    "pregunta": "¿Qué producían los \"Obrajes\"?",
+    "opciones": [
+      "Herramientas de hierro",
+      "Ropa de tierra (bayetas)",
+      "Barcos de guerra",
+      "Muebles finos",
+      "Monedas de oro"
+    ],
+    "correcta": 1,
+    "resolucion": "Los obrajes eran centros textiles donde se fabricaban prendas sencillas destinadas principalmente a los indígenas."
+  },
+  {
+    "pregunta": "¿Cuál era la función principal de la moneda en la colonia?",
+    "opciones": [
+      "Adornar templos",
+      "Facilitar el proceso mercantil",
+      "Pagar a los esclavos",
+      "Comprar tierras en España",
+      "Medir la altura de los cerros"
+    ],
+    "correcta": 1,
+    "resolucion": "La moneda agilizaba el comercio y el pago de tributos, aunque inicialmente fue escasa."
+  },
+  {
+    "pregunta": "¿Qué impuesto se destinaba al sostenimiento de la Iglesia?",
+    "opciones": [
+      "Alcabala",
+      "Quinto Real",
+      "Diezmo",
+      "Averías",
+      "Almojarifazgo"
+    ],
+    "correcta": 2,
+    "resolucion": "El diezmo consistía en el pago del 10% de la producción para financiar las actividades eclesiásticas."
+  },
+  {
+    "pregunta": "¿Qué impuesto gravaba la compra y venta de bienes?",
+    "opciones": [
+      "Almojarifazgo",
+      "Alcabala",
+      "Media Anata",
+      "Quinto Real",
+      "Tributo"
+    ],
+    "correcta": 1,
+    "resolucion": "La Alcabala era el impuesto que se pagaba por las transacciones comerciales internas."
+  },
+  {
+    "pregunta": "¿Qué era el \"Quinto Real\"?",
+    "opciones": [
+      "Impuesto a las aduanas",
+      "Pago de los vasallos",
+      "20% de la producción minera",
+      "Sueldo de los virreyes",
+      "Impuesto por uso de puertos"
+    ],
+    "correcta": 2,
+    "resolucion": "Era el tributo obligatorio que se entregaba al Rey, equivalente a la quinta parte de los metales extraídos."
+  },
+  {
+    "pregunta": "¿En cuántos grupos se dividía la sociedad colonial \"en teoría\" en los primeros años de la colonia?",
+    "opciones": [
+      "Cinco",
+      "Tres",
+      "Dos",
+      "Diez",
+      "Siete"
+    ],
+    "correcta": 2,
+    "resolucion": "Teóricamente, la sociedad se dividía en dos grupos: la República de Españoles y la República de Indios."
+  },
+  {
+    "pregunta": "¿Cómo se llamaba a la mezcla entre un Español y un Negro?",
+    "opciones": [
+      "Mestizo",
+      "Zambo",
+      "Mulato",
+      "Cholo",
+      "Chino"
+    ],
+    "correcta": 2,
+    "resolucion": "El mulato era el resultado de la unión entre una persona blanca y una persona de raza negra."
+  },
+  {
+    "pregunta": "¿Qué resultado daba la mezcla entre un Zambo y un Indio?",
+    "opciones": [
+      "Chino",
+      "Cholo",
+      "Mulato",
+      "Mestizo",
+      "Salta atrás"
+    ],
+    "correcta": 0,
+    "resolucion": "La unión de zambo e indio producía el \"chino\"."
+  },
+  {
+    "pregunta": "¿Quiénes conformaban la \"Nobleza\" en la pirámide social de los blancos?",
+    "opciones": [
+      "Los que hacían trabajos manuales",
+      "Los que tenían títulos nobiliarios",
+      "Los profesionales sin fortuna",
+      "Los comerciantes de feria",
+      "Los artesanos urbanos"
+    ],
+    "correcta": 1,
+    "resolucion": "La nobleza estaba reservada para aquellos con linaje y títulos reconocidos por la Corona."
+  },
+  {
+    "pregunta": "¿Cuál era la situación de los indígenas \"en la práctica\"?",
+    "opciones": [
+      "Eran los más ricos",
+      "Eran los más explotados",
+      "No trabajaban en minas",
+      "Eran esclavos en haciendas",
+      "Gobernaban las audiencias"
+    ],
+    "correcta": 1,
+    "resolucion": "Aunque legalmente eran \"hombres libres\", en la realidad sufrían la mayor explotación en minas y obrajes."
+  },
+  {
+    "pregunta": "¿Cuál es una característica de la Educación Colonial?",
+    "opciones": [
+      "Gratuita",
+      "Laica",
+      "Memorista",
+      "Para todos",
+      "Experimental"
+    ],
+    "correcta": 2,
+    "resolucion": "La educación era dogmática, elitista y basada principalmente en la memoria."
+  },
+  {
+    "pregunta": "¿A qué nivel pertenecían los \"Colegios Mayores\"?",
+    "opciones": [
+      "Primaria",
+      "Secundaria",
+      "Superior",
+      "Inicial",
+      "Técnico"
+    ],
+    "correcta": 1,
+    "resolucion": "Los colegios mayores se encargaban de la enseñanza secundaria (Teología, Filosofía y Leyes)."
+  },
+  {
+    "pregunta": "¿Cómo se llamaba el colegio de caciques en el Cusco?",
+    "opciones": [
+      "El Príncipe",
+      "San Bernardo",
+      "San Francisco de Borja",
+      "San Felipe",
+      "San Pablo"
+    ],
+    "correcta": 2,
+    "resolucion": "En el Cusco se educaba a los hijos de los curacas en el colegio San Francisco de Borja."
+  },
+  {
+    "pregunta": "¿Quién fundó la Universidad de San Marcos en Lima?",
+    "opciones": [
+      "Antonio de la Raya",
+      "El Rey Carlos V",
+      "Manuel de Mollinedo",
+      "Juan Cárdenas",
+      "San Francisco de Borja"
+    ],
+    "correcta": 1,
+    "resolucion": "Fue fundada por Real Cédula del Rey Carlos V, siendo la más antigua de América."
+  },
+  {
+    "pregunta": "¿Qué grados otorgaba la Universidad UNSAAC del Cusco?",
+    "opciones": [
+      "Medicina y Derecho",
+      "Ingeniería y Artes",
+      "Filosofía y Sagrada Teología",
+      "Ciencias y Letras",
+      "Minería y Comercio"
+    ],
+    "correcta": 2,
+    "resolucion": "La universidad cusqueña se centraba en estas dos áreas del conocimiento académico colonial."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "11.1 Parte 1",
+          "youtube_id": "aFX9fOwN-SI",
+          "pdf_link": "https://drive.google.com/file/d/1rWk58GkWx7xBDvG2EwF68a6XjE-2M6T3/view",
+          "gratis": true
+        },
+        {
+          "titulo": "11.2 Parte P2",
+          "youtube_id": "idp7gP2n4so",
+          "pdf_link": "https://drive.google.com/file/d/1rWk58GkWx7xBDvG2EwF68a6XjE-2M6T3/view",
+          "gratis": false
+        }
+      ]
     }
   ]
 }
