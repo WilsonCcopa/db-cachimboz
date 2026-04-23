@@ -2078,6 +2078,1182 @@
           ]
         }
       ]
+    },
+    {
+      "titulo": "Tema 6: Gnoseología (El Conocimiento)",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "6.1 Problema del conocimiento",
+          "youtube_id": "1N_nxmRpRuo",
+          "pdf_link": "https://drive.google.com/file/d/1vyNyngZyoRxP94V3PSCniK_MzZXkdmGa/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Etimológicamente, gnoseología proviene de dos voces griegas, 'gnosis' y 'logos', que en conjunto se traducen como:",
+    "opciones": ["Amor a la sabiduría", "Teoría o tratado del conocimiento", "Estudio de los valores", "Tratado de la ciencia", "Tratado del ser"],
+    "correcta": 1,
+    "resolucion": "Etimológicamente, gnoseología proviene de Gnosis (conocimiento) y Logos (teoría, tratado, estudio), traduciéndose por Teoría del conocimiento."
+  },
+  {
+    "pregunta": "Según el texto, ¿qué disciplina filosófica asume una actitud crítica y problemática acerca del origen, esencia y verdad del conocimiento?",
+    "opciones": ["Epistemología", "Ontología", "Gnoseología", "Axiología", "Ética"],
+    "correcta": 2,
+    "resolucion": "Es la disciplina filosófica que asume una actitud crítica y problemática acerca del conocimiento y sus problemas referidos a su origen, posibilidad, esencia, verdad y validez."
+  },
+  {
+    "pregunta": "El conocimiento se define conceptualmente en la lectura como la aprehensión y asimilación de:",
+    "opciones": ["Lo real", "La mente", "El concepto puro", "La razón", "Los juicios lógicos"],
+    "correcta": 0,
+    "resolucion": "El texto señala explícitamente: 'Conocimiento es, pues, aprehensión, asimilación de lo real'."
+  },
+  {
+    "pregunta": "En el proceso del conocimiento, ¿qué sucede con 'lo real', considerado como un complejo infinito en flujo permanente?",
+    "opciones": ["Es destruido y olvidado", "Es idealmente estatizado e inmovilizado", "Es devuelto a los sentidos", "Es ignorado por la razón", "Es reproducido materialmente"],
+    "correcta": 1,
+    "resolucion": "En el proceso del conocimiento, lo real es fragmentado en sus elementos e idealmente estatizado, inmovilizado,."
+  },
+  {
+    "pregunta": "¿Cómo se define al 'concepto' en la lectura?",
+    "opciones": ["Como la representación empírica de lo desconocido", "Como el reflejo sensorial de las cosas", "Como la significación mental o ideal de las cosas en sus elementos fundamentales", "Como la suma de percepciones accesorias", "Como el mundo material circundante"],
+    "correcta": 2,
+    "resolucion": "El concepto es la significación mental o ideal de las cosas en sus elementos fundamentales."
+  },
+  {
+    "pregunta": "El proceso del conocimiento es catalogado por el autor como un proceso:",
+    "opciones": ["Exclusivamente biológico", "Estrictamente divino", "Puramente metafísico", "Fisio-psicológico", "Lógico-matemático puro"],
+    "correcta": 3,
+    "resolucion": "El proceso del conocimiento es un proceso fisio-psicológico que realizamos en cuanto somos sujetos conscientes."
+  },
+  {
+    "pregunta": "El proceso de la cognición humana empieza fundamentalmente con:",
+    "opciones": ["Los conceptos", "Los juicios", "Las sensaciones", "El raciocinio", "La intuición intelectual"],
+    "correcta": 2,
+    "resolucion": "El proceso de la cognición empieza con las sensaciones, que constituyen el reflejo de las características del mundo material."
+  },
+  {
+    "pregunta": "Cuando los objetos y los fenómenos se reflejan 'en conjunto' en el momento en que actúan sobre nuestros órganos sensoriales, nos referimos a:",
+    "opciones": ["La representación", "La percepción", "La deducción", "El juicio", "La abstracción"],
+    "correcta": 1,
+    "resolucion": "En la percepción, los objetos y los fenómenos se reflejan en conjunto en el momento en que actúan sobre nuestros sentidos."
+  },
+  {
+    "pregunta": "Las imágenes de los objetos anteriormente percibidos que surgen en nuestra memoria se denominan:",
+    "opciones": ["Fantasías", "Abstracciones", "Representaciones", "Conceptos", "Juicios lógicos"],
+    "correcta": 2,
+    "resolucion": "Cuando recordamos, surgen en nuestra memoria las imágenes de objetos percibidos anteriormente, denominadas representaciones."
+  },
+  {
+    "pregunta": "El grado sensorial del conocimiento está constituido en su totalidad por:",
+    "opciones": ["Conceptos, juicios y raciocinios", "Las sensaciones, percepciones y representaciones", "La deducción y la inducción", "La experiencia externa e interna", "El sujeto cognoscente y el objeto"],
+    "correcta": 1,
+    "resolucion": "Las sensaciones, las percepciones y las representaciones constituyen el grado sensorial del conocimiento."
+  },
+  {
+    "pregunta": "¿Qué limitación principal tiene el grado de conocimiento sensorial según el texto?",
+    "opciones": ["Nos impide recordar lo percibido", "Sólo usa el pensamiento lógico", "No nos permite descubrir relaciones necesarias sujetas a leyes", "Nos vuelve dogmáticos", "Se basa exclusivamente en la razón"],
+    "correcta": 2,
+    "resolucion": "De ahí que en el grado del conocimiento sensorial no nos sea posible descubrir entre los objetos y los fenómenos relaciones necesarias, sujetas a determinadas leyes."
+  },
+  {
+    "pregunta": "Al pasar de reflejar la realidad de manera inmediata y por imágenes a reflejarla por medio del pensamiento racional, se entra al:",
+    "opciones": ["Grado intuitivo", "Grado sensorial empírico", "Grado lógico (o racional) del conocimiento", "Grado metafísico", "Grado axiológico"],
+    "correcta": 2,
+    "resolucion": "En el proceso de la cognición pasamos de reflejar la realidad por imágenes, a reflejarla por medio del pensamiento racional; pasamos al grado lógico (o racional) del conocimiento."
+  },
+  {
+    "pregunta": "Respecto al proceso racional, el texto afirma que el acto de formular juicios es:",
+    "opciones": ["Una ilusión", "Inherente al ser humano", "Exclusivo de los filósofos", "Parte del grado sensorial", "Imposible de comprobar"],
+    "correcta": 1,
+    "resolucion": "El texto establece de forma categórica que el acto de formular juicios es inherente al ser humano."
+  },
+  {
+    "pregunta": "La aclaración y fundamentación de lo verdadero o falso en los pensamientos se realiza a través de:",
+    "opciones": ["La meditación profunda", "El debate retórico", "La actividad práctica del hombre y su trabajo", "La observación pasiva", "La intuición divina"],
+    "correcta": 2,
+    "resolucion": "La fundamentación de lo verdadero o falso en los pensamientos se realiza a través de la actividad práctica del hombre, a través de su trabajo,."
+  },
+  {
+    "pregunta": "La capacidad del pensamiento para juzgar acerca de hechos que no son objeto de percepción directa corresponde a la cognición:",
+    "opciones": ["Mediata", "Inmediata", "Sensorial", "Mística", "A priori"],
+    "correcta": 0,
+    "resolucion": "El pensamiento se caracteriza por la capacidad de cognición mediata de la realidad, permitiendo juzgar hechos no percibidos inmediatamente mediante su relación con otros."
+  },
+  {
+    "pregunta": "El pensamiento se halla inseparablemente unido al:",
+    "opciones": ["Mundo interior puramente subjetivo", "Lenguaje", "Instinto biológico", "Mito popular", "Dogma religioso"],
+    "correcta": 1,
+    "resolucion": "El pensamiento se halla inseparablemente unido al lenguaje, que es requisito para su formación y medio de expresión,."
+  },
+  {
+    "pregunta": "¿Cuáles son los dos elementos fundamentales que requiere la estructura del acto cognitivo?",
+    "opciones": ["Concepto y representación", "Sujeto cognoscente y objeto de conocimiento", "Percepción y sensación", "El lenguaje y el pensamiento", "La teoría y la práctica empírica"],
+    "correcta": 1,
+    "resolucion": "El proceso o acto cognitivo requiere de dos elementos fundamentales: el sujeto cognoscente y el objeto de conocimiento."
+  },
+  {
+    "pregunta": "El sujeto cognoscente se define en el texto como el sujeto consciente que posee:",
+    "opciones": ["Memoria e imaginación infinitas", "Voluntad y deseo instintivo", "Experiencia y razón", "Conciencia e inconsciencia", "Sensación y representación aislada"],
+    "correcta": 2,
+    "resolucion": "El sujeto cognoscente es el sujeto consciente que posee experiencia y razón."
+  },
+  {
+    "pregunta": "¿Qué facultad del sujeto hace posible captar al objeto de conocimiento en sus elementos esenciales y necesarios?",
+    "opciones": ["El lenguaje articulado", "La memoria fotográfica", "La razón o raciocinio", "La representación mental", "El órgano sensorial"],
+    "correcta": 2,
+    "resolucion": "La razón o raciocinio en tanto hace posible captar al objeto en sus elementos esenciales y necesarios,."
+  },
+  {
+    "pregunta": "Los objetos de conocimiento que son captados a través del intelecto humano se denominan:",
+    "opciones": ["Reales o fácticos", "Ideales, formales o estructurales", "Materiales y tangibles", "Fenoménicos o accidentales", "Accesorios temporales"],
+    "correcta": 1,
+    "resolucion": "El objeto de conocimiento puede ser real o Ideales, formales o estructurales (captadas a través del intelecto)."
+  }
+          ]
+        },
+        {
+          "titulo": "6.2 Clases de Conocimiento y la Verdad",
+          "youtube_id": "r4xJCAi7kf0",
+          "pdf_link": "https://drive.google.com/file/d/1TqJV0Nx8QxwOTWVOxHwLy3YphMjOhqF-/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "El conocimiento que se adquiere por medio de los sentidos y por las sensaciones experimentadas en contacto directo con el objeto se denomina:",
+    "opciones": ["Conocimiento racional", "Conocimiento sensorial (empírico)", "Conocimiento dogmático", "Conocimiento deductivo", "Conocimiento pragmático"],
+    "correcta": 1,
+    "resolucion": "El conocimiento sensorial (empírico) lo adquirimos por medio de los sentidos y por las sensaciones que experimentamos, en contacto directo con el objeto."
+  },
+  {
+    "pregunta": "¿Cómo se define la 'sensación' dentro del proceso del conocimiento sensorial?",
+    "opciones": ["Como la evocación de un recuerdo", "Como una afirmación lógica", "Como la respuesta del organismo a la acción de un estímulo", "Como el agrupamiento de ideas", "Como una inferencia mental"],
+    "correcta": 2,
+    "resolucion": "La sensación es la respuesta del organismo a la acción de un estímulo."
+  },
+  {
+    "pregunta": "La captación integradora que se forma en base a grupos de sensaciones generadas en los analizadores de los centros nerviosos del cerebro es la:",
+    "opciones": ["Teoría", "Hipótesis", "Representación", "Percepción", "Razón"],
+    "correcta": 3,
+    "resolucion": "La percepción se forma en base a grupos de sensaciones (captación integradora) que se generan en los analizadores ubicados en los centros nerviosos del cerebro."
+  },
+  {
+    "pregunta": "En el conocimiento sensorial, la 'representación' corresponde a:",
+    "opciones": ["La respuesta a un estímulo externo", "La evocación de percepciones anteriores", "El acto mental de negar un contenido", "La comprobación en la praxis", "La inferencia de objetos ideales"],
+    "correcta": 1,
+    "resolucion": "La representación corresponde a la evocación de percepciones anteriores."
+  },
+  {
+    "pregunta": "¿Qué tipo de conocimiento se caracteriza por ser adquirido mediante la razón, la deducción y la inferencia?",
+    "opciones": ["Conocimiento intuitivo", "Conocimiento místico", "Conocimiento sensorial", "Conocimiento lógico (racional)", "Conocimiento empírico"],
+    "correcta": 3,
+    "resolucion": "El conocimiento lógico (racional) es aquel conocimiento que se adquiere por medio de la razón, es el conocimiento que se deduce, que se infiere."
+  },
+  {
+    "pregunta": "Según el texto, ¿cuáles son los objetos conocidos típicos del conocimiento lógico (racional)?",
+    "opciones": ["Los objetos materiales", "Los estímulos físicos", "Los objetos ideales como los números", "Las sensaciones", "Los hechos históricos"],
+    "correcta": 2,
+    "resolucion": "Sus objetos conocidos son objetos ideales como los números."
+  },
+  {
+    "pregunta": "El elemento material lógico que consiste en la idea que se tiene sobre un determinado objeto de la realidad se conoce como:",
+    "opciones": ["Razonamiento", "Concepto", "Juicio", "Percepción", "Hipótesis"],
+    "correcta": 1,
+    "resolucion": "El concepto es un elemento material lógico, es la idea que se tiene sobre un determinado objeto de la realidad."
+  },
+  {
+    "pregunta": "¿Qué es el 'juicio' dentro de la estructura del conocimiento lógico?",
+    "opciones": ["Un supuesto sin comprobar", "El conocimiento al más alto nivel", "El acto mental de negar o afirmar un contenido", "La suma de representaciones", "La respuesta biológica a un estímulo"],
+    "correcta": 2,
+    "resolucion": "El juicio es el acto mental de negar o afirmar un contenido, y constituye la estructura lógica fundamental."
+  },
+  {
+    "pregunta": "Las operaciones mentales de carácter discursivo que cuentan con premisas y conclusiones se definen como:",
+    "opciones": ["Conceptos", "Razonamiento", "Hipótesis", "Teorías", "Sensaciones"],
+    "correcta": 1,
+    "resolucion": "El razonamiento comprende operaciones mentales de carácter discursivo que tiene premisas y conclusiones."
+  },
+  {
+    "pregunta": "En el contexto del conocimiento lógico, el 'supuesto de algo' recibe el nombre de:",
+    "opciones": ["Juicio", "Verdad", "Representación", "Hipótesis", "Percepción"],
+    "correcta": 3,
+    "resolucion": "La hipótesis es el supuesto de algo."
+  },
+  {
+    "pregunta": "¿Cómo se define a la 'Teoría' según el material proporcionado?",
+    "opciones": ["Como una creencia injustificada", "Como un conocimiento empírico sin comprobar", "Como el conocimiento al más alto nivel, que es comprobado y corroborado en la práctica", "Como una operación discursiva", "Como un conjunto de sensaciones"],
+    "correcta": 2,
+    "resolucion": "La teoría es el conocimiento al más alto nivel, que es comprobado es corroborado en la práctica."
+  },
+  {
+    "pregunta": "Etimológicamente, el vocablo griego 'Aletheia', utilizado para referirse a la verdad, significa:",
+    "opciones": ["Aquello que no está oculto", "Lo que es útil para el hombre", "La correspondencia material", "La adecuación mental", "La sabiduría absoluta"],
+    "correcta": 0,
+    "resolucion": "La palabra Verdad proviene del vocablo griego Aletheia (a: sin, letho: cubierto), que significa: Aquello que no está oculto."
+  },
+  {
+    "pregunta": "El problema de la verdad se relaciona principalmente con la pregunta fundamental de:",
+    "opciones": ["Cómo surgen los conceptos ideales", "Cómo podemos determinar qué afirmaciones son verdaderas y cuáles son falsas", "Dónde se origina el universo material", "Cómo funciona el cerebro humano", "Cuál es el origen de las percepciones"],
+    "correcta": 1,
+    "resolucion": "El problema de la verdad se relaciona con la pregunta fundamental de cómo podemos determinar qué afirmaciones son verdaderas y cuáles son falsas."
+  },
+  {
+    "pregunta": "¿Qué dimensión del problema de la verdad se enfoca en cuestionar si esta es un elemento objetivo y absoluto o algo relativo y subjetivo?",
+    "opciones": ["Criterios de Verdad", "Teoría Pragmática", "Naturaleza de la Verdad", "Sensación", "Correspondencia"],
+    "correcta": 2,
+    "resolucion": "La 'Naturaleza de la Verdad' aborda preguntas como si la verdad es algo objetivo y absoluto, o es relativa y subjetiva."
+  },
+  {
+    "pregunta": "La pregunta '¿Existen criterios objetivos y universales para evaluar la verdad, o depende de factores subjetivos?' pertenece a la dimensión de:",
+    "opciones": ["La correspondencia lógica", "Los Criterios de Verdad", "La esencia de las cosas", "El razonamiento lógico", "La teoría de los números"],
+    "correcta": 1,
+    "resolucion": "Pertenece a la dimensión 'Criterios de Verdad', que busca saber cómo determinamos si una afirmación es verdadera o falsa."
+  },
+  {
+    "pregunta": "Los primeros planteamientos de la 'Teoría de la Correspondencia' sobre la verdad se encuentran en el pensamiento de:",
+    "opciones": ["William James", "John Dewey", "Aristóteles", "Tomás de Aquino", "Charles Peirce"],
+    "correcta": 2,
+    "resolucion": "La Teoría de la Correspondencia tiene sus primeros planteamientos en Aristóteles."
+  },
+  {
+    "pregunta": "Según la Teoría de la Correspondencia, la verdad es la concordancia que existe entre:",
+    "opciones": ["La utilidad y el éxito", "La proposición y la realidad", "Las sensaciones y las percepciones", "El juicio y el razonamiento", "Las premisas y las conclusiones"],
+    "correcta": 1,
+    "resolucion": "En la Correspondencia, la verdad no es más que la concordancia que existe entre la proposición y la realidad."
+  },
+  {
+    "pregunta": "¿Bajo qué concepto expresaron Tomás de Aquino y los filósofos medievales a la Teoría de la Correspondencia?",
+    "opciones": ["La aplicación satisfactoria en la praxis", "La utilidad práctica del conocimiento", "La suma de representaciones sensoriales", "La adecuación entre el entendimiento y la cosa", "La verdad sin ocultamiento (Aletheia)"],
+    "correcta": 3,
+    "resolucion": "Tomás de Aquino y los filósofos medievales lo expresaron bajo el concepto de 'adecuación entre el entendimiento y la cosa'."
+  },
+  {
+    "pregunta": "¿Qué teoría sostiene que un juicio es verdadero si es comprobado en la praxis, en la acción social y tiene una aplicación satisfactoria en la realidad?",
+    "opciones": ["Teoría Pragmática", "Teoría de la Correspondencia", "Teoría de la Aletheia", "Teoría Racionalista", "Teoría Empírica"],
+    "correcta": 0,
+    "resolucion": "La Teoría Pragmática afirma que la verdad viene dada por su aplicación satisfactoria en la realidad y se comprueba en la praxis."
+  },
+  {
+    "pregunta": "Filósofos como William James y Charles Peirce abordaron la verdad determinando que una afirmación es verdadera si:",
+    "opciones": ["Refleja un objeto matemático", "Concuerda estáticamente con la naturaleza", "Funciona bien en la práctica y conduce a resultados exitosos", "Ha sido revelada dogmáticamente", "Proviene de un estímulo puro"],
+    "correcta": 2,
+    "resolucion": "Desde una perspectiva pragmática, si una afirmación funciona bien en la práctica y conduce a resultados exitosos, entonces se considera verdadera."
+  }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 7: Corrientes del Conocimiento",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "7.1 Esencia del conocimiento",
+          "youtube_id": "LFLySb6mrt4",
+          "pdf_link": "https://drive.google.com/file/d/1FV_77zr0ti0z7aXvI4uAtbprLzpOmog6/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "El problema filosófico de la 'Esencia del conocimiento' responde fundamentalmente a la pregunta:",
+    "opciones": ["¿Es posible el conocimiento verdadero?", "¿Cuál es el origen de nuestras ideas?", "¿La esencia del conocimiento está en el sujeto o en el objeto?", "¿Cuáles son los tipos de conocimiento?", "¿Cómo se comprueba la verdad absoluta?"],
+    "correcta": 2,
+    "resolucion": "El texto inicia señalando que la esencia del conocimiento responde a la pregunta: ¿la esencia del conocimiento está en el sujeto o en el objeto?"
+  },
+  {
+    "pregunta": "El sistema filosófico que considera que lo real es de naturaleza mental y que el acto de conocimiento aprehende ideas, jamás objetos reales independientes, se denomina:",
+    "opciones": ["Materialismo", "Fenomenalismo", "Idealismo", "Realismo ingenuo", "Agnosticismo"],
+    "correcta": 2,
+    "resolucion": "Es idealista todo sistema filosófico en el que lo real es considerado como de naturaleza mental y sostiene que el acto del conocimiento aprehende ideas y jamás los objetos."
+  },
+  {
+    "pregunta": "¿A qué representante del idealismo subjetivo corresponde la afirmación central 'el ser de las cosas están ser percibidas'?",
+    "opciones": ["Platón", "Hegel", "Kant", "Berkeley", "Feuerbach"],
+    "correcta": 3,
+    "resolucion": "El aforismo de Berkeley 'el ser de las cosas están ser percibidas', sintetiza su concepción: las cosas existen porque se las percibe."
+  },
+  {
+    "pregunta": "Según el idealismo subjetivo de Berkeley, ¿cuál es la relación entre el objeto, la idea y la sensación?",
+    "opciones": ["Son elementos complementarios pero distintos", "Las identifica como una sola y misma cosa", "La sensación engaña a la idea del objeto", "El objeto crea materialmente a la sensación", "La idea es un producto tardío de la evolución biológica"],
+    "correcta": 1,
+    "resolucion": "Berkeley insiste siempre en su concepción central: La sensación, la idea y el objeto son una sola y misma cosa; los identifica."
+  },
+  {
+    "pregunta": "Para Platón, representante del idealismo objetivo, la realidad perenne es:",
+    "opciones": ["La percepción empírica del sujeto", "La materia física en movimiento", "El fenómeno condicionado", "La idea que se realiza o actualiza en la forma", "El reflejo mecánico en la conciencia"],
+    "correcta": 3,
+    "resolucion": "Desde el idealismo de Platón... para quien la realidad perenne es la idea que se realiza o actualiza en la forma."
+  },
+  {
+    "pregunta": "En el idealismo absoluto e irreductible de Hegel, se afirma que:",
+    "opciones": ["La realidad material es la única existente", "La idea, que a la vez es espíritu, engendra la realidad por degradación sucesiva", "Es imposible conocer cualquier realidad absoluta", "La materia crea la conciencia humana", "El conocimiento humano se limita únicamente al fenómeno"],
+    "correcta": 1,
+    "resolucion": "Hegel afirma que la idea, que es a la vez espíritu, por degradación sucesiva engendra la realidad y que esta realidad tiene un carácter racional y necesario."
+  },
+  {
+    "pregunta": "A pesar de las diferencias formales, el idealismo subjetivo (Berkeley) y el idealismo objetivo (Hegel) comparten un núcleo común. ¿Cuál es?",
+    "opciones": ["Consideran que la materia determina al espíritu", "Consideran que lo real es de naturaleza espiritual o mental", "Rechazan la existencia de ideas innatas", "Afirman la incognoscibilidad absoluta del universo", "Basan todo el saber en la experiencia sensorial"],
+    "correcta": 1,
+    "resolucion": "La distinción entre ambos no tiene importancia en tanto ese nexo común consiste en considerar lo real como de naturaleza espiritual o mental."
+  },
+  {
+    "pregunta": "¿Qué postura filosófica acepta la existencia de la realidad exterior a nosotros como fuente de conocimiento independiente de nuestro yo?",
+    "opciones": ["El Idealismo absoluto", "El Idealismo subjetivo", "El Materialismo filosófico", "El Fenomenalismo kantiano", "El Solipsismo"],
+    "correcta": 2,
+    "resolucion": "El materialismo filosófico acepta la existencia de la realidad exterior a nosotros... que existen como fuente de conocimiento independientemente de nuestro yo."
+  },
+  {
+    "pregunta": "En el marco del materialismo, Feuerbach invierte la relación idealista hegeliana al establecer claramente que:",
+    "opciones": ["El pensamiento condiciona al ser", "El ser condiciona el pensamiento y no inversamente", "El espíritu absoluto determina la historia", "La idea engendra a la naturaleza", "El conocimiento no depende del ser ni del pensar"],
+    "correcta": 1,
+    "resolucion": "Como Feuerbach lo estableció claramente, que el ser condiciona el pensamiento, y no inversamente, como lo afirman las escuelas idealistas."
+  },
+  {
+    "pregunta": "Para el materialismo mecanicista de Feuerbach, ¿cuál es la fuente u origen del que provienen los pensamientos y las cosas?",
+    "opciones": ["La conciencia abstracta", "La idea universal", "El mundo de las cavernas", "La naturaleza y no la conciencia", "Las formas 'a priori' del intelecto"],
+    "correcta": 3,
+    "resolucion": "Para Feuerbach el ser del que provienen los pensamientos y las cosas es la naturaleza y no la conciencia."
+  },
+  {
+    "pregunta": "Respecto al proceso de conocer, Feuerbach sostiene que los sentidos:",
+    "opciones": ["Proporcionan la solución definitiva y acabada", "Nos presentan un problema, y la solución la da el pensamiento", "Son un obstáculo inútil para la razón", "Reflejan el mundo espiritual puro", "No tienen utilidad en la ciencia"],
+    "correcta": 1,
+    "resolucion": "Para Feuerbach 'existe solamente lo que es o puede ser objeto de los sentidos'; los sentidos nos presentan un problema no la solución, ésta la da el pensamiento."
+  },
+  {
+    "pregunta": "¿En qué consiste el error del 'materialismo ingenuo' al concebir la realidad como el reflejo en un espejo?",
+    "opciones": ["Asumir que el mundo exterior es una ilusión mental", "Creer que la verdad solo se obtiene por intuición mística", "Prescindir de todo nuestro mecanismo o estructura perceptiva", "Separar absolutamente la esencia y el fenómeno", "Rechazar que el ser exista independientemente de la conciencia"],
+    "correcta": 2,
+    "resolucion": "El error consiste en prescindir de todo nuestro mecanismo o estructura perceptiva. La imagen representativa no es una simple copia fiel estática."
+  },
+  {
+    "pregunta": "Según la crítica al materialismo ingenuo planteada en el texto, la 'sensación' no está fuera de nosotros, sino que es:",
+    "opciones": ["Un fenómeno estrictamente subjetivo condicionado por una excitación específica", "Una copia exacta y material del objeto", "Una categoría a priori del entendimiento", "La 'cosa en sí' inalcanzable", "Un fenómeno místico irracional"],
+    "correcta": 0,
+    "resolucion": "La sensación es un fenómeno estrictamente subjetivo, condicionado por una excitación específica sobre una estructura que percibe ciertas vibraciones."
+  },
+  {
+    "pregunta": "De acuerdo con el texto, ¿cuál es la relación correcta entre el objeto y su imagen representativa?",
+    "opciones": ["Hay identidad absoluta", "No existe relación alguna", "La imagen es el objeto mismo", "Hay correspondencia entre el objeto y su imagen, pero no hay identidad", "La imagen crea al objeto en el momento de percibirlo"],
+    "correcta": 3,
+    "resolucion": "Hay correspondencia entre el objeto y su imagen, pero no hay identidad."
+  },
+  {
+    "pregunta": "Para el materialismo dialéctico, la esencia (el aspecto interno) de un objeto sólo puede manifestarse a través de:",
+    "opciones": ["La contemplación divina", "Las formas a priori", "La idea absoluta", "El aspecto externo (el fenómeno)", "La ignorancia humana"],
+    "correcta": 3,
+    "resolucion": "El aspecto interno (la esencia) no puede manifestarse sino a través del aspecto externo (el fenómeno)."
+  },
+  {
+    "pregunta": "Según el materialismo dialéctico, ¿qué hecho justifica la necesidad del proceso mismo del conocimiento científico?",
+    "opciones": ["La incapacidad biológica del cerebro", "La falta de coincidencia plena entre la esencia y el fenómeno al manifestarse", "El mandato religioso del hombre", "La ilusión de los sentidos", "La separación del cuerpo y del alma"],
+    "correcta": 1,
+    "resolucion": "Los dos aspectos no coinciden nunca plenamente en el modo de manifestarse, y es precisamente esta falta de coincidencia lo que hace necesario el proceso mismo del conocimiento científico."
+  },
+  {
+    "pregunta": "En el materialismo dialéctico, ¿cómo avanza el conocimiento en el ser humano?",
+    "opciones": ["De la esencia oculta hacia el fenómeno inmediato", "De la revelación interna hacia el mundo exterior", "Del conocimiento del fenómeno al de la esencia; de lo inmediato a lo mediato", "Del mundo de las ideas al mundo de las sombras", "Del conocimiento de Dios al conocimiento del cosmos"],
+    "correcta": 2,
+    "resolucion": "Es así como el hombre avanza del conocimiento del fenómeno al de la esencia; del conocimiento de lo inmediato, de lo externo, al de lo mediato e interno."
+  },
+  {
+    "pregunta": "¿Qué filósofo separaba radicalmente el fenómeno de la esencia ('cosa en sí'), afirmando que esta última se halla más allá de los límites de nuestro entendimiento?",
+    "opciones": ["Hegel", "Feuerbach", "Berkeley", "Kant", "Platón"],
+    "correcta": 3,
+    "resolucion": "El fenomenalismo de Kant separaba el fenómeno de la esencia. La esencia ('cosa en sí') es... algo que se halla más allá de los límites de nuestro entendimiento."
+  },
+  {
+    "pregunta": "Según el fenomenalismo kantiano, ¿cómo nos son asequibles los fenómenos?",
+    "opciones": ["Exclusivamente por la experiencia mística", "A través del materialismo mecanicista", "Por la vía de las sensaciones, ordenadas por las formas 'a priori' del entendimiento", "Comprendiendo la esencia real material", "Por la dialéctica de la lucha de clases"],
+    "correcta": 2,
+    "resolucion": "Los fenómenos nos son asequibles por la vía de las sensaciones, ordenadas por medio de las formas 'a priori' del entendimiento."
+  },
+  {
+    "pregunta": "En el fenomenalismo kantiano existe un divorcio absoluto entre el contenido y la forma del pensamiento. Según el texto, ¿qué pretendió lograr Kant con esto?",
+    "opciones": ["Fundar el materialismo científico", "Poner límites a la ciencia en aras de la religión", "Unir la materia y la idea universal", "Demostrar que el hombre es un ser puramente natural", "Respaldar el pensamiento hegeliano"],
+    "correcta": 1,
+    "resolucion": "En la filosofía de Kant, existe un divorcio absoluto entre el contenido y la forma del pensamiento. De este modo pretende poner límites a la ciencia en aras de la religión."
+  }
+          ]
+        },
+        {
+          "titulo": "7.2 Posibilidades y corrientes del conocimiento",
+          "youtube_id": "F9748nYcGFc",
+          "pdf_link": "https://drive.google.com/file/d/1h5JgYKn5rtaUx9ceKn0Lfp6KHO3rMBwO/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "La corriente extrema que admite la posibilidad del conocimiento de modo invariable sin comprobar ni demostrar es el:",
+    "opciones": ["Agnosticismo", "Escepticismo", "Dogmatismo", "Empirismo", "Racionalismo"],
+    "correcta": 2,
+    "resolucion": "El dogmatismo es la corriente extrema que admite la posibilidad del conocimiento de modo invariable sin comprobar ni demostrar."
+  },
+  {
+    "pregunta": "¿Qué tipo de dogmatismo se caracteriza por no basarse en reflexión alguna y tener una afirmación anticipada, totalmente válida y sin análisis racional?",
+    "opciones": ["Filosófico", "Religioso", "Ingenuo", "Absoluto", "Relativo"],
+    "correcta": 2,
+    "resolucion": "El dogmatismo ingenuo no se basa en reflexión alguna; su afirmación es anticipada, totalmente válida y sin análisis racional."
+  },
+  {
+    "pregunta": "El dogmatismo religioso establece que sus afirmaciones u obligaciones se basan principalmente en:",
+    "opciones": ["La razón y la lógica", "La duda metódica", "La experiencia sensible", "La fe y en la autoridad suprema", "La contrastación empírica"],
+    "correcta": 3,
+    "resolucion": "El dogmatismo religioso establece que sus obligaciones se basan en la fe y en la autoridad suprema."
+  },
+  {
+    "pregunta": "La doctrina que niega la posibilidad de conocer la 'cosa en sí' o esencia (nóumeno), pero acepta el conocimiento de los fenómenos, se denomina:",
+    "opciones": ["Dogmatismo", "Agnosticismo", "Criticismo", "Racionalismo", "Escepticismo"],
+    "correcta": 1,
+    "resolucion": "El agnosticismo niega la posibilidad de la 'cosa en sí' (nóumeno), pero acepta el conocimiento de los fenómenos o apariencias."
+  },
+  {
+    "pregunta": "¿Quién es considerado el fundador del escepticismo, afirmando que nuestros juicios sobre la realidad son convenciones y recomendando la abstención de todo juicio?",
+    "opciones": ["Aristóteles", "Parménides", "Platón", "Pirrón de Ellis", "John Locke"],
+    "correcta": 3,
+    "resolucion": "Pirrón de Elis, como fundador del escepticismo, recomendaba la abstención de todo juicio, pues afirmaba que nuestros juicios son convenciones."
+  },
+  {
+    "pregunta": "¿Qué forma de escepticismo niega el conocimiento de lo general o absoluto, pero acepta el conocimiento de lo particular e individual según la época y el lugar?",
+    "opciones": ["Escepticismo absoluto", "Escepticismo relativo", "Dogmatismo ingenuo", "Racionalismo deductivo", "Empirismo sensualista"],
+    "correcta": 1,
+    "resolucion": "El escepticismo relativo niega el conocimiento de lo absoluto y acepta el conocimiento de lo particular o individual, dependiendo de la época y el lugar en que se encuentra la persona."
+  },
+  {
+    "pregunta": "Al empirismo se le adjudica la célebre sentencia: 'nada hay en el entendimiento que no haya estado antes en los sentidos', atribuida originalmente a:",
+    "opciones": ["John Locke", "Francis Bacon", "Aristóteles", "Immanuel Kant", "René Descartes"],
+    "correcta": 2,
+    "resolucion": "A Aristóteles se le adjudica la sentencia aceptada por todo empirista: 'nada hay en el entendimiento que no haya estado antes en los sentidos'."
+  },
+  {
+    "pregunta": "El filósofo empirista Bacon distingue entre un saber de los hechos, producto de la inducción, y un saber de las palabras, producto del método:",
+    "opciones": ["Dialéctico", "Mayéutico", "Científico", "Fenomenológico", "Deductivo"],
+    "correcta": 4,
+    "resolucion": "Francis Bacon distingue entre el saber de los hechos (inducción) y un saber de las palabras, que es producto del método deductivo utilizado en la época medieval."
+  },
+  {
+    "pregunta": "¿Qué filósofo empirista sostiene que nuestro entendimiento es como una 'tabla rasa' en la cual la experiencia escribe los datos de nuestros sentidos?",
+    "opciones": ["Immanuel Kant", "John Locke", "René Descartes", "Baruch Spinoza", "Gottfried Leibniz"],
+    "correcta": 1,
+    "resolucion": "John Locke sostiene que las sensaciones son la única fuente del conocimiento humano y que nuestro entendimiento es como una 'tabla rasa'."
+  },
+  {
+    "pregunta": "Según el empirismo de Locke, el tipo de experiencia que tiene que ver con la reflexión sobre los datos proporcionados por nuestros sentidos se denomina:",
+    "opciones": ["Experiencia externa", "Experiencia interna", "Experiencia a priori", "Experiencia trascendental", "Experiencia absoluta"],
+    "correcta": 1,
+    "resolucion": "Para el empirismo de Locke, la experiencia interna tiene que ver con la reflexión sobre los datos proporcionados por nuestros sentidos."
+  },
+  {
+    "pregunta": "¿Qué corriente rechaza el conocimiento sensorial o empírico por considerarlo confuso, contingente y fuente de error, fundamentándose en cambio en la razón?",
+    "opciones": ["El Empirismo", "El Criticismo", "El Agnosticismo", "El Racionalismo", "El Relativismo"],
+    "correcta": 3,
+    "resolucion": "El racionalismo rechaza el conocimiento sensorial por considerarlo confuso y afirma que un conocimiento riguroso debe fundarse en la razón."
+  },
+  {
+    "pregunta": "Considerado como el iniciador del racionalismo antiguo, sostuvo que el conocimiento del ser se alcanza con la razón, mientras que la opinión es propia de los sentidos:",
+    "opciones": ["Sócrates", "Platón", "Parménides", "Aristóteles", "Epicuro"],
+    "correcta": 2,
+    "resolucion": "Parménides es considerado el iniciador del racionalismo antiguo al sostener que el conocimiento del ser se alcanza con la razón, mientras que la opinión es propia de los sentidos."
+  },
+  {
+    "pregunta": "En el marco del racionalismo antiguo, Platón sostiene que la práctica de la razón permite:",
+    "opciones": ["Descubrir la tabla rasa", "Recordar el conocimiento universal que se halla en el mundo de las ideas", "Formular inducciones experimentales", "Dudar de todas las convenciones", "Alcanzar el nóumeno"],
+    "correcta": 1,
+    "resolucion": "Platón sostiene que la práctica de la razón permite recordar el conocimiento universal que se halla en el mundo de las ideas."
+  },
+  {
+    "pregunta": "El fundador y máximo representante del racionalismo, famoso por sostener el innatismo de las ideas y la sentencia 'pienso luego existo', es:",
+    "opciones": ["Baruch Spinoza", "John S. Mill", "René Descartes", "Immanuel Kant", "John Locke"],
+    "correcta": 2,
+    "resolucion": "René Descartes, máximo representante del racionalismo, sostuvo el innatismo de las ideas y formuló la célebre sentencia 'pienso luego existo'."
+  },
+  {
+    "pregunta": "Para Leibniz, otro filósofo racionalista, las únicas verdades que poseen universalidad (como '3 más 3 = 6') son las:",
+    "opciones": ["Verdades de hecho", "Verdades empíricas", "Verdades de razón", "Verdades relativas", "Verdades de fe"],
+    "correcta": 2,
+    "resolucion": "Leibniz afirma que solo poseen universalidad las verdades de razón, dando como ejemplo que 3 más 3 es igual a 6."
+  },
+  {
+    "pregunta": "El racionalista Baruch Espinoza sostuvo que la primera idea evidente es la de Dios y dedujo que Dios es el universo mismo. A esta doctrina se le conoce como:",
+    "opciones": ["Deísmo", "Panteísmo", "Politeísmo", "Ateísmo", "Agnosticismo"],
+    "correcta": 1,
+    "resolucion": "Baruch Espinoza sostuvo que a partir de la primera idea evidente, que es Dios, se deduce que Él no está fuera del universo, sino que es el universo mismo, posición filosófica conocida como panteísmo."
+  },
+  {
+    "pregunta": "¿Quién es el autor del 'Idealismo Trascendental', en el cual se propone descubrir las condiciones que el objeto ha de tener para ser cognoscible?",
+    "opciones": ["John Locke", "René Descartes", "Aristóteles", "Manuel Kant", "Pirrón de Ellis"],
+    "correcta": 3,
+    "resolucion": "En el Criticismo o 'Idealismo Trascendental', Manuel Kant se propone descubrir las condiciones que el objeto ha de tener para ser cognoscible."
+  },
+  {
+    "pregunta": "Según el Criticismo de Kant, las formas de la sensibilidad puestas por el sujeto como condiciones indispensables para la perceptibilidad son:",
+    "opciones": ["Razón y entendimiento", "Espacio y tiempo", "Fenómeno y nóumeno", "Materia y forma", "Causa y efecto"],
+    "correcta": 1,
+    "resolucion": "Para Kant, las condiciones puestas por el sujeto en el objeto son las formas de la sensibilidad, el espacio y el tiempo, indispensables para la perceptibilidad."
+  },
+  {
+    "pregunta": "Kant afirma en su idealismo trascendental que no podemos conocer las cosas en sí mismas, sino únicamente:",
+    "opciones": ["Los fenómenos o sensaciones", "Las ideas innatas", "Los dogmas religiosos", "Las impresiones abstractas", "Los nóumenos absolutos"],
+    "correcta": 0,
+    "resolucion": "Kant concluye que no podemos conocer las cosas en sí mismas, sino únicamente las cosas recubiertas por nuestras formas de sensibilidad, a las cuales llama fenómenos o sensaciones."
+  },
+  {
+    "pregunta": "El Escepticismo Absoluto afirma que 'no es posible conocer', pero esta posición es objetada filosóficamente porque:",
+    "opciones": ["Depende de la experiencia empírica", "Cae por propia contradicción", "Fue refutada íntegramente por los sofistas", "Se apoya en la fe dogmática", "Utiliza verdades matemáticas de razón"],
+    "correcta": 1,
+    "resolucion": "El escepticismo absoluto, al afirmar mediante Pirrón de Ellis que 'no es posible conocer', cae por su propia contradicción al establecer dicho enunciado como conocimiento."
+  }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 8: Epistemología (La Ciencia)",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "8.1 Conceptos y Características",
+          "youtube_id": "tVV0ZLKeEvo",
+          "pdf_link": "https://drive.google.com/file/d/1LdPCMRIeUXNaVp6gUUVL6PR-KB4v5uGL/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Etimológicamente, la palabra 'Epistemología' proviene de 'Episteme' y 'Logos', que significan respectivamente:",
+    "opciones": ["Verdad y Sabiduría", "Conocimiento y Tratado o estudio", "Ciencia y Práctica", "Opinión y Razón", "Experiencia y Método"],
+    "correcta": 1,
+    "resolucion": "Epistemología proviene de las palabras Episteme: Conocimiento, Logos: Tratado o estudio."
+  },
+  {
+    "pregunta": "¿Cuál es la finalidad principal de la epistemología según el texto?",
+    "opciones": ["Memorizar datos históricos", "Resolver problemas sobre la estructura del conocimiento científico y realizar el análisis de su lenguaje", "Estudiar la moral y los valores humanos", "Describir el universo físicamente", "Negar la validez de la ciencia"],
+    "correcta": 1,
+    "resolucion": "Su finalidad es resolver los inquietantes problemas que surgen cuando se pretende revelar la estructura del conocimiento científico, y realizar el análisis del lenguaje de la ciencia."
+  },
+  {
+    "pregunta": "¿A qué filósofo se le atribuye la introducción del término 'Epistemología' en su obra 'Fundamentos de la Metafísica' (1854)?",
+    "opciones": ["Karl Popper", "James Frederick Ferrier", "Manuel Kant", "Edwin Powell Hubble", "Simon Laplace"],
+    "correcta": 1,
+    "resolucion": "La introducción de este término se debe al filósofo James Frederick Ferrier, en su obra Fundamentos de la Metafísica (1854)."
+  },
+  {
+    "pregunta": "En la estructura del conocimiento científico, ¿qué elemento permite tomar contacto directo con el objeto que se conoce?",
+    "opciones": ["La explicación", "La hipótesis", "La descripción", "El axioma", "La predicción"],
+    "correcta": 2,
+    "resolucion": "...está integrado por la descripción, que es el elemento por el cual se toma contacto directo con el objeto que se conoce..."
+  },
+  {
+    "pregunta": "A diferencia de la descripción, la 'explicación' en el conocimiento científico constituye el elemento:",
+    "opciones": ["Intuitivo y mágico", "Lógico y racional por el cual se obtienen nuevos conocimientos", "Puramente estético", "Irracional y fortuito", "Basado en la fe ciega"],
+    "correcta": 1,
+    "resolucion": "...y la explicación que es el elemento lógico, racional, por el cual se obtienen nuevos conocimientos."
+  },
+  {
+    "pregunta": "Como forma de conciencia social, la veracidad de la ciencia se comprueba y puntualiza constantemente en el curso de:",
+    "opciones": ["La contemplación divina", "La práctica social", "El debate filosófico", "El aislamiento individual", "La deducción matemática"],
+    "correcta": 1,
+    "resolucion": "...cuya veracidad se comprueba y se puntualiza constantemente en el curso de la práctica social."
+  },
+  {
+    "pregunta": "La capacidad para demostrar y comprobar un conocimiento, comparándolo con otro en un sentido de jerarquización, se refiere a la característica de:",
+    "opciones": ["Contrastación", "Falibilidad", "Universalidad", "Predictibilidad", "Sistemática"],
+    "correcta": 0,
+    "resolucion": "Contrastación. Capacidad para demostrar y comprobar un conocimiento, tratando de comparar un conocimiento con otro, en un sentido de jerarquización."
+  },
+  {
+    "pregunta": "Cuando se afirma que 'la matemática estudia los números', se hace referencia a que la ciencia tiene:",
+    "opciones": ["Universalidad", "Un método riguroso", "Falsacionismo", "Objeto propio de estudio", "Carácter explicativo"],
+    "correcta": 3,
+    "resolucion": "Objeto propio de estudio. Son conocimientos que se conocen separadamente... Por ejemplo, la matemática estudia los números."
+  },
+  {
+    "pregunta": "La característica de la ciencia de presentar los conocimientos ordenadamente, con coherencia y yendo de lo sencillo a lo complejo es la:",
+    "opciones": ["Metódica", "Experimental", "Sistemática", "Teórica", "Objetiva"],
+    "correcta": 2,
+    "resolucion": "Sistemática. Se presenta ordenadamente los conocimientos y con coherencia, por lo que van de los sencillo a lo complejo."
+  },
+  {
+    "pregunta": "El hecho de que las experiencias científicas no dependan de la conciencia y se observen tal como son en la realidad define a la característica:",
+    "opciones": ["Subjetiva", "Sistemática", "Metódica", "Objetiva", "Predictible"],
+    "correcta": 3,
+    "resolucion": "Objetiva. Son experiencias que no dependen de la conciencia, se observan tal como son en la realidad objetiva."
+  },
+  {
+    "pregunta": "¿Qué característica indica que el conocimiento científico se puede comprobar y repetir cuantas veces sea necesario?",
+    "opciones": ["Experimental", "Teórica", "Universalidad", "Falibilidad", "Explicativa"],
+    "correcta": 0,
+    "resolucion": "Experimental. Se pueden comprobar y repetir cuantas veces sea necesario, por eso todo conocimiento científico siempre es nuevo."
+  },
+  {
+    "pregunta": "Según el 'Falsacionismo Popperiano', la verificación del conocimiento no se demuestra por medio de la verdad, sino contrariamente por la:",
+    "opciones": ["Certidumbre", "Evidencia matemática", "Falsedad", "Duda metódica", "Revelación"],
+    "correcta": 2,
+    "resolucion": "Falsacionismo Popperiano. La verificación del conocimiento no se demuestra por medio de la verdad, sino contrariamente por la falsedad."
+  },
+  {
+    "pregunta": "La capacidad de la ciencia para adelantar juicios corresponde a su característica de:",
+    "opciones": ["Contrastación", "Falibilidad", "Universalidad", "Predictibilidad", "Sistemática"],
+    "correcta": 3,
+    "resolucion": "Predictibilidad. Capacidad de la ciencia para adelantar juicios."
+  },
+  {
+    "pregunta": "¿Qué componente estructural de la ciencia se define como la síntesis de lo conocido, sospechado y predecible, compuesto por sistemas de hipótesis que explican parcialmente la realidad?",
+    "opciones": ["Ley Científica", "Axioma", "Teoría Científica", "Dogma", "Hipótesis aislada"],
+    "correcta": 2,
+    "resolucion": "Teoría Científica... son sistemas de hipótesis científicas que permiten explicar aproximadamente una parte de la realidad objetiva... Las teorías son las síntesis de lo conocido..."
+  },
+  {
+    "pregunta": "Una hipótesis científica confirmada que afirma una relación constante entre dos o más variables y es de carácter más estable se denomina:",
+    "opciones": ["Axioma", "Ley Científica", "Teoría General", "Problema científico", "Predicción"],
+    "correcta": 1,
+    "resolucion": "Ley Científica. Es una hipótesis científica confirmada que afirma una relación constante entre dos o más variables..."
+  },
+  {
+    "pregunta": "¿Qué astrónomo estableció la ley que determina que la velocidad de una galaxia es proporcional a su distancia?",
+    "opciones": ["Simon Laplace", "James Frederick Ferrier", "Edwin Powell Hubble", "Manuel Kant", "Karl Popper"],
+    "correcta": 2,
+    "resolucion": "Por ejemplo, el astrónomo Edwin Powell Hubble establece la ley que lleva su nombre, según la cual determina que la velocidad de una galaxia es proporcional a su distancia."
+  },
+  {
+    "pregunta": "El enunciado proposicional y experimentable que plantea una nueva solución creativa a un problema nuevo acerca de la relación entre variables es:",
+    "opciones": ["La Hipótesis", "El Axioma", "La Ley Científica", "La Contrastación", "La Falibilidad"],
+    "correcta": 0,
+    "resolucion": "Hipótesis. Es un enunciado proposicional que plantea una nueva solución creativa... se define como una proposición experimentable acerca de la potencial relación entre dos o más variables."
+  },
+  {
+    "pregunta": "La afirmación de que una nube de gas se fragmentó en anillos para formar los planetas es un ejemplo de:",
+    "opciones": ["Ley de Hubble", "Hipótesis nebular de Kant y Laplace", "Teoría de la Evolución", "Axioma de la no contradicción", "Falsacionismo"],
+    "correcta": 1,
+    "resolucion": "Por ejemplo, Manuel Kant y Simon Laplace formularon la hipótesis nebular... Según la cual una nube de gas se fragmentó en anillos que se condensaron formando los planetas."
+  },
+  {
+    "pregunta": "Los enunciados básicos que se presentan a la razón con tal fuerza y claridad que no requieren demostración alguna se denominan:",
+    "opciones": ["Teorías", "Leyes", "Hipótesis", "Axiomas", "Problemas"],
+    "correcta": 3,
+    "resolucion": "Axioma. Son enunciados que se presentan a la razón o al intelecto con tal fuerza y claridad que no requiere de demostración alguna..."
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un ejemplo de 'Axioma' proporcionado en la lectura?",
+    "opciones": ["La velocidad de la galaxia es proporcional a su distancia", "El hombre evoluciona de especies inferiores", "El universo inició con el Big Bang", "Una proposición no puede ser verdadera y falsa al mismo tiempo", "La materia está formada por átomos"],
+    "correcta": 3,
+    "resolucion": "Ejemplo: Una proposición no puede ser verdadera y falsa al mismo tiempo (principio de no contradicción)."
+  }
+          ]
+        },
+        {
+          "titulo": "8.2 El Método y sus Funciones",
+          "youtube_id": "oX5fbmacWi4",
+          "pdf_link": "https://drive.google.com/file/d/1wJjXBSOOLL3fF_Zt1ao4aRk2AnaE6hti/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "¿Qué regula exclusivamente el método científico según el texto?",
+    "opciones": ["El descubrimiento de problemas", "El planteamiento y puesta a prueba de hipótesis", "La intuición del investigador", "La creación de axiomas", "La observación empírica pasiva"],
+    "correcta": 1,
+    "resolucion": "El método científico sólo regula el planteamiento y la puesta a prueba de las hipótesis."
+  },
+  {
+    "pregunta": "¿De qué depende el descubrimiento de problemas interesantes o hipótesis fecundas, ya que no puede someterse a reglas formales?",
+    "opciones": ["De la deducción pura", "De la técnica empírica exclusivamente", "De la capacidad, experiencia, conocimientos y agudeza de observación del investigador", "De las ciencias formales", "De la síntesis material de los elementos"],
+    "correcta": 2,
+    "resolucion": "El descubrimiento de problemas o hipótesis no puede someterse a reglas, aquí entra en juego la capacidad, experiencia, conocimientos y agudeza de observación del investigador."
+  },
+  {
+    "pregunta": "La separación material o mental del objeto de investigación en sus partes integrantes para descubrir sus elementos esenciales se denomina:",
+    "opciones": ["Síntesis", "Inducción", "Deducción", "Análisis", "Explicación"],
+    "correcta": 3,
+    "resolucion": "Métodos Generales Análisis. Es la separación material o mental del objeto de investigación en sus partes integrantes con el propósito de descubrir los elementos esenciales que lo conforman."
+  },
+  {
+    "pregunta": "El análisis lógico o mental se aplica fundamentalmente durante la investigación de:",
+    "opciones": ["El mundo inorgánico y metales", "Los organismos vivos y los procesos sociales", "Las matemáticas abstractas", "La física cuántica", "La técnica y la albañilería"],
+    "correcta": 1,
+    "resolucion": "El análisis lógico o mental se aplica en aquellas investigaciones donde resulta imposible desarticular el objeto o fenómeno... fundamentalmente, durante la investigación de los organismos vivos y en los procesos sociales."
+  },
+  {
+    "pregunta": "¿Qué método consiste en la integración mental o material de los elementos o nexos esenciales de los objetos para fijar sus rasgos principales?",
+    "opciones": ["Análisis", "Síntesis", "Inducción", "Deducción", "Descripción"],
+    "correcta": 1,
+    "resolucion": "Síntesis: Consiste en la integración mental o material de los elementos o nexos esenciales de los objetos, con el objeto de fijar las cualidades y rasgos principales."
+  },
+  {
+    "pregunta": "Karl Marx estudió el modo capitalista descomponiendo sus elementos y luego integrándolos. Este es un ejemplo de la unidad concebida como método:",
+    "opciones": ["Hipotético-deductivo", "Analítico-sintético", "Inductivo puro", "Experimental clásico", "Sistemático formal"],
+    "correcta": 1,
+    "resolucion": "El análisis y la síntesis... constituyen una unidad concebida como método analítico-sintético... cuando Marx estudia el modo capitalista, descompone mentalmente los elementos... y después los integra."
+  },
+  {
+    "pregunta": "El método de obtención de conocimientos que conduce de lo particular a lo general y al descubrimiento de leyes se denomina:",
+    "opciones": ["Inducción", "Deducción", "Explicación", "Predicción", "Aplicación"],
+    "correcta": 0,
+    "resolucion": "Inducción. Es el método de obtención de conocimientos que conduce de lo particular a lo general, de los hechos a las causas y al descubrimiento de leyes."
+  },
+  {
+    "pregunta": "Un ejemplo de la aplicación del método inductivo mencionado en la lectura es:",
+    "opciones": ["El descubrimiento de la 1ra Ley de Kepler", "La invención de la vacuna del coronavirus", "La construcción de una vivienda", "El descubrimiento de las leyes periódicas de los elementos químicos por Mendeleiev", "El desarrollo de telescopios espaciales"],
+    "correcta": 3,
+    "resolucion": "Un ejemplo concreto de la aplicación de este método de conocimiento lo tenemos en el descubrimiento de las leyes periódicas de los elementos químicos, descubierto por el científico ruso Mendeleiev."
+  },
+  {
+    "pregunta": "¿Qué razonamiento mental conduce de lo general a lo particular y se adecua principalmente a las ciencias formales?",
+    "opciones": ["Inducción", "Deducción", "Análisis", "Síntesis", "Descripción"],
+    "correcta": 1,
+    "resolucion": "Deducción. es el razonamiento mental que conduce de lo general a lo particular... Este método en su aplicación se adecua a las ciencias formales."
+  },
+  {
+    "pregunta": "El método nomológico-deductivo (hipotético deductivo) somete un hecho a comprobación sobre la base de:",
+    "opciones": ["Una inducción empírica y aislada", "Un axioma formal puramente lógico", "Una ley científica (explicans) que le antecede o le sirve de fundamento", "Una percepción subjetiva", "Una técnica de ensayo y error"],
+    "correcta": 2,
+    "resolucion": "Todas las ciencias fácticas utilizan el método nomológico-deductivo... donde un hecho se somete a comprobación sobre la base de una ley científica (explicans) que la antecede o le sirve de fundamento."
+  },
+  {
+    "pregunta": "En el ejemplo del método hipotético deductivo aplicado al movimiento planetario, ¿qué fase corresponde al enunciado 'Los planetas describen órbitas elípticas alrededor del sol'?",
+    "opciones": ["Observación", "Problema", "Hipótesis", "Deducción lógica", "Contrastación"],
+    "correcta": 2,
+    "resolucion": "Problema: ¿Por qué los planetas describen determinados movimientos a través del cielo? Hipótesis: Los planetas describen órbitas elípticas alrededor del sol."
+  },
+  {
+    "pregunta": "La función empírica de la ciencia que resulta del contacto del sujeto con el objeto y responde a la pregunta '¿Qué o cómo es el objeto?' se conoce como:",
+    "opciones": ["Explicación científica", "Predicción científica", "Aplicación científica", "Descripción científica", "Verificación científica"],
+    "correcta": 3,
+    "resolucion": "Descripción científica. Elemento empírico de la ciencia que resulta del contacto del sujeto con el objeto. Responde a la pregunta ¿Qué o cómo es el objeto?."
+  },
+  {
+    "pregunta": "La 'explicación científica' constituye el elemento racional de la ciencia y su principal objetivo es responder a la pregunta:",
+    "opciones": ["¿Qué es el objeto?", "¿Por qué es así el objeto?", "¿Cuándo ocurrirá el objeto?", "¿Cómo aplicar el objeto?", "¿Para qué sirve el objeto?"],
+    "correcta": 1,
+    "resolucion": "Explicación científica. Es el elemento racional de la ciencia. Responde a la pregunta ¿Por qué es así el objeto?."
+  },
+  {
+    "pregunta": "Según el texto, indagar en las causas del cambio climático es un ejemplo directo de:",
+    "opciones": ["Descripción científica", "Aplicación tecnológica", "Explicación científica", "Predicción científica", "Contrastación de hipótesis"],
+    "correcta": 2,
+    "resolucion": "Explicación científica... Por ejemplo: Indagar en las causas del cambio climático."
+  },
+  {
+    "pregunta": "¿Qué función de la ciencia permite prever situaciones futuras afirmando la ocurrencia de un hecho no observado aún, como el paso del cometa Halley?",
+    "opciones": ["Descripción", "Explicación", "Predicción científica", "Aplicación", "Inducción"],
+    "correcta": 2,
+    "resolucion": "Predicción científica. Por ella la ciencia prevé situaciones futuras... permitiendo afirmar la ocurrencia de un hecho o producto humano no observado aún... Por ejemplo: Predecir el próximo paso del cometa Halley."
+  },
+  {
+    "pregunta": "El texto define la 'tecnología' como:",
+    "opciones": ["Un sistema exclusivo de razonamientos formales", "La aplicación coordinada del conjunto de conocimientos (ciencia) y habilidades (técnica) para crear un producto tecnológico", "El método de obtención de generalidades a partir de hechos", "La descripción de herramientas antiguas", "Un saber que rechaza la experimentación"],
+    "correcta": 1,
+    "resolucion": "La tecnología es la aplicación coordinada del conjunto de conocimientos (ciencia) y habilidades (técnica) para diseñar o crear un producto tecnológico artificial."
+  },
+  {
+    "pregunta": "A diferencia de la tecnología moderna, la 'técnica' (empírica) se caracteriza porque:",
+    "opciones": ["Puede ser mejorable por ensayo y error", "Es puramente racional y deductiva", "No se aplica en la vida real", "Garantiza siempre el éxito del experimento", "Se deduce de axiomas lógicos"],
+    "correcta": 0,
+    "resolucion": "La técnica (empírica), que pueden ser eficaces, ineficaces; mejorables por ensayo y error. Por ejemplo: La técnica para la construcción de una vivienda por un albañil."
+  },
+  {
+    "pregunta": "De acuerdo con la clasificación de Mario Bunge, ¿qué ciencias se ocupan de entes ideales o abstractos y utilizan un método deductivo?",
+    "opciones": ["Ciencias fácticas", "Ciencias naturales", "Ciencias formales", "Ciencias sociales", "Ciencias aplicadas"],
+    "correcta": 2,
+    "resolucion": "Ciencias formales. Se ocupa de entes ideales, abstractos o formales... Método: deductivo (a partir de axiomas o teorías)."
+  },
+  {
+    "pregunta": "Según Bunge, la matemática y la lógica pertenecen al grupo de las ciencias:",
+    "opciones": ["Naturales", "Fácticas", "Sociales", "Formales", "Empíricas"],
+    "correcta": 3,
+    "resolucion": "Ciencias formales... Es el caso de la matemática y la lógica."
+  },
+  {
+    "pregunta": "Las ciencias fácticas se ocupan de entes concretos, utilizan la observación y el experimento científico, e incluyen disciplinas como:",
+    "opciones": ["Solo las matemáticas puras", "La física, biología, sociología y economía", "La filosofía y la metafísica", "La técnica de ensayo y error", "La lógica simbólica"],
+    "correcta": 1,
+    "resolucion": "Ciencias fácticas. Se ocupan de entes concretos... Es el caso de ciencias naturales como la física, química... biología... y las ciencias sociales como la antropología, sociología... economía, etc.."
+  }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 9: Axiología y Ética",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "9.1 Axiología: El Problema del Valor",
+          "youtube_id": "kqrVdryfRuk",
+          "pdf_link": "https://drive.google.com/file/d/18bdxe4li4JJN8qDXrHbaKTnwZuGrW1uR/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Etimológicamente, la palabra 'Axiología' deriva de las voces griegas 'AXIOS' y 'LOGOS', que significan respectivamente:",
+    "opciones": ["Ética y Estudio", "Valor y Tratado o estudio", "Moral y Razón", "Bien y Tratado", "Verdad y Estudio"],
+    "correcta": 1,
+    "resolucion": "Etimológicamente deriva de las voces griegas AXIOS: valor y LOGOS: tratado, estudio."
+  },
+  {
+    "pregunta": "En síntesis, según Frondizi (1988), la Axiología es la disciplina filosófica que estudia:",
+    "opciones": ["El origen del universo físico", "El comportamiento moral de los animales", "La forma, el significado y fundamento de los juicios valorativos", "La esencia exclusiva de Dios", "Las reglas formales de la lógica matemática"],
+    "correcta": 2,
+    "resolucion": "En síntesis, es la disciplina filosófica que estudia la forma, el significado y fundamento de los juicios valorativos (Frondizi, 1988)."
+  },
+  {
+    "pregunta": "Sobre la fundamentación de los valores, el texto afirma que estos:",
+    "opciones": ["Tienen existencia material puramente biológica", "No tienen una existencia en sí y por sí, sino que se objetivizan en personas, hechos o cosas", "Son puras ilusiones creadas por la sociedad", "Existen únicamente de manera independiente en el cosmos", "Tienen sus propias leyes matemáticas"],
+    "correcta": 1,
+    "resolucion": "Los valores son entes de una naturaleza especial, no tienen una existencia en sí y por sí, se objetivizan en personas, hechos o cosas."
+  },
+  {
+    "pregunta": "El acto valorativo se caracteriza por ser una acción intencional donde la conciencia asume:",
+    "opciones": ["Una actitud pasiva y de contemplación absoluta", "Una indiferencia total ante los hechos", "Una actitud en pro o en contra del objeto", "Una posición exclusivamente lógica y matemática", "Una postura inamovible desde el nacimiento"],
+    "correcta": 2,
+    "resolucion": "Es una acción intencional por la cual una persona... aprehende un objeto valioso. Es una actitud en pro o en contra del objeto."
+  },
+  {
+    "pregunta": "La característica del valor que indica que los valores 'valen en sí y por sí mismos, independientemente del sujeto' se denomina:",
+    "opciones": ["Polaridad", "Jerarquía", "Objetividad", "Grado", "Intensidad"],
+    "correcta": 2,
+    "resolucion": "Objetividad.- Referida a la independencia del objeto... los valores valen en sí y por sí mismos, independientemente del sujeto."
+  },
+  {
+    "pregunta": "El hecho de que al valor 'justicia' se le oponga la 'injusticia', ilustra la característica axiológica de:",
+    "opciones": ["Objetividad", "Polaridad", "Grado", "Jerarquía", "Dependencia"],
+    "correcta": 1,
+    "resolucion": "La polaridad. Todo valor positivo tiene su contravalor, disvalor o valor negativo. Ejemplo: belleza–fealdad, justicia– injusticia."
+  },
+  {
+    "pregunta": "Cuando afirmamos que algo es excelente, muy bueno, bueno, regular o pésimo, nos referimos a la característica de:",
+    "opciones": ["Jerarquía", "Polaridad", "Objetividad", "Grado", "Clasificación vital"],
+    "correcta": 3,
+    "resolucion": "Grado. Los valores son captados en diferentes intensidades, dentro de una gama o variación... Ejemplo: Excelente, muy bueno, bueno, regular, malo, pésimo."
+  },
+  {
+    "pregunta": "El orden que se establece considerando preferentemente un valor superior respecto a otros inferiores se denomina:",
+    "opciones": ["Subjetividad", "Polaridad", "Jerarquía", "Equidad", "Igualdad"],
+    "correcta": 2,
+    "resolucion": "Jerarquía. Es el orden que se establece en una escala de valores... Es la consideración preferente de un valor (considerado superior) respecto a otros."
+  },
+  {
+    "pregunta": "Según la clasificación de Max Scheler, los valores de 'débil-fuerte' y 'sano-enfermo' pertenecen a la categoría de:",
+    "opciones": ["Valores sensibles", "Valores estéticos", "Valores éticos-morales", "Valores vitales", "Valores lógicos"],
+    "correcta": 3,
+    "resolucion": "Valores vitales. Relacionado a la vida y la salud: ejemplo: débil-fuerte, sano-enfermo."
+  },
+  {
+    "pregunta": "Los valores que se traducen en ideologías, ideas, pensamientos, la verdad y el saber corresponden a los:",
+    "opciones": ["Valores teóricos-cognoscitivos", "Valores estéticos", "Valores lógicos", "Valores éticos-morales", "Valores religiosos"],
+    "correcta": 2,
+    "resolucion": "Valores lógicos. Se traducen en las ideologías, las ideas, criterios, pensamientos, la verdad, el saber."
+  },
+  {
+    "pregunta": "¿Qué valor ético fundamental es considerado el valor supremo y máximo de la persona, según Sócrates y Platón?",
+    "opciones": ["La Justicia", "La Dignidad", "El Bien", "La Solidaridad", "La Verdad"],
+    "correcta": 2,
+    "resolucion": "EL BIEN Es el valor supremo, máximo de la persona (Sócrates, Platón) y de la sociedad (John Stuart Mill)."
+  },
+  {
+    "pregunta": "Considerar que 'esta silla es buena' o que 'Juan es un buen abogado' ejemplifica el concepto de:",
+    "opciones": ["Lo bueno como fin", "El bien absoluto", "La justicia distributiva", "Lo bueno como medio", "La dignidad incondicional"],
+    "correcta": 3,
+    "resolucion": "Lo bueno como medio es cuando consideramos un sentido utilitario a “algo”... Por ejemplo, esta silla es buena... Juan es un buen abogado."
+  },
+  {
+    "pregunta": "La virtud que se inclina a dar a cada uno lo que le pertenece de acuerdo a sus necesidades y convicción personal es la:",
+    "opciones": ["Dignidad", "Solidaridad", "Justicia", "Paz", "Caridad"],
+    "correcta": 2,
+    "resolucion": "JUSTICIA Es la virtud que se inclina a dar a cada uno lo que le pertenece de acuerdo a sus necesidades y convicción personal."
+  },
+  {
+    "pregunta": "¿Quién dividió inicialmente a la justicia en 'justicia general' y 'justicia particular' (distributiva y correctiva)?",
+    "opciones": ["Platón", "Aristóteles", "John Stuart Mill", "Max Scheler", "Sócrates"],
+    "correcta": 1,
+    "resolucion": "Aristóteles la divide en justicia general y justicia particular."
+  },
+  {
+    "pregunta": "La justicia que exige la igualdad de trato en relaciones mutuas, donde se da tanto como se recibe (por ejemplo, en un contrato de alquiler), se denomina:",
+    "opciones": ["Justicia legal", "Justicia social", "Justicia distributiva", "Justicia conmutativa", "Justicia general"],
+    "correcta": 3,
+    "resolucion": "J. Conmutativa. La igualdad de trato en las relaciones mutuas... consiste en dar tanto como se recibe... En un contrato de alquiler por ejemplo."
+  },
+  {
+    "pregunta": "¿Qué tipo de justicia no existe entre iguales, sino entre la comunidad (un superior o Estado) y sus subordinados, basándose en la proporción, idoneidad y funciones?",
+    "opciones": ["Justicia conmutativa", "Justicia distributiva", "Justicia legal", "Justicia social", "Justicia correctiva"],
+    "correcta": 1,
+    "resolucion": "J. Distributiva. Es una relación entre la comunidad y sus miembros... No existe entre iguales (como en la conmutativa) sino entre un superior y sus subordinados... se toma en cuenta la jerarquía, idoneidad, funciones."
+  },
+  {
+    "pregunta": "La 'Justicia legal' hace referencia estrictamente a:",
+    "opciones": ["El reparto mutuo de bienes", "La igualdad de las personas ante la ley y el rechazo de cualquier diferenciación ante las normas", "La distribución jerárquica del Estado", "El perdón de las ofensas penales", "La participación política ciudadana"],
+    "correcta": 1,
+    "resolucion": "J. Legal. Refiere a la igualdad de las personas ante la ley, la equidad en las responsabilidades y el rechazo de cualquier diferenciación ante las normas."
+  },
+  {
+    "pregunta": "¿Qué variante de la justicia se pone más de manifiesto en las relaciones económicas, industriales, raciales y políticas para lograr el bien común?",
+    "opciones": ["Justicia social", "Justicia distributiva", "Justicia legal", "Justicia conmutativa", "Justicia general"],
+    "correcta": 0,
+    "resolucion": "J. Social. La justicia social se refiere a la organización de la sociedad de tal modo que el bien común... esté al alcance de todos. Se pone más de manifiesto en las relaciones económicas, industriales, raciales y políticas."
+  },
+  {
+    "pregunta": "El valor ético que exige el máximo respeto por el hombre como un fin en sí mismo, independiente de posiciones socioeconómicas o religiosas, es la:",
+    "opciones": ["Justicia conmutativa", "Solidaridad", "Dignidad", "Igualdad", "Caridad"],
+    "correcta": 2,
+    "resolucion": "DIGNIDAD Es el valor propio de la persona moral... Exige el máximo respeto por el hombre como un fin en sí mismo, independiente de posiciones socioeconómicas, religiosas, etc.."
+  },
+  {
+    "pregunta": "La capacidad de actuación unitaria en favor del prójimo, participando desinteresadamente para compartir beneficios y riesgos, es la definición de:",
+    "opciones": ["Solidaridad", "Dignidad", "Justicia Social", "Bien Absoluto", "Conmutatividad"],
+    "correcta": 0,
+    "resolucion": "SOLIDARIDAD Es el valor propio de la sociedad moral... Es la capacidad de actuación unitaria de las personas en favor de una causa... Es la participación desinteresada en favor del prójimo."
+  }
+          ]
+        },
+        {
+          "titulo": "9.2 Teoría y problemas éticos",
+          "youtube_id": "cRLoxeuZ_iM",
+          "pdf_link": "https://drive.google.com/file/d/14pLTaZJyjKP1UuFCQUTBReWPm8liChWz/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "¿Qué posición filosófica afirma que el valor es algo que el sujeto proyecta al objeto y depende de estados de ánimo, emociones o intereses?",
+    "opciones": ["Objetivismo", "Relacionismo", "Subjetivismo", "Socioculturalismo", "Dogmatismo"],
+    "correcta": 2,
+    "resolucion": "El Subjetivismo afirma que el valor es algo que el sujeto proyecta al objeto... Los actos valorativos se ven afectados por los estados de ánimo, emociones, deseos, sentimientos, intereses, etc.."
+  },
+  {
+    "pregunta": "Dentro del subjetivismo, las dos tendencias básicas que determinan el criterio para considerar valioso algo son:",
+    "opciones": ["Racionalismo y Empirismo", "Hedonismo y Utilitarismo", "Materialismo e Idealismo", "Escepticismo y Dogmatismo", "Objetivismo y Relacionismo"],
+    "correcta": 1,
+    "resolucion": "Básicamente se tiene dos tendencias; el Hedonismo: El placer es el criterio para que el hombre considere valioso algo; el Utilitarismo: La utilidad es el criterio...."
+  },
+  {
+    "pregunta": "Son representantes de la teoría axiológica del Subjetivismo:",
+    "opciones": ["Max Scheler y Nicolai Hartman", "Risieri Frondizi y Lev Vygotsky", "Antonio Caso, Alejandro Korn y Bertrand Russell", "Platón y Aristóteles", "Kant y Hegel"],
+    "correcta": 2,
+    "resolucion": "Representantes [del Subjetivismo]: Antonio Caso (1883–1946), Alejandro Korn (1860–1936), Bertrand Russell (1872– 1970), etc.."
+  },
+  {
+    "pregunta": "¿Qué corriente axiológica afirma que los valores son inmutables, absolutos, independientes, y existen sin necesidad de una conciencia?",
+    "opciones": ["Relacionismo", "Objetivismo", "Subjetivismo", "Escepticismo", "Empirismo"],
+    "correcta": 1,
+    "resolucion": "Objetivismo. Esta corriente afirma que los valores existen en sí y por sí y no necesitan de una conciencia para poder existir. Los valores son inmutables, absolutos independientes...."
+  },
+  {
+    "pregunta": "Según el objetivismo, el hecho de que dos amigos se peleen:",
+    "opciones": ["Destruye el valor de la amistad", "Hace que la amistad sea subjetiva", "No significa que el valor de la amistad desaparezca", "Transforma el valor en un disvalor", "Depende de las circunstancias sociales"],
+    "correcta": 2,
+    "resolucion": "El hecho de que el sujeto no esté en condiciones de descubrirlo no significa que el valor no exista. Por ejemplo, el hecho que dos amigos se peleen no significa que el valor de la amistad desaparezca."
+  },
+  {
+    "pregunta": "Para el Relacionismo de Risieri Frondizi, el valor surge de la relación entre:",
+    "opciones": ["La mente y el cuerpo", "El sujeto, el objeto y las circunstancias", "La razón y los sentidos", "La sociedad y la cultura", "El placer y la utilidad"],
+    "correcta": 1,
+    "resolucion": "El valor surge, sin embargo, de la relación entre el sujeto, el objeto y las circunstancias; esta relación origina una cualidad estructural empírica."
+  },
+  {
+    "pregunta": "La teoría sociocultural de Lev Vygotsky afirma que los principales determinantes del desarrollo cognitivo humano son:",
+    "opciones": ["La genética y la herencia biológica", "La interacción social y cultural", "Las etapas de maduración física", "Los instintos animales", "Las ideas innatas universales"],
+    "correcta": 1,
+    "resolucion": "La teoría sociocultural de Vygotsky es una teoría del desarrollo humano que se enfoca en la interacción social y cultural como los principales determinantes del desarrollo cognitivo."
+  },
+  {
+    "pregunta": "Según Vygotsky, ¿cuál es el papel fundamental del lenguaje en el desarrollo cognitivo?",
+    "opciones": ["Es solo un medio de comunicación instintiva", "Es un obstáculo para el pensamiento puro", "Es una herramienta para el pensamiento y permite representar conceptos abstractos", "Es un producto biológico inmutable", "Solo sirve para la interacción entre adultos"],
+    "correcta": 2,
+    "resolucion": "Según él, el lenguaje no solo es un medio de comunicación, sino que también es una herramienta para el pensamiento. El lenguaje permite a las personas representar el mundo y los conceptos abstractos en su mente."
+  },
+  {
+    "pregunta": "En la teoría de Vygotsky, la brecha entre lo que un niño puede hacer de forma independiente y lo que puede hacer con ayuda de alguien más se denomina:",
+    "opciones": ["Mediación", "Zona de desarrollo próximo", "Aprendizaje conductual", "Etapa preoperacional", "Cognición social"],
+    "correcta": 1,
+    "resolucion": "La zona de desarrollo próximo se refiere a la brecha entre lo que un niño puede hacer de forma independiente y lo que puede hacer con la ayuda de alguien más."
+  },
+  {
+    "pregunta": "La 'mediación' en la teoría sociocultural se refiere a:",
+    "opciones": ["La resolución judicial de conflictos entre niños", "El proceso biológico de maduración neuronal", "La ayuda que se proporciona a un niño para realizar una tarea en la zona de desarrollo próximo", "La capacidad de hablar varios idiomas de manera fluida", "El aprendizaje individual sin ningún tipo de intervención"],
+    "correcta": 2,
+    "resolucion": "La mediación se refiere a la ayuda que se proporciona a un niño para que pueda realizar una tarea en la zona de desarrollo próximo... puede ser proporcionada por un adulto, un compañero... o un medio tecnológico."
+  },
+  {
+    "pregunta": "Etimológicamente, la palabra 'Ética' deriva de la voz griega 'ethos', que significa:",
+    "opciones": ["Amor y sabiduría", "Costumbre, hábito, inclinación", "Verdad y falsedad", "Razón y pensamiento", "Naturaleza y cosmos"],
+    "correcta": 1,
+    "resolucion": "El término Ética deriva de la voz griega ethos, que quiere decir: costumbre, hábito, inclinación."
+  },
+  {
+    "pregunta": "Desde el punto de vista filosófico, la Ética se define como una disciplina que estudia:",
+    "opciones": ["El funcionamiento fisiológico del cerebro humano", "La aplicación práctica de castigos legales", "Las leyes, principios y normas que orientan la conducta desde un punto de vista teórico y especulativo", "Los fenómenos meteorológicos", "El origen biológico de las especies"],
+    "correcta": 2,
+    "resolucion": "Estudia las leyes, principios, las normas que orientan la conducta y el comportamiento humano desde un punto de vista teórico, especulativo, incluido la misma moral."
+  },
+  {
+    "pregunta": "A diferencia de la Ética, la Moral (del latín mos o mores) tiene un enfoque eminentemente:",
+    "opciones": ["Teórico y abstracto", "Especulativo y normativo general", "Práctico y de realización de los actos humanos", "Universal e inmutable", "Metafísico"],
+    "correcta": 2,
+    "resolucion": "Estudia la conducta y el comportamiento humano desde el punto de vista práctico, de su realización, es decir, investiga los actos humanos dirigidos hacia el bien. Tiene un sentido práctico...."
+  },
+  {
+    "pregunta": "El orden de normas, valores y deberes que rigen en una sociedad en un momento histórico determinado se denomina:",
+    "opciones": ["Ética general", "Axiología", "Moralidad", "Legalidad dogmática", "Socioculturalismo"],
+    "correcta": 2,
+    "resolucion": "Moralidad. Es el orden de normas, valores y deberes que rigen en una sociedad en un momento histórico determinado."
+  },
+  {
+    "pregunta": "Dentro del problema ético, se le llama 'Persona' al sujeto que:",
+    "opciones": ["Solo sigue sus instintos básicos sin reflexión", "No tiene responsabilidad de sus actos", "Tiene conciencia de sus actos, es capaz de crear valores y conducir su existencia", "Representa a su especie sin voluntad propia", "Actúa por obligación puramente externa"],
+    "correcta": 2,
+    "resolucion": "Persona. Se llama así al sujeto que tiene conciencia, de sus actos, capaz de crear valores, conducir su existencia de acuerdo a principios, por lo que tiene una estructura biopsicosocial...."
+  },
+  {
+    "pregunta": "¿Cómo clasifica el texto a un sujeto que NO tiene conciencia, es incapaz de crear valores y gobierna su existencia a través de instintos (como los infantes o los locos)?",
+    "opciones": ["Persona moral", "Individuo", "Sujeto ético", "Ser racional", "Agente social autónomo"],
+    "correcta": 1,
+    "resolucion": "Individuo: Cualquier ser en condición de representar a su especie, es aquel sujeto que no tiene conciencia, incapaz de crear valores, gobierna su existencia a través de sus instintos. Ejemplo: Los locos, los infantes, etc.."
+  },
+  {
+    "pregunta": "Los actos realizados voluntariamente por una persona que es consciente del valor moral se denominan:",
+    "opciones": ["Actos instintivos", "Conductas reflejas condicionadas", "Acción moral", "Reacciones biológicas", "Comportamiento amoral"],
+    "correcta": 2,
+    "resolucion": "Acción moral: son actos realizados voluntariamente por una persona que es consciente del valor moral."
+  },
+  {
+    "pregunta": "La característica de la persona moral que se define como 'la capacidad de darse cuenta, para discernir lo correcto o incorrecto' es la:",
+    "opciones": ["Libertad Moral", "Responsabilidad Moral", "Conciencia Moral", "Tolerancia Ética", "Dignidad Humana"],
+    "correcta": 2,
+    "resolucion": "Conciencia Moral. es la capacidad de darse cuenta, para discernir lo correcto o incorrecto."
+  },
+  {
+    "pregunta": "La capacidad del hombre para actuar conforme a su voluntad y decidir cometer o no una acción moral (por ejemplo, resolver coger o no un dinero ajeno) se llama:",
+    "opciones": ["Conciencia Moral", "Responsabilidad Moral", "Libertad Moral", "Mediación psicológica", "Ética especulativa"],
+    "correcta": 2,
+    "resolucion": "Libertad Moral. capacidad del hombre que actúa conforme a su voluntad de cometer o no una acción moral. Así como resuelve coger dinero que no le corresponde...."
+  },
+  {
+    "pregunta": "¿Qué característica de la persona moral le permite asumir las consecuencias generadas por el uso de su libertad moral?",
+    "opciones": ["Solidaridad", "Justicia Conmutativa", "Conciencia empírica", "Responsabilidad Moral", "Hedonismo moral"],
+    "correcta": 3,
+    "resolucion": "Responsabilidad Moral. capacidad para asumir las consecuencias que se han generado en la libertad moral ejemplo, considerar justa sanción que le impusieron sus padres por coger dinero...."
+  }
+          ]
+        },
+        {
+          "titulo": "9.3 Corrientes Éticas",
+          "youtube_id": "EylerbzZNcU",
+          "pdf_link": "https://drive.google.com/file/d/1HGwnZ-EAvh_rwyPY5nJRXXBGIlIEwsRG/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según el eudemonismo de Aristóteles, ¿cuál es la meta suprema de toda la actividad moral del hombre?",
+    "opciones": ["La utilidad pública", "La felicidad", "El cumplimiento del deber formal", "La salvación del alma", "El sacrificio personal"],
+    "correcta": 1,
+    "resolucion": "El eudemonismo de Aristóteles (384-322 a.c) pregona la felicidad como meta suprema de toda la actividad moral del hombre."
+  },
+  {
+    "pregunta": "Para Aristóteles, el hombre es un animal racional que debe alcanzar la felicidad perfeccionando lo que lo define específicamente. ¿Qué actividad es esta?",
+    "opciones": ["La actividad física y bélica", "La actividad intelectual", "La actividad comercial", "La actividad política en el parlamento", "La contemplación pasiva"],
+    "correcta": 1,
+    "resolucion": "Según este filósofo, el hombre, como animal racional que es, debe ser feliz realizando y perfeccionando lo que le es más propio y lo define específicamente: la actividad intelectual."
+  },
+  {
+    "pregunta": "Según Aristóteles, la virtud consiste en el equilibrio puesto en el desarrollo de nuestras capacidades sin pecar por exceso ni defecto. A esto se le conoce como:",
+    "opciones": ["El imperativo categórico", "La ley de la naturaleza", "La aritmética de la felicidad", "La ley del término medio", "La virtud teologal"],
+    "correcta": 3,
+    "resolucion": "La virtud es, según Aristóteles, el equilibrio puesto en el desarrollo de nuestras capacidades sin pecar por exceso ni defecto: es la ley del término medio."
+  },
+  {
+    "pregunta": "En el contexto de la virtud aristotélica y la ley del término medio, ¿qué virtud se encontraría entre la temeridad y la cobardía?",
+    "opciones": ["La templanza", "La prudencia", "La justicia", "La caridad", "La valentía"],
+    "correcta": 4,
+    "resolucion": "Por ejemplo, entre la temeridad y la cobardía estaría la valentía."
+  },
+  {
+    "pregunta": "¿Qué pensadores plantean la versión cristiana del eudemonismo griego, situando la contemplación de Dios como el bien supremo?",
+    "opciones": ["Immanuel Kant y Jeremy Bentham", "John Stuart Mill y Karl Marx", "San Agustín y Santo Tomás de Aquino", "Aristóteles y Platón", "René Descartes y John Locke"],
+    "correcta": 2,
+    "resolucion": "Los pensadores cristianos a través de San Agustín y, sobre todo Santo Tomás de Aquino, plantean su versión del eudemonismo griego situando la búsqueda y contemplación de Dios como el bien y la felicidad suprema."
+  },
+  {
+    "pregunta": "En el eudemonismo cristiano, el hombre alcanzará la felicidad y perfección ejercitándose en las virtudes cardinales, las cuales son:",
+    "opciones": ["Fe, esperanza y caridad", "Prudencia, justicia, fortaleza y templanza", "Sabiduría, valentía y moderación", "Paz, obediencia y perdón", "Razón, utilidad y bienestar"],
+    "correcta": 1,
+    "resolucion": "El cristiano alcanzara la felicidad y la perfección ejercitándose en las virtudes cardinales: prudencia, justicia, fortaleza y templanza."
+  },
+  {
+    "pregunta": "En el esquema moral cristiano descrito en el texto, la fe, la esperanza y la caridad corresponden a las:",
+    "opciones": ["Virtudes teologales", "Virtudes cardinales", "Virtudes intelectuales", "Virtudes formales", "Virtudes naturales"],
+    "correcta": 0,
+    "resolucion": "El cristiano alcanzara la felicidad y la perfección ejercitándose... en las virtudes teologales: fe, esperanza y caridad."
+  },
+  {
+    "pregunta": "¿Qué característica define a los sistemas éticos que se consideran 'formales'?",
+    "opciones": ["Consideran que el sacrificio voluntario es inútil", "Se basan en alcanzar la mayor utilidad para la mayoría", "Consideran que la moral no debe ofrecer normas concretas, sino establecer la forma de toda norma moral", "Se centran exclusivamente en el eudemonismo y la felicidad", "Defienden que la ley moral debe venir impuesta desde fuera"],
+    "correcta": 2,
+    "resolucion": "Son formales aquellos sistemas que consideran que la moral no debe ofrecer normas concretas de conducta, sino limitarse a establecer cuál es la forma característica de toda norma moral."
+  },
+  {
+    "pregunta": "Según Immanuel Kant, para garantizar la autonomía moral de un ser libre y racional, la ley moral debe:",
+    "opciones": ["Ser impuesta por la autoridad civil", "Estar condicionada a un fin último como la felicidad", "Provenir de los instintos naturales", "Ser legislada por la propia razón humana", "Derivarse de la observación empírica"],
+    "correcta": 3,
+    "resolucion": "La ley o norma moral no puede venir impuesta desde fuera (ni por la naturaleza ni por la autoridad civil), sino que debe ser la razón humana la que debe darse a sí misma la ley."
+  },
+  {
+    "pregunta": "Para la ética kantiana, una norma moral sólo es expresable mediante:",
+    "opciones": ["Imperativos categóricos (incondicionados)", "Imperativos hipotéticos", "Mandatos de utilidad pública", "Leyes de la aritmética de la felicidad", "Consejos de prudencia"],
+    "correcta": 0,
+    "resolucion": "Esta ley establece como debemos actuar correctamente, sólo es expresable mediante imperativos (mandatos) categóricos (incondicionados)."
+  },
+  {
+    "pregunta": "A diferencia del imperativo categórico, los imperativos que sólo tienen validez como 'medio para alcanzar un fin' y son propios de las éticas materiales se denominan:",
+    "opciones": ["Imperativos universales", "Imperativos lógicos", "Imperativos hipotéticos", "Imperativos formales", "Imperativos utilitaristas"],
+    "correcta": 2,
+    "resolucion": "Estos se diferencian de los imperativos hipotéticos, propios de las éticas materiales, que expresan una norma que sólo tiene validez como medio para alcanzar un fin."
+  },
+  {
+    "pregunta": "¿Cuál es la formulación del imperativo categórico propuesto por Immanuel Kant en la lectura?",
+    "opciones": ["Busca siempre la máxima felicidad y el mínimo dolor", "Obra de tal modo que tu acción pueda convertirse en ley universal", "El fin justifica los medios en toda acción moral", "Actúa según el término medio de tus pasiones", "La utilidad pública es la norma de tu actuar"],
+    "correcta": 1,
+    "resolucion": "Por contra, el imperativo categórico que formula Kant es: Obra de tal modo que tu acción pueda convertirse en ley universal."
+  },
+  {
+    "pregunta": "El imperativo categórico de Kant NO nos dice qué tenemos que hacer específicamente, sino que su función principal es:",
+    "opciones": ["Enseñar a ser virtuosos en la polis", "Dictar las leyes de la religión cristiana", "Alcanzar el bienestar económico", "Servir de criterio para saber qué normas son morales y cuáles no (universalizables)", "Producir felicidad para la mayoría"],
+    "correcta": 3,
+    "resolucion": "Este imperativo no depende de ningún fin y, además, no nos dice qué tenemos que hacer, sino que sirve de criterio para saber qué normas son morales y cuáles no."
+  },
+  {
+    "pregunta": "En la teoría del Utilitarismo, ¿cuál es el principio fundamental que debe guiar toda acción moral?",
+    "opciones": ["Que sea producto del imperativo categórico", "Que cumpla con el término medio aristotélico", "Que sea útil, es decir, que produzca felicidad", "Que esté impuesta por la autoridad legislativa", "Que garantice el sacrificio individual constante"],
+    "correcta": 2,
+    "resolucion": "Para el utilitarismo... el principio que debe guiar toda acción moral, si quiere ser moral, es que sea útil, es decir, que produzca felicidad."
+  },
+  {
+    "pregunta": "¿Quiénes son los dos principales filósofos mencionados como representantes de la corriente del utilitarismo?",
+    "opciones": ["Immanuel Kant y Santo Tomás", "Aristóteles y San Agustín", "Jeremy Bentham y John Stuart Mill", "Karl Marx y Friedrich Engels", "René Descartes y David Hume"],
+    "correcta": 2,
+    "resolucion": "Para el utilitarismo de Jeremy Bentham (1748-1832) y de John Stuart Mill (1806-1874)...."
+  },
+  {
+    "pregunta": "Respecto a la visión del comportamiento útil, tanto Bentham como Stuart Mill NO admiten una versión:",
+    "opciones": ["Colectiva y solidaria", "Egoísta y antisocial", "Racional y universalizable", "Aritmética y política", "Humanista e ilustrada"],
+    "correcta": 1,
+    "resolucion": "Ni Bentham ni Stuart Mill, admiten una versión egoísta y antisocial del comportamiento útil del hombre. Defienden la utilidad pública...."
+  },
+  {
+    "pregunta": "En la ética utilitarista, el sacrificio personal:",
+    "opciones": ["Es considerado el bien moral supremo", "Es inútil y siempre debe evitarse bajo toda circunstancia", "Solo se consiente si entre sus consecuencias está producir beneficios para la mayoría", "Es un imperativo categórico universal", "Es el camino para contemplar a Dios"],
+    "correcta": 2,
+    "resolucion": "Solamente consiente en el sacrificio voluntario si entre sus consecuencias está la producción de beneficios para la mayoría o para otros."
+  },
+  {
+    "pregunta": "Según la conclusión del texto, el utilitarismo puede definirse esencialmente como una ética orientada hacia:",
+    "opciones": ["El deber incondicionado", "El castigo y la culpa", "La felicidad y el bienestar", "La ascesis y el sufrimiento", "La pura contemplación de las formas puras"],
+    "correcta": 2,
+    "resolucion": "El utilitarismo es, por tanto, una ética de la felicidad y del bienestar...."
+  },
+  {
+    "pregunta": "La expresión 'la aritmética de la felicidad utilitarista' significa fundamentalmente:",
+    "opciones": ["Reparto igualitario del dinero y propiedades", "Máxima felicidad y mínimo dolor para todos", "Conteo exacto de los mandatos formales cumplidos", "Cálculo de votos en la aritmética parlamentaria", "Multiplicación de los placeres puramente intelectuales"],
+    "correcta": 1,
+    "resolucion": "Se puede asegurar que “la aritmética de la felicidad utilitarista” –máxima felicidad y mínimo dolor para todos– no es equivalente a la aritmética parlamentaria ni a la distribución de la riqueza."
+  },
+  {
+    "pregunta": "A diferencia del Formalismo de Kant, el Eudemonismo y el Utilitarismo comparten en el fondo un enfoque moral orientado a:",
+    "opciones": ["La contemplación del imperativo categórico puro", "Una meta final que el hombre busca (la felicidad o utilidad) en vez de un mandato sin fin específico", "La negación de toda virtud individual", "El establecimiento de leyes incondicionadas formales", "El rechazo absoluto de cualquier bienestar material"],
+    "correcta": 1,
+    "resolucion": "El eudemonismo... pregona la felicidad como meta suprema. El utilitarismo... debe guiar toda acción moral... a que sea útil, es decir, que produzca felicidad. Kant, en cambio, establece imperativos categóricos que 'no dependen de ningún fin'."
+  }
+          ]
+  }
+      ]
     }
   ]
 }
