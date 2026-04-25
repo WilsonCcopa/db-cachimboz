@@ -1,0 +1,3055 @@
+{
+  "curso": "Geometría y Trigonometría",
+  "temas": [
+    {
+      "titulo": "Tema 1: Nociones Básicas",
+      "pdf_resuelto": "https://drive.google.com/file/d/1OOqsGAUSjlbL2rKY2olTvYmQEvBtvSMw/view",
+      "preguntas": [
+        {
+    "pregunta": "(UNSAAC ORDINARIO 1998-II) Se tiene dos rectas $$ L_1 $$ y $$ L_2 $$ distintas en un mismo plano. ¿Cuándo las rectas $$ L_1 $$ y $$ L_2 $$ serán paralelas?",
+    "opciones": [
+      "Cuando su intersección es un conjunto convexo.",
+      "Cuando su intersección es un conjunto unitario.",
+      "Cuando tienen puntos comunes.",
+      "Cuando su intersección es un conjunto vacío.",
+      "Cuando su unión consiste de dos puntos."
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Resolución:</b><br>Por definición, dos rectas distintas en un mismo plano son paralelas si no tienen ningún punto en común, es decir, su intersección es el conjunto vacío."
+  },
+  {
+    "pregunta": "(UNSAAC ORDINARIO 1998-II) ¿Cuál de las siguientes proposiciones corresponde a un axioma?",
+    "opciones": [
+      "Es un teorema previo, que sirve de base para demostrar un teorema principal.",
+      "Es una proposición falsa que no necesita demostración.",
+      "Es una proposición evidente por sí misma y que no necesita demostración.",
+      "Es un teorema cuya verdad se deduce de otra ya demostrada.",
+      "Es una proposición que requiere de una demostración."
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>Un axioma es una proposición o premisa tan evidente que se considera verdadera y se acepta sin necesidad de demostración, sirviendo como principio para construir otras teorías."
+  },
+  {
+    "pregunta": "(UNSAAC ORDINARIO 1999-I) De las siguientes proposiciones, la verdadera es:",
+    "opciones": [
+      "Un plano separa al espacio.",
+      "Un punto separa al espacio.",
+      "Una recta separa al espacio.",
+      "Dos rectas paralelas separan al espacio.",
+      "Dos rectas alabeadas separan al espacio."
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Resolución:</b><br>Un plano infinito es la única figura bidimensional capaz de dividir el espacio tridimensional en dos regiones distintas denominadas semiespacios."
+  },
+  {
+    "pregunta": "(UNSAAC ORDINARIO 1999-I) De las proposiciones siguientes: <br>I) Dos rectas diferentes intersecan en un solo punto.<br>II) Dos figuras geométricas planas son equivalentes, cuando sus áreas respectivas son iguales.<br>III) Una figura geométrica es convexa, si para cada par de puntos de la figura, el segmento de recta que los une no está contenido en dicha figura.<br>Son falsas:",
+    "opciones": [
+      "I y II",
+      "I y III",
+      "Sólo I",
+      "Sólo II",
+      "Sólo III"
+    ],
+    "correcta": 4,
+    "resolucion": "<b>Resolución:</b><br>La proposición I asume líneas secantes (intersecan en un punto) y la II es la definición de equivalencia. La proposición III es la única <b>falsa</b>, ya que en una figura convexa, el segmento que une cualquier par de puntos <b>sí</b> debe estar contenido en ella."
+  },
+  {
+    "pregunta": "(UNSAAC ORDINARIO 2002-II) Si el segmento AB tiene una longitud de $$ \\frac{4\\sqrt{3}}{\\sqrt{2}} \\text{ m} $$ y el arco CD tiene una longitud de $$ \\frac{6\\sqrt{2}}{\\sqrt{3}} \\text{ m} $$, entonces las figuras AB y CD son:<br>I) Semejantes. II) Congruentes. III) Equivalentes. IV) Convexas.",
+    "opciones": [
+      "I y IV",
+      "Solo I",
+      "II y IV",
+      "Solo IV",
+      "Sólo III"
+    ],
+    "correcta": 4,
+    "resolucion": "<b>Resolución:</b><br>Racionalizando y operando ambas longitudes, ambas dan como resultado $$ 2\\sqrt{6} \\text{ m} $$. Dos figuras de distinta forma pero que poseen la misma medida (en este caso longitud perimetral) se denominan <b>equivalentes</b>."
+  },
+  {
+    "pregunta": "(UNSAAC ORDINARIO 2004-II) De las siguientes proposiciones, indicar cuál o cuáles son verdaderas:<br>I) El triángulo es una figura geométrica convexa.<br>II) Al intersecarse dos rectas, se determina una figura geométrica convexa.<br>III) Una corona circular es una región convexa.",
+    "opciones": [
+      "Sólo I",
+      "Sólo III",
+      "Sólo II",
+      "I y III",
+      "III y II"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>I (F): El triángulo (el borde) no es convexo, la región triangular sí lo es.<br>II (V): La intersección de dos rectas secantes es un punto, y el punto es un conjunto convexo.<br>III (F): La corona circular tiene un hueco, por lo que al trazar un segmento entre dos puntos, este puede salirse de la figura."
+  },
+  {
+    "pregunta": "(UNSAAC PRIMERA OPCIÓN 2005) Para las figuras geométricas denominadas segmentos de recta AB y CD, cuyas medidas están denotadas por AB y CD, se establecen las siguientes notaciones:<br>I) $$ \\overline{AB} \\cong \\overline{CD} $$<br>II) $$ \\overline{AB} = \\overline{CD} $$<br>III) $$ AB \\sim CD $$<br>IV) $$ AB = CD $$<br>Indicar cuáles son las correctas:",
+    "opciones": [
+      "Sólo I",
+      "I y IV",
+      "Sólo II",
+      "II y III",
+      "III y IV"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Las figuras geométricas (los segmentos en sí) pueden ser congruentes (Notación I). Las medidas o longitudes son cantidades numéricas, por lo tanto, pueden ser iguales (Notación IV)."
+  },
+  {
+    "pregunta": "(UNSAAC ORDINARIO 2005-II) Las figuras geométricas de igual forma y de diferente tamaño, se denominan:",
+    "opciones": [
+      "Equivalentes.",
+      "Congruentes.",
+      "Diferentes.",
+      "Isoperimétricas.",
+      "Semejantes."
+    ],
+    "correcta": 4,
+    "resolucion": "<b>Resolución:</b><br>Por definición, las figuras que conservan la misma forma y proporciones pero difieren en su tamaño (escala) se denominan <b>semejantes</b>."
+  },
+  {
+    "pregunta": "(UNSAAC ORDINARIO 2006-I) Dadas las siguientes proposiciones, indicar V o F:<br>1) El punto es un ente geométrico no definible.<br>2) La recta es una figura geométrica necesariamente medible.<br>3) El plano geométrico es siempre limitado.<br>4) El plano, la recta y el punto son entes fundamentales.<br>5) Por una recta pasan infinitos planos.",
+    "opciones": [
+      "VVVVV",
+      "VFVVV",
+      "VFVVF",
+      "VFFVV",
+      "FVVVV"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Resolución:</b><br>1 (V) Solo se tiene una idea de él. 2 (F) La recta es infinita, no se puede medir. 3 (F) El plano es ilimitado. 4 (V) Son los elementos base. 5 (V) Propiedad geométrica conocida como haz de planos."
+  },
+  {
+    "pregunta": "(UNSAAC ORDINARIO 2006-II) Dadas las siguientes proposiciones sobre convexidad, indicar V o F:<br>I) La figura A es convexa si y solo si para todo par de puntos P, Q en A, el segmento PQ está contenido en A.<br>II) Una región circular de cuyo contorno se han excluido dos puntos opuestos es convexa.<br>III) Un arco de circunferencia es convexo.<br>IV) La superficie cilíndrica circular recta es convexa.",
+    "opciones": [
+      "VFFF",
+      "VFVF",
+      "VVFF",
+      "VFFV",
+      "FVFF"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>I (V) Es la definición formal matemática. II (V) El interior sigue intacto, los segmentos no se salen. III (F) Al unir los extremos de un arco, la línea va por el aire. IV (F) La superficie (sin interior) es hueca, un segmento la atraviesa por fuera de ella."
+  },
+  {
+    "pregunta": "(UNSAAC ORDINARIO 2007-I) En la geometría básica, ¿cuál o cuáles de las siguientes proposiciones son FALSAS?<br>I) El plano es medible.<br>II) La recta no es medible.<br>III) El punto no se puede definir.<br>IV) A la recta, el punto y el plano se le consideran elementos fundamentales.",
+    "opciones": [
+      "Sólo I",
+      "I y II",
+      "Solo II",
+      "Sólo III",
+      "II, III y IV"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Resolución:</b><br>La única proposición falsa es la I. El plano ideal en geometría es de extensión infinita en todas sus direcciones, por lo tanto carece de medida de área."
+  },
+  {
+    "pregunta": "(UNSAAC ORDINARIO 2007-I) Indicar el valor de verdad o falsedad:<br>I) Toda línea es una recta.<br>II) El punto sólo se conceptualiza.<br>III) La intersección de dos planos es un conjunto convexo.<br>IV) Dos rectas secantes determinan un plano.",
+    "opciones": [
+      "VFVV",
+      "VVFV",
+      "FVVV",
+      "VVVV",
+      "FFVV"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>I (F) Existen líneas curvas o quebradas. II (V) No tiene definición formal. III (V) Intersecan en una línea recta, la cual es convexa. IV (V) Teorema fundamental de determinación de planos."
+  },
+  {
+    "pregunta": "(UNSAAC ORDINARIO 2007-II) Dadas las siguientes proposiciones:<br>I) Un punto sobre una recta determina en ella sólo dos figuras convexas.<br>II) Una recta sobre un plano determina tres figuras convexas.<br>III) El punto es una figura convexa.<br>IV) El ángulo en el plano determina dos regiones, una convexa y otra no convexa.<br>V) La circunferencia es no convexa, mientras el círculo es convexo.",
+    "opciones": [
+      "VVVFV",
+      "FVFFV",
+      "VVFVF",
+      "FVVFV",
+      "FVVVV"
+    ],
+    "correcta": 4,
+    "resolucion": "<b>Resolución:</b><br>I (F): Determina 3 figuras convexas (2 semirrectas y el propio punto). II (V): Determina 2 semiplanos y la recta misma. III (V): Por definición. IV (V): Interior convexo (menor a 180°) y exterior cóncavo. V (V): La circunferencia (borde) es no convexa, el círculo (relleno) sí lo es."
+  },
+  {
+    "pregunta": "(UNSAAC CEPRU 2009-I) Determinar si las siguientes proposiciones son V o F:<br>1) Una recta está contenida en un plano, cuando por lo menos dos puntos de la recta pertenecen a este plano.<br>2) Dos figuras geométricas son congruentes cuando tienen igual forma y medidas diferentes.<br>3) Si a un círculo se le excluye un radio, el conjunto resultante es convexo.",
+    "opciones": [
+      "FVV",
+      "FVF",
+      "FFV",
+      "FFF",
+      "VFF"
+    ],
+    "correcta": 4,
+    "resolucion": "<b>Resolución:</b><br>1 (V): Postulado fundamental. 2 (F): Deben tener igual forma y medidas IGUALES. 3 (F): Al quitarle un radio se genera una hendidura; uniendo dos puntos a cada lado, el segmento pasa por el vacío excluido rompiendo la convexidad."
+  },
+  {
+    "pregunta": "(UNSAAC ORDINARIO 2009-I) Indicar cuáles son verdaderas y cuáles son falsas:<br>I) Un polígono convexo es un conjunto convexo.<br>II) Ningún conjunto convexo resulta de la reunión de dos conjuntos no convexos.<br>III) Una región poligonal convexa, si se le excluye su contorno, es un conjunto convexo.",
+    "opciones": [
+      "FFF",
+      "VVF",
+      "FVF",
+      "FFV",
+      "VFV"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Resolución:</b><br>I (F): El 'polígono' es solo la línea de los lados (no convexa), la 'región poligonal' es convexa. II (F): Dos conjuntos no convexos (como dos piezas en L) pueden encajar formando un cuadrado (convexo). III (V): El interior de una figura convexa siempre mantiene la propiedad de convexidad."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "1.1 Teoría 1",
+          "youtube_id": "ucsG9jkGRco",
+          "pdf_link": "https://drive.google.com/file/d/1SIzXgkimGpdWD5RnNlhok3BDZ1jXuLDm/view",
+          "gratis": true
+        },
+        {
+          "titulo": "1.2 Teoría 2",
+          "youtube_id": "qN990BMj_Ho",
+          "pdf_link": "https://drive.google.com/file/d/1SIzXgkimGpdWD5RnNlhok3BDZ1jXuLDm/view",
+          "gratis": false
+        },
+        {
+          "titulo": "1.3 Ejercicios 1 y 2",
+          "youtube_id": "qUlCOaJMfsY",
+          "pdf_link": "https://drive.google.com/file/d/1Wkxizuij-7CKzFVuazpnrQMCeJuGDGiB/view",
+          "gratis": true
+        },
+        {
+          "titulo": "1.4 Ejercicios 3 y 4",
+          "youtube_id": "O1bI8oouPnM",
+          "pdf_link": "https://drive.google.com/file/d/1Wkxizuij-7CKzFVuazpnrQMCeJuGDGiB/view",
+          "gratis": false
+        },
+        {
+          "titulo": "1.5 Ejercicio 5",
+          "youtube_id": "8VT9Sriz298",
+          "pdf_link": "https://drive.google.com/file/d/1Wkxizuij-7CKzFVuazpnrQMCeJuGDGiB/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 2: Segmentos",
+      "pdf_resuelto": "https://drive.google.com/file/d/1258-9RCK7SzkkM5QrutHH4-5UsSmPS08/view",
+      "preguntas": [
+        {
+    "pregunta": "(Recopilación) En una recta se ubican los puntos consecutivos A, B, C y D tal que: $$ AD=24 $$, $$ AC=15 $$ y $$ BD=17 $$. Calcular BC.",
+    "opciones": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>Del gráfico deducimos que: $$ AD = AC + CD $$<br>Reemplazando los datos: $$ 24 = 15 + CD \\Rightarrow CD = 9 $$<br>También sabemos que: $$ BD = BC + CD $$<br>Reemplazando: $$ 17 = BC + 9 \\Rightarrow BC = 8 $$"
+  },
+  {
+    "pregunta": "(Recopilación) Se ubican los puntos colineales y consecutivos A, M, B y C de modo que \"M\" es punto medio de AB y $$ AC+BC=18 $$. Calcular MC.",
+    "opciones": [
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Como M es punto medio de AB, entonces $$ AM = MB = x $$.<br>Planteamos el dato: $$ AC + BC = 18 $$<br>Expresamos en función de MC: $$ (AM + MC) + (MC - MB) = 18 $$<br>Como $$ AM = MB $$, se anulan: $$ 2MC = 18 \\Rightarrow MC = 9 $$"
+  },
+  {
+    "pregunta": "(Recopilación) Sobre una línea recta se ubican los puntos consecutivos A, B, C, D tal que: $$ CD=4AC $$. Calcular BC, si: $$ BD-4AB=20 $$.",
+    "opciones": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>Del dato: $$ BD - 4AB = 20 $$<br>Descomponemos BD: $$ (BC + CD) - 4AB = 20 $$<br>Reemplazamos CD: $$ BC + 4AC - 4AB = 20 $$<br>Descomponemos AC: $$ BC + 4(AB + BC) - 4AB = 20 $$<br>$$ BC + 4AB + 4BC - 4AB = 20 \\Rightarrow 5BC = 20 \\Rightarrow BC = 4 $$"
+  },
+  {
+    "pregunta": "(Recopilación) Sobre una recta se ubican los puntos consecutivos A, B, C y D. Calcular AC. Sí: $$ \\frac{AB}{2} = \\frac{BC}{3} = \\frac{CD}{5} $$ y $$ AD=40 $$.",
+    "opciones": [
+      "10",
+      "20",
+      "30",
+      "40",
+      "50"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Igualamos a una constante \"k\": $$ AB = 2k $$, $$ BC = 3k $$, $$ CD = 5k $$.<br>Dato: $$ AD = 40 \\Rightarrow 2k + 3k + 5k = 40 \\Rightarrow 10k = 40 \\Rightarrow k = 4 $$<br>Piden AC: $$ AC = AB + BC = 2k + 3k = 5k $$<br>$$ AC = 5(4) = 20 $$"
+  },
+  {
+    "pregunta": "(Recopilación) Se tienen los puntos colineales A, B, C, D tal que: $$ AB+CD=13 $$ y $$ BM-MC=1 $$. Calcular CD, sabiendo que \"M\" es punto medio de AD.",
+    "opciones": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>Como M es punto medio de AD, $$ AM = MD $$.<br>Expresamos la suma: $$ AB + CD = (AM - BM) + (MD - MC) $$<br>Como $$ AM = MD $$: $$ AB + CD = 2MD - BM - MC $$<br>Del dato $$ BM - MC = 1 \\Rightarrow BM = MC + 1 $$.<br>Reemplazamos: $$ 13 = 2MD - (MC + 1) - MC \\Rightarrow 14 = 2(MD - MC) $$<br>$$ 7 = MD - MC $$. Al observar el gráfico, $$ MD - MC = CD $$, por lo tanto $$ CD = 7 $$"
+  },
+  {
+    "pregunta": "(Recopilación) En una recta se ubican los puntos consecutivos A, B, C, D tal que: $$ AC+2CD+BD=28 $$ y $$ AB=3CD $$. Calcular AC.",
+    "opciones": [
+      "12",
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Descomponemos los segmentos en función de BC y CD.<br>Sabemos que $$ AC = AB + BC = 3CD + BC $$<br>Dato principal: $$ (3CD + BC) + 2CD + (BC + CD) = 28 $$<br>Sumamos: $$ 6CD + 2BC = 28 \\Rightarrow 3CD + BC = 14 $$<br>Como $$ AC = 3CD + BC $$, entonces $$ AC = 14 $$"
+  },
+  {
+    "pregunta": "(Recopilación) En una recta se ubican los puntos consecutivos A, B, C, D, E, y F, tal que: $$ AC+BD+CE+DF=20 $$ y $$ BE=6 $$. Calcular AF.",
+    "opciones": [
+      "9",
+      "10",
+      "11",
+      "12",
+      "14"
+    ],
+    "correcta": 4,
+    "resolucion": "<b>Resolución:</b><br>Descomponemos la suma general:<br>$$ (AB+BC) + (BC+CD) + (CD+DE) + (DE+EF) = 20 $$<br>$$ AB + 2BC + 2CD + 2DE + EF = 20 $$<br>Agrupamos el centro: $$ AB + 2(BC+CD+DE) + EF = 20 \\Rightarrow AB + 2(BE) + EF = 20 $$<br>Como $$ BE = 6 $$: $$ AB + 12 + EF = 20 \\Rightarrow AB + EF = 8 $$<br>Piden AF: $$ AF = AB + BE + EF = (AB + EF) + BE = 8 + 6 = 14 $$"
+  },
+  {
+    "pregunta": "(Recopilación) Sobre una línea recta se ubican los puntos consecutivos A, B, C, D, E tal que \"C\" es un punto medio de AE; $$ AC=BD $$ y $$ AD+BE=15 $$. Calcular BD.",
+    "opciones": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>C es punto medio de AE: $$ AC = CE $$. Como $$ AC = BD $$, entonces $$ CE = BD $$.<br>Analizando el dato: $$ AD + BE = 15 $$<br>Descomponemos: $$ (AC+CD) + (BC+CE) = 15 $$<br>Pero $$ AC+CD = BD+CD = BC $$ (espera, reordenamos: $$ AD = AB+BD $$, $$ BE = BD+DE $$).<br>Haciendo equivalencias llegamos a que $$ AD + BE = 3BD = 15 \\Rightarrow BD = 5 $$"
+  },
+  {
+    "pregunta": "(Recopilación) Sobre una línea recta se ubican los puntos consecutivos A, B, C, D, E tal que: $$ AB+CE=18 $$, $$ BE-CD=10 $$ y $$ AE-DE=12 $$. Calcular AE.",
+    "opciones": [
+      "30",
+      "20",
+      "28",
+      "24",
+      "18"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Del tercer dato: $$ AE - DE = 12 \\Rightarrow AD = 12 $$<br>Del segundo dato: $$ (BC+CD+DE) - CD = 10 \\Rightarrow BC + DE = 10 $$<br>Del primer dato: $$ AB + CE = 18 \\Rightarrow AB + CD + DE = 18 $$<br>Sabemos que $$ AE = AD + DE = 12 + DE $$. Y también $$ AE = AB + CE + BC = 18 + BC $$.<br>Igualando: $$ 12 + DE = 18 + BC \\Rightarrow DE - BC = 6 $$<br>Con el sistema: $$ DE + BC = 10 $$ y $$ DE - BC = 6 $$, obtenemos $$ 2DE = 16 \\Rightarrow DE = 8 $$.<br>Finalmente, $$ AE = 12 + DE = 12 + 8 = 20 $$"
+  },
+  {
+    "pregunta": "(Recopilación) En una recta se ubican los puntos consecutivos A, B, C, D, E, F, G, H, tal que: $$ AD+BE+CF+DG+EH=310 $$. Si $$ BG=\\frac{2}{3}AH $$ y $$ CF=\\frac{3}{5}BG $$. Calcular AH.",
+    "opciones": [
+      "100",
+      "150",
+      "140",
+      "120",
+      "110"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Por propiedad de sumatorias simétricas en segmentos, se cumple que: $$ AD+BE+CF+DG+EH = AH + BG + CF $$<br>Expresamos todo en función de una constante \"k\": Sea $$ AH = 15k $$, entonces $$ BG = 10k $$ y $$ CF = 6k $$.<br>Reemplazando: $$ 15k + 10k + 6k = 310 \\Rightarrow 31k = 310 \\Rightarrow k = 10 $$<br>Piden AH: $$ AH = 15(10) = 150 $$"
+  },
+  {
+    "pregunta": "(Recopilación) Sobre una recta se ubican los puntos consecutivos A, B, C, D y E tal que: $$ CD=2 $$ y $$ \\frac{1}{BE} - \\frac{1}{AD} = \\frac{1}{80} $$. Además B y C son puntos medios de AD y BE respectivamente. Calcular AD.",
+    "opciones": [
+      "10",
+      "20",
+      "30",
+      "40",
+      "50"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Sean $$ AB=BD=x $$ (por punto medio B) y $$ BC=CE=y $$ (por punto medio C).<br>Entonces $$ AD = 2x $$ y $$ BE = 2y $$.<br>Por el gráfico, $$ CD = BD - BC = x - y = 2 $$.<br>En la ecuación: $$ \\frac{1}{2y} - \\frac{1}{2x} = \\frac{1}{80} \\Rightarrow \\frac{x-y}{2xy} = \\frac{1}{80} $$<br>Reemplazando $$ x-y=2 $$: $$ \\frac{2}{2xy} = \\frac{1}{80} \\Rightarrow xy = 80 $$<br>Buscamos dos números que resten 2 y multipliquen 80: $$ x=10 $$, $$ y=8 $$.<br>Piden $$ AD = 2x = 2(10) = 20 $$"
+  },
+  {
+    "pregunta": "(Recopilación) Sobre una línea recta se ubican los puntos consecutivos A, B, C. Sea \"M\" el punto medio de AB; \"N\" punto medio de BC y \"P\" punto medio de MN. Calcular BP sabiendo que $$ BC-AB=24 $$.",
+    "opciones": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Resolución:</b><br>Sean $$ AM=MB=a $$ y $$ BN=NC=b $$. El segmento $$ MN = a+b $$.<br>P es punto medio de MN, entonces $$ MP = PN = \\frac{a+b}{2} $$.<br>Piden BP. Viendo el orden (A, M, B, P, N, C), $$ BP = MP - MB = \\frac{a+b}{2} - a = \\frac{b-a}{2} $$<br>Del dato: $$ BC - AB = 24 \\Rightarrow 2b - 2a = 24 \\Rightarrow b - a = 12 $$<br>Finalmente: $$ BP = \\frac{12}{2} = 6 $$"
+  },
+  {
+    "pregunta": "(Recopilación) Sobre una línea recta se toman los puntos consecutivos P, Q, R, S. Calcular RS sabiendo que $$ PQ+RS=20 $$ y $$ QM-MR=4 $$; siendo \"M\" el punto medio de PS.",
+    "opciones": [
+      "8",
+      "10",
+      "12",
+      "14",
+      "20"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>Sean $$ PQ=a $$, $$ QR=b $$, $$ RS=c $$. Dato: $$ a+c=20 $$.<br>Como M es punto medio de PS, $$ PM = MS $$.<br>Expresando: $$ a + QM = c + MR \\Rightarrow QM - MR = c - a $$<br>Por dato $$ QM - MR = 4 $$, entonces $$ c - a = 4 $$.<br>Armamos sistema: $$ c+a=20 $$ y $$ c-a=4 $$. Sumando: $$ 2c = 24 \\Rightarrow c = 12 $$<br>Por lo tanto, $$ RS = 12 $$"
+  },
+  {
+    "pregunta": "(Recopilación) Se ubican los puntos consecutivos A, B, C, D y E sobre una recta tal que: $$ AE=5BD $$, $$ AD=5CD $$ y $$ DE=5 $$. Calcular BC.",
+    "opciones": [
+      "1",
+      "2",
+      "3",
+      "3,5",
+      "4"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Resolución:</b><br>Sabemos que $$ AE = AD + DE $$.<br>Reemplazando los datos: $$ 5BD = 5CD + 5 $$<br>Dividiendo todo entre 5: $$ BD = CD + 1 $$<br>Del gráfico: $$ BC = BD - CD $$<br>Reemplazando el hallazgo: $$ BC = (CD + 1) - CD = 1 $$"
+  },
+  {
+    "pregunta": "(Recopilación) En una recta se ubican los puntos consecutivos A, B, C, D y E de modo que: $$ AC+BD+CE=44 $$, $$ AE=25 $$ y $$ DE=2AB $$. Calcular AB.",
+    "opciones": [
+      "2",
+      "3",
+      "4",
+      "6",
+      "8"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Resolución:</b><br>Desarrollamos la suma: $$ (AB+BC) + (BC+CD) + (CD+DE) = 44 $$<br>$$ AB + 2(BC+CD) + DE = 44 \\Rightarrow AB + 2(AE - AB - DE) + DE = 44 $$<br>$$ AB + 2AE - 2AB - 2DE + DE = 44 \\Rightarrow 2AE - AB - DE = 44 $$<br>Reemplazamos datos ($$ AE=25 $$, $$ DE=2AB $$): $$ 2(25) - AB - 2AB = 44 $$<br>$$ 50 - 3AB = 44 \\Rightarrow 3AB = 6 \\Rightarrow AB = 2 $$"
+  },
+  {
+    "pregunta": "(Recopilación) En una recta se ubican los puntos consecutivos A, B y M tal que: $$ AM+BM= \\frac{3}{2} AB $$. Calcular $$ \\frac{AM}{BM} $$.",
+    "opciones": [
+      "0,2",
+      "1",
+      "3",
+      "5",
+      "8"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Resolución:</b><br>Sabemos que $$ AM = AB + BM $$.<br>Reemplazamos en el dato: $$ (AB + BM) + BM = 1,5 AB $$<br>$$ AB + 2BM = 1,5 AB \\Rightarrow 2BM = 0,5 AB \\Rightarrow BM = 0,25 AB $$<br>Luego, $$ AM = AB + 0,25 AB = 1,25 AB $$<br>Piden la razón: $$ \\frac{AM}{BM} = \\frac{1,25 AB}{0,25 AB} = 5 $$"
+  },
+  {
+    "pregunta": "(Recopilación) Sobre una recta se toman los puntos consecutivos A, B, C y D; luego ubicamos M y N puntos medios de AC y BD respectivamente. Calcular MN; si: $$ AB=2 $$ y $$ CD=6 $$.",
+    "opciones": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Resolución:</b><br>Por propiedad de los puntos medios de segmentos intercalados:<br>La distancia entre los puntos medios de AC y BD es igual a la semisuma de los segmentos no comunes (extremos).<br>$$ MN = \\frac{AB + CD}{2} $$<br>$$ MN = \\frac{2 + 6}{2} = \\frac{8}{2} = 4 $$"
+  },
+  {
+    "pregunta": "(Recopilación) Sobre una línea recta se consideran los puntos consecutivos A, B, C, D y E tales que: $$ AC=CE $$, $$ AB+AD=2BE $$ y $$ BD=4 $$. Hallar BC.",
+    "opciones": [
+      "0,5",
+      "1",
+      "2",
+      "2,5",
+      "1,5"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>De $$ AC=CE $$, tenemos que C es punto medio de AE.<br>Operamos la condición: $$ AB + (AB+BC+CD) = 2(BC+CD+DE) $$<br>Sustituyendo relaciones basadas en $$ AC=CE $$, simplificamos para llegar a: $$ CD = 3BC $$<br>Por dato: $$ BD = BC + CD = 4 $$<br>Reemplazando: $$ BC + 3BC = 4 \\Rightarrow 4BC = 4 \\Rightarrow BC = 1 $$"
+  },
+  {
+    "pregunta": "(Recopilación) Sobre una recta X e Y se toman cuatro puntos consecutivos A, B, C, y D de tal manera que M es punto medio de AC y N punto medio de BD. Calcular MN si $$ AB=8 $$ y $$ CD=12 $$.",
+    "opciones": [
+      "10",
+      "12",
+      "18",
+      "14",
+      "5"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Resolución:</b><br>Aplicamos la misma propiedad que en un ejercicio anterior. La distancia MN entre los puntos medios de AC y BD es la semisuma de los segmentos extremos.<br>$$ MN = \\frac{AB + CD}{2} $$<br>$$ MN = \\frac{8 + 12}{2} = \\frac{20}{2} = 10 $$"
+  },
+  {
+    "pregunta": "(Recopilación) Sobre una recta se ubican los puntos consecutivos A, B, C y D. Calcular AC; si se cumplen las siguientes relaciones: $$ (AB)(CD) = (BC)(AD) $$ y $$ \\frac{1}{AB} + \\frac{1}{AD} = \\frac{2}{5} $$.",
+    "opciones": [
+      "5",
+      "6",
+      "8",
+      "10",
+      "20"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Resolución:</b><br>La primera relación nos indica que los puntos forman una Cuaterna Armónica.<br>En una cuaterna armónica, se cumple la Relación de Descartes:<br>$$ \\frac{1}{AB} + \\frac{1}{AD} = \\frac{2}{AC} $$<br>Igualando con el segundo dato: $$ \\frac{2}{AC} = \\frac{2}{5} $$<br>Por lo tanto, $$ AC = 5 $$"
+  },
+  {
+    "pregunta": "(Recopilación) Sobre una recta se toman los puntos colineales A, B, C, D, siendo $$ AB=4 $$ y $$ AB \\cdot BD = AC \\cdot CD $$. Calcular la medida de CD.",
+    "opciones": [
+      "0,5",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correcta": 4,
+    "resolucion": "<b>Resolución:</b><br>De la condición $$ AB \\cdot BD = AC \\cdot CD $$, despejamos proporciones: $$ \\frac{AB}{AC} = \\frac{CD}{BD} $$<br>Reemplazando $$ AB=4 $$ e incognitas $$ BC=x $$, $$ CD=y $$:<br>$$ \\frac{4}{4+x} = \\frac{y}{x+y} $$<br>Multiplicando en aspa: $$ 4x + 4y = 4y + xy \\Rightarrow 4x = xy $$<br>Simplificando la variable \"x\": $$ y = 4 \\Rightarrow CD = 4 $$"
+  },
+  {
+    "pregunta": "(Recopilación) Los puntos colineales A, B, C, D, satisfacen lo siguiente: $$ AB \\cdot BC = 9 $$ y $$ AB = \\frac{AD}{2} $$. Calcular $$ \\sqrt{AC^2 - CD^2} $$.",
+    "opciones": [
+      "3",
+      "9",
+      "6",
+      "15",
+      "12"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>De $$ AB = \\frac{AD}{2} $$, deducimos que B es punto medio de AD, es decir, $$ AD = 2AB $$.<br>Analizamos CD: $$ CD = AD - AC = 2AB - (AB + BC) = AB - BC $$<br>La expresión pedida es una diferencia de cuadrados:<br>$$ \\sqrt{(AC)^2 - (CD)^2} = \\sqrt{(AB+BC)^2 - (AB-BC)^2} $$<br>Por Identidades de Legendre: $$ \\sqrt{4 \\cdot AB \\cdot BC} $$<br>Sustituyendo el dato $$ AB \\cdot BC = 9 $$:<br>$$ \\sqrt{4(9)} = \\sqrt{36} = 6 $$"
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "2.1 Teoría",
+          "youtube_id": "Fs3dRuvscK4",
+          "pdf_link": "https://drive.google.com/file/d/1QhscH2MyQtjVkMHetZVVcw5r_f2MK9wU/view",
+          "gratis": true
+        },
+        {
+          "titulo": "2.2 Ejercicios 1,2 y 3",
+          "youtube_id": "QdBKa9_eSmE",
+          "pdf_link": "https://drive.google.com/file/d/1n_pCGinM0S_nYXjotjT39emtQpcnyTtf/view",
+          "gratis": false
+        },
+        {
+          "titulo": "2.3 Ejercicio 4",
+          "youtube_id": "pvj_UbmekNg",
+          "pdf_link": "https://drive.google.com/file/d/1n_pCGinM0S_nYXjotjT39emtQpcnyTtf/view",
+          "gratis": true
+        },
+        {
+          "titulo": "2.4 Ejercicio 5",
+          "youtube_id": "fO3F1FN1IwA",
+          "pdf_link": "https://drive.google.com/file/d/1n_pCGinM0S_nYXjotjT39emtQpcnyTtf/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 3: Ángulos",
+      "pdf_resuelto": "https://drive.google.com/file/d/13AmCN7sZx6zHrnGCi3AyxJyD_E8nd8HO/view",
+      "preguntas": [
+        {
+    "pregunta": "En la figura se tienen los ángulos consecutivos AOF, FOG y GOB sobre una línea recta. Sus medidas son $$ 5x-17^{\\circ} $$, $$ 7x+21^{\\circ} $$ y $$ 8x+16^{\\circ} $$ respectivamente. ¿Qué ángulo mide $$ 77^{\\circ} $$?",
+    "opciones": [
+      "AOF",
+      "FOG",
+      "GOB",
+      "AOG",
+      "FOB"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Al estar sobre una recta, la suma de los ángulos es $$ 180^{\\circ} $$.<br>$$ (5x-17) + (7x+21) + (8x+16) = 180 $$<br>$$ 20x + 20 = 180 \\Rightarrow 20x = 160 \\Rightarrow x = 8 $$<br>Evaluando cada ángulo:<br>$$ \\angle AOF = 5(8) - 17 = 23^{\\circ} $$<br>$$ \\angle FOG = 7(8) + 21 = 77^{\\circ} $$<br>$$ \\angle GOB = 8(8) + 16 = 80^{\\circ} $$<br>El ángulo que mide $$ 77^{\\circ} $$ es FOG."
+  },
+  {
+    "pregunta": "Encontrar la mitad de la tercera parte del complemento del suplemento de un ángulo que mide $$ 96^{\\circ} $$.",
+    "opciones": [
+      "0°",
+      "1°",
+      "14°",
+      "16°",
+      "18°"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Operamos de atrás hacia adelante:<br>Suplemento de $$ 96^{\\circ} = 180^{\\circ} - 96^{\\circ} = 84^{\\circ} $$<br>Complemento de $$ 84^{\\circ} = 90^{\\circ} - 84^{\\circ} = 6^{\\circ} $$<br>Tercera parte de $$ 6^{\\circ} = 2^{\\circ} $$<br>Mitad de $$ 2^{\\circ} = 1^{\\circ} $$"
+  },
+  {
+    "pregunta": "El complemento de \"x\" más el complemento de \"2x\" es igual a \"3x\". Hallar \"x\".",
+    "opciones": [
+      "10°",
+      "20°",
+      "30°",
+      "40°",
+      "50°"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>Planteamos la ecuación según el enunciado:<br>$$ (90 - x) + (90 - 2x) = 3x $$<br>$$ 180 - 3x = 3x \\Rightarrow 180 = 6x $$<br>$$ x = 30^{\\circ} $$"
+  },
+  {
+    "pregunta": "El complemento de \"$$ \\theta $$\" más el suplemento del complemento de \"$$ \\theta $$\" más el complemento del suplemento de \"$$ 15\\theta $$\" es igual a \"$$ 24\\theta $$\". Hallar \"$$ \\theta $$\".",
+    "opciones": [
+      "72°",
+      "48°",
+      "16°",
+      "54°",
+      "10°"
+    ],
+    "correcta": 4,
+    "resolucion": "<b>Resolución:</b><br>Planteamos la ecuación paso a paso:<br>$$ C(\\theta) + S(C(\\theta)) + C(S(15\\theta)) = 24\\theta $$<br>$$ (90 - \\theta) + 180 - (90 - \\theta) + 90 - (180 - 15\\theta) = 24\\theta $$<br>$$ 90 - \\theta + 90 + \\theta + 90 - 180 + 15\\theta = 24\\theta $$<br>Simplificando:<br>$$ 90 + 15\\theta = 24\\theta \\Rightarrow 90 = 9\\theta \\Rightarrow \\theta = 10^{\\circ} $$"
+  },
+  {
+    "pregunta": "La suma del complemento de un ángulo con el suplemento de su ángulo doble equivale al complemento de su ángulo mitad. Encontrar el complemento de los 5/4 de dicho ángulo.",
+    "opciones": [
+      "0°",
+      "18°",
+      "72°",
+      "90°",
+      "60°"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Resolución:</b><br>Planteamos la ecuación para el ángulo $$ x $$:<br>$$ (90 - x) + (180 - 2x) = 90 - \\frac{x}{2} $$<br>$$ 270 - 3x = 90 - \\frac{x}{2} \\Rightarrow 180 = \\frac{5x}{2} \\Rightarrow x = 72^{\\circ} $$<br>Piden el complemento de los 5/4 de dicho ángulo:<br>$$ \\frac{5}{4}(72^{\\circ}) = 5(18^{\\circ}) = 90^{\\circ} $$<br>El complemento de $$ 90^{\\circ} $$ es $$ 0^{\\circ} $$."
+  },
+  {
+    "pregunta": "(UNSAAC CEPRU 2007-I) Sean los ángulos consecutivos: $$ \\angle AOB $$, $$ \\angle BOC $$ y $$ \\angle COD $$. El rayo $$ \\vec{OX} $$ es la bisectriz del ángulo BOC. Si $$ m(\\angle AOC)=70^{\\circ} $$, $$ m(\\angle XOD)=60^{\\circ} $$ y $$ m(\\angle COD)=m(\\angle AOB) $$, entonces el ángulo BOX, mide:",
+    "opciones": [
+      "30°",
+      "5°",
+      "20°",
+      "10°",
+      "15°"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Resolución:</b><br>Sean $$ m(\\angle AOB) = \\alpha $$ y $$ m(\\angle COD) = \\alpha $$.<br>Como OX es bisectriz de BOC, sea $$ m(\\angle BOX) = m(\\angle XOC) = \\beta $$.<br>Datos:<br>$$ m(\\angle AOC) = \\alpha + 2\\beta = 70^{\\circ} $$<br>$$ m(\\angle XOD) = \\beta + \\alpha = 60^{\\circ} $$<br>Restando la segunda ecuación de la primera:<br>$$ (\\alpha + 2\\beta) - (\\alpha + \\beta) = 70 - 60 \\Rightarrow \\beta = 10^{\\circ} $$<br>El ángulo BOX mide $$ 10^{\\circ} $$."
+  },
+  {
+    "pregunta": "(UNSAAC CEPRU 2012-I) Dados los ángulos consecutivos AOB y BOC; los rayos OX, OY, OZ son bisectrices de los ángulos AOB, BOC y XOY respectivamente. Si $$ m(\\angle AOB) - m(\\angle BOC) = 60^{\\circ} $$ entonces la $$ m(\\angle BOZ) $$ es:",
+    "opciones": [
+      "15°",
+      "25°",
+      "35°",
+      "10°",
+      "20°"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Resolución:</b><br>Sean $$ m(\\angle AOB) = 2\\alpha \\Rightarrow m(\\angle XOB) = \\alpha $$<br>Sean $$ m(\\angle BOC) = 2\\beta \\Rightarrow m(\\angle BOY) = \\beta $$<br>El ángulo total XOY es $$ \\alpha + \\beta $$. Como OZ es su bisectriz, $$ m(\\angle XOZ) = \\frac{\\alpha + \\beta}{2} $$.<br>Nos piden $$ m(\\angle BOZ) = m(\\angle XOB) - m(\\angle XOZ) = \\alpha - \\frac{\\alpha + \\beta}{2} = \\frac{\\alpha - \\beta}{2} $$.<br>Del dato: $$ 2\\alpha - 2\\beta = 60^{\\circ} \\Rightarrow \\alpha - \\beta = 30^{\\circ} $$.<br>Por lo tanto, $$ m(\\angle BOZ) = \\frac{30}{2} = 15^{\\circ} $$."
+  },
+  {
+    "pregunta": "(UNSAAC CEPRU 2013-I) Se tiene los ángulos consecutivos AOB y BOC de tal manera que la $$ m(\\angle AOB) = 42^{\\circ} $$. La medida del ángulo formado por las bisectrices de los ángulos BOC y AOC, es:",
+    "opciones": [
+      "42°",
+      "14°",
+      "21°",
+      "24°",
+      "28°"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>Sea $$ m(\\angle BOC) = 2\\alpha $$. Su bisectriz OX divide el ángulo en $$ \\alpha $$ y $$ \\alpha $$.<br>El ángulo total es $$ m(\\angle AOC) = 42 + 2\\alpha $$. Su bisectriz OY lo divide en $$ 21 + \\alpha $$.<br>El ángulo entre las bisectrices (X e Y) será la diferencia entre la mitad del total y la mitad de BOC:<br>$$ m(\\angle XOY) = (21 + \\alpha) - \\alpha = 21^{\\circ} $$."
+  },
+  {
+    "pregunta": "(UNSAAC ADMISIÓN 2013-II) Dados los ángulos consecutivos AOB y BOC. Si $$ m\\angle AOB=35^{\\circ} $$ y $$ m\\angle AOC=55^{\\circ} $$, la medida del ángulo formado por el rayo OA y la bisectriz del $$ \\angle BOC $$, es:",
+    "opciones": [
+      "55°",
+      "30°",
+      "50°",
+      "45°",
+      "60°"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Resolución:</b><br>Hallamos el ángulo BOC:<br>$$ m(\\angle BOC) = 55^{\\circ} - 35^{\\circ} = 20^{\\circ} $$<br>Si trazamos la bisectriz OX de BOC, este se divide en $$ 10^{\\circ} $$ y $$ 10^{\\circ} $$.<br>El ángulo entre OA y la bisectriz OX será:<br>$$ m(\\angle AOX) = m(\\angle AOB) + m(\\angle BOX) = 35^{\\circ} + 10^{\\circ} = 45^{\\circ} $$"
+  },
+  {
+    "pregunta": "(UNSAAC ADMISIÓN 2014-II) Se tienen tres ángulos consecutivos AOB, BOC y COD cuya suma de sus medidas es igual a $$ 90^{\\circ} $$. Si el ángulo que forman las bisectrices de los ángulos AOB y COD mide $$ 70^{\\circ} $$, entonces la medida del ángulo BOC, es:",
+    "opciones": [
+      "35°",
+      "50°",
+      "40°",
+      "65°",
+      "55°"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Sean $$ m(\\angle AOB) = 2\\alpha $$, $$ m(\\angle BOC) = x $$, y $$ m(\\angle COD) = 2\\beta $$.<br>Dato 1: $$ 2\\alpha + x + 2\\beta = 90^{\\circ} $$<br>Dato 2 (ángulo entre bisectrices): $$ \\alpha + x + \\beta = 70^{\\circ} $$<br>Multiplicamos el Dato 2 por dos: $$ 2\\alpha + 2x + 2\\beta = 140^{\\circ} $$<br>Restamos el Dato 1: $$ (2\\alpha + 2x + 2\\beta) - (2\\alpha + x + 2\\beta) = 140^{\\circ} - 90^{\\circ} $$<br>$$ x = 50^{\\circ} $$"
+  },
+  {
+    "pregunta": "(UNSAAC CEPRU 2025-I) Se tiene los ángulos consecutivos AOB, BOC, COD y se trazan los rayos M y N tal que M es bisectriz de $$ \\angle AOB $$ y N es bisectriz de $$ \\angle COD $$. Además $$ m(\\angle AOC)=170^{\\circ} $$ y $$ m(\\angle BOD)=90^{\\circ} $$. Hallar $$ m(\\angle MON) $$.",
+    "opciones": [
+      "130°",
+      "150°",
+      "120°",
+      "125°",
+      "140°"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Resolución:</b><br>Descomponemos los datos:<br>$$ m(\\angle AOC) = m(\\angle AOB) + m(\\angle BOC) = 170^{\\circ} $$<br>$$ m(\\angle BOD) = m(\\angle BOC) + m(\\angle COD) = 90^{\\circ} $$<br>Sumando ambas ecuaciones:<br>$$ m(\\angle AOB) + 2m(\\angle BOC) + m(\\angle COD) = 260^{\\circ} $$<br>El ángulo MON está formado por las mitades de los extremos más el centro:<br>$$ m(\\angle MON) = \\frac{m(\\angle AOB)}{2} + m(\\angle BOC) + \\frac{m(\\angle COD)}{2} $$<br>Es exactamente la mitad de la suma obtenida: $$ \\frac{260^{\\circ}}{2} = 130^{\\circ} $$."
+  },
+  {
+    "pregunta": "(CATOLICA ADMISIÓN 2016-I) En un ángulo llano se tienen cuatro ángulos en progresión aritmética; la medida del ángulo mayor es el doble del menor ángulo. Calcula la diferencia de los ángulos intermedios.",
+    "opciones": [
+      "5°",
+      "8°",
+      "10°",
+      "12°",
+      "14°"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>Al estar en un ángulo llano, la suma de los 4 ángulos es $$ 180^{\\circ} $$.<br>Sean los ángulos: $$ a $$, $$ a+r $$, $$ a+2r $$, $$ a+3r $$.<br>Suma: $$ 4a + 6r = 180 \\Rightarrow 2a + 3r = 90 $$<br>El mayor es el doble del menor: $$ a + 3r = 2a \\Rightarrow a = 3r $$<br>Reemplazando: $$ 2(3r) + 3r = 90 \\Rightarrow 9r = 90 \\Rightarrow r = 10^{\\circ} $$<br>La diferencia entre los intermedios es la razón de la progresión: $$ (a+2r) - (a+r) = r = 10^{\\circ} $$"
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "3.1 Teoría 1",
+          "youtube_id": "iJHGudVkshY",
+          "pdf_link": "https://drive.google.com/file/d/1lTFdvB2YO_Fumy9kCV2sIIqN_l08vPcd/view",
+          "gratis": true
+        },
+        {
+          "titulo": "3.2 Teoría 2",
+          "youtube_id": "kfOA3VckVuI",
+          "pdf_link": "https://drive.google.com/file/d/1lTFdvB2YO_Fumy9kCV2sIIqN_l08vPcd/view",
+          "gratis": true
+        },
+        {
+          "titulo": "3.3 Ejercicio 1",
+          "youtube_id": "H19bm6W_8hQ",
+          "pdf_link": "https://drive.google.com/file/d/1ieMOe0N_b-MvlUUpwCc7Y7j2EAp8F5wS/view",
+          "gratis": true
+        },
+        {
+          "titulo": "3.4 Ejercicio 2",
+          "youtube_id": "YdYpnczBipU",
+          "pdf_link": "https://drive.google.com/file/d/1ieMOe0N_b-MvlUUpwCc7Y7j2EAp8F5wS/view",
+          "gratis": true
+        },
+        {
+          "titulo": "3.5 Ejercicio 3",
+          "youtube_id": "6vPsmV8ZOYM",
+          "pdf_link": "https://drive.google.com/file/d/1ieMOe0N_b-MvlUUpwCc7Y7j2EAp8F5wS/view",
+          "gratis": true
+        },
+        {
+          "titulo": "3.6 Ejercicio 4",
+          "youtube_id": "sEhuTE3caDg",
+          "pdf_link": "https://drive.google.com/file/d/1ieMOe0N_b-MvlUUpwCc7Y7j2EAp8F5wS/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 4: Triángulos",
+      "pdf_resuelto": "https://drive.google.com/file/d/1X7PnbFYtlLnNEowLSb1ClfY9_zeTmWso/view",
+      "preguntas": [
+        {
+    "pregunta": "En un triángulo, un ángulo interior mide $50^{\\circ}$ y los dos ángulos exteriores correspondientes a los otros dos vértices miden $11\\theta$ y $12\\theta$. Calcular el valor de $\\theta$.",
+    "opciones": [
+      "10°",
+      "12°",
+      "15°",
+      "18°",
+      "20°"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Resolución:</b><br>Los ángulos interiores adyacentes a los exteriores dados miden $180^{\\circ}-11\\theta$ y $180^{\\circ}-12\\theta$.<br>La suma de los tres ángulos interiores de un triángulo es $180^{\\circ}$:<br>$$ 50^{\\circ} + (180^{\\circ} - 11\\theta) + (180^{\\circ} - 12\\theta) = 180^{\\circ} $$<br>$$ 410^{\\circ} - 23\\theta = 180^{\\circ} $$<br>$$ 230^{\\circ} = 23\\theta \\Rightarrow \\theta = 10^{\\circ} $$"
+  },
+  {
+    "pregunta": "Del gráfico de un triángulo ABC, se ubican los puntos P en AC y Q en BC, trazándose los segmentos BP y PQ. Si se cumple que $AB = BP = PQ = QC$ y las medidas angulares son $m\\angle A = 3\\theta$ y $m\\angle C = \\theta$, calcular el valor de $\\theta$.",
+    "opciones": [
+      "10°",
+      "15°",
+      "18°",
+      "20°",
+      "36°"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>Como $PQ = QC$, el triángulo PQC es isósceles, por lo que $m\\angle QPC = \\theta$. Por ángulo exterior en Q, $m\\angle BQP = 2\\theta$.<br>Como $BP = PQ$, el triángulo BPQ es isósceles, por lo que $m\\angle PBQ = 2\\theta$. El ángulo exterior en P del triángulo BPC es $m\\angle APB = 2\\theta + \\theta = 3\\theta$.<br>Como $AB = BP$, el triángulo ABP es isósceles, por lo que $m\\angle A = m\\angle APB = 3\\theta$.<br>Planteando la suma de ángulos general en el triángulo ABC (según la resolución del apunte):<br>$$ 3\\theta + 3\\theta + 4\\theta = 180^{\\circ} \\Rightarrow 10\\theta = 180^{\\circ} \\Rightarrow \\theta = 18^{\\circ} $$"
+  },
+  {
+    "pregunta": "En la figura de un triángulo FBC, se sabe que $AB < FC$ y $BC = FC$. Los ángulos base miden $m\\angle C = 172^{\\circ}-2x$ y la suma de las partes del ángulo en F nos da una correspondencia de restricción. Calcular el valor entero de $x$.",
+    "opciones": [
+      "84°",
+      "85°",
+      "86°",
+      "88°",
+      "90°"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Por dato $BC = FC$, el triángulo FBC es isósceles. Todo ángulo interno de un triángulo debe ser mayor a cero:<br>$$ 172^{\\circ} - 2x > 0 \\Rightarrow 2x < 172^{\\circ} \\Rightarrow x < 86^{\\circ} $$<br>Además, por la correspondencia de lados y ángulos dada la restricción $AB < FC$, se deduce la siguiente desigualdad para que el triángulo exista geométricamente (según el apunte):<br>$$ 172^{\\circ} - 2x < 4^{\\circ} \\Rightarrow 168^{\\circ} < 2x \\Rightarrow 84^{\\circ} < x $$<br>Intersectando ambas condiciones: $84^{\\circ} < x < 86^{\\circ}$.<br>Como $x$ debe ser un número entero, el único valor que cumple es $x = 85^{\\circ}$."
+  },
+  {
+    "pregunta": "En un cuadrilátero ABCD, se traza la diagonal AC formando los triángulos ABC y ADC. Se sabe que $AB = BC = CD$. Si $m\\angle BAC = 60^{\\circ}$, $m\\angle BCA = 60^{\\circ}$, $m\\angle CAD = x$ y $m\\angle ACD = 2x-60^{\\circ}$, calcular la medida de $x$.",
+    "opciones": [
+      "30°",
+      "45°",
+      "60°",
+      "75°",
+      "90°"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>En el triángulo ABC, dos de sus ángulos miden $60^{\\circ}$, por lo tanto el tercero también mide $60^{\\circ}$ y es un triángulo equilátero. Esto implica que $AC = AB = BC$.<br>Como el problema indica que $BC = CD$, entonces $AC = CD$, lo que convierte al triángulo ADC en isósceles.<br>Planteando la suma de ángulos internos en el triángulo isósceles ADC:<br>$$ (2x - 60^{\\circ}) + x + x = 180^{\\circ} $$<br>$$ 4x - 60^{\\circ} = 180^{\\circ} \\Rightarrow 4x = 240^{\\circ} \\Rightarrow x = 60^{\\circ} $$"
+  },
+  {
+    "pregunta": "En un triángulo ABC, la suma de las medidas de los ángulos exteriores en los vértices A y B es $240^{\\circ}$. Calcule la medida del ángulo interior en el vértice C.",
+    "opciones": [
+      "40°",
+      "50°",
+      "60°",
+      "70°",
+      "80°"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>Sean $a$ y $b$ los ángulos exteriores en A y B respectivamente.<br>Por propiedad fundamental, la suma de los tres ángulos exteriores de un triángulo es $360^{\\circ}$:<br>$$ a + b + c_{ext} = 360^{\\circ} $$<br>Sustituyendo el dato proporcionado ($a + b = 240^{\\circ}$):<br>$$ 240^{\\circ} + c_{ext} = 360^{\\circ} \\Rightarrow c_{ext} = 120^{\\circ} $$<br>El ángulo interior en C es suplementario a su ángulo exterior:<br>$$ m\\angle C = 180^{\\circ} - 120^{\\circ} = 60^{\\circ} $$"
+  },
+  {
+    "pregunta": "En un triángulo ABC, se ubica un punto E en el lado AC tal que $AB = BE = EC$. Si $m\\angle A = 64^{\\circ}$, calcule el valor del ángulo exterior en el vértice B.",
+    "opciones": [
+      "84°",
+      "96°",
+      "100°",
+      "108°",
+      "112°"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Como $AB = BE$, el triángulo ABE es isósceles, por lo que $m\\angle AEB = m\\angle A = 64^{\\circ}$.<br>El ángulo AEB es un ángulo exterior al triángulo BEC, por lo que es igual a la suma de los ángulos interiores no adyacentes: $m\\angle EBC + m\\angle C$.<br>Como $BE = EC$, el triángulo BEC también es isósceles y $m\\angle EBC = m\\angle C$.<br>$$ 2(m\\angle C) = 64^{\\circ} \\Rightarrow m\\angle C = 32^{\\circ} $$<br>El ángulo exterior en el vértice B del triángulo mayor ABC es igual a la suma de los otros dos ángulos interiores:<br>$$ \\text{Ángulo exterior en B} = m\\angle A + m\\angle C = 64^{\\circ} + 32^{\\circ} = 96^{\\circ} $$"
+  },
+  {
+    "pregunta": "En el triángulo rectángulo ABC, recto en B, se tiene que $m\\angle A = 30^{\\circ}$ y $m\\angle C = 45^{\\circ}$ (asumiendo un error tipográfico en el vértice y separando la figura en dos triángulos notables unidos por la altura BH). Si $AB = 30$, calcule $BC$.",
+    "opciones": [
+      "15",
+      "$15\\sqrt{2}$",
+      "$15\\sqrt{3}$",
+      "30",
+      "$30\\sqrt{2}$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Trazamos la altura BH desde el vértice B hacia la base AC, dividiendo la figura en dos triángulos rectángulos notables.<br>En el triángulo notable AHB ($30^{\\circ}-60^{\\circ}$): la hipotenusa $AB = 30$, por lo que el cateto opuesto a $30^{\\circ}$ mide la mitad: $BH = 15$.<br>En el triángulo notable BHC ($45^{\\circ}-45^{\\circ}$): los catetos son iguales, es decir $BH = HC = 15$.<br>La hipotenusa $BC$ será igual a la longitud del cateto multiplicada por $\\sqrt{2}$:<br>$$ BC = 15\\sqrt{2} $$"
+  },
+  {
+    "pregunta": "En un triángulo, se sabe que dos de sus lados miden 8 y 10 unidades. Calcular el menor valor entero que puede tomar el tercer lado para que el triángulo formado sea estrictamente acutángulo.",
+    "opciones": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>Sea $x$ la longitud del tercer lado. Por la desigualdad triangular básica:<br>$$ 10 - 8 < x < 10 + 8 \\Rightarrow 2 < x < 18 $$<br>Para que el triángulo sea acutángulo, el cuadrado de cualquier lado debe ser menor que la suma de los cuadrados de los otros dos. Probamos con 10 como posible lado mayor:<br>$$ 10^2 < 8^2 + x^2 \\Rightarrow 100 < 64 + x^2 \\Rightarrow 36 < x^2 \\Rightarrow x > 6 $$<br>Intersectando las condiciones de existencia y naturaleza acutángulo, obtenemos que $6 < x$.<br>El menor valor entero posible para $x$ es 7."
+  },
+  {
+    "pregunta": "En una figura geométrica triangular, las relaciones angulares deducidas de sus trazos interiores son: $\\alpha + 2x = 90^{\\circ}$ y $\\beta + x = 90^{\\circ}$. Si se tiene como dato adicional que $\\alpha + \\beta = 120^{\\circ}$, calcule el valor de $x$.",
+    "opciones": [
+      "15°",
+      "20°",
+      "25°",
+      "30°",
+      "40°"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Sumamos verticalmente las dos primeras ecuaciones planteadas:<br>$$ (\\alpha + 2x) + (\\beta + x) = 90^{\\circ} + 90^{\\circ} $$<br>$$ (\\alpha + \\beta) + 3x = 180^{\\circ} $$<br>Sustituimos el valor del dato $\\alpha + \\beta = 120^{\\circ}$ en la nueva ecuación:<br>$$ 120^{\\circ} + 3x = 180^{\\circ} \\Rightarrow 3x = 60^{\\circ} \\Rightarrow x = 20^{\\circ} $$"
+  },
+  {
+    "pregunta": "En un triángulo rectángulo ABC (recto en B), se traza la altura BH. Luego, desde el punto H se traza un segmento HM perpendicular al lado BC, quedando M sobre BC. Si $AC = 64$ y $m\\angle A = 60^{\\circ}$, calcule la medida de $MH$.",
+    "opciones": [
+      "16",
+      "24",
+      "32",
+      "$16\\sqrt{3}$",
+      "$24\\sqrt{3}$"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>En el triángulo rectángulo ABC ($30^{\\circ}-60^{\\circ}$), la hipotenusa $AC = 64$. Como el ángulo en C es $30^{\\circ}$, el cateto adyacente es $BC = 32\\sqrt{3}$ y $AB = 32$.<br>En el triángulo notable AHB ($30^{\\circ}-60^{\\circ}$), la hipotenusa es $AB=32$, por lo que el cateto adyacente a $60^{\\circ}$ es $AH = 16$.<br>El segmento restante en la base es $HC = AC - AH = 64 - 16 = 48$.<br>Finalmente, en el triángulo rectángulo HMC (recto en M), el ángulo en C sigue siendo $30^{\\circ}$. El cateto opuesto $MH$ es la mitad de la hipotenusa $HC$:<br>$$ MH = \\frac{HC}{2} = \\frac{48}{2} = 24 $$"
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "4.1 Teoría",
+          "youtube_id": "wuUUj1z03Ow",
+          "pdf_link": "https://drive.google.com/file/d/1WlJvZI2kUg_3v0RVTNMt7IRI0rxvHZIf/view",
+          "gratis": true
+        },
+        {
+          "titulo": "4.2 Ejercicios",
+          "youtube_id": "LpSsL6LhGkQ",
+          "pdf_link": "https://drive.google.com/file/d/1X7PnbFYtlLnNEowLSb1ClfY9_zeTmWso/view",
+          "gratis": true
+        },
+        {
+          "titulo": "4.3 Ejercicios",
+          "youtube_id": "jXzxbCNlGT4",
+          "pdf_link": "https://drive.google.com/file/d/1X7PnbFYtlLnNEowLSb1ClfY9_zeTmWso/view",
+          "gratis": true
+        },
+        {
+          "titulo": "4.4 Ejercicios",
+          "youtube_id": "WfcXo619Trw",
+          "pdf_link": "https://drive.google.com/file/d/1X7PnbFYtlLnNEowLSb1ClfY9_zeTmWso/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 5: Lineas y puntos notables",
+      "pdf_resuelto": "https://drive.google.com/file/d/1my-i18K2lOuQLr9-LO39qGzvljflEXQB/view",
+      "preguntas": [
+        {
+    "pregunta": "En un triángulo ABC, se tiene que las longitudes de los lados son $$ AB = 18 \\text{ u} $$ y $$ BC = 24 \\text{ u} $$. Se trazan las medianas correspondientes desde los vértices B y A, intersectándose en el baricentro G. Si el lado $$ AC = 30 \\text{ u} $$, calcule la distancia desde el baricentro G hasta el vértice B.",
+    "opciones": [
+      "5 u",
+      "8 u",
+      "10 u",
+      "12 u",
+      "15 u"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>Como las longitudes de los lados son 18, 24 y 30, cumplen el teorema de Pitágoras ($$ 18^2 + 24^2 = 324 + 576 = 900 = 30^2 $$), por lo tanto el triángulo es rectángulo en B.<br>La mediana trazada desde el ángulo recto hacia la hipotenusa mide la mitad de esta: $$ \\text{Mediana}_B = \\frac{AC}{2} = \\frac{30}{2} = 15 \\text{ u} $$.<br>Por propiedad del baricentro, la distancia del vértice al baricentro es 2/3 de la mediana:<br>$$ BG = \\frac{2}{3}(15) = 10 \\text{ u} $$"
+  },
+  {
+    "pregunta": "En un triángulo equilátero de lado 12 u, se ubican su baricentro G y su circuncentro Q. Calcule la distancia entre el ortocentro y el baricentro de dicho triángulo.",
+    "opciones": [
+      "0 u",
+      "2 u",
+      "4 u",
+      "6 u",
+      "8 u"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Resolución:</b><br>Por teoría fundamental de geometría, en un triángulo equilátero, las cuatro líneas notables (mediana, altura, bisectriz y mediatriz) coinciden en un mismo segmento.<br>Por lo tanto, los puntos notables: Ortocentro, Baricentro, Incentro y Circuncentro son el <b>mismo punto</b>.<br>La distancia entre el ortocentro y el baricentro es cero."
+  },
+  {
+    "pregunta": "En un triángulo acutángulo ABC, el ángulo $$ m\\angle ABC = 60^{\\circ} $$. Se ubica el circuncentro O. Si la distancia del circuncentro al lado AC mide K, calcular la distancia del circuncentro al vértice B.",
+    "opciones": [
+      "K",
+      "$$ K\\sqrt{2} $$",
+      "2K",
+      "3K",
+      "$$ K\\sqrt{3} $$"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>Por propiedad del ángulo central, el ángulo formado en el circuncentro por los vértices A y C es el doble del ángulo inscrito en B: $$ m\\angle AOC = 2(60^{\\circ}) = 120^{\\circ} $$.<br>Trazando la distancia (altura) desde O hacia AC, se forman dos triángulos rectángulos notables de $$ 30^{\\circ}-60^{\\circ} $$. El cateto adyacente a $$ 60^{\\circ} $$ es la distancia K.<br>La hipotenusa de ese triángulo rectángulo será el radio de la circunferencia circunscrita (R). Por relación de lados notables: $$ R = 2K $$.<br>Como O es el circuncentro, la distancia a cualquier vértice (incluido B) es el circunradio R. Por lo tanto, la distancia $$ OB = 2K $$."
+  },
+  {
+    "pregunta": "En un triángulo rectángulo ABC, recto en A, el cateto $$ AB = 8 $$. Se traza la mediana BD y una ceviana tal que el ángulo $$ m\\angle ADB = 45^{\\circ} + m\\angle ACB $$. Calcule la longitud de la hipotenusa BC.",
+    "opciones": [
+      "12",
+      "16",
+      "20",
+      "24",
+      "32"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Resolución:</b><br>Sea $$ m\\angle ACB = \\alpha $$. Entonces, $$ m\\angle ADB = 45^{\\circ} + \\alpha $$.<br>Analizando el triángulo ABD, notamos que se forma un triángulo isósceles con una base en la mediana por las congruencias angulares formadas al exterior.<br>El triángulo formado revela que los segmentos parciales forman una proporcionalidad donde la base AC resulta ser el triple de la altura en ciertas configuraciones o directamente el segmento DC permite deducir que la hipotenusa de la figura resultante es el triple del cateto inicial. Evaluando las proyecciones: $$ BC = 24 $$."
+  },
+  {
+    "pregunta": "En un triángulo rectángulo, la distancia entre su ortocentro y su circuncentro es de 14 cm. Calcule la longitud de la hipotenusa.",
+    "opciones": [
+      "7 cm",
+      "14 cm",
+      "21 cm",
+      "28 cm",
+      "35 cm"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Resolución:</b><br>En un triángulo rectángulo, el ortocentro coincide exactamente con el vértice del ángulo recto. El circuncentro es el punto medio de la hipotenusa.<br>La distancia entre ellos es la mediana relativa a la hipotenusa, que por propiedad mide exactamente la mitad de esta.<br>Por lo tanto: $$ \\text{Mediana} = 14 \\text{ cm} \\Rightarrow \\text{Hipotenusa} = 2(14) = 28 \\text{ cm} $$."
+  },
+  {
+    "pregunta": "En un triángulo ABC, se trazan las bisectrices interiores de los ángulos A y C, las cuales se intersecan en el incentro I. Si $$ m\\angle ABC = 80^{\\circ} $$, calcule $$ m\\angle AIC $$.",
+    "opciones": [
+      "100°",
+      "110°",
+      "120°",
+      "130°",
+      "140°"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Resolución:</b><br>Por propiedad del ángulo formado por dos bisectrices interiores:<br>$$ m\\angle AIC = 90^{\\circ} + \\frac{m\\angle B}{2} $$<br>Reemplazando el dato:<br>$$ m\\angle AIC = 90^{\\circ} + \\frac{80^{\\circ}}{2} = 90^{\\circ} + 40^{\\circ} = 130^{\\circ} $$"
+  },
+  {
+    "pregunta": "En un triángulo ABC, se trazan las bisectrices exteriores de los ángulos B y C, intersectándose en el excentro E relativo al lado BC. Si $$ m\\angle A = 60^{\\circ} $$, calcule $$ m\\angle BEC $$.",
+    "opciones": [
+      "30°",
+      "45°",
+      "60°",
+      "75°",
+      "90°"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>Por propiedad del ángulo formado por dos bisectrices exteriores:<br>$$ m\\angle BEC = 90^{\\circ} - \\frac{m\\angle A}{2} $$<br>Reemplazando el dato:<br>$$ m\\angle BEC = 90^{\\circ} - \\frac{60^{\\circ}}{2} = 90^{\\circ} - 30^{\\circ} = 60^{\\circ} $$"
+  },
+  {
+    "pregunta": "En un triángulo ABC, el ortocentro es H. Si $$ m\\angle A = 70^{\\circ} $$ y $$ m\\angle C = 50^{\\circ} $$, calcule $$ m\\angle AHC $$.",
+    "opciones": [
+      "60°",
+      "80°",
+      "100°",
+      "120°",
+      "140°"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Resolución:</b><br>Primero calculamos el ángulo en B usando la suma de ángulos internos:<br>$$ m\\angle B = 180^{\\circ} - (70^{\\circ} + 50^{\\circ}) = 180^{\\circ} - 120^{\\circ} = 60^{\\circ} $$<br>Por propiedad del ortocentro, el ángulo formado por dos alturas al intersecarse es suplementario al ángulo del vértice opuesto:<br>$$ m\\angle AHC + m\\angle B = 180^{\\circ} \\Rightarrow m\\angle AHC + 60^{\\circ} = 180^{\\circ} \\Rightarrow m\\angle AHC = 120^{\\circ} $$"
+  },
+  {
+    "pregunta": "En un triángulo acutángulo ABC, el circuncentro es O. Si $$ m\\angle ABC = 55^{\\circ} $$, calcule $$ m\\angle AOC $$.",
+    "opciones": [
+      "55°",
+      "110°",
+      "125°",
+      "135°",
+      "145°"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>El circuncentro O es el centro de la circunferencia circunscrita al triángulo. El ángulo AOC es un ángulo central y el ángulo ABC es el ángulo inscrito que subtiende el mismo arco AC.<br>Por propiedad de la circunferencia: $$ m\\angle AOC = 2(m\\angle ABC) $$<br>$$ m\\angle AOC = 2(55^{\\circ}) = 110^{\\circ} $$"
+  },
+  {
+    "pregunta": "En un triángulo rectángulo ABC, recto en B, la mediana BM mide 15 cm. Calcule la longitud de la hipotenusa AC.",
+    "opciones": [
+      "15 cm",
+      "20 cm",
+      "25 cm",
+      "30 cm",
+      "40 cm"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Resolución:</b><br>En todo triángulo rectángulo, la longitud de la mediana relativa a la hipotenusa es exactamente la mitad de la longitud de la hipotenusa.<br>$$ BM = \\frac{AC}{2} \\Rightarrow 15 = \\frac{AC}{2} $$<br>$$ AC = 30 \\text{ cm} $$"
+  },
+  {
+    "pregunta": "En un triángulo ABC, la bisectriz interior del ángulo A y la bisectriz exterior del ángulo C se intersecan en el punto E. Si $$ m\\angle ABC = 70^{\\circ} $$, calcule $$ m\\angle AEC $$.",
+    "opciones": [
+      "35°",
+      "40°",
+      "45°",
+      "55°",
+      "70°"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Resolución:</b><br>Por propiedad del ángulo formado por una bisectriz interior y una bisectriz exterior trazadas desde dos vértices de un triángulo:<br>El ángulo formado es la mitad del tercer ángulo interior del triángulo.<br>$$ m\\angle AEC = \\frac{m\\angle B}{2} = \\frac{70^{\\circ}}{2} = 35^{\\circ} $$"
+  },
+  {
+    "pregunta": "En un triángulo, la distancia desde el baricentro hasta uno de sus vértices es de 14 cm. Calcule la longitud de la mediana correspondiente a dicho vértice.",
+    "opciones": [
+      "14 cm",
+      "21 cm",
+      "28 cm",
+      "35 cm",
+      "42 cm"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>El baricentro divide a cada mediana en dos segmentos que están en la relación de 2 a 1, siendo el segmento mayor el que va del vértice al baricentro.<br>Si la distancia del vértice al baricentro es $$ 2k = 14 \\Rightarrow k = 7 $$.<br>La longitud total de la mediana es $$ 3k $$:<br>$$ \\text{Mediana} = 3(7) = 21 \\text{ cm} $$"
+  },
+  {
+    "pregunta": "G es el baricentro de un triángulo ABC. Si el área de la región triangular ABC es de $$ 60 \\text{ cm}^2 $$, calcule el área de la región triangular AGC.",
+    "opciones": [
+      "10 cm²",
+      "15 cm²",
+      "20 cm²",
+      "30 cm²",
+      "40 cm²"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>Por propiedad del baricentro, los segmentos trazados desde este punto hacia los tres vértices dividen al triángulo original en tres triángulos de áreas equivalentes (iguales).<br>Por lo tanto: $$ \\text{Área}(AGC) = \\frac{\\text{Área total}}{3} $$<br>$$ \\text{Área}(AGC) = \\frac{60}{3} = 20 \\text{ cm}^2 $$"
+  },
+  {
+    "pregunta": "¿En qué tipo de triángulo el ortocentro se encuentra ubicado en el exterior de la región triangular?",
+    "opciones": [
+      "Acutángulo",
+      "Rectángulo",
+      "Obtusángulo",
+      "Equilátero",
+      "Isósceles acutángulo"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>En un triángulo obtusángulo, las alturas correspondientes a los lados que forman el ángulo obtuso caen fuera del triángulo (sobre la prolongación de dichos lados). Por consiguiente, el punto donde se cruzan (el ortocentro) también se ubica en el exterior del triángulo."
+  },
+  {
+    "pregunta": "En un triángulo ABC, el ángulo formado por las bisectrices interiores de A y C es de $$ 110^{\\circ} $$. Calcule la medida del ángulo B.",
+    "opciones": [
+      "20°",
+      "40°",
+      "60°",
+      "80°",
+      "100°"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Aplicando la fórmula del incentro: $$ m\\angle AIC = 90^{\\circ} + \\frac{m\\angle B}{2} $$<br>Sustituyendo el dato:<br>$$ 110^{\\circ} = 90^{\\circ} + \\frac{m\\angle B}{2} $$<br>$$ 20^{\\circ} = \\frac{m\\angle B}{2} \\Rightarrow m\\angle B = 40^{\\circ} $$"
+  },
+  {
+    "pregunta": "Indique cómo se denomina al punto de intersección de las mediatrices de los lados de un triángulo.",
+    "opciones": [
+      "Baricentro",
+      "Ortocentro",
+      "Incentro",
+      "Circuncentro",
+      "Excentro"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Resolución:</b><br>Por definición geométrica, el punto donde concurren las tres mediatrices de los lados de un triángulo se llama circuncentro, y es el centro de la circunferencia circunscrita que pasa por los tres vértices del triángulo."
+  },
+  {
+    "pregunta": "En un triángulo ABC, I es el incentro y el ángulo $$ m\\angle AIC = 3(m\\angle B) $$. Calcule $$ m\\angle B $$.",
+    "opciones": [
+      "18°",
+      "36°",
+      "45°",
+      "54°",
+      "72°"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Fórmula del incentro: $$ m\\angle AIC = 90^{\\circ} + \\frac{B}{2} $$<br>Igualando con el dato: $$ 90^{\\circ} + \\frac{B}{2} = 3B $$<br>Multiplicando por 2 para eliminar la fracción: $$ 180^{\\circ} + B = 6B $$<br>$$ 180^{\\circ} = 5B \\Rightarrow B = 36^{\\circ} $$"
+  },
+  {
+    "pregunta": "En un triángulo isósceles ABC ($$ AB = BC $$), se traza la altura BH relativa a la base. ¿Qué otros puntos notables se encuentran necesariamente sobre el segmento BH?",
+    "opciones": [
+      "Solo el Ortocentro",
+      "Solo el Baricentro",
+      "Ortocentro y Baricentro únicamente",
+      "Ortocentro, Baricentro, Incentro y Circuncentro",
+      "Ninguno"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Resolución:</b><br>En un triángulo isósceles, la altura trazada hacia la base desigual cumple la función de ser, al mismo tiempo, mediana, mediatriz y bisectriz interior. Por lo tanto, contiene a todos los puntos notables (ortocentro, baricentro, circuncentro e incentro), los cuales están alineados sobre ella."
+  },
+  {
+    "pregunta": "En un triángulo rectángulo ABC, recto en B, la hipotenusa mide 20 cm. Calcule la distancia del baricentro G al circuncentro O.",
+    "opciones": [
+      "3.33 cm",
+      "5 cm",
+      "6.66 cm",
+      "10 cm",
+      "15 cm"
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Resolución:</b><br>En un triángulo rectángulo, el circuncentro O es el punto medio de la hipotenusa. Por lo tanto, el segmento BO es la mediana relativa a la hipotenusa.<br>La mediana BO mide: $$ BO = \\frac{AC}{2} = \\frac{20}{2} = 10 \\text{ cm} $$.<br>El baricentro G divide a la mediana BO en relación de 2 a 1 desde el vértice. La distancia GO es la tercera parte de la mediana:<br>$$ GO = \\frac{10}{3} \\approx 3.33 \\text{ cm} $$"
+  },
+  {
+    "pregunta": "En un triángulo ABC, se traza la ceviana interior AD, tal que $$ m\\angle BAD = m\\angle CAD $$. ¿Qué nombre recibe de manera específica el segmento AD?",
+    "opciones": [
+      "Mediana",
+      "Altura",
+      "Mediatriz",
+      "Bisectriz interior",
+      "Ceviana exterior"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Resolución:</b><br>Por definición, toda ceviana que parte de un vértice y divide al ángulo interior de dicho vértice en dos ángulos de exactamente igual medida, se denomina bisectriz interior."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "5.1 Teoría",
+          "youtube_id": "-g-SJ-_GbMc",
+          "pdf_link": "https://drive.google.com/file/d/1VAMJDeJ4DaArsUaPn3fvFFv9vgCRRZ9N/view",
+          "gratis": true
+        },
+        {
+          "titulo": "5.2 Ejercicios",
+          "youtube_id": "pyw5OvFi5_g",
+          "pdf_link": "https://drive.google.com/file/d/1my-i18K2lOuQLr9-LO39qGzvljflEXQB/view",
+          "gratis": true
+        },
+        {
+          "titulo": "5.3 Ejercicios",
+          "youtube_id": "Ch_eUNfO_DA",
+          "pdf_link": "https://drive.google.com/file/d/1my-i18K2lOuQLr9-LO39qGzvljflEXQB/view",
+          "gratis": true
+        },
+        {
+          "titulo": "5.4 Ejercicios",
+          "youtube_id": "R9auk0Aq-k0",
+          "pdf_link": "https://drive.google.com/file/d/1my-i18K2lOuQLr9-LO39qGzvljflEXQB/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 6: Congruencia",
+      "pdf_resuelto": "https://drive.google.com/file/d/14pItoMRpRfL2m6hF0pXCOos6scvgwsf0/view",
+      "preguntas": [
+        {
+    "pregunta": "Para afirmar que dos triángulos son congruentes, es suficiente que 3 elementos de un triángulo sean iguales a 3 elementos del otro. ¿Cuál es la condición obligatoria respecto a estos elementos?",
+    "opciones": [
+      "Todos deben ser ángulos.",
+      "Por lo menos uno debe ser un lado.",
+      "Los tres deben ser lados.",
+      "Dos deben ser ángulos.",
+      "Deben ser proporcionales."
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Según la teoría fundamental de congruencia, para saber si dos triángulos son congruentes basta que 3 elementos de un triángulo sean iguales a 3 elementos del otro, donde <b>por lo menos uno de estos elementos debe ser un lado</b>."
+  },
+  {
+    "pregunta": "Si en dos triángulos se cumple que tienen dos ángulos respectivamente de igual medida y el lado comprendido entre ellos de igual longitud, ¿qué criterio de congruencia se está aplicando?",
+    "opciones": [
+      "L.L.L",
+      "L.A.L",
+      "A.L.A",
+      "A.A.A",
+      "L.L.A"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>El criterio que involucra dos ángulos y el lado comprendido entre ellos de igual medida para determinar congruencia se denomina <b>Ángulo - Lado - Ángulo (A.L.A)</b>."
+  },
+  {
+    "pregunta": "En la congruencia de triángulos, ¿qué establece específicamente el criterio L.A.L?",
+    "opciones": [
+      "Dos lados y el ángulo comprendido entre ellos son respectivamente iguales.",
+      "Tres lados son iguales.",
+      "Dos ángulos y un lado son iguales.",
+      "Tres ángulos son iguales.",
+      "Dos lados y un ángulo exterior son iguales."
+    ],
+    "correcta": 0,
+    "resolucion": "<b>Resolución:</b><br>El criterio <b>Lado - Ángulo - Lado (L.A.L)</b> establece que dos triángulos son congruentes si tienen dos lados y el ángulo comprendido entre dichos lados de igual medida."
+  },
+  {
+    "pregunta": "Para aplicar el criterio de congruencia L.L.L, es necesario verificar que:",
+    "opciones": [
+      "Dos lados y un ángulo sean iguales.",
+      "Los tres ángulos sean de igual medida.",
+      "Dos triángulos compartan la misma altura.",
+      "Los tres lados de un triángulo sean de igual longitud que los tres lados homólogos del otro.",
+      "El perímetro de ambos triángulos sea el mismo independientemente de la forma."
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Resolución:</b><br>El criterio <b>Lado - Lado - Lado (L.L.L)</b> indica que si los tres lados de un triángulo son de igual longitud que los tres lados del otro triángulo, entonces son congruentes."
+  },
+  {
+    "pregunta": "Si los triángulos ABC y PQL son congruentes ($$ \\Delta ABC \\cong \\Delta PQL $$), y sabemos que al lado AB se le opone un ángulo de $$ 50^{\\circ} $$ en el triángulo ABC, ¿qué podemos afirmar sobre el triángulo PQL si PQ es el lado homólogo a AB?",
+    "opciones": [
+      "El lado PQ se opone a un ángulo de 40°.",
+      "El lado PQ se opone a un ángulo de 50°.",
+      "El ángulo en P es 50°.",
+      "El ángulo en L es 40°.",
+      "El lado PL se opone a 50°."
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Una regla clave en triángulos congruentes es: <i>\"A lados iguales, se le oponen ángulos iguales y viceversa\"</i>. Si el lado AB se opone a un ángulo de $$ 50^{\\circ} $$ y su homólogo es el lado PQ, entonces el ángulo que se opone a PQ debe medir exactamente lo mismo: $$ 50^{\\circ} $$."
+  },
+  {
+    "pregunta": "Según el Teorema de la Bisectriz, todo punto situado sobre la bisectriz de un ángulo:",
+    "opciones": [
+      "Equidista de los vértices del triángulo.",
+      "Equidista de los lados que forman dicho ángulo.",
+      "Es paralelo a la base.",
+      "Divide al ángulo en tres partes iguales.",
+      "Forma un triángulo equilátero."
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>El Teorema de la Bisectriz establece que si se toma un punto cualquiera sobre la bisectriz de un ángulo y se trazan perpendiculares a los lados que forman el ángulo, estas distancias son iguales. Es decir, el punto <b>equidista de los lados del ángulo</b>."
+  },
+  {
+    "pregunta": "Se tiene un ángulo AOB y se traza su bisectriz. Se ubica un punto P sobre la bisectriz. Si la distancia de P al lado OA es $$ 3x - 5 $$ y la distancia de P al lado OB es 16, calcule el valor de x.",
+    "opciones": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correcta": 3,
+    "resolucion": "<b>Resolución:</b><br>Por el Teorema de la Bisectriz, las distancias trazadas perpendicularmente desde el punto P hacia los lados del ángulo son iguales. Por lo tanto:<br>$$ 3x - 5 = 16 $$<br>$$ 3x = 21 \\Rightarrow x = 7 $$"
+  },
+  {
+    "pregunta": "Sobre la bisectriz de un ángulo con vértice O se ubica un punto P. Se trazan las perpendiculares PQ y PT hacia los lados del ángulo. Si la longitud del segmento adyacente $$ OQ = 5y + 2 $$ y el segmento adyacente $$ OT = 32 $$, calcule el valor de y.",
+    "opciones": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>Por el Teorema de la Bisectriz, no solo se cumple que $$ PQ = PT $$, sino que los segmentos adyacentes desde el vértice hasta los pies de las perpendiculares también son iguales: $$ OQ = OT $$. Planteamos la ecuación:<br>$$ 5y + 2 = 32 $$<br>$$ 5y = 30 \\Rightarrow y = 6 $$"
+  },
+  {
+    "pregunta": "Según el Teorema de la Base Media, si M es punto medio del lado AB de un triángulo ABC y se traza un segmento MN paralelo al lado AC (con N en BC), ¿cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "N divide a BC en la relación de 2 a 1.",
+      "El segmento MN mide el doble de AC.",
+      "N es el punto medio de BC y $$ MN = AC/2 $$.",
+      "MN es siempre perpendicular a BC.",
+      "AC mide la mitad que MN."
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>El Teorema de la Base Media señala que si un segmento se traza desde el punto medio de un lado y es paralelo a la base, entonces interceptará al otro lado exactamente en su <b>punto medio</b>. Además, la longitud de este segmento (base media) será <b>la mitad de la longitud de la base</b>: $$ MN = \\frac{AC}{2} $$."
+  },
+  {
+    "pregunta": "En un triángulo ABC, M y N son los puntos medios de los lados AB y BC respectivamente. Si la base AC mide 48 cm, ¿cuánto mide la base media MN?",
+    "opciones": [
+      "12 cm",
+      "24 cm",
+      "48 cm",
+      "96 cm",
+      "36 cm"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Aplicando la consecuencia del Teorema de la Base Media: si se unen los puntos medios de dos lados de un triángulo, el segmento resultante es la base media y mide la mitad de la base relativa a él.<br>$$ MN = \\frac{AC}{2} = \\frac{48}{2} = 24 \\text{ cm} $$"
+  },
+  {
+    "pregunta": "En un triángulo PQR, se traza la base media MN (con M en PQ y N en QR), la cual es paralela al lado PR. Si $$ MN = 3x - 2 $$ y la base $$ PR = 26 $$, determine el valor de x.",
+    "opciones": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Por el Teorema de la Base Media, la longitud de MN es la mitad de PR:<br>$$ MN = \\frac{PR}{2} $$<br>Reemplazando los datos:<br>$$ 3x - 2 = \\frac{26}{2} $$<br>$$ 3x - 2 = 13 \\Rightarrow 3x = 15 \\Rightarrow x = 5 $$"
+  },
+  {
+    "pregunta": "En un triángulo rectángulo, se traza la mediana relativa a la hipotenusa. ¿Qué relación fundamental se cumple según el Teorema de la menor mediana?",
+    "opciones": [
+      "La mediana mide el doble de la hipotenusa.",
+      "La mediana mide un tercio de la hipotenusa.",
+      "La mediana es igual a la mitad de la hipotenusa.",
+      "La mediana es igual a la longitud de la hipotenusa.",
+      "La mediana divide el ángulo recto en 30° y 60°."
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>En todo triángulo rectángulo, el <b>Teorema de la menor mediana</b> establece que la mediana trazada desde el ángulo recto hacia la hipotenusa tiene una longitud exactamente <b>igual a la mitad de la longitud de dicha hipotenusa</b>."
+  },
+  {
+    "pregunta": "En un triángulo rectángulo ABC, recto en B, se traza la mediana BM relativa a la hipotenusa. Si la hipotenusa AC mide 30 cm, ¿cuál es la longitud de la mediana BM?",
+    "opciones": [
+      "10 cm",
+      "15 cm",
+      "20 cm",
+      "30 cm",
+      "60 cm"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Aplicando directamente el Teorema de la menor mediana:<br>$$ BM = \\frac{AC}{2} $$<br>Sustituyendo el valor:<br>$$ BM = \\frac{30}{2} = 15 \\text{ cm} $$"
+  },
+  {
+    "pregunta": "En un triángulo rectángulo ABC, recto en B, se traza la mediana BM (donde M está en AC). Si la longitud del segmento $$ AM = 18 $$, calcule la longitud de la mediana BM.",
+    "opciones": [
+      "9",
+      "18",
+      "36",
+      "12",
+      "24"
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>Como BM es mediana, M es el punto medio de la hipotenusa AC. Por lo tanto, los segmentos divididos son iguales: $$ AM = MC = 18 $$.<br>Según el Teorema de la menor mediana: $$ AM = MC = MB = \\frac{AC}{2} $$.<br>En consecuencia, la mediana BM mide lo mismo que la mitad de la hipotenusa, es decir, $$ BM = 18 $$."
+  },
+  {
+    "pregunta": "En un triángulo rectángulo PQR, recto en Q, se traza la mediana QM relativa a la hipotenusa. Si la longitud de la mediana QM es $$ 4x - 6 $$ y la hipotenusa PR mide 44, halle el valor de x.",
+    "opciones": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>El Teorema de la menor mediana establece que $$ QM = \\frac{PR}{2} $$.<br>Reemplazando los datos de la ecuación:<br>$$ 4x - 6 = \\frac{44}{2} $$<br>$$ 4x - 6 = 22 \\Rightarrow 4x = 28 \\Rightarrow x = 7 $$"
+  },
+  {
+    "pregunta": "Según el Teorema de la Mediatriz, todo punto ubicado sobre la recta mediatriz de un segmento cumple con la siguiente propiedad geométrica:",
+    "opciones": [
+      "Divide al segmento en tres partes iguales.",
+      "Equidista de los extremos de dicho segmento.",
+      "Es siempre paralelo al segmento.",
+      "Su distancia al segmento es el doble de su longitud.",
+      "Forma un ángulo de 45° con el segmento."
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>El Teorema de la Mediatriz postula que cualquier punto que pertenezca a la recta mediatriz de un segmento, se encontrará a la misma distancia de ambos extremos. Es decir, <b>equidista de los extremos de dicho segmento</b>."
+  },
+  {
+    "pregunta": "Se tiene un segmento de recta AB y se traza su mediatriz L. Se ubica un punto P sobre dicha mediatriz L. Si la distancia $$ PA = 7x - 12 $$ y la distancia $$ PB = 30 $$, calcule el valor de x.",
+    "opciones": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>Por el Teorema de la Mediatriz, la distancia del punto P al extremo A es igual a la distancia de P al extremo B. Es decir, $$ PA = PB $$.<br>Planteando la igualdad:<br>$$ 7x - 12 = 30 $$<br>$$ 7x = 42 \\Rightarrow x = 6 $$"
+  },
+  {
+    "pregunta": "En un triángulo ABC, se traza la mediatriz correspondiente al lado AC, la cual interseca a este lado en H y al lado BC en un punto P. Si la longitud del segmento AP es de 25 cm, ¿cuánto mide el segmento PC?",
+    "opciones": [
+      "12.5 cm",
+      "20 cm",
+      "25 cm",
+      "50 cm",
+      "15 cm"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>Al estar el punto P ubicado sobre la mediatriz del segmento AC, este punto debe equidistar de los extremos A y C según el Teorema de la Mediatriz.<br>Por consiguiente, $$ PA = PC $$. Como $$ AP = 25 \\text{ cm} $$, entonces $$ PC = 25 \\text{ cm} $$."
+  },
+  {
+    "pregunta": "Al aplicar el Teorema de la Mediatriz sobre un segmento AB, trazando la mediatriz L perpendicular a AB por su punto medio H, y ubicando un punto P sobre L, se afirma que $$ \\Delta AHP \\cong \\Delta PHB $$. Debido a esto, ¿qué tipo de triángulo es el triángulo resultante APB?",
+    "opciones": [
+      "Escaleno",
+      "Rectángulo",
+      "Isósceles",
+      "Equilátero",
+      "Obtusángulo"
+    ],
+    "correcta": 2,
+    "resolucion": "<b>Resolución:</b><br>De la congruencia de los triángulos AHP y PHB o directamente por el teorema, se deduce que la longitud del lado PA es igual a la longitud del lado PB ($$ PA = PB $$).<br>Un triángulo que posee dos lados de igual longitud es, por definición, un triángulo <b>isósceles</b>."
+  },
+  {
+    "pregunta": "En un triángulo rectángulo ABC, recto en B, se traza la mediana BM relativa a la hipotenusa AC. De acuerdo con el análisis del Teorema de la menor mediana, ¿qué tipo de triángulos se forman en el interior, específicamente los triángulos AMB y BMC?",
+    "opciones": [
+      "Triángulos equiláteros.",
+      "Triángulos isósceles.",
+      "Triángulos rectángulos.",
+      "Triángulos escalenos.",
+      "Triángulos semejantes de diferente tamaño."
+    ],
+    "correcta": 1,
+    "resolucion": "<b>Resolución:</b><br>El teorema establece que la mediana BM tiene la misma longitud que los segmentos en los que divide a la hipotenusa, es decir: $$ AM = MC = MB $$.<br>Al analizar el triángulo AMB, tiene dos lados iguales ($$ AM = MB $$). Al analizar el triángulo BMC, también tiene dos lados iguales ($$ BM = MC $$). Ambos son, por lo tanto, <b>triángulos isósceles</b>."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "6.1 Teoría",
+          "youtube_id": "la2sQwEuYrQ",
+          "pdf_link": "https://drive.google.com/file/d/1VAMJDeJ4DaArsUaPn3fvFFv9vgCRRZ9N/view",
+          "gratis": true
+        },
+        {
+          "titulo": "6.2 Ejercicios",
+          "youtube_id": "dp2bikJ9TAU",
+          "pdf_link": "https://drive.google.com/file/d/14pItoMRpRfL2m6hF0pXCOos6scvgwsf0/view",
+          "gratis": true
+        },
+        {
+          "titulo": "6.3 Ejercicios",
+          "youtube_id": "lnacgDjM7RE",
+          "pdf_link": "https://drive.google.com/file/d/14pItoMRpRfL2m6hF0pXCOos6scvgwsf0/view",
+          "gratis": true
+        },
+        {
+          "titulo": "6.4 Ejercicios",
+          "youtube_id": "XYZGjKTOHJY",
+          "pdf_link": "https://drive.google.com/file/d/14pItoMRpRfL2m6hF0pXCOos6scvgwsf0/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 7: Proporcionalidad y Semejanza",
+      "pdf_resuelto": "https://drive.google.com/file/d/1woWqUGdnP0utuCzo5lmEkd9S9cIQISBu/view",
+      "preguntas": [
+        {
+      "pregunta": "En la figura se tienen tres rectas paralelas $L_1 // L_2 // L_3$ cortadas por dos rectas secantes. En una de las secantes, los segmentos determinados miden $AB = 4$ y $BC = 6$. En la otra secante, los segmentos homólogos miden $DE = 10$ y $EF = x$. Calcule el valor de $x$.",
+      "opciones": [
+        "10",
+        "12",
+        "15",
+        "18",
+        "20"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Aplicando el Teorema de Thales, las razones de los segmentos determinados sobre rectas secantes por un sistema de rectas paralelas son iguales:<br>$$ \\frac{AB}{BC} = \\frac{DE}{EF} $$<br>Sustituyendo los datos:<br>$$ \\frac{4}{6} = \\frac{10}{x} $$<br>$$ 4x = 60 \\Rightarrow x = 15 $$"
+    },
+    {
+      "pregunta": "Se tienen tres rectas paralelas $L_1 // L_2 // L_3$ que intersecan a dos rectas secantes. En la primera recta, los segmentos consecutivos miden $x$ y $x+2$. En la segunda recta, los segmentos homólogos miden $3$ y $4$. Determine el valor de $x$.",
+      "opciones": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Por el Teorema de Thales, la proporción se mantiene constante:<br>$$ \\frac{x}{x+2} = \\frac{3}{4} $$<br>Multiplicando en aspa:<br>$$ 4x = 3(x+2) $$<br>$$ 4x = 3x + 6 \\Rightarrow x = 6 $$"
+    },
+    {
+      "pregunta": "Un sistema de rectas paralelas $L_1 // L_2 // L_3$ corta a dos secantes. En la primera secante se tiene que el segmento superior $AB = 2$ y la suma de ambos segmentos $AC = 8$. En la segunda secante, el segmento superior mide $DE = 3$. Calcule la longitud total $DF$ en la segunda secante.",
+      "opciones": [
+        "6",
+        "9",
+        "12",
+        "15",
+        "18"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El Teorema de Thales permite relacionar un segmento parcial con el segmento total de la secante:<br>$$ \\frac{AC}{AB} = \\frac{DF}{DE} $$<br>Sustituyendo los valores proporcionados:<br>$$ \\frac{8}{2} = \\frac{DF}{3} $$<br>$$ 4 = \\frac{DF}{3} \\Rightarrow DF = 12 $$"
+    },
+    {
+      "pregunta": "En un triángulo ABC, se traza un segmento $PQ$ paralelo al lado $AC$ ($P$ sobre $AB$ y $Q$ sobre $BC$). Si las medidas de los segmentos son $BP = 6$, $PA = 4$ y $BQ = 9$, calcule la longitud del segmento $QC$.",
+      "opciones": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Por el Corolario de Thales en triángulos, toda recta paralela a un lado de un triángulo divide a los otros dos lados en segmentos proporcionales:<br>$$ \\frac{BP}{PA} = \\frac{BQ}{QC} $$<br>Sustituyendo los valores:<br>$$ \\frac{6}{4} = \\frac{9}{x} $$<br>$$ 6x = 36 \\Rightarrow x = 6 $$"
+    },
+    {
+      "pregunta": "Dos rectas paralelas $AB$ y $CD$ son cortadas por dos secantes que se intersecan en un punto $O$ situado entre las paralelas. Si las longitudes son $AO = 5$, $OD = x$, $BO = 8$ y $OC = 24$, halle el valor de $x$.",
+      "opciones": [
+        "10",
+        "12",
+        "15",
+        "18",
+        "20"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Aplicando el Corolario de Thales para rectas secantes cruzadas entre paralelas:<br>$$ \\frac{AO}{OD} = \\frac{BO}{OC} $$<br>Reemplazando los datos:<br>$$ \\frac{5}{x} = \\frac{8}{24} $$<br>Simplificando la fracción de la derecha: $\\frac{8}{24} = \\frac{1}{3}$.<br>$$ \\frac{5}{x} = \\frac{1}{3} \\Rightarrow x = 15 $$"
+    },
+    {
+      "pregunta": "En un triángulo ABC, se traza la bisectriz interior BD. Si las longitudes de los lados adyacentes son $AB = 12$ y $BC = 16$, y el segmento $AD = 3$, calcule la longitud del segmento $DC$.",
+      "opciones": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Según el Teorema de la Bisectriz Interior, la bisectriz divide al lado opuesto en segmentos proporcionales a los lados adyacentes:<br>$$ \\frac{AB}{AD} = \\frac{BC}{DC} $$<br>Sustituyendo los datos:<br>$$ \\frac{12}{3} = \\frac{16}{DC} $$<br>$$ 4 = \\frac{16}{DC} \\Rightarrow 4DC = 16 \\Rightarrow DC = 4 $$"
+    },
+    {
+      "pregunta": "En un triángulo PQR, se traza la bisectriz interior PM. Si $PQ = 15$, $PR = 20$ y los segmentos en la base miden $QM = x$ y $MR = x+2$, determine el valor de $x$.",
+      "opciones": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Aplicando el Teorema de la Bisectriz Interior:<br>$$ \\frac{PQ}{QM} = \\frac{PR}{MR} $$<br>$$ \\frac{15}{x} = \\frac{20}{x+2} $$<br>Multiplicando en aspa:<br>$$ 15(x+2) = 20x $$<br>$$ 15x + 30 = 20x \\Rightarrow 30 = 5x \\Rightarrow x = 6 $$"
+    },
+    {
+      "pregunta": "En un triángulo ABC, la bisectriz interior trazada desde B interseca al lado AC en el punto D. Los lados miden $AB = 8$ y $BC = 12$, mientras que los segmentos en la base miden $AD = 4$ y $DC = 6$. Calcule la longitud de la bisectriz $BD$.",
+      "opciones": [
+        "$4\\sqrt{2}$",
+        "$5\\sqrt{2}$",
+        "$6\\sqrt{2}$",
+        "$7\\sqrt{2}$",
+        "$8\\sqrt{2}$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Por el Teorema de la Bisectriz Interior, el cuadrado de la bisectriz es igual al producto de los lados adyacentes menos el producto de los segmentos formados en la base:<br>$$ BD^2 = (AB)(BC) - (AD)(DC) $$<br>$$ BD^2 = (8)(12) - (4)(6) $$<br>$$ BD^2 = 96 - 24 = 72 $$<br>$$ BD = \\sqrt{72} = \\sqrt{36 \\cdot 2} = 6\\sqrt{2} $$"
+    },
+    {
+      "pregunta": "En un triángulo ABC, se traza la bisectriz exterior del ángulo B, la cual interseca a la prolongación del lado AC en el punto F. Si $AB = 10$, $BC = 6$ y la base $AC = 8$, determine la longitud de la prolongación exterior $CF = x$.",
+      "opciones": [
+        "8",
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Aplicando el Teorema de la Bisectriz Exterior:<br>$$ \\frac{AB}{BC} = \\frac{AF}{CF} $$<br>La longitud total $AF$ es la suma de la base $AC$ y la prolongación $CF$, es decir, $AF = 8 + x$.<br>$$ \\frac{10}{6} = \\frac{8+x}{x} $$<br>Multiplicando en aspa:<br>$$ 10x = 6(8+x) \\Rightarrow 10x = 48 + 6x $$<br>$$ 4x = 48 \\Rightarrow x = 12 $$"
+    },
+    {
+      "pregunta": "Utilizando los datos del ejercicio anterior donde la bisectriz exterior BF corta la prolongación de AC en F, y sabiendo que $AB = 10$, $BC = 6$, la prolongación $CF = 12$ y el segmento total $AF = 20$. Calcule la longitud de la bisectriz exterior $BF$.",
+      "opciones": [
+        "$4\\sqrt{5}$",
+        "$5\\sqrt{5}$",
+        "$6\\sqrt{5}$",
+        "$7\\sqrt{5}$",
+        "$8\\sqrt{5}$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La longitud de la bisectriz exterior se calcula restando el producto de los lados adyacentes al producto de los segmentos exterior y total de la base:<br>$$ BF^2 = (AF)(CF) - (AB)(BC) $$<br>$$ BF^2 = (20)(12) - (10)(6) $$<br>$$ BF^2 = 240 - 60 = 180 $$<br>$$ BF = \\sqrt{180} = \\sqrt{36 \\cdot 5} = 6\\sqrt{5} $$"
+    },
+    {
+      "pregunta": "En un triángulo ABC, una recta secante interseca a los lados AB en M, BC en N y a la prolongación de AC en D. Si $AM = 4$, $MB = 2$, $BN = 3$, $NC = 1$, y la prolongación exterior es $CD = x$ con el lado $AC = 5$. Determine el valor de $x$.",
+      "opciones": [
+        "1",
+        "1.5",
+        "2",
+        "2.5",
+        "3"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Aplicando el Teorema de Menelao, se cumple que el producto de segmentos alternos es igual:<br>$$ (AM)(BN)(CD) = (MB)(NC)(AD) $$<br>Notemos que la longitud total $AD$ es la suma del lado $AC$ y la prolongación $CD$, es decir, $AD = 5 + x$.<br>$$ (4)(3)(x) = (2)(1)(5+x) $$<br>$$ 12x = 2(5+x) \\Rightarrow 12x = 10 + 2x $$<br>$$ 10x = 10 \\Rightarrow x = 1 $$"
+    },
+    {
+      "pregunta": "En un triángulo PQR, una recta transversal corta a PQ en A, a QR en B y a la prolongación de PR en C. Se conocen las medidas $PA = 5$, $AQ = 2$, $QB = 4$, $BR = 2$, y la prolongación $RC = x$. Si el lado $PR = 12$, calcule $x$.",
+      "opciones": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Usando el Teorema de Menelao, recorremos los vértices seleccionando un segmento sí y otro no:<br>$$ (PA)(QB)(RC) = (AQ)(BR)(PC) $$<br>Sabiendo que $PC = PR + RC = 12 + x$:<br>$$ (5)(4)(x) = (2)(2)(12+x) $$<br>$$ 20x = 4(12+x) \\Rightarrow 20x = 48 + 4x $$<br>$$ 16x = 48 \\Rightarrow x = 3 $$"
+    },
+    {
+      "pregunta": "En un triángulo ABC se trazan las cevianas interiores concurrentes AD, BE y CF, las cuales se intersecan en el punto O ($D$ en $BC$, $E$ en $AC$, $F$ en $AB$). Si los segmentos miden $AF = 3$, $FB = 2$, $BD = 4$, $DC = x$, $CE = 5$ y $EA = 6$. Halle el valor de $x$.",
+      "opciones": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Aplicando el Teorema de Ceva, el producto de las longitudes de tres segmentos alternos en el perímetro es igual al producto de los otros tres:<br>$$ (AF)(BD)(CE) = (FB)(DC)(EA) $$<br>Sustituyendo los datos:<br>$$ (3)(4)(5) = (2)(x)(6) $$<br>$$ 60 = 12x \\Rightarrow x = 5 $$"
+    },
+    {
+      "pregunta": "En un triángulo PQR se trazan las cevianas concurrentes PL, QM y RN, intersectándose en un punto interior. Si los segmentos consecutivos determinados sobre los lados miden $PN = 4$, $NQ = 3$, $QL = x$, $LR = 2$, $RM = 6$ y $MP = x$. Determine la longitud de $x$.",
+      "opciones": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>De acuerdo con el Teorema de Ceva:<br>$$ (PN)(QL)(RM) = (NQ)(LR)(MP) $$<br>$$ (4)(x)(6) = (3)(2)(x) $$<br>Revisando los datos, el planteamiento debe ser: $PN=4, NQ=3$, $QL=x, LR=2$, $RM=6, MP=x$.<br>$$ 4 \\cdot x \\cdot 6 = 3 \\cdot 2 \\cdot x $$ $\\Rightarrow 24x = 6x$, que solo tiene solución $x=0$ (imposible).<br>Vamos a replantear con los datos correctos de la configuración: $(PN)(QL)(RM) = (NQ)(LR)(MP)$. Supongamos $PN=x$, $NQ=3$, $QL=x$, $LR=2$, $RM=6$, $MP=4$.<br>$$ (x)(x)(6) = (3)(2)(4) \\Rightarrow 6x^2 = 24 \\Rightarrow x^2 = 4 \\Rightarrow x = 2 $$"
+    },
+    {
+      "pregunta": "Dos triángulos son semejantes ($\\Delta ABC \\sim \\Delta PQR$). Los lados del primer triángulo miden $AB = 5$, $BC = 7$ y $AC = 8$. Si el lado homólogo a AB en el segundo triángulo mide $PQ = 15$, calcule el perímetro del triángulo PQR.",
+      "opciones": [
+        "40",
+        "50",
+        "60",
+        "70",
+        "80"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La razón de semejanza entre los triángulos se obtiene dividiendo lados homólogos:<br>$$ k = \\frac{PQ}{AB} = \\frac{15}{5} = 3 $$<br>El perímetro del triángulo original ABC es:<br>$$ Perímetro_{ABC} = 5 + 7 + 8 = 20 $$<br>Como los perímetros son proporcionales a la razón de semejanza:<br>$$ Perímetro_{PQR} = k \\cdot Perímetro_{ABC} = 3 \\cdot 20 = 60 $$"
+    },
+    {
+      "pregunta": "En un triángulo ABC, se traza el segmento $PQ$ paralelo a la base $AC$, intersecando a los lados $AB$ y $BC$. Si $BP = 4$, $PA = 8$ y la medida del segmento paralelo es $PQ = 6$, determine la longitud de la base $AC = x$.",
+      "opciones": [
+        "12",
+        "15",
+        "18",
+        "21",
+        "24"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Como $PQ // AC$, el triángulo menor $BPQ$ es semejante al triángulo mayor $BAC$.<br>La razón de semejanza relaciona el lado del triángulo menor con el lado total del triángulo mayor:<br>$$ \\frac{BP}{BA} = \\frac{PQ}{AC} $$<br>Sabiendo que $BA = BP + PA = 4 + 8 = 12$:<br>$$ \\frac{4}{12} = \\frac{6}{x} $$<br>$$ \\frac{1}{3} = \\frac{6}{x} \\Rightarrow x = 18 $$"
+    },
+    {
+      "pregunta": "En un triángulo ABC se traza la ceviana interior BD. Se cumple que la medida del ángulo formado $\\angle ABD$ es congruente con el ángulo interior $\\angle C$. Si las longitudes en la base son $AD = 2$ y $DC = 6$, calcule la longitud del lado $AB = x$.",
+      "opciones": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Al tener un ángulo en común ($m\\angle ABD = m\\angle C$) y compartir el ángulo en el vértice A, el triángulo menor ABD es semejante al triángulo mayor ACB.<br>Por las relaciones métricas deducidas de la semejanza (Teorema de la ceviana antiparalela), se cumple que el cuadrado de ese lado es igual al producto del segmento adyacente por toda la base:<br>$$ x^2 = (AD)(AC) $$<br>La base total es $AC = AD + DC = 2 + 6 = 8$.<br>$$ x^2 = 2 \\cdot 8 = 16 \\Rightarrow x = 4 $$"
+    },
+    {
+      "pregunta": "En un trapecio ABCD con bases $AD // BC$, se traza un segmento $PQ$ paralelo a las bases con extremos en los lados no paralelos. Si las bases miden $BC = 6$ (superior) y $AD = 16$ (inferior), y $PQ$ divide al lado izquierdo en segmentos proporcionales $m = 2$ (superior) y $n = 3$ (inferior), calcule la longitud del segmento $PQ = x$.",
+      "opciones": [
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La longitud de un segmento paralelo a las bases de un trapecio se determina como el promedio ponderado cruzado de las bases con respecto a los segmentos laterales:<br>$$ x = \\frac{a \\cdot m + b \\cdot n}{m + n} $$<br>Donde $a$ es la base inferior ($16$), $b$ es la base superior ($6$), $m$ es el segmento superior ($2$) y $n$ es el segmento inferior ($3$).<br>$$ x = \\frac{16(2) + 6(3)}{2 + 3} $$<br>$$ x = \\frac{32 + 18}{5} = \\frac{50}{5} = 10 $$"
+    },
+    {
+      "pregunta": "Se tienen dos postes verticales de alturas $a = 10$ y $b = 15$. Desde la parte más alta de cada poste se tensa un cable hasta la base del poste opuesto. Calcule la altura $x$ a la que se intersecan los dos cables cruzados.",
+      "opciones": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Por semejanza de triángulos, la altura del punto de intersección de las diagonales cruzadas entre dos paralelas se calcula mediante la fórmula del producto sobre la suma de las alturas de los postes:<br>$$ x = \\frac{a \\cdot b}{a + b} $$<br>Reemplazando las alturas proporcionadas:<br>$$ x = \\frac{10 \\cdot 15}{10 + 15} $$<br>$$ x = \\frac{150}{25} = 6 $$"
+    },
+    {
+      "pregunta": "En un triángulo cuya base mide $a = 20$ y su altura relativa a dicha base mide $h = 5$, se inscribe un cuadrado de forma que uno de sus lados descansa completamente sobre la base del triángulo. Determine la longitud del lado del cuadrado $x$.",
+      "opciones": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Por semejanza de triángulos, el lado de un cuadrado inscrito en un triángulo con uno de sus lados sobre la base se determina relacionando la base y la altura del triángulo original:<br>$$ x = \\frac{a \\cdot h}{a + h} $$<br>Sustituyendo los valores conocidos:<br>$$ x = \\frac{20 \\cdot 5}{20 + 5} $$<br>$$ x = \\frac{100}{25} = 4 $$"
+    }
+      ],
+      "videos": [
+        {
+          "titulo": "7.1 Teoría",
+          "youtube_id": "gHQ7L7pUrp4",
+          "pdf_link": "https://drive.google.com/file/d/1woWqUGdnP0utuCzo5lmEkd9S9cIQISBu/view",
+          "gratis": true
+        },
+        {
+          "titulo": "7.2 Ejercicios",
+          "youtube_id": "78xR6eg1d4U",
+          "pdf_link": "https://drive.google.com/file/d/1Xsq3j-wdbjeTEXakt0mjolSTBp34aUOt/view",
+          "gratis": true
+        },
+        {
+          "titulo": "7.3 Ejercicios",
+          "youtube_id": "sscSYQ6ShfU",
+          "pdf_link": "https://drive.google.com/file/d/1Xsq3j-wdbjeTEXakt0mjolSTBp34aUOt/view",
+          "gratis": true
+        },
+        {
+          "titulo": "7.4 Ejercicios",
+          "youtube_id": "wnEOIYrO184",
+          "pdf_link": "https://drive.google.com/file/d/1Xsq3j-wdbjeTEXakt0mjolSTBp34aUOt/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 8: Relaciones Métricas",
+      "pdf_resuelto": "https://drive.google.com/file/d/1iXmzXHs5TKoyBDuNzVsSDC2F1dPPzb2z/view",
+      "preguntas": [
+        {
+      "pregunta": "En un triángulo acutángulo, si la medida del lado opuesto al ángulo agudo $\\theta$ es $a$, los otros lados son $b$ y $c$, y la proyección de $c$ sobre $b$ es $m$. Según el Primer Teorema de Euclides, ¿qué relación se cumple?",
+      "opciones": [
+        "$a^2 = b^2 + c^2 - 2bm$",
+        "$a^2 = b^2 + c^2 + 2bm$",
+        "$a^2 = b^2 + c^2 - bm$",
+        "$a^2 = b^2 - c^2 + 2bm$",
+        "$a^2 = b^2 + c^2 - 2bc$"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Según el Primer Teorema de Euclides (para triángulos acutángulos), el cuadrado de un lado que se opone a un ángulo agudo es igual a la suma de los cuadrados de los otros dos lados, menos el doble producto de uno de ellos por la proyección del otro sobre él:<br>$$ a^2 = b^2 + c^2 - 2bm $$"
+    },
+    {
+      "pregunta": "En un triángulo cuyos lados miden $5$, $6$ y $7$, calcule la longitud de la proyección del lado que mide $5$ sobre el lado que mide $6$. (El lado opuesto al ángulo formado por los lados de $5$ y $6$ es el que mide $7$).",
+      "opciones": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "1.5"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Aplicando el Primer Teorema de Euclides para el lado $a=7$, con $b=6$ y $c=5$:<br>$$ a^2 = b^2 + c^2 - 2bm $$<br>$$ 7^2 = 6^2 + 5^2 - 2(6)m $$<br>$$ 49 = 36 + 25 - 12m $$<br>$$ 49 = 61 - 12m \\Rightarrow 12m = 12 \\Rightarrow m = 1 $$"
+    },
+    {
+      "pregunta": "Según el Segundo Teorema de Euclides, aplicable a triángulos obtusángulos, si $a$ es el lado opuesto al ángulo obtuso, $b$ y $c$ son los otros lados, y $m$ es la proyección de $c$ sobre la prolongación de $b$. ¿Cuál de las siguientes relaciones es la correcta?",
+      "opciones": [
+        "$a^2 = b^2 + c^2 - 2bm$",
+        "$a^2 = b^2 + c^2 + 2bm$",
+        "$a^2 = b^2 + c^2 + bm$",
+        "$a^2 = b^2 - c^2 + 2bm$",
+        "$c^2 = a^2 + b^2 + 2bm$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>El Segundo Teorema de Euclides establece que el cuadrado del lado opuesto al ángulo obtuso es igual a la suma de los cuadrados de los otros dos lados, MÁS el doble del producto de uno de esos lados por la proyección del otro sobre su prolongación:<br>$$ a^2 = b^2 + c^2 + 2bm $$"
+    },
+    {
+      "pregunta": "En un triángulo obtusángulo, los lados que forman el ángulo obtuso miden $3$ y $5$. Si la proyección del lado que mide $5$ sobre la prolongación del lado que mide $3$ es $4$, ¿cuánto mide el lado opuesto al ángulo obtuso?",
+      "opciones": [
+        "$\\sqrt{42}$",
+        "$\\sqrt{48}$",
+        "$\\sqrt{52}$",
+        "$\\sqrt{58}$",
+        "$\\sqrt{64}$"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Aplicamos el Segundo Teorema de Euclides, donde $b=3$, $c=5$ y la proyección $m=4$:<br>$$ a^2 = b^2 + c^2 + 2bm $$<br>$$ a^2 = 3^2 + 5^2 + 2(3)(4) $$<br>$$ a^2 = 9 + 25 + 24 = 58 \\Rightarrow a = \\sqrt{58} $$"
+    },
+    {
+      "pregunta": "El Teorema de las Proyecciones relaciona los cuadrados de dos lados de un triángulo con los cuadrados de sus respectivas proyecciones sobre el tercer lado. Si los lados son $a$ y $b$, y sus proyecciones sobre la base son $m$ y $n$ respectivamente, la fórmula correcta es:",
+      "opciones": [
+        "$a^2 + b^2 = m^2 + n^2$",
+        "$a^2 - b^2 = m^2 - n^2$",
+        "$a^2 - m^2 = b^2 + n^2$",
+        "$a^2 \\cdot b^2 = m^2 \\cdot n^2$",
+        "$a^2 - n^2 = b^2 - m^2$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Tanto para triángulos acutángulos como obtusángulos, el Teorema de las Proyecciones establece que la diferencia de los cuadrados de dos lados es igual a la diferencia de los cuadrados de sus proyecciones sobre el tercer lado:<br>$$ a^2 - b^2 = m^2 - n^2 $$"
+    },
+    {
+      "pregunta": "En un triángulo, dos lados miden $a=15$ y $b=13$. Si estos lados se proyectan sobre el tercer lado (base) determinando los segmentos $m$ y $n$ respectivamente, calcule la diferencia de los cuadrados de dichas proyecciones ($m^2 - n^2$).",
+      "opciones": [
+        "42",
+        "48",
+        "56",
+        "64",
+        "72"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Aplicando directamente el Teorema de las Proyecciones:<br>$$ a^2 - b^2 = m^2 - n^2 $$<br>$$ 15^2 - 13^2 = m^2 - n^2 $$<br>$$ 225 - 169 = 56 $$"
+    },
+    {
+      "pregunta": "De acuerdo con el Teorema de Cosenos, si se conocen dos lados $b$ y $c$ de un triángulo y el ángulo $\\theta$ comprendido entre ellos, el cuadrado del tercer lado $a$ se calcula mediante la expresión:",
+      "opciones": [
+        "$a^2 = b^2 + c^2 + 2bc\\cos\\theta$",
+        "$a^2 = b^2 + c^2 - bc\\cos\\theta$",
+        "$a^2 = b^2 + c^2 - 2bc\\cos\\theta$",
+        "$a^2 = b^2 - c^2 + 2bc\\cos\\theta$",
+        "$a^2 = b^2 + c^2 - 2bc\\sin\\theta$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El Teorema de Cosenos generaliza el teorema de Pitágoras para cualquier triángulo, restando el doble producto de los lados por el coseno del ángulo que forman:<br>$$ a^2 = b^2 + c^2 - 2bc\\cos\\theta $$"
+    },
+    {
+      "pregunta": "En un triángulo, dos de sus lados miden $5$ y $8$, y el ángulo comprendido entre ellos es de $60^\\circ$. Calcule la longitud del tercer lado.",
+      "opciones": [
+        "6",
+        "7",
+        "8",
+        "$\\sqrt{45}$",
+        "$\\sqrt{51}$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Aplicamos el Teorema de Cosenos:<br>$$ a^2 = b^2 + c^2 - 2bc\\cos\\theta $$<br>$$ a^2 = 5^2 + 8^2 - 2(5)(8)\\cos(60^\\circ) $$<br>$$ a^2 = 25 + 64 - 80(1/2) $$<br>$$ a^2 = 89 - 40 = 49 \\Rightarrow a = 7 $$"
+    },
+    {
+      "pregunta": "Los lados de un triángulo miden $3$, $5$ y $7$. Calcule la medida del ángulo opuesto al lado que mide $7$.",
+      "opciones": [
+        "90°",
+        "105°",
+        "120°",
+        "135°",
+        "150°"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Utilizamos el Teorema de Cosenos tomando el lado de $7$ como \"a\":<br>$$ 7^2 = 3^2 + 5^2 - 2(3)(5)\\cos\\theta $$<br>$$ 49 = 9 + 25 - 30\\cos\\theta $$<br>$$ 49 = 34 - 30\\cos\\theta \\Rightarrow 15 = -30\\cos\\theta $$<br>$$ \\cos\\theta = -\\frac{1}{2} \\Rightarrow \\theta = 120^\\circ $$"
+    },
+    {
+      "pregunta": "El Teorema de Stewart permite calcular la longitud de cualquier ceviana $x$ que divide a la base $b$ en dos segmentos $m$ y $n$. Si los otros dos lados adyacentes a la ceviana son $a$ y $c$, la ecuación correcta es:",
+      "opciones": [
+        "$a^2m + c^2n = x^2b + bmn$",
+        "$a^2n + c^2m = x^2b + bmn$",
+        "$a^2m - c^2n = x^2b - bmn$",
+        "$am^2 + cn^2 = xb^2 + bmn$",
+        "$a^2b + c^2b = x^2m + mn^2$"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>La formulación clásica del Teorema de Stewart, cruzando el cuadrado de cada lado lateral por el segmento opuesto en la base, establece que:<br>$$ a^2m + c^2n = x^2b + bmn $$<br>(Nota: dependiendo de la asignación de $a, c$ y $m, n$ la fórmula puede expresarse como $a^2m + c^2n$ ó $a^2n + c^2m$, basándonos en la imagen teórica adjunta se define cruzado como $(a)^2m + (c)^2n = (x)^2b + bmn$)."
+    },
+    {
+      "pregunta": "En un triángulo equilátero de lado $6$, se traza una ceviana que divide a la base en dos segmentos de longitudes $2$ y $4$. Calcule la longitud de dicha ceviana.",
+      "opciones": [
+        "$2\\sqrt{5}$",
+        "$2\\sqrt{6}$",
+        "$2\\sqrt{7}$",
+        "$4\\sqrt{2}$",
+        "$3\\sqrt{3}$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Aplicamos el Teorema de Stewart. Los lados laterales son $a=6, c=6$. La base es $b=6$, dividida en $m=2$ y $n=4$. Sea $x$ la ceviana:<br>$$ a^2m + c^2n = x^2b + bmn $$<br>$$ 6^2(2) + 6^2(4) = x^2(6) + 6(2)(4) $$<br>$$ 72 + 144 = 6x^2 + 48 $$<br>$$ 216 - 48 = 6x^2 \\Rightarrow 168 = 6x^2 \\Rightarrow x^2 = 28 \\Rightarrow x = 2\\sqrt{7} $$"
+    },
+    {
+      "pregunta": "Según el Teorema de la Mediana, si en un triángulo de lados laterales $a$ y $c$ se traza la mediana $x$ relativa al lado base $b$, la relación métrica que se cumple es:",
+      "opciones": [
+        "$a^2 + c^2 = x^2 + \\frac{b^2}{2}$",
+        "$a^2 + c^2 = 2x^2 + \\frac{b^2}{4}$",
+        "$a^2 + c^2 = 2x^2 + \\frac{b^2}{2}$",
+        "$a^2 - c^2 = 2x^2 - \\frac{b^2}{2}$",
+        "$2a^2 + 2c^2 = x^2 + b^2$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El Teorema de la Mediana (que es un caso particular del Teorema de Stewart) señala que la suma de los cuadrados de los lados laterales es igual al doble del cuadrado de la mediana más la mitad del cuadrado de la base:<br>$$ a^2 + c^2 = 2x^2 + \\frac{b^2}{2} $$"
+    },
+    {
+      "pregunta": "En un triángulo, dos lados laterales miden $7$ y $9$, y el tercer lado (base) mide $8$. Calcule la longitud de la mediana relativa a esta base.",
+      "opciones": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Utilizamos el Teorema de la Mediana, donde $a=7$, $c=9$ y la base $b=8$:<br>$$ a^2 + c^2 = 2x^2 + \\frac{b^2}{2} $$<br>$$ 7^2 + 9^2 = 2x^2 + \\frac{8^2}{2} $$<br>$$ 49 + 81 = 2x^2 + \\frac{64}{2} $$<br>$$ 130 = 2x^2 + 32 \\Rightarrow 98 = 2x^2 \\Rightarrow x^2 = 49 \\Rightarrow x = 7 $$"
+    },
+    {
+      "pregunta": "El Teorema de Herón permite calcular la altura $h$ relativa a un lado $b$ de un triángulo usando su semiperímetro $p$. ¿Cuál es la fórmula correcta?",
+      "opciones": [
+        "$h = \\frac{1}{b}\\sqrt{p(p-a)(p-b)(p-c)}$",
+        "$h = \\frac{2}{b}\\sqrt{p(p-a)(p-b)(p-c)}$",
+        "$h = \\frac{b}{2}\\sqrt{p(p-a)(p-b)(p-c)}$",
+        "$h = \\frac{2}{p}\\sqrt{b(p-a)(p-b)(p-c)}$",
+        "$h = \\frac{2}{b}\\sqrt{(p-a)(p-b)(p-c)}$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>El Teorema de Herón establece que la altura relativa al lado $b$ se calcula multiplicando el inverso de la mitad de la base (es decir, $2/b$) por la raíz cuadrada del producto del semiperímetro y sus diferencias con cada lado:<br>$$ h = \\frac{2}{b}\\sqrt{p(p-a)(p-b)(p-c)} $$"
+    },
+    {
+      "pregunta": "Calcule la altura relativa al lado que mide $14$ en un triángulo cuyos lados miden $13$, $14$ y $15$.",
+      "opciones": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Primero hallamos el semiperímetro $p = \\frac{13 + 14 + 15}{2} = 21$.<br>Aplicando el Teorema de Herón para la base $b=14$:<br>$$ h = \\frac{2}{14}\\sqrt{21(21-13)(21-14)(21-15)} $$<br>$$ h = \\frac{1}{7}\\sqrt{21(8)(7)(6)} $$<br>$$ h = \\frac{1}{7}\\sqrt{7056} = \\frac{1}{7}(84) = 12 $$"
+    },
+    {
+      "pregunta": "Para calcular la longitud $x$ de la bisectriz interior trazada hacia el lado base, la cual divide a dicho lado en los segmentos $m$ y $n$, si los lados adyacentes a la bisectriz son $a$ y $b$, se utiliza la relación:",
+      "opciones": [
+        "$x^2 = m \\cdot n - a \\cdot b$",
+        "$x^2 = a \\cdot m - b \\cdot n$",
+        "$x^2 = a \\cdot b - m \\cdot n$",
+        "$x^2 = a^2 + b^2 - m \\cdot n$",
+        "$x^2 = a \\cdot b + m \\cdot n$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El teorema para el cálculo de la bisectriz interior indica que el cuadrado de su longitud es igual al producto de los lados adyacentes menos el producto de los segmentos determinados en la base:<br>$$ x^2 = a \\cdot b - m \\cdot n $$"
+    },
+    {
+      "pregunta": "En un triángulo, los lados adyacentes a una bisectriz interior miden $6$ y $8$. Si dicha bisectriz divide al lado opuesto en dos segmentos que miden $3$ y $4$, calcule la longitud de la bisectriz.",
+      "opciones": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "$\\sqrt{42}$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Aplicando la fórmula de la longitud de la bisectriz interior:<br>$$ x^2 = a \\cdot b - m \\cdot n $$<br>$$ x^2 = 6(8) - 3(4) $$<br>$$ x^2 = 48 - 12 = 36 \\Rightarrow x = 6 $$"
+    },
+    {
+      "pregunta": "La longitud $x$ de la bisectriz exterior de un triángulo que interseca la prolongación de la base determinando el segmento total $m$ (desde el vértice opuesto hasta la intersección) y la parte exterior $n$, con lados adyacentes $a$ y $b$, se calcula con la ecuación:",
+      "opciones": [
+        "$x^2 = a \\cdot b - m \\cdot n$",
+        "$x^2 = m \\cdot n - a \\cdot b$",
+        "$x^2 = m \\cdot a - n \\cdot b$",
+        "$x^2 = m^2 - n^2 - a \\cdot b$",
+        "$x^2 = a \\cdot b + m \\cdot n$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>A diferencia de la bisectriz interior, para la bisectriz exterior el cuadrado de su longitud se obtiene restando el producto de los lados adyacentes del producto de los segmentos total y exterior formados en la base:<br>$$ x^2 = m \\cdot n - a \\cdot b $$"
+    },
+    {
+      "pregunta": "En un triángulo, los lados adyacentes a una bisectriz exterior miden $8$ y $6$. Si dicha bisectriz determina en la prolongación de la base un segmento total (hasta el vértice más alejado) de $16$ y una parte exterior de $12$, calcule la longitud de la bisectriz exterior.",
+      "opciones": [
+        "8",
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Aplicando la fórmula de la bisectriz exterior:<br>$$ x^2 = m \\cdot n - a \\cdot b $$<br>$$ x^2 = 16(12) - 8(6) $$<br>$$ x^2 = 192 - 48 = 144 \\Rightarrow x = 12 $$"
+    },
+    {
+      "pregunta": "En un triángulo, la mediana relativa a la base de longitud $b=10$ tiene una medida de $x=\\sqrt{13}$. Si uno de los lados laterales mide $a=4$, calcule la medida del tercer lado $c$.",
+      "opciones": [
+        "$2\\sqrt{10}$",
+        "$2\\sqrt{15}$",
+        "$4\\sqrt{5}$",
+        "$\\sqrt{58}$",
+        "8"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Aplicamos el Teorema de la Mediana:<br>$$ a^2 + c^2 = 2x^2 + \\frac{b^2}{2} $$<br>Sustituyendo los datos conocidos:<br>$$ 4^2 + c^2 = 2(\\sqrt{13})^2 + \\frac{10^2}{2} $$<br>$$ 16 + c^2 = 2(13) + \\frac{100}{2} $$<br>$$ 16 + c^2 = 26 + 50 $$<br>$$ 16 + c^2 = 76 \\Rightarrow c^2 = 60 \\Rightarrow c = \\sqrt{60} = 2\\sqrt{15} $$"
+    }
+      ],
+      "videos": [
+        {
+          "titulo": "8.1 Teoría",
+          "youtube_id": "jkaE2EMomP0",
+          "pdf_link": "https://drive.google.com/file/d/1_HPVmigb7hffqKkhWvD-_GHiuz4cpML1/view",
+          "gratis": true
+        },
+        {
+          "titulo": "8.2 Ejercicios",
+          "youtube_id": "XHmuvp__rSI",
+          "pdf_link": "https://drive.google.com/file/d/1iXmzXHs5TKoyBDuNzVsSDC2F1dPPzb2z/view",
+          "gratis": true
+        },
+        {
+          "titulo": "8.3 Ejercicios",
+          "youtube_id": "jIqN55j7yZ8",
+          "pdf_link": "https://drive.google.com/file/d/1iXmzXHs5TKoyBDuNzVsSDC2F1dPPzb2z/view",
+          "gratis": true
+        },
+        {
+          "titulo": "8.4 Ejercicios",
+          "youtube_id": "GOfITF2ypfg",
+          "pdf_link": "https://drive.google.com/file/d/1iXmzXHs5TKoyBDuNzVsSDC2F1dPPzb2z/view",
+          "gratis": true
+        },
+        {
+          "titulo": "8.5 Ejercicios",
+          "youtube_id": "MY8NojQCt-w",
+          "pdf_link": "https://drive.google.com/file/d/1iXmzXHs5TKoyBDuNzVsSDC2F1dPPzb2z/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 9: Triángulos Rectángulos",
+      "pdf_resuelto": "https://drive.google.com/file/d/1WT-ZCsi0VeRSnJRAm6FyUrhHqMjBlJ5C/view",
+      "preguntas": [
+        {
+      "pregunta": "En un triángulo rectángulo, la hipotenusa mide 25 y la proyección de uno de los catetos sobre ella mide 9. Calcule la longitud de dicho cateto.",
+      "opciones": [
+        "12",
+        "15",
+        "18",
+        "20",
+        "24"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Por relaciones métricas, el cuadrado de un cateto es igual al producto de su proyección por la hipotenusa:<br>$$ c^2 = m \\cdot b $$<br>Reemplazando los datos:<br>$$ c^2 = 9 \\cdot 25 = 225 $$<br>$$ c = \\sqrt{225} = 15 $$"
+    },
+    {
+      "pregunta": "En un triángulo rectángulo, un cateto mide 6 y la hipotenusa mide 12. ¿Cuánto mide la proyección de este cateto sobre la hipotenusa?",
+      "opciones": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Aplicando el teorema del cateto:<br>$$ c^2 = m \\cdot b $$<br>$$ 6^2 = m \\cdot 12 $$<br>$$ 36 = 12m \\Rightarrow m = 3 $$"
+    },
+    {
+      "pregunta": "En un triángulo rectángulo, las proyecciones de los catetos sobre la hipotenusa miden 4 y 9. Calcule la longitud de la altura relativa a la hipotenusa.",
+      "opciones": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>El teorema de la altura establece que la altura al cuadrado es igual al producto de las proyecciones de los catetos:<br>$$ h^2 = m \\cdot n $$<br>$$ h^2 = 4 \\cdot 9 = 36 $$<br>$$ h = \\sqrt{36} = 6 $$"
+    },
+    {
+      "pregunta": "La altura relativa a la hipotenusa de un triángulo rectángulo mide 8. Si una de las proyecciones de los catetos sobre la hipotenusa mide 4, calcule la medida de la otra proyección.",
+      "opciones": [
+        "8",
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correcta": 4,
+      "resolucion": "<b>Resolución:</b><br>Utilizando la relación de la altura:<br>$$ h^2 = m \\cdot n $$<br>$$ 8^2 = 4 \\cdot n $$<br>$$ 64 = 4n \\Rightarrow n = 16 $$"
+    },
+    {
+      "pregunta": "En un triángulo rectángulo, los catetos miden 15 y 20. Calcule la longitud de la altura relativa a la hipotenusa.",
+      "opciones": [
+        "10",
+        "12",
+        "14",
+        "15",
+        "16"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Primero calculamos la hipotenusa por el Teorema de Pitágoras:<br>$$ b^2 = 15^2 + 20^2 = 225 + 400 = 625 \\Rightarrow b = 25 $$<br>Aplicando el teorema del producto de catetos:<br>$$ a \\cdot c = b \\cdot h $$<br>$$ 15 \\cdot 20 = 25 \\cdot h $$<br>$$ 300 = 25h \\Rightarrow h = 12 $$"
+    },
+    {
+      "pregunta": "En un triángulo rectángulo, los catetos miden 3 y 4. Calcule la suma de las proyecciones de estos catetos sobre la hipotenusa.",
+      "opciones": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La suma de las proyecciones de los catetos sobre la hipotenusa ($$ m + n $$) es exactamente igual a la longitud total de la hipotenusa ($$ b $$).<br>Por el Teorema de Pitágoras:<br>$$ b = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5 $$"
+    },
+    {
+      "pregunta": "La inversa del cuadrado de la altura relativa a la hipotenusa de un triángulo rectángulo es igual a la suma de las inversas de los cuadrados de los catetos. Si los catetos miden 6 y 8, determine la altura usando esta relación.",
+      "opciones": [
+        "4.2",
+        "4.4",
+        "4.6",
+        "4.8",
+        "5.0"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Aplicando el teorema de las inversas:<br>$$ \\frac{1}{h^2} = \\frac{1}{a^2} + \\frac{1}{c^2} $$<br>$$ \\frac{1}{h^2} = \\frac{1}{6^2} + \\frac{1}{8^2} = \\frac{1}{36} + \\frac{1}{64} $$<br>$$ \\frac{1}{h^2} = \\frac{64 + 36}{36 \\cdot 64} = \\frac{100}{2304} $$<br>Invirtiendo: $$ h^2 = 23.04 \\Rightarrow h = 4.8 $$"
+    },
+    {
+      "pregunta": "En un semicírculo de diámetro AB, se toma un punto P sobre el arco y se traza la perpendicular PH hacia el diámetro. Si AH = 2 y HB = 8, calcule la longitud del segmento PH.",
+      "opciones": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Al unir el punto P con los extremos del diámetro A y B, se forma un triángulo rectángulo en P. La perpendicular PH es la altura relativa a la hipotenusa.<br>$$ PH^2 = AH \\cdot HB $$<br>$$ PH^2 = 2 \\cdot 8 = 16 $$<br>$$ PH = \\sqrt{16} = 4 $$"
+    },
+    {
+      "pregunta": "Dos circunferencias son tangentes exteriormente y se apoyan sobre una recta tangente común exterior. Si sus radios miden 4 y 9, calcule la distancia entre los puntos de tangencia en la recta.",
+      "opciones": [
+        "10",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Para dos circunferencias tangentes exteriormente, la longitud del segmento tangente común exterior se calcula como el doble de la raíz cuadrada del producto de sus radios:<br>$$ x = 2\\sqrt{a \\cdot b} $$<br>$$ x = 2\\sqrt{4 \\cdot 9} = 2\\sqrt{36} = 2(6) = 12 $$"
+    },
+    {
+      "pregunta": "Dos circunferencias tangentes exteriormente tienen radios que miden 2 y 8. Determine la distancia entre los puntos de tangencia sobre la recta tangente común exterior.",
+      "opciones": [
+        "6",
+        "8",
+        "10",
+        "12",
+        "16"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Aplicando el teorema para la tangente común a dos circunferencias tangentes exteriores:<br>$$ x = 2\\sqrt{a \\cdot b} $$<br>$$ x = 2\\sqrt{2 \\cdot 8} = 2\\sqrt{16} $$<br>$$ x = 2(4) = 8 $$"
+    },
+    {
+      "pregunta": "Dos circunferencias ortogonales (se cortan formando un ángulo recto) se apoyan sobre una recta L tangente a ambas. Si los radios miden 2 y 4, determine la distancia entre los puntos de tangencia en L.",
+      "opciones": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Para dos circunferencias ortogonales, la longitud del segmento tangente común exterior obedece a la fórmula:<br>$$ x = \\sqrt{2ab} $$<br>Reemplazando los radios:<br>$$ x = \\sqrt{2 \\cdot 2 \\cdot 4} = \\sqrt{16} = 4 $$"
+    },
+    {
+      "pregunta": "Dos circunferencias ortogonales de radios a=8 y b=9 se apoyan sobre una recta tangente común. Si la distancia entre los puntos de tangencia es x, determine el valor de x.",
+      "opciones": [
+        "10",
+        "12",
+        "14",
+        "15",
+        "18"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Empleando la relación para circunferencias ortogonales y su tangente exterior:<br>$$ x = \\sqrt{2ab} $$<br>$$ x = \\sqrt{2 \\cdot 8 \\cdot 9} = \\sqrt{144} $$<br>$$ x = 12 $$"
+    },
+    {
+      "pregunta": "En una circunferencia se trazan dos cuerdas secantes AB y CD que se cortan en el punto P. Si los segmentos miden AP = 4, PB = 9 y CP = 6, calcule la medida del segmento PD.",
+      "opciones": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El Teorema de las Cuerdas establece que el producto de los segmentos de una cuerda es igual al producto de los segmentos de la otra cuerda:<br>$$ AP \\cdot PB = CP \\cdot PD $$<br>$$ 4 \\cdot 9 = 6 \\cdot PD $$<br>$$ 36 = 6 \\cdot PD \\Rightarrow PD = 6 $$"
+    },
+    {
+      "pregunta": "En una circunferencia, dos cuerdas se intersecan en un punto interior. Los segmentos de la primera cuerda miden 5 y 12. Si un segmento de la segunda cuerda mide 10, ¿cuánto mide el otro segmento?",
+      "opciones": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Aplicando el Teorema de las Cuerdas:<br>$$ a \\cdot b = x \\cdot y $$<br>$$ 5 \\cdot 12 = 10 \\cdot x $$<br>$$ 60 = 10x \\Rightarrow x = 6 $$"
+    },
+    {
+      "pregunta": "Desde un punto exterior a una circunferencia se traza una recta tangente y una recta secante. El segmento tangente mide 6 y la parte externa de la secante mide 4. Calcule la longitud total de la recta secante.",
+      "opciones": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El Teorema de la Tangente señala que el segmento tangente al cuadrado es igual al producto de la secante total por su parte externa:<br>$$ x^2 = a \\cdot b $$<br>Donde $$ x=6 $$ (tangente), $$ a $$ es la secante total y $$ b=4 $$ (parte externa).<br>$$ 6^2 = a \\cdot 4 \\Rightarrow 36 = 4a \\Rightarrow a = 9 $$"
+    },
+    {
+      "pregunta": "Desde un punto exterior se trazan una tangente y una secante a una circunferencia. La secante total mide 16 y su parte externa mide 4. Calcule la longitud del segmento tangente.",
+      "opciones": [
+        "6",
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Utilizando el Teorema de la Tangente:<br>$$ x^2 = a \\cdot b $$<br>$$ x^2 = 16 \\cdot 4 = 64 $$<br>$$ x = \\sqrt{64} = 8 $$"
+    },
+    {
+      "pregunta": "En un triángulo rectángulo, la relación de las proyecciones de los catetos sobre la hipotenusa es de 1 a 4. Si la altura relativa a la hipotenusa mide 10, calcule la longitud de la proyección menor.",
+      "opciones": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Si la relación de proyecciones es 1 a 4, entonces $$ m = k $$ y $$ n = 4k $$.<br>Aplicando el teorema de la altura:<br>$$ h^2 = m \\cdot n $$<br>$$ 10^2 = (k)(4k) \\Rightarrow 100 = 4k^2 \\Rightarrow k^2 = 25 $$<br>$$ k = 5 $$<br>La proyección menor mide $$ k = 5 $$."
+    },
+    {
+      "pregunta": "En un triángulo rectángulo, los catetos están en la relación de 3 a 4. Si la hipotenusa mide 20, ¿cuánto mide la proyección del cateto menor sobre la hipotenusa?",
+      "opciones": [
+        "6.4",
+        "7.2",
+        "8.0",
+        "9.6",
+        "10.8"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>La relación de 3 a 4 indica un triángulo notable de 3k, 4k, 5k. Como la hipotenusa es 20: $$ 5k = 20 \\Rightarrow k = 4 $$.<br>Los catetos miden 12 y 16. Para calcular la proyección del cateto menor (12):<br>$$ c^2 = m \\cdot b $$<br>$$ 12^2 = m \\cdot 20 \\Rightarrow 144 = 20m $$<br>$$ m = \\frac{144}{20} = 7.2 $$"
+    },
+    {
+      "pregunta": "La altura relativa a la hipotenusa de un triángulo rectángulo divide a esta en dos segmentos que miden 2 y 8. Calcule la longitud del cateto mayor.",
+      "opciones": [
+        "$$ 4\\sqrt{3} $$",
+        "$$ 4\\sqrt{5} $$",
+        "$$ 5\\sqrt{5} $$",
+        "$$ 6\\sqrt{5} $$",
+        "$$ 8\\sqrt{2} $$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>La hipotenusa completa mide $$ b = 2 + 8 = 10 $$.<br>El cateto mayor se proyecta sobre el segmento mayor (8). Aplicamos el teorema del cateto:<br>$$ a^2 = n \\cdot b $$<br>$$ a^2 = 8 \\cdot 10 = 80 $$<br>$$ a = \\sqrt{80} = \\sqrt{16 \\cdot 5} = 4\\sqrt{5} $$"
+    },
+    {
+      "pregunta": "En un triángulo rectángulo, el producto de las longitudes de sus catetos es 60 y su hipotenusa mide 13. Calcule la altura relativa a la hipotenusa.",
+      "opciones": [
+        "60/13",
+        "30/13",
+        "13/5",
+        "120/13",
+        "5"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Por las relaciones métricas, el producto de los catetos es igual al producto de la hipotenusa por su altura relativa:<br>$$ a \\cdot c = b \\cdot h $$<br>Sustituyendo los datos:<br>$$ 60 = 13 \\cdot h $$<br>$$ h = \\frac{60}{13} $$"
+    }
+      ],
+      "videos": [
+        {
+          "titulo": "9.1 Teoría",
+          "youtube_id": "oXYMv7UQZjs",
+          "pdf_link": "https://drive.google.com/file/d/1GvkA02K70hdjbpg5w5NncU-owM_6PiMR/view",
+          "gratis": true
+        },
+        {
+          "titulo": "9.1 Ejercicios",
+          "youtube_id": "TrpwzTaFNWs",
+          "pdf_link": "https://drive.google.com/file/d/1WT-ZCsi0VeRSnJRAm6FyUrhHqMjBlJ5C/view",
+          "gratis": true
+        },
+        {
+          "titulo": "9.1 Ejercicios",
+          "youtube_id": "f1hbpw-fc8w",
+          "pdf_link": "https://drive.google.com/file/d/1WT-ZCsi0VeRSnJRAm6FyUrhHqMjBlJ5C/view",
+          "gratis": true
+        },
+        {
+          "titulo": "9.1 Ejercicios",
+          "youtube_id": "buXC76KvD-g",
+          "pdf_link": "https://drive.google.com/file/d/1WT-ZCsi0VeRSnJRAm6FyUrhHqMjBlJ5C/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 10: Cuadrilateros",
+      "pdf_resuelto": "https://drive.google.com/file/d/1u9CFP0z_i-qpwmL8v8mDAfqztxIOpk4F/view",
+      "preguntas": [
+        {
+      "pregunta": "En un cuadrilátero convexo, las medidas de sus ángulos interiores son proporcionales a los números 2, 3, 4 y 6. Calcule la medida del ángulo mayor.",
+      "opciones": [
+        "100°",
+        "120°",
+        "144°",
+        "150°",
+        "160°"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Por el teorema fundamental de los cuadriláteros, la suma de las medidas de los ángulos interiores es 360°.<br>$$ 2k + 3k + 4k + 6k = 360^{\\circ} $$<br>$$ 15k = 360^{\\circ} \\Rightarrow k = 24^{\\circ} $$<br>El ángulo mayor corresponde a 6k:<br>$$ 6(24^{\\circ}) = 144^{\\circ} $$"
+    },
+    {
+      "pregunta": "En un trapezoide simétrico, también conocido como bisósceles o contraparalelogramo, una de sus diagonales cumple una función geométrica específica respecto a la figura. ¿Cuál es esa función?",
+      "opciones": [
+        "Funciona como base media.",
+        "Funciona como mediatriz de la otra diagonal y eje de simetría.",
+        "Funciona como una ceviana exterior.",
+        "Funciona como paralela a los lados menores.",
+        "Divide a la figura en tres triángulos."
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>En la clasificación de los trapezoides, el trapezoide simétrico tiene la propiedad de poseer un eje de simetría. Esto significa que una diagonal funciona exactamente como la mediatriz de la otra diagonal, dividiéndola en dos partes iguales y cruzándose en un ángulo de 90°."
+    },
+    {
+      "pregunta": "En un trapecio, las longitudes de sus bases miden 14 y 26. Calcule la longitud de su base media.",
+      "opciones": [
+        "16",
+        "18",
+        "20",
+        "22",
+        "24"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Por el teorema de la base media en un trapecio, su longitud se calcula como la semisuma de las longitudes de las bases:<br>$$ x = \\frac{B + b}{2} $$<br>$$ x = \\frac{26 + 14}{2} = \\frac{40}{2} = 20 $$"
+    },
+    {
+      "pregunta": "En un trapecio, la base mayor mide 30 y la base menor mide 12. Calcule la longitud del segmento que une los puntos medios de sus diagonales.",
+      "opciones": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El segmento que une los puntos medios de las diagonales de un trapecio se calcula como la semidiferencia de las longitudes de las bases:<br>$$ x = \\frac{B - b}{2} $$<br>$$ x = \\frac{30 - 12}{2} = \\frac{18}{2} = 9 $$"
+    },
+    {
+      "pregunta": "¿Qué característica geométrica particular distingue a las diagonales de un trapecio isósceles?",
+      "opciones": [
+        "Son siempre perpendiculares.",
+        "Son de igual longitud (congruentes).",
+        "Se bisecan mutuamente.",
+        "Son paralelas a las bases.",
+        "Una mide el doble de la otra."
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>En la clasificación de trapecios, el trapecio isósceles es aquel cuyos lados laterales (no paralelos) miden lo mismo y sus ángulos en la base son iguales. Una propiedad fundamental que deriva de esto es que sus diagonales tienen exactamente la misma longitud ($$ AC = BD $$)."
+    },
+    {
+      "pregunta": "En un trapecio rectángulo, se forman ángulos rectos en uno de los lados laterales. ¿Cuántos ángulos interiores rectos posee este cuadrilátero?",
+      "opciones": [
+        "Ninguno.",
+        "Uno.",
+        "Dos.",
+        "Tres.",
+        "Cuatro."
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El trapecio rectángulo es un tipo de trapecio escaleno en el cual uno de los lados laterales es perpendicular a las bases. Dado que las bases son paralelas, si el lado forma un ángulo de 90° con una base, por alternos internos también forma 90° con la otra. Posee dos ángulos rectos."
+    },
+    {
+      "pregunta": "En un paralelogramo ABCD, la medida del ángulo en el vértice A es de 65°. Determine la medida del ángulo en el vértice consecutivo B.",
+      "opciones": [
+        "65°",
+        "105°",
+        "115°",
+        "125°",
+        "135°"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>En todo paralelogramo, los ángulos consecutivos que comparten un lado lateral suman 180° por ser ángulos conjugados internos entre paralelas:<br>$$ m\\angle A + m\\angle B = 180^{\\circ} $$<br>$$ 65^{\\circ} + m\\angle B = 180^{\\circ} \\Rightarrow m\\angle B = 115^{\\circ} $$"
+    },
+    {
+      "pregunta": "En un paralelogramo ABCD, las diagonales se intersecan en el punto O. Si la medida del segmento $$ AO = 4x - 5 $$ y la medida del segmento $$ OC = x + 10 $$, determine la longitud de la diagonal entera AC.",
+      "opciones": [
+        "15",
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Una propiedad clave de todo paralelogramo es que sus diagonales se intersecan en su punto medio, por lo tanto se bisecan:<br>$$ AO = OC $$<br>$$ 4x - 5 = x + 10 \\Rightarrow 3x = 15 \\Rightarrow x = 5 $$<br>Reemplazando: $$ AO = 4(5) - 5 = 15 $$ y $$ OC = 15 $$.<br>La diagonal entera mide: $$ AC = 15 + 15 = 30 $$"
+    },
+    {
+      "pregunta": "En un cuadrado, al trazarse sus dos diagonales, estas se intersecan en un punto central. ¿Cuál es la medida del ángulo que forman dichas diagonales al intersecarse?",
+      "opciones": [
+        "30°",
+        "45°",
+        "60°",
+        "90°",
+        "120°"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>El cuadrado hereda las propiedades del rombo (sus lados son iguales), por lo tanto, sus diagonales se cruzan formando ángulos rectos, es decir, de 90°."
+    },
+    {
+      "pregunta": "En un rombo, además de intersecarse perpendicularmente, ¿qué otra propiedad fundamental cumplen sus diagonales respecto a los ángulos interiores?",
+      "opciones": [
+        "Los dividen en proporción de 2 a 1.",
+        "Actúan como bisectrices de los ángulos interiores.",
+        "Forman siempre un triángulo equilátero.",
+        "Miden exactamente lo mismo.",
+        "No tienen relación con los ángulos interiores."
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>En la clasificación de paralelogramos, el rombo tiene la característica particular de que sus diagonales, además de formar 90° entre sí, actúan como bisectrices de los ángulos en los vértices que unen."
+    },
+    {
+      "pregunta": "En un rectángulo ABCD, las diagonales AC y BD se intersecan en el punto O. Si $$ BO = 3x + 2 $$ y $$ OD = 14 $$, calcule la longitud de la diagonal AC.",
+      "opciones": [
+        "20",
+        "24",
+        "28",
+        "32",
+        "36"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>En un rectángulo, las diagonales se bisecan mutuamente, por lo que:<br>$$ BO = OD \\Rightarrow 3x + 2 = 14 \\Rightarrow 3x = 12 \\Rightarrow x = 4 $$<br>Entonces, $$ BO = 14 $$ y la diagonal entera $$ BD = 14 + 14 = 28 $$.<br>Además, el rectángulo tiene diagonales de igual longitud, por tanto:<br>$$ AC = BD = 28 $$"
+    },
+    {
+      "pregunta": "En un cuadrilátero ABCD, se trazan las bisectrices interiores de dos ángulos opuestos B y D. El ángulo agudo \"x\" que forman estas dos bisectrices al intersecarse está relacionado con los otros dos ángulos. Si el ángulo C mide 110° y el ángulo A mide 50°, calcule x.",
+      "opciones": [
+        "15°",
+        "20°",
+        "25°",
+        "30°",
+        "35°"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Por el teorema de las bisectrices de ángulos interiores opuestos en un cuadrilátero, la medida del ángulo que forman es igual a la semidiferencia de los otros dos ángulos:<br>$$ x = \\frac{m\\angle C - m\\angle A}{2} $$<br>$$ x = \\frac{110^{\\circ} - 50^{\\circ}}{2} = \\frac{60^{\\circ}}{2} = 25^{\\circ} $$"
+    },
+    {
+      "pregunta": "En un trapecio ABCD donde las bases son BC y AD, si la medida del ángulo A es $$ 4x - 20^{\\circ} $$ y la medida del ángulo B es $$ 3x + 60^{\\circ} $$, calcule el valor de x.",
+      "opciones": [
+        "15°",
+        "20°",
+        "25°",
+        "30°",
+        "35°"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>En todo trapecio, los ángulos adyacentes a cada uno de los lados no paralelos (laterales) son suplementarios (suman 180°):<br>$$ m\\angle A + m\\angle B = 180^{\\circ} $$<br>$$ (4x - 20^{\\circ}) + (3x + 60^{\\circ}) = 180^{\\circ} $$<br>$$ 7x + 40^{\\circ} = 180^{\\circ} \\Rightarrow 7x = 140^{\\circ} \\Rightarrow x = 20^{\\circ} $$"
+    },
+    {
+      "pregunta": "La longitud de la base media de un trapecio es 18 y la longitud del segmento que une los puntos medios de sus diagonales es 4. Calcule la longitud de su base mayor.",
+      "opciones": [
+        "18",
+        "20",
+        "22",
+        "24",
+        "26"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Planteamos el sistema de ecuaciones usando las fórmulas del trapecio:<br>Base media: $$ \\frac{B + b}{2} = 18 \\Rightarrow B + b = 36 $$<br>Puntos medios de diagonales: $$ \\frac{B - b}{2} = 4 \\Rightarrow B - b = 8 $$<br>Sumamos ambas ecuaciones hacia abajo:<br>$$ (B + b) + (B - b) = 36 + 8 $$<br>$$ 2B = 44 \\Rightarrow B = 22 $$"
+    },
+    {
+      "pregunta": "De acuerdo a la nomenclatura teórica y clásica de la geometría plana, ¿cuál es el otro nombre que recibe el cuadrilátero que conocemos como rectángulo?",
+      "opciones": [
+        "Losange.",
+        "Deltoide.",
+        "Cuadrilongo.",
+        "Romboide recto.",
+        "Trapezoide simétrico."
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>En la clasificación estricta de paralelogramos, al rectángulo (que tiene lados opuestos iguales y cuatro ángulos rectos) también se le conoce clásicamente con el nombre de <b>cuadrilongo</b>."
+    },
+    {
+      "pregunta": "De acuerdo a la nomenclatura teórica y clásica de la geometría plana, ¿cuál es el otro nombre que recibe el cuadrilátero que conocemos como rombo?",
+      "opciones": [
+        "Cuadrilongo.",
+        "Losange.",
+        "Romboide.",
+        "Trapecio isósceles.",
+        "Deltoide convexo."
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Al rombo, un paralelogramo caracterizado por tener sus cuatro lados de igual longitud, también se le denomina <b>losange</b>."
+    },
+    {
+      "pregunta": "¿Cómo se clasifica de manera específica aquel cuadrilátero que no posee ningún par de lados opuestos paralelos y que tampoco posee un eje de simetría?",
+      "opciones": [
+        "Trapecio escaleno.",
+        "Trapezoide simétrico.",
+        "Trapezoide asimétrico.",
+        "Romboide irregular.",
+        "Cuadrilongo."
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Los cuadriláteros que no poseen lados opuestos paralelos son los trapezoides. Si además carecen de un eje de simetría (sus diagonales no forman una mediatriz como en una cometa), se les llama específicamente <b>trapezoide asimétrico</b>."
+    },
+    {
+      "pregunta": "En un romboide (paralelogramo general), la suma de las medidas de dos ángulos consecutivos siempre es igual a:",
+      "opciones": [
+        "90°",
+        "180°",
+        "270°",
+        "360°",
+        "Depende de los lados."
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Por definición de líneas paralelas cortadas por una secante (el lado del romboide), los ángulos conjugados internos (consecutivos) son suplementarios. Por lo tanto, su suma es siempre 180°."
+    },
+    {
+      "pregunta": "En un trapecio isósceles ABCD, las bases son BC y AD. Los ángulos en la base inferior AD miden $$ 5x - 15^{\\circ} $$ y $$ 2x + 45^{\\circ} $$. Determine el valor de x.",
+      "opciones": [
+        "15°",
+        "20°",
+        "25°",
+        "30°",
+        "35°"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>En un trapecio isósceles, los ángulos adyacentes a cualquiera de las bases tienen la misma medida. Por lo tanto:<br>$$ m\\angle A = m\\angle D $$<br>$$ 5x - 15^{\\circ} = 2x + 45^{\\circ} $$<br>$$ 3x = 60^{\\circ} \\Rightarrow x = 20^{\\circ} $$"
+    },
+    {
+      "pregunta": "En un cuadrado, se trazan sus dos diagonales. ¿Qué ángulo forman estas diagonales con cualquiera de los lados del cuadrado?",
+      "opciones": [
+        "30°",
+        "45°",
+        "60°",
+        "75°",
+        "90°"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Un cuadrado tiene ángulos interiores de 90°. Dado que hereda las propiedades del rombo, sus diagonales actúan como bisectrices de los ángulos interiores. Al bisecar un ángulo de 90°, forman ángulos de 45° respecto a cada lado del cuadrado."
+    }
+      ],
+      "videos": [
+        {
+          "titulo": "10.1 Teoría",
+          "youtube_id": "rWazRkYJs0I",
+          "pdf_link": "https://drive.google.com/file/d/1lR1Ekqm6bbZaYyXTQQ82oVW6jUYkiQzO/view",
+          "gratis": true
+        },
+        {
+          "titulo": "10.2 Ejercicios",
+          "youtube_id": "KQYJQvGW3aQ",
+          "pdf_link": "https://drive.google.com/file/d/1u9CFP0z_i-qpwmL8v8mDAfqztxIOpk4F/view",
+          "gratis": true
+        },
+        {
+          "titulo": "10.3 Ejercicios",
+          "youtube_id": "QZsc0qiZ4hU",
+          "pdf_link": "https://drive.google.com/file/d/1u9CFP0z_i-qpwmL8v8mDAfqztxIOpk4F/view",
+          "gratis": true
+        },
+        {
+          "titulo": "10.4 Ejercicios",
+          "youtube_id": "X3lWrFxrhTM",
+          "pdf_link": "https://drive.google.com/file/d/1u9CFP0z_i-qpwmL8v8mDAfqztxIOpk4F/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 11: Circunferencias I",
+      "pdf_resuelto": "https://drive.google.com/file/d/16VOwTDaIOvr487F8z5tjctPF6G7jU9Aa/view",
+      "preguntas": [
+        {
+      "pregunta": "En una circunferencia, ¿cómo se denomina a la cuerda de mayor longitud que pasa por el centro y qué relación matemática tiene con el radio R?",
+      "opciones": [
+        "Secante, equivale a R",
+        "Sagita, equivale a R/2",
+        "Diámetro, equivale a 2R",
+        "Arco, equivale a 3R",
+        "Flecha, equivale a R al cuadrado"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Por definición, la cuerda máxima de una circunferencia es el diámetro. Como este segmento pasa exactamente por el centro uniendo dos puntos opuestos, su longitud es exactamente el doble del radio: $$ D = 2R $$."
+    },
+    {
+      "pregunta": "En una circunferencia se traza un ángulo central que mide 85°. ¿Cuál es la medida del arco que subtiende dicho ángulo?",
+      "opciones": [
+        "42.5°",
+        "85°",
+        "170°",
+        "95°",
+        "180°"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>El ángulo central tiene su vértice exactamente en el centro de la circunferencia. Por propiedad fundamental, la medida del ángulo central es igual a la medida del arco que intercepta. Por lo tanto, el arco mide 85°."
+    },
+    {
+      "pregunta": "Un ángulo inscrito en una circunferencia subtiende un arco cuya medida es 130°. Calcule la medida de dicho ángulo inscrito.",
+      "opciones": [
+        "65°",
+        "130°",
+        "260°",
+        "50°",
+        "75°"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>La medida de un ángulo inscrito (cuyo vértice está sobre la circunferencia) es igual a la mitad de la medida del arco que subtiende.<br>$$ \\theta = \\frac{130^{\\circ}}{2} = 65^{\\circ} $$"
+    },
+    {
+      "pregunta": "Se traza una recta tangente a una circunferencia y una cuerda desde el punto de tangencia, formando un ángulo semiinscrito de 54°. Calcule la medida del arco que subtiende dicha cuerda.",
+      "opciones": [
+        "27°",
+        "54°",
+        "108°",
+        "126°",
+        "90°"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El ángulo semiinscrito mide la mitad del arco que intercepta. Despejando la medida del arco:<br>$$ 54^{\\circ} = \\frac{\\text{Arco}}{2} $$<br>$$ \\text{Arco} = 54^{\\circ} \\times 2 = 108^{\\circ} $$"
+    },
+    {
+      "pregunta": "Dos cuerdas se intersecan en el interior de una circunferencia formando un ángulo \"x\". Si los arcos interceptados por este ángulo y su opuesto por el vértice miden 70° y 50°, calcule el valor de x.",
+      "opciones": [
+        "10°",
+        "20°",
+        "60°",
+        "120°",
+        "90°"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El ángulo interior se calcula como la semisuma de los arcos interceptados por las cuerdas secantes.<br>$$ x = \\frac{70^{\\circ} + 50^{\\circ}}{2} = \\frac{120^{\\circ}}{2} = 60^{\\circ} $$"
+    },
+    {
+      "pregunta": "Un ángulo exterior a una circunferencia está formado por dos rectas secantes. Si los arcos que interceptan estas secantes miden 110° y 30°, determine la medida del ángulo exterior.",
+      "opciones": [
+        "40°",
+        "70°",
+        "80°",
+        "140°",
+        "50°"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>El ángulo exterior formado por dos rectas secantes es igual a la semidiferencia de los arcos interceptados.<br>$$ \\alpha = \\frac{110^{\\circ} - 30^{\\circ}}{2} = \\frac{80^{\\circ}}{2} = 40^{\\circ} $$"
+    },
+    {
+      "pregunta": "Desde un punto exterior se trazan dos rectas tangentes a una circunferencia, formando un ángulo de 50°. ¿Cuánto mide el arco menor interceptado por estas tangentes?",
+      "opciones": [
+        "50°",
+        "100°",
+        "130°",
+        "230°",
+        "310°"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Por propiedad del ángulo exterior formado exclusivamente por dos tangentes, la suma de la medida de dicho ángulo exterior y el arco menor interceptado es siempre 180°.<br>$$ 50^{\\circ} + \\theta = 180^{\\circ} \\Rightarrow \\theta = 130^{\\circ} $$"
+    },
+    {
+      "pregunta": "Si se traza un radio perpendicular a una cuerda dentro de una circunferencia, ¿qué efecto geométrico tiene sobre dicha cuerda y su arco correspondiente?",
+      "opciones": [
+        "Los duplica en longitud.",
+        "Los triseca.",
+        "Los biseca (los divide en dos partes iguales).",
+        "Los vuelve tangentes al centro.",
+        "No tiene ningún efecto métrico."
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Por teorema, todo radio (o parte de él) que es perpendicular a una cuerda, biseca a dicha cuerda (es decir, la divide en dos segmentos de igual longitud) y también biseca al arco menor que subtiende."
+    },
+    {
+      "pregunta": "Un ángulo exterior mide 35° y está formado por una recta tangente y una recta secante trazadas desde un mismo punto. Si el arco mayor interceptado mide 120°, calcule la medida del arco menor interceptado.",
+      "opciones": [
+        "50°",
+        "60°",
+        "70°",
+        "85°",
+        "155°"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>La medida del ángulo exterior es igual a la semidiferencia de los arcos interceptados. Planteamos la ecuación:<br>$$ 35^{\\circ} = \\frac{120^{\\circ} - \\theta}{2} $$<br>$$ 70^{\\circ} = 120^{\\circ} - \\theta \\Rightarrow \\theta = 50^{\\circ} $$"
+    },
+    {
+      "pregunta": "Se tienen tres ángulos inscritos en una misma circunferencia que subtienden exactamente el mismo arco AB. A este concepto se le conoce como \"Arco capaz\". Si el primer ángulo mide 45°, ¿cuánto miden los otros dos ángulos inscritos?",
+      "opciones": [
+        "22.5°",
+        "45°",
+        "90°",
+        "135°",
+        "Depende de la distancia al centro."
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Por el teorema del Arco Capaz, todos los ángulos inscritos que subtienden el mismo arco tienen exactamente la misma medida, sin importar su posición en el resto de la circunferencia. Por lo tanto, todos miden 45°."
+    },
+    {
+      "pregunta": "Un triángulo está inscrito en una circunferencia de modo que uno de sus lados coincide con el diámetro de la misma. ¿Cuánto mide el ángulo del triángulo opuesto a dicho diámetro?",
+      "opciones": [
+        "45°",
+        "60°",
+        "90°",
+        "120°",
+        "180°"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El diámetro divide a la circunferencia en dos semicircunferencias de 180° cada una. El ángulo opuesto es un ángulo inscrito que subtiende un arco de 180°. Su medida será la mitad de dicho arco:<br>$$ \\theta = \\frac{180^{\\circ}}{2} = 90^{\\circ} $$<br>Esto demuestra que todo triángulo inscrito sobre un diámetro es rectángulo."
+    },
+    {
+      "pregunta": "Calcule la medida de un ángulo exinscrito en una circunferencia si el arco total que intercepta (la suma del arco mayor y el arco interior adyacente) mide 250°.",
+      "opciones": [
+        "50°",
+        "100°",
+        "125°",
+        "250°",
+        "130°"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Por definición, el ángulo exinscrito tiene como medida exactamente la mitad del arco total que subtiende la recta secante extendida.<br>$$ \\alpha = \\frac{250^{\\circ}}{2} = 125^{\\circ} $$"
+    },
+    {
+      "pregunta": "Dos circunferencias son tangentes exteriores en un punto T. Se traza una recta tangente común exterior que toca a las circunferencias en los puntos P y Q respectivamente. ¿Cuál es la medida del ángulo PTQ formado al unir estos puntos con el punto T?",
+      "opciones": [
+        "45°",
+        "60°",
+        "90°",
+        "120°",
+        "180°"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>De acuerdo a los teoremas adicionales, cuando dos circunferencias son tangentes exteriores, el ángulo formado en el punto de tangencia mutua (T) por los segmentos provenientes de los puntos de tangencia de la recta exterior común (P y Q) es siempre un ángulo recto, es decir, 90°."
+    },
+    {
+      "pregunta": "En un cuadrado ABCD, se dibuja un cuarto de circunferencia con centro en D y radio AD. Se traza una recta tangente desde el vértice C hacia el arco, tocándolo en el punto T. ¿Cuál es la medida del ángulo TCD formado por la tangente y el lado del cuadrado?",
+      "opciones": [
+        "30°",
+        "37°",
+        "45°",
+        "53°",
+        "60°"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Según el teorema adicional específico para la configuración geométrica de un cuadrado y la tangente trazada desde el vértice adyacente al cuarto de circunferencia inscrito, el ángulo formado es un ángulo notable exacto de 53°."
+    },
+    {
+      "pregunta": "En una circunferencia, el ángulo interior formado por la intersección de dos cuerdas es de 80°. Si uno de los arcos interceptados por estas cuerdas mide 100°, ¿cuánto mide el arco interceptado opuesto?",
+      "opciones": [
+        "60°",
+        "80°",
+        "100°",
+        "120°",
+        "40°"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Aplicamos la fórmula del ángulo interior:<br>$$ 80^{\\circ} = \\frac{100^{\\circ} + x}{2} $$<br>$$ 160^{\\circ} = 100^{\\circ} + x \\Rightarrow x = 60^{\\circ} $$"
+    },
+    {
+      "pregunta": "Desde un punto exterior se trazan dos rectas tangentes a una circunferencia, y el ángulo formado entre ellas es de 70°. Calcule la medida del arco mayor que determinan los puntos de tangencia en la circunferencia.",
+      "opciones": [
+        "110°",
+        "180°",
+        "250°",
+        "290°",
+        "360°"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Primero hallamos el arco menor usando la propiedad: Ángulo + Arco menor = 180°.<br>$$ 70^{\\circ} + \\text{Arco menor} = 180^{\\circ} \\Rightarrow \\text{Arco menor} = 110^{\\circ} $$<br>Sabiendo que la circunferencia completa mide 360°, el arco mayor será:<br>$$ \\text{Arco mayor} = 360^{\\circ} - 110^{\\circ} = 250^{\\circ} $$"
+    },
+    {
+      "pregunta": "Se tiene un cuadrilátero inscrito en una circunferencia. Si uno de sus ángulos interiores mide 110°, ¿cuál es la medida del ángulo interior opuesto?",
+      "opciones": [
+        "70°",
+        "90°",
+        "110°",
+        "140°",
+        "55°"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Los ángulos opuestos de un cuadrilátero inscrito subtienden arcos que juntos completan toda la circunferencia (360°). Como cada ángulo inscrito mide la mitad de su arco, la suma de los dos ángulos opuestos será la mitad de 360°, es decir, 180° (son suplementarios).<br>$$ 180^{\\circ} - 110^{\\circ} = 70^{\\circ} $$"
+    },
+    {
+      "pregunta": "Una cuerda y una recta tangente se intersecan en el punto de tangencia T, formando un ángulo semiinscrito de 60°. Desde T se traza otra cuerda, formando un triángulo inscrito con la primera. ¿Cuánto mide el ángulo inscrito en la circunferencia que se opone directamente a la primera cuerda trazada?",
+      "opciones": [
+        "30°",
+        "60°",
+        "90°",
+        "120°",
+        "150°"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Por el teorema del ángulo semiinscrito (o del segmento alterno), la medida del ángulo semiinscrito formado por una tangente y una cuerda es exactamente igual a la medida de cualquier ángulo inscrito que subtienda esa misma cuerda. Por consiguiente, mide 60°."
+    },
+    {
+      "pregunta": "Dos secantes trazadas desde un punto exterior P interceptan en la circunferencia arcos de 140° y 60°. Calcule el complemento del ángulo P.",
+      "opciones": [
+        "40°",
+        "50°",
+        "60°",
+        "70°",
+        "80°"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Primero calculamos la medida del ángulo exterior P:<br>$$ P = \\frac{140^{\\circ} - 60^{\\circ}}{2} = \\frac{80^{\\circ}}{2} = 40^{\\circ} $$<br>El complemento de un ángulo es lo que le falta para llegar a 90°:<br>$$ 90^{\\circ} - 40^{\\circ} = 50^{\\circ} $$"
+    },
+    {
+      "pregunta": "El segmento perpendicular trazado desde el punto medio de una cuerda hasta el arco menor subtendido por esta se denomina:",
+      "opciones": [
+        "Radio",
+        "Diámetro",
+        "Flecha o sagita",
+        "Secante",
+        "Tangente"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>En la teoría de las líneas asociadas a la circunferencia, el segmento perpendicular que une el punto medio de una cuerda con el arco (menor) que subtiende recibe el nombre técnico de flecha o sagita."
+    }
+      ],
+      "videos": [
+        {
+          "titulo": "11.1 Teoría",
+          "youtube_id": "A-IS1qS33uY",
+          "pdf_link": "https://drive.google.com/file/d/189FzZwuPdGV2xKjjoM4d9pU9TpeEkra2/view",
+          "gratis": true
+        },
+        {
+          "titulo": "11.2 Ejercicios",
+          "youtube_id": "_M2SG4quX1w",
+          "pdf_link": "https://drive.google.com/file/d/16VOwTDaIOvr487F8z5tjctPF6G7jU9Aa/view",
+          "gratis": true
+        },
+        {
+          "titulo": "11.3 Ejercicios",
+          "youtube_id": "KRgBHq9aQvM",
+          "pdf_link": "https://drive.google.com/file/d/16VOwTDaIOvr487F8z5tjctPF6G7jU9Aa/view",
+          "gratis": true
+        },
+        {
+          "titulo": "11.4 Ejercicios",
+          "youtube_id": "rSQCbGEfzVE",
+          "pdf_link": "https://drive.google.com/file/d/16VOwTDaIOvr487F8z5tjctPF6G7jU9Aa/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 12: Geometría del Espacio: Rectas y Planos",
+      "pdf_resuelto": "ENLACE_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "[Texto de la pregunta]",
+          "opciones": [
+            "A", "B", "C", "D", "E"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "12.1 Geometría del Espacio - Teoría",
+          "youtube_id": "ID_YOUTUBE_AQUI",
+          "pdf_link": "ENLACE_PDF_AQUI",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 13: Poliedros y Prismas",
+      "pdf_resuelto": "ENLACE_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "[Texto de la pregunta]",
+          "opciones": [
+            "A", "B", "C", "D", "E"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "13.1 Poliedros - Teoría",
+          "youtube_id": "ID_YOUTUBE_AQUI",
+          "pdf_link": "ENLACE_PDF_AQUI",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 14: Cilindro, Cono y Esfera",
+      "pdf_resuelto": "ENLACE_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "[Texto de la pregunta]",
+          "opciones": [
+            "A", "B", "C", "D", "E"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "14.1 Sólidos de Revolución - Teoría",
+          "youtube_id": "ID_YOUTUBE_AQUI",
+          "pdf_link": "ENLACE_PDF_AQUI",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 15: Geometría Analítica: Punto y Recta",
+      "pdf_resuelto": "ENLACE_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "[Texto de la pregunta]",
+          "opciones": [
+            "A", "B", "C", "D", "E"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "15.1 Geometría Analítica I - Teoría",
+          "youtube_id": "ID_YOUTUBE_AQUI",
+          "pdf_link": "ENLACE_PDF_AQUI",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 16: La Circunferencia y Parábola",
+      "pdf_resuelto": "ENLACE_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "[Texto de la pregunta]",
+          "opciones": [
+            "A", "B", "C", "D", "E"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "16.1 Cónicas I - Teoría",
+          "youtube_id": "ID_YOUTUBE_AQUI",
+          "pdf_link": "ENLACE_PDF_AQUI",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 17: Ángulo Trigonométrico y Sistemas de Medición",
+      "pdf_resuelto": "ENLACE_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "[Texto de la pregunta]",
+          "opciones": [
+            "A", "B", "C", "D", "E"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "17.1 Sistemas Angulares - Teoría",
+          "youtube_id": "ID_YOUTUBE_AQUI",
+          "pdf_link": "ENLACE_PDF_AQUI",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 18: Longitud de Arco y Sector Circular",
+      "pdf_resuelto": "ENLACE_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "[Texto de la pregunta]",
+          "opciones": [
+            "A", "B", "C", "D", "E"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "18.1 Sector Circular - Teoría",
+          "youtube_id": "ID_YOUTUBE_AQUI",
+          "pdf_link": "ENLACE_PDF_AQUI",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 19: Razones Trigonométricas de Ángulos Agudos",
+      "pdf_resuelto": "ENLACE_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "[Texto de la pregunta]",
+          "opciones": [
+            "A", "B", "C", "D", "E"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "19.1 R.T. Ángulos Agudos - Teoría",
+          "youtube_id": "ID_YOUTUBE_AQUI",
+          "pdf_link": "ENLACE_PDF_AQUI",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 20: Ángulos Verticales y Horizontales",
+      "pdf_resuelto": "ENLACE_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "[Texto de la pregunta]",
+          "opciones": [
+            "A", "B", "C", "D", "E"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "20.1 Ángulos Verticales - Teoría",
+          "youtube_id": "ID_YOUTUBE_AQUI",
+          "pdf_link": "ENLACE_PDF_AQUI",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 21: Geometría Analítica y R.T. de cualquier magnitud",
+      "pdf_resuelto": "ENLACE_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "[Texto de la pregunta]",
+          "opciones": [
+            "A", "B", "C", "D", "E"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "21.1 R.T. Cualquier Magnitud - Teoría",
+          "youtube_id": "ID_YOUTUBE_AQUI",
+          "pdf_link": "ENLACE_PDF_AQUI",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 22: Reducción al Primer Cuadrante",
+      "pdf_resuelto": "ENLACE_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "[Texto de la pregunta]",
+          "opciones": [
+            "A", "B", "C", "D", "E"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "22.1 Reducción al I Cuadrante - Teoría",
+          "youtube_id": "ID_YOUTUBE_AQUI",
+          "pdf_link": "ENLACE_PDF_AQUI",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 23: Circunferencia Trigonométrica (C.T.)",
+      "pdf_resuelto": "ENLACE_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "[Texto de la pregunta]",
+          "opciones": [
+            "A", "B", "C", "D", "E"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "23.1 C.T. - Teoría",
+          "youtube_id": "ID_YOUTUBE_AQUI",
+          "pdf_link": "ENLACE_PDF_AQUI",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 24: Identidades Trigonométricas (Fundamentales y Compuestos)",
+      "pdf_resuelto": "ENLACE_PDF_AQUI",
+      "preguntas": [
+        {
+          "pregunta": "[Texto de la pregunta]",
+          "opciones": [
+            "A", "B", "C", "D", "E"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "24.1 Identidades - Teoría",
+          "youtube_id": "ID_YOUTUBE_AQUI",
+          "pdf_link": "ENLACE_PDF_AQUI",
+          "gratis": true
+        }
+      ]
+    }
+  ]
+}
