@@ -2766,7 +2766,1863 @@
       ]
     },
     {
-      "titulo": "Tema 12: Geometría del Espacio: Rectas y Planos",
+      "titulo": "Tema 12: Circuferencias II",
+      "pdf_resuelto": "https://drive.google.com/file/d/1w1oaZWrxefpVBKaao-KkalFP9Lw6qn4Y/view",
+      "preguntas": [
+        {
+      "pregunta": "Para que un cuadrilátero convexo pueda ser inscrito en una circunferencia (cuadrilátero inscriptible), sus vértices deben ser puntos cíclicos. ¿Cuál de las siguientes es una condición necesaria y suficiente respecto a sus ángulos interiores opuestos?",
+      "opciones": [
+        "Deben ser iguales.",
+        "Deben ser complementarios (sumar 90°).",
+        "Deben ser suplementarios (sumar 180°).",
+        "La suma de todos debe ser 360°.",
+        "Deben ser ángulos rectos."
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La primera propiedad fundamental de los cuadriláteros inscriptibles establece que la suma de las medidas de dos ángulos interiores opuestos es siempre 180°.<br>$$ \\alpha + \\theta = 180^{\\circ} $$"
+    },
+    {
+      "pregunta": "En un cuadrilátero inscriptible ABCD, la medida del ángulo interior en el vértice A es de 75°. ¿Cuál será la medida del ángulo interior en el vértice C (opuesto a A)?",
+      "opciones": [
+        "75°",
+        "105°",
+        "115°",
+        "15°",
+        "285°"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Al ser inscriptible, los ángulos opuestos son suplementarios:<br>$$ m\\angle A + m\\angle C = 180^{\\circ} $$<br>$$ 75^{\\circ} + m\\angle C = 180^{\\circ} \\Rightarrow m\\angle C = 105^{\\circ} $$"
+    },
+    {
+      "pregunta": "En la teoría de cuadriláteros inscriptibles, existe una propiedad que relaciona un ángulo interior con el ángulo exterior del vértice opuesto (2do CASO). ¿Cuál es esta relación?",
+      "opciones": [
+        "Son suplementarios.",
+        "El ángulo interior es el doble del exterior.",
+        "Son de igual medida.",
+        "El ángulo exterior es la mitad del interior.",
+        "Suman 360°."
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La segunda propiedad señala que la medida de un ángulo interior de un cuadrilátero inscriptible es exactamente igual a la medida del ángulo exterior situado en el vértice opuesto.<br>$$ \\beta^{\\circ} = \\omega^{\\circ} $$"
+    },
+    {
+      "pregunta": "Un cuadrilátero ABCD está inscrito en una circunferencia. Si se prolonga el lado CD hacia afuera determinando un ángulo exterior en D de medida 110°, ¿cuánto mide el ángulo interior en el vértice B?",
+      "opciones": [
+        "70°",
+        "110°",
+        "90°",
+        "55°",
+        "180°"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Aplicando la propiedad del cuadrilátero inscriptible (2do CASO): el ángulo interior es igual a la medida del ángulo exterior de su vértice opuesto.<br>$$ m\\angle B = \\text{Ángulo exterior en } D $$<br>$$ m\\angle B = 110^{\\circ} $$"
+    },
+    {
+      "pregunta": "El \"tercer caso\" o propiedad del \"rebote\" en un cuadrilátero inscriptible establece una relación de igualdad entre dos ángulos formados al trazar las diagonales. Esta propiedad se basa directamente en el teorema de:",
+      "opciones": [
+        "El ángulo central.",
+        "El ángulo exterior.",
+        "El arco capaz (ángulos inscritos).",
+        "Las cuerdas secantes.",
+        "El Teorema de Thales."
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La propiedad del \"rebote\" ($$ \\alpha = \\theta $$) se cumple porque ambos ángulos son ángulos inscritos que subtienden exactamente el mismo arco de la circunferencia circunscrita. Esto es una aplicación directa del teorema del Arco Capaz."
+    },
+    {
+      "pregunta": "En un cuadrilátero inscriptible ABCD, se trazan las diagonales AC y BD. El ángulo formado por el lado AB y la diagonal BD mide 40°. Utilizando la propiedad del \"rebote\", ¿qué otro ángulo debe medir obligatoriamente 40°?",
+      "opciones": [
+        "El ángulo entre CD y BD.",
+        "El ángulo entre AD y AC.",
+        "El ángulo entre AC y BC.",
+        "El ángulo entre AB y AC.",
+        "El ángulo entre DC y AC."
+      ],
+      "correcta": 4,
+      "resolucion": "<b>Resolución:</b><br>El ángulo $$ \\angle ABD $$ subtiende el arco AD. El otro ángulo inscrito que subtiende el mismo arco AD es el ángulo $$ \\angle ACD $$ (formado por la diagonal AC y el lado DC). Por la propiedad del rebote, ambos miden lo mismo: 40°."
+    },
+    {
+      "pregunta": "¿Qué condición geométrica sobre las distancias debe cumplirse para que dos circunferencias en un mismo plano se consideren \"Circunferencias Exteriores\"?",
+      "opciones": [
+        "La distancia entre sus centros (d) es igual a la suma de sus radios (R+r).",
+        "La distancia entre sus centros (d) es menor que la diferencia de sus radios (R-r).",
+        "La distancia entre sus centros (d) es estrictamente mayor que la suma de sus radios (R+r).",
+        "La distancia entre sus centros (d) es cero.",
+        "Tienen al menos un punto en común."
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Para que dos circunferencias sean exteriores (es decir, no se toquen ni se intersecten y una esté fuera de la otra), la distancia \"d\" que separa sus centros debe ser mayor que la suma de las longitudes de sus respectivos radios.<br>$$ d > R + r $$"
+    },
+    {
+      "pregunta": "Si la distancia entre los centros de dos circunferencias es menor que la diferencia de las longitudes de sus radios ($$ d < R - r $$), entonces las circunferencias se denominan:",
+      "opciones": [
+        "Secantes.",
+        "Tangentes interiores.",
+        "Tangentes exteriores.",
+        "Interiores.",
+        "Concéntricas."
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Cuando la distancia entre los centros es menor que la diferencia de los radios, significa que la circunferencia menor se encuentra completamente contenida dentro del área de la circunferencia mayor, sin tocar el borde. Son circunferencias interiores."
+    },
+    {
+      "pregunta": "En el caso de dos circunferencias tangentes exteriores de radios R y r, ¿cómo se expresa matemáticamente la distancia \"d\" entre sus centros?",
+      "opciones": [
+        "$$ d > R + r $$",
+        "$$ d = R + r $$",
+        "$$ d = R - r $$",
+        "$$ d < R - r $$",
+        "$$ d = \\sqrt{R^2 + r^2} $$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Cuando dos circunferencias se tocan exteriormente en un solo punto (punto de tangencia), la línea recta que une sus centros pasa exactamente por dicho punto de tangencia. Por tanto, la distancia total es la suma de los dos radios.<br>$$ d = R + r $$"
+    },
+    {
+      "pregunta": "Si dos circunferencias de radios $$ R = 15 $$ y $$ r = 7 $$ son tangentes interiores, calcule la distancia \"d\" que existe entre los centros de ambas circunferencias.",
+      "opciones": [
+        "8",
+        "22",
+        "15",
+        "7",
+        "0"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Para circunferencias tangentes interiores (la menor toca por dentro a la mayor en un solo punto), la distancia entre los centros es igual a la diferencia de las longitudes de sus radios.<br>$$ d = R - r $$<br>$$ d = 15 - 7 = 8 $$"
+    },
+    {
+      "pregunta": "Para que dos circunferencias de radios R y r sean consideradas \"secantes\" (es decir, se intersecan en exactamente dos puntos), la distancia \"d\" entre sus centros debe cumplir una doble desigualdad. ¿Cuál es?",
+      "opciones": [
+        "$$ d < R - r $$",
+        "$$ d > R + r $$",
+        "$$ R - r < d < R + r $$",
+        "$$ d = R^2 - r^2 $$",
+        "$$ d = 0 $$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Para que ocurra la intersección en dos puntos, la distancia entre los centros debe ser estrictamente menor que la suma de los radios (para que se alcancen a tocar) y estrictamente mayor que su diferencia (para que una no quede contenida totalmente dentro de la otra).<br>$$ R - r < d < R + r $$"
+    },
+    {
+      "pregunta": "Dos circunferencias son concéntricas si comparten el mismo centro, pero tienen radios de diferente longitud. ¿Cuál es el valor de la distancia \"d\" entre sus centros?",
+      "opciones": [
+        "$$ d = R + r $$",
+        "$$ d = R - r $$",
+        "$$ d > 0 $$",
+        "$$ d = 0 $$",
+        "Depende de los radios."
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Al ser concéntricas, los centros de ambas circunferencias se ubican en la misma coordenada o punto geométrico. Por lo tanto, la distancia de separación entre ellos es nula.<br>$$ d = 0 $$"
+    },
+    {
+      "pregunta": "Las circunferencias ortogonales son un tipo especial de circunferencias secantes donde los radios trazados hacia el punto de intersección forman un ángulo recto (90°). ¿Qué relación cumple la distancia al cuadrado entre sus centros ($$ d^2 $$) respecto a sus radios R y r?",
+      "opciones": [
+        "$$ d^2 = R^2 - r^2 $$",
+        "$$ d^2 = (R + r)^2 $$",
+        "$$ d^2 = R^2 + r^2 $$",
+        "$$ d^2 = 2Rr $$",
+        "$$ d^2 = (R - r)^2 $$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Al formar un ángulo de 90° en el punto de intersección, los dos radios y el segmento que une los centros forman un triángulo rectángulo, donde \"d\" es la hipotenusa. Aplicando el teorema de Pitágoras:<br>$$ d^2 = R^2 + r^2 $$"
+    },
+    {
+      "pregunta": "Dos circunferencias ortogonales tienen radios que miden 6 y 8. Calcule la distancia que separa a sus centros.",
+      "opciones": [
+        "10",
+        "14",
+        "2",
+        "100",
+        "12"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Aplicando el teorema de Pitágoras para circunferencias ortogonales:<br>$$ d^2 = R^2 + r^2 $$<br>$$ d^2 = 8^2 + 6^2 = 64 + 36 = 100 $$<br>$$ d = \\sqrt{100} = 10 $$"
+    },
+    {
+      "pregunta": "Se tienen dos circunferencias tangentes exteriores. Se trazan dos rectas tangentes comunes exteriores (por arriba y por abajo) de forma simétrica. Los puntos de tangencia en la circunferencia izquierda son A y L, y en la derecha son B y K. ¿Qué relación métrica se cumple estrictamente entre los segmentos AB y LK trazados?",
+      "opciones": [
+        "AB es el doble de LK.",
+        "AB y LK son perpendiculares.",
+        "La suma AB + LK es igual a la distancia entre centros.",
+        "AB es igual a LK.",
+        "AB y LK no guardan relación."
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Por simetría y propiedades de las rectas tangentes trazadas desde puntos comunes o entre circunferencias simétricas sobre el eje de sus centros, los segmentos tangentes comunes exteriores tienen siempre la misma longitud.<br>$$ AB = LK $$ (En el gráfico se denota con un conjunto de equivalencias como $$ AB=BC=DE=EF $$ o similares dependiendo los puntos marcados)."
+    },
+    {
+      "pregunta": "En un gráfico se muestran dos circunferencias secantes. Se trazan dos rectas horizontales paralelas que cortan a ambas circunferencias. En la circunferencia izquierda, el segmento comprendido entre las rectas es AB; en la derecha, el segmento comprendido en la misma franja horizontal es CD. ¿Qué relación se cumple entre estos segmentos AB y CD?",
+      "opciones": [
+        "AB es mayor que CD.",
+        "AB y CD son perpendiculares.",
+        "AB es igual a CD.",
+        "La suma de ambos es igual a la distancia de las rectas.",
+        "El producto AB*CD es constante."
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Por simetría y propiedades de cuerdas paralelas cortadas por circunferencias concéntricas o figuras secantes simétricas alineadas (como indica la última imagen teórica adjunta con la ecuación $$ AB=CD $$):<br>Los segmentos de cuerda limitados por las mismas dos rectas paralelas en ambas configuraciones tienen idéntica longitud. Por tanto, $$ AB = CD $$."
+    },
+    {
+      "pregunta": "Se tiene un cuadrilátero donde uno de sus lados coincide con el diámetro de una circunferencia, y los otros tres lados están formados por rectas tangentes y secantes apoyadas geométricamente en los teoremas de tangencia. Si dos ángulos de un cuadrilátero inscriptible cumplen que $$ \\alpha + \\theta = 180^{\\circ} $$, esto implica que:",
+      "opciones": [
+        "El cuadrilátero es un cuadrado.",
+        "El cuadrilátero es un trapecio isósceles.",
+        "El cuadrilátero siempre tiene una circunferencia circunscrita.",
+        "Los cuatro lados del cuadrilátero son iguales.",
+        "El cuadrilátero no puede existir."
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La condición de que la suma de dos ángulos opuestos sea 180° es la definición misma y la prueba principal de que un cuadrilátero es inscriptible. Es decir, garantiza geométricamente que es posible trazar una única circunferencia que pase exactamente por sus cuatro vértices."
+    },
+    {
+      "pregunta": "En un diagrama se muestran dos circunferencias tangentes exteriores. Se trazan rectas tangentes desde los puntos superiores de contacto de una recta secante común inclinada, determinando una red de segmentos y ángulos. Si el diagrama especifica un ángulo \"x\" que resulta de la configuración cruzada de tangentes, y la fórmula es $$ x = \\frac{\\theta + \\alpha}{2} $$, este teorema nos permite calcular:",
+      "opciones": [
+        "El radio de la circunferencia menor.",
+        "La distancia entre los centros.",
+        "El ángulo formado por la intersección de tangentes comunes.",
+        "La longitud de la cuerda máxima.",
+        "El área del cuadrilátero."
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>De acuerdo a los \"Teoremas Adicionales\" mostrados en el documento, la fórmula geométrica de ángulos cruzados entre circunferencias tangentes se utiliza para determinar el ángulo que se forma al intersecar las proyecciones de cuerdas o tangentes comunes a dichas circunferencias."
+    },
+    {
+      "pregunta": "Si un cuadrado ABCD está posicionado de forma adyacente a un sector circular con centro en el vértice inferior, y una recta tangente desde el vértice superior B toca al arco, la teoría establece un valor notable y constante para el ángulo de inclinación de la tangente denotado como \"x\". ¿Cuál es este valor?",
+      "opciones": [
+        "30°",
+        "45°",
+        "53°",
+        "60°",
+        "75°"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Según el recuadro de Teoremas Adicionales, bajo la configuración geométrica específica donde ABCD es un cuadrado y T es el punto de tangencia del cuarto de circunferencia inscrito, el ángulo notable deducido (marcado como x) mide invariablemente 53°."
+    },
+    {
+      "pregunta": "Identifique la afirmación correcta sobre la clasificación de posiciones relativas entre dos circunferencias.",
+      "opciones": [
+        "Si son interiores, pueden tocarse en dos puntos.",
+        "Si son secantes, la distancia entre centros debe ser mayor a la suma de radios.",
+        "Si son tangentes exteriores, la distancia entre centros es igual a la suma de sus radios.",
+        "Si son concéntricas, la distancia entre centros es igual al radio mayor.",
+        "Si son ortogonales, no pueden tener puntos en común."
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Revisando la teoría, la única afirmación geométrica estricta y verdadera es que, para circunferencias tangentes exteriores, la línea que une sus centros debe atravesar el único punto de contacto, haciendo que la distancia total \"d\" sea exactamente la suma algebraica de los radios: $$ d = R + r $$."
+    }
+      ],
+      "videos": [
+        {
+          "titulo": "12.1 Teoría",
+          "youtube_id": "DMdAzy3-xBM",
+          "pdf_link": "https://drive.google.com/file/d/1fG_FapWfspOe9-0DWIbj2qUt9Uq2kMjP/view",
+          "gratis": true
+        },
+        {
+          "titulo": "12.2 Ejercicios",
+          "youtube_id": "vWP82f6vEvI",
+          "pdf_link": "https://drive.google.com/file/d/1w1oaZWrxefpVBKaao-KkalFP9Lw6qn4Y/view",
+          "gratis": true
+        },
+        {
+          "titulo": "12.3 Ejercicios",
+          "youtube_id": "75lc0pJ5rRQ",
+          "pdf_link": "https://drive.google.com/file/d/1w1oaZWrxefpVBKaao-KkalFP9Lw6qn4Y/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 13: Circunferencias III",
+      "pdf_resuelto": "https://drive.google.com/file/d/1RtyL1CT3zcRu-WcTt0ENZzrUjbrTnnoC/view",
+      "preguntas": [
+        {
+      "pregunta": "Según las propiedades de las líneas asociadas a la circunferencia, si se traza el radio hacia el punto exacto de tangencia de una recta, ¿qué ángulo forman la recta tangente y dicho radio?",
+      "opciones": [
+        "30°",
+        "45°",
+        "60°",
+        "90°",
+        "180°"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Por teorema fundamental de la circunferencia, toda recta tangente es perpendicular al radio trazado en el punto de tangencia. Por lo tanto, el ángulo que forman es de $90^{\\circ}$."
+    },
+    {
+      "pregunta": "En una circunferencia, se trazan dos cuerdas congruentes (de igual longitud) AB y CD. Si la medida del arco subtendido por la cuerda AB es de $85^{\\circ}$, ¿cuánto mide el arco subtendido por la cuerda CD?",
+      "opciones": [
+        "42.5°",
+        "85°",
+        "95°",
+        "170°",
+        "Faltan datos"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Según el teorema de las cuerdas, en una misma circunferencia, a cuerdas de igual longitud (congruentes) les corresponden arcos de igual medida. Como $AB = CD$, entonces el arco CD también mide $85^{\\circ}$."
+    },
+    {
+      "pregunta": "Se trazan dos cuerdas paralelas $L_1$ y $L_2$ en una circunferencia. Si los arcos comprendidos entre estas dos rectas paralelas miden $4x - 15^{\\circ}$ y $x + 45^{\\circ}$, calcule el valor de x.",
+      "opciones": [
+        "10°",
+        "15°",
+        "20°",
+        "25°",
+        "30°"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El teorema indica que dos cuerdas paralelas interceptan arcos de igual medida entre ellas. Igualamos las expresiones:<br>$$ 4x - 15^{\\circ} = x + 45^{\\circ} $$<br>$$ 3x = 60^{\\circ} \\Rightarrow x = 20^{\\circ} $$"
+    },
+    {
+      "pregunta": "Un diámetro es perpendicular a una cuerda CD en una circunferencia, intersecándola en el punto M. Si la longitud total de la cuerda CD es de 36 cm, ¿cuánto mide el segmento CM?",
+      "opciones": [
+        "9 cm",
+        "12 cm",
+        "18 cm",
+        "24 cm",
+        "36 cm"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El teorema establece que todo diámetro perpendicular a una cuerda biseca a dicha cuerda (la divide en dos segmentos iguales).<br>Si la cuerda total mide 36 cm, entonces $$ CM = MD = \\frac{36}{2} = 18 \\text{ cm} $$."
+    },
+    {
+      "pregunta": "En un triángulo rectángulo, las longitudes de los catetos son 9 y 12. Calcule la medida del inradio (radio de la circunferencia inscrita) aplicando el Teorema de Poncelet.",
+      "opciones": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Primero calculamos la hipotenusa por el teorema de Pitágoras:<br>$$ c^2 = 9^2 + 12^2 = 81 + 144 = 225 \\Rightarrow c = 15 $$<br>Aplicamos el Teorema de Poncelet: La suma de catetos es igual a la hipotenusa más el doble del inradio.<br>$$ 9 + 12 = 15 + 2r $$<br>$$ 21 = 15 + 2r \\Rightarrow 6 = 2r \\Rightarrow r = 3 $$"
+    },
+    {
+      "pregunta": "El perímetro de un cuadrilátero circunscrito a una circunferencia es de 80 cm. Aplicando el Teorema de Pitot, ¿cuál es la suma de las longitudes de dos lados opuestos de este cuadrilátero?",
+      "opciones": [
+        "20 cm",
+        "30 cm",
+        "40 cm",
+        "60 cm",
+        "80 cm"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El Teorema de Pitot indica que, en un cuadrilátero circunscrito, la suma de dos lados opuestos es igual a la suma de los otros dos. Es decir, $a + c = b + d$.<br>Como el perímetro es la suma de los 4 lados: $$ (a + c) + (b + d) = 80 $$<br>Sustituyendo por la igualdad: $$ 2(a + c) = 80 \\Rightarrow a + c = 40 \\text{ cm} $$."
+    },
+    {
+      "pregunta": "En un cuadrilátero inscriptible ABCD, se sabe que los ángulos opuestos son suplementarios (Caso 1). Si el ángulo interior en el vértice A mide $5x$ y el ángulo interior en el vértice C mide $4x$, determine el valor de x.",
+      "opciones": [
+        "10°",
+        "15°",
+        "20°",
+        "25°",
+        "30°"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Por la primera propiedad del cuadrilátero inscrito, los ángulos interiores opuestos suman $180^{\\circ}$.<br>$$ m\\angle A + m\\angle C = 180^{\\circ} $$<br>$$ 5x + 4x = 180^{\\circ} \\Rightarrow 9x = 180^{\\circ} \\Rightarrow x = 20^{\\circ} $$"
+    },
+    {
+      "pregunta": "En un cuadrilátero inscriptible, el ángulo interior en uno de sus vértices mide $108^{\\circ}$. De acuerdo con el segundo caso de las propiedades de los cuadriláteros inscritos, ¿cuánto mide el ángulo exterior de su vértice opuesto?",
+      "opciones": [
+        "54°",
+        "72°",
+        "90°",
+        "108°",
+        "180°"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>La propiedad (2do CASO) establece que en un cuadrilátero inscriptible, la medida de un ángulo interior es exactamente igual a la medida del ángulo exterior situado en el vértice opuesto. Por lo tanto, mide $108^{\\circ}$."
+    },
+    {
+      "pregunta": "En un cuadrilátero inscriptible ABCD, se trazan las diagonales AC y BD. El ángulo formado por el lado AB y la diagonal AC mide $35^{\\circ}$. Por la propiedad del \"rebote\" (Tercer caso), ¿cuánto mide el ángulo formado por el lado CD y la diagonal BD?",
+      "opciones": [
+        "35°",
+        "55°",
+        "70°",
+        "145°",
+        "No guardan relación"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>El \"rebote\" ocurre porque ambos ángulos son ángulos inscritos que subtienden el mismo arco (en este caso, el arco BC o AD dependiendo de la nomenclatura, pero siempre mirando hacia el mismo lado del cuadrilátero).<br>Por lo tanto, la medida del ángulo \"rebotado\" es la misma: $35^{\\circ}$."
+    },
+    {
+      "pregunta": "En un triángulo ABC, el semiperímetro de la región triangular se representa con 'P'. Si se inscribe una circunferencia tangente a los lados, tocando al lado AB en el punto T. ¿Cuál es la fórmula correcta para determinar la longitud del segmento AT?",
+      "opciones": [
+        "AT = P - AB",
+        "AT = P - BC",
+        "AT = P - AC",
+        "AT = P / 2",
+        "AT = AB + BC - P"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>De acuerdo con el teorema de las tangentes a la circunferencia inscrita desde los vértices, la distancia desde un vértice hasta el punto de tangencia más cercano es igual al semiperímetro del triángulo menos el lado opuesto a dicho vértice.<br>Para el segmento AT (desde el vértice A), el lado opuesto es BC. Por ende: $$ AT = P - BC $$."
+    },
+    {
+      "pregunta": "Un triángulo tiene lados que miden $a = 13$, $b = 14$ y $c = 15$. Calcule la longitud del segmento tangente trazado desde el vértice opuesto al lado \"a\" hacia la circunferencia inscrita en el triángulo.",
+      "opciones": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El vértice opuesto al lado \"a\" es A. La fórmula de la tangente desde A es: $$ AT = P - a $$.<br>Calculamos el semiperímetro P:<br>$$ P = \\frac{13 + 14 + 15}{2} = \\frac{42}{2} = 21 $$<br>Aplicando la fórmula:<br>$$ AT = 21 - 13 = 8 $$"
+    },
+    {
+      "pregunta": "Para un triángulo ABC cuyo semiperímetro es 'P', se traza una circunferencia exinscrita relativa a uno de sus lados. Según los teoremas posicionales de tangencia, la distancia desde el vértice opuesto a dicha circunferencia hasta el punto de tangencia en la prolongación de un lado es equivalente a:",
+      "opciones": [
+        "El lado opuesto",
+        "El radio exinscrito",
+        "El perímetro total (2P)",
+        "El semiperímetro (P)",
+        "La diferencia entre dos lados"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>El teorema de la circunferencia exinscrita establece que la longitud del segmento trazado desde el vértice opuesto hasta los puntos de tangencia en las prolongaciones de los lados (por ejemplo, el segmento CT o CP), es numéricamente igual al semiperímetro (P) de la región triangular."
+    },
+    {
+      "pregunta": "Dos circunferencias de radios R y r se ubican en el mismo plano de tal forma que son tangentes exteriores. Si la distancia \"d\" entre sus centros es de 30 cm y el radio mayor es cuádruple del radio menor ($R = 4r$), calcule la longitud del radio mayor R.",
+      "opciones": [
+        "6 cm",
+        "12 cm",
+        "18 cm",
+        "24 cm",
+        "30 cm"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>La condición posicional para circunferencias tangentes exteriores es: $$ d = R + r $$.<br>Sustituyendo los datos:<br>$$ 30 = 4r + r \\Rightarrow 30 = 5r \\Rightarrow r = 6 \\text{ cm} $$<br>Piden el radio mayor R:<br>$$ R = 4(6) = 24 \\text{ cm} $$."
+    },
+    {
+      "pregunta": "La distancia entre los centros de dos circunferencias es 15 u. Si estas circunferencias son tangentes interiores y el radio de la menor es de 8 u, determine el diámetro de la circunferencia mayor.",
+      "opciones": [
+        "7 u",
+        "23 u",
+        "46 u",
+        "30 u",
+        "38 u"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La relación de distancia para circunferencias tangentes interiores es: $$ d = R - r $$.<br>Reemplazando los datos:<br>$$ 15 = R - 8 \\Rightarrow R = 15 + 8 = 23 \\text{ u} $$<br>El problema pide el diámetro de la mayor, que es el doble del radio:<br>$$ D = 2R = 2(23) = 46 \\text{ u} $$."
+    },
+    {
+      "pregunta": "Dos circunferencias de radios 12 cm y 20 cm son circunferencias secantes. Si la distancia entre sus centros es \"d\", indique la desigualdad correcta que debe cumplir \"d\".",
+      "opciones": [
+        "$$ d < 8 $$",
+        "$$ d > 32 $$",
+        "$$ 8 < d < 32 $$",
+        "$$ 12 < d < 20 $$",
+        "$$ d = 32 $$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Para que dos circunferencias sean secantes (se intersecan en dos puntos distintos), la distancia entre sus centros debe estar comprendida entre la diferencia y la suma de sus radios:<br>$$ R - r < d < R + r $$<br>$$ 20 - 12 < d < 20 + 12 $$<br>$$ 8 < d < 32 $$"
+    },
+    {
+      "pregunta": "¿Qué relación posicional y métrica caracteriza a dos circunferencias que son concéntricas?",
+      "opciones": [
+        "Se intersecan en dos puntos y $d = R + r$.",
+        "Sus centros están separados por la diferencia de radios $d = R - r$.",
+        "Tienen el mismo centro, por lo que la distancia entre ellos es nula ($d = 0$).",
+        "Sus tangentes comunes son perpendiculares.",
+        "Se tocan en un solo punto interior."
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Por definición, las circunferencias concéntricas son aquellas que comparten exactamente el mismo centro, aunque posean radios distintos. Al tener el mismo centro, la distancia geométrica \"d\" entre ambos es cero ($d = 0$)."
+    },
+    {
+      "pregunta": "En un cuadrilátero inscriptible se trazan las diagonales. La diagonal forma con un lado inferior un ángulo de $4x - 10^{\\circ}$, y rebotando al lado opuesto, el ángulo formado con el otro lado correspondiente mide $x + 50^{\\circ}$. Halle el valor de x.",
+      "opciones": [
+        "10°",
+        "15°",
+        "20°",
+        "25°",
+        "30°"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El tercer caso del cuadrilátero inscriptible (rebote) nos dice que esos dos ángulos inscritos miran el mismo arco, por tanto, deben ser iguales.<br>$$ 4x - 10^{\\circ} = x + 50^{\\circ} $$<br>$$ 3x = 60^{\\circ} \\Rightarrow x = 20^{\\circ} $$"
+    },
+    {
+      "pregunta": "Dos circunferencias ortogonales se intersectan formando un ángulo de 90° entre sus tangentes en el punto de corte. Si la distancia entre sus centros es 13 cm y el radio de una es de 5 cm, calcule el radio de la otra circunferencia.",
+      "opciones": [
+        "8 cm",
+        "10 cm",
+        "12 cm",
+        "14 cm",
+        "16 cm"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Para circunferencias ortogonales se cumple el teorema de Pitágoras entre la distancia de los centros y los radios: $$ d^2 = R^2 + r^2 $$.<br>$$ 13^2 = R^2 + 5^2 $$<br>$$ 169 = R^2 + 25 \\Rightarrow R^2 = 144 \\Rightarrow R = 12 \\text{ cm} $$"
+    },
+    {
+      "pregunta": "En un triángulo rectángulo ABC, los catetos miden $a$ y $b$, y la hipotenusa mide $c$. La suma del inradio ($r$) y el circunradio ($R$) es siempre igual a:",
+      "opciones": [
+        "$$ a + b + c $$",
+        "$$ \\frac{a + b - c}{2} $$",
+        "$$ \\frac{a + b + c}{2} $$",
+        "$$ \\frac{a + b}{2} $$",
+        "$$ a + b $$"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Del Teorema de Poncelet sabemos que: $$ a + b = c + 2r $$.<br>Además, por propiedad geométrica, en un triángulo rectángulo el circunradio R es la mitad de la hipotenusa: $$ c = 2R $$.<br>Sustituyendo \"c\" en Poncelet: $$ a + b = 2R + 2r = 2(R + r) $$.<br>Despejando la suma solicitada: $$ R + r = \\frac{a + b}{2} $$."
+    }
+      ],
+      "videos": [
+        {
+          "titulo": "13.1 Teoría",
+          "youtube_id": "MUupOdGRPhA",
+          "pdf_link": "https://drive.google.com/file/d/10mcl-1nzwwPgBpFZ201fBJBjXRKkadN9/view",
+          "gratis": true
+        },
+        {
+          "titulo": "13.2 Ejercicios",
+          "youtube_id": "-cqigAPW5gI",
+          "pdf_link": "https://drive.google.com/file/d/1RtyL1CT3zcRu-WcTt0ENZzrUjbrTnnoC/view",
+          "gratis": true
+        },
+        {
+          "titulo": "13.3 Ejercicios",
+          "youtube_id": "R3fZuDd1kgY",
+          "pdf_link": "https://drive.google.com/file/d/1RtyL1CT3zcRu-WcTt0ENZzrUjbrTnnoC/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 14: Polígonos Regulares",
+      "pdf_resuelto": "https://drive.google.com/file/d/1IWKnoQrKRvLNvxZPtCYJa6lUXABLxQEu/view",
+      "preguntas": [
+        {
+      "pregunta": "De acuerdo con la nomenclatura teórica de los polígonos, ¿cuántos lados tiene un icoságono?",
+      "opciones": [
+        "12",
+        "15",
+        "18",
+        "20",
+        "24"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Según la tabla de nombres de los polígonos, el polígono que posee exactamente 20 lados se denomina icoságono."
+    },
+    {
+      "pregunta": "¿Cuál es el nombre correcto que recibe un polígono que tiene exactamente 15 lados?",
+      "opciones": [
+        "Decágono",
+        "Endecágono",
+        "Dodecágono",
+        "Pentadecágono",
+        "Heptadecágono"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Revisando la nomenclatura geométrica estándar, el polígono compuesto por 15 lados recibe el nombre de pentadecágono."
+    },
+    {
+      "pregunta": "¿Cómo se clasifica aquel polígono en el cual todos sus ángulos interiores miden menos de 180° y, al trazar una recta secante cualquiera, esta lo corta como máximo en dos puntos?",
+      "opciones": [
+        "Polígono cóncavo",
+        "Polígono convexo",
+        "Polígono regular",
+        "Polígono equilátero",
+        "Polígono equiángulo"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Por definición teórica, la figura geométrica plana que cumple con tener todos sus ángulos interiores menores a 180° y ser cortada en un máximo de dos puntos por una recta secante se denomina polígono convexo."
+    },
+    {
+      "pregunta": "Si un polígono tiene todos sus lados de la misma longitud, pero no necesariamente sus ángulos interiores de igual medida, ¿cómo se le clasifica?",
+      "opciones": [
+        "Polígono regular",
+        "Polígono cóncavo",
+        "Polígono equiángulo",
+        "Polígono equilátero",
+        "Polígono irregular"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>La clasificación basada en la medida de los elementos indica que un polígono es equilátero cuando todos sus lados son congruentes (de la misma longitud). Un ejemplo clásico es el rombo, que es equilátero pero no equiángulo."
+    },
+    {
+      "pregunta": "Calcule la suma de las medidas de los ángulos internos de un octágono.",
+      "opciones": [
+        "720°",
+        "900°",
+        "1080°",
+        "1260°",
+        "1440°"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Para un octágono, el número de lados es $n = 8$. Aplicamos la fórmula de la suma de ángulos internos:<br>$$ S_{int} = 180^{\\circ}(n - 2) $$<br>$$ S_{int} = 180^{\\circ}(8 - 2) $$<br>$$ S_{int} = 180^{\\circ}(6) = 1080^{\\circ} $$"
+    },
+    {
+      "pregunta": "Si la suma de los ángulos internos de un polígono es 1260°, ¿de qué polígono se trata?",
+      "opciones": [
+        "Heptágono",
+        "Octágono",
+        "Nonágono",
+        "Decágono",
+        "Endecágono"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Utilizamos la fórmula de la suma de ángulos internos para hallar $n$:<br>$$ 180^{\\circ}(n - 2) = 1260^{\\circ} $$<br>$$ n - 2 = \\frac{1260}{180} $$<br>$$ n - 2 = 7 \\Rightarrow n = 9 $$<br>El polígono de 9 lados se llama nonágono (o eneágono)."
+    },
+    {
+      "pregunta": "¿Cuántas diagonales en total se pueden trazar desde un solo vértice en un decágono?",
+      "opciones": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Para un decágono, $n = 10$. La fórmula para el número de diagonales trazadas desde un solo vértice es:<br>$$ d = n - 3 $$<br>$$ d = 10 - 3 = 7 $$"
+    },
+    {
+      "pregunta": "Calcule el número total de diagonales que posee un dodecágono.",
+      "opciones": [
+        "35",
+        "44",
+        "54",
+        "65",
+        "90"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Para un dodecágono, el número de lados es $n = 12$. Aplicamos la fórmula del total de diagonales:<br>$$ D = \\frac{n(n - 3)}{2} $$<br>$$ D = \\frac{12(12 - 3)}{2} $$<br>$$ D = \\frac{12(9)}{2} = 6(9) = 54 $$"
+    },
+    {
+      "pregunta": "Si el número total de diagonales de un polígono es 35, ¿cuántos lados tiene dicho polígono?",
+      "opciones": [
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Planteamos la ecuación del total de diagonales:<br>$$ \\frac{n(n - 3)}{2} = 35 $$<br>$$ n(n - 3) = 70 $$<br>Buscamos dos números que se diferencien en 3 y multiplicados den 70. Estos son 10 y 7.<br>$$ 10(10 - 3) = 70 \\Rightarrow n = 10 $$"
+    },
+    {
+      "pregunta": "Determine la medida de un solo ángulo interior en un hexágono regular.",
+      "opciones": [
+        "108°",
+        "120°",
+        "135°",
+        "144°",
+        "150°"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>En un polígono regular de $n = 6$ lados, el ángulo interior se calcula como:<br>$$ \\angle int = \\frac{180^{\\circ}(n - 2)}{n} $$<br>$$ \\angle int = \\frac{180^{\\circ}(6 - 2)}{6} $$<br>$$ \\angle int = 30^{\\circ}(4) = 120^{\\circ} $$"
+    },
+    {
+      "pregunta": "Calcule la medida del ángulo exterior de un pentágono regular.",
+      "opciones": [
+        "45°",
+        "60°",
+        "72°",
+        "90°",
+        "108°"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Para un polígono regular de $n = 5$ lados, la medida de su ángulo exterior se determina dividiendo la suma total (360°) entre el número de lados:<br>$$ \\angle ext = \\frac{360^{\\circ}}{n} $$<br>$$ \\angle ext = \\frac{360^{\\circ}}{5} = 72^{\\circ} $$"
+    },
+    {
+      "pregunta": "Si la medida del ángulo central de un polígono regular es de 24°, ¿cuál es el nombre de dicho polígono?",
+      "opciones": [
+        "Dodecágono",
+        "Pentadecágono",
+        "Icoságono",
+        "Decágono",
+        "Octágono"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>La fórmula del ángulo central en un polígono regular es la misma que la del ángulo exterior:<br>$$ \\alpha = \\frac{360^{\\circ}}{n} $$<br>$$ 24^{\\circ} = \\frac{360^{\\circ}}{n} \\Rightarrow n = \\frac{360}{24} = 15 $$<br>El polígono de 15 lados se llama pentadecágono."
+    },
+    {
+      "pregunta": "Al trazar todas las diagonales posibles desde un único vértice en un endecágono, el polígono queda descompuesto en un número determinado de triángulos. ¿Cuántos triángulos se forman?",
+      "opciones": [
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Un endecágono tiene $n = 11$ lados. La teoría indica que al unir un vértice con los demás mediante diagonales, el número de triángulos formados es igual al número de lados menos 2:<br>$$ N_{\\Delta} = n - 2 $$<br>$$ N_{\\Delta} = 11 - 2 = 9 $$"
+    },
+    {
+      "pregunta": "Si se elige un punto cualquiera en el interior de un polígono y se trazan segmentos hacia todos sus vértices, la figura queda dividida en 12 triángulos. ¿De qué polígono estamos hablando?",
+      "opciones": [
+        "Decágono",
+        "Endecágono",
+        "Dodecágono",
+        "Pentadecágono",
+        "Icoságono"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La propiedad geométrica establece que al unir un punto interior con todos los vértices, el polígono queda descompuesto en tantos triángulos como lados posea. Es decir:<br>$$ N_{\\Delta} = n $$<br>Como se forman 12 triángulos, $n = 12$, lo cual corresponde a un dodecágono."
+    },
+    {
+      "pregunta": "En un heptágono, se elige un punto sobre uno de sus lados (que no sea un vértice) y se trazan segmentos hacia todos los vértices opuestos. ¿Cuántos triángulos se forman en el interior?",
+      "opciones": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Para un heptágono, $n = 7$. La propiedad indica que al unir un punto sobre un lado con los demás vértices, el número de triángulos formados es el número de lados menos 1:<br>$$ N_{\\Delta} = n - 1 $$<br>$$ N_{\\Delta} = 7 - 1 = 6 $$"
+    },
+    {
+      "pregunta": "El número de diagonales medias totales de un polígono se calcula uniendo los puntos medios de sus lados. ¿Cuántas diagonales medias en total posee un octágono?",
+      "opciones": [
+        "20",
+        "24",
+        "28",
+        "32",
+        "35"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Para un octágono, el número de lados es $n = 8$. La fórmula para el total de diagonales medias es:<br>$$ D_m = \\frac{n(n - 1)}{2} $$<br>$$ D_m = \\frac{8(8 - 1)}{2} = \\frac{8(7)}{2} = 4(7) = 28 $$"
+    },
+    {
+      "pregunta": "En cierto polígono regular, se cumple que la medida de su ángulo interior es exactamente el triple de la medida de su ángulo exterior. Identifique de qué polígono se trata.",
+      "opciones": [
+        "Hexágono",
+        "Heptágono",
+        "Octágono",
+        "Nonágono",
+        "Decágono"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Planteamos la ecuación según el enunciado:<br>$$ \\angle int = 3(\\angle ext) $$<br>Sabemos que $\\angle int + \\angle ext = 180^{\\circ}$. Sustituyendo:<br>$$ 3(\\angle ext) + \\angle ext = 180^{\\circ} \\Rightarrow 4(\\angle ext) = 180^{\\circ} \\Rightarrow \\angle ext = 45^{\\circ} $$<br>Usamos la fórmula del ángulo exterior para hallar $n$:<br>$$ \\frac{360^{\\circ}}{n} = 45^{\\circ} \\Rightarrow n = \\frac{360}{45} = 8 $$<br>El polígono de 8 lados es el octágono."
+    },
+    {
+      "pregunta": "Determine en qué polígono el número total de diagonales es numéricamente igual a su número de lados.",
+      "opciones": [
+        "Cuadrilátero",
+        "Pentágono",
+        "Hexágono",
+        "Heptágono",
+        "Octágono"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Igualamos la fórmula del total de diagonales al número de lados $n$:<br>$$ \\frac{n(n - 3)}{2} = n $$<br>Como $n > 0$, podemos simplificar $n$ en ambos lados:<br>$$ \\frac{n - 3}{2} = 1 $$<br>$$ n - 3 = 2 \\Rightarrow n = 5 $$<br>El polígono que cumple esta condición es el pentágono."
+    },
+    {
+      "pregunta": "Si el número de lados de un polígono cualquiera aumenta en 1, ¿en cuánto aumenta la suma de las medidas de sus ángulos internos?",
+      "opciones": [
+        "90°",
+        "180°",
+        "270°",
+        "360°",
+        "Depende del polígono inicial"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>La suma inicial de los ángulos internos es $S_1 = 180^{\\circ}(n - 2)$.<br>Si el número de lados aumenta a $(n + 1)$, la nueva suma es:<br>$$ S_2 = 180^{\\circ}((n + 1) - 2) = 180^{\\circ}(n - 1) $$<br>La diferencia entre ambas sumas es:<br>$$ S_2 - S_1 = 180^{\\circ}(n - 1) - 180^{\\circ}(n - 2) = 180^{\\circ}(n - 1 - n + 2) = 180^{\\circ}(1) = 180^{\\circ} $$"
+    },
+    {
+      "pregunta": "Para que un polígono reciba rigurosamente la clasificación de \"Polígono Regular\" en la geometría euclidiana, ¿qué condiciones concurrentes debe cumplir obligatoriamente?",
+      "opciones": [
+        "Ser solo equilátero.",
+        "Ser solo equiángulo.",
+        "Tener un número par de lados.",
+        "Ser equilátero y equiángulo simultáneamente.",
+        "Tener todos sus ángulos internos agudos."
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Según la teoría de clasificación, un polígono regular se define como aquel que posee todos sus lados de la misma longitud (congruentes) y todos sus ángulos internos de igual medida. Es decir, debe ser equilátero y equiángulo a la vez."
+    }
+      ],
+      "videos": [
+        {
+          "titulo": "14.1 Teoría",
+          "youtube_id": "1da7XiCEZro",
+          "pdf_link": "https://drive.google.com/file/d/1KCbHotQIKBMdFlUFB6HnpX1d-eVvKK4v/view",
+          "gratis": true
+        },
+        {
+          "titulo": "14.2 Ejercicios",
+          "youtube_id": "56tGGNSCI98",
+          "pdf_link": "https://drive.google.com/file/d/1IWKnoQrKRvLNvxZPtCYJa6lUXABLxQEu/view",
+          "gratis": true
+        },
+        {
+          "titulo": "14.3 Ejercicios",
+          "youtube_id": "F1vtTRZxVWo",
+          "pdf_link": "https://drive.google.com/file/d/1IWKnoQrKRvLNvxZPtCYJa6lUXABLxQEu/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 15: Regiones Triangulares",
+      "pdf_resuelto": "https://drive.google.com/file/d/1foZloAK9mx2EJ9CaBMmSqK0NAGlggNXD/view",
+      "preguntas": [
+        {
+      "pregunta": "La fórmula básica para calcular el área de cualquier región triangular es $S = \\frac{b \\cdot h}{2}$. En un triángulo obtusángulo, ¿cómo se traza la altura 'h' relativa a uno de los lados que forman el ángulo obtuso?",
+      "opciones": [
+        "Desde el vértice opuesto hacia el punto medio de la base.",
+        "Desde el vértice opuesto y cae perpendicularmente sobre la base misma.",
+        "Desde el vértice opuesto y cae perpendicularmente sobre la prolongación exterior de la base.",
+        "Es paralela a la base.",
+        "Coincide con uno de los lados del triángulo."
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>En un triángulo obtusángulo, la altura trazada hacia uno de los lados menores (los que forman el ángulo obtuso) cae fuera de la región triangular, específicamente siendo perpendicular a la prolongación geométrica exterior de la base."
+    },
+    {
+      "pregunta": "En un triángulo rectángulo, los catetos miden $6$ y $8$. Calcule el área de la región triangular.",
+      "opciones": [
+        "12",
+        "14",
+        "24",
+        "48",
+        "20"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Para un triángulo rectángulo, los catetos funcionan mutuamente como base y altura. Por tanto, la fórmula del área es:<br>$$ S = \\frac{\\text{cateto}_1 \\cdot \\text{cateto}_2}{2} $$<br>$$ S = \\frac{6 \\cdot 8}{2} = \\frac{48}{2} = 24 $$"
+    },
+    {
+      "pregunta": "Calcule el área de un triángulo equilátero cuyo lado mide $4$.",
+      "opciones": [
+        "$2\\sqrt{3}$",
+        "$4\\sqrt{3}$",
+        "$8\\sqrt{3}$",
+        "$16\\sqrt{3}$",
+        "$12$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>El área de un triángulo equilátero en función de su lado 'a' está dada por la fórmula:<br>$$ S = \\frac{a^2\\sqrt{3}}{4} $$<br>Reemplazando el valor del lado:<br>$$ S = \\frac{4^2\\sqrt{3}}{4} = \\frac{16\\sqrt{3}}{4} = 4\\sqrt{3} $$"
+    },
+    {
+      "pregunta": "La fórmula trigonométrica para calcular el área de un triángulo requiere conocer las longitudes de dos de sus lados y un ángulo. Si los lados miden $a$ y $b$, y el ángulo comprendido entre ellos es $\\theta$, ¿cuál es la fórmula correcta?",
+      "opciones": [
+        "$S = a \\cdot b \\cdot \\cos(\\theta)$",
+        "$S = \\frac{a \\cdot b}{2} \\cdot \\cos(\\theta)$",
+        "$S = \\frac{a \\cdot b}{2} \\cdot \\sin(\\theta)$",
+        "$S = a \\cdot b \\cdot \\sin(\\theta)$",
+        "$S = \\frac{a + b}{2} \\cdot \\sin(\\theta)$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La fórmula trigonométrica del área establece que esta es igual al semiproducto de dos lados multiplicado por el seno del ángulo comprendido entre ellos:<br>$$ S = \\frac{a \\cdot b}{2} \\sin(\\theta) $$"
+    },
+    {
+      "pregunta": "En un triángulo, dos lados miden $10$ y $12$, y el ángulo comprendido entre ellos es de $30^{\\circ}$. Calcule el área de la región triangular.",
+      "opciones": [
+        "15",
+        "30",
+        "45",
+        "60",
+        "120"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Aplicando la fórmula trigonométrica:<br>$$ S = \\frac{a \\cdot b}{2} \\sin(\\theta) $$<br>$$ S = \\frac{10 \\cdot 12}{2} \\sin(30^{\\circ}) $$<br>Sabiendo que $\\sin(30^{\\circ}) = 1/2$:<br>$$ S = 60 \\cdot \\left(\\frac{1}{2}\\right) = 30 $$"
+    },
+    {
+      "pregunta": "Según la fórmula que relaciona el inradio ($r$) y los lados del triángulo, el área $S$ se puede calcular como el producto del inradio y otra magnitud. ¿Cuál es esa magnitud?",
+      "opciones": [
+        "El perímetro ($2p$)",
+        "El semiperímetro ($p$)",
+        "La hipotenusa",
+        "El circunradio ($R$)",
+        "El área del círculo inscrito"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>El área de una región triangular es igual al producto del semiperímetro ($p$) del triángulo por el radio de la circunferencia inscrita o inradio ($r$).<br>$$ S = p \\cdot r $$"
+    },
+    {
+      "pregunta": "Los lados de un triángulo miden $13$, $14$ y $15$. Si el radio de su circunferencia inscrita (inradio) es $4$, calcule el área de la región triangular.",
+      "opciones": [
+        "42",
+        "84",
+        "168",
+        "336",
+        "21"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Primero hallamos el semiperímetro ($p$):<br>$$ p = \\frac{13 + 14 + 15}{2} = \\frac{42}{2} = 21 $$<br>Aplicamos la fórmula $S = p \\cdot r$:<br>$$ S = 21 \\cdot 4 = 84 $$"
+    },
+    {
+      "pregunta": "El Teorema de Herón permite calcular el área de un triángulo conociendo únicamente la longitud de sus tres lados ($a$, $b$, $c$) y su semiperímetro ($p$). ¿Cuál es la fórmula correcta de este teorema?",
+      "opciones": [
+        "$S = \\sqrt{p(p+a)(p+b)(p+c)}$",
+        "$S = \\sqrt{(p-a)(p-b)(p-c)}$",
+        "$S = \\sqrt{p(p-a)(p-b)(p-c)}$",
+        "$S = p\\sqrt{(p-a)(p-b)(p-c)}$",
+        "$S = \\sqrt{p(a)(b)(c)}$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El Teorema de Herón establece que el área es la raíz cuadrada del producto del semiperímetro por las diferencias entre el semiperímetro y cada uno de los lados:<br>$$ S = \\sqrt{p(p-a)(p-b)(p-c)} $$"
+    },
+    {
+      "pregunta": "El área de una región triangular también se puede calcular en función de las longitudes de sus tres lados ($a$, $b$, $c$) y el radio de su circunferencia circunscrita o circunradio ($R$). La fórmula es:",
+      "opciones": [
+        "$S = \\frac{a+b+c}{4R}$",
+        "$S = \\frac{abc}{2R}$",
+        "$S = \\frac{abc}{4R}$",
+        "$S = \\frac{4R}{abc}$",
+        "$S = p \\cdot R$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Según las relaciones métricas para áreas, el área de un triángulo es igual al producto de sus tres lados dividido por el cuádruple de su circunradio:<br>$$ S = \\frac{abc}{4R} $$"
+    },
+    {
+      "pregunta": "Existe una fórmula para hallar el área de un triángulo empleando el semiperímetro ($p$) y los tres radios de las circunferencias exinscritas ($r_a$, $r_b$, $r_c$) a cada lado. Esta fórmula es:",
+      "opciones": [
+        "$S = \\sqrt{r_a \\cdot r_b \\cdot r_c}$",
+        "$S = \\sqrt{p \\cdot r_a \\cdot r_b \\cdot r_c}$",
+        "$S = p(r_a + r_b + r_c)$",
+        "$S = \\frac{r_a \\cdot r_b \\cdot r_c}{p}$",
+        "$S = \\sqrt{p(r_a+r_b+r_c)}$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>La relación que vincula el área con las circunferencias exinscritas indica que el área es igual a la raíz cuadrada del producto del semiperímetro por los tres exradios:<br>$$ S = \\sqrt{p \\cdot r_a \\cdot r_b \\cdot r_c} $$"
+    },
+    {
+      "pregunta": "En un triángulo, se traza una ceviana interior desde un vértice hacia el lado opuesto, dividiéndolo en dos segmentos cuyas longitudes son $x$ e $y$. Las áreas de las dos regiones triangulares formadas ($A$ y $B$) guardan una relación de proporcionalidad directa con:",
+      "opciones": [
+        "Los lados laterales del triángulo original.",
+        "Las alturas de las nuevas regiones.",
+        "Los segmentos de la base ($x$ e $y$).",
+        "Los cuadrados de los segmentos de la base.",
+        "Los ángulos adyacentes a la base."
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Al compartir la misma altura relativa desde el vértice común, las áreas de las dos regiones triangulares son directamente proporcionales a las longitudes de sus respectivas bases parciales.<br>$$ \\frac{A}{x} = \\frac{B}{y} $$"
+    },
+    {
+      "pregunta": "En un triángulo ABC, se traza la mediana relativa al lado AC. ¿Cómo se relacionan las áreas de las dos regiones triangulares (S1 y S2) en las que queda dividido el triángulo original?",
+      "opciones": [
+        "S1 es el doble de S2.",
+        "S1 y S2 son iguales.",
+        "S1 es el triple de S2.",
+        "El área de S1 depende del ángulo interior.",
+        "S1 es la mitad de S2."
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>La mediana divide a la base en dos segmentos de igual longitud ($a$ y $a$). Al compartir la misma altura, sus bases son iguales, por lo que sus áreas son idénticas:<br>$$ S_1 = S_2 $$"
+    },
+    {
+      "pregunta": "Si en un triángulo se trazan sus tres medianas, estas se intersecan en el baricentro, dividiendo a la región triangular en seis regiones más pequeñas. ¿Qué relación guardan las áreas de estas seis regiones?",
+      "opciones": [
+        "Son proporcionales a 1, 2, 3, 4, 5, 6.",
+        "Las tres adyacentes a los vértices son mayores.",
+        "Todas tienen exactamente la misma área.",
+        "Se agrupan en pares de áreas iguales.",
+        "Depende de si el triángulo es escaleno o isósceles."
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Por propiedad fundamental del baricentro, al trazar las tres medianas, el triángulo se divide en seis regiones triangulares equivalentes (de igual área). Si el área total es $S_{total}$, cada región pequeña tiene un área de $\\frac{S_{total}}{6}$."
+    },
+    {
+      "pregunta": "Si en un triángulo se unen los tres puntos medios de sus lados, se forma un triángulo interior. Si el área de este triángulo interior es de $10$, ¿cuál es el área del triángulo original grande?",
+      "opciones": [
+        "20",
+        "30",
+        "40",
+        "50",
+        "60"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Al unir los tres puntos medios de los lados de un triángulo (formando bases medias), la figura se divide en cuatro regiones triangulares de igual área. Por tanto, el área total es 4 veces el área de cualquiera de esos triángulos pequeños.<br>$$ S_{total} = 4 \\cdot S_{interior} = 4(10) = 40 $$"
+    },
+    {
+      "pregunta": "Se tiene un triángulo de área $S$. Se traza la base media determinando un triángulo pequeño en la parte superior y un trapecio en la parte inferior. ¿Qué fracción del área total $S$ representa el área del triángulo pequeño superior?",
+      "opciones": [
+        "$S/2$",
+        "$S/3$",
+        "$S/4$",
+        "$S/5$",
+        "$S/6$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La base media une los puntos medios de dos lados. El triángulo pequeño formado es semejante al grande con razón de 1/2 en sus lados. La relación de áreas es el cuadrado de la razón de lados:<br>$$ \\frac{S_{pequeño}}{S_{total}} = \\left(\\frac{1}{2}\\right)^2 = \\frac{1}{4} \\Rightarrow S_{pequeño} = \\frac{S}{4} $$"
+    },
+    {
+      "pregunta": "Dos triángulos son semejantes ($\\Delta ABC \\sim \\Delta MNP$). Si la razón de semejanza entre sus lados homólogos es $k$, ¿cuál es la razón de proporcionalidad entre sus áreas?",
+      "opciones": [
+        "$k$",
+        "$2k$",
+        "$\\sqrt{k}$",
+        "$k^2$",
+        "$k^3$"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Si dos triángulos son semejantes, la razón entre las medidas de sus áreas es igual al cuadrado de la razón de semejanza ($k$) de cualquier par de sus elementos lineales homólogos (lados, alturas, radios, etc.).<br>$$ \\frac{\\text{Área}_1}{\\text{Área}_2} = k^2 $$"
+    },
+    {
+      "pregunta": "Las bases de dos triángulos semejantes miden $3$ y $6$. Si el área del primer triángulo (el menor) es $10$, calcule el área del segundo triángulo.",
+      "opciones": [
+        "20",
+        "30",
+        "40",
+        "50",
+        "60"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La razón de semejanza lineal es $k = \\frac{6}{3} = 2$.<br>La relación de áreas será $k^2 = 2^2 = 4$.<br>El área del triángulo mayor será 4 veces el área del menor:<br>$$ S_{mayor} = 4 \\cdot 10 = 40 $$"
+    },
+    {
+      "pregunta": "En un triángulo, se ubica el baricentro G y se une este punto con los tres vértices A, B y C. La región triangular original queda dividida en tres triángulos ($AGC$, $BGC$, $AGB$). ¿Qué relación hay entre las áreas de estos tres triángulos?",
+      "opciones": [
+        "Son proporcionales a las longitudes de las bases opuestas.",
+        "Las tres áreas son exactamente iguales.",
+        "Dependen de los ángulos del triángulo.",
+        "Una es el doble de las otras dos.",
+        "No guardan relación constante."
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Por una de las propiedades de áreas (casos particulares), al unir el baricentro con los tres vértices, la región triangular queda dividida en tres regiones equivalentes (de la misma área), cada una representando la tercera parte del área total."
+    },
+    {
+      "pregunta": "En un cuadrilátero, al trazar una diagonal se forman dos triángulos. Si la diagonal divide a esta figura y las áreas de dichos triángulos están en una relación dada, y existe otra figura donde los segmentos en la base son $x, y, z$ con áreas $A, B, C$, ¿qué relación se cumple?",
+      "opciones": [
+        "Las áreas son proporcionales a los cuadrados de los segmentos de la base.",
+        "Las áreas son inversamente proporcionales a los segmentos de la base.",
+        "Las áreas son directamente proporcionales a las longitudes de dichos segmentos en la base.",
+        "Las áreas son iguales sin importar los segmentos.",
+        "Las áreas suman 180°."
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Generalizando el principio de proporciones: cuando varios triángulos comparten la misma altura (su vértice común y bases colineales), la razón entre sus áreas es exactamente igual a la razón entre las medidas de sus respectivas bases.<br>$$ \\frac{A}{x} = \\frac{B}{y} = \\frac{C}{z} $$"
+    },
+    {
+      "pregunta": "En un triángulo ABC, se trazan rectas paralelas a un lado intersecando a los otros dos. En un caso particular, se muestra un triángulo donde las áreas parciales M y N forman una estructura con un trapecio, indicando que el área del triángulo que une los puntos medios M y N con el baricentro G (triángulo MNG) se relaciona con el área total. ¿Cuál es esa relación si los puntos M y N dividen al triángulo en ciertas proporciones relativas al baricentro?",
+      "opciones": [
+        "El área de MNG es 1/12 del área total ABC.",
+        "El área de MNG es 1/6 del área total ABC.",
+        "El área de MNG es 1/4 del área total ABC.",
+        "El área de MNG es 1/3 del área total ABC.",
+        "El área de MNG es 1/2 del área total ABC."
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Basado en el esquema de \"Casos Particulares\", el área del pequeño triángulo MNG (donde MN es la base media y G es el baricentro ubicado por debajo de ella) representa exactamente la doceava parte del área total del triángulo ABC.<br>$$ S_{MNG} = \\frac{S_{ABC}}{12} $$"
+    }
+      ],
+      "videos": [
+        {
+          "titulo": "15.1 Teoría",
+          "youtube_id": "-z4zGiB605E",
+          "pdf_link": "https://drive.google.com/file/d/14S34lIzEWOKNBoognhWU6-4dqepaXM9B/view",
+          "gratis": true
+        },
+        {
+          "titulo": "15.2 Ejercicios",
+          "youtube_id": "AHEnAYgZKDU",
+          "pdf_link": "https://drive.google.com/file/d/1foZloAK9mx2EJ9CaBMmSqK0NAGlggNXD/view",
+          "gratis": true
+        },
+        {
+          "titulo": "15.3 Ejercicios",
+          "youtube_id": "yegoORhsh8M",
+          "pdf_link": "https://drive.google.com/file/d/1foZloAK9mx2EJ9CaBMmSqK0NAGlggNXD/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 16: Regiones Cuadrilateras",
+      "pdf_resuelto": "https://drive.google.com/file/d/1ZUvT8jOdmq4C7yJvVcGkCzvxZEmC-HXj/view",
+      "preguntas": [
+        {
+      "pregunta": "La fórmula general trigonométrica para calcular el área de cualquier cuadrilátero convexo, conociendo las longitudes de sus diagonales y el ángulo $\\beta$ que forman al intersecarse, es:",
+      "opciones": [
+        "$S = AC \\cdot BD \\cdot \\sin(\\beta)$",
+        "$S = \\frac{AC \\cdot BD}{2} \\cdot \\cos(\\beta)$",
+        "$S = \\frac{AC + BD}{2} \\cdot \\sin(\\beta)$",
+        "$S = \\frac{AC \\cdot BD}{2} \\cdot \\sin(\\beta)$",
+        "$S = \\frac{AC \\cdot BD}{4} \\cdot \\sin(\\beta)$"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Según la teoría general de áreas cuadrangulares, el área de un cuadrilátero convexo es igual al semiproducto de las longitudes de sus diagonales por el seno del ángulo comprendido entre ellas:<br>$$ S = \\frac{AC \\cdot BD}{2} \\cdot \\sin(\\beta) $$"
+    },
+    {
+      "pregunta": "En un cuadrilátero no convexo (como la figura conocida como 'bumerán'), si sus 'diagonales' miden $PR = 10$ y $QT = 8$, y al intersecarse forman un ángulo $\\beta = 30^{\\circ}$, calcule el área de la región cuadrangular.",
+      "opciones": [
+        "10",
+        "20",
+        "30",
+        "40",
+        "80"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>La fórmula del área para un cuadrilátero no convexo sigue el mismo principio que para el convexo, usando el segmento interior y el segmento que une los otros vértices:<br>$$ S = \\frac{PR \\cdot QT}{2} \\cdot \\sin(\\beta) $$<br>$$ S = \\frac{10 \\cdot 8}{2} \\cdot \\sin(30^{\\circ}) = \\frac{80}{2} \\cdot \\frac{1}{2} = 40 \\cdot \\frac{1}{2} = 20 $$"
+    },
+    {
+      "pregunta": "Calcule el área de una región cuadrada si la longitud de su diagonal mide $6\\sqrt{2}$.",
+      "opciones": [
+        "18",
+        "36",
+        "72",
+        "24",
+        "48"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>El área de un cuadrado se puede calcular en función de su diagonal ($d$):<br>$$ S = \\frac{d^2}{2} $$<br>$$ S = \\frac{(6\\sqrt{2})^2}{2} = \\frac{36 \\cdot 2}{2} = 36 $$<br>*(De manera alternativa, el lado $a=6$, entonces $S=a^2=36$).*"
+    },
+    {
+      "pregunta": "En un rectángulo ABCD, sus lados miden $b = 15$ y $h = 8$. Calcule el área de la región rectangular.",
+      "opciones": [
+        "60",
+        "90",
+        "120",
+        "150",
+        "240"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El área de un rectángulo es el producto de su base por su altura:<br>$$ S = b \\cdot h $$<br>$$ S = 15 \\cdot 8 = 120 $$"
+    },
+    {
+      "pregunta": "En un paralelogramo, la base mide $20$ y la altura relativa a esa base mide $12$. Calcule el área de la región paralelográmica.",
+      "opciones": [
+        "120",
+        "240",
+        "300",
+        "480",
+        "60"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>El área de un paralelogramo (romboide) se calcula con la misma fórmula base por altura que el rectángulo:<br>$$ S = b \\cdot h $$<br>$$ S = 20 \\cdot 12 = 240 $$"
+    },
+    {
+      "pregunta": "En un rombo ABCD, las longitudes de las diagonales miden $AC = 16$ y $BD = 12$. Calcule el área de la región rombal.",
+      "opciones": [
+        "48",
+        "96",
+        "144",
+        "192",
+        "72"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Las diagonales de un rombo se intersecan formando un ángulo de $90^{\\circ}$. Al aplicar la fórmula general trigonométrica, $\\sin(90^{\\circ}) = 1$, por lo que la fórmula se reduce al semiproducto de las diagonales:<br>$$ S = \\frac{AC \\cdot BD}{2} $$<br>$$ S = \\frac{16 \\cdot 12}{2} = \\frac{192}{2} = 96 $$"
+    },
+    {
+      "pregunta": "En un trapecio, la base mayor mide $B = 24$ y la base menor mide $b = 10$. Si la altura del trapecio es $h = 8$, calcule el área de la región trapecial.",
+      "opciones": [
+        "68",
+        "100",
+        "136",
+        "192",
+        "272"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El área de un trapecio se calcula multiplicando la semisuma de sus bases por la altura:<br>$$ S = \\left(\\frac{B + b}{2}\\right) \\cdot h $$<br>$$ S = \\left(\\frac{24 + 10}{2}\\right) \\cdot 8 = \\left(\\frac{34}{2}\\right) \\cdot 8 = 17 \\cdot 8 = 136 $$"
+    },
+    {
+      "pregunta": "Si se conoce que la longitud de la base media de un trapecio es $m = 15$ y su altura es $h = 10$, calcule el área de dicho trapecio.",
+      "opciones": [
+        "75",
+        "100",
+        "120",
+        "150",
+        "300"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>La base media ($m$) es exactamente la semisuma de las bases ($m = \\frac{B+b}{2}$). Por lo tanto, el área del trapecio se reduce al producto de la base media por la altura:<br>$$ S = m \\cdot h $$<br>$$ S = 15 \\cdot 10 = 150 $$"
+    },
+    {
+      "pregunta": "En un trapecio, se traza un segmento que une los puntos medios de los lados no paralelos (base media), dividiendo la altura $h$ en dos segmentos iguales. Si la base media mide $x$ y el segmento lateral es $y$, siendo el área $S = x \\cdot y$, esto significa que $y$ representa:",
+      "opciones": [
+        "La base mayor",
+        "La base menor",
+        "La altura del trapecio ($h$)",
+        "La diagonal",
+        "El doble de la altura"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Basado en la fórmula alterna mostrada en teoría para la figura rotada $S = x \\cdot y$, la variable $y$ (segmento transversal) toma el lugar geométrico equivalente a la altura ($h$) del trapecio estándar, siendo el área el producto de la base media por dicha altura."
+    },
+    {
+      "pregunta": "Para un cuadrilátero circunscrito a una circunferencia (las rectas tangentes forman el polígono), el área de la región se puede calcular conociendo el semiperímetro $p$ y el radio inscrito $r$. ¿Cuál es la fórmula correcta?",
+      "opciones": [
+        "$S = p \\cdot r$",
+        "$S = \\frac{p \\cdot r}{2}$",
+        "$S = 2p \\cdot r$",
+        "$S = \\sqrt{p \\cdot r}$",
+        "$S = p + r$"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Por el teorema de áreas para polígonos circunscritos, el área se distribuye en triángulos desde el centro hacia los lados. La suma de estas áreas resulta en el producto del semiperímetro por el inradio:<br>$$ S_{ABCD} = p \\cdot r $$"
+    },
+    {
+      "pregunta": "En un cuadrilátero cualquiera, se trazan sus dos diagonales, quedando dividido en cuatro regiones triangulares con áreas $S_1, S_2, S_3, S_4$. ¿Qué relación métrica se cumple siempre entre estas cuatro áreas?",
+      "opciones": [
+        "$S_1 + S_3 = S_2 + S_4$",
+        "$S_1 \\cdot S_3 = S_2 \\cdot S_4$",
+        "$S_1^2 + S_3^2 = S_2^2 + S_4^2$",
+        "$S_1 = S_2 = S_3 = S_4$",
+        "$S_1 \\cdot S_2 = S_3 \\cdot S_4$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Para todo cuadrilátero convexo, el producto de las áreas de las regiones triangulares opuestas formadas por las diagonales es igual:<br>$$ S_1 \\cdot S_3 = S_2 \\cdot S_4 $$"
+    },
+    {
+      "pregunta": "En un cuadrilátero se unen los puntos medios de sus cuatro lados consecutivos, formándose un polígono interior PQMN. El área de este paralelogramo interior $S_{PQMN}$ tiene una relación exacta con el área total del cuadrilátero original $S_{ABCD}$. ¿Cuál es?",
+      "opciones": [
+        "$S_{PQMN} = \\frac{S_{ABCD}}{3}$",
+        "$S_{PQMN} = \\frac{S_{ABCD}}{4}$",
+        "$S_{PQMN} = \\frac{S_{ABCD}}{2}$",
+        "$S_{PQMN} = S_{ABCD}$",
+        "$S_{PQMN} = \\frac{2 \\cdot S_{ABCD}}{3}$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Por el teorema de Varignon, al unir los puntos medios de un cuadrilátero siempre se forma un paralelogramo. El área de dicho paralelogramo interior es siempre la mitad del área del cuadrilátero exterior:<br>$$ S_{PQMN} = \\frac{S_{ABCD}}{2} $$"
+    },
+    {
+      "pregunta": "En un cuadrilátero ABCD, se ubican los puntos medios M y N de los lados opuestos BC y AD, respectivamente. Se trazan los segmentos hacia los vértices formando un triángulo central con área $S$. ¿A qué equivale el área $S$ de este triángulo sombreado central?",
+      "opciones": [
+        "Al área total del cuadrilátero.",
+        "A un tercio del área total del cuadrilátero.",
+        "A un cuarto del área total del cuadrilátero.",
+        "A la mitad del área total del cuadrilátero.",
+        "Depende de la inclinación de los lados."
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>De acuerdo con las propiedades de relación de áreas, el área $S$ contenida en la región triangular formada entre los puntos medios de dos lados opuestos de un cuadrilátero es exactamente la mitad del área total del cuadrilátero.<br>$$ S = \\frac{S_{ABCD}}{2} $$"
+    },
+    {
+      "pregunta": "En un trapecio ABCD con bases BC y AD, se trazan las dos diagonales. Se forman dos triángulos adyacentes a los lados no paralelos con áreas $S_1$ y $S_2$. ¿Qué relación guardan $S_1$ y $S_2$?",
+      "opciones": [
+        "$S_1 < S_2$",
+        "$S_1 > S_2$",
+        "$S_1 = 2S_2$",
+        "$S_1 = S_2$",
+        "$S_1 \\cdot S_2 = 1$"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Por propiedad fundamental de los trapecios, las regiones triangulares determinadas por las diagonales y los lados no paralelos (las regiones \"laterales\") son siempre equivalentes, es decir, poseen la misma área.<br>$$ S_1 = S_2 $$"
+    },
+    {
+      "pregunta": "En un trapecio, al trazar las diagonales se forman cuatro áreas. Las áreas de los triángulos formados sobre las bases mayor y menor son $A = 9$ y $B = 4$. Si los triángulos laterales tienen área $S$, calcule el valor de $S$.",
+      "opciones": [
+        "5",
+        "6",
+        "13",
+        "36",
+        "12"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Dado que las áreas laterales son iguales ($S_1 = S_2 = S$), al aplicar la propiedad general del producto de áreas opuestas en cuadriláteros ($S_1 \\cdot S_3 = S_2 \\cdot S_4$), obtenemos:<br>$$ S \\cdot S = A \\cdot B \\Rightarrow S^2 = A \\cdot B $$<br>$$ S^2 = 9 \\cdot 4 = 36 \\Rightarrow S = \\sqrt{36} = 6 $$"
+    },
+    {
+      "pregunta": "Con los mismos datos del problema anterior en el trapecio (áreas de bases $A=9$, $B=4$, áreas laterales $S=6$), ¿cuál es el área total de la región trapecial?",
+      "opciones": [
+        "13",
+        "19",
+        "25",
+        "36",
+        "42"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El área total del trapecio es la suma de las cuatro áreas triangulares:<br>$$ S_{total} = A + B + 2S $$<br>$$ S_{total} = 9 + 4 + 2(6) = 13 + 12 = 25 $$<br>*(Esto también se comprueba con la propiedad de que $S_{total} = (\\sqrt{A} + \\sqrt{B})^2 = (3 + 2)^2 = 5^2 = 25$).*"
+    },
+    {
+      "pregunta": "En un cuadrilátero circunscrito a una circunferencia, el radio de la circunferencia es $r = 5$ y los lados del cuadrilátero miden $8, 12, 15$ y $19$. Calcule el área del cuadrilátero.",
+      "opciones": [
+        "100",
+        "120",
+        "135",
+        "270",
+        "540"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Calculamos primero el semiperímetro $p$:<br>$$ p = \\frac{8 + 12 + 15 + 19}{2} = \\frac{54}{2} = 27 $$<br>Usamos la fórmula del área para el cuadrilátero circunscrito:<br>$$ S_{ABCD} = p \\cdot r $$<br>$$ S_{ABCD} = 27 \\cdot 5 = 135 $$"
+    },
+    {
+      "pregunta": "Un rombo tiene un área de $150$ unidades cuadradas. Si una de sus diagonales mide $20$, ¿cuánto mide la otra diagonal?",
+      "opciones": [
+        "10",
+        "12",
+        "15",
+        "20",
+        "30"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Sabiendo que el área del rombo es $S = \\frac{D_1 \\cdot D_2}{2}$:<br>$$ 150 = \\frac{20 \\cdot D_2}{2} $$<br>$$ 150 = 10 \\cdot D_2 \\Rightarrow D_2 = 15 $$"
+    },
+    {
+      "pregunta": "En un paralelogramo, se toma un punto cualquiera sobre uno de los lados paralelos mayores y se trazan segmentos hacia los vértices opuestos, formando un triángulo en el interior. El área de este triángulo siempre será:",
+      "opciones": [
+        "La tercera parte del área del paralelogramo.",
+        "La cuarta parte del área del paralelogramo.",
+        "La mitad del área del paralelogramo.",
+        "Igual al área del paralelogramo.",
+        "Incalculable sin la altura exacta."
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La base de este triángulo es la base completa del paralelogramo, y su altura coincide con la altura del paralelogramo.<br>Como el área del triángulo es $S_\\Delta = \\frac{b \\cdot h}{2}$ y la del paralelogramo es $S = b \\cdot h$, el área del triángulo será siempre la mitad del área total."
+    },
+    {
+      "pregunta": "En la fórmula general para hallar el área de un cuadrilátero no convexo, $S = \\frac{PR \\cdot QT}{2} \\sin(\\beta)$, la variable $\\beta$ representa:",
+      "opciones": [
+        "Un ángulo interior agudo del cuadrilátero.",
+        "Un ángulo interior obtuso del cuadrilátero.",
+        "El ángulo formado por la intersección de las dos 'diagonales'.",
+        "El ángulo recto de la altura.",
+        "El ángulo exterior."
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Según el gráfico de la teoría, en un cuadrilátero no convexo, $\\beta$ es el ángulo de intersección que se forma entre la diagonal exterior (QT) y la diagonal interior extendida (PR)."
+    }
+      ],
+      "videos": [
+        {
+          "titulo": "16.1 Teoría",
+          "youtube_id": "2-Bgh0dWFlU",
+          "pdf_link": "https://drive.google.com/file/d/1EurKacmAvpbRdR_v1OzFUcgwzsYnArCV/view",
+          "gratis": true
+        },
+        {
+          "titulo": "16.2 Ejercicios",
+          "youtube_id": "dtLXjfjNJYw",
+          "pdf_link": "https://drive.google.com/file/d/1ZUvT8jOdmq4C7yJvVcGkCzvxZEmC-HXj/view",
+          "gratis": true
+        },
+        {
+          "titulo": "16.3 Ejercicios",
+          "youtube_id": "xWa-om019lk",
+          "pdf_link": "https://drive.google.com/file/d/1ZUvT8jOdmq4C7yJvVcGkCzvxZEmC-HXj/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 17: Regiones Poligonal - Circular",
+      "pdf_resuelto": "https://drive.google.com/file/d/16o3iwfWjvkJPPao60-V-3nudZ2l7woSK/view",
+      "preguntas": [
+        {
+      "pregunta": "Para calcular el área de un polígono regular, se utiliza la fórmula $A = \\frac{p \\cdot Ap}{2}$. Si el perímetro de un hexágono regular es $p = 48$ y su apotema es $Ap = 4\\sqrt{3}$, ¿cuál es el área de la región poligonal?",
+      "opciones": [
+        "$96\\sqrt{3}$",
+        "$192\\sqrt{3}$",
+        "$48\\sqrt{3}$",
+        "$144\\sqrt{3}$",
+        "$72\\sqrt{3}$"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Aplicamos la fórmula del área de un polígono regular:<br>$$ A = \\frac{p \\cdot Ap}{2} $$<br>Sustituimos los valores dados:<br>$$ A = \\frac{48 \\cdot 4\\sqrt{3}}{2} $$<br>$$ A = 24 \\cdot 4\\sqrt{3} = 96\\sqrt{3} $$"
+    },
+    {
+      "pregunta": "Se tiene un círculo cuyo radio mide $R = 8$ cm. Calcule el área de la región circular.",
+      "opciones": [
+        "$16\\pi$ cm²",
+        "$32\\pi$ cm²",
+        "$64\\pi$ cm²",
+        "$128\\pi$ cm²",
+        "$8\\pi$ cm²"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La fórmula para el área del círculo es:<br>$$ S_{\\circ} = \\pi R^2 $$<br>Reemplazando el valor del radio:<br>$$ S_{\\circ} = \\pi (8)^2 = 64\\pi \\text{ cm}^2 $$"
+    },
+    {
+      "pregunta": "Calcule el área de un semicírculo cuyo diámetro es $20$ cm.",
+      "opciones": [
+        "$100\\pi$ cm²",
+        "$50\\pi$ cm²",
+        "$25\\pi$ cm²",
+        "$200\\pi$ cm²",
+        "$10\\pi$ cm²"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Si el diámetro es 20 cm, el radio es $R = 10$ cm. El área de un semicírculo es la mitad del área de un círculo:<br>$$ S = \\frac{\\pi R^2}{2} $$<br>$$ S = \\frac{\\pi (10)^2}{2} = \\frac{100\\pi}{2} = 50\\pi \\text{ cm}^2 $$"
+    },
+    {
+      "pregunta": "En un cuadrante circular (cuarta parte de un círculo), el radio mide $12$ cm. Determine el área de dicha región.",
+      "opciones": [
+        "$36\\pi$ cm²",
+        "$72\\pi$ cm²",
+        "$18\\pi$ cm²",
+        "$144\\pi$ cm²",
+        "$24\\pi$ cm²"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>El área de un cuadrante se calcula dividiendo el área total del círculo entre 4:<br>$$ S = \\frac{\\pi R^2}{4} $$<br>$$ S = \\frac{\\pi (12)^2}{4} = \\frac{144\\pi}{4} = 36\\pi \\text{ cm}^2 $$"
+    },
+    {
+      "pregunta": "Se tiene un sector circular cuyo ángulo central mide $120^{\\circ}$ y su radio es $R = 6$ cm. ¿Cuál es el área de la región del sector circular?",
+      "opciones": [
+        "$18\\pi$ cm²",
+        "$12\\pi$ cm²",
+        "$24\\pi$ cm²",
+        "$36\\pi$ cm²",
+        "$6\\pi$ cm²"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Para un ángulo central de $120^{\\circ}$, el área es la tercera parte del círculo (ya que $360/120 = 3$):<br>$$ S = \\frac{\\pi R^2}{3} $$<br>$$ S = \\frac{\\pi (6)^2}{3} = \\frac{36\\pi}{3} = 12\\pi \\text{ cm}^2 $$"
+    },
+    {
+      "pregunta": "En un sector circular, la longitud del arco es $l = 8$ cm y el radio mide $R = 10$ cm. Utilizando la fórmula que relaciona arco y radio, calcule el área del sector.",
+      "opciones": [
+        "$40$ cm²",
+        "$80$ cm²",
+        "$20$ cm²",
+        "$60$ cm²",
+        "$50$ cm²"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>El área de un sector circular se puede calcular conociendo la longitud de arco y el radio mediante la fórmula:<br>$$ S = \\frac{l_{AB} \\cdot R}{2} $$<br>$$ S = \\frac{8 \\cdot 10}{2} = \\frac{80}{2} = 40 \\text{ cm}^2 $$"
+    },
+    {
+      "pregunta": "Una corona circular está determinada por dos circunferencias concéntricas de radios $R = 13$ y $r = 5$. Determine su área.",
+      "opciones": [
+        "$120\\pi$",
+        "$169\\pi$",
+        "$144\\pi$",
+        "$100\\pi$",
+        "$64\\pi$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El área de la corona circular es la diferencia de las áreas de los círculos:<br>$$ S_{Corona} = \\pi(R^2 - r^2) $$<br>$$ S_{Corona} = \\pi(13^2 - 5^2) = \\pi(169 - 25) = 144\\pi $$"
+    },
+    {
+      "pregunta": "En una corona circular, se traza una cuerda a la circunferencia mayor que es tangente a la circunferencia menor. Si la longitud total de esta cuerda es $AB = 16$, calcule el área de la corona circular.",
+      "opciones": [
+        "$32\\pi$",
+        "$64\\pi$",
+        "$128\\pi$",
+        "$256\\pi$",
+        "$16\\pi$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Por propiedad, si la cuerda tangente mide $2a = 16$, entonces la mitad de la cuerda es $a = 8$. El área de la corona circular se calcula como:<br>$$ S_{Corona} = \\pi a^2 $$<br>$$ S_{Corona} = \\pi (8)^2 = 64\\pi $$"
+    },
+    {
+      "pregunta": "Se define un trapecio circular con un ángulo central de $\\alpha = 30^{\\circ}$ y radios $R = 10$ y $r = 8$. ¿Cuál es el área de dicho trapecio circular?",
+      "opciones": [
+        "$2\\pi$",
+        "$3\\pi$",
+        "$4\\pi$",
+        "$5\\pi$",
+        "$6\\pi$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Aplicamos la fórmula del área del trapecio circular conociendo el ángulo:<br>$$ S = \\pi(R^2 - r^2)\\frac{\\alpha}{360^{\\circ}} $$<br>$$ S = \\pi(100 - 64)\\frac{30^{\\circ}}{360^{\\circ}} = \\pi(36)\\left(\\frac{1}{12}\\right) = 3\\pi $$"
+    },
+    {
+      "pregunta": "En un trapecio circular, las longitudes de los arcos son $l_1 = 14$ y $l_2 = 6$, y la diferencia entre sus radios es $h = 5$. Calcule el área de la región.",
+      "opciones": [
+        "20",
+        "40",
+        "50",
+        "60",
+        "100"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Cuando se conocen las longitudes de arco y el ancho $h$ (diferencia de radios), se aplica la fórmula análoga a la del trapecio rectilíneo:<br>$$ S = \\left(\\frac{l_1 + l_2}{2}\\right)h $$<br>$$ S = \\left(\\frac{14 + 6}{2}\\right) \\cdot 5 = \\left(\\frac{20}{2}\\right) \\cdot 5 = 10 \\cdot 5 = 50 $$"
+    },
+    {
+      "pregunta": "El área de un segmento circular se calcula hallando la diferencia entre el área del sector circular correspondiente y:",
+      "opciones": [
+        "El área de un cuadrado circunscrito.",
+        "El área de la corona circular.",
+        "El área del triángulo formado por los radios y la cuerda.",
+        "El área de un semicírculo.",
+        "El área del círculo completo."
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Por definición, un segmento circular es la región delimitada por una cuerda y su arco. Su área se halla restando el área del triángulo (cuyos vértices son el centro y los extremos de la cuerda) al área del sector circular total:<br>$$ S_{seg} = S_{Sector} - S_{\\Delta} $$"
+    },
+    {
+      "pregunta": "Definición teórica: La región plana determinada en el interior de un círculo por dos cuerdas paralelas se denomina:",
+      "opciones": [
+        "Segmento circular",
+        "Trapecio circular",
+        "Faja circular o zona circular",
+        "Corona circular",
+        "Sector circular"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Tal como se indica en la teoría de regiones poligonales y circulares, la parte de un círculo que está comprendida entre dos cuerdas paralelas recibe el nombre de faja circular o zona circular."
+    },
+    {
+      "pregunta": "En un cuadrante circular de centros O y Q (Propiedad 01), se tiene inscrita una región S1 y un semicírculo S2 en uno de los lados rectos. Si el área del semicírculo es $S_2 = 18\\pi$, ¿cuánto mide el área S1?",
+      "opciones": [
+        "$9\\pi$",
+        "$18\\pi$",
+        "$36\\pi$",
+        "$54\\pi$",
+        "$72\\pi$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Según la Propiedad 01 de regiones circulares, bajo la configuración geométrica en la que O y Q son centros y se inscribe un semicírculo dentro de un cuadrante, las áreas indicadas son iguales:<br>$$ S_1 = S_2 $$<br>Por lo tanto, $S_1 = 18\\pi$."
+    },
+    {
+      "pregunta": "En un cuadrado ABCD de lado $a=10$, se traza un cuarto de círculo con centro en A que contiene al arco BD. Una región $S_x$ está comprendida entre la diagonal y ciertos elementos de la figura. Según la Propiedad 02, el área de esta región es $S_x = a^2 / 2$. Calcule dicho valor.",
+      "opciones": [
+        "25",
+        "50",
+        "100",
+        "200",
+        "75"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>La Propiedad 02 establece que el área $S_x$ en esta configuración específica del cuadrado es equivalente a la mitad del cuadrado del lado:<br>$$ S_x = \\frac{a^2}{2} $$<br>Reemplazando el valor del lado $a = 10$:<br>$$ S_x = \\frac{10^2}{2} = \\frac{100}{2} = 50 $$"
+    },
+    {
+      "pregunta": "En un semicírculo de diámetro AB, se traza una altura $h$ perpendicular al diámetro hasta el arco, donde $h = 6$. Se dibujan semicírculos interiores sobre los segmentos del diámetro, formando un 'arbelos'. El área de la región comprendida $S_x$ se calcula con la Propiedad 03. Calcule su valor.",
+      "opciones": [
+        "$6\\pi$",
+        "$9\\pi$",
+        "$18\\pi$",
+        "$36\\pi$",
+        "$12\\pi$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>La Propiedad 03 indica que el área delimitada por los tres semicírculos (el Arbelos de Arquímedes) se calcula en función de la altura $h$ en el punto de tangencia:<br>$$ S_x = \\frac{\\pi h^2}{4} $$<br>Sustituyendo $h = 6$:<br>$$ S_x = \\frac{\\pi (6)^2}{4} = \\frac{36\\pi}{4} = 9\\pi $$"
+    },
+    {
+      "pregunta": "En un triángulo rectángulo, se construyen semicírculos sobre los catetos (con áreas $S_1 = 12\\pi$ y $S_2 = 16\\pi$) y sobre la hipotenusa (área $S_3$). Por la Propiedad 04, ¿cuál es el valor de $S_3$?",
+      "opciones": [
+        "$20\\pi$",
+        "$24\\pi$",
+        "$28\\pi$",
+        "$30\\pi$",
+        "$32\\pi$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Esta es una generalización del Teorema de Pitágoras con áreas de figuras semejantes. La suma de las áreas de los semicírculos sobre los catetos es igual al área del semicírculo sobre la hipotenusa:<br>$$ S_3 = S_1 + S_2 $$<br>$$ S_3 = 12\\pi + 16\\pi = 28\\pi $$"
+    },
+    {
+      "pregunta": "Aplicando el teorema de las Lúnulas de Hipócrates, en un triángulo rectángulo se trazan semicírculos que forman dos lúnulas sobre los catetos con áreas $S_1 = 14$ y $S_2 = 26$. ¿Cuál es el área de la región triangular ($S_{\\Delta ABC}$)?",
+      "opciones": [
+        "12",
+        "28",
+        "40",
+        "52",
+        "80"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El teorema de las Lúnulas de Hipócrates establece que el área del triángulo rectángulo interior es exactamente igual a la suma de las áreas de las dos lúnulas exteriores trazadas sobre los catetos:<br>$$ S_{\\Delta ABC} = S_1 + S_2 $$<br>$$ S_{\\Delta ABC} = 14 + 26 = 40 $$"
+    },
+    {
+      "pregunta": "Existe otra propiedad de áreas con lúnulas donde se cumple que $S_{\\Delta ABC} = S_1 - S_2$. Si la lúnula mayor mide $S_1 = 45$ y la menor $S_2 = 15$, calcule el área del triángulo.",
+      "opciones": [
+        "60",
+        "30",
+        "15",
+        "45",
+        "75"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Según la propiedad mostrada en la teoría (configuración de lúnulas con resta), el área de la región triangular se halla mediante la diferencia de las áreas de las lúnulas específicas dadas:<br>$$ S_{\\Delta ABC} = S_1 - S_2 $$<br>$$ S_{\\Delta ABC} = 45 - 15 = 30 $$"
+    },
+    {
+      "pregunta": "Para agilizar cálculos, se deduce que un sector circular con ángulo central de $60^{\\circ}$ equivale a una fracción específica del área total del círculo ($\\pi R^2$). ¿Cuál es esa fórmula simplificada?",
+      "opciones": [
+        "$S = \\frac{\\pi R^2}{3}$",
+        "$S = \\frac{\\pi R^2}{4}$",
+        "$S = \\frac{\\pi R^2}{6}$",
+        "$S = \\frac{\\pi R^2}{8}$",
+        "$S = \\frac{\\pi R^2}{12}$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Un círculo completo abarca $360^{\\circ}$. Un sector de $60^{\\circ}$ representa la sexta parte del círculo, ya que $360/60 = 6$.<br>Por lo tanto: $$ S = \\frac{\\pi R^2}{6} $$"
+    },
+    {
+      "pregunta": "Para un sector circular con un ángulo central de $45^{\\circ}$, ¿cuál es su fórmula de área simplificada en relación con el círculo completo?",
+      "opciones": [
+        "$S = \\frac{\\pi R^2}{2}$",
+        "$S = \\frac{\\pi R^2}{4}$",
+        "$S = \\frac{\\pi R^2}{6}$",
+        "$S = \\frac{\\pi R^2}{8}$",
+        "$S = \\frac{\\pi R^2}{10}$"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Puesto que $360^{\\circ} / 45^{\\circ} = 8$, un sector circular de $45^{\\circ}$ equivale a la octava parte del área del círculo.<br>Por lo tanto: $$ S = \\frac{\\pi R^2}{8} $$"
+    }
+      ],
+      "videos": [
+        {
+          "titulo": "17.1 Teoría",
+          "youtube_id": "XTo9Sw_Tyrs",
+          "pdf_link": "https://drive.google.com/file/d/16o3iwfWjvkJPPao60-V-3nudZ2l7woSK/view",
+          "gratis": true
+        },
+        {
+          "titulo": "17.2 Ejercicios",
+          "youtube_id": "4k4W6bNj6IM",
+          "pdf_link": "https://drive.google.com/file/d/16o3iwfWjvkJPPao60-V-3nudZ2l7woSK/view",
+          "gratis": true
+        },
+        {
+          "titulo": "17.3 Ejercicios",
+          "youtube_id": "7CY1cOkeFFw",
+          "pdf_link": "https://drive.google.com/file/d/16o3iwfWjvkJPPao60-V-3nudZ2l7woSK/view",
+          "gratis": true
+        },
+        {
+          "titulo": "17.1 Ejercicios",
+          "youtube_id": "NMVXAAPF5z4",
+          "pdf_link": "https://drive.google.com/file/d/16o3iwfWjvkJPPao60-V-3nudZ2l7woSK/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 18: Ángulos Trigonométricos",
+      "pdf_resuelto": "https://drive.google.com/file/d/1vYA2NB4-WWDdMu32lifBQaI3qZlEpNh7/view",
+      "preguntas": [
+        {
+      "pregunta": "Según el concepto de ángulo trigonométrico, este se genera por la rotación de un rayo. Si la rotación del rayo se realiza en el mismo sentido de las agujas del reloj, la magnitud del ángulo se considera:",
+      "opciones": [
+        "Positiva",
+        "Negativa",
+        "Nula",
+        "Recta",
+        "Indefinida"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>En la teoría de ángulos trigonométricos, un ángulo se considera positivo si el rayo gira en sentido contrario a las agujas del reloj (antihorario). Por el contrario, si la rotación es en el sentido de las agujas del reloj (horario), el ángulo es de magnitud negativa."
+    },
+    {
+      "pregunta": "En el sistema sexagesimal o inglés, la medida de un ángulo de una vuelta completa equivale a:",
+      "opciones": [
+        "$$ 100^{\\circ} $$",
+        "$$ 180^{\\circ} $$",
+        "$$ 270^{\\circ} $$",
+        "$$ 360^{\\circ} $$",
+        "$$ 400^{\\circ} $$"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Por definición del sistema sexagesimal (inglés), la unidad es el grado sexagesimal que representa la trescientos sesentava parte del ángulo de una vuelta. Por lo tanto, un ángulo de una vuelta mide $$ 360^{\\circ} $$."
+    },
+    {
+      "pregunta": "Según la teoría de sistemas de medidas angulares, ¿cuál es la unidad del sistema francés (centesimal) y cómo se representa?",
+      "opciones": [
+        "El grado sexagesimal ($$ 1^{\\circ} $$)",
+        "El radián ($$ 1 \\text{ rad} $$)",
+        "El grado centesimal ($$ 1^g $$)",
+        "El minuto centesimal ($$ 1^m $$)",
+        "La revolución ($$ 1 \\text{ rev} $$)"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El sistema francés o centesimal tiene como unidad principal al grado centesimal, el cual representa la cuatrocientosava parte del ángulo de una vuelta, y se representa con la nomenclatura $$ 1^g $$."
+    },
+    {
+      "pregunta": "De acuerdo con el sistema radial (circular o internacional), ¿cómo se define la medida de un radián?",
+      "opciones": [
+        "El ángulo central donde el arco es igual al diámetro.",
+        "El ángulo central donde el arco es igual al radio.",
+        "El ángulo que divide la circunferencia en 360 partes.",
+        "El ángulo cuyo arco es el doble del radio.",
+        "El ángulo central de una semicircunferencia."
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Un radián se define como la medida del ángulo central en cualquier circunferencia que subtiende un arco de igual longitud al radio ($$ L = R $$)."
+    },
+    {
+      "pregunta": "Se tienen dos ángulos trigonométricos adyacentes que juntos forman un ángulo recto ($$ 90^{\\circ} $$). El primero gira en sentido antihorario y su medida es $$ x $$. El segundo gira en sentido horario y su medida es $$ -40^{\\circ} $$. Calcule el valor de $$ x $$.",
+      "opciones": [
+        "$$ 40^{\\circ} $$",
+        "$$ 50^{\\circ} $$",
+        "$$ 60^{\\circ} $$",
+        "$$ 130^{\\circ} $$",
+        "$$ 140^{\\circ} $$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Para operar con ángulos trigonométricos, todos deben estar en el mismo sentido (generalmente antihorario, que es el positivo).<br>Al invertir el sentido horario del segundo ángulo, su signo cambia: $$ -(-40^{\\circ}) = +40^{\\circ} $$.<br>Planteando la suma para el ángulo recto: $$ x + 40^{\\circ} = 90^{\\circ} \\Rightarrow x = 50^{\\circ} $$."
+    },
+    {
+      "pregunta": "Un ángulo llano está formado por dos ángulos trigonométricos adyacentes. El primero tiene sentido antihorario y mide $$ (6x)^{\\circ} $$, mientras que el segundo tiene sentido horario y mide $$ -(3x)^{\\circ} $$. Determine el valor de $$ x $$.",
+      "opciones": [
+        "10",
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Cambiamos el sentido del ángulo horario a antihorario, cambiando su signo: $$ -(-(3x)^{\\circ}) = (3x)^{\\circ} $$.<br>La suma de ángulos adyacentes sobre una recta da un ángulo llano ($$ 180^{\\circ} $$):<br>$$ 6x + 3x = 180 \\Rightarrow 9x = 180 \\Rightarrow x = 20 $$"
+    },
+    {
+      "pregunta": "Si un ángulo mide $$ 2^{\\circ} $$ (grados sexagesimales), ¿a cuántos minutos sexagesimales equivale?",
+      "opciones": [
+        "60'",
+        "100'",
+        "120'",
+        "200'",
+        "3600'"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Según las equivalencias del sistema sexagesimal, $$ 1^{\\circ} = 60' $$.<br>Por lo tanto: $$ 2^{\\circ} = 2 \\times 60' = 120' $$."
+    },
+    {
+      "pregunta": "Se sabe que $$ 9^{\\circ} $$ equivalen a $$ 10^g $$. ¿Cuántos minutos centesimales ($$ ^m $$) equivalen a $$ 27 $$ minutos sexagesimales ($$ ' $$)?",
+      "opciones": [
+        "30",
+        "40",
+        "50",
+        "60",
+        "80"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Partimos de la relación de grados: $$ 9^{\\circ} = 10^g $$<br>Convertimos a minutos en sus respectivos sistemas ($$ 1^{\\circ} = 60' $$ y $$ 1^g = 100^m $$):<br>$$ 9(60') = 10(100^m) \\Rightarrow 540' = 1000^m $$<br>Para llegar a 27', dividimos ambos lados entre 20:<br>$$ \\frac{540'}{20} = \\frac{1000^m}{20} \\Rightarrow 27' = 50^m $$"
+    },
+    {
+      "pregunta": "Convertir el ángulo de $$ 54^{\\circ} $$ al sistema centesimal.",
+      "opciones": [
+        "$$ 40^g $$",
+        "$$ 50^g $$",
+        "$$ 60^g $$",
+        "$$ 70^g $$",
+        "$$ 80^g $$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Utilizamos la fórmula de conversión simplificada: $$ \\frac{S}{9} = \\frac{C}{10} $$<br>Reemplazando $$ S = 54 $$:<br>$$ \\frac{54}{9} = \\frac{C}{10} \\Rightarrow 6 = \\frac{C}{10} \\Rightarrow C = 60^g $$"
+    },
+    {
+      "pregunta": "Convertir el ángulo de $$ 120^{\\circ} $$ al sistema radial.",
+      "opciones": [
+        "$$ \\frac{\\pi}{3} \\text{ rad} $$",
+        "$$ \\frac{\\pi}{2} \\text{ rad} $$",
+        "$$ \\frac{2\\pi}{3} \\text{ rad} $$",
+        "$$ \\frac{3\\pi}{4} \\text{ rad} $$",
+        "$$ \\frac{5\\pi}{6} \\text{ rad} $$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Empleamos la fórmula de conversión: $$ \\frac{S}{180} = \\frac{R}{\\pi} $$<br>Reemplazando $$ S = 120 $$:<br>$$ \\frac{120}{180} = \\frac{R}{\\pi} $$<br>Simplificando la fracción (dividiendo entre 60):<br>$$ \\frac{2}{3} = \\frac{R}{\\pi} \\Rightarrow R = \\frac{2\\pi}{3} \\text{ rad} $$"
+    },
+    {
+      "pregunta": "Convierta $$ \\frac{3\\pi}{10} \\text{ rad} $$ al sistema sexagesimal.",
+      "opciones": [
+        "$$ 36^{\\circ} $$",
+        "$$ 45^{\\circ} $$",
+        "$$ 54^{\\circ} $$",
+        "$$ 60^{\\circ} $$",
+        "$$ 72^{\\circ} $$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Usamos la equivalencia $$ \\pi \\text{ rad} = 180^{\\circ} $$.<br>Reemplazando directamente en la expresión:<br>$$ S = \\frac{3(180^{\\circ})}{10} = 3(18^{\\circ}) = 54^{\\circ} $$"
+    },
+    {
+      "pregunta": "Calcule el valor de la siguiente suma expresando el resultado en el sistema sexagesimal: $$ \\frac{\\pi}{4} \\text{ rad} + 50^g $$.",
+      "opciones": [
+        "$$ 75^{\\circ} $$",
+        "$$ 80^{\\circ} $$",
+        "$$ 85^{\\circ} $$",
+        "$$ 90^{\\circ} $$",
+        "$$ 95^{\\circ} $$"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Convertimos ambos ángulos a grados sexagesimales.<br>Para $$ \\frac{\\pi}{4} \\text{ rad} $$: $$ \\frac{180^{\\circ}}{4} = 45^{\\circ} $$.<br>Para $$ 50^g $$: $$ \\frac{S}{9} = \\frac{50}{10} \\Rightarrow \\frac{S}{9} = 5 \\Rightarrow S = 45^{\\circ} $$.<br>Sumando ambos valores: $$ 45^{\\circ} + 45^{\\circ} = 90^{\\circ} $$."
+    },
+    {
+      "pregunta": "S y C representan la medida de un mismo ángulo en los sistemas sexagesimal y centesimal. Si se cumple que $$ 2C - S = 55 $$, calcule la medida de dicho ángulo en el sistema sexagesimal.",
+      "opciones": [
+        "$$ 27^{\\circ} $$",
+        "$$ 36^{\\circ} $$",
+        "$$ 45^{\\circ} $$",
+        "$$ 54^{\\circ} $$",
+        "$$ 63^{\\circ} $$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Usamos las equivalencias proporcionales: $$ S = 9k $$ y $$ C = 10k $$.<br>Reemplazamos en la ecuación:<br>$$ 2(10k) - 9k = 55 $$<br>$$ 20k - 9k = 55 \\Rightarrow 11k = 55 \\Rightarrow k = 5 $$<br>Nos piden el ángulo en sexagesimal ($$ S $$):<br>$$ S = 9k = 9(5) = 45^{\\circ} $$"
+    },
+    {
+      "pregunta": "Siendo S y C lo convencional para un ángulo, simplifique la siguiente expresión: $$ E = \\frac{2C + S}{C - S} $$",
+      "opciones": [
+        "19",
+        "29",
+        "39",
+        "49",
+        "59"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Reemplazamos $$ S = 9k $$ y $$ C = 10k $$ en la expresión:<br>$$ E = \\frac{2(10k) + 9k}{10k - 9k} $$<br>$$ E = \\frac{20k + 9k}{1k} = \\frac{29k}{k} = 29 $$"
+    },
+    {
+      "pregunta": "Calcule el valor de: $$ E = \\frac{3C - 2S}{C - S} $$",
+      "opciones": [
+        "12",
+        "14",
+        "16",
+        "18",
+        "20"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Sustituimos $$ S = 9k $$ y $$ C = 10k $$:<br>$$ E = \\frac{3(10k) - 2(9k)}{10k - 9k} $$<br>$$ E = \\frac{30k - 18k}{1k} = \\frac{12k}{k} = 12 $$"
+    },
+    {
+      "pregunta": "La suma del número de grados sexagesimales y centesimales de un mismo ángulo es 76. Calcule la medida del ángulo en el sistema radial.",
+      "opciones": [
+        "$$ \\frac{\\pi}{3} \\text{ rad} $$",
+        "$$ \\frac{\\pi}{4} \\text{ rad} $$",
+        "$$ \\frac{\\pi}{5} \\text{ rad} $$",
+        "$$ \\frac{2\\pi}{5} \\text{ rad} $$",
+        "$$ \\frac{\\pi}{6} \\text{ rad} $$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El dato indica que $$ S + C = 76 $$.<br>Usando proporciones: $$ 9k + 10k = 76 \\Rightarrow 19k = 76 \\Rightarrow k = 4 $$.<br>La fórmula para radianes es $$ R = \\frac{\\pi k}{20} $$ (derivado de $$ \\frac{S}{180}=\\frac{R}{\\pi} \\Rightarrow \\frac{9k}{180}=\\frac{R}{\\pi} \\Rightarrow R = \\frac{\\pi k}{20} $$).<br>$$ R = \\frac{\\pi(4)}{20} = \\frac{\\pi}{5} \\text{ rad} $$"
+    },
+    {
+      "pregunta": "Si se cumple la fórmula general de conversión $$ \\frac{S}{180} = \\frac{C}{200} = \\frac{R}{\\pi} $$, simplifique la siguiente expresión: $$ E = \\frac{\\pi C + \\pi S}{20 R} $$",
+      "opciones": [
+        "9",
+        "19",
+        "29",
+        "39",
+        "1"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Usando la constante general de proporcionalidad $k$:<br>$$ S = 180k $$, $$ C = 200k $$, $$ R = \\pi k $$<br>Sustituyendo en $E$:<br>$$ E = \\frac{\\pi(200k) + \\pi(180k)}{20(\\pi k)} = \\frac{380\\pi k}{20\\pi k} $$<br>Simplificando $$ \\pi k $$ y dividiendo: $$ E = \\frac{380}{20} = 19 $$"
+    },
+    {
+      "pregunta": "Dos ángulos son complementarios. Si uno de ellos mide $$ \\frac{\\pi}{5} \\text{ rad} $$, ¿cuánto mide el otro ángulo en grados centesimales?",
+      "opciones": [
+        "$$ 40^g $$",
+        "$$ 50^g $$",
+        "$$ 60^g $$",
+        "$$ 70^g $$",
+        "$$ 80^g $$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Dos ángulos complementarios suman $$ 90^{\\circ} $$ (lo que equivale a $$ 100^g $$).<br>Convertimos $$ \\frac{\\pi}{5} \\text{ rad} $$ a centesimales. Sabemos que $$ \\pi \\text{ rad} = 200^g $$.<br>$$ \\frac{200^g}{5} = 40^g $$<br>El otro ángulo es lo que falta para $$ 100^g $$:<br>$$ 100^g - 40^g = 60^g $$"
+    },
+    {
+      "pregunta": "Si la diferencia entre el número de grados centesimales y sexagesimales de un ángulo es 4 ($$ C - S = 4 $$), determine la medida del ángulo en el sistema radial.",
+      "opciones": [
+        "$$ \\frac{\\pi}{2} \\text{ rad} $$",
+        "$$ \\frac{\\pi}{3} \\text{ rad} $$",
+        "$$ \\frac{\\pi}{4} \\text{ rad} $$",
+        "$$ \\frac{\\pi}{5} \\text{ rad} $$",
+        "$$ \\frac{\\pi}{6} \\text{ rad} $$"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Usando las proporciones reducidas $$ C = 10k $$ y $$ S = 9k $$:<br>$$ 10k - 9k = 4 \\Rightarrow k = 4 $$<br>El ángulo en radianes es $$ R = \\frac{\\pi k}{20} $$:<br>$$ R = \\frac{\\pi(4)}{20} = \\frac{\\pi}{5} \\text{ rad} $$"
+    },
+    {
+      "pregunta": "Encuentre la medida del ángulo en grados sexagesimales que cumpla con la siguiente ecuación: $$ \\frac{C+S}{2} + \\frac{C-S}{2} = 40 $$",
+      "opciones": [
+        "$$ 18^{\\circ} $$",
+        "$$ 36^{\\circ} $$",
+        "$$ 45^{\\circ} $$",
+        "$$ 54^{\\circ} $$",
+        "$$ 72^{\\circ} $$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Sumamos las fracciones homogéneas:<br>$$ \\frac{C + S + C - S}{2} = 40 $$<br>$$ \\frac{2C}{2} = 40 \\Rightarrow C = 40 $$<br>Sabiendo que $$ C = 40^g $$, usamos la relación $$ \\frac{S}{9} = \\frac{C}{10} $$ para hallar $$ S $$:<br>$$ \\frac{S}{9} = \\frac{40}{10} = 4 \\Rightarrow S = 9(4) = 36^{\\circ} $$"
+    }
+      ],
+      "videos": [
+        {
+          "titulo": "18.1 Teoría",
+          "youtube_id": "mkvJc3O2FuA",
+          "pdf_link": "https://drive.google.com/file/d/1pYiEU6OKq87ET88_ZfdstGFywinJ2-kk/view",
+          "gratis": true
+        },
+        {
+          "titulo": "18.2 Ejercicios",
+          "youtube_id": "t7Xg3k4Fm4g",
+          "pdf_link": "https://drive.google.com/file/d/1vYA2NB4-WWDdMu32lifBQaI3qZlEpNh7/view",
+          "gratis": true
+        },
+        {
+          "titulo": "18.3 Ejercicios",
+          "youtube_id": "ZLyduwnNgvg",
+          "pdf_link": "https://drive.google.com/file/d/1vYA2NB4-WWDdMu32lifBQaI3qZlEpNh7/view",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 19: Pronto",
       "pdf_resuelto": "ENLACE_PDF_AQUI",
       "preguntas": [
         {
@@ -2780,7 +4636,7 @@
       ],
       "videos": [
         {
-          "titulo": "12.1 Geometría del Espacio - Teoría",
+          "titulo": "19.1 Pronto",
           "youtube_id": "ID_YOUTUBE_AQUI",
           "pdf_link": "ENLACE_PDF_AQUI",
           "gratis": true
@@ -2788,7 +4644,7 @@
       ]
     },
     {
-      "titulo": "Tema 13: Poliedros y Prismas",
+      "titulo": "Tema 20: Pronto",
       "pdf_resuelto": "ENLACE_PDF_AQUI",
       "preguntas": [
         {
@@ -2802,7 +4658,7 @@
       ],
       "videos": [
         {
-          "titulo": "13.1 Poliedros - Teoría",
+          "titulo": "20.1 Pronto",
           "youtube_id": "ID_YOUTUBE_AQUI",
           "pdf_link": "ENLACE_PDF_AQUI",
           "gratis": true
@@ -2810,7 +4666,7 @@
       ]
     },
     {
-      "titulo": "Tema 14: Cilindro, Cono y Esfera",
+      "titulo": "Tema 21: Pronto",
       "pdf_resuelto": "ENLACE_PDF_AQUI",
       "preguntas": [
         {
@@ -2824,7 +4680,7 @@
       ],
       "videos": [
         {
-          "titulo": "14.1 Sólidos de Revolución - Teoría",
+          "titulo": "21.1 Pronto",
           "youtube_id": "ID_YOUTUBE_AQUI",
           "pdf_link": "ENLACE_PDF_AQUI",
           "gratis": true
@@ -2832,7 +4688,7 @@
       ]
     },
     {
-      "titulo": "Tema 15: Geometría Analítica: Punto y Recta",
+      "titulo": "Tema 22: Pronto",
       "pdf_resuelto": "ENLACE_PDF_AQUI",
       "preguntas": [
         {
@@ -2846,7 +4702,7 @@
       ],
       "videos": [
         {
-          "titulo": "15.1 Geometría Analítica I - Teoría",
+          "titulo": "22.1 Pronto",
           "youtube_id": "ID_YOUTUBE_AQUI",
           "pdf_link": "ENLACE_PDF_AQUI",
           "gratis": true
@@ -2854,7 +4710,7 @@
       ]
     },
     {
-      "titulo": "Tema 16: La Circunferencia y Parábola",
+      "titulo": "Tema 23: Pronto",
       "pdf_resuelto": "ENLACE_PDF_AQUI",
       "preguntas": [
         {
@@ -2868,7 +4724,7 @@
       ],
       "videos": [
         {
-          "titulo": "16.1 Cónicas I - Teoría",
+          "titulo": "23.1 Pronto",
           "youtube_id": "ID_YOUTUBE_AQUI",
           "pdf_link": "ENLACE_PDF_AQUI",
           "gratis": true
@@ -2876,7 +4732,7 @@
       ]
     },
     {
-      "titulo": "Tema 17: Ángulo Trigonométrico y Sistemas de Medición",
+      "titulo": "Tema 24: Pronto",
       "pdf_resuelto": "ENLACE_PDF_AQUI",
       "preguntas": [
         {
@@ -2890,161 +4746,7 @@
       ],
       "videos": [
         {
-          "titulo": "17.1 Sistemas Angulares - Teoría",
-          "youtube_id": "ID_YOUTUBE_AQUI",
-          "pdf_link": "ENLACE_PDF_AQUI",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 18: Longitud de Arco y Sector Circular",
-      "pdf_resuelto": "ENLACE_PDF_AQUI",
-      "preguntas": [
-        {
-          "pregunta": "[Texto de la pregunta]",
-          "opciones": [
-            "A", "B", "C", "D", "E"
-          ],
-          "correcta": 0,
-          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "18.1 Sector Circular - Teoría",
-          "youtube_id": "ID_YOUTUBE_AQUI",
-          "pdf_link": "ENLACE_PDF_AQUI",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 19: Razones Trigonométricas de Ángulos Agudos",
-      "pdf_resuelto": "ENLACE_PDF_AQUI",
-      "preguntas": [
-        {
-          "pregunta": "[Texto de la pregunta]",
-          "opciones": [
-            "A", "B", "C", "D", "E"
-          ],
-          "correcta": 0,
-          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "19.1 R.T. Ángulos Agudos - Teoría",
-          "youtube_id": "ID_YOUTUBE_AQUI",
-          "pdf_link": "ENLACE_PDF_AQUI",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 20: Ángulos Verticales y Horizontales",
-      "pdf_resuelto": "ENLACE_PDF_AQUI",
-      "preguntas": [
-        {
-          "pregunta": "[Texto de la pregunta]",
-          "opciones": [
-            "A", "B", "C", "D", "E"
-          ],
-          "correcta": 0,
-          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "20.1 Ángulos Verticales - Teoría",
-          "youtube_id": "ID_YOUTUBE_AQUI",
-          "pdf_link": "ENLACE_PDF_AQUI",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 21: Geometría Analítica y R.T. de cualquier magnitud",
-      "pdf_resuelto": "ENLACE_PDF_AQUI",
-      "preguntas": [
-        {
-          "pregunta": "[Texto de la pregunta]",
-          "opciones": [
-            "A", "B", "C", "D", "E"
-          ],
-          "correcta": 0,
-          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "21.1 R.T. Cualquier Magnitud - Teoría",
-          "youtube_id": "ID_YOUTUBE_AQUI",
-          "pdf_link": "ENLACE_PDF_AQUI",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 22: Reducción al Primer Cuadrante",
-      "pdf_resuelto": "ENLACE_PDF_AQUI",
-      "preguntas": [
-        {
-          "pregunta": "[Texto de la pregunta]",
-          "opciones": [
-            "A", "B", "C", "D", "E"
-          ],
-          "correcta": 0,
-          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "22.1 Reducción al I Cuadrante - Teoría",
-          "youtube_id": "ID_YOUTUBE_AQUI",
-          "pdf_link": "ENLACE_PDF_AQUI",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 23: Circunferencia Trigonométrica (C.T.)",
-      "pdf_resuelto": "ENLACE_PDF_AQUI",
-      "preguntas": [
-        {
-          "pregunta": "[Texto de la pregunta]",
-          "opciones": [
-            "A", "B", "C", "D", "E"
-          ],
-          "correcta": 0,
-          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "23.1 C.T. - Teoría",
-          "youtube_id": "ID_YOUTUBE_AQUI",
-          "pdf_link": "ENLACE_PDF_AQUI",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 24: Identidades Trigonométricas (Fundamentales y Compuestos)",
-      "pdf_resuelto": "ENLACE_PDF_AQUI",
-      "preguntas": [
-        {
-          "pregunta": "[Texto de la pregunta]",
-          "opciones": [
-            "A", "B", "C", "D", "E"
-          ],
-          "correcta": 0,
-          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "24.1 Identidades - Teoría",
+          "titulo": "24.1 Pronto",
           "youtube_id": "ID_YOUTUBE_AQUI",
           "pdf_link": "ENLACE_PDF_AQUI",
           "gratis": true
