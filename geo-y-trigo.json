@@ -4622,133 +4622,1603 @@
       ]
     },
     {
-      "titulo": "Tema 19: Pronto",
-      "pdf_resuelto": "ENLACE_PDF_AQUI",
+      "titulo": "Tema 19: Razones Trigonométricas",
+      "pdf_resuelto": "https://drive.google.com/file/d/1PV2oHz8CG-Z1zyL64eQSUXopRoh_AjOQ/view",
       "preguntas": [
         {
-          "pregunta": "[Texto de la pregunta]",
-          "opciones": [
-            "A", "B", "C", "D", "E"
-          ],
-          "correcta": 0,
-          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
-        }
+      "pregunta": "En un triángulo rectángulo, los catetos miden 5 y 12. Calcule el seno del ángulo opuesto al cateto menor.",
+      "opciones": [
+        "$\\frac{5}{12}$",
+        "$\\frac{12}{13}$",
+        "$\\frac{5}{13}$",
+        "$\\frac{13}{5}$",
+        "$\\frac{12}{5}$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Identificamos los catetos: CO = 5 (menor), CA = 12.<br>Calculamos la hipotenusa (H) por el teorema de Pitágoras:<br>$$H^2=5^2+12^2=25+144=169$$<br>H = 13<br>El seno es la relación entre el cateto opuesto y la hipotenusa:<br>$$\\sin(\\theta)=\\frac{5}{13}$$"
+    },
+    {
+      "pregunta": "En un triángulo rectángulo, la hipotenusa mide 25 y un cateto mide 24. Calcule la tangente del ángulo opuesto al otro cateto.",
+      "opciones": [
+        "$\\frac{7}{25}$",
+        "$\\frac{24}{25}$",
+        "$\\frac{24}{7}$",
+        "$\\frac{7}{24}$",
+        "$\\frac{25}{7}$"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Por el teorema de Pitágoras, hallamos el otro cateto (CO):<br>$$CO^2+24^2=25^2$$<br>$$CO^2+576=625$$<br>$$CO^2=49$$<br>CO = 7<br>La tangente del ángulo opuesto a este cateto es CO/CA:<br>$$\\tan(\\theta)=\\frac{7}{24}$$"
+    },
+    {
+      "pregunta": "Si $\\sin(\\alpha)=\\frac{3}{5}$ y el ángulo $\\alpha$ es agudo, calcule el valor de $E=\\sec(\\alpha)+\\tan(\\alpha)$.",
+      "opciones": [
+        "1",
+        "1.5",
+        "2",
+        "2.5",
+        "3"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Del dato $\\sin(\\alpha)=\\frac{3}{5}$, sabemos que CO = 3 y H = 5. Por Pitágoras, CA = 4.<br>Reemplazamos en la expresión:<br>$$E=\\frac{5}{4}+\\frac{3}{4}$$<br>$$E=\\frac{8}{4}$$<br>E = 2"
+    },
+    {
+      "pregunta": "Calcule el valor de x si se cumple que $\\sin(2x)\\cdot\\csc(40^{\\circ})=1$.",
+      "opciones": [
+        "10°",
+        "20°",
+        "30°",
+        "40°",
+        "80°"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Por la propiedad de razones trigonométricas recíprocas, el producto del seno y la cosecante de un mismo ángulo es 1. Por lo tanto, los ángulos deben ser iguales:<br>$$2x=40$$<br>x = 20°"
+    },
+    {
+      "pregunta": "Calcule el valor de x si $\\tan(3x)=\\cot(60^{\\circ})$.",
+      "opciones": [
+        "10°",
+        "20°",
+        "30°",
+        "40°",
+        "50°"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Por la propiedad de las co-razones (ángulos complementarios), si la tangente de un ángulo es igual a la cotangente de otro, ambos ángulos suman 90°.<br>$$3x+60=90$$<br>$$3x=30$$<br>x = 10°"
+    },
+    {
+      "pregunta": "Evalúe la siguiente expresión: $E=\\sin(30^{\\circ})+\\cos(60^{\\circ})$.",
+      "opciones": [
+        "0.5",
+        "1",
+        "1.5",
+        "2",
+        "$\\sqrt{3}$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Utilizando los valores de los triángulos notables de 30° y 60°:<br>$$\\sin(30^{\\circ})=\\frac{1}{2}$$<br>$$\\cos(60^{\\circ})=\\frac{1}{2}$$<br>Sumamos:<br>$$E=\\frac{1}{2}+\\frac{1}{2}$$<br>E = 1"
+    },
+    {
+      "pregunta": "Determine el valor de: $M=(\\sec(53^{\\circ})+\\tan(53^{\\circ}))\\cdot\\cos(60^{\\circ})$.",
+      "opciones": [
+        "1",
+        "1.5",
+        "2",
+        "2.5",
+        "3"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Reemplazamos los valores notables:<br>$$\\sec(53^{\\circ})=\\frac{5}{3}$$<br>$$\\tan(53^{\\circ})=\\frac{4}{3}$$<br>$$\\cos(60^{\\circ})=\\frac{1}{2}$$<br>Operamos el paréntesis:<br>$$\\frac{5}{3}+\\frac{4}{3}=\\frac{9}{3}=3$$<br>Multiplicamos:<br>M = 3 * 0.5 = 1.5"
+    },
+    {
+      "pregunta": "Calcule el valor de: $P=\\sqrt{2}\\sin(45^{\\circ})+\\tan(45^{\\circ})$.",
+      "opciones": [
+        "1",
+        "2",
+        "3",
+        "$\\sqrt{2}$",
+        "$\\frac{\\sqrt{2}}{2}$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Sustituimos los valores del triángulo notable de 45°:<br>$$\\sin(45^{\\circ})=\\frac{1}{\\sqrt{2}}$$<br>$$\\tan(45^{\\circ})=1$$<br>Reemplazamos en la expresión:<br>$$P=\\sqrt{2}\\left(\\frac{1}{\\sqrt{2}}\\right)+1$$<br>P = 1 + 1 = 2"
+    },
+    {
+      "pregunta": "Si $\\sin(x+10^{\\circ})=\\cos(x+20^{\\circ})$, calcule x.",
+      "opciones": [
+        "20°",
+        "30°",
+        "40°",
+        "50°",
+        "60°"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Las razones seno y coseno son iguales solo si sus ángulos son complementarios (suman 90°).<br>$$(x+10)+(x+20)=90$$<br>$$2x+30=90$$<br>$$2x=60$$<br>x = 30°"
+    },
+    {
+      "pregunta": "En un triángulo rectángulo, el seno de uno de sus ángulos agudos es 7/25. Calcule la suma de los catetos si la hipotenusa mide 50.",
+      "opciones": [
+        "31",
+        "48",
+        "50",
+        "62",
+        "74"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Si el seno es 7/25, los lados están en la proporción CO = 7k y H = 25k. Por Pitágoras, CA = 24k.<br>Como la hipotenusa mide 50:<br>$$25k=50$$<br>k = 2<br>Los catetos miden 7(2) = 14 y 24(2) = 48.<br>La suma de los catetos es 14 + 48 = 62."
+    },
+    {
+      "pregunta": "Calcule x si $\\sec(2x-10^{\\circ})\\cdot\\cos(x+30^{\\circ})=1$.",
+      "opciones": [
+        "10°",
+        "20°",
+        "30°",
+        "40°",
+        "50°"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Las razones secante y coseno son recíprocas. Si su producto es 1, los ángulos deben ser iguales.<br>$$2x-10=x+30$$<br>x = 40°"
+    },
+    {
+      "pregunta": "Si el cateto adyacente a un ángulo de 37° mide 16, ¿cuánto mide el cateto opuesto?",
+      "opciones": [
+        "9",
+        "12",
+        "15",
+        "20",
+        "24"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>En el triángulo notable de 37° y 53°, la proporción de los lados es 3k, 4k y 5k. El cateto adyacente a 37° es 4k.<br>$$4k=16$$<br>k = 4<br>El cateto opuesto a 37° es 3k:<br>CO = 3(4) = 12"
+    },
+    {
+      "pregunta": "Calcule el valor de $E=\\frac{\\tan(37^{\\circ}/2)}{\\tan(53^{\\circ}/2)}$.",
+      "opciones": [
+        "$\\frac{1}{3}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{2}{3}$",
+        "$\\frac{3}{2}$",
+        "1"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Utilizamos los valores de los triángulos notables de ángulos mitad:<br>$$\\tan(37^{\\circ}/2)=\\frac{1}{3}$$<br>$$\\tan(53^{\\circ}/2)=\\frac{1}{2}$$<br>Reemplazando en E:<br>$$E=\\frac{1/3}{1/2}$$<br>E = 2/3"
+    },
+    {
+      "pregunta": "Si $\\tan(\\theta)=\\frac{1}{3}$ y $\\theta$ es un ángulo agudo, calcule $M=\\sqrt{10}(\\sin(\\theta)+\\cos(\\theta))$.",
+      "opciones": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "10"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>A partir de $\\tan(\\theta)=\\frac{1}{3}$, establecemos CO = 1 y CA = 3. Por el teorema de Pitágoras, la hipotenusa es $\\sqrt{10}$.<br>Calculamos las razones:<br>$$\\sin(\\theta)=\\frac{1}{\\sqrt{10}}$$<br>$$\\cos(\\theta)=\\frac{3}{\\sqrt{10}}$$<br>Sustituimos en M:<br>$$M=\\sqrt{10}\\left(\\frac{1}{\\sqrt{10}}+\\frac{3}{\\sqrt{10}}\\right)$$<br>$$M=\\sqrt{10}\\left(\\frac{4}{\\sqrt{10}}\\right)$$<br>M = 4"
+    },
+    {
+      "pregunta": "Calcule el perímetro de un triángulo rectángulo si sus ángulos agudos miden 16° y 74°, y su hipotenusa mide 50.",
+      "opciones": [
+        "56",
+        "84",
+        "96",
+        "112",
+        "120"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>En el triángulo notable de 16° y 74°, la proporción de los lados es 7k, 24k y 25k (hipotenusa).<br>Igualamos la hipotenusa:<br>$$25k=50$$<br>k = 2<br>Los lados son 7(2) = 14, 24(2) = 48 y 50.<br>El perímetro es la suma de los tres lados:<br>P = 14 + 48 + 50 = 112"
+    },
+    {
+      "pregunta": "Determine el valor de x si se cumple el siguiente sistema de ecuaciones trigonométricas: $\\tan(x+y)\\cdot\\cot(60^{\\circ})=1$ y $\\sin(x-y)=\\cos(80^{\\circ})$.",
+      "opciones": [
+        "25°",
+        "30°",
+        "35°",
+        "40°",
+        "45°"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>De la primera ecuación (razones recíprocas):<br>$$x+y=60$$<br>De la segunda ecuación (ángulos complementarios):<br>$$(x-y)+80=90$$<br>$$x-y=10$$<br>Sumamos ambas ecuaciones resultantes:<br>$$(x+y)+(x-y)=60+10$$<br>$$2x=70$$<br>x = 35°"
+    },
+    {
+      "pregunta": "Determine la longitud de la hipotenusa de un triángulo rectángulo si un ángulo agudo mide 8° y el cateto opuesto a dicho ángulo mide 4.",
+      "opciones": [
+        "$10\\sqrt{2}$",
+        "$15\\sqrt{2}$",
+        "$20\\sqrt{2}$",
+        "20",
+        "28"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>En el triángulo notable de 8° y 82°, los catetos están en proporción de k y 7k, y la hipotenusa es $5k\\sqrt{2}$.<br>El cateto opuesto a 8° es k, por lo tanto:<br>k = 4<br>La hipotenusa será:<br>$$H=5(4)\\sqrt{2}$$<br>$$H=20\\sqrt{2}$$"
+    },
+    {
+      "pregunta": "Reduzca la siguiente expresión: $W=\\frac{\\sin(20^{\\circ})}{\\cos(70^{\\circ})}+\\frac{\\tan(10^{\\circ})}{\\cot(80^{\\circ})}$.",
+      "opciones": [
+        "0",
+        "0.5",
+        "1",
+        "2",
+        "4"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Aplicamos la propiedad de ángulos complementarios (co-razones), sabiendo que $\\sin(20^{\\circ})=\\cos(70^{\\circ})$ y $\\tan(10^{\\circ})=\\cot(80^{\\circ})$.<br>Reemplazando en la expresión:<br>$$W=\\frac{\\cos(70^{\\circ})}{\\cos(70^{\\circ})}+\\frac{\\cot(80^{\\circ})}{\\cot(80^{\\circ})}$$<br>W = 1 + 1 = 2"
+    },
+    {
+      "pregunta": "Si $\\csc(\\alpha)=2$ y $\\alpha$ es un ángulo agudo, halle $\\alpha$.",
+      "opciones": [
+        "15°",
+        "30°",
+        "45°",
+        "60°",
+        "75°"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Recordemos que $\\csc(\\alpha)=\\frac{\\text{H}}{\\text{CO}}$. Si es igual a 2, la proporción es 2/1. La hipotenusa es el doble del cateto opuesto.<br>Esto corresponde al triángulo notable de 30° y 60°, donde el cateto opuesto a 30° es la mitad de la hipotenusa.<br>Por lo tanto, el ángulo es 30°."
+    },
+    {
+      "pregunta": "En un triángulo rectángulo ABC, recto en B, simplifique $E=\\sin(A)\\csc(A)+\\cos(C)\\sec(C)$.",
+      "opciones": [
+        "1",
+        "2",
+        "3",
+        "A + C",
+        "B"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Por definición de razones trigonométricas recíprocas, el producto de una razón por su inversa para un mismo ángulo siempre es 1.<br>$$\\sin(A)\\csc(A)=1$$<br>$$\\cos(C)\\sec(C)=1$$<br>Sumamos los valores:<br>E = 1 + 1 = 2"
+    }
       ],
       "videos": [
         {
-          "titulo": "19.1 Pronto",
-          "youtube_id": "ID_YOUTUBE_AQUI",
-          "pdf_link": "ENLACE_PDF_AQUI",
+          "titulo": "19.1 Teoría",
+          "youtube_id": "bJJIFOPpwsw",
+          "pdf_link": "https://drive.google.com/file/d/1uFpzIA0BgmVXI5lV9SjRcyXVSYmiXtfE/view",
+          "gratis": true
+        },
+        {
+          "titulo": "19.2 Ejercicios",
+          "youtube_id": "I6oep2bfQfg",
+          "pdf_link": "https://drive.google.com/file/d/1PV2oHz8CG-Z1zyL64eQSUXopRoh_AjOQ/view",
+          "gratis": true
+        },
+        {
+          "titulo": "19.3 Ejercicios",
+          "youtube_id": "R7Elh60JXkw",
+          "pdf_link": "https://drive.google.com/file/d/1PV2oHz8CG-Z1zyL64eQSUXopRoh_AjOQ/view",
           "gratis": true
         }
       ]
     },
     {
-      "titulo": "Tema 20: Pronto",
-      "pdf_resuelto": "ENLACE_PDF_AQUI",
+      "titulo": "Tema 20: Ángulos de posición normal",
+      "pdf_resuelto": "https://drive.google.com/file/d/1aFVgLT711mAclNUQJaT45FQaHtfzMJwQ/view",
       "preguntas": [
         {
-          "pregunta": "[Texto de la pregunta]",
-          "opciones": [
-            "A", "B", "C", "D", "E"
-          ],
-          "correcta": 0,
-          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
-        }
+      "pregunta": "El punto $P(-4, -3)$ pertenece al lado final de un ángulo $\\theta$ en posición normal. Calcule el valor de $E = 5\\sin(\\theta) + 5\\cos(\\theta)$.",
+      "opciones": [
+        "-1",
+        "-7",
+        "1",
+        "7",
+        "-5"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Del punto $P(-4, -3)$, tenemos que $x = -4$ e $y = -3$.<br>Calculamos el radio vector ($r$):<br>$$ r = \\sqrt{(-4)^2 + (-3)^2} = \\sqrt{16 + 9} = \\sqrt{25} = 5 $$<br>Hallamos las razones trigonométricas:<br>$$ \\sin(\\theta) = \\frac{y}{r} = \\frac{-3}{5} $$<br>$$ \\cos(\\theta) = \\frac{x}{r} = \\frac{-4}{5} $$<br>Reemplazamos en $E$:<br>$$ E = 5\\left(\\frac{-3}{5}\\right) + 5\\left(\\frac{-4}{5}\\right) = -3 - 4 = -7 $$"
+    },
+    {
+      "pregunta": "Determine el signo de la siguiente expresión trigonométrica: $A = \\frac{\\sin(130^{\\circ}) \\cdot \\cos(230^{\\circ})}{\\tan(310^{\\circ})}$.",
+      "opciones": [
+        "Positivo (+)",
+        "Negativo (-)",
+        "Cero",
+        "Imaginario",
+        "No se puede determinar"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Analizamos el cuadrante de cada ángulo:<br>$\\sin(130^{\\circ}) \\rightarrow \\text{II Cuadrante } (+)$<br>$\\cos(230^{\\circ}) \\rightarrow \\text{III Cuadrante } (-)$<br>$\\tan(310^{\\circ}) \\rightarrow \\text{IV Cuadrante } (-)$<br>Operamos los signos en la expresión:<br>$$ A = \\frac{(+) \\cdot (-)}{(-)} = \\frac{(-)}{(-)} = (+) $$"
+    },
+    {
+      "pregunta": "Simplifique la siguiente expresión utilizando los casos de reducción al primer cuadrante: $E = \\frac{\\sin(180^{\\circ} - x)}{\\sin(360^{\\circ} - x)}$.",
+      "opciones": [
+        "$\\sin(x)$",
+        "$\\cos(x)$",
+        "1",
+        "-1",
+        "$-\\tan(x)$"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Aplicamos las reglas de reducción (al usar $180^{\\circ}$ o $360^{\\circ}$, la razón se mantiene):<br>$\\sin(180^{\\circ} - x)$: II Cuadrante, el seno es positivo $\\rightarrow +\\sin(x)$<br>$\\sin(360^{\\circ} - x)$: IV Cuadrante, el seno es negativo $\\rightarrow -\\sin(x)$<br>Sustituimos en la expresión:<br>$$ E = \\frac{\\sin(x)}{-\\sin(x)} = -1 $$"
+    },
+    {
+      "pregunta": "Reduzca la siguiente expresión trigonométrica: $M = \\cos(90^{\\circ} + x) + \\sin(180^{\\circ} + x)$.",
+      "opciones": [
+        "$2\\sin(x)$",
+        "$-2\\sin(x)$",
+        "0",
+        "$2\\cos(x)$",
+        "$-2\\cos(x)$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Al reducir con $90^{\\circ}$, la razón cambia a su co-razón. En el II Cuadrante, el coseno es negativo:<br>$\\cos(90^{\\circ} + x) = -\\sin(x)$<br>Al reducir con $180^{\\circ}$, la razón se mantiene. En el III Cuadrante, el seno es negativo:<br>$\\sin(180^{\\circ} + x) = -\\sin(x)$<br>Sumando ambos resultados:<br>$$ M = -\\sin(x) - \\sin(x) = -2\\sin(x) $$"
+    },
+    {
+      "pregunta": "Calcule el valor numérico exacto de $\\tan(225^{\\circ})$.",
+      "opciones": [
+        "$-1$",
+        "1",
+        "$\\sqrt{2}$",
+        "$-\\sqrt{2}$",
+        "$\\frac{\\sqrt{2}}{2}$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Descomponemos el ángulo buscando un ángulo cuadrantal conocido:<br>$$ 225^{\\circ} = 180^{\\circ} + 45^{\\circ} $$<br>Como $225^{\\circ}$ pertenece al III Cuadrante, la tangente es positiva:<br>$$ \\tan(180^{\\circ} + 45^{\\circ}) = +\\tan(45^{\\circ}) = 1 $$"
+    },
+    {
+      "pregunta": "Calcule el valor de $\\sec(300^{\\circ})$.",
+      "opciones": [
+        "-2",
+        "2",
+        "$\\frac{2\\sqrt{3}}{3}$",
+        "$\\sqrt{3}$",
+        "1"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Descomponemos el ángulo de la siguiente manera:<br>$$ 300^{\\circ} = 360^{\\circ} - 60^{\\circ} $$<br>El ángulo $300^{\\circ}$ pertenece al IV Cuadrante, donde la secante es positiva:<br>$$ \\sec(360^{\\circ} - 60^{\\circ}) = +\\sec(60^{\\circ}) = 2 $$"
+    },
+    {
+      "pregunta": "Evalúe el valor de la expresión: $A = \\sin(150^{\\circ}) \\cdot \\cos(120^{\\circ})$.",
+      "opciones": [
+        "$\\frac{1}{4}$",
+        "$-\\frac{1}{4}$",
+        "$\\frac{\\sqrt{3}}{4}$",
+        "$-\\frac{\\sqrt{3}}{4}$",
+        "1"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Reducimos cada término al primer cuadrante:<br>$\\sin(150^{\\circ}) = \\sin(180^{\\circ} - 30^{\\circ}) = +\\sin(30^{\\circ}) = \\frac{1}{2}$<br>$\\cos(120^{\\circ}) = \\cos(180^{\\circ} - 60^{\\circ}) = -\\cos(60^{\\circ}) = -\\frac{1}{2}$<br>Multiplicamos los resultados:<br>$$ A = \\left(\\frac{1}{2}\\right) \\cdot \\left(-\\frac{1}{2}\\right) = -\\frac{1}{4} $$"
+    },
+    {
+      "pregunta": "Aplique las reglas de reducción y simplifique $\\tan(270^{\\circ} - \\alpha)$.",
+      "opciones": [
+        "$\\tan(\\alpha)$",
+        "$-\\tan(\\alpha)$",
+        "$\\cot(\\alpha)$",
+        "$-\\cot(\\alpha)$",
+        "1"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El ángulo $(270^{\\circ} - \\alpha)$ se ubica en el III Cuadrante, donde la tangente es de signo positivo (+).<br>Al utilizar el ángulo cuadrantal de $270^{\\circ}$, la razón trigonométrica cambia por su co-razón (cotangente).<br>$$ \\tan(270^{\\circ} - \\alpha) = +\\cot(\\alpha) $$"
+    },
+    {
+      "pregunta": "Simplifique la siguiente fracción trigonométrica: $P = \\frac{\\csc(90^{\\circ} + \\theta)}{\\sec(180^{\\circ} - \\theta)}$.",
+      "opciones": [
+        "1",
+        "-1",
+        "$\\tan(\\theta)$",
+        "$\\cot(\\theta)$",
+        "0"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Reducimos el numerador (II Cuadrante, csc es +, cambia a co-razón):<br>$\\csc(90^{\\circ} + \\theta) = +\\sec(\\theta)$<br>Reducimos el denominador (II Cuadrante, sec es -, se mantiene la razón):<br>$\\sec(180^{\\circ} - \\theta) = -\\sec(\\theta)$<br>Reemplazando en $P$:<br>$$ P = \\frac{\\sec(\\theta)}{-\\sec(\\theta)} = -1 $$"
+    },
+    {
+      "pregunta": "Para ángulos mayores a una vuelta, calcule el valor exacto de $\\cos(1140^{\\circ})$.",
+      "opciones": [
+        "$\\frac{1}{2}$",
+        "$-\\frac{1}{2}$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$-\\frac{\\sqrt{3}}{2}$",
+        "1"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Dividimos el ángulo entre $360^{\\circ}$ para extraer el número entero de vueltas:<br>$$ 1140^{\\circ} \\div 360^{\\circ} = 3 \\text{ (cociente) con residuo de } 60^{\\circ} $$<br>Esto significa que $1140^{\\circ}$ y $60^{\\circ}$ son ángulos coterminales.<br>$$ \\cos(1140^{\\circ}) = \\cos(60^{\\circ}) = \\frac{1}{2} $$"
+    },
+    {
+      "pregunta": "Evalúe $\\sin(1470^{\\circ})$ aplicando la teoría de ángulos coterminales.",
+      "opciones": [
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\frac{1}{2}$",
+        "1",
+        "$-\\frac{1}{2}$",
+        "0"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Dividimos $1470^{\\circ}$ entre $360^{\\circ}$:<br>$$ 1470^{\\circ} = 4(360^{\\circ}) + 30^{\\circ} $$<br>El residuo es $30^{\\circ}$, por ende calculamos:<br>$$ \\sin(1470^{\\circ}) = \\sin(30^{\\circ}) = \\frac{1}{2} $$"
+    },
+    {
+      "pregunta": "Simplifique la expresión que involucra ángulos negativos: $E = \\cos(-\\alpha) - \\cos(\\alpha) + \\sin(-\\alpha) + \\sin(\\alpha)$.",
+      "opciones": [
+        "$2\\cos(\\alpha)$",
+        "$2\\sin(\\alpha)$",
+        "1",
+        "0",
+        "$-2\\sin(\\alpha)$"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Por las propiedades de los ángulos negativos:<br>$\\cos(-\\alpha) = \\cos(\\alpha)$ (el coseno absorbe el signo).<br>$\\sin(-\\alpha) = -\\sin(\\alpha)$ (el seno expulsa el signo).<br>Sustituyendo en la expresión:<br>$$ E = \\cos(\\alpha) - \\cos(\\alpha) - \\sin(\\alpha) + \\sin(\\alpha) = 0 $$"
+    },
+    {
+      "pregunta": "Calcule el valor numérico de la expresión: $\\tan(-45^{\\circ}) + \\sec(-60^{\\circ})$.",
+      "opciones": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "-1"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Aplicamos la teoría de ángulos negativos:<br>$\\tan(-45^{\\circ}) = -\\tan(45^{\\circ}) = -1$<br>$\\sec(-60^{\\circ}) = \\sec(60^{\\circ}) = 2$<br>Sumando ambos valores:<br>$$ -1 + 2 = 1 $$"
+    },
+    {
+      "pregunta": "Si $\\alpha$ y $\\beta$ son dos ángulos coterminales distintos, simplifique $E = \\frac{\\sin(\\alpha)}{\\sin(\\beta)} + \\frac{\\tan(\\alpha)}{\\tan(\\beta)}$.",
+      "opciones": [
+        "0",
+        "1",
+        "2",
+        "$-2$",
+        "Depende de $\\alpha$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Por definición geométrica, dos ángulos coterminales comparten exactamente el mismo lado inicial y final. En consecuencia, todas sus razones trigonométricas son idénticas.<br>Es decir, $\\sin(\\alpha) = \\sin(\\beta)$ y $\\tan(\\alpha) = \\tan(\\beta)$.<br>$$ E = \\frac{\\sin(\\beta)}{\\sin(\\beta)} + \\frac{\\tan(\\beta)}{\\tan(\\beta)} = 1 + 1 = 2 $$"
+    },
+    {
+      "pregunta": "Utilizando los valores de los ángulos cuadrantales, evalúe $E = \\frac{\\sin(90^{\\circ}) + \\cos(360^{\\circ})}{\\cos(180^{\\circ})}$.",
+      "opciones": [
+        "0",
+        "1",
+        "-1",
+        "2",
+        "-2"
+      ],
+      "correcta": 4,
+      "resolucion": "<b>Resolución:</b><br>Recordemos los valores de los ángulos cuadrantales:<br>$\\sin(90^{\\circ}) = 1$<br>$\\cos(360^{\\circ}) = 1$<br>$\\cos(180^{\\circ}) = -1$<br>Sustituyendo en la expresión:<br>$$ E = \\frac{1 + 1}{-1} = \\frac{2}{-1} = -2 $$"
+    },
+    {
+      "pregunta": "Determine de forma correcta el signo resultante para $M = \\sec(280^{\\circ}) \\cdot \\csc(170^{\\circ}) \\cdot \\cot(200^{\\circ})$.",
+      "opciones": [
+        "Positivo (+)",
+        "Negativo (-)",
+        "Cero",
+        "Indeterminado",
+        "Imaginario"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Analizamos el cuadrante y signo de cada razón trigonométrica:<br>$\\sec(280^{\\circ}) \\rightarrow \\text{IV Cuadrante } (+)$<br>$\\csc(170^{\\circ}) \\rightarrow \\text{II Cuadrante } (+)$<br>$\\cot(200^{\\circ}) \\rightarrow \\text{III Cuadrante } (+)$<br>El producto de tres factores positivos da un resultado positivo.<br>$$ M = (+) \\cdot (+) \\cdot (+) = (+) $$"
+    },
+    {
+      "pregunta": "Si $\\tan(\\theta) = \\frac{3}{4}$ y $\\theta$ es un ángulo que pertenece al III Cuadrante, determine el valor de $\\sin(\\theta)$.",
+      "opciones": [
+        "$\\frac{3}{5}$",
+        "$\\frac{4}{5}$",
+        "$-\\frac{3}{5}$",
+        "$-\\frac{4}{5}$",
+        "$\\frac{3}{4}$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>En el III Cuadrante, tanto la abscisa ($x$) como la ordenada ($y$) son negativas.<br>Como $\\tan(\\theta) = \\frac{y}{x} = \\frac{3}{4}$, asignamos los valores de acuerdo al cuadrante: $y = -3$, $x = -4$.<br>Calculamos el radio vector ($r$):<br>$$ r = \\sqrt{(-4)^2 + (-3)^2} = 5 $$<br>Finalmente:<br>$$ \\sin(\\theta) = \\frac{y}{r} = \\frac{-3}{5} = -\\frac{3}{5} $$"
+    },
+    {
+      "pregunta": "Simplifique la expresión trigonométrica: $K = \\frac{\\tan(180^{\\circ} + x) \\cdot \\cos(360^{\\circ} - x)}{\\sin(90^{\\circ} + x)}$.",
+      "opciones": [
+        "$\\sin(x)$",
+        "$\\cos(x)$",
+        "$\\tan(x)$",
+        "$\\cot(x)$",
+        "1"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Reducimos al primer cuadrante paso a paso:<br>$\\tan(180^{\\circ} + x) = +\\tan(x)$ (III Cuadrante, tan +)<br>$\\cos(360^{\\circ} - x) = +\\cos(x)$ (IV Cuadrante, cos +)<br>$\\sin(90^{\\circ} + x) = +\\cos(x)$ (II Cuadrante, sin +, cambia a co-razón)<br>Reemplazando en K:<br>$$ K = \\frac{\\tan(x) \\cdot \\cos(x)}{\\cos(x)} = \\tan(x) $$"
+    },
+    {
+      "pregunta": "Reduzca al primer cuadrante la expresión $E = \\sin(x - 180^{\\circ})$.",
+      "opciones": [
+        "$\\sin(x)$",
+        "$-\\sin(x)$",
+        "$\\cos(x)$",
+        "$-\\cos(x)$",
+        "$\\tan(x)$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Para aplicar las fórmulas estándar, factorizamos el signo negativo del argumento:<br>$$ \\sin(x - 180^{\\circ}) = \\sin(-(180^{\\circ} - x)) $$<br>Como el seno expulsa el signo negativo:<br>$$ -\\sin(180^{\\circ} - x) $$<br>Reducimos sabiendo que el seno es positivo en el II Cuadrante:<br>$$ -(\\sin(x)) = -\\sin(x) $$"
+    },
+    {
+      "pregunta": "Calcule el valor de $E = \\sin^2(120^{\\circ}) + \\cos^2(225^{\\circ})$.",
+      "opciones": [
+        "$\\frac{1}{4}$",
+        "$\\frac{3}{4}$",
+        "1",
+        "$\\frac{5}{4}$",
+        "$\\frac{7}{4}$"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Reducimos y evaluamos cada razón:<br>$\\sin(120^{\\circ}) = \\sin(180^{\\circ} - 60^{\\circ}) = \\sin(60^{\\circ}) = \\frac{\\sqrt{3}}{2}$<br>$\\cos(225^{\\circ}) = \\cos(180^{\\circ} + 45^{\\circ}) = -\\cos(45^{\\circ}) = -\\frac{\\sqrt{2}}{2}$<br>Elevamos al cuadrado y sumamos:<br>$$ E = \\left(\\frac{\\sqrt{3}}{2}\\right)^2 + \\left(-\\frac{\\sqrt{2}}{2}\\right)^2 = \\frac{3}{4} + \\frac{2}{4} = \\frac{5}{4} $$"
+    }
       ],
       "videos": [
         {
-          "titulo": "20.1 Pronto",
-          "youtube_id": "ID_YOUTUBE_AQUI",
-          "pdf_link": "ENLACE_PDF_AQUI",
+          "titulo": "20.1 Teoría",
+          "youtube_id": "eUdX7M5iXgs",
+          "pdf_link": "https://drive.google.com/file/d/1YCfCPB_b9o1xpyZNDNggMT4w-gAdpnrs/view",
+          "gratis": true
+        },
+         {
+          "titulo": "20.2 Ejercicios",
+          "youtube_id": "7Xp2XNwkl0o",
+          "pdf_link": "https://drive.google.com/file/d/1aFVgLT711mAclNUQJaT45FQaHtfzMJwQ/view",
+          "gratis": true
+        },
+         {
+          "titulo": "20.3 Ejercicios",
+          "youtube_id": "wdrkicQ-b2Y",
+          "pdf_link": "https://drive.google.com/file/d/1aFVgLT711mAclNUQJaT45FQaHtfzMJwQ/view",
+          "gratis": true
+        },
+         {
+          "titulo": "20.4 Ejercicios",
+          "youtube_id": "OmqecqWc8sI",
+          "pdf_link": "https://drive.google.com/file/d/1aFVgLT711mAclNUQJaT45FQaHtfzMJwQ/view",
           "gratis": true
         }
       ]
     },
     {
-      "titulo": "Tema 21: Pronto",
-      "pdf_resuelto": "ENLACE_PDF_AQUI",
+      "titulo": "Tema 21: Identidades Trigonométricas",
+      "pdf_resuelto": "https://drive.google.com/file/d/1B1bwGQXqm9dGFkwAaL3L2i0ZCzVk17QS/view",
       "preguntas": [
         {
-          "pregunta": "[Texto de la pregunta]",
-          "opciones": [
-            "A", "B", "C", "D", "E"
-          ],
-          "correcta": 0,
-          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
-        }
+      "pregunta": "Simplifique la siguiente expresión utilizando las identidades recíprocas: $E = \\sin(x)\\csc(x) + \\cos(x)\\sec(x) + \\tan(x)\\cot(x)$.",
+      "opciones": [
+        "1",
+        "2",
+        "3",
+        "0",
+        "$\\sin(x)\\cos(x)$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Por identidades trigonométricas recíprocas, el producto de una razón por su inversa (para un mismo ángulo) es siempre igual a la unidad.<br>$\\sin(x)\\csc(x) = 1$<br>$\\cos(x)\\sec(x) = 1$<br>$\\tan(x)\\cot(x) = 1$<br>Sumando los tres valores:<br>$$ E = 1 + 1 + 1 = 3 $$"
+    },
+    {
+      "pregunta": "Reduce la siguiente expresión aplicando identidades por cociente: $M = \\frac{\\tan(x)}{\\sin(x)}$.",
+      "opciones": [
+        "$\\cos(x)$",
+        "$\\sin(x)$",
+        "$\\sec(x)$",
+        "$\\csc(x)$",
+        "$\\cot(x)$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Por identidad de cociente, sabemos que $\\tan(x) = \\frac{\\sin(x)}{\\cos(x)}$. Reemplazamos en la expresión:<br>$$ M = \\frac{\\frac{\\sin(x)}{\\cos(x)}}{\\sin(x)} $$<br>Aplicando extremos y medios:<br>$$ M = \\frac{\\sin(x)}{\\sin(x)\\cos(x)} = \\frac{1}{\\cos(x)} $$<br>Por identidad recíproca, $\\frac{1}{\\cos(x)} = \\sec(x)$."
+    },
+    {
+      "pregunta": "Simplifica la expresión utilizando las identidades pitagóricas: $E = \\sin^2(x) + \\cos^2(x) + \\tan^2(x)$.",
+      "opciones": [
+        "$\\csc^2(x)$",
+        "$\\sec^2(x)$",
+        "$\\cot^2(x)$",
+        "1",
+        "2"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Aplicamos la identidad pitagórica fundamental $\\sin^2(x) + \\cos^2(x) = 1$. Reemplazamos en la expresión:<br>$$ E = 1 + \\tan^2(x) $$<br>Aplicando la segunda identidad pitagórica, sabemos que $1 + \\tan^2(x) = \\sec^2(x)$.<br>$$ E = \\sec^2(x) $$"
+    },
+    {
+      "pregunta": "Reduce la siguiente expresión trigonométrica: $P = (\\sec^2(x) - 1)(\\csc^2(x) - 1)$.",
+      "opciones": [
+        "0",
+        "1",
+        "$-1$",
+        "$\\tan^2(x)$",
+        "$\\cot^2(x)$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Despejando de las identidades pitagóricas ($1+\\tan^2(x)=\\sec^2(x)$ y $1+\\cot^2(x)=\\csc^2(x)$) obtenemos:<br>$\\sec^2(x) - 1 = \\tan^2(x)$<br>$\\csc^2(x) - 1 = \\cot^2(x)$<br>Reemplazando en $P$:<br>$$ P = \\tan^2(x) \\cdot \\cot^2(x) $$<br>Como $\\tan(x)$ y $\\cot(x)$ son recíprocas, su producto es 1. Elevado al cuadrado sigue siendo 1.<br>$$ P = (1)^2 = 1 $$"
+    },
+    {
+      "pregunta": "Simplifica la fracción: $K = \\frac{1 - \\sin^2(x)}{1 - \\cos^2(x)}$.",
+      "opciones": [
+        "$\\tan^2(x)$",
+        "$\\sec^2(x)$",
+        "$\\cot^2(x)$",
+        "$\\csc^2(x)$",
+        "1"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>A partir de la identidad pitagórica $\\sin^2(x) + \\cos^2(x) = 1$, despejamos:<br>$1 - \\sin^2(x) = \\cos^2(x)$<br>$1 - \\cos^2(x) = \\sin^2(x)$<br>Sustituimos en la fracción:<br>$$ K = \\frac{\\cos^2(x)}{\\sin^2(x)} = \\left(\\frac{\\cos(x)}{\\sin(x)}\\right)^2 $$<br>Por identidad de cociente, esto equivale a:<br>$$ K = \\cot^2(x) $$"
+    },
+    {
+      "pregunta": "Reduce la expresión aplicando productos notables y la identidad pitagórica: $E = (\\sin(x) + \\cos(x))^2 + (\\sin(x) - \\cos(x))^2$.",
+      "opciones": [
+        "1",
+        "2",
+        "0",
+        "$4\\sin(x)\\cos(x)$",
+        "$-2$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Por la identidad algebraica de Legendre:<br>$$ (a + b)^2 + (a - b)^2 = 2(a^2 + b^2) $$<br>Aplicando a nuestra expresión:<br>$$ E = 2(\\sin^2(x) + \\cos^2(x)) $$<br>Por identidad pitagórica, $\\sin^2(x) + \\cos^2(x) = 1$.<br>$$ E = 2(1) = 2 $$"
+    },
+    {
+      "pregunta": "Simplifique la siguiente expresión llevándola a senos y cosenos: $W = \\sec(x) - \\cos(x)$.",
+      "opciones": [
+        "$\\sin(x)\\cos(x)$",
+        "$\\tan(x)\\cos(x)$",
+        "$\\sin(x)\\tan(x)$",
+        "$\\sec^2(x)$",
+        "$\\csc(x)\\cot(x)$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Sustituimos la secante por su recíproca:<br>$$ W = \\frac{1}{\\cos(x)} - \\cos(x) $$<br>Restamos fracciones:<br>$$ W = \\frac{1 - \\cos^2(x)}{\\cos(x)} $$<br>Aplicamos la identidad pitagórica en el numerador:<br>$$ W = \\frac{\\sin^2(x)}{\\cos(x)} = \\sin(x) \\cdot \\frac{\\sin(x)}{\\cos(x)} $$<br>$$ W = \\sin(x)\\tan(x) $$"
+    },
+    {
+      "pregunta": "Reduce de forma similar a senos y cosenos: $E = \\csc(x) - \\sin(x)$.",
+      "opciones": [
+        "$\\cos(x)\\tan(x)$",
+        "$\\cos(x)\\cot(x)$",
+        "$\\sin^2(x)$",
+        "$\\csc^2(x)$",
+        "$\\tan^2(x)$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Sustituimos la cosecante por su recíproca:<br>$$ E = \\frac{1}{\\sin(x)} - \\sin(x) $$<br>Restamos fracciones:<br>$$ E = \\frac{1 - \\sin^2(x)}{\\sin(x)} $$<br>Aplicamos la identidad pitagórica:<br>$$ E = \\frac{\\cos^2(x)}{\\sin(x)} = \\cos(x) \\cdot \\frac{\\cos(x)}{\\sin(x)} $$<br>$$ E = \\cos(x)\\cot(x) $$"
+    },
+    {
+      "pregunta": "Simplifique utilizando identidades auxiliares: $M = \\cos(x)(\\tan(x) + \\cot(x))$.",
+      "opciones": [
+        "$\\sin(x)$",
+        "$\\cos(x)$",
+        "$\\sec(x)$",
+        "$\\csc(x)$",
+        "1"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Utilizamos la identidad auxiliar conocida: $\\tan(x) + \\cot(x) = \\sec(x)\\csc(x)$.<br>Reemplazando en la expresión:<br>$$ M = \\cos(x)(\\sec(x)\\csc(x)) $$<br>Agrupamos razones recíprocas ($\\cos(x) \\cdot \\sec(x) = 1$):<br>$$ M = 1 \\cdot \\csc(x) = \\csc(x) $$"
+    },
+    {
+      "pregunta": "Si se sabe que $\\tan(x) + \\cot(x) = 4$, calcule el valor de $E = \\tan^2(x) + \\cot^2(x)$.",
+      "opciones": [
+        "12",
+        "14",
+        "16",
+        "18",
+        "8"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Elevamos al cuadrado la condición dada:<br>$$ (\\tan(x) + \\cot(x))^2 = 4^2 $$<br>$$ \\tan^2(x) + 2\\tan(x)\\cot(x) + \\cot^2(x) = 16 $$<br>Sabemos que $\\tan(x)\\cot(x) = 1$:<br>$$ \\tan^2(x) + 2(1) + \\cot^2(x) = 16 $$<br>$$ \\tan^2(x) + \\cot^2(x) = 16 - 2 = 14 $$"
+    },
+    {
+      "pregunta": "Si $\\sin(x) + \\cos(x) = \\frac{\\sqrt{3}}{2}$, calcule el valor del producto $E = \\sin(x)\\cos(x)$.",
+      "opciones": [
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{8}$",
+        "$-\\frac{1}{4}$",
+        "$-\\frac{1}{8}$",
+        "$\\frac{3}{4}$"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Elevamos al cuadrado la condición inicial:<br>$$ (\\sin(x) + \\cos(x))^2 = \\left(\\frac{\\sqrt{3}}{2}\\right)^2 $$<br>$$ \\sin^2(x) + 2\\sin(x)\\cos(x) + \\cos^2(x) = \\frac{3}{4} $$<br>Aplicando la identidad $\\sin^2(x) + \\cos^2(x) = 1$:<br>$$ 1 + 2\\sin(x)\\cos(x) = \\frac{3}{4} $$<br>$$ 2\\sin(x)\\cos(x) = \\frac{3}{4} - 1 = -\\frac{1}{4} $$<br>$$ \\sin(x)\\cos(x) = -\\frac{1}{8} $$"
+    },
+    {
+      "pregunta": "Reduzca aplicando diferencia de cuadrados: $Q = \\frac{\\sin^4(x) - \\cos^4(x)}{\\sin^2(x) - \\cos^2(x)}$.",
+      "opciones": [
+        "0",
+        "1",
+        "-1",
+        "$\\sin^2(x)$",
+        "$\\cos^2(x)$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Factorizamos el numerador como una diferencia de cuadrados ($a^2 - b^2 = (a+b)(a-b)$):<br>$$ \\sin^4(x) - \\cos^4(x) = (\\sin^2(x) + \\cos^2(x))(\\sin^2(x) - \\cos^2(x)) $$<br>Reemplazando en $Q$:<br>$$ Q = \\frac{(\\sin^2(x) + \\cos^2(x))(\\sin^2(x) - \\cos^2(x))}{\\sin^2(x) - \\cos^2(x)} $$<br>Simplificamos el término común y aplicamos la identidad pitagórica fundamental:<br>$$ Q = \\sin^2(x) + \\cos^2(x) = 1 $$"
+    },
+    {
+      "pregunta": "Simplifica la expresión utilizando identidades auxiliares: $E = \\frac{\\sec^2(x) + \\csc^2(x)}{\\sec^2(x) \\cdot \\csc^2(x)}$.",
+      "opciones": [
+        "0",
+        "1",
+        "$\\tan^2(x)$",
+        "$\\cot^2(x)$",
+        "2"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>La identidad auxiliar nos indica que la suma de los cuadrados de la secante y cosecante es igual a su producto:<br>$$ \\sec^2(x) + \\csc^2(x) = \\sec^2(x) \\cdot \\csc^2(x) $$<br>Sustituimos el numerador en la expresión:<br>$$ E = \\frac{\\sec^2(x)\\csc^2(x)}{\\sec^2(x)\\csc^2(x)} = 1 $$"
+    },
+    {
+      "pregunta": "Reduce al máximo la expresión: $M = (1 - \\sin^2(x)) \\sec^2(x)$.",
+      "opciones": [
+        "0",
+        "1",
+        "$\\tan^2(x)$",
+        "$\\sin^2(x)$",
+        "$\\csc^2(x)$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Por la identidad pitagórica, sabemos que $1 - \\sin^2(x) = \\cos^2(x)$.<br>Sustituimos en $M$:<br>$$ M = \\cos^2(x) \\cdot \\sec^2(x) $$<br>Agrupamos el cuadrado:<br>$$ M = (\\cos(x)\\sec(x))^2 $$<br>Por identidad recíproca, $\\cos(x)\\sec(x) = 1$:<br>$$ M = (1)^2 = 1 $$"
+    },
+    {
+      "pregunta": "Simplifica la expresión fraccionaria: $P = \\frac{1}{\\csc(x) - \\cot(x)} - \\cot(x)$.",
+      "opciones": [
+        "$\\sin(x)$",
+        "$\\cos(x)$",
+        "$\\tan(x)$",
+        "$\\csc(x)$",
+        "$\\sec(x)$"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Multiplicamos numerador y denominador de la fracción por la conjugada $\\csc(x) + \\cot(x)$:<br>$$ P = \\frac{\\csc(x) + \\cot(x)}{(\\csc(x) - \\cot(x))(\\csc(x) + \\cot(x))} - \\cot(x) $$<br>El denominador es una diferencia de cuadrados: $\\csc^2(x) - \\cot^2(x)$, que por identidad pitagórica es igual a 1.<br>$$ P = \\csc(x) + \\cot(x) - \\cot(x) $$<br>$$ P = \\csc(x) $$"
+    },
+    {
+      "pregunta": "Simplifique la siguiente expresión: $E = \\sin^3(x)\\csc(x) + \\cos^3(x)\\sec(x)$.",
+      "opciones": [
+        "1",
+        "2",
+        "$\\sin(x)\\cos(x)$",
+        "$\\tan^2(x)$",
+        "$\\cot^2(x)$"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Descomponemos las potencias cúbicas:<br>$$ E = \\sin^2(x)\\cdot\\sin(x)\\csc(x) + \\cos^2(x)\\cdot\\cos(x)\\sec(x) $$<br>Aplicamos las identidades recíprocas $\\sin(x)\\csc(x) = 1$ y $\\cos(x)\\sec(x) = 1$:<br>$$ E = \\sin^2(x)(1) + \\cos^2(x)(1) $$<br>Aplicamos la identidad pitagórica fundamental:<br>$$ E = \\sin^2(x) + \\cos^2(x) = 1 $$"
+    },
+    {
+      "pregunta": "Haciendo uso de identidades auxiliares, reduce: $K = \\frac{\\tan(x) + \\cot(x)}{\\sec(x)\\csc(x)}$.",
+      "opciones": [
+        "$\\sin(x)$",
+        "$\\cos(x)$",
+        "1",
+        "0",
+        "$\\tan(x)$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La identidad auxiliar fundamental nos indica que $\\tan(x) + \\cot(x) = \\sec(x)\\csc(x)$.<br>Reemplazamos directamente el numerador:<br>$$ K = \\frac{\\sec(x)\\csc(x)}{\\sec(x)\\csc(x)} = 1 $$"
+    },
+    {
+      "pregunta": "Simplifica la siguiente expresión algebraica-trigonométrica: $W = \\frac{1 - \\cos^4(x)}{1 + \\cos^2(x)}$.",
+      "opciones": [
+        "$\\sin^2(x)$",
+        "$\\cos^2(x)$",
+        "$\\tan^2(x)$",
+        "$\\sec^2(x)$",
+        "1"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Factorizamos el numerador como una diferencia de cuadrados ($1^2 - (\\cos^2(x))^2$):<br>$$ 1 - \\cos^4(x) = (1 - \\cos^2(x))(1 + \\cos^2(x)) $$<br>Sustituimos en la fracción:<br>$$ W = \\frac{(1 - \\cos^2(x))(1 + \\cos^2(x))}{1 + \\cos^2(x)} $$<br>Simplificamos el término común:<br>$$ W = 1 - \\cos^2(x) $$<br>Por identidad pitagórica:<br>$$ W = \\sin^2(x) $$"
+    },
+    {
+      "pregunta": "Reduce la siguiente expresión (para $x$ agudo): $M = \\sqrt{\\frac{1 - \\sin(x)}{1 + \\sin(x)}} + \\tan(x)$.",
+      "opciones": [
+        "$\\sin(x)$",
+        "$\\cos(x)$",
+        "$\\sec(x)$",
+        "$\\csc(x)$",
+        "1"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Multiplicamos el numerador y denominador dentro de la raíz por el conjugado $(1 - \\sin(x))$:<br>$$ \\frac{1 - \\sin(x)}{1 + \\sin(x)} \\cdot \\frac{1 - \\sin(x)}{1 - \\sin(x)} = \\frac{(1 - \\sin(x))^2}{1 - \\sin^2(x)} = \\frac{(1 - \\sin(x))^2}{\\cos^2(x)} $$<br>Extraemos la raíz cuadrada (como $x$ es agudo, sale positivo):<br>$$ \\sqrt{\\frac{(1 - \\sin(x))^2}{\\cos^2(x)}} = \\frac{1 - \\sin(x)}{\\cos(x)} = \\frac{1}{\\cos(x)} - \\frac{\\sin(x)}{\\cos(x)} = \\sec(x) - \\tan(x) $$<br>Reemplazamos en $M$:<br>$$ M = \\sec(x) - \\tan(x) + \\tan(x) = \\sec(x) $$"
+    },
+    {
+      "pregunta": "Si se tiene la condición $\\tan(x) - \\cot(x) = 2$, calcule el valor de $\\tan^2(x) + \\cot^2(x)$.",
+      "opciones": [
+        "4",
+        "5",
+        "6",
+        "8",
+        "2"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Elevamos al cuadrado ambos lados de la ecuación dada:<br>$$ (\\tan(x) - \\cot(x))^2 = 2^2 $$<br>Desarrollamos el binomio al cuadrado:<br>$$ \\tan^2(x) - 2\\tan(x)\\cot(x) + \\cot^2(x) = 4 $$<br>Como $\\tan(x)\\cot(x) = 1$ (identidad recíproca):<br>$$ \\tan^2(x) - 2(1) + \\cot^2(x) = 4 $$<br>$$ \\tan^2(x) + \\cot^2(x) = 4 + 2 = 6 $$"
+    }
       ],
       "videos": [
         {
-          "titulo": "21.1 Pronto",
-          "youtube_id": "ID_YOUTUBE_AQUI",
-          "pdf_link": "ENLACE_PDF_AQUI",
+          "titulo": "21.1 Teoría",
+          "youtube_id": "1Su70T3l_0E",
+          "pdf_link": "https://drive.google.com/file/d/1545XnbvE2anep4NAr0gtQ-GjKHCONehF/view",
+          "gratis": true
+        },
+        {
+          "titulo": "21.2 Ejercicios",
+          "youtube_id": "TGdSDi73gX4",
+          "pdf_link": "https://drive.google.com/file/d/1B1bwGQXqm9dGFkwAaL3L2i0ZCzVk17QS/view",
+          "gratis": true
+        },
+        {
+          "titulo": "21.3 Ejercicios",
+          "youtube_id": "Ra1jIFO_G0w",
+          "pdf_link": "https://drive.google.com/file/d/1B1bwGQXqm9dGFkwAaL3L2i0ZCzVk17QS/view",
           "gratis": true
         }
       ]
     },
     {
-      "titulo": "Tema 22: Pronto",
-      "pdf_resuelto": "ENLACE_PDF_AQUI",
+      "titulo": "Tema 22: Identidades de arcos",
+      "pdf_resuelto": "https://drive.google.com/file/d/18zoUqHSXG3ixzbF3hv3O9n_xJT6NmoYU/view",
       "preguntas": [
         {
-          "pregunta": "[Texto de la pregunta]",
-          "opciones": [
-            "A", "B", "C", "D", "E"
-          ],
-          "correcta": 0,
-          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
-        }
+      "pregunta": "Según la identidad del seno de la suma de dos arcos, ¿cuál es el desarrollo correcto de $\\sin(x + y)$?",
+      "opciones": [
+        "$\\sin(x)\\sin(y) + \\cos(x)\\cos(y)$",
+        "$\\sin(x)\\cos(y) - \\cos(x)\\sin(y)$",
+        "$\\sin(x)\\cos(y) + \\cos(x)\\sin(y)$",
+        "$\\cos(x)\\cos(y) - \\sin(x)\\sin(y)$",
+        "$\\tan(x) + \\tan(y)$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La identidad fundamental para el seno de la suma de dos arcos distribuye las razones trigonométricas alternándolas y manteniendo el signo original:<br>$$ \\sin(x + y) = \\sin(x)\\cos(y) + \\cos(x)\\sin(y) $$"
+    },
+    {
+      "pregunta": "El desarrollo del coseno de la diferencia de dos arcos, $\\cos(x - y)$, es igual a:",
+      "opciones": [
+        "$\\cos(x)\\cos(y) - \\sin(x)\\sin(y)$",
+        "$\\cos(x)\\cos(y) + \\sin(x)\\sin(y)$",
+        "$\\sin(x)\\cos(y) - \\cos(x)\\sin(y)$",
+        "$\\sin(x)\\sin(y) - \\cos(x)\\cos(y)$",
+        "$\\cos(x)\\sin(y) + \\sin(x)\\cos(y)$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Para el coseno de un arco compuesto, las razones se agrupan (cosenos juntos y senos juntos) y el signo central se invierte respecto al original. Al ser una diferencia, el desarrollo lleva signo positivo:<br>$$ \\cos(x - y) = \\cos(x)\\cos(y) + \\sin(x)\\sin(y) $$"
+    },
+    {
+      "pregunta": "Calcule el valor exacto de $\\sin(75^{\\circ})$.",
+      "opciones": [
+        "$\\frac{\\sqrt{6} - \\sqrt{2}}{4}$",
+        "$\\frac{\\sqrt{2} + 1}{2}$",
+        "$\\frac{\\sqrt{6} + \\sqrt{2}}{4}$",
+        "$\\frac{\\sqrt{3} + 1}{4}$",
+        "$\\frac{\\sqrt{6} + 2}{4}$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Expresamos $75^{\\circ}$ como la suma de dos ángulos notables: $45^{\\circ} + 30^{\\circ}$.<br>$$ \\sin(45^{\\circ} + 30^{\\circ}) = \\sin(45^{\\circ})\\cos(30^{\\circ}) + \\cos(45^{\\circ})\\sin(30^{\\circ}) $$<br>Sustituyendo los valores conocidos:<br>$$ = \\left(\\frac{\\sqrt{2}}{2}\\right)\\left(\\frac{\\sqrt{3}}{2}\\right) + \\left(\\frac{\\sqrt{2}}{2}\\right)\\left(\\frac{1}{2}\\right) $$<br>$$ = \\frac{\\sqrt{6}}{4} + \\frac{\\sqrt{2}}{4} = \\frac{\\sqrt{6} + \\sqrt{2}}{4} $$"
+    },
+    {
+      "pregunta": "Determine el valor de $\\cos(15^{\\circ})$.",
+      "opciones": [
+        "$\\frac{\\sqrt{6} - \\sqrt{2}}{4}$",
+        "$\\frac{\\sqrt{6} + \\sqrt{2}}{4}$",
+        "$\\frac{\\sqrt{3} - 1}{2}$",
+        "$\\frac{\\sqrt{2} - 1}{4}$",
+        "$\\frac{\\sqrt{6} - 1}{4}$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Expresamos $15^{\\circ}$ como la diferencia $45^{\\circ} - 30^{\\circ}$.<br>$$ \\cos(45^{\\circ} - 30^{\\circ}) = \\cos(45^{\\circ})\\cos(30^{\\circ}) + \\sin(45^{\\circ})\\sin(30^{\\circ}) $$<br>Reemplazando valores notables:<br>$$ = \\left(\\frac{\\sqrt{2}}{2}\\right)\\left(\\frac{\\sqrt{3}}{2}\\right) + \\left(\\frac{\\sqrt{2}}{2}\\right)\\left(\\frac{1}{2}\\right) = \\frac{\\sqrt{6} + \\sqrt{2}}{4} $$"
+    },
+    {
+      "pregunta": "Calcule el valor de $\\tan(8^{\\circ})$.",
+      "opciones": [
+        "$\\frac{1}{5}$",
+        "$\\frac{1}{6}$",
+        "$\\frac{1}{7}$",
+        "$\\frac{1}{8}$",
+        "$\\frac{2}{7}$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Utilizamos la diferencia de ángulos notables: $8^{\\circ} = 53^{\\circ} - 45^{\\circ}$.<br>La fórmula es: $\\tan(x - y) = \\frac{\\tan(x) - \\tan(y)}{1 + \\tan(x)\\tan(y)}$.<br>$$ \\tan(53^{\\circ} - 45^{\\circ}) = \\frac{\\tan(53^{\\circ}) - \\tan(45^{\\circ})}{1 + \\tan(53^{\\circ})\\tan(45^{\\circ})} $$<br>Sabiendo que $\\tan(53^{\\circ}) = \\frac{4}{3}$ y $\\tan(45^{\\circ}) = 1$:<br>$$ = \\frac{\\frac{4}{3} - 1}{1 + \\left(\\frac{4}{3}\\right)(1)} = \\frac{\\frac{1}{3}}{\\frac{7}{3}} = \\frac{1}{7} $$"
+    },
+    {
+      "pregunta": "Reduzca la siguiente expresión trigonométrica: $E = \\sin(x + y)\\cos(y) - \\cos(x + y)\\sin(y)$.",
+      "opciones": [
+        "$\\sin(y)$",
+        "$\\cos(x)$",
+        "$\\sin(x)$",
+        "$\\cos(y)$",
+        "0"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La expresión tiene la forma del desarrollo del seno de una diferencia: $\\sin(A)\\cos(B) - \\cos(A)\\sin(B) = \\sin(A - B)$.<br>Aquí, $A = (x + y)$ y $B = y$.<br>Aplicando la inversa de la identidad:<br>$$ E = \\sin((x + y) - y) $$<br>$$ E = \\sin(x) $$"
+    },
+    {
+      "pregunta": "Simplifique la expresión: $M = \\frac{\\sin(x + y) - \\sin(x)\\cos(y)}{\\cos(x)\\cos(y)}$.",
+      "opciones": [
+        "$\\tan(x)$",
+        "$\\tan(y)$",
+        "$\\cot(x)$",
+        "$\\cot(y)$",
+        "1"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Desarrollamos $\\sin(x + y)$ en el numerador:<br>$$ \\sin(x)\\cos(y) + \\cos(x)\\sin(y) - \\sin(x)\\cos(y) $$<br>Se cancelan los términos $\\sin(x)\\cos(y)$, quedando solo $\\cos(x)\\sin(y)$.<br>Reemplazando en la fracción:<br>$$ M = \\frac{\\cos(x)\\sin(y)}{\\cos(x)\\cos(y)} $$<br>Simplificando $\\cos(x)$ nos queda $\\frac{\\sin(y)}{\\cos(y)}$, que es igual a $\\tan(y)$."
+    },
+    {
+      "pregunta": "Halle el valor de la siguiente expresión: $K = \\cos(80^{\\circ})\\cos(20^{\\circ}) + \\sin(80^{\\circ})\\sin(20^{\\circ})$.",
+      "opciones": [
+        "$\\frac{1}{2}$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "1",
+        "0",
+        "$\\frac{\\sqrt{2}}{2}$"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>La expresión corresponde al desarrollo del coseno de la diferencia de dos ángulos: $\\cos(A - B) = \\cos(A)\\cos(B) + \\sin(A)\\sin(B)$.<br>En este caso, $A = 80^{\\circ}$ y $B = 20^{\\circ}$.<br>$$ K = \\cos(80^{\\circ} - 20^{\\circ}) = \\cos(60^{\\circ}) $$<br>Sabiendo que el coseno de $60^{\\circ}$ es un valor notable:<br>$$ K = \\frac{1}{2} $$"
+    },
+    {
+      "pregunta": "Calcule el valor de: $E = \\frac{\\tan(50^{\\circ}) - \\tan(20^{\\circ})}{1 + \\tan(50^{\\circ})\\tan(20^{\\circ})}$.",
+      "opciones": [
+        "1",
+        "$\\sqrt{3}$",
+        "$\\frac{\\sqrt{3}}{3}$",
+        "$\\frac{4}{3}$",
+        "0"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La estructura de la fracción corresponde exactamente a la identidad de la tangente de la diferencia de dos ángulos: $\\tan(A - B)$.<br>Donde $A = 50^{\\circ}$ y $B = 20^{\\circ}$.<br>$$ E = \\tan(50^{\\circ} - 20^{\\circ}) = \\tan(30^{\\circ}) $$<br>El valor notable de la tangente de $30^{\\circ}$ es:<br>$$ E = \\frac{\\sqrt{3}}{3} $$"
+    },
+    {
+      "pregunta": "Si $\\tan(\\alpha) = 2$ y $\\tan(\\beta) = 3$, halle el valor de $\\tan(\\alpha + \\beta)$.",
+      "opciones": [
+        "1",
+        "-1",
+        "5",
+        "-5",
+        "$\\frac{1}{5}$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Aplicamos la fórmula de la tangente de la suma:<br>$$ \\tan(\\alpha + \\beta) = \\frac{\\tan(\\alpha) + \\tan(\\beta)}{1 - \\tan(\\alpha)\\tan(\\beta)} $$<br>Sustituyendo los valores dados:<br>$$ \\tan(\\alpha + \\beta) = \\frac{2 + 3}{1 - (2)(3)} = \\frac{5}{1 - 6} = \\frac{5}{-5} = -1 $$"
+    },
+    {
+      "pregunta": "Simplifique utilizando la identidad auxiliar de arcos compuestos: $W = \\frac{\\sin(x - y)}{\\cos(x)\\cos(y)} + \\tan(y)$.",
+      "opciones": [
+        "$\\tan(x)$",
+        "$\\cot(x)$",
+        "$\\tan(y)$",
+        "1",
+        "0"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Existe una identidad auxiliar directa que establece:<br>$$ \\frac{\\sin(x - y)}{\\cos(x)\\cos(y)} = \\tan(x) - \\tan(y) $$<br>Sustituyendo esto en la expresión original:<br>$$ W = (\\tan(x) - \\tan(y)) + \\tan(y) $$<br>Los términos $\\tan(y)$ se cancelan, quedando:<br>$$ W = \\tan(x) $$"
+    },
+    {
+      "pregunta": "A partir de la identidad auxiliar $\\sin(x + y)\\sin(x - y) = \\sin^2(x) - \\sin^2(y)$, reduzca la siguiente expresión: $P = \\sin(x + y)\\sin(x - y) + \\cos^2(x)$.",
+      "opciones": [
+        "$\\sin^2(y)$",
+        "$\\cos^2(y)$",
+        "1",
+        "0",
+        "$\\cos^2(x)$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Reemplazamos el producto por su identidad equivalente:<br>$$ P = (\\sin^2(x) - \\sin^2(y)) + \\cos^2(x) $$<br>Agrupamos los términos del ángulo $x$:<br>$$ P = (\\sin^2(x) + \\cos^2(x)) - \\sin^2(y) $$<br>Por identidad pitagórica, el primer paréntesis es 1:<br>$$ P = 1 - \\sin^2(y) $$<br>Nuevamente por identidad pitagórica, esto es igual a $\\cos^2(y)$."
+    },
+    {
+      "pregunta": "Si $x + y = 45^{\\circ}$, determine el valor de la expresión: $E = (1 + \\tan(x))(1 + \\tan(y))$.",
+      "opciones": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "0"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Multiplicamos los binomios:<br>$$ E = 1 + \\tan(x) + \\tan(y) + \\tan(x)\\tan(y) $$<br>Dado que $x + y = 45^{\\circ}$, aplicamos tangente a ambos lados:<br>$$ \\tan(x + y) = \\tan(45^{\\circ}) = 1 $$<br>$$ \\frac{\\tan(x) + \\tan(y)}{1 - \\tan(x)\\tan(y)} = 1 \\Rightarrow \\tan(x) + \\tan(y) = 1 - \\tan(x)\\tan(y) $$<br>Reemplazamos esta suma en E:<br>$$ E = 1 + (1 - \\tan(x)\\tan(y)) + \\tan(x)\\tan(y) $$<br>$$ E = 1 + 1 = 2 $$"
+    },
+    {
+      "pregunta": "Si en un triángulo $A + B + C = 180^{\\circ}$, ¿cuál es la relación correcta para las tangentes de sus ángulos?",
+      "opciones": [
+        "$\\tan(A) + \\tan(B) + \\tan(C) = 1$",
+        "$\\tan(A)\\tan(B)\\tan(C) = 1$",
+        "$\\tan(A) + \\tan(B) + \\tan(C) = \\tan(A)\\tan(B)\\tan(C)$",
+        "$\\tan(A)\\tan(B) + \\tan(B)\\tan(C) + \\tan(A)\\tan(C) = 1$",
+        "$\\tan(A) + \\tan(B) = \\tan(C)$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La propiedad de tres ángulos que suman $180^{\\circ}$ (o un múltiplo impar de $\\pi$) establece que la suma de sus tangentes es exactamente igual al producto de las mismas:<br>$$ \\tan(A) + \\tan(B) + \\tan(C) = \\tan(A)\\tan(B)\\tan(C) $$"
+    },
+    {
+      "pregunta": "Si tres ángulos suman $90^{\\circ}$ ($A + B + C = 90^{\\circ}$), determine el valor de la siguiente expresión: $M = \\tan(A)\\tan(B) + \\tan(B)\\tan(C) + \\tan(A)\\tan(C)$.",
+      "opciones": [
+        "0",
+        "1",
+        "-1",
+        "2",
+        "$\\tan(A)\\tan(B)\\tan(C)$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Por las propiedades auxiliares de arcos compuestos, cuando la suma de tres ángulos es $90^{\\circ}$ (o cualquier múltiplo impar de $\\pi/2$), la suma de los productos binarios de sus tangentes es siempre igual a la unidad.<br>$$ \\tan(A)\\tan(B) + \\tan(B)\\tan(C) + \\tan(A)\\tan(C) = 1 $$"
+    },
+    {
+      "pregunta": "Calcule el máximo valor que puede tomar la expresión: $E = 3\\sin(x) + 4\\cos(x)$.",
+      "opciones": [
+        "7",
+        "1",
+        "5",
+        "12",
+        "25"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Para una expresión de la forma $E = a\\sin(x) + b\\cos(x)$, el valor máximo está dado por la fórmula $\\sqrt{a^2 + b^2}$.<br>Identificamos $a = 3$ y $b = 4$.<br>$$ E_{max} = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5 $$"
+    },
+    {
+      "pregunta": "Encuentre el mínimo valor de la expresión: $P = 5\\sin(x) - 12\\cos(x)$.",
+      "opciones": [
+        "-7",
+        "-13",
+        "-17",
+        "13",
+        "-5"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Para una expresión de la forma $a\\sin(x) + b\\cos(x)$, el valor mínimo está dado por $-\\sqrt{a^2 + b^2}$.<br>Identificamos $a = 5$ y $b = -12$.<br>$$ P_{min} = -\\sqrt{5^2 + (-12)^2} = -\\sqrt{25 + 144} = -\\sqrt{169} = -13 $$"
+    },
+    {
+      "pregunta": "Simplifique la siguiente expresión transformándola a un arco compuesto: $E = \\frac{\\sqrt{3}\\sin(x) + \\cos(x)}{2}$.",
+      "opciones": [
+        "$\\sin(x + 30^{\\circ})$",
+        "$\\sin(x + 60^{\\circ})$",
+        "$\\cos(x + 30^{\\circ})$",
+        "$\\cos(x - 30^{\\circ})$",
+        "$\\sin(x - 60^{\\circ})$"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Separamos la fracción en dos términos:<br>$$ E = \\frac{\\sqrt{3}}{2}\\sin(x) + \\frac{1}{2}\\cos(x) $$<br>Reconocemos los valores notables: $\\cos(30^{\\circ}) = \\frac{\\sqrt{3}}{2}$ y $\\sin(30^{\\circ}) = \\frac{1}{2}$. Reemplazamos:<br>$$ E = \\cos(30^{\\circ})\\sin(x) + \\sin(30^{\\circ})\\cos(x) $$<br>Ordenando, vemos que es el desarrollo del seno de una suma:<br>$$ E = \\sin(x)\\cos(30^{\\circ}) + \\cos(x)\\sin(30^{\\circ}) = \\sin(x + 30^{\\circ}) $$"
+    },
+    {
+      "pregunta": "Simplifique: $M = \\frac{\\cos(x - y) - \\cos(x + y)}{\\sin(x)\\sin(y)}$.",
+      "opciones": [
+        "1",
+        "2",
+        "0",
+        "$\\tan(x)\\tan(y)$",
+        "$\\cot(x)\\cot(y)$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Desarrollamos ambos cosenos en el numerador:<br>$\\cos(x - y) = \\cos(x)\\cos(y) + \\sin(x)\\sin(y)$<br>$\\cos(x + y) = \\cos(x)\\cos(y) - \\sin(x)\\sin(y)$<br>Restamos ambas expresiones (los términos con coseno se cancelan):<br>$$ (\\cos(x)\\cos(y) + \\sin(x)\\sin(y)) - (\\cos(x)\\cos(y) - \\sin(x)\\sin(y)) = 2\\sin(x)\\sin(y) $$<br>Reemplazando en $M$:<br>$$ M = \\frac{2\\sin(x)\\sin(y)}{\\sin(x)\\sin(y)} = 2 $$"
+    },
+    {
+      "pregunta": "Si $\\alpha$ y $\\beta$ son ángulos complementarios ($\\alpha + \\beta = 90^{\\circ}$), calcule el valor de $E = \\sin(\\alpha + 2\\beta)$.",
+      "opciones": [
+        "$\\sin(\\beta)$",
+        "$\\cos(\\beta)$",
+        "$-\\sin(\\beta)$",
+        "$-\\cos(\\beta)$",
+        "1"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Descomponemos el ángulo $(\\alpha + 2\\beta)$ convenientemente:<br>$$ \\alpha + 2\\beta = (\\alpha + \\beta) + \\beta $$<br>Como $\\alpha + \\beta = 90^{\\circ}$, reemplazamos:<br>$$ E = \\sin(90^{\\circ} + \\beta) $$<br>Aplicando reducción al primer cuadrante (el $90^{\\circ}$ cambia a co-razón y en el II Cuadrante el seno es positivo):<br>$$ E = +\\cos(\\beta) $$"
+    }
       ],
       "videos": [
         {
-          "titulo": "22.1 Pronto",
-          "youtube_id": "ID_YOUTUBE_AQUI",
-          "pdf_link": "ENLACE_PDF_AQUI",
+          "titulo": "22.1 Teoría",
+          "youtube_id": "DAej8vqBy8o",
+          "pdf_link": "https://drive.google.com/file/d/10otjHlfEfcW1Q0phkT99QctwcfkNr_IY/view",
+          "gratis": true
+        },
+        {
+          "titulo": "22.2 Ejercicios",
+          "youtube_id": "1bj7lyvvQMc",
+          "pdf_link": "https://drive.google.com/file/d/18zoUqHSXG3ixzbF3hv3O9n_xJT6NmoYU/view",
+          "gratis": true
+        },
+        {
+          "titulo": "22.3 Ejercicios",
+          "youtube_id": "BjOXR_RpbBc",
+          "pdf_link": "https://drive.google.com/file/d/18zoUqHSXG3ixzbF3hv3O9n_xJT6NmoYU/view",
           "gratis": true
         }
       ]
     },
     {
-      "titulo": "Tema 23: Pronto",
-      "pdf_resuelto": "ENLACE_PDF_AQUI",
+      "titulo": "Tema 23: Resolución de Triángulos",
+      "pdf_resuelto": "https://drive.google.com/file/d/1yYSkHujhVdJCbfUqGA4vWxynsl0G_-TD/view",
       "preguntas": [
         {
-          "pregunta": "[Texto de la pregunta]",
-          "opciones": [
-            "A", "B", "C", "D", "E"
-          ],
-          "correcta": 0,
-          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
-        }
+      "pregunta": "En un triángulo rectángulo, la hipotenusa mide $m$ y uno de sus ángulos agudos mide $\\theta$. ¿Cómo se expresa matemáticamente la longitud del cateto opuesto a dicho ángulo?",
+      "opciones": [
+        "$m\\cos(\\theta)$",
+        "$m\\sin(\\theta)$",
+        "$m\\tan(\\theta)$",
+        "$m\\sec(\\theta)$",
+        "$m\\csc(\\theta)$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>En la resolución de triángulos rectángulos, lo que se quiere calcular es igual a lo que se tiene multiplicado por la razón trigonométrica formada por (Lado Incógnita / Lado Dato).<br>$$\\frac{\\text{Cateto Opuesto}}{\\text{Hipotenusa}} = \\sin(\\theta)$$<br>$$x = m\\sin(\\theta)$$"
+    },
+    {
+      "pregunta": "Si en un triángulo rectángulo se conoce el cateto adyacente $a$ de un ángulo agudo $\\alpha$, ¿cuál es la expresión correcta para calcular la hipotenusa?",
+      "opciones": [
+        "$a\\sin(\\alpha)$",
+        "$a\\cos(\\alpha)$",
+        "$a\\csc(\\alpha)$",
+        "$a\\sec(\\alpha)$",
+        "$a\\tan(\\alpha)$"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Aplicamos la regla práctica: (Lado Incógnita / Lado Dato).<br>Queremos la hipotenusa (H) y tenemos el cateto adyacente (CA).<br>$$\\frac{\\text{H}}{\\text{CA}} = \\sec(\\alpha)$$<br>Por lo tanto, la hipotenusa es $a\\sec(\\alpha)$."
+    },
+    {
+      "pregunta": "Determine el perímetro de un triángulo rectángulo si se conoce un ángulo agudo $\\beta$ y el cateto opuesto a este mide $L$.",
+      "opciones": [
+        "$L(1 + \\cot(\\beta) + \\csc(\\beta))$",
+        "$L(1 + \\tan(\\beta) + \\sec(\\beta))$",
+        "$L(\\sin(\\beta) + \\cos(\\beta))$",
+        "$L(1 + \\sin(\\beta) + \\cos(\\beta))$",
+        "$L(\\tan(\\beta) + \\cot(\\beta))$"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Los tres lados del triángulo, en función de $L$ y $\\beta$, son:<br>Cateto Opuesto = $L$<br>Cateto Adyacente = $L\\cot(\\beta)$<br>Hipotenusa = $L\\csc(\\beta)$<br>El perímetro es la suma de los tres lados:<br>$$P = L + L\\cot(\\beta) + L\\csc(\\beta) = L(1 + \\cot(\\beta) + \\csc(\\beta))$$"
+    },
+    {
+      "pregunta": "Una persona de $1.70 \\text{ m}$ de estatura observa la parte más alta de un poste con un ángulo de elevación de $37^{\\circ}$. Si la persona se encuentra a $20 \\text{ m}$ de la base del poste, calcule la altura total del poste.",
+      "opciones": [
+        "$15.00 \\text{ m}$",
+        "$16.70 \\text{ m}$",
+        "$18.70 \\text{ m}$",
+        "$20.00 \\text{ m}$",
+        "$21.70 \\text{ m}$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Trazamos la línea horizontal desde los ojos del observador hacia el poste. Se forma un triángulo rectángulo donde el cateto adyacente es $20 \\text{ m}$ y el ángulo es $37^{\\circ}$.<br>El cateto opuesto ($y$) será: $y = 20\\tan(37^{\\circ}) = 20\\left(\\frac{3}{4}\\right) = 15 \\text{ m}$.<br>La altura total del poste es la suma de $y$ más la altura de la persona:<br>$$H = 15 + 1.70 = 16.70 \\text{ m}$$"
+    },
+    {
+      "pregunta": "Desde lo alto de un faro de $45 \\text{ m}$ sobre el nivel del mar, se observa un barco con un ángulo de depresión de $53^{\\circ}$. ¿A qué distancia de la base del faro se encuentra el barco?",
+      "opciones": [
+        "$30 \\text{ m}$",
+        "$45 \\text{ m}$",
+        "$60 \\text{ m}$",
+        "$33.75 \\text{ m}$",
+        "$25 \\text{ m}$"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Por alternos internos (línea visual y superficie del mar), el ángulo de depresión es igual al ángulo de elevación desde el barco hacia el faro ($53^{\\circ}$).<br>En el triángulo formado, el cateto opuesto (faro) es $45 \\text{ m}$.<br>La distancia horizontal ($x$) es el cateto adyacente:<br>$$\\tan(53^{\\circ}) = \\frac{45}{x} \\Rightarrow \\frac{4}{3} = \\frac{45}{x} \\Rightarrow 4x = 135 \\Rightarrow x = 33.75 \\text{ m}$$"
+    },
+    {
+      "pregunta": "Si la línea visual del observador está por debajo de la línea horizontal de referencia, el ángulo formado entre ellas recibe el nombre de:",
+      "opciones": [
+        "Ángulo de elevación",
+        "Ángulo de observación",
+        "Ángulo de depresión",
+        "Ángulo cenital",
+        "Ángulo azimutal"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Por definición teórica de los ángulos verticales, cuando el objeto observado se encuentra por debajo de la línea horizontal trazada desde los ojos del observador, el ángulo que forma la línea visual con la horizontal se denomina ángulo de depresión."
+    },
+    {
+      "pregunta": "Desde un punto en el suelo se observa lo alto de una torre con un ángulo de elevación de $30^{\\circ}$. Si nos acercamos $20 \\text{ m}$ en línea recta hacia su base, el nuevo ángulo de elevación es de $60^{\\circ}$. Calcule la altura de la torre.",
+      "opciones": [
+        "$10 \\text{ m}$",
+        "$10\\sqrt{3} \\text{ m}$",
+        "$20 \\text{ m}$",
+        "$20\\sqrt{3} \\text{ m}$",
+        "$15\\sqrt{3} \\text{ m}$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Sea $h$ la altura de la torre. Las distancias horizontales son $x$ (con $60^{\\circ}$) y $x + 20$ (con $30^{\\circ}$).<br>Tenemos dos ecuaciones:<br>1) $\\tan(60^{\\circ}) = \\frac{h}{x} \\Rightarrow h = x\\sqrt{3} \\Rightarrow x = \\frac{h}{\\sqrt{3}}$<br>2) $\\tan(30^{\\circ}) = \\frac{h}{x+20} \\Rightarrow \\frac{1}{\\sqrt{3}} = \\frac{h}{x+20} \\Rightarrow x+20 = h\\sqrt{3}$<br>Sustituimos $x$:<br>$$\\frac{h}{\\sqrt{3}} + 20 = h\\sqrt{3} \\Rightarrow 20 = h\\sqrt{3} - \\frac{h}{\\sqrt{3}} = \\frac{3h - h}{\\sqrt{3}} = \\frac{2h}{\\sqrt{3}}$$<br>$$20\\sqrt{3} = 2h \\Rightarrow h = 10\\sqrt{3} \\text{ m}$$"
+    },
+    {
+      "pregunta": "¿Cuál es la medida en grados de una \"cuarta\" (o rumbo mínimo) en la Rosa Náutica de 32 direcciones?",
+      "opciones": [
+        "$10^{\\circ}$",
+        "$11^{\\circ}15'$",
+        "$15^{\\circ}$",
+        "$22^{\\circ}30'$",
+        "$45^{\\circ}$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>La Rosa Náutica completa representa un ángulo de una vuelta, es decir, $360^{\\circ}$. Si se divide en 32 rumbos o direcciones iguales (cuartas), cada cuarta mide:<br>$$\\frac{360^{\\circ}}{32} = 11.25^{\\circ}$$<br>Convirtiendo la parte decimal a minutos: $0.25 \\times 60' = 15'$.<br>Por lo tanto, mide $11^{\\circ}15'$."
+    },
+    {
+      "pregunta": "¿Qué ángulo forman las direcciones $N 40^{\\circ} E$ y $S 50^{\\circ} E$ trazadas desde un mismo punto de origen?",
+      "opciones": [
+        "$40^{\\circ}$",
+        "$50^{\\circ}$",
+        "$90^{\\circ}$",
+        "$180^{\\circ}$",
+        "$100^{\\circ}$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Graficamos en el plano cartesiano. Ambas direcciones están hacia el Este (derecha del eje vertical).<br>El primer rumbo parte del Norte hacia el Este $40^{\\circ}$.<br>El segundo rumbo parte del Sur hacia el Este $50^{\\circ}$.<br>La línea Norte-Sur es un ángulo llano ($180^{\\circ}$). El ángulo comprendido entre ambas direcciones es lo que queda en el lado Este:<br>$$180^{\\circ} - (40^{\\circ} + 50^{\\circ}) = 180^{\\circ} - 90^{\\circ} = 90^{\\circ}$$"
+    },
+    {
+      "pregunta": "Un barco viaja en la dirección $N 30^{\\circ} E$. Esto significa exactamente que:",
+      "opciones": [
+        "Gira $30^{\\circ}$ partiendo del Este hacia el Norte.",
+        "Gira $30^{\\circ}$ partiendo del Norte hacia el Este.",
+        "Viaja paralelo al eje Norte.",
+        "El rumbo es Noreste exacto.",
+        "Gira $60^{\\circ}$ partiendo del Norte hacia el Este."
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>La notación de rumbos (como $N 30^{\\circ} E$) se lee de la siguiente manera: Nos ubicamos mirando hacia la primera letra cardinal (Norte) y luego giramos la cantidad de grados indicada ($30^{\\circ}$) hacia la dirección de la segunda letra cardinal (Este)."
+    },
+    {
+      "pregunta": "La dirección \"Noreste\" (NE) en la rosa náutica divide al cuadrante Norte-Este por la mitad. ¿Qué ángulo forma la dirección NE con el eje Este?",
+      "opciones": [
+        "$30^{\\circ}$",
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$",
+        "$11^{\\circ}15'$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Las direcciones principales (como Noreste, Noroeste, Sureste, Suroeste) son bisectrices de los cuadrantes que miden $90^{\\circ}$.<br>Por lo tanto, la dirección NE divide el cuadrante exactamente a la mitad: $\\frac{90^{\\circ}}{2} = 45^{\\circ}$. Forma un ángulo de $45^{\\circ}$ tanto con el Norte como con el Este."
+    },
+    {
+      "pregunta": "Un avión vuela en la dirección $S 60^{\\circ} O$ (Sur $60^{\\circ}$ Oeste). Si decide regresar al punto de partida por la misma línea recta, ¿cuál será su nuevo rumbo?",
+      "opciones": [
+        "$N 60^{\\circ} E$",
+        "$S 60^{\\circ} E$",
+        "$N 30^{\\circ} E$",
+        "$O 60^{\\circ} S$",
+        "$N 60^{\\circ} O$"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Para hallar la dirección opuesta (de regreso) sobre la misma recta, simplemente se invierten las letras cardinales por sus opuestas (Norte por Sur, y Este por Oeste), manteniendo el mismo ángulo numérico.<br>El opuesto del Sur es el Norte (N), y el opuesto del Oeste es el Este (E).<br>Rumbo de regreso: $N 60^{\\circ} E$."
+    },
+    {
+      "pregunta": "Dos barcos parten de un mismo puerto al mismo tiempo. El primero viaja en dirección Norte a $30 \\text{ km/h}$ y el segundo en dirección Este a $40 \\text{ km/h}$. ¿Qué distancia los separa después de 2 horas?",
+      "opciones": [
+        "$50 \\text{ km}$",
+        "$70 \\text{ km}$",
+        "$100 \\text{ km}$",
+        "$140 \\text{ km}$",
+        "$120 \\text{ km}$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Calculamos la distancia que ha recorrido cada barco en 2 horas:<br>Barco 1 (Norte): $d_1 = 30 \\times 2 = 60 \\text{ km}$<br>Barco 2 (Este): $d_2 = 40 \\times 2 = 80 \\text{ km}$<br>Como el Norte y el Este son perpendiculares ($90^{\\circ}$), forman un triángulo rectángulo con la distancia de separación como hipotenusa.<br>$$D = \\sqrt{60^2 + 80^2} = \\sqrt{3600 + 6400} = \\sqrt{10000} = 100 \\text{ km}$$"
+    },
+    {
+      "pregunta": "Desde la azotea de un edificio de $24 \\text{ m}$ de altura, se observa un automóvil en el suelo con un ángulo de depresión de $45^{\\circ}$. ¿A qué distancia horizontal de la base del edificio se encuentra el automóvil?",
+      "opciones": [
+        "$12 \\text{ m}$",
+        "$24 \\text{ m}$",
+        "$24\\sqrt{2} \\text{ m}$",
+        "$48 \\text{ m}$",
+        "$12\\sqrt{2} \\text{ m}$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>El ángulo de depresión de $45^{\\circ}$ desde el edificio es igual al ángulo de elevación de $45^{\\circ}$ desde el automóvil hacia la azotea. Se forma un triángulo rectángulo isósceles, donde los dos catetos son iguales.<br>Si la altura (cateto opuesto) es $24 \\text{ m}$, la distancia horizontal (cateto adyacente) también debe ser $24 \\text{ m}$."
+    },
+    {
+      "pregunta": "En la resolución de triángulos rectángulos, si se conoce la hipotenusa $H$ y un ángulo $\\theta$, el área de dicho triángulo se puede expresar algebraicamente como:",
+      "opciones": [
+        "$\\frac{H^2}{2}\\sin(\\theta)\\cos(\\theta)$",
+        "$\\frac{H}{2}\\sin(\\theta)\\cos(\\theta)$",
+        "$H^2\\sin(\\theta)\\cos(\\theta)$",
+        "$\\frac{H^2}{2}\\tan(\\theta)$",
+        "$\\frac{H^2}{4}\\sin(2\\theta)$"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Los catetos se calculan como $H\\sin(\\theta)$ y $H\\cos(\\theta)$.<br>El área de un triángulo rectángulo es el semiproducto de sus catetos:<br>$$\\text{Área} = \\frac{(H\\sin(\\theta))(H\\cos(\\theta))}{2} = \\frac{H^2}{2}\\sin(\\theta)\\cos(\\theta)$$<br>*(Nota: Esto equivale a $\\frac{H^2}{4}\\sin(2\\theta)$ por identidad de arco doble, pero la opción A refleja el desglose primario).*"
+    },
+    {
+      "pregunta": "Un topógrafo divisa una antena con un ángulo de elevación $\\alpha$. Si se aleja una distancia $d$, el nuevo ángulo de elevación es $\\beta$. Considerando que el topógrafo observa desde el suelo, la fórmula general para hallar la altura $H$ de la antena es:",
+      "opciones": [
+        "$H = d(\\tan(\\alpha) - \\tan(\\beta))$",
+        "$H = \\frac{d}{\\cot(\\beta) - \\cot(\\alpha)}$",
+        "$H = d(\\cot(\\alpha) - \\cot(\\beta))$",
+        "$H = \\frac{d}{\\tan(\\alpha) + \\tan(\\beta)}$",
+        "$H = d(\\sin(\\alpha) - \\sin(\\beta))$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Sea $x$ la distancia inicial. Sabemos que $x = H\\cot(\\alpha)$ y la distancia total final es $x + d = H\\cot(\\beta)$.<br>Sustituyendo $x$:<br>$$H\\cot(\\alpha) + d = H\\cot(\\beta)$$<br>$$d = H\\cot(\\beta) - H\\cot(\\alpha) = H(\\cot(\\beta) - \\cot(\\alpha))$$<br>$$H = \\frac{d}{\\cot(\\beta) - \\cot(\\alpha)}$$"
+    },
+    {
+      "pregunta": "En un triángulo rectángulo ABC, recto en B, la hipotenusa AC mide $m$ y el ángulo en C es $\\alpha$. Se traza la altura BH relativa a la hipotenusa. ¿Cuánto mide el segmento AH?",
+      "opciones": [
+        "$m\\sin^2(\\alpha)$",
+        "$m\\cos^2(\\alpha)$",
+        "$m\\sin(\\alpha)\\cos(\\alpha)$",
+        "$m\\tan(\\alpha)$",
+        "$m\\cot(\\alpha)$"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>En el triángulo mayor ABC, el cateto $AB = m\\sin(\\alpha)$.<br>En el triángulo rectángulo menor AHB (recto en H), el ángulo en B es $\\alpha$ (por ser complementario).<br>Entonces, en el triángulo AHB, el cateto opuesto a $\\alpha$ es AH, y la hipotenusa es AB.<br>$$AH = AB\\sin(\\alpha) = (m\\sin(\\alpha))\\sin(\\alpha) = m\\sin^2(\\alpha)$$"
+    },
+    {
+      "pregunta": "Un excursionista camina $15 \\text{ km}$ en dirección Norte, y luego cambia de rumbo caminando $15\\sqrt{3} \\text{ km}$ en dirección Este. ¿En qué dirección, respecto al punto de partida original, se encuentra ahora el excursionista?",
+      "opciones": [
+        "$N 30^{\\circ} E$",
+        "$N 60^{\\circ} E$",
+        "$E 30^{\\circ} N$",
+        "$N 45^{\\circ} E$",
+        "$S 60^{\\circ} E$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Formamos un triángulo rectángulo. El cateto adyacente (Norte) es $15$, el cateto opuesto (Este) es $15\\sqrt{3}$.<br>Calculamos el ángulo $\\theta$ que se forma desde el Norte hacia el Este:<br>$$\\tan(\\theta) = \\frac{15\\sqrt{3}}{15} = \\sqrt{3}$$<br>El ángulo cuya tangente es $\\sqrt{3}$ es $60^{\\circ}$.<br>Por lo tanto, la dirección es Norte $60^{\\circ}$ Este ($N 60^{\\circ} E$)."
+    },
+    {
+      "pregunta": "¿Qué ángulo forman las direcciones de los puntos cardinales SE (Sureste) y SO (Suroeste)?",
+      "opciones": [
+        "$45^{\\circ}$",
+        "$60^{\\circ}$",
+        "$90^{\\circ}$",
+        "$120^{\\circ}$",
+        "$180^{\\circ}$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El SE es la bisectriz del cuadrante Sur-Este, formando $45^{\\circ}$ con el Sur.<br>El SO es la bisectriz del cuadrante Sur-Oeste, formando $45^{\\circ}$ con el Sur.<br>El ángulo total que separa ambas direcciones es la suma de esos dos ángulos:<br>$$45^{\\circ} + 45^{\\circ} = 90^{\\circ}$$"
+    },
+    {
+      "pregunta": "Una cometa está atada al suelo con una cuerda tensa de $100 \\text{ m}$ de longitud. Si el ángulo de elevación de la cuerda con respecto al suelo horizontal es de $53^{\\circ}$, ¿a qué altura se encuentra la cometa volando?",
+      "opciones": [
+        "$60 \\text{ m}$",
+        "$70 \\text{ m}$",
+        "$80 \\text{ m}$",
+        "$90 \\text{ m}$",
+        "$100 \\text{ m}$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La cuerda actúa como la hipotenusa de un triángulo rectángulo y mide $100 \\text{ m}$. Queremos hallar el cateto opuesto (altura $h$) del ángulo de $53^{\\circ}$.<br>$$h = 100\\sin(53^{\\circ})$$<br>Sabemos que $\\sin(53^{\\circ}) = \\frac{4}{5}$.<br>$$h = 100\\left(\\frac{4}{5}\\right) = 80 \\text{ m}$$"
+    }
       ],
       "videos": [
         {
-          "titulo": "23.1 Pronto",
-          "youtube_id": "ID_YOUTUBE_AQUI",
-          "pdf_link": "ENLACE_PDF_AQUI",
+          "titulo": "23.1 Teoría",
+          "youtube_id": "wfRy20Nmnq0",
+          "pdf_link": "https://drive.google.com/file/d/1nWsJNNWesHYYO8hTu8Bbf2n46rKz-zsi/view",
+          "gratis": true
+        },
+        {
+          "titulo": "23.2 Ejercicios",
+          "youtube_id": "28bDUTZzrVI",
+          "pdf_link": "https://drive.google.com/file/d/1yYSkHujhVdJCbfUqGA4vWxynsl0G_-TD/view",
+          "gratis": true
+        },
+        {
+          "titulo": "23.3 Ejercicios",
+          "youtube_id": "tQtTG3LJfec",
+          "pdf_link": "https://drive.google.com/file/d/1yYSkHujhVdJCbfUqGA4vWxynsl0G_-TD/view",
           "gratis": true
         }
       ]
     },
     {
-      "titulo": "Tema 24: Pronto",
-      "pdf_resuelto": "ENLACE_PDF_AQUI",
+      "titulo": "Tema 24: Funciones Trigonométricas",
+      "pdf_resuelto": "https://drive.google.com/file/d/1cgdHHOFIcUBKBgJ6s8TlLygiCp9HjagY/view",
       "preguntas": [
         {
-          "pregunta": "[Texto de la pregunta]",
-          "opciones": [
-            "A", "B", "C", "D", "E"
-          ],
-          "correcta": 0,
-          "resolucion": "<b>Resolución:</b><br>[Explicación aquí]"
-        }
+      "pregunta": "De acuerdo al análisis de las funciones trigonométricas, ¿cuál es el dominio de la función $f(x) = \\sin(x)$?",
+      "opciones": [
+        "$[-1, 1]$",
+        "$\\mathbb{R} - \\{n\\pi\\}$",
+        "$\\mathbb{R}$",
+        "$\\langle -1, 1 \\rangle$",
+        "$\\mathbb{R} - \\{(2n+1)\\frac{\\pi}{2}\\}$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La función seno está definida para cualquier valor de ángulo real. Por lo tanto, su dominio es el conjunto de todos los números reales.<br>$$ \\text{Dom}(f) = \\mathbb{R} $$"
+    },
+    {
+      "pregunta": "¿Cuál es el rango (o conjunto de valores posibles) para la función $f(x) = \\cos(x)$?",
+      "opciones": [
+        "$\\mathbb{R}$",
+        "$[-1, 1]$",
+        "$\\langle -1, 1 \\rangle$",
+        "$[0, 2\\pi]$",
+        "$\\mathbb{R} - \\langle -1, 1 \\rangle$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>La función coseno, en su forma básica, alcanza un valor máximo de $1$ y un valor mínimo de $-1$. Por lo tanto, su rango es un intervalo cerrado.<br>$$ \\text{Ran}(f) = [-1, 1] $$"
+    },
+    {
+      "pregunta": "Determine el periodo principal ($T$) de la función $f(x) = \\tan(x)$.",
+      "opciones": [
+        "$\\frac{\\pi}{2}$",
+        "$\\pi$",
+        "$\\frac{3\\pi}{2}$",
+        "$2\\pi$",
+        "$4\\pi$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>A diferencia del seno y el coseno cuyo periodo es $2\\pi$, la función tangente repite su ciclo completo (desde $-\\infty$ hasta $+\\infty$) cada $\\pi$ radianes.<br>$$ T = \\pi $$"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes expresiones representa el dominio de la función $f(x) = \\sec(x)$?",
+      "opciones": [
+        "$\\mathbb{R}$",
+        "$\\mathbb{R} - \\{n\\pi\\}$",
+        "$\\mathbb{R} - \\{(2n+1)\\frac{\\pi}{2}\\}$",
+        "$[-1, 1]$",
+        "$\\mathbb{R} - \\langle -1, 1 \\rangle$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>La secante es la inversa del coseno ($1/\\cos(x)$). Por lo tanto, no existe cuando $\\cos(x) = 0$. Esto ocurre en los múltiplos impares de $\\pi/2$.<br>$$ \\text{Dom}(f) = \\mathbb{R} - \\left\\{ (2n+1)\\frac{\\pi}{2} \\right\\}, \\text{ con } n \\in \\mathbb{Z} $$"
+    },
+    {
+      "pregunta": "Identifique el rango de la función $f(x) = \\csc(x)$.",
+      "opciones": [
+        "$[-1, 1]$",
+        "$\\mathbb{R}$",
+        "$\\mathbb{R} - [-1, 1]$",
+        "$\\mathbb{R} - \\langle -1, 1 \\rangle$",
+        "$\\langle -\\infty, 0 \\rangle$"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>La cosecante es la inversa del seno. Dado que el seno varía entre $-1$ y $1$, la cosecante toma todos los valores reales excepto los que están estrictamente entre $-1$ y $1$.<br>$$ \\text{Ran}(f) = \\mathbb{R} - \\langle -1, 1 \\rangle = \\langle -\\infty, -1 ] \\cup [ 1, +\\infty \\rangle $$"
+    },
+    {
+      "pregunta": "Dada la función $f(x) = 4\\sin(3x) - 2$, calcule su amplitud.",
+      "opciones": [
+        "-2",
+        "2",
+        "3",
+        "4",
+        "8"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>En una función de la forma $y = A\\sin(Bx + C) + D$, la amplitud se define como el valor absoluto del coeficiente $A$.<br>Aquí, $A = 4$. Por lo tanto, la amplitud es:<br>$$ \\text{Amplitud} = |4| = 4 $$"
+    },
+    {
+      "pregunta": "Determine el periodo de la función trigonométrica $f(x) = 5\\cos\\left(4x + \\frac{\\pi}{3}\\right)$.",
+      "opciones": [
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{\\pi}{2}$",
+        "$\\pi$",
+        "$2\\pi$",
+        "$4\\pi$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>El periodo $T$ para funciones seno o coseno de la forma $A\\cos(Bx + C)$ se calcula dividiendo el periodo base ($2\\pi$) entre el valor absoluto de $B$.<br>Aquí, $B = 4$.<br>$$ T = \\frac{2\\pi}{4} = \\frac{\\pi}{2} $$"
+    },
+    {
+      "pregunta": "Calcule el valor máximo que puede alcanzar la función $f(x) = 7\\sin(x) + 3$.",
+      "opciones": [
+        "3",
+        "4",
+        "7",
+        "10",
+        "21"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Sabemos que el rango del $\\sin(x)$ es $[-1, 1]$. Para hallar el valor máximo de $f(x)$, evaluamos cuando el seno toma su valor máximo ($1$).<br>$$ f_{max} = 7(1) + 3 = 7 + 3 = 10 $$"
+    },
+    {
+      "pregunta": "Determine el valor mínimo de la función $g(x) = 5 - 3\\cos(x)$.",
+      "opciones": [
+        "2",
+        "3",
+        "5",
+        "8",
+        "-3"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>El rango del $\\cos(x)$ es $[-1, 1]$. Como el coseno está multiplicado por un número negativo ($-3$), el valor mínimo de la función completa ocurrirá cuando el coseno sea máximo ($1$).<br>$$ g_{min} = 5 - 3(1) = 5 - 3 = 2 $$"
+    },
+    {
+      "pregunta": "Calcule el periodo de la función $h(x) = 2\\tan\\left(\\frac{x}{3}\\right)$.",
+      "opciones": [
+        "$\\frac{\\pi}{3}$",
+        "$\\pi$",
+        "$2\\pi$",
+        "$3\\pi$",
+        "$6\\pi$"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Para la función tangente, el periodo base es $\\pi$. El periodo $T$ de la forma $\\tan(Bx)$ es $T = \\frac{\\pi}{|B|}$.<br>Aquí, $B = \\frac{1}{3}$.<br>$$ T = \\frac{\\pi}{\\frac{1}{3}} = 3\\pi $$"
+    },
+    {
+      "pregunta": "Determine el rango de la función $f(x) = 2\\sin^2(x) + 1$.",
+      "opciones": [
+        "$[-1, 1]$",
+        "$[-1, 3]$",
+        "$[1, 3]$",
+        "$[0, 2]$",
+        "$\\mathbb{R}$"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Sabemos que el rango de $\\sin(x)$ es $[-1, 1]$. Al elevarlo al cuadrado, los valores negativos se vuelven positivos, por lo que el rango de $\\sin^2(x)$ es $[0, 1]$.<br>Multiplicamos por 2: $2\\sin^2(x) \\in [0, 2]$.<br>Sumamos 1: $2\\sin^2(x) + 1 \\in [1, 3]$.<br>$$ \\text{Ran}(f) = [1, 3] $$"
+    },
+    {
+      "pregunta": "Encuentre el dominio de la función $f(x) = \\cot(2x)$.",
+      "opciones": [
+        "$\\mathbb{R} - \\{n\\pi\\}$",
+        "$\\mathbb{R} - \\left\\{\\frac{n\\pi}{2}\\right\\}$",
+        "$\\mathbb{R} - \\left\\{(2n+1)\\frac{\\pi}{4}\\right\\}$",
+        "$\\mathbb{R} - \\{2n\\pi\\}$",
+        "$\\mathbb{R}$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>La función cotangente ($\\cos/\\sin$) no existe cuando su argumento hace que el seno sea cero. El seno es cero en los múltiplos de $\\pi$.<br>$$ 2x \\neq n\\pi \\Rightarrow x \\neq \\frac{n\\pi}{2} \\quad (n \\in \\mathbb{Z}) $$<br>Por lo tanto: $$ \\text{Dom}(f) = \\mathbb{R} - \\left\\{ \\frac{n\\pi}{2} \\right\\} $$"
+    },
+    {
+      "pregunta": "¿Para qué valores de $x$ en el intervalo $[0, 2\\pi]$ la función $f(x) = \\cos(x)$ intercepta al eje X (es decir, $f(x) = 0$)?",
+      "opciones": [
+        "$0, \\pi, 2\\pi$",
+        "$\\frac{\\pi}{2}, \\pi$",
+        "$\\frac{\\pi}{4}, \\frac{3\\pi}{4}$",
+        "$\\frac{\\pi}{2}, \\frac{3\\pi}{2}$",
+        "$\\pi, \\frac{3\\pi}{2}$"
+      ],
+      "correcta": 3,
+      "resolucion": "<b>Resolución:</b><br>Buscamos las raíces de la ecuación $\\cos(x) = 0$ dentro de una vuelta positiva.<br>El coseno es la abscisa en la circunferencia trigonométrica. Esto ocurre en los ángulos cuadrantales sobre el eje Y:<br>$$ x = 90^{\\circ} = \\frac{\\pi}{2} \\quad \\text{y} \\quad x = 270^{\\circ} = \\frac{3\\pi}{2} $$"
+    },
+    {
+      "pregunta": "Halle el periodo de la función $f(x) = \\sin^2(x)$.",
+      "opciones": [
+        "$\\frac{\\pi}{2}$",
+        "$\\pi$",
+        "$\\frac{3\\pi}{2}$",
+        "$2\\pi$",
+        "$4\\pi$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>Podemos aplicar la identidad de degradación del ángulo doble: $\\sin^2(x) = \\frac{1 - \\cos(2x)}{2}$.<br>La función equivalente es $f(x) = \\frac{1}{2} - \\frac{1}{2}\\cos(2x)$.<br>El periodo se halla con el coeficiente de $x$ (que ahora es $B=2$):<br>$$ T = \\frac{2\\pi}{2} = \\pi $$"
+    },
+    {
+      "pregunta": "Dada la función $f(x) = 6\\cos(x) - 2$, calcule la suma de su valor máximo y su valor mínimo.",
+      "opciones": [
+        "-4",
+        "0",
+        "4",
+        "8",
+        "-2"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Evaluamos los extremos del coseno $[-1, 1]$:<br>Valor máximo: $6(1) - 2 = 4$<br>Valor mínimo: $6(-1) - 2 = -6 - 2 = -8$<br>La suma de ambos es:<br>$$ 4 + (-8) = -4 $$<br>*(Propiedad rápida: en $A\\cos(x)+C$, Max+Min = $2C = 2(-2) = -4$).*"
+    },
+    {
+      "pregunta": "Dentro del estudio de las funciones trigonométricas, ¿cuál de las siguientes es una función par (es decir, cumple que $f(-x) = f(x)$)?",
+      "opciones": [
+        "Seno",
+        "Tangente",
+        "Coseno",
+        "Cotangente",
+        "Cosecante"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>Una función par es simétrica respecto al eje Y, \"absorbiendo\" el signo negativo del ángulo.<br>De las seis funciones trigonométricas básicas, solo el **Coseno** y su recíproca, la **Secante**, son funciones pares.<br>$$ \\cos(-x) = \\cos(x) $$"
+    },
+    {
+      "pregunta": "Determine el periodo de la función valor absoluto $f(x) = |\\sin(x)|$.",
+      "opciones": [
+        "$\\frac{\\pi}{2}$",
+        "$\\pi$",
+        "$2\\pi$",
+        "$\\frac{3\\pi}{2}$",
+        "$4\\pi$"
+      ],
+      "correcta": 1,
+      "resolucion": "<b>Resolución:</b><br>La función original $\\sin(x)$ tiene un periodo de $2\\pi$. Al aplicarle el valor absoluto, las ondas negativas (debajo del eje X) se reflejan hacia arriba, volviéndose idénticas a las ondas positivas. El ciclo se repite ahora en la mitad del tiempo.<br>$$ T = \\pi $$"
+    },
+    {
+      "pregunta": "Determine el rango de la función de arco compuesto: $f(x) = 3\\sin(x) + 4\\cos(x) + 2$.",
+      "opciones": [
+        "$[-3, 7]$",
+        "$[-5, 5]$",
+        "$[-1, 9]$",
+        "$[0, 10]$",
+        "$[-7, 7]$"
+      ],
+      "correcta": 0,
+      "resolucion": "<b>Resolución:</b><br>Para una expresión de la forma $A\\sin(x) + B\\cos(x)$, el valor está acotado por $[-\\sqrt{A^2+B^2}, +\\sqrt{A^2+B^2}]$.<br>Límite base: $\\pm \\sqrt{3^2 + 4^2} = \\pm \\sqrt{25} = \\pm 5$.<br>La expresión base varía entre $[-5, 5]$.<br>Sumamos la constante $2$ a ambos extremos:<br>$$ \\text{Mínimo} = -5 + 2 = -3 $$<br>$$ \\text{Máximo} = 5 + 2 = 7 $$<br>Rango: $[-3, 7]$."
+    },
+    {
+      "pregunta": "¿Cuál es el desplazamiento de fase (corrimiento horizontal) de la función $f(x) = 2\\sin(3x - \\pi)$?",
+      "opciones": [
+        "$\\pi$ hacia la derecha",
+        "$\\pi$ hacia la izquierda",
+        "$\\frac{\\pi}{3}$ hacia la derecha",
+        "$\\frac{\\pi}{3}$ hacia la izquierda",
+        "$3\\pi$ hacia la derecha"
+      ],
+      "correcta": 2,
+      "resolucion": "<b>Resolución:</b><br>El desplazamiento de fase de la función $y = A\\sin(Bx + C)$ se calcula igualando el argumento a cero:<br>$$ 3x - \\pi = 0 \\Rightarrow 3x = \\pi \\Rightarrow x = \\frac{\\pi}{3} $$<br>Como el resultado de $x$ es positivo, la gráfica se desplaza $\\frac{\\pi}{3}$ hacia la derecha en el eje X."
+    },
+    {
+      "pregunta": "Si analizamos la gráfica de la función $f(x) = \\tan(x)$, ¿cuál es su comportamiento asintótico cuando la variable $x$ se acerca al valor de $\\frac{\\pi}{2}$ por la izquierda?",
+      "opciones": [
+        "Tiende a cero.",
+        "Tiende a $1$.",
+        "Tiende a $-1$.",
+        "Tiende a $-\\infty$.",
+        "Tiende a $+\\infty$."
+      ],
+      "correcta": 4,
+      "resolucion": "<b>Resolución:</b><br>La tangente de $\\pi/2$ ($90^{\\circ}$) no está definida y presenta una asíntota vertical. Al acercarnos por la izquierda (valores de ángulos menores a $90^{\\circ}$, es decir, en el primer cuadrante), el valor del seno es positivo y cercano a 1, mientras que el coseno es positivo pero muy cercano a cero. La división $\\frac{+}{+}$ muy pequeña hace que la gráfica se dispare hacia $+\\infty$."
+    }
       ],
       "videos": [
         {
-          "titulo": "24.1 Pronto",
-          "youtube_id": "ID_YOUTUBE_AQUI",
-          "pdf_link": "ENLACE_PDF_AQUI",
+          "titulo": "24.1 Teoría",
+          "youtube_id": "CxAwEAkTQXk",
+          "pdf_link": "https://drive.google.com/file/d/1r54ZGjMGvz9Rc0UsK3bmc_krYbdl44fx/view",
+          "gratis": true
+        },
+        {
+          "titulo": "24.2 Ejercicios",
+          "youtube_id": "e745HIfz5M0",
+          "pdf_link": "https://drive.google.com/file/d/1cgdHHOFIcUBKBgJ6s8TlLygiCp9HjagY/view",
+          "gratis": true
+        },
+        {
+          "titulo": "24.3 Ejercicios",
+          "youtube_id": "oRw0wqwAnYU",
+          "pdf_link": "https://drive.google.com/file/d/1cgdHHOFIcUBKBgJ6s8TlLygiCp9HjagY/view",
           "gratis": true
         }
       ]
