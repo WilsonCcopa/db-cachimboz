@@ -203,19 +203,22 @@
           "titulo": "1.3 Ejercicios 1 y 2",
           "youtube_id": "qUlCOaJMfsY",
           "pdf_link": "https://drive.google.com/file/d/1Wkxizuij-7CKzFVuazpnrQMCeJuGDGiB/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "1.4 Ejercicios 3 y 4",
           "youtube_id": "O1bI8oouPnM",
           "pdf_link": "https://drive.google.com/file/d/1Wkxizuij-7CKzFVuazpnrQMCeJuGDGiB/view",
-          "gratis": false
+          "gratis": false,
+          "formato": "vertical"
         },
         {
           "titulo": "1.5 Ejercicio 5",
           "youtube_id": "8VT9Sriz298",
           "pdf_link": "https://drive.google.com/file/d/1Wkxizuij-7CKzFVuazpnrQMCeJuGDGiB/view",
-          "gratis": false
+          "gratis": false,
+          "formato": "vertical"
         }
       ]
     },
@@ -499,19 +502,22 @@
           "titulo": "2.2 Ejercicios 1,2 y 3",
           "youtube_id": "QdBKa9_eSmE",
           "pdf_link": "https://drive.google.com/file/d/1n_pCGinM0S_nYXjotjT39emtQpcnyTtf/view",
-          "gratis": false
+          "gratis": false,
+          "formato": "vertical"
         },
         {
           "titulo": "2.3 Ejercicio 4",
           "youtube_id": "pvj_UbmekNg",
           "pdf_link": "https://drive.google.com/file/d/1n_pCGinM0S_nYXjotjT39emtQpcnyTtf/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "2.4 Ejercicio 5",
           "youtube_id": "fO3F1FN1IwA",
           "pdf_link": "https://drive.google.com/file/d/1n_pCGinM0S_nYXjotjT39emtQpcnyTtf/view",
-          "gratis": false
+          "gratis": false,
+          "formato": "vertical"
         }
       ]
     },
@@ -681,25 +687,29 @@
           "titulo": "3.3 Ejercicio 1",
           "youtube_id": "H19bm6W_8hQ",
           "pdf_link": "https://drive.google.com/file/d/1ieMOe0N_b-MvlUUpwCc7Y7j2EAp8F5wS/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "3.4 Ejercicio 2",
           "youtube_id": "YdYpnczBipU",
           "pdf_link": "https://drive.google.com/file/d/1ieMOe0N_b-MvlUUpwCc7Y7j2EAp8F5wS/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "3.5 Ejercicio 3",
           "youtube_id": "6vPsmV8ZOYM",
           "pdf_link": "https://drive.google.com/file/d/1ieMOe0N_b-MvlUUpwCc7Y7j2EAp8F5wS/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "3.6 Ejercicio 4",
           "youtube_id": "sEhuTE3caDg",
           "pdf_link": "https://drive.google.com/file/d/1ieMOe0N_b-MvlUUpwCc7Y7j2EAp8F5wS/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         }
       ]
     },
@@ -839,19 +849,22 @@
           "titulo": "4.2 Ejercicios",
           "youtube_id": "LpSsL6LhGkQ",
           "pdf_link": "https://drive.google.com/file/d/1X7PnbFYtlLnNEowLSb1ClfY9_zeTmWso/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "4.3 Ejercicios",
           "youtube_id": "jXzxbCNlGT4",
           "pdf_link": "https://drive.google.com/file/d/1X7PnbFYtlLnNEowLSb1ClfY9_zeTmWso/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "4.4 Ejercicios",
           "youtube_id": "WfcXo619Trw",
           "pdf_link": "https://drive.google.com/file/d/1X7PnbFYtlLnNEowLSb1ClfY9_zeTmWso/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         }
       ]
     },
@@ -1111,19 +1124,22 @@
           "titulo": "5.2 Ejercicios",
           "youtube_id": "pyw5OvFi5_g",
           "pdf_link": "https://drive.google.com/file/d/1my-i18K2lOuQLr9-LO39qGzvljflEXQB/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "5.3 Ejercicios",
           "youtube_id": "Ch_eUNfO_DA",
           "pdf_link": "https://drive.google.com/file/d/1my-i18K2lOuQLr9-LO39qGzvljflEXQB/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "5.4 Ejercicios",
           "youtube_id": "R9auk0Aq-k0",
           "pdf_link": "https://drive.google.com/file/d/1my-i18K2lOuQLr9-LO39qGzvljflEXQB/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         }
       ]
     },
@@ -1383,19 +1399,22 @@
           "titulo": "6.2 Ejercicios",
           "youtube_id": "dp2bikJ9TAU",
           "pdf_link": "https://drive.google.com/file/d/14pItoMRpRfL2m6hF0pXCOos6scvgwsf0/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "6.3 Ejercicios",
           "youtube_id": "lnacgDjM7RE",
           "pdf_link": "https://drive.google.com/file/d/14pItoMRpRfL2m6hF0pXCOos6scvgwsf0/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "6.4 Ejercicios",
           "youtube_id": "XYZGjKTOHJY",
           "pdf_link": "https://drive.google.com/file/d/14pItoMRpRfL2m6hF0pXCOos6scvgwsf0/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         }
       ]
     },
@@ -1655,19 +1674,22 @@
           "titulo": "7.2 Ejercicios",
           "youtube_id": "78xR6eg1d4U",
           "pdf_link": "https://drive.google.com/file/d/1Xsq3j-wdbjeTEXakt0mjolSTBp34aUOt/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "7.3 Ejercicios",
           "youtube_id": "sscSYQ6ShfU",
           "pdf_link": "https://drive.google.com/file/d/1Xsq3j-wdbjeTEXakt0mjolSTBp34aUOt/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "7.4 Ejercicios",
           "youtube_id": "wnEOIYrO184",
           "pdf_link": "https://drive.google.com/file/d/1Xsq3j-wdbjeTEXakt0mjolSTBp34aUOt/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         }
       ]
     },
@@ -1927,25 +1949,29 @@
           "titulo": "8.2 Ejercicios",
           "youtube_id": "XHmuvp__rSI",
           "pdf_link": "https://drive.google.com/file/d/1iXmzXHs5TKoyBDuNzVsSDC2F1dPPzb2z/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "8.3 Ejercicios",
           "youtube_id": "jIqN55j7yZ8",
           "pdf_link": "https://drive.google.com/file/d/1iXmzXHs5TKoyBDuNzVsSDC2F1dPPzb2z/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "8.4 Ejercicios",
           "youtube_id": "GOfITF2ypfg",
           "pdf_link": "https://drive.google.com/file/d/1iXmzXHs5TKoyBDuNzVsSDC2F1dPPzb2z/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "8.5 Ejercicios",
           "youtube_id": "MY8NojQCt-w",
           "pdf_link": "https://drive.google.com/file/d/1iXmzXHs5TKoyBDuNzVsSDC2F1dPPzb2z/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         }
       ]
     },
@@ -2205,19 +2231,22 @@
           "titulo": "9.1 Ejercicios",
           "youtube_id": "TrpwzTaFNWs",
           "pdf_link": "https://drive.google.com/file/d/1WT-ZCsi0VeRSnJRAm6FyUrhHqMjBlJ5C/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "9.1 Ejercicios",
           "youtube_id": "f1hbpw-fc8w",
           "pdf_link": "https://drive.google.com/file/d/1WT-ZCsi0VeRSnJRAm6FyUrhHqMjBlJ5C/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "9.1 Ejercicios",
           "youtube_id": "buXC76KvD-g",
           "pdf_link": "https://drive.google.com/file/d/1WT-ZCsi0VeRSnJRAm6FyUrhHqMjBlJ5C/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         }
       ]
     },
@@ -2477,19 +2506,22 @@
           "titulo": "10.2 Ejercicios",
           "youtube_id": "KQYJQvGW3aQ",
           "pdf_link": "https://drive.google.com/file/d/1u9CFP0z_i-qpwmL8v8mDAfqztxIOpk4F/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "10.3 Ejercicios",
           "youtube_id": "QZsc0qiZ4hU",
           "pdf_link": "https://drive.google.com/file/d/1u9CFP0z_i-qpwmL8v8mDAfqztxIOpk4F/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "10.4 Ejercicios",
           "youtube_id": "X3lWrFxrhTM",
           "pdf_link": "https://drive.google.com/file/d/1u9CFP0z_i-qpwmL8v8mDAfqztxIOpk4F/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         }
       ]
     },
@@ -2749,19 +2781,22 @@
           "titulo": "11.2 Ejercicios",
           "youtube_id": "_M2SG4quX1w",
           "pdf_link": "https://drive.google.com/file/d/16VOwTDaIOvr487F8z5tjctPF6G7jU9Aa/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "11.3 Ejercicios",
           "youtube_id": "KRgBHq9aQvM",
           "pdf_link": "https://drive.google.com/file/d/16VOwTDaIOvr487F8z5tjctPF6G7jU9Aa/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "11.4 Ejercicios",
           "youtube_id": "rSQCbGEfzVE",
           "pdf_link": "https://drive.google.com/file/d/16VOwTDaIOvr487F8z5tjctPF6G7jU9Aa/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         }
       ]
     },
@@ -3021,13 +3056,15 @@
           "titulo": "12.2 Ejercicios",
           "youtube_id": "vWP82f6vEvI",
           "pdf_link": "https://drive.google.com/file/d/1w1oaZWrxefpVBKaao-KkalFP9Lw6qn4Y/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "12.3 Ejercicios",
           "youtube_id": "75lc0pJ5rRQ",
           "pdf_link": "https://drive.google.com/file/d/1w1oaZWrxefpVBKaao-KkalFP9Lw6qn4Y/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         }
       ]
     },
@@ -3275,13 +3312,15 @@
           "titulo": "13.2 Ejercicios",
           "youtube_id": "-cqigAPW5gI",
           "pdf_link": "https://drive.google.com/file/d/1RtyL1CT3zcRu-WcTt0ENZzrUjbrTnnoC/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "13.3 Ejercicios",
           "youtube_id": "R3fZuDd1kgY",
           "pdf_link": "https://drive.google.com/file/d/1RtyL1CT3zcRu-WcTt0ENZzrUjbrTnnoC/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         }
       ]
     },
@@ -3541,13 +3580,15 @@
           "titulo": "14.2 Ejercicios",
           "youtube_id": "56tGGNSCI98",
           "pdf_link": "https://drive.google.com/file/d/1IWKnoQrKRvLNvxZPtCYJa6lUXABLxQEu/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "14.3 Ejercicios",
           "youtube_id": "F1vtTRZxVWo",
           "pdf_link": "https://drive.google.com/file/d/1IWKnoQrKRvLNvxZPtCYJa6lUXABLxQEu/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         }
       ]
     },
@@ -3807,13 +3848,15 @@
           "titulo": "15.2 Ejercicios",
           "youtube_id": "AHEnAYgZKDU",
           "pdf_link": "https://drive.google.com/file/d/1foZloAK9mx2EJ9CaBMmSqK0NAGlggNXD/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "15.3 Ejercicios",
           "youtube_id": "yegoORhsh8M",
           "pdf_link": "https://drive.google.com/file/d/1foZloAK9mx2EJ9CaBMmSqK0NAGlggNXD/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         }
       ]
     },
@@ -4073,13 +4116,15 @@
           "titulo": "16.2 Ejercicios",
           "youtube_id": "dtLXjfjNJYw",
           "pdf_link": "https://drive.google.com/file/d/1ZUvT8jOdmq4C7yJvVcGkCzvxZEmC-HXj/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "16.3 Ejercicios",
           "youtube_id": "xWa-om019lk",
           "pdf_link": "https://drive.google.com/file/d/1ZUvT8jOdmq4C7yJvVcGkCzvxZEmC-HXj/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         }
       ]
     },
@@ -4339,19 +4384,22 @@
           "titulo": "17.2 Ejercicios",
           "youtube_id": "4k4W6bNj6IM",
           "pdf_link": "https://drive.google.com/file/d/16o3iwfWjvkJPPao60-V-3nudZ2l7woSK/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "17.3 Ejercicios",
           "youtube_id": "7CY1cOkeFFw",
           "pdf_link": "https://drive.google.com/file/d/16o3iwfWjvkJPPao60-V-3nudZ2l7woSK/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "17.4 Ejercicios",
           "youtube_id": "NMVXAAPF5z4",
           "pdf_link": "https://drive.google.com/file/d/16o3iwfWjvkJPPao60-V-3nudZ2l7woSK/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         }
       ]
     },
@@ -4611,13 +4659,15 @@
           "titulo": "18.2 Ejercicios",
           "youtube_id": "t7Xg3k4Fm4g",
           "pdf_link": "https://drive.google.com/file/d/1vYA2NB4-WWDdMu32lifBQaI3qZlEpNh7/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "18.3 Ejercicios",
           "youtube_id": "ZLyduwnNgvg",
           "pdf_link": "https://drive.google.com/file/d/1vYA2NB4-WWDdMu32lifBQaI3qZlEpNh7/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         }
       ]
     },
@@ -4877,13 +4927,15 @@
           "titulo": "19.2 Ejercicios",
           "youtube_id": "I6oep2bfQfg",
           "pdf_link": "https://drive.google.com/file/d/1PV2oHz8CG-Z1zyL64eQSUXopRoh_AjOQ/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "19.3 Ejercicios",
           "youtube_id": "R7Elh60JXkw",
           "pdf_link": "https://drive.google.com/file/d/1PV2oHz8CG-Z1zyL64eQSUXopRoh_AjOQ/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         }
       ]
     },
@@ -5143,19 +5195,22 @@
           "titulo": "20.2 Ejercicios",
           "youtube_id": "7Xp2XNwkl0o",
           "pdf_link": "https://drive.google.com/file/d/1aFVgLT711mAclNUQJaT45FQaHtfzMJwQ/view",
-          "gratis": true
+          "gratis": true,
+           "formato": "vertical"
         },
          {
           "titulo": "20.3 Ejercicios",
           "youtube_id": "wdrkicQ-b2Y",
           "pdf_link": "https://drive.google.com/file/d/1aFVgLT711mAclNUQJaT45FQaHtfzMJwQ/view",
-          "gratis": true
+          "gratis": true,
+           "formato": "vertical"
         },
          {
           "titulo": "20.4 Ejercicios",
           "youtube_id": "OmqecqWc8sI",
           "pdf_link": "https://drive.google.com/file/d/1aFVgLT711mAclNUQJaT45FQaHtfzMJwQ/view",
-          "gratis": true
+          "gratis": true,
+           "formato": "vertical"
         }
       ]
     },
@@ -5415,13 +5470,15 @@
           "titulo": "21.2 Ejercicios",
           "youtube_id": "TGdSDi73gX4",
           "pdf_link": "https://drive.google.com/file/d/1B1bwGQXqm9dGFkwAaL3L2i0ZCzVk17QS/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "21.3 Ejercicios",
           "youtube_id": "Ra1jIFO_G0w",
           "pdf_link": "https://drive.google.com/file/d/1B1bwGQXqm9dGFkwAaL3L2i0ZCzVk17QS/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         }
       ]
     },
@@ -5681,13 +5738,15 @@
           "titulo": "22.2 Ejercicios",
           "youtube_id": "1bj7lyvvQMc",
           "pdf_link": "https://drive.google.com/file/d/18zoUqHSXG3ixzbF3hv3O9n_xJT6NmoYU/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "22.3 Ejercicios",
           "youtube_id": "BjOXR_RpbBc",
           "pdf_link": "https://drive.google.com/file/d/18zoUqHSXG3ixzbF3hv3O9n_xJT6NmoYU/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         }
       ]
     },
@@ -5947,13 +6006,15 @@
           "titulo": "23.2 Ejercicios",
           "youtube_id": "28bDUTZzrVI",
           "pdf_link": "https://drive.google.com/file/d/1yYSkHujhVdJCbfUqGA4vWxynsl0G_-TD/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "23.3 Ejercicios",
           "youtube_id": "tQtTG3LJfec",
           "pdf_link": "https://drive.google.com/file/d/1yYSkHujhVdJCbfUqGA4vWxynsl0G_-TD/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         }
       ]
     },
@@ -6213,13 +6274,15 @@
           "titulo": "24.2 Ejercicios",
           "youtube_id": "e745HIfz5M0",
           "pdf_link": "https://drive.google.com/file/d/1cgdHHOFIcUBKBgJ6s8TlLygiCp9HjagY/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         },
         {
           "titulo": "24.3 Ejercicios",
           "youtube_id": "oRw0wqwAnYU",
           "pdf_link": "https://drive.google.com/file/d/1cgdHHOFIcUBKBgJ6s8TlLygiCp9HjagY/view",
-          "gratis": true
+          "gratis": true,
+          "formato": "vertical"
         }
       ]
     }
