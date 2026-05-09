@@ -1,0 +1,4430 @@
+{
+  "curso": "Comp. Comunicativa",
+  "temas": [
+      {
+      "titulo": "Tema 1: La Comunicación Humana",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "1.1 Parte 1",
+          "youtube_id": "XRpPdQsRW3k",
+          "pdf_link": "https://drive.google.com/file/d/1Qt5nL5GqvXBHDW8twkS9k8mBGH5OYmDT/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según el texto, ¿cómo se define el concepto de comunicación?",
+    "opciones": [
+      "Como el funcionamiento adecuado de los órganos de producción fonética.",
+      "Como un sistema de signos convencionales exclusivo de una lengua.",
+      "Como el acto, hecho o proceso donde se interactúa para intercambiar información.",
+      "Como el medio físico por donde se difunde un mensaje."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuáles son las tres fases de la comunicación mencionadas en el texto?",
+    "opciones": [
+      "Codificadora, decodificadora y transmisora",
+      "Psíquica, fisiológica y física",
+      "Auditiva, oral y escrita",
+      "Situacional, referencial y contextual"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La fase psíquica de la comunicación está constituida por:",
+    "opciones": [
+      "La producción fonética del emisor.",
+      "El desplazamiento del mensaje por el aire.",
+      "La codificación elaborada por el emisor y la decodificación del receptor.",
+      "La percepción visual y auditiva de los interlocutores."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la comunicación oral, el funcionamiento del aparato fonador y el órgano articulatorio pertenece a la fase:",
+    "opciones": [
+      "Psíquica",
+      "Fisiológica",
+      "Física",
+      "Ideológica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El desplazamiento de la información a través de canales naturales o artificiales, como las ondas sonoras o un texto impreso, ocurre en la fase:",
+    "opciones": [
+      "Física",
+      "Mental",
+      "Psíquica",
+      "Fisiológica"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuáles son otras denominaciones usadas para el elemento 'Emisor'?",
+    "opciones": [
+      "Oyente, lector o decodificador",
+      "Destinatario o receptor",
+      "Hablante, escritor o codificador",
+      "Medio, canal o vía"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La función principal del 'Receptor' en el proceso comunicativo es:",
+    "opciones": [
+      "Codificar el mensaje mentalmente.",
+      "Difundir el mensaje a través del aire.",
+      "Servir de medio físico de transporte.",
+      "Percibir el mensaje, decodificarlo y comprenderlo plenamente."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Según el texto, ¿qué otra denominación equivalente recibe el Receptor?",
+    "opciones": [
+      "Destinatario",
+      "Codificador",
+      "Hablante",
+      "Entorno"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "El aire, el papel impreso, una computadora o el Internet son ejemplos de:",
+    "opciones": [
+      "Código",
+      "Canal",
+      "Referente",
+      "Circunstancia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Se define como un 'sistema de signos convencionales, básicamente de una lengua, que conocen y utilizan el emisor y el receptor':",
+    "opciones": [
+      "Canal",
+      "Referente",
+      "Código",
+      "Mensaje"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La información o contenido que el emisor quiere dar a conocer al receptor recibe el nombre de:",
+    "opciones": [
+      "Código",
+      "Mensaje",
+      "Referente",
+      "Circunstancia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Los objetos, seres o fenómenos de la realidad o la imaginación a los que se hace mención en el acto comunicativo corresponden al:",
+    "opciones": [
+      "Referente",
+      "Contexto",
+      "Canal",
+      "Mensaje"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según el texto, ejemplos como 'gato', 'sirena', 'Zeus' o 'unicornio' corresponden al elemento de la comunicación llamado:",
+    "opciones": [
+      "Código",
+      "Circunstancia",
+      "Referente",
+      "Emisor"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La identidad o concepción filosófica, ideológica, política, social y económica de los interlocutores forma parte de:",
+    "opciones": [
+      "El canal",
+      "La fase psíquica",
+      "El referente",
+      "La circunstancia"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuáles son términos equivalentes a la 'Circunstancia' en la comunicación?",
+    "opciones": [
+      "Situación, entorno o contexto",
+      "Espacio, tiempo y código",
+      "Canal, medio y referente",
+      "Codificación y decodificación"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿En qué fase de la comunicación ambos interlocutores utilizan la lengua o idioma para codificar y decodificar el discurso?",
+    "opciones": [
+      "Física",
+      "Psíquica",
+      "Fisiológica",
+      "Articulatoria"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El funcionamiento de los órganos de percepción, como la audición, por parte del receptor corresponde a la fase:",
+    "opciones": [
+      "Fisiológica",
+      "Psíquica",
+      "Física",
+      "Emocional"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Para que el mensaje sea codificado y decodificado exitosamente, el código debe:",
+    "opciones": [
+      "Ser un medio físico natural o artificial inalterable.",
+      "Ser parte exclusiva de la ideología política del emisor.",
+      "Ser conocido y utilizado tanto por el emisor como por el receptor.",
+      "Basarse únicamente en fenómenos de la imaginación."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes alternativas NO es catalogada como un elemento de la comunicación en el texto, sino como una fase?",
+    "opciones": [
+      "Canal",
+      "Referente",
+      "Circunstancia",
+      "Fase psíquica"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "El lugar, el momento y los acontecimientos o hechos que motivan la comunicación constituyen:",
+    "opciones": [
+      "El mensaje",
+      "La circunstancia",
+      "El referente",
+      "El canal"
+    ],
+    "correcta": 1
+  }
+          ]
+        },
+        {
+          "titulo": "1.2 Parte 2",
+          "youtube_id": "4pHDGZ48cuE",
+          "pdf_link": "https://drive.google.com/file/d/1O8ziAIriuyN5uPpzZXgR2hGKeY_Kufxs/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según el texto, ¿qué característica corresponde a la comunicación escrita?",
+    "opciones": [
+      "Es momentánea y fugaz.",
+      "Se apela a la improvisación.",
+      "Es duradera y la información está almacenada en soportes físicos.",
+      "Desarrolla una interacción sincrónica."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de interacción desarrollan el emisor y el receptor en la comunicación oral?",
+    "opciones": [
+      "Asincrónica",
+      "Sincrónica",
+      "Diferida",
+      "Escrita"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La comunicación oral se apoya principalmente en recursos como:",
+    "opciones": [
+      "Tipografía y signos de puntuación",
+      "Títulos, subtítulos y cohesión",
+      "Recursos no verbales (kinésica, proxémica) y paraverbales",
+      "Planificación rigurosa del texto"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El tipo de comunicación no lingüística que se da a través de movimientos corporales, posturas y gestos se denomina:",
+    "opciones": [
+      "Proxémica",
+      "Kinésica",
+      "Oculésica",
+      "Háptica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué se refiere la comunicación proxémica según el texto?",
+    "opciones": [
+      "Al contacto ocular directo entre los interlocutores.",
+      "Al uso de los colores para transmitir emociones.",
+      "Al distanciamiento o aproximación física que establecemos con otras personas.",
+      "Al tacto y contacto físico con el receptor."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El medio expresivo que aporta información relacionada con la conducta visual y establece el contacto ocular es la comunicación:",
+    "opciones": [
+      "Cronémica",
+      "Facial",
+      "Háptica",
+      "Oculésica"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué tipo de comunicación no lingüística se asocia a la apreciación del contacto físico, como una caricia o un pellizco?",
+    "opciones": [
+      "Háptica",
+      "Kinésica",
+      "Cronémica",
+      "Proxémica"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Si el significado de un mensaje varía dependiendo de la mayor o menor duración de un abrazo o un saludo, nos referimos a la comunicación:",
+    "opciones": [
+      "Acústica",
+      "Cromática",
+      "Cronémica",
+      "Kinésica"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es una característica de la comunicación facial mencionada en el documento?",
+    "opciones": [
+      "Utiliza solo la voz para transmitir estados de ánimo.",
+      "Las expresiones de felicidad, tristeza, ira, etc., son universales.",
+      "Consiste en medir la temperatura o presión al tocar.",
+      "Depende exclusivamente de los colores del entorno."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según la comunicación cromática, ¿qué impacto tiene el color en las personas?",
+    "opciones": [
+      "Carece de cualquier impacto psicológico.",
+      "No afecta los niveles de energía ni el estado de ánimo.",
+      "Solo transmite señales simples y verbales.",
+      "Expresa, comunica y tiene un impacto psicológico en la persona que lo ve."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "La producción, percepción y significación de sonidos inarticulados usados intencionalmente pertenece a la comunicación:",
+    "opciones": [
+      "Acústica",
+      "Oculésica",
+      "Lingüística",
+      "Formal"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de comunicación por la relación entre emisor y receptor se produce dentro de una misma persona (ej. un soliloquio)?",
+    "opciones": [
+      "Interpersonal",
+      "Intrapersonal",
+      "Grupal",
+      "Masiva"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Cuando en el proceso comunicativo interactúan exactamente dos personas, se está produciendo una comunicación:",
+    "opciones": [
+      "Intrapersonal",
+      "Pública",
+      "Grupal",
+      "Interpersonal"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "La comunicación masiva se caracteriza por:",
+    "opciones": [
+      "Darse de forma cerrada y privada entre dos personas.",
+      "Llevarse a cabo entre un único emisor y un receptor amplio, heterogéneo y anónimo.",
+      "La transmisión de mensajes orientados solo al entretenimiento.",
+      "Utilizar únicamente la comunicación acústica."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La interacción entre ciudadanos a través de los medios de comunicación social, de manera abierta para mantenerse informados, corresponde a la comunicación:",
+    "opciones": [
+      "Intrapersonal",
+      "Masiva",
+      "Grupal",
+      "Pública"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "El proceso de transmisión de información a través de dispositivos como la radio, la televisión, el cable o medios digitales se denomina:",
+    "opciones": [
+      "Electrónica",
+      "Escrita",
+      "Formal",
+      "Acústica"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según el tratamiento del mensaje, el uso del nivel de lengua familiar o amical se clasifica como comunicación:",
+    "opciones": [
+      "Formal",
+      "Informal",
+      "Coloquial",
+      "Informativa"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿A qué tipo de comunicación (según el tratamiento del mensaje) corresponde el uso de un nivel de lengua subestándar, común o vulgar?",
+    "opciones": [
+      "Informal",
+      "Formal",
+      "Coloquial",
+      "Propagandística"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En un entorno organizativo, el envío de documentos oficiales como memorandos, oficios o informes es un ejemplo de comunicación:",
+    "opciones": [
+      "Informal",
+      "Coloquial",
+      "Formal",
+      "Pública"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La comunicación por el contexto que es espontánea, libre de formalidades organizativas y se da de acuerdo a preferencias individuales es la:",
+    "opciones": [
+      "Pública",
+      "Informal",
+      "Formal",
+      "Grupal"
+    ],
+    "correcta": 1
+  }
+          ]
+        },
+        {
+          "titulo": "1.3 Parte 3",
+          "youtube_id": "jqetioE1k4c",
+          "pdf_link": "https://drive.google.com/file/d/1b0viTK65_KJS108j00JlFuEMiGpmnkng/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "¿Cuál es el objetivo principal de la función social de la comunicación según el texto?",
+    "opciones": [
+      "Establecer jerarquías en una empresa.",
+      "Mantener las relaciones sociales, establecer contactos y amistades.",
+      "Transmitir únicamente hábitos y valores culturales.",
+      "Crear mensajes en un nivel literario o formal."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La función que utilizan las personas cuando cumplen diversos roles dentro de la sociedad se denomina:",
+    "opciones": [
+      "Simbólica",
+      "Organizativa",
+      "Social",
+      "Cultural"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La función que consiste en representar un significado por medio de un significante que sirve para evocar un objeto ausente es la:",
+    "opciones": [
+      "Simbólica",
+      "Lingüística",
+      "Recíproca",
+      "Organizativa"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué elementos se utilizan principalmente en la función simbólica para representar hechos, objetos o sentimientos?",
+    "opciones": [
+      "Estratos y jerarquías",
+      "Puestos y normas sociales",
+      "Símbolos, señales y signos lingüísticos y no lingüísticos",
+      "Niveles literarios y coloquiales"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "De acuerdo con la función lingüística de la comunicación, ¿cuántas son las funciones del lenguaje mencionadas en el texto?",
+    "opciones": [
+      "Cuatro",
+      "Cinco",
+      "Seis",
+      "Siete"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La capacidad del emisor de ordenar sus ideas y elegir el tratamiento lingüístico para construir un mensaje en nivel literario, formal o coloquial, corresponde a la función:",
+    "opciones": [
+      "Social",
+      "Lingüística",
+      "Organizativa",
+      "Cultural"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son las cuatro funciones principales que cumple la comunicación en una organización?",
+    "opciones": [
+      "Control, motivación, expresión emocional e información.",
+      "Integración, dinamismo, reciprocidad y transacción.",
+      "Referencial, expresiva, apelativa y poética.",
+      "Socialización, culturización, simbolización y jerarquización."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "La generación de normas, roles y funciones para construir una empresa o estructura social es propia de la función:",
+    "opciones": [
+      "Simbólica",
+      "Organizativa",
+      "Social",
+      "Lingüística"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se transmite a través de la función cultural en los procesos comunicativos?",
+    "opciones": [
+      "Hábitos, costumbres, valores y creencias de una cultura.",
+      "Órdenes jerárquicas exclusivas de una empresa.",
+      "Únicamente símbolos y señales matemáticas.",
+      "La interdependencia de roles de una organización."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "A través de la función cultural de la comunicación, los individuos pueden apreciar principalmente:",
+    "opciones": [
+      "El nivel literario de los mensajes.",
+      "El dinamismo inmutable del tiempo.",
+      "Las diferencias y similitudes culturales.",
+      "El intercambio de roles directivos."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El proceso y resultado de mantener unidas las partes de un todo a través de la comunicación corresponde a su naturaleza o carácter:",
+    "opciones": [
+      "Transaccional",
+      "Dinámico",
+      "Integrador",
+      "Recíproco"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según el carácter integrador de la comunicación, ¿qué es necesario para que esta sea real y efectiva?",
+    "opciones": [
+      "La posibilidad de reunión que una a las personas.",
+      "El uso exclusivo de señales no lingüísticas.",
+      "La creación de jerarquías sociales estrictas.",
+      "El empleo de un lenguaje puramente formal."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "El carácter transaccional de la comunicación se distingue porque:",
+    "opciones": [
+      "La comunicación fluye en un solo sentido sin interrupciones.",
+      "El emisor es a su vez receptor, existiendo un intercambio de roles bidireccional.",
+      "Las partes mantienen una relación estrictamente jerárquica.",
+      "Los participantes permanecen fijos e inmutables en el proceso."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Cuando las personas interactúan, cambian de papeles de manera interactiva y logran entenderse plenamente, se manifiesta el carácter:",
+    "opciones": [
+      "Simbólico",
+      "Transaccional",
+      "Dinámico",
+      "Cultural"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué se afirma que la comunicación tiene un carácter dinámico?",
+    "opciones": [
+      "Porque sus elementos son inmutables y fijos en el espacio.",
+      "Porque carece de variables durante la transmisión del mensaje.",
+      "Porque fluye en forma continua en un cambio constante de fuerzas.",
+      "Porque solo se da en niveles de lenguaje formales e informales."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según la naturaleza dinámica de la comunicación, las particularidades que interactúan en el proceso son siempre:",
+    "opciones": [
+      "Repetitivas, predecibles y fijas.",
+      "Dinámicas, variables e irrepetibles.",
+      "Bidireccionales pero estáticas.",
+      "Simbólicas y ausentes."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El comportamiento comunicativo que permite diversas formas de cooperación para lograr objetivos compartidos altamente beneficiosos se asocia al carácter:",
+    "opciones": [
+      "Recíproco",
+      "Integrador",
+      "Organizativo",
+      "Dinámico"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según el texto, la existencia humana tiene su base primordial en el encuentro comunicativo:",
+    "opciones": [
+      "Simbólico y abstracto.",
+      "Recíproco entre los demás.",
+      "Exclusivamente literario.",
+      "Dinámico e inmutable."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué función de la comunicación promueve la interdependencia y la transmisión de información entre todas las partes de una estructura social?",
+    "opciones": [
+      "Organizativa",
+      "Lingüística",
+      "Cultural",
+      "Social"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Si un individuo utiliza una señal para evocar algo que no está presente físicamente, está haciendo uso primordialmente de la función:",
+    "opciones": [
+      "Organizativa",
+      "Cultural",
+      "Simbólica",
+      "Dinámica"
+    ],
+    "correcta": 2
+  }
+          ]
+        },
+        {
+          "titulo": "1.4 Parte 4",
+          "youtube_id": "nmER2N-rDnw",
+          "pdf_link": "https://drive.google.com/file/d/1IYMKwU5kfWSGcgxaOFTB_05r5jZ_6twd/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "¿A qué factor del proceso comunicativo corresponde la cantidad y calidad de información que se tiene acerca del referente?",
+    "opciones": [
+      "Competencia lexicológica",
+      "Contexto sociocultural",
+      "Nivel de conocimiento",
+      "Actitudes"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según el texto, el factor 'Nivel de conocimiento' tiene como elemento principal a un:",
+    "opciones": [
+      "Receptor",
+      "Referente",
+      "Canal",
+      "Código"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El dominio lexicológico de nuestro código lingüístico y el uso pertinente del vocabulario se refiere al factor llamado:",
+    "opciones": [
+      "Nivel de conocimiento",
+      "Competencia lexicológica",
+      "Ruido semántico",
+      "Redundancia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué facilita la competencia lexicológica al receptor durante el proceso comunicativo?",
+    "opciones": [
+      "Hablar y escribir con claridad y sencillez.",
+      "Escuchar y leer adecuadamente.",
+      "Emitir mensajes persuasivos.",
+      "Ignorar completamente el ruido físico."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Los comportamientos, motivaciones, reacciones como el interés, el miedo o la alegría adoptados durante la comunicación, corresponden al factor denominado:",
+    "opciones": [
+      "Contexto sociocultural",
+      "Ruido psicológico",
+      "Actitudes",
+      "Nivel de conocimiento"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "De acuerdo con el texto, ¿cómo se recomienda que sean las actitudes practicadas por los interlocutores durante la comunicación?",
+    "opciones": [
+      "Críticas",
+      "Pasivas",
+      "Neutras",
+      "Positivas"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "El factor que explica por qué personas de edades, procedencia geográfica o niveles educativos diferentes usan la lengua de forma distinta es:",
+    "opciones": [
+      "El contexto sociocultural",
+      "La competencia lexicológica",
+      "La actitud",
+      "El ruido semántico"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué elemento es considerado como un factor de degradación que obstaculiza e impide el éxito de la comunicación?",
+    "opciones": [
+      "La redundancia",
+      "El ruido",
+      "El contexto sociocultural",
+      "La actitud pasiva"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El ruido puede ser externo cuando se origina en el medio ambiente, e interno cuando:",
+    "opciones": [
+      "Se produce únicamente en el medio físico de transmisión.",
+      "Surge por el deterioro exclusivo de la escritura.",
+      "Se origina en la misma fuente, como recuerdos o sentimientos de rechazo.",
+      "Se interfiere intencionalmente el mensaje televisivo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La baja señal del sistema de Internet o los borrones en una impresión escrita son ejemplos de:",
+    "opciones": [
+      "Ruido fisiológico",
+      "Ruido semántico",
+      "Ruido físico",
+      "Ruido psicológico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿En qué elemento de la comunicación ocurren principalmente las interferencias que constituyen el ruido físico?",
+    "opciones": [
+      "En el canal",
+      "En el referente",
+      "En el emisor",
+      "En el código"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Cuando una de las personas en la comunicación presenta una afonía o pronunciación defectuosa, estamos ante un caso de ruido:",
+    "opciones": [
+      "Psicológico",
+      "Fisiológico",
+      "Semántico",
+      "Técnico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La distracción, las emociones intensas, la ansiedad y la preocupación en el individuo generan un ruido catalogado como:",
+    "opciones": [
+      "Semántico",
+      "Físico",
+      "Psicológico",
+      "Blanco"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de ruido se produce cuando el receptor no comprende el significado de alguna palabra o expresión del mensaje?",
+    "opciones": [
+      "Ruido semántico",
+      "Ruido fisiológico",
+      "Ruido blanco",
+      "Ruido físico"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Si el emisor y el receptor no usan el mismo código, la misma lengua o idioma, experimentan un ruido de tipo:",
+    "opciones": [
+      "Fisiológico",
+      "Técnico",
+      "Semántico",
+      "Psicológico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el ruido intencionado donde deliberadamente se interfiere u omite una parte del mensaje?",
+    "opciones": [
+      "Ruido físico o externo",
+      "Ruido técnico o blanco",
+      "Ruido fisiológico u orgánico",
+      "Ruido psicológico o mental"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El uso del 'pitillo' para evitar la audición de expresiones groseras o malsonantes es un ejemplo de:",
+    "opciones": [
+      "Ruido técnico o blanco",
+      "Ruido semántico",
+      "Redundancia",
+      "Ruido fisiológico"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "El factor de perfeccionamiento comunicativo que consiste en la repetición intencional de parte o todo el mensaje se denomina:",
+    "opciones": [
+      "Contexto sociocultural",
+      "Competencia lexicológica",
+      "Redundancia",
+      "Ruido blanco"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el propósito principal de la redundancia en el proceso comunicativo?",
+    "opciones": [
+      "Obstaculizar y degradar la calidad del mensaje.",
+      "Distorsionar deliberadamente la información.",
+      "Reducir y combatir los efectos que genera el ruido.",
+      "Cambiar el nivel de conocimiento del receptor."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la comunicación escrita, el uso de las letras mayúsculas, la negrita y el subrayado son ejemplos de:",
+    "opciones": [
+      "Redundancia",
+      "Ruidos intencionados",
+      "Ruidos físicos",
+      "Ruido semántico"
+    ],
+    "correcta": 0
+  }
+          ]
+        },
+        {
+          "titulo": "1.5 Parte 5",
+          "youtube_id": "kOO5DlDUyyA",
+          "pdf_link": "https://drive.google.com/file/d/1fHXHUGhMJL6XTq0NiIv1xPG7Z5HtsmPx/view",
+          "gratis": false,
+          "preguntas": [
+            {
+    "pregunta": "Técnicamente, se denomina 'ruido' a todo factor que:",
+    "opciones": [
+      "Impide que el emisor inicie la comunicación",
+      "Altera, perturba o degrada la señal en el canal",
+      "Obliga al receptor a responder de inmediato",
+      "Cambia el código utilizado por el emisor"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El 'ruido blanco' o técnico se distingue de otros ruidos porque es:",
+    "opciones": [
+      "Involuntario y producto del ambiente",
+      "Exclusivo de la comunicación no verbal",
+      "Provocado de manera deliberada con una finalidad",
+      "Una falla en la decodificación del receptor"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Cuando en una entrevista televisiva se pixela el rostro de una persona para proteger su identidad, estamos ante un ejemplo de:",
+    "opciones": [
+      "Ruido semántico",
+      "Ruido técnico o blanco",
+      "Redundancia informativa",
+      "Ruido psicológico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si un receptor no comprende un mensaje debido a que padece de sordera, el factor de degradación se clasifica como:",
+    "opciones": [
+      "Ruido físico",
+      "Ruido psicológico",
+      "Ruido fisiológico",
+      "Ruido semántico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El ruido psicológico en la comunicación humana está relacionado principalmente con:",
+    "opciones": [
+      "Las fallas mecánicas del canal",
+      "El desconocimiento del significado de las palabras",
+      "Prejuicios, desinterés o estados emocionales del sujeto",
+      "La distancia física entre el emisor y el receptor"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Un ejemplo de ruido semántico ocurre cuando:",
+    "opciones": [
+      "Hay demasiada interferencia estática en la radio",
+      "El emisor usa términos técnicos que el receptor desconoce",
+      "El receptor está distraído pensando en sus problemas",
+      "Se corta la luz durante una proyección"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de la redundancia en el proceso comunicativo?",
+    "opciones": [
+      "Aumentar la complejidad del mensaje",
+      "Combatir y neutralizar los efectos del ruido",
+      "Evitar que el receptor responda al emisor",
+      "Sustituir el código por uno más sencillo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La elevación de la voz por parte de un profesor para ser escuchado en un salón ruidoso es un ejemplo de:",
+    "opciones": [
+      "Ruido blanco",
+      "Retroalimentación",
+      "Redundancia",
+      "Contexto"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En un texto escrito, ¿cuál de los siguientes elementos funciona como redundancia?",
+    "opciones": [
+      "La falta de signos de puntuación",
+      "El uso de negritas, subrayados y cursivas",
+      "Las manchas de tinta sobre el papel",
+      "La ambigüedad en el uso de los adjetivos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El factor que permite verificar si el mensaje fue recibido y comprendido con éxito es:",
+    "opciones": [
+      "La codificación",
+      "La retroalimentación o feedback",
+      "El ruido blanco",
+      "La redundancia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El medio físico a través del cual viaja la señal portadora del mensaje se denomina:",
+    "opciones": [
+      "Referente",
+      "Código",
+      "Canal",
+      "Circunstancia"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Cuando el emisor transforma sus ideas en un sistema de signos (código), realiza el proceso de:",
+    "opciones": [
+      "Decodificación",
+      "Codificación",
+      "Retroalimentación",
+      "Referencia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El 'referente' en la comunicación se define como:",
+    "opciones": [
+      "El sistema de signos utilizado",
+      "El objeto o realidad externa al que alude el mensaje",
+      "La intención que tiene el emisor al hablar",
+      "El lugar donde se produce el diálogo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La comunicación es considerada 'bilateral' o recíproca cuando:",
+    "opciones": [
+      "El emisor es una institución pública",
+      "El mensaje llega a miles de personas a la vez",
+      "Emisor y receptor intercambian roles continuamente",
+      "Solo se utilizan señales visuales"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La 'circunstancia' o contexto se refiere a:",
+    "opciones": [
+      "El conjunto de palabras usadas en el mensaje",
+      "El tiempo y espacio en que se realiza la comunicación",
+      "La capacidad auditiva del receptor",
+      "El aparato técnico usado como canal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un semáforo que cambia a luz roja es un ejemplo de comunicación:",
+    "opciones": [
+      "Lingüística y directa",
+      "No lingüística y visual",
+      "Unilateral y semántica",
+      "Bilateral y auditiva"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si un conferencista tartamudea debido al nerviosismo, está generando un:",
+    "opciones": [
+      "Ruido físico",
+      "Ruido fisiológico",
+      "Ruido semántico",
+      "Ruido técnico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué elemento de la comunicación falla principalmente si un peruano intenta hablar en quechua con alguien que solo sabe ruso?",
+    "opciones": [
+      "El canal",
+      "El código",
+      "El referente",
+      "El mensaje"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La repetición de una idea con diferentes palabras (parafraseo) para asegurar la comprensión es:",
+    "opciones": [
+      "Un tipo de ruido",
+      "Una forma de redundancia",
+      "Un fallo de codificación",
+      "Una interferencia semántica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la comunicación directa, una característica indispensable es:",
+    "opciones": [
+      "El uso de canales artificiales como el teléfono",
+      "La coincidencia de emisor y receptor en el mismo espacio y tiempo",
+      "La ausencia total de redundancia",
+      "Que el código sea estrictamente no verbal"
+    ],
+    "correcta": 1
+  }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 2: El Lenguaje",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "2.1 Parte 1",
+          "youtube_id": "WXqeQFeVAes",
+          "pdf_link": "https://drive.google.com/file/d/1sR7-zXsEO7grKn-1aen1O--zQtamuKxO/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según la Real Academia Española (RAE), ¿cómo se define principalmente el concepto de lenguaje?",
+    "opciones": [
+      "Como un invento moderno para el desarrollo tecnológico.",
+      "Como la facultad del ser humano de expresarse y comunicarse a través del sonido articulado u otros sistemas de signos.",
+      "Como un mecanismo biológico que no requiere de aprendizaje social.",
+      "Como el conjunto de normas gramaticales y pragmáticas exclusivas de la escritura."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Para el estudioso Edward Sapir (1954), el lenguaje se caracteriza fundamentalmente por ser un método:",
+    "opciones": [
+      "Instintivo y común a todas las especies biológicas.",
+      "Exclusivamente humano y no instintivo, basado en símbolos producidos de manera deliberada.",
+      "Un logro puramente biológico que no depende de la voluntad humana.",
+      "Innato que se desarrolla independientemente del entorno social."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según Edward Sapir, los símbolos utilizados en el lenguaje humano son ante todo:",
+    "opciones": [
+      "Visuales y producidos por la escritura.",
+      "Táctiles y desarrollados por el uso de herramientas.",
+      "Auditivos y producidos por los llamados órganos del habla.",
+      "Instintivos y compartidos con otros animales."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué autor contemporáneo define el lenguaje como un \"mecanismo biológico\" y una \"especie de módulo neuronal moldeado a lo largo de la evolución\"?",
+    "opciones": [
+      "Rafael Seco",
+      "Edward Sapir",
+      "Steven Pinker",
+      "Ferdinand de Saussure"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según Steven Pinker (1994), la habilidad de aprender, hablar y entender el lenguaje en el ser humano:",
+    "opciones": [
+      "Es únicamente un logro cultural del hombre civilizado.",
+      "Es una capacidad innata del Homo sapiens y no solo un logro cultural.",
+      "Es un método no instintivo inventado recientemente por la sociedad.",
+      "Se adquiere exclusivamente por imposición de normas gramaticales."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El texto cita a Rafael Seco para sostener que ningún lenguaje funcionaría si no existiera:",
+    "opciones": [
+      "El desarrollo tecnológico.",
+      "La interacción humana.",
+      "El nivel de civilización.",
+      "Un código alfabético escrito."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La característica del lenguaje que establece que este es general y utilizado por los habitantes de todos los continentes del planeta se denomina:",
+    "opciones": [
+      "Innato",
+      "Multiforme",
+      "Universal",
+      "Sistémico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El hecho de que el lenguaje pueda manifestarse de forma oral, escrita, gestual, cromática, musical e icónica, demuestra que es:",
+    "opciones": [
+      "Multiforme",
+      "Racional",
+      "Sistémico",
+      "Aprendido"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Cuando los seres humanos codifican y transmiten mensajes haciendo uso de la inteligencia y el raciocinio, demuestran la característica del lenguaje llamada:",
+    "opciones": [
+      "Simbólica",
+      "Racional",
+      "Cultural",
+      "Convencional"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué característica del lenguaje indica que sus planos (lengua y habla) se adquieren en la sociedad a través de la experiencia y de generación en generación?",
+    "opciones": [
+      "Universal",
+      "Aprendido",
+      "Innato",
+      "Sistémico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La cualidad del lenguaje que afirma que este no es un producto individual, sino el resultado de acuerdos, convenios o pactos del trabajo comunitario, es:",
+    "opciones": [
+      "Convencional",
+      "Multiforme",
+      "Innato",
+      "Racional"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Por qué se afirma que el lenguaje es Sistémico?",
+    "opciones": [
+      "Porque nace de una capacidad biológica inalterable en el cerebro.",
+      "Porque requiere el uso de la razón para crear cultura.",
+      "Porque se manifiesta de muchas formas y colores en todo el mundo.",
+      "Porque funciona de acuerdo a normas o reglas gramaticales y pragmáticas para producir mensajes ordenados."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "El lenguaje permite que una palabra (oral o escrita) signifique algo concreto, abstracto, real o imaginario. Esta capacidad representativa corresponde a su característica:",
+    "opciones": [
+      "Simbólica",
+      "Convencional",
+      "Racional",
+      "Universal"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Entendiendo la cultura como todo aquello material o inmaterial creado por el hombre, el lenguaje es producto de esta creación y a la vez permite seguir creándola. Esto define la característica:",
+    "opciones": [
+      "Multiforme",
+      "Cultural",
+      "Innata",
+      "Sistémica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué característica señala que los seres humanos nacemos con la facultad biológica del lenguaje, la cual nos permite aprender la lengua y el habla?",
+    "opciones": [
+      "Aprendido",
+      "Simbólico",
+      "Innato",
+      "Racional"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según el texto, el lenguaje desempeña una función central en las sociedades civilizadas porque influye principalmente en:",
+    "opciones": [
+      "La creación de sonidos instintivos no comunicativos.",
+      "Su nivel de desarrollo, progreso y conocimiento.",
+      "La evolución del Homo sapiens hacia un estado animal.",
+      "La desaparición del trabajo comunitario y grupal."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según la postura de Edward Sapir, los símbolos que empleamos para comunicar ideas, emociones y deseos son producidos de manera:",
+    "opciones": [
+      "Inconsciente",
+      "Deliberada",
+      "Instintiva",
+      "Azarosa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De la lectura se deduce que hay una doble dimensión en la adquisición del lenguaje: por un lado es una capacidad biológica connatural y por otro es un legado adquirido en sociedad. Estas características corresponden, respectivamente, a:",
+    "opciones": [
+      "Innato y aprendido",
+      "Universal y racional",
+      "Sistémico y multiforme",
+      "Convencional y simbólico"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "El lenguaje nace como el invento más trascendental del hombre con el propósito de:",
+    "opciones": [
+      "Aislarse de otras culturas del planeta.",
+      "Comprender su mundo e interactuar con la sociedad.",
+      "Comunicarse instintivamente como los animales.",
+      "Crear un único sistema auditivo indivisible."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El establecimiento de pactos entre los integrantes de un grupo humano para lograr el trabajo comunitario consolida la característica del lenguaje conocida como:",
+    "opciones": [
+      "Racional",
+      "Innata",
+      "Sistémica",
+      "Convencional"
+    ],
+    "correcta": 3
+  }
+          ]
+        },
+        {
+          "titulo": "2.2 Parte 2",
+          "youtube_id": "Mgqb2SIMRx4",
+          "pdf_link": "https://drive.google.com/file/d/1Ztr0KZtPLa2t6Ctmg9m9zYwu2-lM1tji/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "¿Cuál es la función principal del lenguaje según el texto?",
+    "opciones": [
+      "Estética",
+      "Comunicativa",
+      "Metalingüística",
+      "Expresiva"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué lingüista alemán propuso originalmente las funciones referencial, expresiva y apelativa del lenguaje?",
+    "opciones": [
+      "Ferdinand de Saussure",
+      "Román Jakobson",
+      "Karl Bühler",
+      "Edward Sapir"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuáles son las funciones del lenguaje que fueron complementadas por el lingüista ruso Román Jakobson?",
+    "opciones": [
+      "Referencial, expresiva y apelativa",
+      "Fática, metalingüística y poética",
+      "Representativa, emotiva y conativa",
+      "Social, individual y física"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué elemento de la comunicación se centra la función representativa, referencial o denotativa?",
+    "opciones": [
+      "El emisor",
+      "El canal",
+      "El contenido o referente",
+      "El código"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué función del lenguaje se utiliza predominantemente en los textos informativos para hacer referencia a algo de manera objetiva?",
+    "opciones": [
+      "Función fática",
+      "Función representativa o cognitiva",
+      "Función apelativa o directiva",
+      "Función poética o estética"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La expresión '¡Muere, maldita alimaña!' es un ejemplo característico de la función:",
+    "opciones": [
+      "Expresiva, emotiva o sintomática",
+      "Apelativa, conativa o imperativa",
+      "Poética, estética o literaria",
+      "Fática o de contacto"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué función del lenguaje está centrada en el emisor y pone de manifiesto sus estados de ánimo o psicológicos?",
+    "opciones": [
+      "Función apelativa",
+      "Función referencial",
+      "Función fática",
+      "Función expresiva"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Cuando el hablante pretende que el oyente actúe de conformidad con lo solicitado mediante órdenes o ruegos, hace uso de la función:",
+    "opciones": [
+      "Sintomática",
+      "De glosa",
+      "Apelativa o conativa",
+      "Denotativa"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La expresión 'Prohibido fumar' corresponde a la función del lenguaje denominada:",
+    "opciones": [
+      "Metalingüística",
+      "Apelativa o directiva",
+      "Expresiva o emotiva",
+      "Fática o de contacto"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué función del lenguaje se utiliza cuando el código sirve para referirse al código mismo, como a la gramática o la ortografía?",
+    "opciones": [
+      "Metalingüística, de glosa o autorreguladora",
+      "Fática o de contacto",
+      "Representativa o cognitiva",
+      "Poética, estética o literaria"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "El enunciado 'El verbo perifrástico se estructura con infinitivos, gerundios y participios' cumple una función:",
+    "opciones": [
+      "Cognitiva",
+      "Sintomática",
+      "Autorreguladora o metalingüística",
+      "Estética"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La función fática o de contacto se centra en el elemento comunicativo llamado:",
+    "opciones": [
+      "Mensaje",
+      "Canal",
+      "Referente",
+      "Emisor"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué función del lenguaje tiene como propósito consolidar, detener, retomar o mantener el contacto entre los interlocutores?",
+    "opciones": [
+      "Función conativa",
+      "Función fática",
+      "Función de glosa",
+      "Función referencial"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La frase '¿Aló?... ¿me escuchas?... ¿sigues ahí?' ejemplifica claramente la función:",
+    "opciones": [
+      "Fática o de contacto",
+      "Expresiva o sintomática",
+      "Apelativa o imperativa",
+      "Metalingüística o autorreguladora"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Cuando el lenguaje se utiliza de manera artística y con fines estéticos, centrándose en el mensaje, se emplea la función:",
+    "opciones": [
+      "Representativa",
+      "Poética",
+      "Metalingüística",
+      "Fática"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El verso 'Yo nací un día en que Dios estuvo enfermo' es un ejemplo de la función del lenguaje:",
+    "opciones": [
+      "Poética, estética o literaria",
+      "Expresiva, emotiva o sintomática",
+      "Representativa, referencial o cognitiva",
+      "Metalingüística, de glosa o autorreguladora"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué estudioso planteó que el lenguaje tiene dos planos interdependientes: lengua y habla?",
+    "opciones": [
+      "Karl Bühler",
+      "Román Jakobson",
+      "Ferdinand de Saussure",
+      "Edward Sapir"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según Ferdinand de Saussure, ¿cómo se define el plano de la 'lengua'?",
+    "opciones": [
+      "Como un fenómeno físico y concreto.",
+      "Como el uso personal del idioma.",
+      "Como un sistema de signos lingüísticos convencionales de uso social.",
+      "Como la realización de la pronunciación mediante órganos de fonación."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El uso personal de la lengua, catalogado como un fenómeno físico y concreto que se realiza mediante la pronunciación, se denomina:",
+    "opciones": [
+      "Lenguaje",
+      "Habla",
+      "Código",
+      "Dialecto"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué característica distingue fundamentalmente al 'habla' frente a la 'lengua' en los planos del lenguaje?",
+    "opciones": [
+      "El habla es social y abstracta.",
+      "El habla es el sistema convencional de la comunidad.",
+      "El habla es universal para todos los idiomas.",
+      "El habla es individual y se materializa mediante los órganos de fonación."
+    ],
+    "correcta": 3
+  }
+          ]
+        },
+        {
+          "titulo": "2.3 Parte 3",
+          "youtube_id": "9Daza0F7oHM",
+          "pdf_link": "https://drive.google.com/file/d/1v4vMgYKTGPwj9Np8b1lGKhmi4Rfv2OJN/view",
+          "gratis": false,
+          "preguntas": [
+            {
+    "pregunta": "Según el texto, ¿qué concepto lingüístico se define como un sistema estructurado y debidamente organizado?",
+    "opciones": [
+      "El habla",
+      "La lengua",
+      "El dialecto",
+      "El lenguaje"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué concepto viene a ser la materialización o realización del sistema lingüístico?",
+    "opciones": [
+      "La comunicación",
+      "El código",
+      "El habla",
+      "La convención"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Mientras que la lengua es considerada un código donde los signos se combinan siguiendo ciertas reglas, el habla se caracteriza por ser:",
+    "opciones": [
+      "Un sistema puramente psíquico",
+      "La utilización o uso de dicho sistema de signos",
+      "Una estructura latente e inactiva",
+      "Un conjunto de reglas colectivas fijas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué característica distingue a la lengua en términos de su alcance de uso?",
+    "opciones": [
+      "Es estrictamente individual y personal.",
+      "Es efímera y momentánea en su percepción.",
+      "Es social o colectiva, utilizada en una comunidad lingüística.",
+      "Es un acto físico y netamente fisiológico."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El hecho de que cada persona utilice el sistema de manera oral y personal con un sello particular corresponde a una característica de:",
+    "opciones": [
+      "El habla",
+      "La lengua",
+      "El código",
+      "El sistema mental"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Por qué se dice en el texto que la lengua es de naturaleza psíquica, mental o ideal?",
+    "opciones": [
+      "Porque entra en funcionamiento constante el aparato fonador.",
+      "Porque la cadena sonora se percibe en la pronunciación.",
+      "Porque se halla en las estructuras mentales de los usuarios.",
+      "Porque se transmite libremente de forma oral."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El habla posee una naturaleza física y fisiológica porque en ella:",
+    "opciones": [
+      "Se conservan intactas las estructuras mentales de los usuarios.",
+      "Entra en funcionamiento el aparato fonador y el órgano articulatorio.",
+      "Las lenguas se transmiten de manera perdurable.",
+      "Se combinan los signos de forma latente en el cerebro."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el cuadro de diferencias, se afirma que la lengua es 'más o menos fija' debido a que:",
+    "opciones": [
+      "Se expresa de acuerdo a gustos e intereses personales de cada hablante.",
+      "Conserva sus estructuras fundamentales a pesar de las variaciones lingüísticas.",
+      "Se percibe momentáneamente solo al hablar.",
+      "Es utilizada de manera puramente individual y espontánea."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué se refiere la característica 'libre' correspondiente al habla?",
+    "opciones": [
+      "A que las personas hablamos de manera espontánea, voluntaria y según nuestras necesidades.",
+      "A que no requiere utilizar ningún órgano articulatorio.",
+      "A que se mantiene inactiva en la mente de toda la comunidad.",
+      "A que es estrictamente colectiva y sigue una estructura rígida."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "La lengua se considera perdurable y duradera porque:",
+    "opciones": [
+      "Se transmite de generación en generación.",
+      "Se percibe únicamente al momento de su pronunciación sonora.",
+      "Es la materialización libre y espontánea del sistema.",
+      "Se halla en las estructuras físicas y biológicas del emisor."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según el texto, el habla es catalogada como efímera o momentánea ya que:",
+    "opciones": [
+      "Se halla inactiva en las estructuras mentales.",
+      "Conserva sus estructuras fundamentales a lo largo del tiempo.",
+      "La cadena sonora se percibe únicamente al momento de la pronunciación.",
+      "Se transmite como un código de generación en generación."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué significa que la lengua posea un carácter 'latente'?",
+    "opciones": [
+      "Que se percibe de forma completamente audible en la práctica.",
+      "Que aparentemente está inactiva y se halla como conocimiento en forma teórica.",
+      "Que entra en funcionamiento ruidoso mediante el aparato fonador.",
+      "Que desaparece inmediatamente después de pronunciarse."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El habla es descrita como 'patente' frente a la lengua porque es:",
+    "opciones": [
+      "Perceptible, audible y observable en forma práctica.",
+      "Un sistema ideal y exclusivamente mental.",
+      "Un conjunto de conocimientos teóricos inactivos a nivel social.",
+      "Una estructura colectiva transmitida a través de los siglos."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Selecciona la alternativa que relaciona correctamente una característica con su respectivo plano (Lengua o Habla):",
+    "opciones": [
+      "Social - Habla",
+      "Psíquica - Lengua",
+      "Momentánea - Lengua",
+      "Latente - Habla"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes alternativas presenta únicamente características propias del HABLA?",
+    "opciones": [
+      "Sistema, social, psíquica.",
+      "Código, perdurable, latente.",
+      "Individual, momentánea, patente.",
+      "Fija, teórica, ideal."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes alternativas presenta únicamente características de la LENGUA?",
+    "opciones": [
+      "Social, física, libre.",
+      "Sistema, colectiva, latente.",
+      "Realización, efímera, patente.",
+      "Individual, momentánea, psíquica."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Identifique la afirmación INCORRECTA según las diferencias planteadas en el texto:",
+    "opciones": [
+      "La lengua es el código y el habla es su utilización.",
+      "La lengua es de carácter social y el habla es individual.",
+      "El habla es perdurable y la lengua es efímera.",
+      "La lengua es psíquica y el habla es física o fisiológica."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si el conocimiento del idioma se mantiene en forma teórica en las estructuras mentales de los usuarios, se hace referencia a la característica de la lengua denominada:",
+    "opciones": [
+      "Latente",
+      "Patente",
+      "Libre",
+      "Efímera"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Cuando una persona expresa oralmente un mensaje de acuerdo a sus intereses, gustos o proyectos particulares, está evidenciando primordialmente la característica ________ del habla.",
+    "opciones": [
+      "Latente",
+      "Libre",
+      "Colectiva",
+      "Perdurable"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De acuerdo al cuadro comparativo, mientras la lengua es catalogada como un 'sistema', el habla se define en contraparte como su:",
+    "opciones": [
+      "Realización",
+      "Código",
+      "Estructura psíquica",
+      "Transmisión generacional"
+    ],
+    "correcta": 0
+  }
+          ]
+        },
+        {
+          "titulo": "2.4 Parte 4",
+          "youtube_id": "PLPvMXwKywU",
+          "pdf_link": "https://drive.google.com/file/d/1w6NSvNBDsGgaeUZKTLujnolQqwvm4PFJ/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "¿Qué factores determinan principalmente la variación lingüística conocida como dialecto?",
+    "opciones": [
+      "Factores sociales y educativos",
+      "Factores regionales, geográficos o territoriales",
+      "Factores circunstanciales o contextuales",
+      "Factores estrictamente morfológicos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el texto, el dialecto también recibe el nombre de variación:",
+    "opciones": [
+      "Diastrática",
+      "Diafásica",
+      "Diatópica",
+      "Sintáctica"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Conceptualmente, ¿en qué eje se ubica el dialecto o variación diatópica?",
+    "opciones": [
+      "Eje vertical",
+      "Intersección de ejes",
+      "Eje transversal",
+      "Eje horizontal"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Si en Perú se dice 'lapicero' y en Argentina 'birome', ¿qué aspecto de las variedades dialectales se está evidenciando?",
+    "opciones": [
+      "Semántico",
+      "Lexicológico",
+      "Morfológico",
+      "Fonético"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Cuando una misma palabra, como 'mona', significa 'mujer bonita' en Venezuela y 'hembra del mono' en Perú, se trata del aspecto dialectal:",
+    "opciones": [
+      "Semántico",
+      "Sintáctico",
+      "Morfológico",
+      "Lexicológico"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "El uso de las expresiones 'ratico' o 'momentico' (en Venezuela) frente a 'ratito' o 'momentito' (en Perú) son ejemplos del aspecto dialectal:",
+    "opciones": [
+      "Semántico",
+      "Fonético",
+      "Morfológico",
+      "Sintáctico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El cambio en la estructura de la oración, como decir 'De tu amigo en frente de su casa vivo' en lugar de 'Vivo frente a la casa de tu amigo', corresponde al aspecto dialectal:",
+    "opciones": [
+      "Morfológico",
+      "Sintáctico",
+      "Lexicológico",
+      "Fonético"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La diferencia en la entonación y pronunciación de la palabra 'llama' entre la costa ([yama]) y la sierra ([llama]) del Perú evidencia un aspecto:",
+    "opciones": [
+      "Semántico",
+      "Sintáctico",
+      "Fonético",
+      "Lexicológico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se denomina a la variación de una lengua a nivel social, cultural y educativo?",
+    "opciones": [
+      "Dialecto",
+      "Sociolecto",
+      "Registro",
+      "Jerga"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El sociolecto también es conocido bajo la denominación de variación:",
+    "opciones": [
+      "Diatópica",
+      "Diafásica",
+      "Diacrónica",
+      "Diastrática"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "A diferencia del dialecto, conceptualmente el sociolecto se encuentra ubicado en el:",
+    "opciones": [
+      "Eje horizontal",
+      "Eje vertical",
+      "Eje diagonal",
+      "Punto de intersección"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De acuerdo con el texto, ¿cuáles son los tres niveles en los que se subdivide el sociolecto?",
+    "opciones": [
+      "Acrolecto, mesolecto y basilecto",
+      "Lexicológico, semántico y fonético",
+      "Formal, informal y coloquial",
+      "Diatópico, diastrático y diafásico"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "El nivel sociolectal propio de los sectores altos, educados o cultos se denomina:",
+    "opciones": [
+      "Mesolecto",
+      "Basilecto",
+      "Acrolecto",
+      "Registro"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué nivel sociolectal corresponde a los sectores bajos, es decir, aquellos que no han tenido acceso a la educación formal?",
+    "opciones": [
+      "Acrolecto",
+      "Mesolecto",
+      "Basilecto",
+      "Diafásico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Términos como 'dinero', 'policía' y 'galeno', o saludos como '¡Hola querida!', son característicos del nivel sociolectal:",
+    "opciones": [
+      "Acrolecto",
+      "Mesolecto",
+      "Basilecto",
+      "Dialecto"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según el cuadro del texto, las palabras 'plata', 'guardia' y 'médico' pertenecen al nivel sociolectal de los sectores medios, conocido como:",
+    "opciones": [
+      "Basilecto",
+      "Mesolecto",
+      "Acrolecto",
+      "Registro"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El uso de palabras como 'lana', 'tombo' y 'matasanos', o la expresión '¡Qué hay chochera!', es un claro ejemplo del nivel:",
+    "opciones": [
+      "Mesolecto",
+      "Acrolecto",
+      "Formal",
+      "Basilecto"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "La variación que sufre determinada lengua a nivel individual, según la forma peculiar de hablar de una persona de acuerdo con sus circunstancias o contextos, se denomina:",
+    "opciones": [
+      "Sociolecto",
+      "Dialecto",
+      "Registro o estilo",
+      "Variación diatópica"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué otra denominación técnica recibe el registro o estilo de la lengua?",
+    "opciones": [
+      "Variación diastrática",
+      "Variación diafásica",
+      "Variación diatópica",
+      "Variación morfológica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Conceptualmente, ¿dónde se ubica la variación diafásica (registro)?",
+    "opciones": [
+      "Exclusivamente en el eje vertical",
+      "En la intersección de los ejes horizontal y vertical",
+      "Exclusivamente en el eje horizontal",
+      "Fuera de los ejes conceptuales"
+    ],
+    "correcta": 1
+  }
+          ]
+        },
+        {
+          "titulo": "2.5 Parte 5",
+          "youtube_id": "vEQHwT2PWhY",
+          "pdf_link": "https://drive.google.com/file/d/1W5h_DyQqDx26k8BTEAsWp1rSXsZ8VufV/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según la RAE, ¿cómo se define principalmente el interlecto?",
+    "opciones": [
+      "Como una lengua muerta exclusiva de las zonas rurales.",
+      "Como el sistema transitorio de habla entre la lengua materna y la segunda lengua de un aprendiente.",
+      "Como la lengua oficial de las comunidades altoandinas.",
+      "Como el uso literario y formal del idioma español."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Además de interlecto, ¿qué otros nombres o denominaciones formales recibe este fenómeno según el texto?",
+    "opciones": [
+      "Sociolecto o registro.",
+      "Lengua madre o lengua origen.",
+      "Interlengua o entrelengua.",
+      "Dialecto estándar o acrolecto."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El hablante o usuario típico del interlecto suele ser una persona cuya lengua materna es:",
+    "opciones": [
+      "El quechua o el aimara.",
+      "Exclusivamente el castellano.",
+      "Cualquier idioma extranjero no nativo.",
+      "El español andino."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Al usuario del interlecto que se encuentra en proceso de apropiación del castellano se le considera lingüísticamente como un:",
+    "opciones": [
+      "Hablante materno.",
+      "Bilingüe coordinado.",
+      "Monolingüe andino.",
+      "Bilingüe subordinado."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Según Alberto Escobar, la población de usuarios del interlecto presenta serios problemas en el plano:",
+    "opciones": [
+      "Económico y familiar.",
+      "Social y educacional.",
+      "Biológico y genético.",
+      "Político y religioso."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "A diferencia de los bilingües subordinados, ¿quiénes son considerados como los hablantes maternos del español por haber conseguido un grado de competencia muy avanzado?",
+    "opciones": [
+      "Los bilingües subordinados en proceso.",
+      "Los hablantes del motoseo.",
+      "Los bilingües coordinados.",
+      "Los monolingües aimaras."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué lingüista considera y denomina al interlecto como 'castellano andino'?",
+    "opciones": [
+      "Rodolfo Cerrón-Palomino.",
+      "Alberto Escobar.",
+      "Ferdinand de Saussure.",
+      "Román Jakobson."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Además de interlengua o castellano andino, ¿qué otra consideración popular recibe el interlecto?",
+    "opciones": [
+      "Basilecto puro.",
+      "Motoseo idiomático.",
+      "Jerga andina.",
+      "Neologismo regional."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el nivel fonético del interlecto, la imprecisión vocálica consiste fundamentalmente en:",
+    "opciones": [
+      "La creación de nuevas vocales en el español.",
+      "La incapacidad física para pronunciar vocales.",
+      "La omisión total de las vocales en la pronunciación.",
+      "La neutralización de las vocales i-e, o-u."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Las pronunciaciones 'Oneversedad', 'Siñor' y 'Piluta' son ejemplos del rasgo fonético conocido como:",
+    "opciones": [
+      "Imprecisión vocálica.",
+      "Imprecisión acentual.",
+      "Cancelación de diptongos.",
+      "Calco sintáctico."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué sucede con el tratamiento típico de los grupos vocálicos en el nivel fonético del interlecto?",
+    "opciones": [
+      "Se pronuncian con mayor énfasis.",
+      "Ocurre la cancelación de los diptongos e hiatos.",
+      "Se transforman obligatoriamente en triptongos.",
+      "Se desplazan hacia la última sílaba."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Pronunciar 'Vene' en lugar de 'viene' y 'Tenes' en vez de 'tienes' es un rasgo fonético que demuestra la:",
+    "opciones": [
+      "Alteración del género gramatical.",
+      "Neutralización de la o-u.",
+      "Cancelación de los diptongos.",
+      "Omisión del artículo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La imprecisión acentual en el interlecto se caracteriza por el desplazamiento de los acentos (como en 'Ameríca' o 'Erámos') hacia la:",
+    "opciones": [
+      "Última sílaba.",
+      "Penúltima sílaba.",
+      "Antepenúltima sílaba.",
+      "Primera sílaba."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el nivel gramatical, ¿qué alteración provocan expresiones como 'Iscuila es muy bunito' o 'Esas vacas es mío'?",
+    "opciones": [
+      "Inestabilidad del género y del número (concordancia sintáctica).",
+      "Cancelación de hiatos y diptongos.",
+      "Interpolación estricta de morfemas vernáculos.",
+      "Neutralización vocálica."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según el texto, ¿por qué se produce la omisión del artículo en frases gramaticales como 'Dame libro' o 'Bandira ruju'?",
+    "opciones": [
+      "Porque el artículo es considerado una ofensa en el interlecto.",
+      "Por un desplazamiento del acento hacia la penúltima sílaba.",
+      "Por una neutralización entre la i y la e.",
+      "Porque esta categoría gramatical no existe en el quechua."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "La expresión 'Esa wawita llora' y 'Tengo makhurki' son ejemplos en el nivel gramatical de:",
+    "opciones": [
+      "Tendencia al calco sintáctico.",
+      "Cancelación total de hiatos.",
+      "Interpolación de morfemas y lexemas de una lengua a otra.",
+      "Imprecisión acentual."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el nivel gramatical del interlecto, es común que exista una tendencia en la ubicación del verbo. ¿Dónde suele situarse?",
+    "opciones": [
+      "Siempre al inicio de la oración.",
+      "Al final de la oración.",
+      "Intercalado entre dos artículos.",
+      "Justo antes del sujeto."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Expresiones como 'Al perro pega' o 'Muchus carrus tini' evidencian concretamente la tendencia gramatical de:",
+    "opciones": [
+      "Ubicar el verbo al final de la oración.",
+      "Omitir siempre el artículo.",
+      "Alterar el género y el número.",
+      "Pronunciar la i como e."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Las oraciones 'De mi tío su casa es' y 'Me estoy lavándome' son claros ejemplos de la tendencia gramatical al:",
+    "opciones": [
+      "Sociolecto rural.",
+      "Imprecisión acentual.",
+      "Cancelación de diptongos.",
+      "Calco sintáctico."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En el nivel semántico, el uso de expresiones como 'En el aja samay alguito comerás' o 'En cacharpari bailaremos harto' responde a la tendencia de:",
+    "opciones": [
+      "Eliminar el uso de verbos en la comunicación.",
+      "Desplazar todos los acentos a la sílaba final.",
+      "Interpolar voces de la lengua vernácula en condición de préstamos.",
+      "Traducir literalmente del inglés al quechua."
+    ],
+    "correcta": 2
+  }
+          ]
+        },
+        {
+          "titulo": "2.6 Parte 6",
+          "youtube_id": "znbg3hAejDQ",
+          "pdf_link": "https://drive.google.com/file/d/1Z9edPNU0HOGEHXDM1wSMY1c_8h3AXl6g/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según el texto, ¿qué elemento identifica y facilita la comunicación al tener la función de comunicar ideas?",
+    "opciones": [
+      "El canal",
+      "El ícono",
+      "El signo",
+      "El código"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿De qué manera tiene el signo la función específica de comunicar ideas según el documento?",
+    "opciones": [
+      "Únicamente de forma voluntaria y planificada.",
+      "De manera consciente o inconsciente.",
+      "Exclusivamente de modo inconsciente.",
+      "A través de mecanismos puramente biológicos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El signo es la representación de un ente, fenómeno o acción material que es representado por:",
+    "opciones": [
+      "Naturaleza o convención",
+      "Similitud o contraste",
+      "Imitación o rechazo",
+      "Causa o efecto de manera exclusiva"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuáles son las dos categorías principales en las que se dividen los tipos de signos en el texto?",
+    "opciones": [
+      "Signos verbales y no verbales",
+      "Signos naturales y artificiales",
+      "Signos visuales y auditivos",
+      "Signos conscientes e inconscientes"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de signo guarda una relación física de causa-efecto o proximidad con el objeto al cual representa?",
+    "opciones": [
+      "El ícono",
+      "El símbolo",
+      "El síntoma o indicio",
+      "La escultura"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué otras denominaciones equivalentes recibe el 'indicio' según el texto?",
+    "opciones": [
+      "Ícono o imitación",
+      "Símbolo o representación",
+      "Causa o proximidad",
+      "Índice o síntoma"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "El indicio muestra algo sobre las cosas debido a que:",
+    "opciones": [
+      "Mantiene una relación convencional con ellas.",
+      "Está físicamente conectado con ellas de un modo natural y espontáneo.",
+      "Se basa en acuerdos arbitrarios de la sociedad.",
+      "Imita las características visuales del objeto."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según los ejemplos del texto, la fiebre es un claro síntoma o indicio de:",
+    "opciones": [
+      "Un golpe recibido",
+      "Una infección o enfermedad",
+      "Fuego inminente",
+      "Tormenta"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un moretón en el rostro, que evidencia que una persona ha sido golpeada, es un ejemplo de:",
+    "opciones": [
+      "Indicio",
+      "Ícono",
+      "Símbolo",
+      "Representación convencional"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Si vemos humo y deducimos que hay fuego de manera natural, estamos interpretando un:",
+    "opciones": [
+      "Símbolo",
+      "Índice o síntoma",
+      "Ícono",
+      "Signo artificial"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la categoría de signos naturales, el rayo y las nubes negras son indicios de:",
+    "opciones": [
+      "Fuego y oscuridad",
+      "Tormenta y lluvia",
+      "Infección y enfermedad",
+      "Golpes y proximidad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de signo artificial mantiene una relación de semejanza con el objeto que representa?",
+    "opciones": [
+      "El indicio",
+      "El síntoma",
+      "El símbolo",
+      "El ícono"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Según el texto, los íconos sirven para transmitir ideas de las cosas que representan mediante:",
+    "opciones": [
+      "La simple imitación de estas.",
+      "Acuerdos convencionales y arbitrarios.",
+      "La relación de causa-efecto.",
+      "Su conexión física y espontánea."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes alternativas presenta ejemplos exclusivos de íconos según el texto?",
+    "opciones": [
+      "La cruz, la balanza y la paloma blanca.",
+      "El humo, el rayo y las nubes negras.",
+      "Los mapas, croquis, planos y fotografías.",
+      "La fiebre y los moretones."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Las representaciones artísticas, como la escultura y la pintura, se clasifican dentro de los signos artificiales como:",
+    "opciones": [
+      "Indicios",
+      "Símbolos",
+      "Síntomas",
+      "Íconos"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué tipo de signo se caracteriza primordialmente por ser de carácter convencional y arbitrario?",
+    "opciones": [
+      "El indicio",
+      "El ícono",
+      "El síntoma",
+      "El símbolo"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "El símbolo es definido en el documento como:",
+    "opciones": [
+      "Un hecho que anuncia un evento de modo natural y espontáneo.",
+      "Una representación elaborada de la realidad basada en la identificación entre el objeto real y su representación.",
+      "Un signo que guarda relación física de causa-efecto con el objeto.",
+      "Un signo que sirve para transmitir ideas simplemente imitándolas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según los ejemplos del texto, la balanza es un símbolo de:",
+    "opciones": [
+      "Sabiduría",
+      "El cristianismo",
+      "Justicia",
+      "La paz"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué significados convencionales se le atribuyen respectivamente a la paloma blanca y al búho en el texto?",
+    "opciones": [
+      "Justicia y cristianismo",
+      "Paz y sabiduría",
+      "Tormenta y lluvia",
+      "Enfermedad y salud"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la principal diferencia entre un indicio y un símbolo según lo descrito en el texto?",
+    "opciones": [
+      "El indicio imita al objeto, mientras que el símbolo es una conexión física.",
+      "El indicio es artificial y arbitrario, mientras que el símbolo es natural y espontáneo.",
+      "El indicio tiene una relación física de causa-efecto, mientras que el símbolo es convencional y arbitrario.",
+      "No hay diferencia, ambos son signos artificiales elaborados por la sociedad."
+    ],
+    "correcta": 2
+  }
+          ]
+        },
+        {
+          "titulo": "2.7 Parte 7",
+          "youtube_id": "NStEl0D0mtw",
+          "pdf_link": "https://drive.google.com/file/d/1W7K5XQ1BS1xvLFioNhJnC_OMkxPDglxk/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "¿Cómo define el texto principalmente al signo lingüístico?",
+    "opciones": [
+      "Como un objeto material y tangible.",
+      "Como una entidad psíquica de dos caras.",
+      "Como un concepto aislado del sonido.",
+      "Como una convención exclusivamente escrita."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son las dos caras que componen la entidad psíquica del signo lingüístico?",
+    "opciones": [
+      "Sincronía y diacronía",
+      "Primera y segunda articulación",
+      "Mutabilidad e inmutabilidad",
+      "Concepto e imagen acústica"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Según el texto, las dos caras del signo lingüístico (concepto e imagen acústica) se encuentran asociadas de manera:",
+    "opciones": [
+      "Indisoluble",
+      "Arbitraria",
+      "Separable",
+      "Lineal"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En los planos del signo lingüístico, ¿qué representa el significado?",
+    "opciones": [
+      "La materialización de los fonemas.",
+      "El objeto real físico e inalterable.",
+      "El concepto o idea que el hablante extrae de la palabra.",
+      "El sonido físico en la cadena hablada."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Para entender el significado de la palabra 'mesa', el texto aclara que este no es el objeto real en sí, sino:",
+    "opciones": [
+      "El conjunto de sonidos que la componen.",
+      "La idea que la persona se hace de ella.",
+      "La pronunciación lineal de sus letras.",
+      "Su evolución diacrónica."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué plano del signo lingüístico corresponde el sonido físico y la pronunciación o materialización de los fonemas?",
+    "opciones": [
+      "Al significado",
+      "Al significante",
+      "A la primera articulación",
+      "A la diacronía"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según Ferdinand de Saussure, el significante es definido fundamentalmente como:",
+    "opciones": [
+      "La imagen acústica o huella psíquica del sonido.",
+      "El concepto abstracto de la realidad.",
+      "El objeto real que se encuentra en la naturaleza.",
+      "La inmutabilidad de un fonema."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "La característica del signo lingüístico que indica que la relación entre significado y significante no responde a ningún motivo y se establece por convención es la:",
+    "opciones": [
+      "Arbitrariedad",
+      "Linealidad",
+      "Mutabilidad",
+      "Inmutabilidad"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "El hecho de que para un mismo significado se usen distintos significantes en diferentes idiomas (como 'casa', 'wasi', 'house') es un claro ejemplo de:",
+    "opciones": [
+      "Linealidad",
+      "Doble articulación",
+      "Arbitrariedad",
+      "Mutabilidad"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿A qué característica corresponde el hecho de que los sonidos o fonemas se desenvuelvan en el tiempo y se articulen unos tras otros?",
+    "opciones": [
+      "Mutabilidad",
+      "Inmutabilidad",
+      "Doble articulación",
+      "Linealidad"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Mientras que en el plano del habla la linealidad se desarrolla en el tiempo, en la escritura esta se aprecia en:",
+    "opciones": [
+      "El pensamiento",
+      "El espacio",
+      "La segunda articulación",
+      "El concepto"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La característica que impide que el signo lingüístico cambie de un momento a otro por la simple decisión de un hablante se denomina:",
+    "opciones": [
+      "Inmutabilidad",
+      "Linealidad",
+      "Mutabilidad",
+      "Arbitrariedad"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "La inmutabilidad indica que el signo es permanente e inalterable en un momento dado del tiempo, lo cual corresponde al eje:",
+    "opciones": [
+      "Diacrónico",
+      "Sincrónico",
+      "Lineal",
+      "Convencional"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La característica que explica que la relación entre significado y significante experimenta cambios o alteraciones de forma a lo largo del tiempo es la:",
+    "opciones": [
+      "Inmutabilidad",
+      "Mutabilidad",
+      "Linealidad",
+      "Arbitrariedad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La mutabilidad del signo lingüístico, que implica cambios y evolución de las palabras, se estudia u ocurre en el eje:",
+    "opciones": [
+      "Diacrónico",
+      "Sincrónico",
+      "Espacial",
+      "Arbitrario"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué característica indica que las unidades lingüísticas mayores son divisibles en partes más pequeñas que son reconocibles e intercambiables?",
+    "opciones": [
+      "Doble articulación",
+      "Linealidad",
+      "Arbitrariedad",
+      "Mutabilidad"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "De acuerdo con la doble articulación del signo lingüístico, ¿cómo está constituida la primera articulación?",
+    "opciones": [
+      "Por unidades carentes de significado.",
+      "Por la sucesión temporal de fonemas.",
+      "Por unidades portadoras de significado.",
+      "Por conceptos inmutables."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Las unidades que pertenecen a la segunda articulación se diferencian de las de la primera principalmente porque:",
+    "opciones": [
+      "Son unidades que carecen de significado.",
+      "No se pueden pronunciar linealmente.",
+      "Son inalterables a través del tiempo.",
+      "Representan unívocamente al objeto real."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En el contexto de las caras del signo lingüístico, la imagen acústica equivale directamente al plano del:",
+    "opciones": [
+      "Concepto",
+      "Significado",
+      "Referente",
+      "Significante"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuáles son las dos características del signo lingüístico que se oponen al estudiar el signo en un estado fijo (eje sincrónico) frente a su evolución en el tiempo (eje diacrónico)?",
+    "opciones": [
+      "Arbitrariedad y linealidad",
+      "Inmutabilidad y mutabilidad",
+      "Significado y significante",
+      "Primera y segunda articulación"
+    ],
+    "correcta": 1
+  }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 3: Fonología y Fonética",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "3.1 Parte 1",
+          "youtube_id": "y92AZvV8B4Q",
+          "pdf_link": "https://drive.google.com/file/d/1znH27pKdPJdGZTKGVJPRWyrPdj_oqoz6/view",
+          "gratis": false,
+          "preguntas": [
+            {
+    "pregunta": "¿Qué componente de las lenguas estudian conjuntamente la fonología y la fonética?",
+    "opciones": [
+      "El componente sintáctico",
+      "El componente semántico",
+      "El componente fónico",
+      "El componente morfológico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según el texto, ¿cuál es el objetivo principal de la fonología y la fonética?",
+    "opciones": [
+      "Analizar el origen histórico de las palabras.",
+      "Analizar las características y el comportamiento de los sonidos del habla.",
+      "Establecer las reglas de la ortografía.",
+      "Estudiar la correcta escritura de los grafemas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La disciplina lingüística que estudia cómo se estructuran los segmentos y elementos suprasegmentales para transmitir significados es la:",
+    "opciones": [
+      "Gramática",
+      "Semántica",
+      "Fonética",
+      "Fonología"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Desde qué punto de vista estudia la fonología a los fonemas?",
+    "opciones": [
+      "Desde el punto de vista diferencial y funcional.",
+      "Desde el punto de vista acústico y físico.",
+      "Desde el punto de vista articulatorio.",
+      "Desde el punto de vista netamente auditivo."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "El par mínimo '/beso/ = tocar algo con los labios' y '/peso/ = fuerza de atracción' ejemplifica el estudio de la:",
+    "opciones": [
+      "Fonética",
+      "Sintaxis",
+      "Fonología",
+      "Morfología"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué rama de la lingüística estudia los mecanismos de producción, transmisión y percepción de la señal sonora?",
+    "opciones": [
+      "La fonología",
+      "La fonética",
+      "La pragmática",
+      "La ortología"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La fonética se encarga de determinar las características físicas de la:",
+    "opciones": [
+      "Fonación",
+      "Escritura",
+      "Lengua ideal",
+      "Ortografía"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En el texto, el ejemplo '[p] = oclusivo, bilabial y sordo' es utilizado para ilustrar el estudio de la:",
+    "opciones": [
+      "Fonología",
+      "Semántica",
+      "Gramática",
+      "Fonética"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Las unidades de estudio de la fonología reciben el nombre de:",
+    "opciones": [
+      "Fonos",
+      "Fonemas",
+      "Letras",
+      "Dígrafos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son las características principales de los fonemas según el cuadro comparativo?",
+    "opciones": [
+      "Son reales, concretos y físicos.",
+      "Son ilimitados e infinitos en el habla.",
+      "Son sonidos ideales, mentales y abstractos que están en la lengua.",
+      "Son los vehículos de salida de la pronunciación."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En cuanto a su cantidad, a diferencia de los fonos, los fonemas se caracterizan por ser:",
+    "opciones": [
+      "Ilimitados o infinitos",
+      "Limitados o finitos",
+      "Incontables",
+      "Variables e inestables"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué unidad fónica representa la imagen mental o la huella psíquica del sonido?",
+    "opciones": [
+      "La grafía",
+      "El fono",
+      "El fonema",
+      "El dígrafo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Tienen los fonemas significación por sí solos?",
+    "opciones": [
+      "Sí, cada fonema tiene un significado completo.",
+      "No, carecen de significación por sí solos.",
+      "Solo los fonemas vocálicos tienen significado.",
+      "Sí, si se escriben entre corchetes."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Convencionalmente, los fonemas se representan de manera escrita entre:",
+    "opciones": [
+      "Corchetes [ ]",
+      "Paréntesis ( )",
+      "Comillas \" \"",
+      "Barras oblicuas / /"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué función cumplen los fonemas en los signos lingüísticos?",
+    "opciones": [
+      "Función puramente fisiológica.",
+      "Función acústica real.",
+      "Valor o función diferencial y distintiva.",
+      "Función estética."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Las unidades de estudio de la fonética son los:",
+    "opciones": [
+      "Grafemas",
+      "Fonemas",
+      "Fonos",
+      "Morfemas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "A diferencia de los fonemas que están en la lengua, los fonos se materializan en:",
+    "opciones": [
+      "La mente",
+      "El habla",
+      "La escritura",
+      "La gramática"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se describe a los fonos en términos de cantidad o número?",
+    "opciones": [
+      "Limitados o finitos",
+      "Escasos y contables",
+      "Ilimitados o infinitos",
+      "Exactamente 24 en todos los idiomas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La representación de los sonidos reales y físicos (fonos) se realiza utilizando:",
+    "opciones": [
+      "Barras oblicuas / /",
+      "Llaves { }",
+      "Asteriscos * *",
+      "Corchetes [ ]"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Según el texto, ¿cuántos fonemas, letras (grafías) y dígrafos posee el idioma español respectivamente?",
+    "opciones": [
+      "27 fonemas, 24 letras y 5 dígrafos",
+      "24 fonemas, 27 letras y 5 dígrafos",
+      "5 fonemas, 24 letras y 27 dígrafos",
+      "24 fonemas, 29 letras y 3 dígrafos"
+    ],
+    "correcta": 1
+  }
+          ]
+        },
+        {
+          "titulo": "3.2 Parte 2",
+          "youtube_id": "lvchfDO1T-Y",
+          "pdf_link": "https://drive.google.com/file/d/16ESHN5GxQhX5kSC68xpu6biMvKKoh7Ud/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "¿Cómo se define el fonema según el texto?",
+    "opciones": [
+      "Segmento fonológico que no puede descomponerse en unidades sucesivas menores.",
+      "Elemento que repercute sobre varios segmentos a la vez en la cadena hablada.",
+      "Unidad mínima que carece de la capacidad de distinguir significados.",
+      "Interrupción brusca de la producción de sonidos."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según el documento, el fonema resulta o proviene de:",
+    "opciones": [
+      "La alteración de la entonación en un enunciado.",
+      "La abstracción o descripción teórica de los sonidos de la lengua.",
+      "La interrupción física de la cadena hablada.",
+      "La articulación exclusiva de sílabas tónicas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la capacidad o función principal del fonema en relación con las palabras?",
+    "opciones": [
+      "Dotar a una sílaba de prominencia acústica.",
+      "Diferenciar únicamente las sílabas tónicas de las átonas.",
+      "Ser capaz de distinguir significados.",
+      "Generar la curva melódica de un discurso."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El hecho de que al cambiar /b/ por /l/ en las palabras 'bata' y 'lata' cambie también su definición, demuestra que:",
+    "opciones": [
+      "Los fonemas carecen de utilidad gramatical.",
+      "El cambio de un fonema modifica el significado de la palabra.",
+      "Los fonemas son estrictamente elementos suprasegmentales.",
+      "La entonación es el único factor de contraste de significado."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el texto, ¿qué denominación reciben los elementos constitutivos más simples de un fonema?",
+    "opciones": [
+      "Elementos suprasegmentales",
+      "Sílabas átonas",
+      "Rasgos distintivos",
+      "Pausas melódicas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La modificación de un 'rasgo distintivo' en un segmento o fonema puede dar lugar a:",
+    "opciones": [
+      "Un contraste significativo.",
+      "Una pausa prolongada y evidente.",
+      "Una sílaba tónica obligatoria.",
+      "Una curva melódica inalterable."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según el texto, ¿cuáles son los rasgos distintivos que caracterizan al segmento o fonema /p/?",
+    "opciones": [
+      "Bilabial, oclusivo, sonoro y nasal",
+      "Alveolar, fricativo, sordo y oral",
+      "Bilabial, oclusivo, sordo y oral",
+      "Velar, oclusivo, sonoro y oral"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un rasgo distintivo del segmento /b/ que NO comparte con el segmento /p/?",
+    "opciones": [
+      "Bilabial",
+      "Oclusivo",
+      "Oral",
+      "Sonoro"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "El contraste de significado entre las palabras 'peso' y 'beso' se produce fundamentalmente porque difieren en una sola característica, que es:",
+    "opciones": [
+      "El punto de articulación",
+      "La sonoridad",
+      "El modo de articulación",
+      "La resonancia nasal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son las unidades básicas de estudio de la fonética mencionadas en el texto?",
+    "opciones": [
+      "Fonemas y grafemas",
+      "Elementos segmentales y suprasegmentales",
+      "Palabras y oraciones compuestas",
+      "Vocales y consonantes sonoras exclusivamente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué elementos constituyen la cadena hablada y son el objeto de estudio de la fonética segmental?",
+    "opciones": [
+      "Los elementos suprasegmentales",
+      "Exclusivamente los rasgos distintivos",
+      "Los elementos segmentales",
+      "Las curvas melódicas y tonales"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según el texto, ¿bajo qué criterios se definen los elementos segmentales?",
+    "opciones": [
+      "Articulatorios, acústicos y perceptivos",
+      "Sintácticos, semánticos y morfológicos",
+      "Históricos, sociales y dialectales",
+      "Psicológicos, biológicos y mentales"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En el español, los elementos segmentales o fonemas se dividen en dos grandes grupos que son:",
+    "opciones": [
+      "Tónicos y átonos",
+      "Vocálicos y consonánticos",
+      "Sonoros y sordos",
+      "Oclusivos y fricativos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Por convencionalismo lingüístico, ¿qué símbolos se utilizan para representar gráficamente a los sonidos articulados y diferenciarlos de los fonemas?",
+    "opciones": [
+      "Paréntesis ( )",
+      "Barras oblicuas / /",
+      "Corchetes [ ]",
+      "Comillas \" \""
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué característica principal diferencia a los elementos suprasegmentales de los elementos segmentales?",
+    "opciones": [
+      "Su efecto repercute sobre varios segmentos simultáneamente.",
+      "No pueden ser percibidos acústicamente por el oído humano.",
+      "Carecen de todo valor significativo o expresivo.",
+      "Se transcriben siempre de manera escrita entre barras."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "El elemento suprasegmental que se encarga de dotar a una sílaba de prominencia con respecto a las sílabas adyacentes se denomina:",
+    "opciones": [
+      "Entonación",
+      "Pausa",
+      "Acento",
+      "Curva melódica"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Gracias a la presencia del acento, es posible distinguir fonéticamente en el habla entre:",
+    "opciones": [
+      "Consonantes y vocales cerradas.",
+      "Sílabas tónicas (fuertes) y sílabas átonas (débiles).",
+      "Sonidos sordos y sonidos sonoros.",
+      "Fonemas mentales y grafemas escritos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El conjunto de variaciones en el tono, duración e intensidad de los sonidos de un enunciado corresponde al elemento llamado:",
+    "opciones": [
+      "Pausa",
+      "Acento prosódico",
+      "Entonación",
+      "Rasgo distintivo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Dentro de la entonación, ¿cómo se le denomina a la parte mínima del enunciado que está dotada de una forma entonativa y de un significado diferenciado?",
+    "opciones": [
+      "Sílaba tónica",
+      "Cadena hablada",
+      "Unidad melódica",
+      "Depresión de intensidad"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué elemento suprasegmental consiste en la interrupción de la producción de la cadena hablada?",
+    "opciones": [
+      "La unidad melódica",
+      "La pausa",
+      "La variación tonal",
+      "El acento"
+    ],
+    "correcta": 1
+  }
+          ]
+        },
+        {
+          "titulo": "3.3 Parte 3",
+          "youtube_id": "EwemstyuHbE",
+          "pdf_link": "https://drive.google.com/file/d/1DNtn_k9taXwaSNXxRINzwM05lBZp6iK0/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "¿Cuántos fonemas segmentales (vocálicos y consonánticos, respectivamente) tiene nuestro idioma según el texto?",
+    "opciones": [
+      "5 vocálicos y 19 consonánticos",
+      "6 vocálicos y 18 consonánticos",
+      "5 vocálicos y 24 consonánticos",
+      "24 vocálicos y 5 consonánticos"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "La característica principal de los fonemas vocálicos durante su producción es que:",
+    "opciones": [
+      "El flujo de aire sufre una interrupción parcial.",
+      "Intervienen siempre los dientes frontales y el paladar.",
+      "El flujo de aire no encuentra ningún obstáculo en el canal fonatorio.",
+      "Se produce siempre una fricción o roce progresivo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según la clasificación por el grado de abertura de la boca, ¿cuáles son las vocales cerradas?",
+    "opciones": [
+      "/e/, /o/",
+      "/i/, /u/",
+      "/a/, /e/",
+      "/o/, /u/"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Por la posición de la lengua, las vocales /e/ e /i/ son clasificadas como:",
+    "opciones": [
+      "Posteriores o velares",
+      "Centrales",
+      "Anteriores o palatales",
+      "Semiabiertas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según el grado de sonoridad, las vocales /o/ y /u/ se catalogan como:",
+    "opciones": [
+      "Agudas",
+      "Graves",
+      "Medias",
+      "Sordas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el idioma español, con respecto a la vibración de las cuerdas vocales al pronunciar vocales, es correcto afirmar que:",
+    "opciones": [
+      "Solo la /a/ es sonora.",
+      "Existen vocales sonoras y sordas en igual proporción.",
+      "Las vocales cerradas siempre son sordas.",
+      "Todas las vocales son sonoras y no existen vocales sordas."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Quién es el autor del Triángulo Vocálico del año 1781 mencionado en el documento?",
+    "opciones": [
+      "Ferdinand de Saussure",
+      "F. Hellwag",
+      "Román Jakobson",
+      "Edward Sapir"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Durante la realización de los fonemas consonánticos, a diferencia de las vocales, ¿qué fenómeno ocurre en el canal fonatorio?",
+    "opciones": [
+      "Hay un desplazamiento del acento hacia la penúltima sílaba.",
+      "El flujo de aire sale libremente sin rozar ninguna pared.",
+      "Se produce una interrupción total o parcial del flujo de aire.",
+      "La lengua se mantiene siempre en una posición inactiva y central."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué fonemas se producen cuando intervienen ambos labios (bilabiales)?",
+    "opciones": [
+      "/p/, /b/, /m/",
+      "/t/, /d/, /n/",
+      "/f/, /s/, /z/",
+      "/k/, /g/, /j/"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "El fonema /f/ se clasifica por su punto de articulación como:",
+    "opciones": [
+      "Dental",
+      "Alveolar",
+      "Interdental",
+      "Labiodental o dentilabial"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Los fonemas /t/ y /d/ corresponden al punto de articulación donde el ápice de la lengua toca los incisivos superiores, denominados:",
+    "opciones": [
+      "Dentales o linguodentales",
+      "Velares o linguovelares",
+      "Palatales o linguopalatales",
+      "Alveolares o linguoalveolares"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Por su punto de articulación, el fonema en el que el ápice de la lengua se ubica entre los incisivos superiores e inferiores (interdental) es:",
+    "opciones": [
+      "/s/",
+      "/z/",
+      "/d/",
+      "/t/"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles de los siguientes segmentos consonánticos son alveolares?",
+    "opciones": [
+      "/k/, /g/, /j/",
+      "/p/, /b/, /m/",
+      "/ch/, /y/, /ll/, /ñ/",
+      "/s/, /n/, /l/, /r/, /rr/"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Los fonemas en los que el predorso o dorso de la lengua se dirige hacia el paladar medio son los palatales. ¿Qué grupo contiene solo consonantes de este tipo?",
+    "opciones": [
+      "/k/, /g/, /j/",
+      "/ch/, /y/, /ll/, /ñ/",
+      "/s/, /z/, /f/, /m/",
+      "/t/, /d/, /n/, /l/"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué modo de articulación se caracteriza por un cierre momentáneo del paso del aire, precipitándose luego al exterior con una breve explosión?",
+    "opciones": [
+      "Fricativo",
+      "Nasal",
+      "Oclusivo",
+      "Africado"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Los fonemas fricativos, como /f/, /s/ y /j/, se producen cuando:",
+    "opciones": [
+      "El aire sale exclusivamente por los lados de la lengua.",
+      "El flujo de aire sale simultáneamente por la cavidad nasal y oral.",
+      "Los órganos articulatorios reducen el canal, causando que el aire pase rozando o friccionando.",
+      "Ocurre una oclusión total y luego una explosión vibrante."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según el texto, ¿qué modo de articulación resulta de la combinación de una oclusiva con una fricativa, como sucede en el fonema /ch/?",
+    "opciones": [
+      "Vibrante",
+      "Lateral",
+      "Africado",
+      "Sordo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Los fonemas laterales, descritos como aquellos donde el aire sale por los lados de la lengua, son:",
+    "opciones": [
+      "/r/ y /rr/",
+      "/l/ y /ll/",
+      "/m/, /n/ y /ñ/",
+      "/s/ y /z/"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se clasifican por su modo de articulación los fonemas /m/, /n/ y /ñ/, en los cuales el aire sale por la cavidad nasal y oral?",
+    "opciones": [
+      "Fricativos",
+      "Laterales",
+      "Oclusivos",
+      "Nasales"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Por el grado de vibración de las cuerdas vocales, el grupo de fonemas que incluye a /p/, /f/, /z/, /t/, /s/, /ch/, /k/, /j/ es catalogado estrictamente como:",
+    "opciones": [
+      "Sonoros",
+      "Nasales",
+      "Sordos",
+      "Oclusivos"
+    ],
+    "correcta": 2
+  }
+          ]
+        },
+        {
+          "titulo": "3.4 Parte 4",
+          "youtube_id": "MJcc4xFOqho",
+          "pdf_link": "https://drive.google.com/file/d/1jx0FJFRVzNSEMcMVNjVbBaomkBMuZ8Fw/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "¿Qué división de la fonética analiza los mecanismos de producción y las estrategias de percepción presentes en todas las lenguas del mundo?",
+    "opciones": [
+      "Fonética general",
+      "Fonética descriptiva",
+      "Ortología",
+      "Fonética histórica"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "La disciplina o parte de la fonética encargada de establecer las normas convencionales de pronunciación de una lengua es la:",
+    "opciones": [
+      "Fonética acústica",
+      "Fonética articulatoria",
+      "Ortología u ortofonía",
+      "Fonética auditiva"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué rama de la fonética estudia los sonidos desde el punto de vista fisiológico y la intervención de los órganos articulatorios?",
+    "opciones": [
+      "Fonética perceptiva",
+      "Fonética articulatoria",
+      "Fonética acústica",
+      "Fonética general"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el aparato fonador, ¿cuál de las siguientes estructuras anatómicas proporciona el flujo de aire necesario para producir el sonido y pertenece a la cavidad infraglótica?",
+    "opciones": [
+      "La laringe y las cuerdas vocales",
+      "Los pulmones y el diafragma",
+      "La cavidad oral y nasal",
+      "La faringe y los alvéolos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué cavidad del aparato fonador se ubican las cuerdas vocales y se produce propiamente la fonación?",
+    "opciones": [
+      "Cavidad supraglótica",
+      "Cavidad faríngea",
+      "Cavidad glótica",
+      "Cavidad infraglótica"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El cartílago de la laringe que tiene la forma de un libro abierto hacia atrás y cuya saliente anterior se denomina nuez de Adán, es el:",
+    "opciones": [
+      "Cartílago cricoides",
+      "Cartílago aritenoides",
+      "Cartílago epiglótico",
+      "Cartílago tiroides"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Las cavidades supraglóticas son los lugares donde se articulan los sonidos. Estas están conformadas por:",
+    "opciones": [
+      "La cavidad faríngea, la cavidad oral y la cavidad nasal",
+      "Los bronquios, los pulmones y la tráquea",
+      "El cartílago cricoides, tiroides y aritenoides",
+      "La cavidad glótica y subglótica"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Dentro de la cavidad faríngea, la zona que limita directamente con la cavidad nasal se denomina:",
+    "opciones": [
+      "Orofaringe",
+      "Laringofaringe",
+      "Protofaringe",
+      "Rinofaringe o cavum"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En la cavidad oral, ¿cuál de los siguientes grupos está compuesto exclusivamente por órganos articulatorios móviles o activos?",
+    "opciones": [
+      "Incisivos superiores, alvéolos y paladar duro",
+      "Labios, maxilar inferior, velo del paladar y lengua",
+      "Maxilar superior, incisivos inferiores y faringe",
+      "Tráquea, bronquios y diafragma"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La cavidad nasal es un componente de las cavidades supraglóticas considerado como un órgano:",
+    "opciones": [
+      "Móvil",
+      "Fijo",
+      "Vibratorio",
+      "Articulatorio activo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué rama de la fonética se ocupa de la medición científica y del análisis de las características físicas de las ondas sonoras?",
+    "opciones": [
+      "Fonética acústica",
+      "Fonética auditiva",
+      "Fonética articulatoria",
+      "Ortología"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Al producirse una onda sonora, el tiempo durante el cual la presión del aire alcanza su punto máximo se denomina:",
+    "opciones": [
+      "Fase de rarefacción",
+      "Frecuencia grave",
+      "Fase de compresión",
+      "Amplitud máxima"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El parámetro de la onda sonora que determina la cantidad de ciclos realizados en un segundo (gravedad o agudeza del sonido) y se mide en Hercios (Hz) es:",
+    "opciones": [
+      "La duración",
+      "La amplitud",
+      "La frecuencia",
+      "La intensidad"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según la fonética acústica, cuando la presión del movimiento vibratorio es fuerte, el sonido es más intenso debido a que es mayor su:",
+    "opciones": [
+      "Duración",
+      "Amplitud",
+      "Rarefacción",
+      "Frecuencia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la unidad de medida que relaciona la amplitud del movimiento vibratorio con la intensidad que percibe el oído humano?",
+    "opciones": [
+      "El Decibelio (dB)",
+      "El Hercio (Hz)",
+      "El milisegundo (ms)",
+      "El ciclo por segundo"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Estudiar el sonido desde la perspectiva del receptor, investigando cómo los oyentes procesan e interpretan las ondas sonoras, es objeto de estudio de la:",
+    "opciones": [
+      "Fonética acústica",
+      "Fonética general",
+      "Fonética articulatoria",
+      "Fonética auditiva o perceptiva"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "A nivel anatómico, ¿cuál es la función principal del oído en el proceso auditivo?",
+    "opciones": [
+      "Generar el flujo de aire primario.",
+      "Actuar como caja de resonancia nasal.",
+      "Recoger la energía de la onda acústica y convertirla en impulsos nerviosos.",
+      "Generar fases de rarefacción y compresión."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La estructura anatómica formada por el pabellón de la oreja, cuya función es localizar la fuente sonora y aumentar la frecuencia, pertenece al:",
+    "opciones": [
+      "Oído medio",
+      "Oído externo",
+      "Oído interno",
+      "Laberinto posterior"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El oído interno está formado por dos laberintos. El encargado propiamente de la audición es el laberinto anterior, el cual también recibe el nombre de:",
+    "opciones": [
+      "Utrículo",
+      "Sáculo",
+      "Sistema vestibular",
+      "Cóclea o caracol"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál es la función fundamental del sistema vestibular o laberinto posterior ubicado en el oído interno?",
+    "opciones": [
+      "Percibir la posición del cuerpo en el espacio y mantener el equilibrio.",
+      "Producir la fonación al vibrar las cuerdas vocales.",
+      "Transmitir las ondas sonoras hacia el tímpano únicamente.",
+      "Convertir el aire en sonidos articulados graves y agudos."
+    ],
+    "correcta": 0
+  }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 4: La Sílaba",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "4.1 Parte 1",
+          "youtube_id": "IOznfcASjMI",
+          "pdf_link": "https://drive.google.com/file/d/1aqAxtepVvxF-eMfmHAnM6PzpFCDG4CMS/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "¿Cómo define el texto a la unidad descrita en el apartado 4.1 (la sílaba)?",
+    "opciones": [
+      "Como una unidad estructural que actúa como principio organizador de la lengua.",
+      "Como la mínima unidad dotada de significado gramatical.",
+      "Como una interrupción brusca de la cadena hablada.",
+      "Como el conjunto de elementos suprasegmentales del idioma."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según el concepto de la sílaba, sus segmentos sucesivos se agrupan en torno a un segmento que se caracteriza por poseer:",
+    "opciones": [
+      "Exclusivamente naturaleza consonántica.",
+      "Máxima sonoridad o máxima abertura oral.",
+      "La posición más implosiva de la palabra.",
+      "El menor grado de fuerza de voz."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el idioma español, el segmento de máxima sonoridad que constituye el núcleo de la sílaba es siempre de naturaleza:",
+    "opciones": [
+      "Oclusiva",
+      "Consonántica",
+      "Vocálica",
+      "Fricativa"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Además de su concepto estructural, ¿qué definición tradicional se le otorga a la sílaba en el texto?",
+    "opciones": [
+      "Como el segmento que indica el género y el número.",
+      "Como el sonido o grupo de sonidos que pronunciamos en un solo golpe de voz.",
+      "Como la sílaba que siempre carece de acento prosódico.",
+      "Como la unión inseparable de dos consonantes fuertes."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué afirma el documento sobre la capacidad de las vocales para conformar sílabas?",
+    "opciones": [
+      "No pueden formar sílabas sin al menos un margen consonántico.",
+      "Solo pueden constituir sílabas cuando llevan tilde.",
+      "Las vocales solas pueden constituir sílabas.",
+      "Solo las vocales abiertas pueden conformar sílabas por sí mismas."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "De acuerdo con el análisis de la palabra 'pan' en el texto, ¿qué elemento constituye el 'pico de sonoridad'?",
+    "opciones": [
+      "La consonante /n/",
+      "La consonante /p/",
+      "La vocal /a/",
+      "El golpe de voz completo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el vocablo monosilábico 'pan', las consonantes /p/ y /n/ cumplen la función estructural de:",
+    "opciones": [
+      "Cumbres o centros vocálicos.",
+      "Márgenes consonánticos anterior y posterior del núcleo silábico.",
+      "Rimas silábicas explosivas.",
+      "Núcleos de inicio y término."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según los ejemplos de separación silábica provistos en el documento, ¿cuál es el silabeo correcto de la palabra 'preinscripción'?",
+    "opciones": [
+      "pre - ins - crip - ción",
+      "preins - crip - ción",
+      "prein - scrip - ción",
+      "pre - in - scrip - ci - ón"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En los constituyentes silábicos, ¿qué otras denominaciones recibe el núcleo (N)?",
+    "opciones": [
+      "Ataque, cabeza o abertura",
+      "Cumbre, pico o centro",
+      "Margen posterior o coda",
+      "Posición implosiva"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El constituyente de la sílaba conformado por una sola vocal, como en los ejemplos 'a - la', 'o - í - a' y 'clo - a - cas', se llama:",
+    "opciones": [
+      "Inicio",
+      "Coda",
+      "Ataque",
+      "Núcleo"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "El margen silábico anterior que se halla en posición explosiva recibe el nombre de:",
+    "opciones": [
+      "Coda, cierre o implosión",
+      "Inicio, ataque, cabeza o abertura",
+      "Rima silábica",
+      "Cumbre, pico o centro"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el texto, la naturaleza del 'inicio' (margen silábico anterior) es siempre:",
+    "opciones": [
+      "Consonántica",
+      "Vocálica",
+      "Central",
+      "Suprasegmental"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En los ejemplos 'cla - ro', 'be - so', 'pron - to' y 'pe - so', los elementos consonánticos iniciales ('cl', 'b', 'pr', 'p') funcionan como:",
+    "opciones": [
+      "Codas",
+      "Núcleos",
+      "Rimas",
+      "Inicios o ataques"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "El constituyente silábico denominado 'Coda (C)' se define como:",
+    "opciones": [
+      "El margen silábico posterior que se halla en posición implosiva.",
+      "El pico de máxima abertura de una sílaba.",
+      "El margen silábico anterior en posición explosiva.",
+      "La unión exclusiva de dos vocales en la misma sílaba."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Al igual que el inicio silábico, la coda es de naturaleza:",
+    "opciones": [
+      "Semivocálica",
+      "Consonántica",
+      "Vocálica",
+      "Melódica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En las sílabas de los ejemplos 'puen - te', 'pa - red', 'mal - dad' y 'vals', las consonantes ubicadas al final de la sílaba ('n', 'd', 'l', 'ls') representan a la:",
+    "opciones": [
+      "Cabeza",
+      "Cumbre",
+      "Coda",
+      "Abertura"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué elementos constituyen directamente la Rima silábica (R)?",
+    "opciones": [
+      "Exclusivamente los márgenes silábicos consonánticos.",
+      "El ataque y la cabeza.",
+      "El núcleo y la coda, o también solo el núcleo.",
+      "El inicio y la abertura."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "De acuerdo con algunos investigadores mencionados en el texto, la composición de la rima silábica es determinante para:",
+    "opciones": [
+      "Asignar la posición explosiva del inicio.",
+      "La asignación del acento léxico.",
+      "La separación obligatoria de diptongos.",
+      "El correcto uso de la ortografía."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el esquema estructural de la sílaba que presenta el texto, la Sílaba (Ô) se ramifica en dos constituyentes principales que son:",
+    "opciones": [
+      "Inicio (I) y Rima (R)",
+      "Núcleo (N) y Coda (C)",
+      "Ataque (A) y Cumbre (C)",
+      "Margen anterior y Margen posterior"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Basándose en el diagrama de jerarquía silábica, la Rima (R) se subdivide a su vez en los elementos:",
+    "opciones": [
+      "Inicio (I) y Sílaba (Ô)",
+      "Sílaba tónica y Sílaba átona",
+      "Núcleo (N) y Coda (C)",
+      "Posición explosiva y Posición implosiva"
+    ],
+    "correcta": 2
+  }
+          ]
+        },
+        {
+          "titulo": "4.2 Parte 2",
+          "youtube_id": "2IwPMhuD2wg",
+          "pdf_link": "https://drive.google.com/file/d/15HrBH3Lp46MBw6dym8CTDfNX4IwMnDsF/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "¿Cómo se le llama también al silabeo, el cual consiste en pronunciar o escribir en forma separada las sílabas de una palabra?",
+    "opciones": [
+      "Acentuación prosódica",
+      "División silábica",
+      "Articulación fonética",
+      "Síncopa estructural"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el texto, en general, ¿por qué elemento están formadas al menos las sílabas de una palabra?",
+    "opciones": [
+      "Por un dígrafo consonántico.",
+      "Por dos vocales cerradas.",
+      "Por al menos una vocal.",
+      "Por una consonante en posición explosiva."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la estructura de la sílaba más frecuente en el idioma español según el texto?",
+    "opciones": [
+      "La constituida por una consonante y una vocal.",
+      "La formada exclusivamente por dos consonantes.",
+      "La compuesta por una vocal abierta y una cerrada.",
+      "La constituida únicamente por una vocal."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué regla se aplica cuando una consonante se encuentra entre dos vocales?",
+    "opciones": [
+      "Se separa como una sílaba independiente.",
+      "Forma sílaba con la vocal que la precede.",
+      "Se une a la vocal cerrada más cercana.",
+      "Siempre forma sílaba con la vocal que la sigue."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Al aplicar la regla de la consonante entre dos vocales cuando hay una 'h' intercalada, ¿cuál es el silabeo correcto de 'inhóspito'?",
+    "opciones": [
+      "in - hós - pi - to",
+      "i - nhós - pi - to",
+      "i - n - hós - pi - to",
+      "in - hós - pit - o"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Los grupos de consonantes pr, br, tr, dr, cr, kr, gr, fr, así como pl, bl, cl, kl, gl, fl, reciben el nombre de grupos:",
+    "opciones": [
+      "Heterosilábicos",
+      "Inseparables compuestos",
+      "Tautosilábicos",
+      "Implosivos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la principal característica de los grupos tautosilábicos en la división silábica?",
+    "opciones": [
+      "Son inseparables y siempre van acompañados de una vocal o forman sílaba con la vocal siguiente.",
+      "Se separan obligatoriamente cuando la palabra lleva tilde.",
+      "Se unen siempre a la consonante anterior.",
+      "Pueden ir solos formando una sílaba sin necesidad de vocales."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según el texto, no existe en el español la frontera silábica en la secuencia de:",
+    "opciones": [
+      "Vocal – vocal",
+      "Consonante – vocal",
+      "Consonante – consonante",
+      "Vocal – consonante"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El silabeo incorrecto 'pat - o' ilustra la inexistencia de fronteras silábicas en secuencias consonante - vocal. ¿Cuál sería la división correcta?",
+    "opciones": [
+      "p - ato",
+      "pat - o",
+      "pa - to",
+      "pa - t - o"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué regla se debe aplicar cuando en una palabra se encuentran dos vocales abiertas?",
+    "opciones": [
+      "Se mantienen unidas en una sola sílaba.",
+      "Se separan para formar sílabas diferentes.",
+      "Se unen a la consonante posterior.",
+      "Se juntan para formar un grupo tautosilábico."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes alternativas muestra el silabeo correcto de la palabra 'coetáneo'?",
+    "opciones": [
+      "co - etá - neo",
+      "co - e - tá - ne - o",
+      "coe - tá - ne - o",
+      "co - e - tá - neo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De acuerdo con el texto, cuando en una palabra se encuentran dos vocales cerradas distintas:",
+    "opciones": [
+      "Se mantienen unidas en una sola sílaba.",
+      "Se separan automáticamente en sílabas diferentes.",
+      "Se silabean dependiendo de si hay una 'h' intercalada.",
+      "Solo se unen si la segunda vocal es tónica."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Basándose en la regla para dos vocales cerradas distintas, ¿cuál es el silabeo correcto de 'cuidado'?",
+    "opciones": [
+      "cu - i - da - do",
+      "cui - dad - o",
+      "cu - ida - do",
+      "cui - da - do"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué ocurre en la división silábica cuando se encuentran una vocal abierta tónica y una vocal cerrada (o viceversa)?",
+    "opciones": [
+      "Se mantienen unidas en la misma sílaba.",
+      "Se separan obligatoriamente.",
+      "La vocal cerrada asimila a la abierta.",
+      "Se dividen si van seguidas de un grupo tautosilábico."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Al encontrarse una vocal abierta tónica y una vocal cerrada, el silabeo correcto de la palabra 'peine' es:",
+    "opciones": [
+      "pe - i - ne",
+      "pei - ne",
+      "pein - e",
+      "pe - in - e"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué sucede si en una palabra se encuentran una vocal abierta y una vocal cerrada tildada (o viceversa)?",
+    "opciones": [
+      "Se mantienen unidas formando una sílaba tónica.",
+      "Se unen mediante una frontera silábica vocálica.",
+      "Automáticamente se separan en sílabas diferentes.",
+      "El acento se desplaza hacia la consonante próxima."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Aplicando la regla de la vocal cerrada tildada, ¿cuál es el silabeo correcto de la palabra 'maíz'?",
+    "opciones": [
+      "ma - í - z",
+      "maíz",
+      "m - a - íz",
+      "ma - íz"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Según la regla sobre el grafema 'x', ¿qué sucede cuando este se encuentra en posición intervocálica?",
+    "opciones": [
+      "Se une a la primera vocal.",
+      "Se une a la segunda vocal.",
+      "Se separa formando una sílaba por sí solo.",
+      "Anula el sonido de la vocal que le sigue."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Con la regla del grafema 'x' intervocálico en cuenta, el silabeo correcto de 'examen' es:",
+    "opciones": [
+      "e - xa - men",
+      "ex - a - men",
+      "e - xam - en",
+      "ex - am - en"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Si una palabra lleva prefijo o está formada por dos palabras con uso independiente en la lengua, podemos encontrar hasta 2 soluciones. ¿Cuáles son las dos formas correctas de silabear 'subrayar'?",
+    "opciones": [
+      "sub - ray - ar / su - bray - ar",
+      "subr - a - yar / su - b - ra - yar",
+      "su - bra - yar / sub - ra - yar",
+      "sub - ra - yar / su - bray - ar"
+    ],
+    "correcta": 2
+  }
+          ]
+        },
+        {
+          "titulo": "4.3 Parte 3",
+          "youtube_id": "gw0bLMbTRiw",
+          "pdf_link": "https://drive.google.com/file/d/1byGcbHb6pfOi7YP1yVqWKR0MyV0i0Ksk/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según el texto, ¿cómo se denominan las sílabas que llevan la mayor fuerza de voz y contienen el acento prosódico u ortográfico?",
+    "opciones": [
+      "Sílabas átonas",
+      "Sílabas libres",
+      "Sílabas trabadas",
+      "Sílabas tónicas"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué característica principal define a las sílabas átonas?",
+    "opciones": [
+      "Carecen de coda al final de la sílaba.",
+      "Presentan el sonido de menor intensidad y no tienen acento.",
+      "Se pronuncian con la mayor fuerza de voz.",
+      "Siempre finalizan en una consonante."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Por la grafía o letra final, las sílabas que finalizan en una vocal (es decir, que carecen de coda) reciben el nombre de:",
+    "opciones": [
+      "Sílabas cerradas o trabadas",
+      "Sílabas tónicas",
+      "Sílabas abiertas o libres",
+      "Grupos tautosilábicos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Las sílabas clasificadas como cerradas o trabadas se caracterizan fundamentalmente por:",
+    "opciones": [
+      "Terminar en consonante o tener coda.",
+      "Poseer la mayor intensidad de voz.",
+      "Finalizar siempre en una vocal abierta.",
+      "Separarse en dos sílabas distintas."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Si consideramos las sílabas de las palabras 'Cris-tal', 'Pas-tel' y 'Pin-tar', estas son ejemplos claros de:",
+    "opciones": [
+      "Sílabas libres",
+      "Sílabas cerradas o trabadas",
+      "Sílabas átonas únicamente",
+      "Grupos heterosilábicos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El fenómeno fonológico en el que dos elementos contiguos pertenecen a la misma sílaba se denomina:",
+    "opciones": [
+      "Hiato",
+      "Diptongo decreciente",
+      "Grupo heterosilábico",
+      "Grupo tautosilábico"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes combinaciones consonánticas pertenece a los grupos tautosilábicos según el documento?",
+    "opciones": [
+      "pl, pr, cl, cr, fl, fr",
+      "s, p, t, k, m, n",
+      "ch, ll, rr",
+      "m, n, ñ, l, r"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En la pronunciación utilizada en América, la combinación 'tl' en la palabra 'A-tlán-ti-co' o 'a-tle-ta' conforma un grupo:",
+    "opciones": [
+      "Heterosilábico",
+      "Tautosilábico",
+      "Vocálico",
+      "De hiato simple"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La concurrencia de dos vocales que forman una sola sílaba recibe el nombre general de:",
+    "opciones": [
+      "Hiato",
+      "Triptongo",
+      "Diptongo",
+      "Sílaba trabada"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se forma un diptongo creciente según la clasificación del texto?",
+    "opciones": [
+      "Combinando una vocal abierta y otra cerrada.",
+      "Combinando dos vocales abiertas diferentes.",
+      "Con la presencia de una vocal débil tónica.",
+      "Combinando una vocal cerrada y otra abierta, o dos vocales cerradas diferentes."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Las palabras 'pues', 'viu-da', 'pien-sa' y 'vien-to' contienen ejemplos de:",
+    "opciones": [
+      "Hiatos simples",
+      "Diptongos crecientes",
+      "Diptongos decrecientes",
+      "Triptongos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la estructura vocálica que define a los diptongos decrecientes?",
+    "opciones": [
+      "Vocal cerrada seguida de otra cerrada.",
+      "Vocal cerrada seguida de una abierta.",
+      "Vocal abierta seguida de una cerrada.",
+      "Tres vocales en una misma sílaba."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según los ejemplos del texto, las palabras 'Pai-sa-je', 'Zeus' y 'coi-ma' presentan diptongos del tipo:",
+    "opciones": [
+      "Creciente",
+      "Decreciente",
+      "Homogéneo",
+      "Trabado"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué afirmación es correcta sobre la pronunciación de las vocales en un triptongo?",
+    "opciones": [
+      "Se pronuncian de manera conjunta como una sola sílaba o unidad sonora y no pueden separarse.",
+      "Se separan obligatoriamente en dos sílabas distintas.",
+      "Solo pueden pronunciarse unidas si la vocal abierta lleva tilde.",
+      "Generan siempre dos acentos prosódicos independientes."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "El esquema estructural obligatorio para la organización fonética de un triptongo es:",
+    "opciones": [
+      "Vocal Abierta + Vocal Abierta + Vocal Cerrada",
+      "Vocal Cerrada + Vocal Abierta + Vocal Cerrada",
+      "Vocal Abierta + Vocal Cerrada + Vocal Abierta",
+      "Vocal Cerrada + Vocal Cerrada + Vocal Abierta"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el triptongo de la palabra 'buey', la letra 'y' se acepta en la formación fonética porque:",
+    "opciones": [
+      "Opera fonéticamente como una 'i'.",
+      "Funciona estrictamente como un margen consonántico.",
+      "Tiene el valor de una vocal fuerte abierta.",
+      "Actúa como una frontera silábica inquebrantable."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Los grupos donde dos segmentos consecutivos se integran en sílabas diferentes se denominan:",
+    "opciones": [
+      "Tautosilábicos",
+      "Diptongos crecientes",
+      "Heterosilábicos",
+      "Sílabas trabadas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El fenómeno fonológico que se produce siempre que hay dos vocales fuertes (abiertas) juntas, obligando a separarlas en sílabas distintas, se conoce como:",
+    "opciones": [
+      "Diptongo creciente",
+      "Hiato",
+      "Triptongo",
+      "Grupo tautosilábico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Palabras como 'pe-ón', 'ca-os' y 'ra-le-a' ejemplifican el caso de:",
+    "opciones": [
+      "Grupos tautosilábicos",
+      "Diptongos decrecientes",
+      "Grupos heterosilábicos por hiato",
+      "Triptongos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué sucede silábicamente cuando hay una vocal débil junto a una fuerte, pero la débil es tónica (lleva tilde)?",
+    "opciones": [
+      "Se forma un triptongo cerrado.",
+      "Se deshace el diptongo, se convierte en hiato y se tienen dos sílabas.",
+      "Se mantiene el diptongo porque la tilde no afecta la unión estructural.",
+      "Se asimila la vocal débil a la fuerte en una sola sílaba abierta."
+    ],
+    "correcta": 1
+  }
+          ]
+        },
+        {
+          "titulo": "4.4 Parte 4",
+          "youtube_id": "RALBm1e-uwo",
+          "pdf_link": "https://drive.google.com/file/d/1Ip2y6YtTyUs-R-k5s_T9DCDklXOc7r-Z/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "¿De acuerdo con qué principio se organizan los sonidos en el dominio de la sílaba?",
+    "opciones": [
+      "Escala universal de sonoridad",
+      "Escala de entonación",
+      "Escala de abertura oclusiva",
+      "Margen silábico explosivo"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según la escala universal de sonoridad, ¿qué unidades se consideran las más perceptibles?",
+    "opciones": [
+      "Consonantes líquidas",
+      "Elementos aproximantes",
+      "Vocales silábicas",
+      "Vocales satélites"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la razón principal por la que las vocales silábicas son las unidades más perceptibles?",
+    "opciones": [
+      "Por ser las de mayor duración.",
+      "Por ser las más abiertas.",
+      "Por ubicarse siempre al final de la sílaba.",
+      "Por ser elementos exclusivamente fricativos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué otro nombre reciben tradicionalmente las vocales satélites o marginales?",
+    "opciones": [
+      "Consonantes oclusivas",
+      "Semivocales y semiconsonantes",
+      "Consonantes africadas",
+      "Elementos aproximantes"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la escala universal de sonoridad, en orden decreciente de sonoridad, ¿qué elemento sigue a las vocales satélites?",
+    "opciones": [
+      "Los líquidos",
+      "Los nasales",
+      "Los elementos aproximantes",
+      "Los obstruyentes"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes grupos representa a los elementos de menor sonoridad en la escala (ubicados al final de esta)?",
+    "opciones": [
+      "Los líquidos",
+      "Los nasales",
+      "Los aproximantes",
+      "Los obstruyentes (fricativas, africadas y oclusivas)"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Dentro del grupo de los obstruyentes, ¿qué consonantes son consideradas las más perceptibles?",
+    "opciones": [
+      "Oclusivas",
+      "Fricativas",
+      "Africadas",
+      "Nasales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué las consonantes fricativas son más perceptibles que las oclusivas y africadas?",
+    "opciones": [
+      "Debido a su mayor sonoridad silábica intrínseca.",
+      "Debido a su posición implosiva obligatoria.",
+      "Debido a su mayor abertura.",
+      "Debido a su carácter de vocal satélite."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El segmento de la sílaba caracterizado por la máxima sonoridad y máxima abertura oral es:",
+    "opciones": [
+      "El núcleo silábico",
+      "El margen anterior",
+      "El margen posterior",
+      "La consonante líquida"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según el texto, en el idioma español el núcleo silábico siempre es de naturaleza:",
+    "opciones": [
+      "Vocálica",
+      "Consonántica",
+      "Obstruyente",
+      "Aproximante"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En relación con la sonoridad de los elementos que acompañan al núcleo en una misma sílaba, el texto afirma que:",
+    "opciones": [
+      "Deben ser más sonoros que el núcleo.",
+      "Deben presentar un grado de sonoridad menor que el núcleo.",
+      "Tienen la misma sonoridad y abertura que el núcleo.",
+      "Deben ser estrictamente vocales silábicas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo varía la sonoridad de los segmentos dentro de la sílaba respecto a su posición?",
+    "opciones": [
+      "Aumenta progresivamente hacia el margen posterior.",
+      "Disminuye progresivamente desde el núcleo hacia los márgenes.",
+      "Se mantiene constante en toda la estructura de la sílaba.",
+      "Aumenta desde los márgenes hacia el centro de la sílaba."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la sílaba de ejemplo 'Trans', ¿qué segmento funciona como el núcleo (totalmente perceptible)?",
+    "opciones": [
+      "La consonante 't'",
+      "La consonante 'r'",
+      "La vocal 'a'",
+      "La consonante 'n'"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el análisis de la palabra 'Trans', la letra 't' corresponde a un segmento:",
+    "opciones": [
+      "Fricativo y muy perceptible",
+      "Oclusivo y el menos perceptible",
+      "Líquido y totalmente perceptible",
+      "Nasal y marginal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De acuerdo con el ejemplo de la sílaba 'Trans', la consonante 'r' está clasificada como una consonante:",
+    "opciones": [
+      "Nasal",
+      "Oclusiva",
+      "Africada",
+      "Líquida"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En el margen silábico implosivo del ejemplo 'Trans', la letra 'n' representa a un segmento:",
+    "opciones": [
+      "Oclusivo",
+      "Nasal",
+      "Fricativo",
+      "Aproximante"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la palabra 'Trans', ¿qué nivel de perceptibilidad posee la consonante final 's' respecto a la escala?",
+    "opciones": [
+      "Totalmente perceptible al igual que el núcleo.",
+      "Más perceptible que la vocal silábica.",
+      "Es un segmento fricativo (menos perceptible).",
+      "Máxima abertura oral y sonoridad."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según la escala universal de sonoridad (+ perceptible a - perceptible), ¿cuál es la serie correcta de los grupos consonánticos?",
+    "opciones": [
+      "Aproximantes, líquidas, nasales, fricativas, africadas, oclusivas.",
+      "Oclusivas, africadas, fricativas, nasales, líquidas, aproximantes.",
+      "Nasales, aproximantes, líquidas, africadas, fricativas, oclusivas.",
+      "Líquidas, fricativas, oclusivas, nasales, africadas, aproximantes."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué estructura constitutiva puede tener como mínimo una sílaba, según lo que menciona el texto sobre el núcleo?",
+    "opciones": [
+      "Una vocal satélite y una oclusiva.",
+      "Por lo menos una consonante explosiva.",
+      "Una sola vocal.",
+      "Dos consonantes y una semivocal."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La disminución de sonoridad en una sílaba se produce hacia los extremos. ¿Cómo se les llama también a estos márgenes en el esquema de la escala de sonoridad?",
+    "opciones": [
+      "Margen tónico y margen átono.",
+      "Margen vocálico y margen satélite.",
+      "Margen silábico explosivo y margen silábico implosivo.",
+      "Margen aproximante y margen oclusivo."
+    ],
+    "correcta": 2
+  }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 5: Pronto",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "5.1 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_7.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "5.2 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_7.2",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 6: Pronto",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "6.1 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_8.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "6.2 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_8.2",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 7: Pronto",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "7.1 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_9.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "7.2 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_9.2",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "7.3 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_9.3",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 8: Pronto",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "8.1 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_10.1",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "8.2 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_10.1",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 9: Pronto",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "9.1 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_11.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "9.2 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_11.2",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 10: Pronto",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "10.1 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_12.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "10.2 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_12.2",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 11: Pronto",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "11.1 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_13.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "11.2 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_13.2",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "11.3 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_13.3",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 12: Pronto",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "12.1 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_14.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "12.2 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_14.2",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 13: Pronto",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "13.1 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_15.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "13.2 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_15.2",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "13.3 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_15.3",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 14: Pronto",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "14.1 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_16.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "14.2 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_16.2",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 15: Pronto",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "15.1 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_17.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "15.2 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_17.2",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    }
+  ]
+}
