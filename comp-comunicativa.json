@@ -4186,89 +4186,2076 @@
       ]
     },
     {
-      "titulo": "Tema 5: Pronto",
+      "titulo": "Tema 5: Acentuación gráfica",
       "pdf_resuelto": "",
       "videos": [
         {
-          "titulo": "5.1 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_7.1",
+          "titulo": "5.1 Parte 1",
+          "youtube_id": "Q40qJ7lzUDs",
+          "pdf_link": "https://drive.google.com/file/d/1jSEhAxEDVMhiRghWBQ5LgrtqzNuMWnCw/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "¿Cómo está constituida la acentuación gráfica del español según el texto?",
+    "opciones": [
+      "Únicamente por la pronunciación más fuerte de una sílaba.",
+      "Por un signo diacrítico (tilde) y un conjunto de reglas que prescriben su uso.",
+      "Por la variación del tono de voz en una oración completa.",
+      "Por la separación silábica de las palabras trabadas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Además de 'tilde', ¿qué otras denominaciones recibe el signo diacrítico de la acentuación gráfica?",
+    "opciones": [
+      "Acento fonológico o paradigmático.",
+      "Acento culminativo o contrastivo.",
+      "Acento gráfico u ortográfico.",
+      "Acento prosódico o silábico."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "De acuerdo con el documento, ¿es cierto que todas las palabras tónicas llevan tilde?",
+    "opciones": [
+      "Sí, todas las palabras tónicas deben escribirse con tilde.",
+      "No, no todas las palabras tónicas se escriben con una tilde sobre su sílaba tónica.",
+      "Solo las palabras que cumplen una función culminativa llevan tilde.",
+      "Sí, siempre que no formen parte de un grupo acentual."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función de las reglas de acentuación gráfica?",
+    "opciones": [
+      "Determinar la presencia o ausencia de tilde para deducir inequívocamente la sílaba tónica.",
+      "Convertir todas las sílabas átonas en tónicas dentro del discurso.",
+      "Cambiar el significado de los verbos y sustantivos.",
+      "Establecer si una oración es afirmativa o negativa."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "El concepto de 'acento prosódico' se define fundamentalmente como:",
+    "opciones": [
+      "El uso obligatorio de una tilde en la última sílaba.",
+      "El signo diacrítico utilizado en la escritura del español.",
+      "La diferencia en la pronunciación de una determinada sílaba, estableciendo un contraste.",
+      "La regla que impide la formación de grupos acentuales."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es lo que hace un 'rasgo prosódico' según el texto?",
+    "opciones": [
+      "Eliminar las vocales satélites de una sílaba.",
+      "Remarcar un sonido o grupo de sonidos en la palabra.",
+      "Modificar exclusivamente las consonantes fricativas.",
+      "Ocultar el significado original de un sustantivo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué eje se desarrolla la 'Función contrastiva' del acento prosódico?",
+    "opciones": [
+      "Eje paradigmático",
+      "Eje culminativo",
+      "Eje sintagmático",
+      "Eje ortográfico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El propósito principal de la función contrastiva es:",
+    "opciones": [
+      "Diferenciar sustantivos de verbos.",
+      "Establecer un contraste para determinar cuál sílaba es tónica y cuál es átona.",
+      "Remarcar exclusivamente el acento gráfico.",
+      "Evitar la pronunciación de los fonemas sordos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el ejemplo de la palabra 'có-mi-co', utilizado para explicar la función contrastiva, ¿cómo se clasifican sus sílabas respectivamente?",
+    "opciones": [
+      "Átona, átona, tónica",
+      "Tónica, tónica, átona",
+      "Átona, tónica, átona",
+      "Tónica, átona, átona"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "La oración 'Duermo tan bien como como' es un ejemplo utilizado en el texto para ilustrar la función:",
+    "opciones": [
+      "Distintiva",
+      "Culminativa",
+      "Contrastiva",
+      "Paradigmática"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La función distintiva del acento prosódico se asocia con el:",
+    "opciones": [
+      "Eje paradigmático",
+      "Eje sintagmático",
+      "Eje ortográfico",
+      "Eje sintáctico"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué permite hacer la función distintiva del acento prosódico?",
+    "opciones": [
+      "Contrastar unidades para saber dónde empieza y termina el discurso.",
+      "Diferenciar el significado de las palabras que solo se distinguen fónicamente por la tonicidad.",
+      "Reconocer las palabras que siempre llevan acento gráfico.",
+      "Eliminar las sílabas átonas de una oración."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el documento, el acento tiene 'valor fonológico' en la lengua española debido a que:",
+    "opciones": [
+      "Todas las palabras llevan siempre un signo diacrítico.",
+      "Permite agrupar las consonantes y vocales en sílabas.",
+      "Solo afecta a los verbos conjugados.",
+      "Establece diferencias significativas entre las palabras."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "La secuencia de palabras 'mé-di-co', 'me-di-co' y 'me-di-có' ejemplifica la función:",
+    "opciones": [
+      "Culminativa",
+      "Contrastiva",
+      "Sintagmática",
+      "Distintiva"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En el ejemplo 'há-bi-to' (sustantivo) frente a 'ha-bi-tó' (verbo), se evidencia que el acento cumple una función:",
+    "opciones": [
+      "Distintiva, al cambiar la categoría y el significado de la palabra.",
+      "Contrastiva, al agrupar múltiples palabras en un solo grupo acentual.",
+      "Culminativa, al indicar el inicio de la oración.",
+      "Ortográfica, al exigir que ambos términos lleven tilde."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la función que permite percibir dónde empiezan y dónde culminan los diferentes grupos acentuales que componen el discurso?",
+    "opciones": [
+      "Función sintagmática",
+      "Función contrastiva",
+      "Función distintiva",
+      "Función culminativa"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Según la función culminativa, un grupo acentual está constituido siempre por:",
+    "opciones": [
+      "Una sílaba tónica y la sílaba átona de su entorno que se apoya en ella.",
+      "Dos sílabas tónicas juntas.",
+      "Únicamente sílabas átonas.",
+      "Palabras que carecen de acento prosódico."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En el enunciado 'Si te aCUERdas, Díselo', existen dos grupos acentuales. En el primero, ¿cuáles son las sílabas átonas que se apoyan en la sílaba tónica 'CUER'?",
+    "opciones": [
+      "si, te, lo",
+      "si, te, a, das",
+      "a, das, dí",
+      "se, lo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el análisis del segundo grupo acentual del ejemplo 'Si te aCUERdas, Díselo', las sílabas átonas 'se' y 'lo' se apoyan en la sílaba tónica:",
+    "opciones": [
+      "CUER",
+      "das",
+      "DÍ",
+      "te"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Considerando el concepto inicial del texto, para deducir inequívocamente cuál es la sílaba tónica en palabras prosódicamente acentuadas que no llevan tilde, nos basamos en:",
+    "opciones": [
+      "Las reglas de acentuación gráfica.",
+      "El eje paradigmático exclusivamente.",
+      "La ausencia total de grupos acentuales.",
+      "La posición siempre final de la sílaba."
+    ],
+    "correcta": 0
+  }
+          ]
         },
         {
-          "titulo": "5.2 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_7.2",
+          "titulo": "5.2 Parte 2",
+          "youtube_id": "vrNDRMoIO_c",
+          "pdf_link": "https://drive.google.com/file/d/1DPFGf3aK7O2oQnZQFvkhbbcgC1K5IOIK/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "Según las reglas generales, ¿qué sucede con la acentuación gráfica de las palabras monosílabas?",
+    "opciones": [
+      "Llevan tilde si terminan en vocal o en 'n' y 's'.",
+      "Nunca se acentúan gráficamente, salvo en los casos de tilde diacrítica.",
+      "Se acentúan dependiendo exclusivamente de la consonante final.",
+      "Siempre llevan tilde para distinguirse dentro de la oración."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuándo llevan tilde las palabras agudas (oxítonas) según el texto?",
+    "opciones": [
+      "Cuando terminan en cualquier consonante doble o en 'y'.",
+      "Cuando terminan en los grafemas consonantes 'n' o 's', o en cualquier vocal.",
+      "Cuando su sílaba tónica es la penúltima.",
+      "Cuando terminan en un grafema consonántico distinto de 'n' o 's'."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué palabras agudas como 'virrey' o 'convoy' NO llevan tilde?",
+    "opciones": [
+      "Porque terminan en el grafema 'y'.",
+      "Porque son excepciones de origen exclusivamente extranjero.",
+      "Porque la fuerza de voz recae en la penúltima sílaba.",
+      "Porque contienen triptongos cerrados átonos."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Las palabras cuya sílaba tónica es la penúltima son conocidas como:",
+    "opciones": [
+      "Agudas u oxítonas",
+      "Esdrújulas o proparoxítonas",
+      "Sobresdrújulas o superproparoxítonas",
+      "Graves o llanas (paroxítonas)"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿En qué caso se escribe con tilde una palabra llana o grave?",
+    "opciones": [
+      "Cuando termina en las consonantes 'n', 's' o en vocal.",
+      "Cuando termina en un grafema consonántico distinto de 'n', 's' o vocal.",
+      "Únicamente cuando contiene un hiato o un diptongo.",
+      "Cuando es una palabra monosílaba de uso frecuente."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la regla de acentuación gráfica para las palabras esdrújulas (proparoxítonas)?",
+    "opciones": [
+      "Solo llevan tilde si terminan en vocal.",
+      "No se tildan nunca en el español moderno.",
+      "Todas llevan tilde sin excepción.",
+      "Solo se tildan si contienen secuencias vocálicas."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Las palabras sobresdrújulas, donde la sílaba tónica es anterior a la antepenúltima, se caracterizan por:",
+    "opciones": [
+      "Ser palabras compuestas y llevar tilde todas ellas.",
+      "Ser siempre adverbios terminados en -mente.",
+      "No llevar tilde en ningún caso.",
+      "Tildarse solo si terminan en los grafemas 'n' o 's'."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Cuando la sílaba tónica de una palabra contiene un triptongo y debe tildarse, ¿dónde se coloca la tilde?",
+    "opciones": [
+      "Siempre sobre la primera vocal cerrada.",
+      "Siempre sobre la vocal abierta.",
+      "Siempre sobre la última vocal.",
+      "En cualquier vocal del triptongo, es indiferente."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según la regla de los hiatos, palabras como 'raíz', 'oír' o 'baúl' llevan tilde en la vocal cerrada porque:",
+    "opciones": [
+      "Siguen estrictamente las reglas generales de acentuación para agudas.",
+      "Llevan siempre tilde en la vocal cerrada, con independencia de las reglas generales de acentuación.",
+      "Son palabras llanas terminadas en consonante distinta de 'n' o 's'.",
+      "Son palabras formadas por prefijos átonos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de la tilde diacrítica en las palabras monosílabas?",
+    "opciones": [
+      "Identificar la posición exacta de la sílaba tónica.",
+      "Indicar el cambio de género o número del sustantivo.",
+      "Prevenir su confusión con otras formalmente idénticas, pero de pronunciación átona y distinta función.",
+      "Marcar la separación silábica de forma obligatoria."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración 'Tú eres Santiago ¿verdad?', la palabra 'Tú' lleva tilde porque funciona como:",
+    "opciones": [
+      "Pronombre personal (2da P.G.)",
+      "Adjetivo posesivo",
+      "Adverbio de afirmación",
+      "Conjunción condicional"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿En qué caso la palabra monosílaba 'si' se escribe correctamente SIN tilde?",
+    "opciones": [
+      "Cuando funciona como pronombre personal de la 3° P.G.",
+      "Cuando funciona como adverbio de afirmación en una oración.",
+      "Cuando funciona como conjunción condicional o sustantivo (nota musical).",
+      "Cuando equivale a las formas del verbo ser o saber."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La tilde en la palabra monosílaba 'sé' se emplea correctamente cuando corresponde a:",
+    "opciones": [
+      "Forma del verbo ser o saber.",
+      "Pronombre personal de la 3° P.G.",
+      "Preposición de origen o sustantivo.",
+      "Adverbio de cantidad o ponderativo."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Las palabras tónicas qué, cuál, quién y cómo llevan tilde diacrítica obligatoria cuando:",
+    "opciones": [
+      "Funcionan como pronombres relativos en la oración.",
+      "Pertenecen a la clase de los interrogativos o exclamativos.",
+      "Actúan como conjunciones subordinantes directas.",
+      "Van precedidas por un artículo determinante plural."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según las reglas expuestas en el texto, ¿qué sucede con la acentuación del adverbio 'solo' y los pronombres demostrativos (este, ese, aquel)?",
+    "opciones": [
+      "Llevan tilde obligatoriamente para evitar ambigüedades.",
+      "Solo llevan tilde cuando funcionan como adjetivos.",
+      "No llevan tilde.",
+      "Llevan tilde si se encuentran al inicio de una oración interrogativa."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La palabra 'aún' DEBE escribirse con tilde cuando puede sustituirse semánticamente por:",
+    "opciones": [
+      "Incluso",
+      "Hasta",
+      "También",
+      "Todavía"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿En qué oración la palabra 'aun' está utilizada correctamente sin tilde por tener un valor inclusivo-ponderativo?",
+    "opciones": [
+      "El paquete no ha llegado aun.",
+      "No la he visto aun por aquí.",
+      "Aun los niños saben que eso no debe hacerse.",
+      "Aunque el resultado es bueno, aun podríamos mejorarlo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Cuando dos palabras se unen para formar una sola palabra gráfica compuesta (como 'baloncesto' o 'veintidós'), ¿cómo se acentúan?",
+    "opciones": [
+      "Conservan la tilde del primer componente únicamente.",
+      "Se someten a las reglas generales de acentuación como si fueran voces simples.",
+      "Conservan las tildes de ambos componentes originales inalteradas.",
+      "Nunca llevan tilde, independientemente de su terminación."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué los adverbios terminados en '-mente' (como 'fácilmente' o 'rápidamente') son considerados una excepción estructural en su acentuación?",
+    "opciones": [
+      "Porque son las únicas palabras en español que no tienen sílaba tónica.",
+      "Porque presentan de manera excepcional dos sílabas tónicas, por ello se denominan ditónicas.",
+      "Porque la terminación '-mente' siempre lleva tilde diacrítica obligatoria.",
+      "Porque la tilde original del adjetivo se desplaza a la penúltima sílaba del adverbio."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En las expresiones complejas formadas por varios adjetivos unidos con guion (como 'teórico-práctico'), la regla ortográfica indica que:",
+    "opciones": [
+      "Solo el primer elemento conserva su acento gráfico.",
+      "Solo el último elemento puede llevar tilde, sometiéndose a la regla general.",
+      "Cada elemento conservará la acentuación fonética y ortográfica que le corresponde.",
+      "Ambos elementos pierden su tilde original de forma definitiva."
+    ],
+    "correcta": 2
+  }
+          ]
         }
       ]
     },
     {
-      "titulo": "Tema 6: Pronto",
+      "titulo": "Tema 6: Mayúsculas y minúsculas",
       "pdf_resuelto": "",
       "videos": [
         {
-          "titulo": "6.1 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_8.1",
+          "titulo": "6.1 Parte 1",
+          "youtube_id": "Nuv_yMixBGI",
+          "pdf_link": "https://drive.google.com/file/d/1g3HrDezY1A7ylPY6uQR0KMZpEG8BiI-3/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "¿En qué casos es propia la escritura enteramente en mayúsculas según las consideraciones básicas?",
+    "opciones": [
+      "En la escritura normal de textos literarios largos.",
+      "Exclusivamente en los nombres propios de personas y ciudades.",
+      "En siglas, números romanos y textos cortos de carácter informativo.",
+      "Solo al inicio de un párrafo o enunciado."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué recomienda el texto respecto al uso combinado de minúsculas y mayúsculas en el interior de una misma palabra en la escritura normal?",
+    "opciones": [
+      "Debe evitarse.",
+      "Es la norma general para resaltar conceptos.",
+      "Es obligatorio en nombres de instituciones.",
+      "Se usa para identificar números romanos."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Desde el punto de vista lingüístico, ¿cuál es una función de la mayúscula inicial?",
+    "opciones": [
+      "Marcar y delimitar los nombres propios y el inicio de enunciados.",
+      "Mejorar la legibilidad de todos los textos informativos largos.",
+      "Formar e identificar los números romanos.",
+      "Reemplazar el uso de los puntos suspensivos."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Para qué sirve la escritura enteramente en mayúsculas en expresiones como 'NO ESTACIONAR'?",
+    "opciones": [
+      "Para delimitar nombres propios pluriverbales.",
+      "Para mejorar la legibilidad de textos cortos informativos.",
+      "Para formar abreviaturas.",
+      "Para iniciar la redacción de una carta."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el texto, ¿cuál es la diferencia ortográfica fundamental entre las siglas y las abreviaturas?",
+    "opciones": [
+      "Las siglas llevan tilde y las abreviaturas no.",
+      "Las abreviaturas se escriben enteramente en mayúsculas.",
+      "Las siglas se escriben sin puntos, mientras que las abreviaturas sí los llevan.",
+      "Las abreviaturas solo se usan para nombres latinos."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Los nombres como 'Moby Dick', 'Bucéfalo' o 'el Big Ben' llevan mayúscula inicial porque son:",
+    "opciones": [
+      "Palabras latinas genéricas.",
+      "Expresiones que designan divinidades politeístas.",
+      "Nombres propios de animales, plantas y objetos.",
+      "Acrónimos aceptados por la RAE."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la nomenclatura científica, ¿cómo se escriben los nombres latinos de especies y subespecies (ej. Homo sapiens)?",
+    "opciones": [
+      "Todo en minúsculas y cursiva.",
+      "Con mayúscula inicial en la primera palabra y además en cursiva.",
+      "Enteramente en mayúsculas y sin cursiva.",
+      "Solo con mayúscula en la segunda palabra."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué caso la palabra 'Dios' se escribe con mayúscula inicial obligatoriamente?",
+    "opciones": [
+      "Cuando se refiere al ser supremo de modo genérico.",
+      "Cuando se usa de forma metafórica (ej. Se cree Dios).",
+      "Cuando se usa con determinante para divinidades politeístas.",
+      "Cuando se usa, sin artículo, como nombre propio del ser supremo de una religión monoteísta."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Por qué en la expresión 'Marte es un dios guerrero' la palabra 'dios' se escribe con minúscula?",
+    "opciones": [
+      "Porque no lleva determinantes ni artículos.",
+      "Porque es un acrónimo.",
+      "Porque está referida al ser supremo de modo genérico o a divinidades politeístas.",
+      "Porque es el inicio de una cita textual."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si una palabra inicia con un dígrafo como 'ch', 'll', 'gu' o 'qu' y requiere mayúscula inicial, ¿cómo se debe escribir?",
+    "opciones": [
+      "Se escriben con mayúscula las dos letras que forman el dígrafo.",
+      "Solo toma forma de mayúscula la primera de sus letras.",
+      "Toda la palabra debe escribirse en mayúsculas.",
+      "Se escribe en minúscula y cursiva."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué ocurre con las letras 'i' y 'j' cuando se escriben en mayúscula?",
+    "opciones": [
+      "Se les debe colocar doble punto sobrescrito.",
+      "Se escriben siempre en cursiva.",
+      "Carecen del punto sobrescrito característico de su forma minúscula.",
+      "Solo se utilizan al inicio de un texto corto."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El fenómeno por el cual un nombre o expresión común reemplaza enteramente a un nombre propio (ej. 'el Salvador' por Jesucristo) y pasa a llevar mayúscula, se llama:",
+    "opciones": [
+      "Abreviatura",
+      "Personificación",
+      "Antonomasia",
+      "Metonimia"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué en la frase 'La Muerte se presentó guadaña en mano' la palabra 'Muerte' lleva mayúscula inicial?",
+    "opciones": [
+      "Por antonomasia de un lugar.",
+      "Por ser la primera palabra tras los puntos suspensivos.",
+      "Porque es un título de una obra.",
+      "Por personificación, que atribuye rasgos humanos a conceptos abstractos."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Por regla general condicionada por la puntuación, la primera palabra de un escrito y la que va después de un punto se escriben con:",
+    "opciones": [
+      "Minúscula",
+      "Mayúscula inicial",
+      "Letra cursiva",
+      "Mayúsculas sostenidas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué situación la palabra que sigue a los puntos suspensivos (...) debe escribirse con mayúscula inicial?",
+    "opciones": [
+      "Siempre, independientemente del contexto.",
+      "Cuando los puntos suspensivos no cierran un enunciado.",
+      "Cuando los puntos suspensivos cierran un enunciado.",
+      "Solo si la palabra posterior es un verbo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la expresión 'No sé… qué hacer', la palabra 'qué' se escribe con minúscula porque:",
+    "opciones": [
+      "Es una pregunta indirecta.",
+      "Los puntos suspensivos no cierran un enunciado.",
+      "Sigue a un verbo en infinitivo.",
+      "Reemplaza a una coma."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Después de los dos puntos (:), ¿en qué caso es obligatorio el uso de mayúscula inicial?",
+    "opciones": [
+      "En las listas numeradas genéricas.",
+      "En el encabezamiento o saludo de una carta, fax o correo electrónico.",
+      "Cuando se separan dos oraciones con el mismo sujeto.",
+      "Exclusivamente antes de escribir números romanos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué documentos suelen utilizar escritos enteramente en mayúsculas después de dos puntos para presentar su objetivo fundamental (ej. CERTIFICA: Que...)?",
+    "opciones": [
+      "Poemas literarios y novelas.",
+      "Documentos jurídicos o administrativos.",
+      "Correos electrónicos informales.",
+      "Notas de pie de página."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Cuando se reproduce una cita o palabras textuales después de dos puntos, ¿cómo debe escribirse la primera palabra de la cita?",
+    "opciones": [
+      "Con mayúscula inicial.",
+      "Enteramente en mayúsculas.",
+      "Con minúscula.",
+      "En cursiva minúscula."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes ejemplos muestra una aplicación correcta de mayúscula tras dos puntos?",
+    "opciones": [
+      "El congresista afirmó: 'no defraudaremos a los electores'.",
+      "El mejor poema es: El Romance de la pena negra.",
+      "Juan dijo: 'Me tengo que ir ahora mismo'.",
+      "Muy señor mío: le agradezco su carta."
+    ],
+    "correcta": 2
+  }
+          ]
         },
         {
-          "titulo": "6.2 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_8.2",
+          "titulo": "6.2 Parte 2",
+          "youtube_id": "UK3bNebyXPY",
+          "pdf_link": "https://drive.google.com/file/d/1R11lmn6q28lNtgiV1YsdFbqvZD_KaUXj/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "Según el texto, las variantes familiares del nombre de pila como 'Camucha', 'Pepe', 'Lula' o 'Chana' reciben el nombre de:",
+    "opciones": [
+      "Sobrenombres",
+      "Hipocorísticos",
+      "Seudónimos",
+      "Antonomasias"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué ocurre con la mayúscula inicial en los nombres de pila o apellidos cuando se utilizan en plural, como en 'Las Marías' o 'los Pérez'?",
+    "opciones": [
+      "Cambian a minúscula obligatoriamente.",
+      "Se mantiene la mayúscula inicial.",
+      "Se escriben completamente en mayúsculas.",
+      "Deben escribirse en cursiva."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si un apellido comienza con preposición y acompaña al nombre de pila, ¿cómo debe escribirse dicha preposición?",
+    "opciones": [
+      "Con mayúscula inicial (ej. Luis De Torres).",
+      "Con minúscula (ej. Luis de Torres).",
+      "Todo en mayúsculas (ej. Luis DE Torres).",
+      "Se omite para evitar confusiones."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Cuando se omite el nombre de pila y solo se menciona el apellido que inicia con preposición, esta última se escribe:",
+    "opciones": [
+      "Con mayúscula inicial (ej. Señor De Torres).",
+      "Con minúscula (ej. Señor de Torres).",
+      "Siempre entre comillas.",
+      "Omitiendo la preposición por completo."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Si un apellido comienza con artículo (sin preposición), ¿cómo debe escribirse dicho artículo?",
+    "opciones": [
+      "Siempre con minúscula.",
+      "Con mayúscula solo si se omite el nombre de pila.",
+      "Siempre con mayúscula, se anteponga o no el nombre de pila (ej. Carlos La Orden, señor La Merced).",
+      "Unido al nombre propio sin espacios."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En los nombres de dinastías derivadas de apellidos, como 'los Borbones', se utiliza mayúscula inicial, salvo cuando:",
+    "opciones": [
+      "Se refieren a reyes de países extranjeros.",
+      "Se utilizan como sustantivos abstractos.",
+      "Se utilizan como adjetivo (ej. los reyes borbones).",
+      "Se escriben junto a un número romano."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En los sobrenombres, apodos y seudónimos como 'el Cordobés' o 'el Libertador', la mayúscula inicial se aplica:",
+    "opciones": [
+      "Tanto al artículo como al apodo.",
+      "Solo al artículo que lo precede.",
+      "A la palabra que forma el sobrenombre o apodo, pero no al artículo que lo precede.",
+      "Solo si se escriben sin el nombre de pila."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Los nombres abstractos como 'Muerte', 'Esperanza' o 'Mal' se escriben con mayúscula inicial cuando:",
+    "opciones": [
+      "Actúan como adjetivos calificativos.",
+      "Son utilizados como sustantivos comunes genéricos.",
+      "Son utilizados alegóricamente o personificados.",
+      "Aparecen al final de un párrafo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la expresión 'mar Mediterráneo' o 'volcán Misti', las palabras 'mar' y 'volcán' se escriben con minúscula porque:",
+    "opciones": [
+      "Forman parte inseparable del nombre propio.",
+      "Son denominaciones antonomásticas estilísticas.",
+      "Son nombres genéricos de accidentes geográficos y solo el nombre específico va en mayúscula.",
+      "Fueron abreviadas por convención internacional."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿En qué caso el artículo que antecede a un nombre geográfico debe escribirse con mayúscula inicial?",
+    "opciones": [
+      "Cuando el artículo forma parte inseparable del nombre oficial (ej. La Habana, La Libertad).",
+      "En todos los países y continentes sin excepción.",
+      "Cuando designa un accidente geográfico menor.",
+      "Solo cuando inicia un texto o un capítulo."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Se escribe con mayúscula 'Oriente Medio' por ser una zona geopolítica, pero ¿cómo se debe escribir la palabra 'oriente' cuando indica una dirección, como en 'Mi casa está al oriente de la ciudad'?",
+    "opciones": [
+      "Con mayúscula inicial (Oriente).",
+      "Con minúscula inicial (oriente).",
+      "Enteramente en mayúsculas (ORIENTE).",
+      "Entre comillas y con mayúscula ('Oriente')."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La Tierra, el Sol y la Luna se escriben con mayúscula inicial porque son:",
+    "opciones": [
+      "Zonas geopolíticas.",
+      "Divinidades mitológicas romanas.",
+      "Nombres abstractos personificados.",
+      "Nombres propios de cuerpos celestes y otros entes astronómicos."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Según la regla ortográfica para los signos del Zodiaco, ¿por qué en la oración 'Panchito es sagitario' la palabra 'sagitario' va en minúscula?",
+    "opciones": [
+      "Porque está referida a una divinidad politeísta genérica.",
+      "Porque dejan de ser nombres propios al designar genéricamente a la persona nacida bajo ese signo.",
+      "Porque es el diminutivo de un hipocorístico.",
+      "Porque los nombres alternativos no llevan mayúscula nunca."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En los nombres de publicaciones periódicas o colecciones como 'El Comercio' o 'La Gaceta Jurídica', ¿qué elementos deben llevar mayúscula inicial?",
+    "opciones": [
+      "Solo la primera palabra del nombre.",
+      "Únicamente el nombre principal, omitiendo el artículo.",
+      "Los sustantivos y adjetivos que forman parte de su nombre.",
+      "Todas las palabras, incluyendo las preposiciones simples."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la denominación de regiones naturales o comarcas como 'la Amazonia' o 'la Patagonia', ¿qué elemento se escribe siempre con minúscula?",
+    "opciones": [
+      "El nombre propio de la región.",
+      "El artículo que las acompaña.",
+      "Tanto el artículo como el nombre geográfico.",
+      "El adjetivo calificativo posterior."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Expresiones como 'el País de Nunca Jamás' (lugares imaginarios) y 'la Ciudad Eterna' (denominaciones antonomásticas) se escriben con:",
+    "opciones": [
+      "Mayúscula inicial solo en la primera palabra.",
+      "Minúscula en todos sus componentes y en cursiva.",
+      "Mayúscula inicial en los sustantivos y adjetivos que las conforman.",
+      "Todas sus letras en mayúsculas sostenidas."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "De acuerdo con la regla sobre el nombre de entidades, organismos o departamentos, ¿qué opción presenta el uso correcto de las mayúsculas?",
+    "opciones": [
+      "ministerio De Hacienda",
+      "Ministerio de Hacienda",
+      "ministerio de hacienda",
+      "Ministerio De Hacienda"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En los nombres de vías de comunicación y espacios urbanos como 'la avenida Perú' o 'la plaza Mayor', el nombre común genérico (avenida, plaza, calle) se escribe con:",
+    "opciones": [
+      "Minúscula inicial.",
+      "Mayúscula inicial siempre.",
+      "Cursiva obligatoria.",
+      "Toda la palabra en mayúsculas."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Al referirse a textos sagrados (ej. la Biblia, el Corán), ¿qué elemento NO se escribe con mayúscula inicial?",
+    "opciones": [
+      "Los sustantivos que forman parte del título.",
+      "Los adjetivos que forman parte del título.",
+      "Las denominaciones antonomásticas.",
+      "El artículo que los antecede."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En el título de una obra de creación como 'Las mil y una noches' o 'Sueño de una noche de verano', la regla general indica que se escribe con mayúscula inicial:",
+    "opciones": [
+      "Todos los sustantivos y adjetivos del título.",
+      "Exclusivamente la primera palabra del título y los nombres propios si los hubiere.",
+      "Solo el artículo inicial y la palabra de mayor significado.",
+      "Absolutamente todas las palabras que conforman la obra."
+    ],
+    "correcta": 1
+  }
+          ]
+        },
+        {
+          "titulo": "6.3 Parte 3",
+          "youtube_id": "ABq2qIyjIBg",
+          "pdf_link": "https://drive.google.com/file/d/1gc8hBfAoDjUbctMzc1Rmf9-8ot37ELev/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según el texto, ¿cómo deben escribirse los nombres de los días de la semana, los meses y las estaciones del año?",
+    "opciones": [
+      "Con mayúscula inicial en todos los casos.",
+      "Con minúscula.",
+      "Con mayúscula solo en documentos formales.",
+      "Alternando según su posición en el texto."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Las notas musicales, como \"do\", \"re\", \"mi\", se consideran palabras que:",
+    "opciones": [
+      "Llevan mayúscula obligatoria.",
+      "No pertenecen a la categoría de nombres propios y van en minúscula.",
+      "Se escriben en cursiva y mayúscula.",
+      "Llevan tilde diacrítica en todos los casos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué caso excepcional los nombres de los vientos (como austro o bóreas) deben escribirse con mayúscula inicial?",
+    "opciones": [
+      "Cuando inician una estrofa musical.",
+      "Nunca se escriben con mayúscula.",
+      "Cuando están personificados en poemas o relatos mitológicos.",
+      "Cuando designan huracanes o tormentas reales."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la expresión \"Júpiter es un dios colérico\", la palabra \"dios\" se escribe con minúscula porque:",
+    "opciones": [
+      "No existe la divinidad Júpiter.",
+      "Está referida al ser supremo de modo genérico o a divinidades de religiones politeístas.",
+      "Es un error ortográfico del texto.",
+      "Está personificada como un viento mitológico."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Los nombres de religiones como el budismo, el catolicismo o el islamismo deben escribirse con:",
+    "opciones": [
+      "Minúscula.",
+      "Mayúscula inicial siempre.",
+      "Mayúsculas sostenidas.",
+      "Cursiva y entre comillas."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Palabras como \"mexicano\", \"ruso\" o \"cusqueño\", que indican procedencia, son ejemplos de:",
+    "opciones": [
+      "Gentilicios que se escriben con minúscula.",
+      "Nombres propios geopolíticos con mayúscula.",
+      "Adjetivos superlativos en mayúscula sostenida.",
+      "Acrónimos geográficos."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la regla ortográfica para los tratamientos como \"usted\", \"señor\", \"don\" o \"san\"?",
+    "opciones": [
+      "Se escriben siempre con mayúscula inicial.",
+      "Se escriben con minúscula, salvo que se usen en su forma de abreviatura (ej. Ud., Sr.).",
+      "Solo \"san\" lleva mayúscula inicial en cualquier contexto.",
+      "Se escriben enteramente en mayúsculas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Los títulos, cargos y nombres de dignidad (ej. rey, papa, presidente, ministro) se deben escribir con:",
+    "opciones": [
+      "Minúscula.",
+      "Mayúscula inicial obligatoria.",
+      "Mayúscula inicial solo si acompañan al nombre propio.",
+      "Mayúsculas sostenidas."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En la oración \"Su hija es ingeniera\", la palabra \"ingeniera\" se escribe con minúscula por tratarse de un sustantivo que designa:",
+    "opciones": [
+      "Una ciencia exacta.",
+      "Una profesión.",
+      "Una religión politeísta.",
+      "Un tratamiento abreviado."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué establece el texto acerca de la escritura de los nombres de las lenguas (como español o inglés)?",
+    "opciones": [
+      "Se escriben en mayúscula inicial.",
+      "Se escriben con minúscula.",
+      "Siempre van en cursiva.",
+      "Deben escribirse entre comillas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Las denominaciones de hemisferios, líneas imaginarias y polos geográficos (ej. el hemisferio sur, el ecuador, la eclíptica) se escriben con:",
+    "opciones": [
+      "Mayúscula en la primera palabra.",
+      "Mayúsculas sostenidas.",
+      "Minúscula.",
+      "Mayúscula inicial en todos los sustantivos."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según las reglas de minúsculas, los nombres de los elementos químicos y de las unidades de medida (ej. oxígeno, sodio, tesla, metro) deben escribirse:",
+    "opciones": [
+      "Con minúscula.",
+      "Con mayúscula inicial.",
+      "En cursiva.",
+      "Como siglas enteramente en mayúscula."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia fundamental en la escritura de los medicamentos según el texto?",
+    "opciones": [
+      "Los principios activos van en mayúscula y los nombres comerciales en minúscula.",
+      "Los principios activos (ej. paracetamol) van en minúscula y los nombres comerciales registrados (ej. Prozac) con mayúscula inicial.",
+      "Todos van en minúscula sin excepción.",
+      "Todos se consideran nombres propios y van con mayúscula inicial."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Nombres de monedas como \"quetzales\", \"soles\", \"euros\" o \"dólar\" se escriben con:",
+    "opciones": [
+      "Mayúscula inicial.",
+      "Minúscula.",
+      "Cursiva y mayúscula inicial.",
+      "Comillas obligatorias."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Para qué se emplea la escritura enteramente en mayúsculas en la formación de siglas como \"AVE\"?",
+    "opciones": [
+      "Para destacar que es un neologismo inventado.",
+      "Para distinguir la sigla con claridad del léxico común (como \"ave\", referida al animal).",
+      "Para indicar que se debe leer sílaba a sílaba.",
+      "Para formar gentilicios institucionales correctamente."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Las siglas que tienen que leerse deletreando sus componentes, como FBI o PSOE, se caracterizan por:",
+    "opciones": [
+      "Escribirse enteramente con minúsculas.",
+      "Mantener siempre su escritura en mayúsculas.",
+      "Escribirse con puntos entre cada letra de manera obligatoria.",
+      "Combinar mayúsculas y minúsculas alternadamente."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Los acrónimos que se leen secuencialmente y han pasado a considerarse nombres propios a todos los efectos (ej. Mercosur, Unesco) se escriben:",
+    "opciones": [
+      "Enteramente en mayúsculas.",
+      "Con minúscula en su totalidad.",
+      "Manteniendo la mayúscula solo en la inicial.",
+      "Con guiones separando cada sílaba."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si un acrónimo se convierte en un nombre común a todos los efectos, como \"ovni\", \"radar\" o \"láser\", ¿cómo debe escribirse?",
+    "opciones": [
+      "Enteramente en minúsculas.",
+      "Con mayúscula inicial obligatoria.",
+      "Enteramente en mayúsculas.",
+      "En cursiva y con mayúscula inicial."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Al desarrollar una sigla, ¿por qué \"documento nacional de identidad\" se escribe con minúsculas y \"Banco Central Europeo\" con mayúsculas iniciales?",
+    "opciones": [
+      "Porque los documentos son acrónimos y los bancos son siglas deletreadas.",
+      "Porque la primera es una expresión común y la segunda es el nombre propio de una institución.",
+      "Porque es completamente opcional según el gusto del escritor.",
+      "Porque \"documento\" se considera una profesión y \"Banco\" es un cargo jerárquico."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En siglas actuales como JpD (Jueces para la Democracia) o UdelaR, es cada vez más frecuente:",
+    "opciones": [
+      "Escribir todo obligatoriamente en minúsculas.",
+      "Escribir con mayúscula únicamente la inicial de los componentes y mantener en minúscula las no iniciales o los conectores gramaticales.",
+      "Añadir puntos después de cada preposición.",
+      "Escribir toda la expresión completa siempre en mayúsculas."
+    ],
+    "correcta": 1
+  }
+          ]
         }
       ]
     },
     {
-      "titulo": "Tema 7: Pronto",
+      "titulo": "Tema 7: Signos de Puntuación",
       "pdf_resuelto": "",
       "videos": [
         {
-          "titulo": "7.1 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_9.1",
+          "titulo": "7.1 Completo",
+          "youtube_id": "ZYNEBmyvZso",
+          "pdf_link": "https://drive.google.com/file/d/1IRcGKUrbPrGhvx1XT8SjqjluacbWcLJE/view",
           "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "7.2 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_9.2",
-          "gratis": false,
-          "preguntas": []
-        },
-        {
-          "titulo": "7.3 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_9.3",
-          "gratis": false,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "Según el texto, ¿cuál es el propósito o concepto principal de los signos ortográficos de puntuación?",
+    "opciones": [
+      "Cambiar el significado estructural de todas las oraciones en un texto literario.",
+      "Organizar el discurso para facilitar su comprensión, poniendo de manifiesto las relaciones sintácticas y lógicas entre sus constituyentes.",
+      "Reemplazar el uso de los verbos y conectores lógicos en un enunciado.",
+      "Señalar exclusivamente la correcta pronunciación fonética de las palabras."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes alternativas incluye funciones principales de los signos de puntuación mencionadas en el texto?",
+    "opciones": [
+      "Indicar los límites de las unidades discursivas, la modalidad de los enunciados y la omisión de una parte del enunciado.",
+      "Establecer la concordancia de género y número entre sustantivo y adjetivo.",
+      "Identificar los elementos segmentales y suprasegmentales del idioma.",
+      "Separar obligatoriamente las vocales abiertas de las cerradas en los hiatos."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "De acuerdo con el uso del punto (7.1.2), ¿en qué casos ES CORRECTO colocar un punto al final?",
+    "opciones": [
+      "Al final de títulos y subtítulos de libros y artículos.",
+      "Al final de direcciones electrónicas (ej. www.unsaac.edu.pe).",
+      "Al final de eslóganes publicitarios.",
+      "Al final de abreviaturas, fechas y horas (ej. Sra., pág., 17.30)."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿En cuál de los siguientes casos la regla ortográfica indica que NUNCA se escribe punto al final?",
+    "opciones": [
+      "Al final de las abreviaturas de títulos profesionales (Dra., Ing.).",
+      "Al final de pies de imagen y cabeceras de cuadros o tablas (ej. Ollantaytambo).",
+      "Al final de oraciones aseverativas largas y complejas.",
+      "Después de los apéndices confirmativos en un texto."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'Fátima y Thiago, amigos de mi hermana, son también médicos', ¿qué tipo de coma se ha empleado?",
+    "opciones": [
+      "Coma vocativa",
+      "Coma elíptica",
+      "Coma incidental",
+      "Coma yuxtapuesta"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La coma utilizada en enunciados como 'Eduardo, no quiero que salgas tan tarde' o 'Aquí está, señor, su comida' recibe el nombre de:",
+    "opciones": [
+      "Coma en complementos verbales",
+      "Coma enumerativa",
+      "Coma elíptica",
+      "Coma vocativa"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En oraciones como 'En mayo de 1990, Arequipa se convirtió en tierra de nadie' o 'Por la tarde, iremos a comprar el vestido', se aplica el uso de la coma:",
+    "opciones": [
+      "Incidental",
+      "Conjuntiva coordinada",
+      "En complementos verbales",
+      "Yuxtapuesta"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El uso de la coma en 'Caía la noche, llegaba el silencio' corresponde a la coma:",
+    "opciones": [
+      "Yuxtapuesta",
+      "Vocativa",
+      "Enumerativa",
+      "Con conectores incidentales"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "La función de la coma elíptica en una oración es:",
+    "opciones": [
+      "Separar elementos de una enumeración.",
+      "Llamar la atención o dirigirse a un interlocutor.",
+      "Reemplazar a un verbo que se ha omitido porque se sobrentiende.",
+      "Introducir una cita textual o pensamiento."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la datación de cartas y documentos, ¿dónde se debe colocar correctamente la coma?",
+    "opciones": [
+      "Entre el mes y el año (ej. 12 de julio, de 2023).",
+      "Entre el lugar y la fecha (ej. Quillabamba, 12 de julio de 2023).",
+      "Al final del año obligatoriamente (ej. 2023,).",
+      "Entre el día y el mes (ej. 12, de julio)."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'Daniel estudia Ciencias de la Comunicación; su hermana, Odontología', se utiliza el punto y coma debido a que son:",
+    "opciones": [
+      "Oraciones yuxtapuestas.",
+      "Enumeraciones complejas.",
+      "Conectores incidentales.",
+      "Incisos explicativos extensos."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué oración ejemplifica el uso correcto del punto y coma ante conectores incidentales?",
+    "opciones": [
+      "Recorrió diversos países; conoció a mucha gente; pero jamás habló.",
+      "Cada grupo irá por un lado diferente: el primero, por la izquierda; el segundo, por la derecha.",
+      "No se aceptó como válida la declaración del testigo; por lo tanto, el juicio quedó pendiente.",
+      "El padre sufrió un accidente; los hijos lo llevaron al hospital."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el enunciado 'Ayer compré dos libros: uno de José María Arguedas y otro de Mario Vargas Llosa', los dos puntos se utilizan para:",
+    "opciones": [
+      "Introducir un discurso directo.",
+      "Introducir una enumeración.",
+      "Conectar oraciones yuxtapuestas de causa-efecto.",
+      "Separar vocativos formales."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué tipo de documentos se escriben los dos puntos tras una palabra enteramente en mayúsculas, como 'CERTIFICA:' o 'CONSIDERANDO:'?",
+    "opciones": [
+      "En textos poéticos y literarios.",
+      "En textos periodísticos de opinión.",
+      "En textos jurídicos y administrativos.",
+      "En correos electrónicos informales."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la expresión 'Te llaman del hospital… espero que sean buenas noticias…', los puntos suspensivos se emplean para:",
+    "opciones": [
+      "Evitar la reproducción de palabras malsonantes.",
+      "Reemplazar a la palabra etcétera en una enumeración.",
+      "Indicar la suspensión del discurso con fines expresivos (duda o temor).",
+      "Señalar la omisión de un fragmento en medio de una cita textual."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué signo ortográfico se utiliza específicamente entre corchetes o paréntesis [...] para indicar la supresión de una palabra o fragmento en medio de una cita textual?",
+    "opciones": [
+      "Las comillas",
+      "Los puntos suspensivos",
+      "La coma incidental",
+      "La raya"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el texto, ¿para qué se utilizan los paréntesis ( ) en las obras teatrales?",
+    "opciones": [
+      "Para encerrar los diálogos directos del narrador.",
+      "Para omitir frases o fragmentos largos.",
+      "Para aislar los títulos de los actos.",
+      "Para encerrar las acotaciones de los personajes (ej. Golpeando con el bastón en el suelo)."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "La oración 'La palabra \"cándida\" lleva tilde por ser esdrújula' es un ejemplo del uso de las comillas en:",
+    "opciones": [
+      "Citas textuales",
+      "Reproducción de pensamientos",
+      "Usos metalingüísticos",
+      "Expresiones denominativas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué signo ortográfico se emplea clásicamente en la escritura de diálogos para preceder las intervenciones de los interlocutores (ej. —Paco Yunque.)?",
+    "opciones": [
+      "El paréntesis",
+      "Los dos puntos",
+      "Las comillas",
+      "La raya"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En oraciones como 'El martes 5 es su onomástico, ¿no?' o 'No les interesa lo que estoy expresando, ¿verdad?', los signos de interrogación encierran a los:",
+    "opciones": [
+      "Vocativos",
+      "Apéndices confirmativos",
+      "Enunciados aseverativos",
+      "Grupos interjectivos"
+    ],
+    "correcta": 1
+  }
+          ]
         }
       ]
     },
     {
-      "titulo": "Tema 8: Pronto",
+      "titulo": "Tema 8: Sustantivo",
       "pdf_resuelto": "",
       "videos": [
         {
-          "titulo": "8.1 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_10.1",
+          "titulo": "8.1 Parte 1",
+          "youtube_id": "ZkXr3vT-f4Q",
+          "pdf_link": "https://drive.google.com/file/d/15cJ2iDCIUt5ZIKe6B39IKGjtcBVjuP37/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "Según el criterio semántico, ¿cómo se define al sustantivo?",
+    "opciones": [
+      "Como una palabra invariable que carece de accidentes gramaticales.",
+      "Como una palabra que designa a los seres y objetos de la realidad, de existencia concreta o abstracta.",
+      "Como el núcleo excluyente del predicado verbal.",
+      "Como un nexo subordinante entre dos oraciones."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Las palabras 'bondad', 'amor', 'pecado' y 'alegría' son ejemplos de sustantivos de existencia:",
+    "opciones": [
+      "Independiente o concreta",
+      "Morfológica",
+      "Dependiente o abstracta",
+      "Invariable"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "De acuerdo con el criterio morfológico, el sustantivo se considera una palabra variable porque:",
+    "opciones": [
+      "Cambia su significado según la entonación.",
+      "Presenta accidentes gramaticales o morfemas flexivos de género y número.",
+      "Modifica directamente al verbo en la oración.",
+      "Se conjuga en tiempo, modo y aspecto."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Además de presentar morfemas flexivos, el criterio morfológico señala que el sustantivo participa en procesos de:",
+    "opciones": [
+      "Conjugación y declinación",
+      "Elisión y supresión",
+      "Derivación y composición",
+      "Sustitución pronominal"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Los términos 'portalibros', 'sacacorchos' y 'cubrecama' son ejemplos utilizados en el texto para ilustrar:",
+    "opciones": [
+      "La función de aposición.",
+      "Procesos morfológicos de derivación.",
+      "Procesos morfológicos de composición.",
+      "Sustantivos de existencia abstracta."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según el criterio sintáctico, el sustantivo tiene la capacidad fundamental de:",
+    "opciones": [
+      "Unir oraciones de igual jerarquía sintáctica.",
+      "Formar grupos nominales capaces de contraer varias funciones sintácticas.",
+      "Modificar exclusivamente a los adjetivos calificativos.",
+      "Reemplazar a los verbos copulativos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'El profesor viajará muy pronto', el sustantivo 'profesor' cumple la función de:",
+    "opciones": [
+      "Núcleo del predicado",
+      "Núcleo del modificador indirecto",
+      "Núcleo del sujeto",
+      "Núcleo del vocativo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el enunciado 'El amigo de Pedro llegó de Machu Picchu', la palabra 'Pedro' funciona como núcleo de un:",
+    "opciones": [
+      "Complemento directo",
+      "Modificador indirecto (MI)",
+      "Atributo",
+      "Predicado nominal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La oración 'Ricardo Palma, el bibliotecario mendigo, escribió Tradiciones peruanas' presenta un sustantivo ('bibliotecario') cumpliendo la función de:",
+    "opciones": [
+      "Núcleo de la aposición",
+      "Núcleo del vocativo",
+      "Complemento de régimen",
+      "Complemento indirecto"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué función cumple el sustantivo 'Señorita' en el enunciado 'Señorita, aquí tiene su cuaderno'?",
+    "opciones": [
+      "Núcleo del sujeto",
+      "Núcleo del complemento directo",
+      "Núcleo del atributo",
+      "Núcleo del vocativo"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En la oración 'Raquel compró lindas flores', el sustantivo 'flores' se desempeña como:",
+    "opciones": [
+      "Núcleo del complemento circunstancial",
+      "Núcleo del complemento directo (CD)",
+      "Núcleo de la aposición",
+      "Núcleo del modificador indirecto"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En 'Lucas enviará una encomienda a María', el sustantivo 'María' cumple la función sintáctica de:",
+    "opciones": [
+      "Núcleo del sujeto",
+      "Núcleo del complemento de régimen",
+      "Núcleo del complemento indirecto (CI)",
+      "Núcleo del vocativo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué función asume el sustantivo 'hospital' en la oración 'Mi vecino trabaja en el hospital'?",
+    "opciones": [
+      "Núcleo del complemento circunstancial (CC)",
+      "Núcleo del complemento directo",
+      "Núcleo del predicado nominal",
+      "Núcleo de la aposición"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En 'Ese hombre es un buen artista', el sustantivo 'artista' funciona sintácticamente como:",
+    "opciones": [
+      "Complemento indirecto",
+      "Núcleo del atributo",
+      "Complemento agente",
+      "Vocativo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La expresión 'Aquella mujer, una buena profesora' ejemplifica al sustantivo 'profesora' funcionando como:",
+    "opciones": [
+      "Núcleo del sujeto",
+      "Complemento de régimen",
+      "Núcleo del predicado nominal",
+      "Aposición explicativa"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración 'El cuento fue leído por el niño', el sustantivo 'niño' está cumpliendo la función de:",
+    "opciones": [
+      "Núcleo del modificador indirecto",
+      "Núcleo del complemento agente",
+      "Núcleo del atributo",
+      "Núcleo del complemento directo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En 'Una canción será interpretada por la profesora', el sustantivo 'profesora' asume la función de:",
+    "opciones": [
+      "Núcleo del predicado nominal",
+      "Núcleo del complemento agente",
+      "Núcleo del modificador indirecto",
+      "Núcleo del complemento indirecto"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'Rosa aspira a ese trabajo', el sustantivo 'trabajo' cumple la función sintáctica de:",
+    "opciones": [
+      "Núcleo del complemento de régimen (CR)",
+      "Núcleo de la aposición",
+      "Núcleo del complemento indirecto",
+      "Núcleo del sujeto paciente"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En 'Estudien bastante, jóvenes', el sustantivo 'jóvenes' actúa como:",
+    "opciones": [
+      "Sujeto",
+      "Atributo",
+      "Complemento circunstancial",
+      "Vocativo"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "El enunciado 'Las charlas versaron sobre salud y nutrición' ilustra el uso de los sustantivos como núcleos de:",
+    "opciones": [
+      "Complemento directo",
+      "Modificador indirecto",
+      "Complemento de régimen (CR)",
+      "Complemento agente"
+    ],
+    "correcta": 2
+  }
+          ]
         },
         {
-          "titulo": "8.2 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_10.1",
+          "titulo": "8.2 Parte 2",
+          "youtube_id": "hS7zmXs3dvE",
+          "pdf_link": "https://drive.google.com/file/d/14xupUpHxaxVCJ0fcM9fvAINTdlOHr7Ff/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "¿Qué clase de sustantivos nombran a los seres diferenciándolos de los demás de su misma clase o especie?",
+    "opciones": [
+      "Comunes",
+      "Propios",
+      "Abstractos",
+      "Colectivos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Ortográficamente, ¿cuál es la característica de escritura de los sustantivos propios?",
+    "opciones": [
+      "Se escriben enteramente en mayúsculas.",
+      "Se escriben con minúscula inicial.",
+      "Se escriben con mayúscula inicial.",
+      "Siempre van en cursiva."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según el texto, palabras como 'Cusco', 'Misti' y 'César Vallejo' son ejemplos de sustantivos:",
+    "opciones": [
+      "Comunes",
+      "Propios",
+      "Individuales",
+      "Concretos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se denominan los sustantivos que nombran a todos los seres de una determinada clase o especie cuyas características son similares?",
+    "opciones": [
+      "Abstractos",
+      "No contables",
+      "Comunes",
+      "Individuales"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "De acuerdo con el documento, palabras como 'ciudad', 'volcán' y 'poeta' se clasifican como sustantivos:",
+    "opciones": [
+      "Propios",
+      "Comunes",
+      "Abstractos",
+      "Colectivos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué designan los sustantivos contables?",
+    "opciones": [
+      "Entidades que se pueden contar o enumerar.",
+      "Magnitudes que interpretamos como sustancias.",
+      "Seres que tienen existencia dependiente.",
+      "Conjuntos de seres en número plural."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Expresiones como 'un libro', 'tres planetas' y 'cuatro niños' contienen ejemplos de sustantivos:",
+    "opciones": [
+      "No contables",
+      "Abstractos",
+      "Colectivos",
+      "Contables"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Los sustantivos no contables se caracterizan fundamentalmente por denotar:",
+    "opciones": [
+      "Entidades enumerables individualmente.",
+      "Seres que no pueden ser percibidos por los sentidos.",
+      "Magnitudes que interpretamos como sustancias o materias.",
+      "Conjuntos de objetos de la misma especie."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El uso de 'mucho tiempo', 'un poco de café' o 'una porción de leche' sirve para ejemplificar a los sustantivos:",
+    "opciones": [
+      "Propios",
+      "No contables",
+      "Abstractos",
+      "Colectivos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se denominan los sustantivos que nombran a seres que pueden ser percibidos por medio de los sentidos?",
+    "opciones": [
+      "Abstractos",
+      "Individuales",
+      "Concretos",
+      "Comunes"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según la clasificación por naturaleza, los sustantivos concretos señalan a seres que tienen una existencia:",
+    "opciones": [
+      "Dependiente",
+      "Independiente",
+      "Imaginaria",
+      "Teórica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la lista 'cóndor, aire, nube, fuego', encontramos exclusivamente ejemplos de sustantivos:",
+    "opciones": [
+      "Propios",
+      "No contables",
+      "Abstractos",
+      "Concretos"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué tipo de sustantivos nombran a seres que NO pueden ser percibidos por ninguno de los sentidos?",
+    "opciones": [
+      "Abstractos",
+      "Concretos",
+      "Propios",
+      "Individuales"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Los sustantivos abstractos se conocen solamente a través de un proceso mental, por ende, poseen una existencia:",
+    "opciones": [
+      "Independiente",
+      "Material",
+      "Dependiente",
+      "Tangible"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Palabras como 'hermosura', 'generosidad', 'paz' y 'ambición' pertenecen a la categoría de sustantivos:",
+    "opciones": [
+      "Concretos",
+      "Colectivos",
+      "Comunes",
+      "Abstractos"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cómo se define a los sustantivos individuales?",
+    "opciones": [
+      "Como palabras que nombran en singular a un conjunto de seres.",
+      "Como magnitudes interpretadas como materia.",
+      "Como palabras que nombran a un solo ser.",
+      "Como seres de existencia dependiente."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Los sustantivos 'árbol', 'mula', 'estrella' y 'pez' son clasificados en el texto como:",
+    "opciones": [
+      "Abstractos",
+      "Colectivos",
+      "Individuales",
+      "No contables"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La característica principal de los sustantivos colectivos es que:",
+    "opciones": [
+      "En número plural designan a un solo ser.",
+      "En número singular designan un conjunto de seres.",
+      "Se escriben siempre con mayúscula inicial.",
+      "Nombran entidades que no se pueden enumerar."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes series presenta ÚNICAMENTE sustantivos colectivos?",
+    "opciones": [
+      "Árbol, abeja, mujer, pez",
+      "Arboleda, recua, mujerío, cardumen",
+      "Cusco, planeta, libro, café",
+      "Generosidad, grandeza, ambición, pequeñez"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Términos como 'enjambre', 'constelación' y 'pedregal' sirven para ejemplificar a los sustantivos:",
+    "opciones": [
+      "Individuales",
+      "Abstractos",
+      "Colectivos",
+      "Propios"
+    ],
+    "correcta": 2
+  }
+          ]
+        },
+        {
+          "titulo": "8.3 Parte 3",
+          "youtube_id": "UdoAAbSlkKA",
+          "pdf_link": "https://drive.google.com/file/d/1nBmrZqvTRylgsls0D6-wWE1cgJyQ3o53/view",
+          "gratis": true,
+          "preguntas": [
+              {
+    "pregunta": "¿Cómo se denominan los sustantivos que expresan la diferencia gramatical masculino/femenino y la oposición de sexo a través de términos con diferente raíz?",
+    "opciones": [
+      "Sustantivos comunes en cuanto al género",
+      "Sustantivos heterónimos",
+      "Sustantivos de terminación variable",
+      "Sustantivos ambiguos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el texto, ¿cuál de los siguientes pares es un ejemplo de sustantivos heterónimos?",
+    "opciones": [
+      "niño / niña",
+      "el pianista / la pianista",
+      "toro / vaca",
+      "alcalde / alcaldesa"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué clase de sustantivos manifiestan las diferencias de género y de sexo por medio de morfemas en palabras de la misma raíz?",
+    "opciones": [
+      "Sustantivos de terminación variable",
+      "Sustantivos heterónimos",
+      "Sustantivos epicenos",
+      "Sustantivos ambiguos en cuanto al género"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En los sustantivos de terminación variable, ¿qué morfemas marcan el género femenino para las palabras 'alcalde', 'papa' y 'actor' respectivamente?",
+    "opciones": [
+      "-ina, -esa, -triz",
+      "-esa, -isa, -triz",
+      "-triz, -isa, -esa",
+      "-a, -ina, -isa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En los nombres de personas, la terminación '-ina' se utiliza para formar el femenino de palabras como:",
+    "opciones": [
+      "profeta y sacerdote",
+      "duque y príncipe",
+      "héroe y zar",
+      "emperador y actor"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué característica define a los sustantivos comunes en cuanto al género?",
+    "opciones": [
+      "Pueden ser masculinos o femeninos sin que su forma se vea modificada.",
+      "Expresan el género a través de raíces completamente distintas.",
+      "Se utilizan tanto como masculino o femenino sin experimentar cambios de significado ni referirse a sexos distintos.",
+      "Solo se refieren a animales utilizando los términos macho o hembra."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En los sustantivos comunes en cuanto al género, el sexo del referente se manifiesta a través de:",
+    "opciones": [
+      "Sufijos especiales como -esa o -triz.",
+      "La concordancia con el adjetivo y determinantes.",
+      "El cambio de la terminación -o por -a.",
+      "Términos complementarios como macho y hembra."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes series contiene exclusivamente sustantivos comunes en cuanto al género acabados en '-a'?",
+    "opciones": [
+      "niña, muchacha, loba, leona",
+      "yegua, madrina, vaca, mujer",
+      "astronauta, turista, dentista, pianista",
+      "abogada, arquitecta, bióloga, médica"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En cuanto a profesiones y títulos, ¿cómo se forma el femenino de muchos sustantivos de persona que en masculino terminan en '-o' (ej. abogado, médico)?",
+    "opciones": [
+      "Se mantienen invariables y se cambia el artículo (la abogado).",
+      "Presentan el femenino en '-a' (abogada, médica).",
+      "Se les añade el sufijo '-esa' (abogadesa).",
+      "Se convierten en sustantivos heterónimos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el texto, ¿cómo se comportan los sustantivos que designan grados de la escala militar (soldado, teniente, cabo)?",
+    "opciones": [
+      "Son sustantivos epicenos.",
+      "Son sustantivos heterónimos.",
+      "Son sustantivos de terminación variable.",
+      "Se consideran comunes en cuanto al género."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En tratamientos como 'Su Alteza' o 'Su Excelencia', se admiten los dos géneros dependiendo de:",
+    "opciones": [
+      "Si la palabra termina en vocal o consonante.",
+      "Si la persona a la que hace referencia es un hombre o una mujer.",
+      "Si se utiliza en singular o plural.",
+      "La región geográfica donde se pronuncie."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Los nombres de terminación invariable que pueden usarse como masculino o femenino, PERO sin experimentar cambios de significado, se denominan:",
+    "opciones": [
+      "Sustantivos heterónimos",
+      "Sustantivos de terminación variable",
+      "Sustantivos ambiguos en cuanto al género",
+      "Sustantivos polisémicos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes pares contiene ejemplos de sustantivos ambiguos en cuanto al género?",
+    "opciones": [
+      "el capital / la capital",
+      "el mar / la mar, el azúcar / la azúcar",
+      "el cólera / la cólera",
+      "padre / madre"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Términos como 'el capital' / 'la capital', o 'el cura' / 'la cura', que se diferencian en su significado y también en su género, corresponden a:",
+    "opciones": [
+      "Sustantivos ambiguos",
+      "Sustantivos epicenos",
+      "Sustantivos polisémicos y homónimos",
+      "Sustantivos de terminación variable"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿A qué categorías de palabras suelen pertenecer los sustantivos epicenos según el texto?",
+    "opciones": [
+      "A nombres de animales, plantas y algunas personas.",
+      "A profesiones, títulos y actividades.",
+      "Exclusivamente a nombres de objetos inanimados.",
+      "Únicamente a sustantivos abstractos."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Para designar el sexo en los sustantivos epicenos referidos a animales, se deben utilizar las palabras:",
+    "opciones": [
+      "varón y mujer",
+      "el y la",
+      "masculino y femenino",
+      "macho y hembra"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "De acuerdo con las reglas de concordancia para los sustantivos epicenos, ¿cuál de las siguientes oraciones es CORRECTA?",
+    "opciones": [
+      "El tiburón hembra es muy peligrosa.",
+      "El tiburón hembra es muy peligroso.",
+      "La tiburón hembra es muy peligrosa.",
+      "El tiburón mujer es muy peligroso."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En los sustantivos epicenos que son nombres de plantas (como ruda, espárrago o palmera), la especificación se hace usando:",
+    "opciones": [
+      "Los artículos el o la",
+      "Las terminaciones -o y -a",
+      "Las palabras macho y hembra",
+      "Las palabras varón y mujer"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si un sustantivo epiceno es nombre de persona (ej. personaje, víctima, criatura), se debe emplear para diferenciar el sexo:",
+    "opciones": [
+      "Los términos macho y hembra.",
+      "Únicamente los determinantes demostrativos.",
+      "Las palabras varón/mujer o masculino/femenino.",
+      "Los sufijos especiales para profesiones."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Teniendo en cuenta la nota sobre los sustantivos epicenos de personas, ¿cuál de las siguientes expresiones es INCORRECTA?",
+    "opciones": [
+      "Personaje varón de la comedia",
+      "La víctima (macho-hembra)",
+      "Personaje masculino de la comedia",
+      "Personaje femenino de la comedia"
+    ],
+    "correcta": 1
+  }
+          ]
+        },
+        {
+          "titulo": "8.4 Parte 4",
+          "youtube_id": "XM4VTnMPFG8",
+          "pdf_link": "https://drive.google.com/file/d/1CR-P2BmWVyo64U5bA-ejCaQEQe9eqVNK/view",
+          "gratis": true,
+          "preguntas": [
+              {
+    "pregunta": "¿Cómo forman el plural los sustantivos terminados en vocal átona (-a, -e, -i, -o, -u) y en las tónicas -á, -é, -ó?",
+    "opciones": [
+      "Añadiendo \"-es\".",
+      "Permanecen invariables y usan el artículo.",
+      "Añadiendo \"-s\".",
+      "Depende de la consonante anterior."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según las reglas del plural, ¿qué ocurre con los sustantivos terminados en las vocales tónicas -í, -ú (como 'bisturí' o 'tabú')?",
+    "opciones": [
+      "Solo pueden pluralizarse añadiendo \"-s\".",
+      "Tienden a admitir las dos variantes de plural (-s o -es).",
+      "Se pluralizan únicamente añadiendo \"-es\".",
+      "Permanecen invariables en plural."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Los sustantivos que terminan en las consonantes -L, -N, -R, -D, -Z, -J (como 'león' o 'pared') hacen el plural:",
+    "opciones": [
+      "Añadiendo \"-s\".",
+      "Duplicando la consonante final.",
+      "Cambiando la consonante por \"-ces\".",
+      "Añadiendo \"-es\"."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál es la regla de pluralización para los nombres terminados en -S o -X que son agudos o monosílabos (como 'autobús' o 'fax')?",
+    "opciones": [
+      "Forman el plural añadiendo \"-es\".",
+      "Forman el plural añadiendo \"-s\".",
+      "No cambian y solo se pluraliza el artículo.",
+      "Pierden la -S o -X al pluralizarse."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué sucede con los sustantivos terminados en -S o -X que NO son agudos (como 'dosis', 'tesis' o 'tórax')?",
+    "opciones": [
+      "Se pluralizan añadiendo \"-s\".",
+      "Se pluralizan añadiendo \"-es\".",
+      "Permanecen invariables.",
+      "Cambian la -S o -X por -ces."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Por regla general, los sustantivos terminados en -Y (como 'buey', 'rey', 'ley') forman el plural:",
+    "opciones": [
+      "Añadiendo \"-s\" (ej. bueys).",
+      "Cambiando la Y por I y añadiendo \"-s\" (ej. bueis).",
+      "Permaneciendo invariables (ej. los buey).",
+      "Añadiendo \"-es\" (ej. bueyes)."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cómo se forma el plural de los sustantivos acabados en otras consonantes distintas a las comunes (como 'mamut', 'tic', 'cenit')?",
+    "opciones": [
+      "Añadiendo \"-es\".",
+      "Añadiendo \"-s\".",
+      "Permaneciendo invariables.",
+      "Reemplazando la consonante final por vocal."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De acuerdo con el texto, ¿cuáles son los plurales recomendados para los nombres de las vocales?",
+    "opciones": [
+      "as, es, is, os, us",
+      "aes, es, íes, oes, úes",
+      "aese, ese, ises, oses, uses",
+      "Las vocales no tienen plural."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En los sustantivos compuestos que constituyen una sola palabra (como 'tragaluz' o 'tiovivo'), el plural se forma:",
+    "opciones": [
+      "Pluralizando solamente el primer elemento.",
+      "Pluralizando ambos elementos.",
+      "Como si fueran palabras simples, pluralizando solamente el segundo elemento.",
+      "No se pluralizan, son palabras invariables."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según la regla de los compuestos de una sola palabra, ¿cuál es el plural correcto de 'bocacalle' y 'ganapán' respectivamente?",
+    "opciones": [
+      "bocascalles y ganaspanes",
+      "bocascalle y ganapanes",
+      "bocacalles y ganapanes",
+      "bocacalles y ganapánes"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Cuando dos sustantivos se escriben separados, pero constituyen una unidad léxica donde el segundo elemento aporta información determinativa, el plural se marca:",
+    "opciones": [
+      "Solo en el segundo elemento.",
+      "En ambos elementos a la vez.",
+      "No se marca en ninguno, se usa el artículo plural.",
+      "Solo en el primer elemento."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes alternativas muestra el plural correcto de los compuestos separados según la regla determinativa?",
+    "opciones": [
+      "Años luces y niños prodigios",
+      "Años luz y niños prodigio",
+      "Año luces y niño prodigios",
+      "Años luces y niños prodigio"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué ocurre con los sustantivos 'macho' y 'hembra' cuando modifican a otro sustantivo para indicar el sexo (ej. las panteras macho)?",
+    "opciones": [
+      "Se pluralizan obligatoriamente para concordar.",
+      "Se omiten en la forma plural.",
+      "No se pluralizan.",
+      "Se convierten en adjetivos femeninos."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En los compuestos formados por dos adjetivos, ya sea unidos o separados por guion (ej. árabe-israelíes), el plural se aplica:",
+    "opciones": [
+      "Solo al segundo elemento.",
+      "Solo al primer elemento.",
+      "A ambos elementos al mismo tiempo.",
+      "A ninguno, son invariables."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Identifique el plural correcto para el compuesto de dos adjetivos 'político-económico':",
+    "opciones": [
+      "políticos-económicos",
+      "político-económicos",
+      "políticos-económico",
+      "política-económicas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Por regla general, ¿tienen plural los nombres propios?",
+    "opciones": [
+      "Sí, siempre tienen plural al igual que los comunes.",
+      "Solo tienen plural los nombres de países.",
+      "No tienen plural, salvo cuando se asimilan a los sustantivos comunes.",
+      "Sí, pero solo añadiendo \"-es\" al final."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Expresiones como 'las celestinas' o 'los donjuanes' son ejemplos de:",
+    "opciones": [
+      "Sustantivos compuestos de dos adjetivos.",
+      "Nombres propios asimilados a comunes que siguen sus reglas de pluralización.",
+      "Palabras agudas terminadas en -S.",
+      "Vocales tónicas pluralizadas."
+    ],
+    "correcta": 1
+  }
+          ]
         }
       ]
     },
@@ -4413,12 +6400,32 @@
         {
           "titulo": "15.1 Pronto",
           "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_17.1",
+          "pdf_link": "LINK_PDF_16.1",
           "gratis": false,
           "preguntas": []
         },
         {
           "titulo": "15.2 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_16.2",
+          "gratis": false,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 16: Pronto",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "16.1 Pronto",
+          "youtube_id": "PENDIENTE",
+          "pdf_link": "LINK_PDF_17.1",
+          "gratis": false,
+          "preguntas": []
+        },
+        {
+          "titulo": "16.2 Pronto",
           "youtube_id": "PENDIENTE",
           "pdf_link": "LINK_PDF_17.2",
           "gratis": false,
