@@ -6260,22 +6260,590 @@
       ]
     },
     {
-      "titulo": "Tema 9: Pronto",
+      "titulo": "Tema 9: Pronombre",
       "pdf_resuelto": "",
       "videos": [
         {
-          "titulo": "9.1 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_11.1",
+          "titulo": "9.1 Parte 1",
+          "youtube_id": "8WHZwrtb-hA",
+          "pdf_link": "https://drive.google.com/file/d/1M70novorn6i89DC65_DJsl_gOZhT0Kg9/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "De acuerdo con el criterio semántico, ¿cuál de las siguientes afirmaciones define correctamente al pronombre?",
+    "opciones": [
+      "Indica la existencia de seres nombrándolos de manera directa y precisa.",
+      "Expresa invariablemente los accidentes gramaticales en la oración.",
+      "Carece de significado exacto y adquiere sentido dentro de un contexto.",
+      "Funciona exclusivamente como núcleo del sujeto o modificador directo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según el texto, ¿por qué se considera que el pronombre es una palabra 'no descriptiva'?",
+    "opciones": [
+      "Porque describe detalladamente las cualidades físicas del sustantivo.",
+      "Porque señala al ser sin conceptuarlo y sin referir sus peculiaridades.",
+      "Porque modifica su forma para adaptarse al género y número del sujeto.",
+      "Porque reemplaza a los verbos y adverbios dentro de la oración."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué implica que el pronombre tenga una 'significación ocasional'?",
+    "opciones": [
+      "Que posee un significado estable independientemente del texto.",
+      "Que su sentido cambia únicamente cuando se modifica su género.",
+      "Que es una palabra de significación vacía cuando no integra un contexto.",
+      "Que adquiere sentido solo cuando cumple la función de adverbio."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el enunciado 'Vi esa rosa roja y la compré', el pronombre adquiere sentido por el contexto. A esta característica se le denomina:",
+    "opciones": [
+      "Valor referencial",
+      "Significación vacía",
+      "Criterio morfológico",
+      "Función sustantiva"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Desde el punto de vista del criterio morfológico, el pronombre se define como una palabra:",
+    "opciones": [
+      "Invariable que carece por completo de accidentes gramaticales.",
+      "Variable que sufre cambios para expresar género, número y persona.",
+      "Que señala características estables independientemente de su forma.",
+      "Que modifica directamente al verbo mediante cambios de tiempo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el criterio sintáctico, ¿cuáles son las funciones que puede cumplir un pronombre dentro de un contexto determinado?",
+    "opciones": [
+      "Únicamente como núcleo principal del sujeto en oraciones simples.",
+      "Como modificador directo o indirecto del verbo principal.",
+      "Como sustantivo, como adjetivo o como adverbio.",
+      "Exclusivamente como nexo lógico entre dos oraciones coordinadas."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el ejemplo 'Esas niñas son más honestas que aquellas', ¿qué función sintáctica cumple el pronombre 'aquellas' según el documento?",
+    "opciones": [
+      "Pronombre en función de adjetivo",
+      "Pronombre en función de sustantivo",
+      "Pronombre en función de adverbio",
+      "Pronombre de significación vacía"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el mismo enunciado, 'Esas niñas son más honestas que aquellas', la palabra 'Esas' cumple la función sintáctica de:",
+    "opciones": [
+      "Adverbio (circunstancial)",
+      "Sustantivo (núcleo)",
+      "Adjetivo (modificador directo)",
+      "Verbo (núcleo del predicado)"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "De acuerdo con el análisis del texto, ¿qué función cumple el pronombre 'aquí' en la oración 'Todos estudiaban aquí'?",
+    "opciones": [
+      "Modificador directo",
+      "Núcleo del sujeto",
+      "Circunstancial del verbo",
+      "Valor referencial ocasional"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración 'Los míos parecen menos locuaces que tus amigos', ¿qué funciones sintácticas cumplen los pronombres 'míos' y 'tus' respectivamente?",
+    "opciones": [
+      "Sustantivo y adverbio",
+      "Adjetivo y sustantivo",
+      "Sustantivo y adjetivo",
+      "Adverbio y adjetivo"
+    ],
+    "correcta": 2
+  }
+          ]
         },
         {
-          "titulo": "9.2 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_11.2",
+          "titulo": "9.2 Parte 2",
+          "youtube_id": "MhW5SMCHzRc",
+          "pdf_link": "https://drive.google.com/file/d/14sXeHWbtHu0ONS_JqUA6tNDqsVyhTVvs/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "Según la clasificación de los casos pronominales, ¿qué caso asumen los pronombres que cumplen la función de complemento directo (CD)?",
+    "opciones": [
+      "Nominativo",
+      "Dativo",
+      "Acusativo",
+      "Preposicional"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración 'Nosotros ganaremos', el pronombre 'Nosotros' se encuentra en caso:",
+    "opciones": [
+      "Acusativo, porque recibe la acción directamente.",
+      "Dativo, porque es el beneficiario de la acción.",
+      "Nominativo o recto, por su función de sujeto en la oración.",
+      "Preposicional u oblicuo, al ser un sujeto activo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Considerando el caso acusativo, ¿qué pronombres de tercera persona cumplen exclusivamente esta función como complemento directo?",
+    "opciones": [
+      "Él, ella, ello, ellos, ellas.",
+      "Le, les, se.",
+      "Lo, la, los, las.",
+      "Mí, ti, sí, consigo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el enunciado 'Me duelen las muelas', ¿a qué caso pronominal corresponde el pronombre 'Me'?",
+    "opciones": [
+      "Acusativo",
+      "Dativo",
+      "Preposicional",
+      "Nominativo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Identifique la oración en la que se presenta un pronombre en caso preposicional u oblicuo.",
+    "opciones": [
+      "Aquel hombre se veía completamente perdido.",
+      "Todos nos miraron al entrar al salón.",
+      "Ella ha mejorado mucho en los últimos días.",
+      "Piensa demasiado en sí mismo y en su futuro."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Los pronombres 'mí, ti, sí, conmigo, contigo, consigo' pertenecen gramaticalmente al caso:",
+    "opciones": [
+      "Acusativo",
+      "Dativo",
+      "Nominativo",
+      "Preposicional o terminal"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En el enunciado 'Esas notas ya las he leído', el pronombre resaltado ('las') se clasifica como:",
+    "opciones": [
+      "Pronombre en caso nominativo.",
+      "Pronombre en caso acusativo (CD).",
+      "Pronombre en caso dativo (CI).",
+      "Pronombre terminal u oblicuo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Marque la oración que evidencia un uso INCORRECTO de los pronombres átonos según la normativa de la RAE explicada en el texto.",
+    "opciones": [
+      "A la vecina la saludo cada día cuando salgo.",
+      "A Inés le conocí en la fiesta de ayer.",
+      "Los libros se los dieron a los estudiantes.",
+      "A las más pequeñas les prohibí salir solas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes expresiones emplea CORRECTAMENTE los pronombres de complemento directo e indirecto?",
+    "opciones": [
+      "A mis secretarias las enviaron hermosas flores.",
+      "Le vi pintando un cuadro en su taller.",
+      "Su primo, que se había disfrazado, lo asustó.",
+      "A las niñas les encontré muy temprano."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según la regla del uso correcto de pronombres, el complemento indirecto (CI) debe ser sustituido obligatoriamente por las formas:",
+    "opciones": [
+      "Lo, los.",
+      "La, las.",
+      "Le, les.",
+      "Me, te, se."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Señale la alternativa que incurre en LAÍSMO, es decir, el uso inapropiado de 'la/las' en lugar de 'le/les'.",
+    "opciones": [
+      "A Martín le vi paseando por el parque.",
+      "A mis secretarias las enviaron flores.",
+      "Los libros se las dieron a los estudiantes de primer año.",
+      "A María los duele los dientes desde ayer."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'Se lo conté todo a mi amigo', el pronombre 'Se' cumple la función de:",
+    "opciones": [
+      "Nominativo recto",
+      "Complemento directo (Acusativo)",
+      "Complemento indirecto (Dativo)",
+      "Pronombre preposicional"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué oración presenta la corrección adecuada para el error agramatical 'Los libros se las dieron a los estudiantes'?",
+    "opciones": [
+      "Los libros se les dieron a los estudiantes.",
+      "Los libros se los dieron a los estudiantes.",
+      "Los libros se lo dieron a los estudiantes.",
+      "Los libros le los dieron a los estudiantes."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la expresión 'Os darán una oportunidad', el pronombre 'Os' se clasifica sintácticamente dentro del caso:",
+    "opciones": [
+      "Nominativo",
+      "Acusativo",
+      "Dativo",
+      "Preposicional"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Lea el siguiente enunciado: 'A las niñas les encontré muy temprano en la calle'. Según la normativa de pronombres, esta oración es:",
+    "opciones": [
+      "Correcta, porque 'niñas' exige el uso del pronombre indirecto 'les'.",
+      "Incorrecta, porque el verbo exige complemento directo y se debe utilizar el pronombre 'las'.",
+      "Correcta, ya que el pronombre cumple la función exacta de dativo.",
+      "Incorrecta, porque 'niñas' es el sujeto de la oración y requiere 'ellas'."
+    ],
+    "correcta": 1
+  }
+          ]
+        },
+        {
+          "titulo": "9.1 Parte 3",
+          "youtube_id": "a2J457b7FeI",
+          "pdf_link": "https://drive.google.com/file/d/1MNBx1bpEybjp0W0GH_l-cTH9UklDeKpU/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "¿En qué consisten las relaciones de correferencia en las que intervienen los pronombres según el texto?",
+    "opciones": [
+      "En que los pronombres asumen el significado de seres que se mencionan previamente o posteriormente en el discurso.",
+      "En que los pronombres actúan exclusivamente como modificadores directos del verbo en la oración.",
+      "En que los pronombres otorgan independencia tónica a las palabras átonas del enunciado principal.",
+      "En que los pronombres reemplazan siempre a las preposiciones en las oraciones compuestas."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es el orden habitual que se establece en las construcciones anafóricas?",
+    "opciones": [
+      "El pronombre asume el significado de un sustantivo o sintagma todavía no mencionado.",
+      "Primero aparece el antecedente y luego el pronombre o expresión nominal que recoge su referencia.",
+      "El pronombre aparece de forma enclítica obligatoriamente tras el antecedente nominal.",
+      "El antecedente y el consecuente se escriben separados por un pronombre átono independiente."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué característica estructural define a una construcción catafórica en relación con el pronombre?",
+    "opciones": [
+      "El pronombre asume el significado de una palabra anteriormente mencionada en el contexto.",
+      "El antecedente nominal precede obligatoriamente al pronombre átono formando una unidad.",
+      "Primero aparece el pronombre y después el consecuente o subsecuente.",
+      "El pronombre carece de toda relación de correferencia y de significado ocasional en la oración."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el enunciado 'Ayer Luis y Carlos recibieron dos premios; hoy los entregan a la familia', el pronombre 'los' cumple una función:",
+    "opciones": [
+      "Catafórica, puesto que 'los' anticipa el significado exacto de 'la familia'.",
+      "Enclítica, porque 'los' carece de independencia tónica y se une gráficamente al verbo.",
+      "Proclítica, debido a que 'los' señala un sintagma todavía no mencionado en el texto.",
+      "Anafórica, ya que recoge la referencia del antecedente 'dos premios' mencionado antes."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Analice el siguiente enunciado: 'La abandonaste en el parque; no encontrarás esa biblia antigua'. ¿Qué función cumple el pronombre 'La'?",
+    "opciones": [
+      "Función anafórica, porque sustituye a un sustantivo que ya apareció en la primera oración.",
+      "Función catafórica, porque asume el significado del sintagma posterior 'esa biblia antigua'.",
+      "Función enclítica, porque se escribe separado del verbo pero conforma una sola unidad.",
+      "Función preposicional, porque complementa directamente a la acción principal del hablante."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De las siguientes alternativas, ¿cuál presenta un claro ejemplo de construcción catafórica?",
+    "opciones": [
+      "Él es el ganador, el hombre de la camisa azul.",
+      "¿Viste a las niñas en el patio? Sí, las vi.",
+      "El profesor había llegado al CEPRU, pero no lo vimos.",
+      "María no se rinde, ella es una luchadora."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según el documento, los pronombres clíticos (proclíticos y enclíticos) se caracterizan fundamentalmente por:",
+    "opciones": [
+      "Ser pronombres personales tónicos que siempre actúan como núcleo del sujeto explícito.",
+      "Ser elementos verbales que se pronuncian con total independencia tónica en la oración.",
+      "Ser pronombres átonos sin independencia tónica que forman una unidad acentual con el verbo.",
+      "Ser sustantivos abstractos que funcionan como complemento preposicional obligatorio."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la regla ortográfica y posicional que define a los pronombres proclíticos?",
+    "opciones": [
+      "Se escriben como palabras independientes que preceden al verbo.",
+      "Se posponen al verbo fusionándose para formar una sola palabra.",
+      "Se intercalan obligatoriamente entre el verbo y todos sus complementos.",
+      "Se anteponen al verbo pero se fusionan gráficamente con él de forma invariable."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué proceso morfológico y ortográfico experimentan los pronombres enclíticos respecto al verbo?",
+    "opciones": [
+      "Preceden al verbo actuando como partículas de significación completamente vacía.",
+      "Se posponen al verbo fusionándose y formando con él una sola palabra.",
+      "Se escriben de forma totalmente independiente después del verbo conjugado.",
+      "Mantienen su independencia tónica al unirse ortográficamente al verbo principal."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el enunciado 'Se la entregaron con mucho respeto', los pronombres 'Se' y 'la' funcionan como:",
+    "opciones": [
+      "Enclíticos, dado que carecen de acento y forman una unidad conceptual con el verbo.",
+      "Catafóricos, porque anticipan el significado del objeto directo de la oración aseverativa.",
+      "Anafóricos, porque están fusionados ortográficamente al núcleo verbal conjugado.",
+      "Proclíticos, ya que preceden al verbo y se escriben por separado como palabras independientes."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En las palabras 'Cómpratelo' y 'Adviérteselo', los pronombres resaltados (te, lo / se, lo) se clasifican como:",
+    "opciones": [
+      "Proclíticos, ya que se escriben separados pero forman una unidad acentual indisoluble.",
+      "Enclíticos, pues se posponen y fusionan con el verbo formando una sola palabra.",
+      "Catafóricos, porque anticipan la información del predicado nominal en la oración.",
+      "Tónicos independientes, porque no actúan como complemento verbal bajo ninguna norma."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes oraciones contiene una clara construcción anafórica?",
+    "opciones": [
+      "No la busques... María no vale.",
+      "Llegaron a la casa dos: María y Martín.",
+      "Al fondo, dando el pecho a su pequeñuelo, la madre lo miraba sonriente.",
+      "Esto ganamos: tres mil soles."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración 'Quédense en silencio unos minutos', ¿cómo se clasifica gramaticalmente el elemento 'se' adjunto al verbo?",
+    "opciones": [
+      "Es un pronombre personal tónico en función de proclítico.",
+      "Es un sustantivo común que cumple una estricta función catafórica.",
+      "Es un pronombre personal átono en función de enclítico.",
+      "Es un complemento verbal preposicional de carácter independiente."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué característica comparten los enunciados 'Me la compró' y 'Te lo dije ayer' respecto al uso de los pronombres?",
+    "opciones": [
+      "Ambos presentan pronombres enclíticos fusionados al final de la palabra conjugada.",
+      "Ambos emplean pronombres proclíticos ubicados antes del verbo y escritos por separado.",
+      "Ambos carecen completamente de unidad acentual con respecto al verbo de la oración.",
+      "Ambos utilizan pronombres catafóricos para anticipar a los sujetos de las acciones."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Señale la afirmación CORRECTA sobre los clíticos según el texto analizado.",
+    "opciones": [
+      "Sirven exclusivamente para introducir sintagmas que todavía no han sido mencionados.",
+      "Reemplazan obligatoriamente al sujeto explícito y adquieren independencia tónica plena.",
+      "Actúan como antecedentes directos y obligatorios en todas las construcciones anafóricas.",
+      "Funcionan como complemento verbal no preposicional o como formantes de verbos pronominales."
+    ],
+    "correcta": 3
+  }
+          ]
+        },
+        {
+          "titulo": "9.2 Parte 4",
+          "youtube_id": "OQ_WLtquMDs",
+          "pdf_link": "https://drive.google.com/file/d/1NqfiRmX2Fl5FlXpPoU-VpvwoMgIYjIMg/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según el cuadro de clasificación de los pronombres personales, ¿cuál de los siguientes pronombres corresponde a la primera persona del plural en caso nominativo?",
+    "opciones": [
+      "Nos",
+      "Nosotros",
+      "Mí",
+      "Nuestro"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué los pronombres átonos como \"me\", \"te\" o \"se\" reciben también la denominación de pronombres clíticos?",
+    "opciones": [
+      "Porque reemplazan a un sustantivo mencionado anteriormente.",
+      "Porque señalan la distancia espacial respecto al hablante.",
+      "Porque carecen de acento y se apoyan fonéticamente en el verbo contiguo.",
+      "Porque expresan una cantidad exacta o un orden numérico."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Los pronombres demostrativos determinan la ubicación estableciendo una relación de distancia. ¿Qué pronombres indican lejanía tanto de la primera como de la segunda persona gramatical?",
+    "opciones": [
+      "Este, esta, estos",
+      "Ese, esa, esos",
+      "Aquí, acá, esto",
+      "Aquel, aquella, aquellos"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En la oración \"Esta camisa es nueva, pero esa es usada\", la palabra \"esa\" cumple la función de:",
+    "opciones": [
+      "Pronombre indefinido",
+      "Pronombre demostrativo",
+      "Pronombre relativo",
+      "Pronombre posesivo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el enunciado \"Muchos son los llamados; pocos, los escogidos\", las palabras resaltadas (\"Muchos\" y \"pocos\") se clasifican como pronombres:",
+    "opciones": [
+      "Numerales partitivos",
+      "Relativos",
+      "Indefinidos",
+      "Numerales cardinales"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué clase de pronombre numeral se emplea en la expresión \"Ahora ganarás el doble; mañana, el triple\"?",
+    "opciones": [
+      "Cardinales",
+      "Ordinales",
+      "Múltiplos",
+      "Partitivos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si un pronombre expresa el lugar que ocupa una determinada unidad en una serie o sucesión, se le denomina:",
+    "opciones": [
+      "Numeral ordinal",
+      "Numeral cardinal",
+      "Numeral múltiplo",
+      "Numeral fraccionario"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de los pronombres relativos (que, cual, quien, cuyo) en una oración?",
+    "opciones": [
+      "Expresar una interrogación directa al inicio del enunciado.",
+      "Encabezar una proposición subordinada haciendo referencia a un sustantivo antecedente.",
+      "Indicar la pertenencia exclusiva de un objeto a la tercera persona.",
+      "Cuantificar de manera imprecisa al núcleo del sujeto."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el enunciado \"El periodista, quien propaló la noticia, es cusqueño\", el pronombre \"quien\" es de tipo:",
+    "opciones": [
+      "Exclamativo",
+      "Interrogativo",
+      "Indefinido",
+      "Relativo"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Según el texto, ¿qué característica ortográfica distingue a los pronombres interrogativos y exclamativos de los pronombres relativos?",
+    "opciones": [
+      "Se escriben siempre con mayúscula inicial.",
+      "Llevan acento enfático (tilde).",
+      "Deben ir obligatoriamente unidos al verbo.",
+      "Siempre terminan en vocal tónica."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De acuerdo con la tabla de pronombres personales, ¿qué pronombre de tercera persona cumple la función de caso dativo en número plural?",
+    "opciones": [
+      "Las",
+      "Los",
+      "Les",
+      "Ellos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración \"Nuestro hermano es más inteligente que el vuestro\", la palabra \"vuestro\" es un pronombre que pertenece a la:",
+    "opciones": [
+      "1° persona gramatical",
+      "2° persona gramatical",
+      "3° persona gramatical",
+      "Forma neutra del plural"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En las formas verbales \"Cómpratelo\" y \"Pásamelos\", las partículas \"te\", \"lo\", \"me\" y \"los\" son ejemplos de:",
+    "opciones": [
+      "Pronombres relativos",
+      "Pronombres indefinidos",
+      "Pronombres demostrativos",
+      "Pronombres clíticos (átonos)"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Señale la alternativa conformada EXCLUSIVAMENTE por pronombres indefinidos:",
+    "opciones": [
+      "Alguien, nadie, pocos, varios",
+      "Este, ese, aquel, aquello",
+      "Qué, cuál, quién, cuánto",
+      "Mío, tuyo, suyo, nuestro"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En el enunciado \"¡Quién lo hubiera creído!\", la palabra \"Quién\" funciona como un pronombre:",
+    "opciones": [
+      "Interrogativo",
+      "Relativo subordinante",
+      "Exclamativo",
+      "Personal acusativo"
+    ],
+    "correcta": 2
+  }
+          ]
         }
       ]
     },
