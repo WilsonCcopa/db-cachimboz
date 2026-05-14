@@ -6848,22 +6848,571 @@
       ]
     },
     {
-      "titulo": "Tema 10: Pronto",
+      "titulo": "Tema 10: Adjetivo",
       "pdf_resuelto": "",
       "videos": [
         {
-          "titulo": "10.1 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_12.1",
+          "titulo": "10.1 Parte 1",
+          "youtube_id": "r17TFPylMhU",
+          "pdf_link": "https://drive.google.com/file/d/1QcV5XadFd4g8ivWrBNwLzdbhNC6COhbv/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+            
+  {
+    "pregunta": "De acuerdo con el criterio semántico expuesto en el texto, ¿cuál es la función principal de esta categoría gramatical respecto al sustantivo?",
+    "opciones": [
+      "Reemplazarlo en la oración para evitar redundancias léxicas.",
+      "Calificarlo agregando información o determinarlo señalando posesión, ubicación o cantidad.",
+      "Expresar la acción, el proceso o el estado en el que se encuentra el sujeto.",
+      "Actuar invariablemente como el núcleo del sujeto en oraciones bimembres."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el criterio morfológico, esta categoría gramatical se clasifica como una palabra variable porque:",
+    "opciones": [
+      "Modifica su raíz para expresar diferentes grados de intensidad en la oración.",
+      "Cambia su función sintáctica dependiendo del contexto oracional en el que se ubique.",
+      "Presenta accidentes gramaticales o morfemas flexivos de género y número.",
+      "Admite afijos derivativos para formar nuevos sustantivos abstractos invariables."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Sintácticamente, ¿cuál es la función principal que cumple esta palabra en relación con el sustantivo?",
+    "opciones": [
+      "Funciona como núcleo del predicado nominal en estructuras sin verbo.",
+      "Actúa exclusivamente como atributo del verbo copulativo principal.",
+      "Funciona como modificador directo (M.D.) del sustantivo, pudiendo ir antes o después de él.",
+      "Sirve de nexo subordinante directo entre el sujeto y el predicado."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Además de ser modificador directo, el texto señala que esta categoría puede desempeñar otras funciones sintácticas en la oración. ¿Cuáles son estas?",
+    "opciones": [
+      "Objeto directo, objeto indirecto y complemento agente.",
+      "Núcleo del predicativo, atributo del verbo copulativo y del predicado nominal.",
+      "Complemento circunstancial, vocativo y aposición especificativa.",
+      "Nexo coordinante, modificador indirecto y complemento de régimen."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el ejemplo proporcionado en el texto: 'La población está asustada', ¿qué función sintáctica cumple la palabra 'asustada'?",
+    "opciones": [
+      "Modificador directo (M.D.)",
+      "Núcleo del predicativo",
+      "Núcleo del atributo (N. Atributo)",
+      "Núcleo del sujeto paciente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "De acuerdo con el análisis sintáctico presentado, en la oración 'María llegó muy cansada', la palabra 'cansada' asume la función de:",
+    "opciones": [
+      "Predicado nominal",
+      "Núcleo del predicativo",
+      "Modificador directo",
+      "Atributo del verbo copulativo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la estructura de la frase 'Aquel niño hambriento', ¿qué función sintáctica desempeñan exactamente las palabras 'Aquel' y 'hambriento' respecto al núcleo 'niño'?",
+    "opciones": [
+      "Ambas funcionan como modificadores indirectos del núcleo.",
+      "Actúan como atributos excluyentes del sustantivo central.",
+      "Ambas funcionan como modificadores directos (M.D.).",
+      "Desempeñan la función de complementos predicativos objetivos."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el análisis de la expresión 'Ese perro, muy pequeño', la frase 'muy pequeño' es catalogada sintácticamente en el documento como un:",
+    "opciones": [
+      "Modificador directo compuesto",
+      "Núcleo del atributo",
+      "Predicado nominal",
+      "Complemento circunstancial de modo"
+    ],
+    "correcta": 2
+  }
+          ]
         },
         {
-          "titulo": "10.2 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_12.2",
+          "titulo": "10.2 Parte 2",
+          "youtube_id": "4y2hmqGrnw0",
+          "pdf_link": "https://drive.google.com/file/d/1CFzxqR5MwMCkLrYFH-_-tFD0J-tjylRu/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "¿Cuál es la función fundamental de los adjetivos calificativos respecto al sustantivo según el texto?",
+    "opciones": [
+      "Determinar la cantidad exacta y el orden de los seres.",
+      "Expresar cualidades o estados del sustantivo al cual modifican.",
+      "Reemplazarlo para evitar redundancias semánticas en el discurso.",
+      "Indicar de manera exclusiva la procedencia o lugar de origen."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Los adjetivos que sirven para precisar de qué sustantivo se trata y pueden restringir la extensión del mismo se denominan:",
+    "opciones": [
+      "Explicativos o no restrictivos",
+      "Epítetos coloquiales",
+      "Especificativos o restrictivos",
+      "Superlativos relativos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de adjetivo calificativo se caracteriza por aparecer entre pausas, carecer de carga excluyente y poder ubicarse antepuesto al sustantivo?",
+    "opciones": [
+      "Adjetivo calificativo explicativo o no restrictivo",
+      "Adjetivo calificativo especificativo o restrictivo",
+      "Adjetivo calificativo epíteto",
+      "Adjetivo gentilicio"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En la oración 'Las nubes, grises y espesas, amenazaban lluvia', los adjetivos resaltados cumplen la función de:",
+    "opciones": [
+      "Modificadores restrictivos",
+      "Adjetivos epítetos poéticos",
+      "Adjetivos explicativos o no restrictivos",
+      "Atributos en grado superlativo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se le llama al adjetivo que señala una cualidad propia o inherente del sustantivo, presentándose antepuesto con propósito poético o pospuesto con intención coloquial?",
+    "opciones": [
+      "Especificativo",
+      "Epíteto",
+      "Superlativo absoluto",
+      "Sincrético"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Las expresiones 'duro mármol', 'roja sangre' y 'árido desierto' son ejemplos clásicos de la aplicación de adjetivos:",
+    "opciones": [
+      "Especificativos",
+      "Explicativos",
+      "Gentilicios",
+      "Epítetos"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Considerando los ejemplos de adjetivos gentilicios que califícan al sustantivo por su procedencia, ¿qué alternativa contiene los gentilicios correctos para Kenia e Israel, respectivamente?",
+    "opciones": [
+      "Keniano e israelí",
+      "Keniata e israelita",
+      "Keniense e israelita",
+      "Keniata e israelí"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Cuando una cualidad se atribuye a un ser o a un objeto tal cual es, sin ningún tipo de intensificación o comparación (ej. 'Triste niño'), se dice que el adjetivo está en grado:",
+    "opciones": [
+      "Positivo",
+      "Comparativo de igualdad",
+      "Superlativo relativo",
+      "Sincrético"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En el enunciado 'Ese joven es tan estudioso como aquel', el adjetivo se encuentra morfológicamente en grado:",
+    "opciones": [
+      "Superlativo relativo",
+      "Comparativo de superioridad",
+      "Comparativo de igualdad",
+      "Positivo perifrástico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿En qué consiste el grado superlativo absoluto perifrástico?",
+    "opciones": [
+      "En dimensionar la cualidad usando los sufijos '-ísimo' o '-érrimo'.",
+      "En usar adverbios (muy, sumamente, notablemente, etc.) para modificar al adjetivo en grado positivo.",
+      "En comparar la cualidad de un ente respecto a toda su especie o clase.",
+      "En utilizar formas irregulares latinas sin necesidad de adverbios."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la frase 'El estudiante notablemente agitado durmió plácidamente', la estructura 'notablemente agitado' evidencia un adjetivo en grado:",
+    "opciones": [
+      "Comparativo de superioridad",
+      "Superlativo relativo",
+      "Superlativo absoluto sintético",
+      "Superlativo absoluto perifrástico"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Según la normativa del superlativo absoluto sintético, si el adjetivo termina en '-re' o '-ro' (como 'pobre' o 'salubre'), se debe añadir el sufijo:",
+    "opciones": [
+      "-ísimo",
+      "-érrimo",
+      "-ísimo o -érrimo indistintamente",
+      "-ísimo solo si es palabra grave"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "A pesar de la regla general para adjetivos terminados en '-re' o '-ro', el texto menciona dos adjetivos que son la EXCEPCIÓN porque añaden el sufijo '-ísimo'. ¿Cuáles son?",
+    "opciones": [
+      "Pulcro y áspero",
+      "Acre y mísero",
+      "Ilustre y diestro",
+      "Íntegro y libre"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la forma correcta del superlativo absoluto sintético para los adjetivos 'sabio', 'bueno' y 'fuerte' respectivamente, según el cuadro proporcionado?",
+    "opciones": [
+      "Sabísimo, buenísimo y fuertísimo",
+      "Sapientísimo, bonísimo y fortísimo",
+      "Sabiísimo, bonísimo y fuertísimo",
+      "Sapientísimo, buenísimo y fortísimo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El grado que maximiza o minimiza la cualidad en relación a todos los miembros de una misma clase o especie (ej. 'Aquella alumna es la más estudiosa del salón') se denomina:",
+    "opciones": [
+      "Superlativo absoluto",
+      "Comparativo de superioridad",
+      "Superlativo relativo",
+      "Positivo perifrástico"
+    ],
+    "correcta": 2
+  }
+          ]
+        },
+        {
+          "titulo": "10.1 Parte 3",
+          "youtube_id": "Th5bCNwxuRg",
+          "pdf_link": "https://drive.google.com/file/d/1r66AN-kCmmLvE2UXVE71gj_sw7956yhm/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según el texto, ¿cuál es la función principal de los adjetivos demostrativos?",
+    "opciones": [
+      "Indicar posesión o pertenencia de un ser de forma genérica.",
+      "Señalar una ubicación espacial indeterminada y de manera vaga.",
+      "Modificar al sustantivo indicando la distancia de los seres en relación al hablante.",
+      "Modificar al sustantivo estableciendo el orden exacto de los seres."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración 'Aquellos años nunca volverán', el adjetivo determinativo señala una distancia que corresponde gramaticalmente a la:",
+    "opciones": [
+      "Primera persona",
+      "Segunda persona",
+      "Tercera persona",
+      "Forma neutra de lejanía"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Los determinantes que modifican al sustantivo indicando posesión o pertenencia, como en el ejemplo 'Vuestras canciones romperán los récords', se clasifican como:",
+    "opciones": [
+      "Adjetivos demostrativos",
+      "Adjetivos posesivos",
+      "Adjetivos relativos",
+      "Adjetivos distributivos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En las expresiones 'cinco delincuentes' y 'tres soles', las palabras resaltadas asumen la función de adjetivos numerales:",
+    "opciones": [
+      "Ordinales",
+      "Múltiplos",
+      "Cardinales",
+      "Partitivos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Los adjetivos numerales que expresan orden o sucesión, como en los ejemplos 'segundo nivel' o 'undécimo lugar', reciben la denominación de:",
+    "opciones": [
+      "Cardinales",
+      "Múltiplos",
+      "Distributivos",
+      "Ordinales"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En el enunciado 'Por precaución, le aplicaron una doble vacuna', la palabra 'doble' funciona como un adjetivo numeral:",
+    "opciones": [
+      "Partitivo",
+      "Múltiplo",
+      "Distributivo",
+      "Ordinal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el documento, ¿qué regla particular cumplen los adjetivos numerales partitivos al modificar a un sustantivo?",
+    "opciones": [
+      "Siempre deben ir precedidos de un determinante demostrativo de primera persona.",
+      "Se utilizan exclusivamente para fraccionar sustantivos abstractos y no contables.",
+      "Van acompañados del sustantivo 'parte', a excepción de las palabras medio, mitad y tercio.",
+      "Se forman obligatoriamente anteponiendo la preposición 'de' al número base."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la formación de ciertos adjetivos partitivos, ¿qué sufijo se añade comúnmente, tal como se evidencia en 'onceavo' o 'doceavo'?",
+    "opciones": [
+      "-ísimo",
+      "-avo",
+      "-mente",
+      "-ésimo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Las palabras 'sendos', 'sendas' y 'cada' pertenecen estrictamente a la subclasificación de los adjetivos numerales:",
+    "opciones": [
+      "Indefinidos",
+      "Partitivos",
+      "Cardinales",
+      "Distributivos"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿En cuál de las siguientes oraciones se ha empleado un adjetivo numeral distributivo de manera correcta según los ejemplos del texto?",
+    "opciones": [
+      "Compró medio kilo de azúcar en el mercado.",
+      "El auxiliar dio sendos comunicados a los alumnos.",
+      "Llegaron muchas cartas para mi hermana mayor.",
+      "Aquel joven responsable concluyó su trabajo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué clase de adjetivos modifican al sustantivo señalando un número indeterminado o de manera vaga e imprecisa?",
+    "opciones": [
+      "Adjetivos numerales",
+      "Adjetivos demostrativos",
+      "Adjetivos indefinidos",
+      "Adjetivos relativos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración 'Cierto día los botaré de ahí', la palabra 'Cierto' se clasifica dentro de la categoría de adjetivos:",
+    "opciones": [
+      "Interrogativos",
+      "Indefinidos",
+      "Relativos",
+      "Demostrativos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El adjetivo 'cuyo' y sus variantes (cuya, cuyos, cuyas) cumplen la función de referirse a un sustantivo ya mencionado. Por ello, pertenecen a la clase de adjetivos:",
+    "opciones": [
+      "Posesivos",
+      "Interrogativos",
+      "Relativos",
+      "Indefinidos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración 'No sé cuál camino seguir ahora', el adjetivo 'cuál' modifica al sustantivo conformando una estructura de:",
+    "opciones": [
+      "Pregunta directa con elisión de signos.",
+      "Adjetivo relativo de referencia anafórica.",
+      "Pregunta indirecta (sin signos de interrogación).",
+      "Adjetivo indefinido de cantidad imprecisa."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Los adjetivos que modifican al sustantivo expresando asombro, como en la expresión '¡Cuánta fruta tiene!', se denominan formalmente adjetivos:",
+    "opciones": [
+      "Interrogativos directos",
+      "Relativos exclamativos",
+      "Indefinidos ponderativos",
+      "Admirativos o exclamativos"
+    ],
+    "correcta": 3
+  }
+          ]
+        },
+        {
+          "titulo": "10.2 Parte 4",
+          "youtube_id": "B8Vp3RMubRI",
+          "pdf_link": "https://drive.google.com/file/d/1bCRCjYNwgmu7AUDQUh6_XmRvdvHv3e3B/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "De acuerdo con el documento, ¿cómo se define el fenómeno lingüístico conocido como apócope?",
+    "opciones": [
+      "Como la adición de una sílaba al final de un adjetivo calificativo.",
+      "Como la supresión de los sonidos al final de ciertas palabras para adoptar una forma corta.",
+      "Como la alteración del género y número del sustantivo principal.",
+      "Como el intercambio de vocales tónicas en la penúltima sílaba."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según las reglas del apócope del adjetivo, ¿en qué contexto específico estos pierden la letra \"o\" final?",
+    "opciones": [
+      "Cuando van delante de un sustantivo femenino singular.",
+      "Cuando se posponen a un sustantivo masculino plural.",
+      "Cuando van delante de un sustantivo masculino singular.",
+      "Cuando actúan como atributo de un verbo copulativo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué indica la regla general sobre la forma femenina de los adjetivos sujetos a este tipo de apócope (pérdida de la \"o\")?",
+    "opciones": [
+      "Pierden la vocal \"a\" para mantener concordancia.",
+      "Modifican su raíz para volverse neutros.",
+      "Se pluralizan automáticamente para evitar cacofonías.",
+      "En su forma femenina, la palabra queda intacta."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Si aplicamos la regla de apócope para el adjetivo \"bueno\" que precede al sustantivo masculino singular \"amigo\", la construcción correcta es:",
+    "opciones": [
+      "Un bueno amigo",
+      "Un buen amigo",
+      "Un amigo buen",
+      "Un gran amigo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la frase \"un mal escritor\", la palabra \"mal\" es el resultado de aplicar la supresión de la \"o\" final al adjetivo:",
+    "opciones": [
+      "Maligno",
+      "Malicioso",
+      "Malo",
+      "Malvado"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El documento presenta la expresión \"el primer hijo\" como ejemplo. ¿A qué adjetivo original corresponde la forma corta \"primer\"?",
+    "opciones": [
+      "Principal",
+      "Primero",
+      "Primerizo",
+      "Primario"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la frase que ejemplifica correctamente el apócope del adjetivo \"tercero\" según el texto?",
+    "opciones": [
+      "El tercero capítulo",
+      "El capítulo tercer",
+      "Un tercer capítulos",
+      "El tercer capítulo"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Para acompañar al sustantivo \"consejo\", ¿cuál es la forma apocopada correcta derivada del adjetivo \"alguno\"?",
+    "opciones": [
+      "Alguno",
+      "Algún",
+      "Ningún",
+      "Algunos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se aplica correctamente el apócope del adjetivo \"ninguno\" ante el sustantivo masculino singular \"alumno\"?",
+    "opciones": [
+      "Ningún alumno",
+      "Ninguno alumno",
+      "Ningunos alumno",
+      "Ningún alumnos"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "A partir de los ejemplos mostrados con la palabra \"Grande\" (gran chico - gran chica), ¿qué particularidad presenta el apócope \"gran\"?",
+    "opciones": [
+      "Se utiliza exclusivamente delante de sustantivos masculinos.",
+      "Se aplica de la misma forma tanto para sustantivos masculinos como femeninos.",
+      "Sigue estrictamente la regla general de dejar intacta su forma en femenino como \"granda\".",
+      "Solo admite el apócope cuando el sustantivo se encuentra en plural."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El texto incluye una lista de palabras en su apartado de ejemplos introductorios. ¿Cuál de las siguientes secuencias pertenece a los ejemplos citados textualmente?",
+    "opciones": [
+      "Primero, segundo, tercero, cuarto.",
+      "Bueno, malo, pésimo, óptimo.",
+      "Alguno (s), varios, ningún(o), cierto, pocos.",
+      "Grande, pequeño, mediano, alto."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Basándose en la posición sintáctica indicada en la regla, el adjetivo apocopado que pierde la \"o\" final debe ubicarse:",
+    "opciones": [
+      "Delante del sustantivo.",
+      "Inmediatamente después del sustantivo.",
+      "Separado del sustantivo por una preposición.",
+      "Al final de la oración, como predicativo."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Tomando en cuenta la regla de que el adjetivo en su forma femenina \"queda intacto\", ¿cuál sería la estructura correcta si usamos el adjetivo \"bueno\" ante el sustantivo femenino \"amiga\"?",
+    "opciones": [
+      "Buen amiga",
+      "Buena amiga",
+      "Bueno amiga",
+      "Gran amiga"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En cuál de los siguientes pares se muestra correctamente la relación estructural entre el adjetivo base y su forma de apócope antepuesta a un sustantivo, según los ejemplos del documento?",
+    "opciones": [
+      "Primero -> el hijo primer",
+      "Ninguno -> algún alumno",
+      "Bueno -> un bueno amigo",
+      "Malo -> un mal escritor"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En la estructura \"el tercer capítulo\", la palabra \"tercer\" ejerce la función de:",
+    "opciones": [
+      "Sustantivo masculino singular.",
+      "Pronombre demostrativo enclítico.",
+      "Adjetivo en forma corta o apócope.",
+      "Sustantivo abstracto femenino."
+    ],
+    "correcta": 2
+  }
+          ]
         }
       ]
     },
