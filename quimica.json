@@ -1,0 +1,817 @@
+{
+  "curso": "Química",
+  "temas": [
+    {
+      "titulo": "Tema 1: Química y Materia",
+      "pdf_resuelto": "PDF_FALTA",
+      "preguntas": [
+        {
+          "pregunta": "Indique la proposición incorrecta.",
+          "opciones": [
+            "Un símbolo representa una sustancia simple.",
+            "El número atómico identifica a un elemento.",
+            "La fórmula de un compuesto muestra sus elementos y la proporción entre ellos.",
+            "Elementos y compuestos son sustancias con propiedades propias.",
+            "Un compuesto está formado por átomos con igual número atómico."
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Resolución:</b><br>Un compuesto está formado por átomos de diferentes elementos, es decir, con distinto número atómico.<br>La opción que afirma que tienen igual número atómico describe a un elemento, no a un compuesto."
+        },
+        {
+          "pregunta": "Señale la proposición incorrecta.",
+          "opciones": [
+            "Los cambios de estado son físicos.",
+            "Un cambio químico forma nuevas sustancias con nuevas propiedades.",
+            "La energía cinética en gases es mayor que en sólidos.",
+            "Durante un cambio químico no hay cambios energéticos.",
+            "Las fuerzas de atracción entre partículas son mayores en sólidos que en gases."
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>En todo cambio químico siempre hay intercambio de energía (ya sea por absorción o liberación).<br>Por lo tanto, es completamente falso decir que no hay cambios energéticos."
+        },
+        {
+          "pregunta": "De: níquel, hielo, estaño, acero, hidrógeno y gasolina ¿cuántas son sustancias puras?",
+          "opciones": [
+            "2",
+            "4",
+            "3",
+            "5",
+            "6"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Identificamos las sustancias puras (elementos y compuestos).<br>Sustancias puras: Níquel (elemento), Hielo ($H_2O$ sólido, compuesto), Estaño (elemento), Hidrógeno (elemento).<br><br><b>Paso 2:</b> Identificamos las mezclas.<br>Mezclas: Acero (aleación), Gasolina (mezcla de hidrocarburos).<br><br><b>Conclusión:</b> Total de sustancias puras = 4."
+        },
+        {
+          "pregunta": "Marca V (verdadero) o F (falso):<br>1. Todo compuesto químico es sustancia.<br>2. Toda sustancia es compuesto químico.<br>3. Toda materia homogénea es sustancia.<br>4. Toda mezcla es heterogénea.<br>5. Todas las sustancias están formadas por moléculas.",
+          "opciones": [
+            "FFVVF",
+            "VVFFV",
+            "VFFFF",
+            "VFVFF",
+            "VFVVV"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Análisis de proposiciones:</b><br>1. Todo compuesto químico es sustancia $\\rightarrow$ <b>V</b><br>2. Toda sustancia es compuesto $\\rightarrow$ <b>F</b> (también existen los elementos).<br>3. Toda materia homogénea es sustancia $\\rightarrow$ <b>F</b> (puede ser una mezcla homogénea).<br>4. Toda mezcla es heterogénea $\\rightarrow$ <b>F</b> (existen mezclas homogéneas).<br>5. Todas las sustancias están formadas por moléculas $\\rightarrow$ <b>F</b> (ejemplo: sales como el $NaCl$ forman redes iónicas)."
+        },
+        {
+          "pregunta": "Señala la relación incorrecta:",
+          "opciones": [
+            "Oro - maleabilidad",
+            "Cloruro de sodio - sustancia",
+            "Oxígeno gaseoso - fluido comprensible",
+            "Lluvia - condensación",
+            "Sublimación - desprendimiento de calor"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Resolución:</b><br>La sublimación es el paso directo de sólido a gas y es un proceso <b>endotérmico</b>, lo que significa que absorbe calor, no lo desprende ni lo libera."
+        },
+        {
+          "pregunta": "El enunciado correcto es:",
+          "opciones": [
+            "Los elementos son sustancias simples por tener igual número de masa.",
+            "El diamante es un compuesto.",
+            "El símbolo del rodio es Rd.",
+            "La volatilización del éter es un cambio químico.",
+            "El ácido clorhídrico sobre un metal produce un cambio químico."
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Resolución:</b><br>El ácido clorhídrico reaccionando con un metal produce nuevas sustancias (una sal y gas hidrógeno). La formación de nuevas sustancias define un <b>cambio químico</b>."
+        },
+        {
+          "pregunta": "¿Qué alternativa contiene una relación incorrecta?",
+          "opciones": [
+            "Gasolina - disolución",
+            "Hidrógeno - sustancia",
+            "Fuegos artificiales - cambio químico",
+            "Símbolo químico - CO2",
+            "Mezcla - composición variable"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>Un símbolo químico representa a un solo elemento (ejemplo: $H$, $O$, $Fe$).<br>El $CO_2$ es la <b>fórmula química</b> de un compuesto, no un símbolo."
+        },
+        {
+          "pregunta": "¿Cuántas de estas son verdaderas?<br>I. En un elemento, todos los átomos son iguales.<br>II. Una mezcla es la unión física de dos o más sustancias.<br>III. Toda sustancia es un compuesto.<br>IV. Todas las mezclas son heterogéneas.<br>V. Los líquidos tienen volumen y forma definida.",
+          "opciones": [
+            "I, II",
+            "II, V",
+            "III, IV",
+            "I, IV",
+            "I, II, V"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Análisis:</b><br>I. Verdadero $\\rightarrow$ En un elemento todos los átomos tienen el mismo número atómico.<br>II. Verdadero $\\rightarrow$ Una mezcla es la unión puramente física de sustancias.<br>III. Falso $\\rightarrow$ No toda sustancia es un compuesto (existen las sustancias simples o elementos).<br>IV. Falso $\\rightarrow$ Las mezclas pueden ser homogéneas o heterogéneas.<br>V. Falso $\\rightarrow$ Los líquidos tienen volumen definido pero adoptan la forma de su recipiente."
+        },
+        {
+          "pregunta": "Relación incorrecta:",
+          "opciones": [
+            "Ácido sulfúrico - sustancia",
+            "Germanio - sustancia",
+            "Detergente - mezcla",
+            "Gasolina - mezcla",
+            "Agua potable - sustancia"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Resolución:</b><br>El agua potable contiene agua pura ($H_2O$) junto con sales minerales y gases disueltos. Por lo tanto, es una <b>mezcla homogénea</b>, no una sustancia pura."
+        },
+        {
+          "pregunta": "¿Cuántos de estos cambios absorben energía?<br>I. Fusión del Wolframio<br>II. Congelación del Galio<br>III. Evaporación del Zinc<br>IV. Sublimación del Yodo<br>V. Condensación del agua",
+          "opciones": [
+            "I, V",
+            "I, III, IV",
+            "I, II, III",
+            "IV, V",
+            "I"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Identificamos los procesos que absorben energía (endotérmicos).<br>Son endotérmicos: Fusión (I), Evaporación (III) y Sublimación (IV).<br><br><b>Paso 2:</b> Identificamos los que liberan energía (exotérmicos).<br>Son exotérmicos: Congelación (II) y Condensación (V).<br><br><b>Conclusión:</b> I, III y IV."
+        },
+        {
+          "pregunta": "La proposición correcta es:",
+          "opciones": [
+            "Solo el estado líquido tiene volumen definido.",
+            "Los 3 estados tienen masa y formas definidas.",
+            "La fusión y la licuación se producen por pérdida de energía.",
+            "Las moléculas en gas tienen energía cinética mínima.",
+            "En cristales de NaCl las fuerzas de cohesión son máximas."
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Resolución:</b><br>En un cristal iónico como el cloruro de sodio ($NaCl$), las partículas están fuertemente unidas por poderosas fuerzas electrostáticas, por lo que las fuerzas de cohesión son máximas."
+        },
+        {
+          "pregunta": "Indica V o F:<br>I) Todos los cambios de estado solo requieren cambio de energía.<br>II) Cloro gaseoso a líquido ocurre por disminuir temperatura.<br>III) La sublimación directa ocurre con absorción de energía.",
+          "opciones": [
+            "FVF",
+            "FVV",
+            "FFF",
+            "FFV",
+            "VVF"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Análisis:</b><br>I. <b>Falso</b> $\\rightarrow$ No dependen solo de la energía térmica; también pueden requerir cambios de presión.<br>II. <b>Verdadero</b> $\\rightarrow$ Pasar de gas a líquido (condensación/licuación) requiere disminuir la temperatura.<br>III. <b>Verdadero</b> $\\rightarrow$ La sublimación (de sólido a gas) es un proceso endotérmico que requiere absorción de energía."
+        },
+        {
+          "pregunta": "Naturaleza (endotérmico/exotérmico): marca V si la afirmación es correcta.<br>I. Fusión del bismuto - endotérmico<br>II. Congelación del agua - exotérmico<br>III. Licuefacción del aire - endotérmico",
+          "opciones": [
+            "FVF",
+            "FFV",
+            "VVV",
+            "VVF",
+            "VFV"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Análisis:</b><br>I. <b>Verdadero</b> $\\rightarrow$ La fusión (sólido a líquido) absorbe calor (endotérmico).<br>II. <b>Verdadero</b> $\\rightarrow$ La congelación (líquido a sólido) libera calor al entorno (exotérmico).<br>III. <b>Falso</b> $\\rightarrow$ La licuefacción (gas a líquido) libera calor, por lo que es un proceso exotérmico."
+        },
+        {
+          "pregunta": "V o F:<br>I. La maleabilidad es una propiedad de toda clase de materia.<br>II. La tenacidad es la resistencia a fragmentación o deformación de metales.<br>III. La extensión depende de la gravedad.<br>IV. La masa no varía de un lugar a otro.",
+          "opciones": [
+            "FVFV",
+            "VFVF",
+            "VVFF",
+            "FFVV",
+            "VFVV"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Análisis:</b><br>I. <b>Falso</b> $\\rightarrow$ La maleabilidad es una propiedad específica de los metales, no de toda la materia.<br>II. <b>Verdadero</b> $\\rightarrow$ La tenacidad mide la resistencia de un material a romperse o fragmentarse.<br>III. <b>Falso</b> $\\rightarrow$ La extensión (volumen) es el espacio que ocupa la materia, independiente de la gravedad (a diferencia del peso).<br>IV. <b>Verdadero</b> $\\rightarrow$ La masa es una propiedad intrínseca de la materia y permanece constante en cualquier lugar."
+        },
+        {
+          "pregunta": "Respecto a cambios de estado: señala la(s) verdadera(s):<br>I) Gas a líquido del agua = licuefacción.<br>II) Se puede licuar el aire bajando temperatura y subiendo presión.<br>III) El inverso de la congelación se logra con disminución de energía.<br>IV) El hielo seco sublima al aumentar temperatura.<br>V) Los cambios de estado son irreversibles.",
+          "opciones": [
+            "II y IV",
+            "I, II y IV",
+            "II, III y IV",
+            "II y III",
+            "IV y V"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Análisis:</b><br>I. Falso $\\rightarrow$ De vapor de agua a líquido se le llama condensación (licuefacción se usa para gases reales bajo presión).<br>II. <b>Correcto</b> $\\rightarrow$ Los gases se licúan aplicando baja temperatura y alta presión.<br>III. Falso $\\rightarrow$ El proceso inverso de la congelación es la fusión, que exige un aumento de energía.<br>IV. <b>Correcto</b> $\\rightarrow$ El hielo seco ($CO_2$ sólido) pasa a gas (sublima) al absorber calor.<br>V. Falso $\\rightarrow$ Los cambios de estado físico son procesos reversibles.<br><b>Conclusión:</b> Solo II y IV son verdaderas."
+        },
+        {
+          "pregunta": "V o F:<br>I. Las sustancias se separan en componentes por métodos químicos.<br>II. Las mezclas son combinaciones de 2 o más sustancias.<br>III. Las mezclas tienen composición constante.<br>IV. Las sustancias se representan con símbolos y fórmulas.",
+          "opciones": [
+            "FVFV",
+            "VVFV",
+            "VVVF",
+            "FFVV",
+            "VFFV"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Análisis:</b><br>I. <b>Verdadero</b> $\\rightarrow$ Los compuestos (sustancias) pueden separarse en sus elementos mediante métodos químicos.<br>II. <b>Verdadero</b> $\\rightarrow$ Las mezclas son el resultado de la combinación física de varias sustancias.<br>III. <b>Falso</b> $\\rightarrow$ Las mezclas tienen composición variable; solo las sustancias puras tienen composición definida o constante.<br>IV. <b>Verdadero</b> $\\rightarrow$ Los elementos se representan con símbolos y los compuestos con fórmulas químicas."
+        },
+        {
+          "pregunta": "¿Cuáles son correctas?<br>I) En sólido, fuerzas de cohesión y repulsión están en equilibrio.<br>II) Una propiedad del gas: compresibilidad.<br>III) En gas, la energía cinética es nula.<br>IV) Los líquidos toman la forma del recipiente.<br>V) Los cambios de estado son cambios físicos.",
+          "opciones": [
+            "I, III",
+            "IV, I, III",
+            "II, III",
+            "V, I, III",
+            "II, IV, V"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Análisis:</b><br>I. Falso $\\rightarrow$ En los sólidos predominan ampliamente las fuerzas de cohesión, no hay equilibrio.<br>II. <b>Verdadero</b> $\\rightarrow$ Los gases tienen alta compresibilidad debido al espacio entre partículas.<br>III. Falso $\\rightarrow$ En los gases, la energía cinética es máxima, no nula.<br>IV. <b>Verdadero</b> $\\rightarrow$ Los líquidos adoptan la forma del recipiente que los contiene.<br>V. <b>Verdadero</b> $\\rightarrow$ Un cambio de estado no altera la estructura molecular interna, por tanto es físico."
+        },
+        {
+          "pregunta": "Los nombres de los cambios al pasar: líquido $\\rightarrow$ sólido y sólido $\\rightarrow$ gas son:",
+          "opciones": [
+            "Fusión y licuación",
+            "Vaporización y sublimación",
+            "Solidificación y condensación",
+            "Solidificación y sublimación",
+            "Sublimación y volatilización"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>El paso de estado líquido a estado sólido se denomina <b>solidificación</b>.<br>El paso directo de estado sólido a estado gaseoso se denomina <b>sublimación</b>."
+        },
+        {
+          "pregunta": "V o F:<br>I. El amoniaco (gas) para hacerse líquido debe absorber energía.<br>II. En gas hay equilibrio entre fuerzas cinéticas y atracción intermolecular.<br>III. En sólido, fuerzas atractivas intermoleculares son muy grandes.<br>IV. El agua al pasar de sólido a líquido absorbe energía.",
+          "opciones": [
+            "FVFV",
+            "FFVV",
+            "VFVF",
+            "FVVF",
+            "VFVV"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Análisis:</b><br>I. <b>Falso</b> $\\rightarrow$ El paso de gas a líquido libera energía (proceso exotérmico).<br>II. <b>Falso</b> $\\rightarrow$ En los gases, las fuerzas cinéticas (de repulsión) superan por mucho a las de atracción.<br>III. <b>Verdadero</b> $\\rightarrow$ En los sólidos, las fuerzas atractivas de cohesión son muy intensas.<br>IV. <b>Verdadero</b> $\\rightarrow$ La fusión (de hielo a agua líquida) requiere que el sistema absorba calor."
+        },
+        {
+          "pregunta": "V o F:<br>I) Al quemar propano (gas) cambia identidad, composición y propiedades.<br>II) Fragmentar un diamante solo cambia propiedades físicas.<br>III) Al fundir sacarosa se altera su identidad química.<br>IV) Durante un cambio químico la materia es la misma antes y después.",
+          "opciones": [
+            "VFFV",
+            "FFVV",
+            "FVFV",
+            "VVFF",
+            "VFVF"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Análisis:</b><br>I. <b>Verdadero</b> $\\rightarrow$ La combustión (quemar) es un cambio químico que transforma las sustancias en otras nuevas.<br>II. <b>Verdadero</b> $\\rightarrow$ Fragmentar o romper es únicamente un cambio físico que no altera la estructura interna del carbono.<br>III. <b>Falso</b> $\\rightarrow$ Fundir (pasar a estado líquido) es un cambio físico, la sacarosa sigue siendo sacarosa.<br>IV. <b>Falso</b> $\\rightarrow$ En un cambio químico, se forman sustancias nuevas; la composición de la materia cambia respecto a la inicial."
+        },
+        {
+          "pregunta": "Respecto a estados de agregación: indica verdad/falso<br>I) El gas tiene energía cinética mínima.<br>II) El líquido tiene volumen definido.<br>III) En sólido hay dos grados de libertad: rotación y vibración.<br>IV) La cohesión en gas es mínima o nula.",
+          "opciones": [
+            "VVFA",
+            "FFVF",
+            "FFVV",
+            "FVFV",
+            "VFVF"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Análisis:</b><br>I. <b>Falso</b> $\\rightarrow$ El estado gaseoso es el que posee la máxima energía cinética.<br>II. <b>Verdadero</b> $\\rightarrow$ Los líquidos poseen un volumen fijo y definido aunque su forma sea variable.<br>III. <b>Falso</b> $\\rightarrow$ En los sólidos las partículas solo poseen movimiento vibratorio.<br>IV. <b>Verdadero</b> $\\rightarrow$ En los gases predominan las fuerzas de repulsión, por lo que la fuerza de cohesión es prácticamente nula."
+        },
+        {
+          "pregunta": "V o F:<br>I) En sólido, volumen y forma son definidos.<br>II) El enfriamiento de un gas se llama condensación porque es paso de líquido a gas.<br>III) En sólido, las moléculas están ordenadas y se mueven libremente.<br>IV) Los cambios de estado se producen por pérdida de energía y cambio en estructura interna.",
+          "opciones": [
+            "FVVF",
+            "VFVF",
+            "VFFF",
+            "VVFF",
+            "VFFV"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Análisis:</b><br>I. <b>Verdadero</b> $\\rightarrow$ Es la principal característica macroscópica de los sólidos.<br>II. <b>Falso</b> $\\rightarrow$ La condensación es el paso de gas a líquido, no de líquido a gas.<br>III. <b>Falso</b> $\\rightarrow$ En un sólido las moléculas están ordenadas pero NO se mueven libremente (solo vibran en sus posiciones).<br>IV. <b>Falso</b> $\\rightarrow$ Los cambios de estado no modifican la estructura molecular interna y pueden deberse tanto a absorción como a pérdida de energía."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "Parte 1",
+          "youtube_id": "aAHmsqDHvfY",
+          "pdf_link": "PDF",
+          "gratis": true
+        },
+        {
+          "titulo": "Parte 2",
+          "youtube_id": "aAHmsqDHvfY",
+          "pdf_link": "PDF",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 2: Estructura Atómica",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "Parte 1",
+          "youtube_id": "Lt_zrDQo8Ic",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "Parte 2",
+          "youtube_id": "RIzo8jZL2XM",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "Parte 3",
+          "youtube_id": "SMB0lW8pt3s",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 3: Números Cuánticos",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "Números Cuánticos - P1",
+          "youtube_id": "qS32AO8QWaY",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "Números Cuánticos - P2",
+          "youtube_id": "Jwu_7ZBnVVg",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "Configuración Eletrónica - P1",
+          "youtube_id": "NBrvM8uVM1c",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "Configuración Eletrónica - P2",
+          "youtube_id": "OsP2Y3fdae4",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "Configuración Eletrónica - P3",
+          "youtube_id": "1MyHnv2doYM",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "Ejercicios",
+          "youtube_id": "9kcbiQ9-DNo",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 4: Tabla Periódica",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "4.1. Teoría",
+          "youtube_id": "2bObVN0yC10",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "4.2. Ejercicios",
+          "youtube_id": "PJE2bKHr_0E",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 5: Enlace Químico",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "5.1. Teoría",
+          "youtube_id": "2--hxEYm-_4",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "5.2. Excepciones 1",
+          "youtube_id": "TGODzy1-qDk",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "5.3. Ejercicios",
+          "youtube_id": "qtl8y8snCoQ",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "5.4. Excepciones 2",
+          "youtube_id": "TP4Po5M1v2c",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "5.5. Ejercicios",
+          "youtube_id": "hlgqjlohShE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 6: Nomenclatura Inorgánica I",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "6.1. Parte 1",
+          "youtube_id": "DEYrYDUNWfc",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "6.2. Parte 2",
+          "youtube_id": "6r6KwOR5xt0",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "6.1. Parte 3",
+          "youtube_id": "LcdSlcH3B8E",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "6.2. Parte 4",
+          "youtube_id": "BpWR0qQiUvg",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "6.2. Parte 5",
+          "youtube_id": "DFtR2vYLIHs",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 6.2: Nomenclatura Inorgánica II",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "6.2.1 Peróxido y Superoxido",
+          "youtube_id": "-0qrq2KEYwU",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "6.2.2 Ácidos, Oxácidos y Hidrácicos",
+          "youtube_id": "QwDL9wpuMM0",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "6.2.3 Aniones y Cationes",
+          "youtube_id": "k4syAXz-QHk",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "6.2.4 Polihidratados, Poliácidos y Sales",
+          "youtube_id": "mOMluGgQJFo",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "6.2.5 Ejercicios",
+          "youtube_id": "V2TSdn8Ze5A",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "6.2.6 Ejercicios - Ácidos",
+          "youtube_id": "LEVJUNFeEmk",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "6.2.7 Ejercicios - Sales",
+          "youtube_id": "f7wr4aQBh-A",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "6.2.8 Ejercicios - Sales 2",
+          "youtube_id": "KLfH4kpKGtM",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 7: Cálculos Químicos",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "7.1. Teoría",
+          "youtube_id": "HsBeDCHNh4c",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "7.2. Ejercicios",
+          "youtube_id": "_R51f16dBZs",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "7.3. Composición Centesimal",
+          "youtube_id": "hGXIUnSOD8w",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "7.4. Ejercicios",
+          "youtube_id": "A_sFR10kjlY",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 8: FALTAAAAAAAA",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "9.1 Cálculo de MCD y MCM",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "3.1 Principales Productos Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 10: Fracciones Algebraicas",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "10.1 Operaciones con Fracciones",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "3.1 Principales Productos Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 11: Binomio de Newton",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "11.1 Desarrollo del Binomio",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 12: Radicación y Racionalización",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "12.1 Transformación de Radicales Dobles",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 13: Números Complejos",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "13.1 Cantidades Imaginarias y Complejos",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 14: Ecuaciones de Primer Grado",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "14.1 Planteo de Ecuaciones Lineales",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 15: Ecuaciones de Segundo Grado",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "15.1 Fórmula General y Propiedades",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 16: Desigualdades e Inecuaciones",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "16.1 Puntos Críticos",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 17: Valor Absoluto",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "17.1 Ecuaciones con Valor Absoluto",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 18: Funciones (Dominio y Rango)",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "18.1 Introducción a Funciones",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 19: Logaritmos",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "19.1 Propiedades de Logaritmos",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    }
+  ]
+}
