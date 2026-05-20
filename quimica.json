@@ -3,7 +3,7 @@
   "temas": [
     {
       "titulo": "Tema 1: Química y Materia",
-      "pdf_resuelto": "PDF_FALTA",
+      "pdf_resuelto": "https://drive.google.com/file/d/13uIF5YLtF2bstvDJrsVODQ85Sh7yG5jF/view",
       "preguntas": [
         {
           "pregunta": "Indique la proposición incorrecta.",
@@ -274,45 +274,291 @@
         {
           "titulo": "Parte 1",
           "youtube_id": "aAHmsqDHvfY",
-          "pdf_link": "PDF",
+          "pdf_link": "https://drive.google.com/file/d/1AdPerKWL0olsSFwP6JQua4ueWBAzcdlC/view",
           "gratis": true
         },
         {
           "titulo": "Parte 2",
           "youtube_id": "aAHmsqDHvfY",
-          "pdf_link": "PDF",
+          "pdf_link": "https://drive.google.com/file/d/1c1lSE9SvDfNGdeE-rnmYjfB7sn_JWTom/view",
           "gratis": false
         }
       ]
     },
     {
       "titulo": "Tema 2: Estructura Atómica",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "pdf_resuelto": "https://drive.google.com/file/d/1KyV7OwGMiceFNuXgU3VTOOjyqTWsZe_2/view",
       "preguntas": [
         {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "pregunta": "Uno de los tres principios que fundamenta el modelo atómico actual es la ecuación de Schrodinger que establece:",
+          "opciones": [
+            "No es posible determinar simultáneamente la posición y la velocidad de un electrón",
+            "Si es posible determinar simultáneamente la posición y la velocidad de un electrón",
+            "La materia al igual que la energía tiene doble carácter es corpuscular y ondulatoria al mismo tiempo",
+            "Es una ecuación que describe los estados de energía posibles para un electrón dentro de un átomo",
+            "La materia al igual que la energía no tiene carácter de ser corpuscular y ondulatoria al mismo tiempo"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>La ecuación de Erwin Schrödinger permite conocer los niveles de energía que puede tener un electrón en el átomo y las regiones donde es más probable encontrarlo (orbitales). Por eso se dice que describe los estados de energía posibles del electrón."
+        },
+        {
+          "pregunta": "En los átomos que se indican identificar la alternativa correcta:<br>$$ \\text{I. } ^{52}_{25}X \\quad \\text{II. } ^{60}_{23}Y \\quad \\text{III. } ^{53}_{25}Z \\quad \\text{IV. } ^{52}_{24}R \\quad \\text{V. } ^{72}_{35}W $$",
+          "opciones": [
+            "I y II son isótopos",
+            "II y V son isótonos",
+            "I y V son isóbaros",
+            "III y IV son isótopos",
+            "I y IV son isótonos"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>Calculamos los neutrones ($n = A - Z$) para cada uno de los átomos presentados:<br>I. $n = 52 - 25 = 27$<br>II. $n = 60 - 23 = 37$<br>III. $n = 53 - 25 = 28$<br>IV. $n = 52 - 24 = 28$<br>V. $n = 72 - 35 = 37$<br><br>Los átomos II y V tienen la misma cantidad de neutrones ($37$), por lo tanto, son <b>isótonos</b>."
+        },
+        {
+          "pregunta": "En un cierto átomo el número de protones es 10 unidades menores que el número de neutrones. Si el número de masa es 62, determine el número atómico.",
+          "opciones": [
+            "33",
+            "28",
+            "30",
+            "61",
+            "26"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Paso 1:</b> Planteamos los datos.<br>Protones ($Z$) = $n - 10$<br>Número de masa ($A$) = $62$<br><br><b>Paso 2:</b> Usamos la fórmula fundamental $A = Z + n$.<br>Sustituimos $Z$:<br>$62 = (n - 10) + n$<br>$62 = 2n - 10$<br>$72 = 2n \\rightarrow n = 36$<br><br><b>Paso 3:</b> Calculamos el número atómico ($Z$).<br>$Z = 36 - 10 = 26$"
+        },
+        {
+          "pregunta": "Se tiene tres núclidos cuyos números másicos son consecutivos y suman 63; si en total tienen 30 electrones y cada uno posee igual cantidad de electrones. ¿Cuántos neutrones posee el núclido de mayor número de masa?",
+          "opciones": [
+            "12",
+            "20",
+            "60",
+            "22",
+            "18"
+          ],
           "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+          "resolucion": "<b>Paso 1:</b> Números másicos consecutivos: $A_1 = x, A_2 = x+1, A_3 = x+2$.<br>Suman 63:<br>$x + (x+1) + (x+2) = 63$<br>$3x + 3 = 63 \\rightarrow 3x = 60 \\rightarrow x = 20$<br>Los números de masa son: $20$, $21$ y $22$.<br><br><b>Paso 2:</b> Tienen igual cantidad de electrones y en total son 30. Al ser átomos neutros, $Z = e^-$.<br>$3Z = 30 \\rightarrow Z = 10$<br><br><b>Paso 3:</b> Nos piden los neutrones del de mayor masa ($A = 22$).<br>$n = A - Z = 22 - 10 = 12$"
+        },
+        {
+          "pregunta": "En un elemento el número de neutrones es el doble del número de protones. ¿Cuál es el número de masa y el número atómico de ese elemento, si la suma de su número masa más el número de neutrones es 140?",
+          "opciones": [
+            "A = 90, Z = 30",
+            "A = 84, Z = 28",
+            "A = 70, Z = 35",
+            "A = 100, Z = 20",
+            "A = 60, Z = 20"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Extraemos los datos:<br>$n = 2Z$<br>$A + n = 140$<br><br><b>Paso 2:</b> Sabemos que $A = Z + n$. Sustituimos $n$:<br>$A = Z + 2Z = 3Z$<br><br><b>Paso 3:</b> Reemplazamos todo en la suma dada:<br>$3Z + 2Z = 140$<br>$5Z = 140 \\rightarrow Z = 28$<br><br><b>Paso 4:</b> Calculamos el número de masa ($A$):<br>$A = 3Z = 3(28) = 84$"
+        },
+        {
+          "pregunta": "¿Cuántos electrones tiene el catión trivalente de un átomo de 135 nucleones cuyo número de neutrones excede en 43 a su número de protones?",
+          "opciones": [
+            "46",
+            "43",
+            "92",
+            "49",
+            "50"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Planteamos los datos.<br>Nucleones (Número de masa, $A$) = $135$.<br>Los neutrones exceden a los protones en 43: $n = Z + 43$.<br><br><b>Paso 2:</b> Usamos la ecuación $A = Z + n$.<br>$135 = Z + (Z + 43)$<br>$135 = 2Z + 43$<br>$92 = 2Z \\rightarrow Z = 46$<br><br><b>Paso 3:</b> Nos piden los electrones del catión trivalente ($X^{+3}$).<br>$e^- = Z - 3$<br>$e^- = 46 - 3 = 43$"
+        },
+        {
+          "pregunta": "Si la suma de los números másicos de 3 isótopos es 126 y la suma de los números de neutrones es 60. El número atómico que corresponde a los isótopos es:",
+          "opciones": [
+            "18",
+            "20",
+            "22",
+            "24",
+            "26"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Al ser isótopos, todos comparten el mismo número atómico ($Z$).<br>Suma de masas: $A_1 + A_2 + A_3 = 126$<br>Suma de neutrones: $n_1 + n_2 + n_3 = 60$<br><br><b>Paso 2:</b> Usando $A = Z + n$, sumamos las masas de los 3 isótopos:<br>$(Z + n_1) + (Z + n_2) + (Z + n_3) = 126$<br>$3Z + (n_1 + n_2 + n_3) = 126$<br><br><b>Paso 3:</b> Reemplazamos la suma de neutrones:<br>$3Z + 60 = 126$<br>$3Z = 66 \\rightarrow Z = 22$"
+        },
+        {
+          "pregunta": "La diferencia de neutrones de dos isóbaros es 1 y la suma de protones es 13. Determinar el número de electrones del anión tetravalente del isóbaro de menor número de protones.",
+          "opciones": [
+            "8",
+            "10",
+            "12",
+            "14",
+            "16"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Los isóbaros tienen el mismo número de masa ($A$).<br>$n_1 - n_2 = 1$<br>$Z_1 + Z_2 = 13$<br><br><b>Paso 2:</b> Reemplazamos $n$ usando $n = A - Z$:<br>$(A - Z_1) - (A - Z_2) = 1$<br>$Z_2 - Z_1 = 1$<br><br><b>Paso 3:</b> Resolvemos el sistema de ecuaciones:<br>$Z_2 + Z_1 = 13$<br>$Z_2 - Z_1 = 1$<br>Sumando ambas: $2Z_2 = 14 \\rightarrow Z_2 = 7$<br>Restando ambas: $2Z_1 = 12 \\rightarrow Z_1 = 6$<br>El menor número de protones es $Z=6$.<br><br><b>Paso 4:</b> Calculamos los electrones del anión tetravalente ($X^{-4}$) de $Z=6$.<br>$e^- = Z - q = 6 - (-4) = 6 + 4 = 10$"
+        },
+        {
+          "pregunta": "Un átomo X es isótono de un átomo T de carga nuclear 33 y número de masa 76; además X es isóbaro con un átomo de masa 66. ¿Cuál es la carga nuclear (Z) de X?",
+          "opciones": [
+            "27",
+            "28",
+            "23",
+            "30",
+            "31"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> X es isótono de T ($A=76, Z=33$). <i>(Nota: Corrección de tipeo en el número de masa original del problema para que la ecuación tenga solución)</i>.<br>Calculamos los neutrones de T: $n = 76 - 33 = 43$.<br>Como son isótonos, el átomo X también tiene $n = 43$.<br><br><b>Paso 2:</b> X es isóbaro con un átomo de masa 66.<br>Por lo tanto, el número de masa de X es $A = 66$.<br><br><b>Paso 3:</b> Calculamos la carga nuclear ($Z$) de X.<br>$Z = A - n$<br>$Z = 66 - 43 = 23$"
+        },
+        {
+          "pregunta": "En un átomo neutro se cumple que su número de masa es a su número de electrones como 8 es a 5. Determine el número de nucleones positivos si posee 54 neutrones.",
+          "opciones": [
+            "90",
+            "25",
+            "30",
+            "35",
+            "40"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> En un átomo neutro, el número de electrones es igual al de protones ($e^- = p^+ = Z$).<br>Según la relación dada: $\\frac{A}{Z} = \\frac{8}{5}$, por lo que podemos decir que $A = 8k$ y $Z = 5k$.<br><br><b>Paso 2:</b> Utilizamos la cantidad de neutrones: $n = A - Z = 54$.<br>$8k - 5k = 54$<br>$3k = 54 \\rightarrow k = 18$<br><br><b>Paso 3:</b> Nos piden los \"nucleones positivos\", lo cual es otra forma de llamar a los protones ($Z$).<br>$Z = 5k = 5(18) = 90$"
+        },
+        {
+          "pregunta": "En un átomo la diferencia de cuadrados entre el número de masa y el número atómico es 60 veces el número de neutrones, si las partículas sin carga están en la relación de 4 a 3 con los protones. Determine el número de masa de dicho átomo.",
+          "opciones": [
+            "36",
+            "42",
+            "48",
+            "54",
+            "60"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Planteamos las ecuaciones:<br>$A^2 - Z^2 = 60n$<br>$\\frac{n}{Z} = \\frac{4}{3} \\rightarrow n = 4k, Z = 3k$<br><br><b>Paso 2:</b> Expresamos $A$ en función de $k$:<br>$A = Z + n = 3k + 4k = 7k$<br><br><b>Paso 3:</b> Reemplazamos en la primera ecuación:<br>$(7k)^2 - (3k)^2 = 60(4k)$<br>$49k^2 - 9k^2 = 240k$<br>$40k^2 = 240k \\rightarrow 40k = 240 \\rightarrow k = 6$<br><br><b>Paso 4:</b> Nos piden el número de masa ($A$):<br>$A = 7k = 7(6) = 42$"
+        },
+        {
+          "pregunta": "Los números másicos de dos isótonos se encuentran en la relación numérica de 9 a 7. Si la diferencia de sus cargas nucleares es 28, hallar el número de nucleones del átomo menos pesado.",
+          "opciones": [
+            "56",
+            "70",
+            "84",
+            "98",
+            "112"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1:</b> Al ser isótonos, tienen la misma cantidad de neutrones ($n$).<br>$\\frac{A_1}{A_2} = \\frac{9}{7} \\rightarrow A_1 = 9k, A_2 = 7k$<br>Diferencia de cargas nucleares: $Z_1 - Z_2 = 28$<br><br><b>Paso 2:</b> Expresamos $Z$ como $A - n$ y restamos:<br>$(A_1 - n) - (A_2 - n) = 28$<br>$A_1 - A_2 = 28$<br><br><b>Paso 3:</b> Reemplazamos $A$ en función de la constante $k$:<br>$9k - 7k = 28$<br>$2k = 28 \\rightarrow k = 14$<br><br><b>Paso 4:</b> Nos piden el número de nucleones ($A$) del átomo menos pesado ($A_2$):<br>$A_2 = 7k = 7(14) = 98$"
+        },
+        {
+          "pregunta": "El primer modelo atómico con pruebas experimentales que demostraban la existencia de un núcleo positivo pertenece a:",
+          "opciones": [
+            "Demócrito",
+            "Dalton",
+            "Thomson",
+            "Rutherford",
+            "Bohr"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>Ernest Rutherford demostró la existencia del núcleo positivo mediante el experimento de la lámina de oro, donde partículas alfa fueron desviadas al atravesar el átomo. Esto probó que la mayor parte de la masa y la carga positiva del átomo se concentra en un núcleo muy pequeño y denso."
+        },
+        {
+          "pregunta": "¿Qué modelo atómico comparaba el átomo con una \"torta con pasas\", donde los electrones estaban incrustados en una masa positiva?",
+          "opciones": [
+            "Modelo nuclear",
+            "Modelo cuántico",
+            "Modelo de Dalton",
+            "Modelo del pudín de Thomson",
+            "Modelo de Bohr"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>J.J. Thomson propuso que el átomo era una masa de carga positiva en la que estaban incrustados los electrones, de manera similar a un pudín o torta con pasas. Este modelo sirvió como el primer intento para explicar la neutralidad eléctrica del átomo tras el descubrimiento del electrón."
+        },
+        {
+          "pregunta": "Según el modelo cuántico actual, los electrones:",
+          "opciones": [
+            "Se mueven en órbitas circulares fijas.",
+            "Están distribuidos uniformemente en la masa positiva.",
+            "Son indivisibles y no tienen energía.",
+            "Se describen como ondas de probabilidad en orbitales.",
+            "Giran en trayectorias elípticas alrededor del núcleo."
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>El modelo mecánico-cuántico actual, desarrollado por científicos como Erwin Schrödinger, establece que es imposible conocer la trayectoria exacta de un electrón. En su lugar, los electrones se describen mediante funciones de onda que indican la zona de máxima probabilidad de encontrarlos, a la cual llamamos <b>orbital</b> o REEMPE."
+        },
+        {
+          "pregunta": "Bohr propuso que los electrones:",
+          "opciones": [
+            "No existen como partículas, solo como ondas.",
+            "Se encuentran en un núcleo pequeño y denso.",
+            "Giran en niveles de energía definidos y pueden saltar entre ellos.",
+            "Forman parte de una masa homogénea positiva.",
+            "Son indivisibles y todos iguales para un mismo elemento."
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>Niels Bohr propuso que los electrones se mueven en órbitas o niveles de energía cuantizados (fijos) alrededor del núcleo sin emitir energía. Solo cuando un electrón absorbe o emite energía, da un \"salto cuántico\" de un nivel a otro, lo cual logró explicar los espectros de emisión atómicos."
+        },
+        {
+          "pregunta": "Tres isótopos de un elemento tienen números másicos consecutivos. Si la suma de sus números másicos es 189 y la suma de sus neutrones es 111, determine el número atómico del elemento.",
+          "opciones": [
+            "24",
+            "25",
+            "26",
+            "27",
+            "28"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Al ser isótopos, tienen el mismo número atómico ($Z$).<br>Sus números másicos son consecutivos: $A-1, A, A+1$.<br>Suma de masas: $(A-1) + A + (A+1) = 189$<br>$3A = 189 \\rightarrow A = 63$<br>Los números de masa son 62, 63 y 64.<br><br><b>Paso 2:</b> La suma de neutrones es: $n_1 + n_2 + n_3 = 111$.<br>Sabemos que $n = Masa - Z$. Reemplazamos:<br>$(62 - Z) + (63 - Z) + (64 - Z) = 111$<br>$189 - 3Z = 111$<br>$78 = 3Z \\rightarrow Z = 26$"
+        },
+        {
+          "pregunta": "Dos átomos A y B son isótonos. Si el número de masa de A es 80 y su número atómico es 34, determine el número atómico del átomo B si su número de masa es 78.",
+          "opciones": [
+            "30",
+            "31",
+            "32",
+            "33",
+            "34"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Isótonos significa que tienen el mismo número de neutrones ($n$).<br>Para el átomo A: $A = 80$, $Z = 34$.<br>Calculamos sus neutrones: $n = 80 - 34 = 46$.<br><br><b>Paso 2:</b> El átomo B también tiene $n = 46$ y sabemos que su masa es $A = 78$.<br>Calculamos su número atómico ($Z$):<br>$Z = A - n$<br>$Z = 78 - 46 = 32$"
+        },
+        {
+          "pregunta": "El grupo que presenta especies isoelectrónicas, es:",
+          "opciones": [
+            "$_{20}Ca^{+2}, _{11}Na^{+1}, _{3}Li^{+1}$",
+            "$_{1}H^{+1}, _{3}Li^{+1}, _{4}Be^{+2}$",
+            "$_{19}K^{+1}, _{18}Ar, _{16}S^{-2}$",
+            "$_{11}Na^{+1}, _{17}Cl^{-1}, _{19}K^{+1}$",
+            "$_{7}N^{+3}, _{11}Na^{+1}, _{12}Mg^{+2}$"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>Las especies isoelectrónicas son aquellas que tienen la misma cantidad de electrones ($e^- = Z - q$).<br>Analizamos la opción correcta (c):<br>Para el $_{19}K^{+1}$: $e^- = 19 - (+1) = 18$<br>Para el $_{18}Ar$: $e^- = 18 - 0 = 18$<br>Para el $_{16}S^{-2}$: $e^- = 16 - (-2) = 18$<br><br>Todas las especies de este grupo poseen $18$ electrones."
+        },
+        {
+          "pregunta": "En el siguiente ion $^{52}_{24}E^{+3}$ Identificar las proposiciones verdaderas.<br>I. Posee 21 electrones<br>II. Posee 21 protones<br>III. Su número de masa es 52<br>IV. Posee 24 protones<br>V. Posee 76 partículas subatómicas",
+          "opciones": [
+            "III",
+            "II, IV",
+            "I, III, IV",
+            "I, II",
+            "IV, V"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Análisis del ion $^{52}_{24}E^{+3}$:</b><br>I. $e^- = Z - q = 24 - 3 = 21$ (Verdadero).<br>II. $p^+ = Z = 24$ (Falso, dice 21).<br>III. Número de masa $A = 52$ (Verdadero).<br>IV. $p^+ = Z = 24$ (Verdadero).<br>V. Partículas subatómicas fundamentales = $p^+ + n^0 + e^-$. Recordando que $p^+ + n^0 = A$, entonces: Partículas = $A + e^- = 52 + 21 = 73$ (Falso, dice 76).<br><br><b>Conclusión:</b> Son verdaderas I, III y IV."
+        },
+        {
+          "pregunta": "Un catión divalente y un anión trivalente tienen el mismo número de electrones y 71 protones totales. Si el catión posee 50 neutrones, el número de masa del catión es:",
+          "opciones": [
+            "33",
+            "44",
+            "78",
+            "88",
+            "91"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1:</b> Planteamos las especies iónicas.<br>Catión divalente: $X^{+2}$ (con carga nuclear $Z_1$)<br>Anión trivalente: $Y^{-3}$ (con carga nuclear $Z_2$)<br><br><b>Paso 2:</b> Tienen el mismo número de electrones.<br>$Z_1 - 2 = Z_2 - (-3)$<br>$Z_1 - 2 = Z_2 + 3$<br>$Z_1 - Z_2 = 5$<br><br><b>Paso 3:</b> Tienen 71 protones totales.<br>$Z_1 + Z_2 = 71$<br><br><b>Paso 4:</b> Resolvemos el sistema de ecuaciones sumando ambas:<br>$(Z_1 - Z_2) + (Z_1 + Z_2) = 5 + 71$<br>$2Z_1 = 76 \\rightarrow Z_1 = 38$<br><br><b>Paso 5:</b> Nos piden el número de masa ($A$) del catión ($X$). Sabemos que tiene $n = 50$.<br>$A_1 = Z_1 + n$<br>$A_1 = 38 + 50 = 88$"
         }
       ],
       "videos": [
         {
           "titulo": "Parte 1",
           "youtube_id": "Lt_zrDQo8Ic",
-          "pdf_link": "LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1kTT9i_TeNMC20arNzTCo5WcD8JsUiHHQ/view",
           "gratis": true
         },
         {
           "titulo": "Parte 2",
           "youtube_id": "RIzo8jZL2XM",
-          "pdf_link": "LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1kTT9i_TeNMC20arNzTCo5WcD8JsUiHHQ/view",
           "gratis": true
         },
         {
           "titulo": "Parte 3",
           "youtube_id": "SMB0lW8pt3s",
-          "pdf_link": "LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1vDakApHdYtKx8xdvtnXxiZKdXDfEAswl/view",
           "gratis": true
         }
       ]
