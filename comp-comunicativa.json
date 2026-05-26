@@ -7417,74 +7417,1016 @@
       ]
     },
     {
-      "titulo": "Tema 11: Pronto",
+      "titulo": "Tema 11: Adverbio",
       "pdf_resuelto": "",
       "videos": [
         {
-          "titulo": "11.1 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_13.1",
+          "titulo": "Parte 1",
+          "youtube_id": "ukUSzEtLMG0",
+          "pdf_link": "https://drive.google.com/file/d/12sACjgC3jVkwkpItDsSa2PukDs-iig3i/view",
+          "gratis": false,
+          "preguntas": [
+            
+  {
+    "pregunta": "¿Cómo se define el artículo desde el criterio semántico según el texto?",
+    "opciones": [
+      "Palabra que posee un significado lexical propio e invariable.",
+      "Categoría que carece de significado gramatical pero posee valor léxico.",
+      "Palabra que carece de significado lexical propio y posee únicamente significado gramatical.",
+      "Nexo subordinante que precede siempre al verbo principal."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Morfológicamente, se afirma que el artículo es una palabra variable porque:",
+    "opciones": [
+      "Puede transformarse en sustantivo dependiendo de su posición sintáctica.",
+      "Adopta formas diferentes para expresar tiempo y aspecto verbal.",
+      "Presenta accidentes gramaticales de género y número que concuerdan con el sustantivo.",
+      "Carece de morfemas flexivos propios pero asume obligatoriamente los del verbo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la estructura de un grupo nominal, la función sintáctica principal del artículo respecto al sustantivo es la de ser:",
+    "opciones": [
+      "Núcleo principal del sintagma nominal en ausencia del pronombre.",
+      "Modificador indirecto a través de una preposición.",
+      "Modificador directo y sustantivador universal.",
+      "Complemento predicativo de carácter obligatorio."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración 'El pero del juez me preocupa', el artículo 'El' está cumpliendo la función de sustantivar a:",
+    "opciones": [
+      "Un adverbio de tiempo.",
+      "Una conjunción adversativa.",
+      "Un pronombre posesivo.",
+      "Un adjetivo calificativo explicativo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el enunciado 'El ayer quedó en olvido', ¿a qué categoría gramatical original está sustantivando el artículo 'El'?",
+    "opciones": [
+      "Un verbo en forma no personal.",
+      "Una preposición subordinante.",
+      "Un pronombre indefinido.",
+      "Un adverbio temporal."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Los artículos determinados o definidos se caracterizan fundamentalmente por:",
+    "opciones": [
+      "Hacer referencia a un sustantivo conocido por el hablante y el oyente.",
+      "Sustantivar únicamente a los verbos conjugados y adjetivos puros.",
+      "Mencionar entidades de existencia puramente abstracta e indeterminada.",
+      "Hacer referencia a seres no conocidos en el contexto del discurso."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Identifique la oración que presenta EXCLUSIVAMENTE artículos indeterminados o indefinidos en su estructura.",
+    "opciones": [
+      "El auto se salió de la pista en un segundo sin avisar.",
+      "Las niñas trajeron unos hermosos recuerdos para su maestra.",
+      "Un día te entregaré unos regalos magníficos.",
+      "Unos vecinos limpiaron la vereda de mi casa muy temprano."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el propósito gramatical del artículo neutro 'lo' (también llamado genérico) según el documento?",
+    "opciones": [
+      "Concordar en número plural con sustantivos femeninos irregulares.",
+      "Reemplazar a los pronombres átonos enclíticos de tercera persona.",
+      "Sustantivar a los adjetivos, convirtiéndolos en sustantivos abstractos.",
+      "Modificar exclusivamente a los adverbios de modo en oraciones compuestas."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la expresión 'Lo justo es un valor jurídico', la palabra 'justo' ha experimentado un proceso gramatical de:",
+    "opciones": [
+      "Adjetivación restrictiva.",
+      "Sustantivación abstracta.",
+      "Apócope morfológico extremo.",
+      "Contracción preposicional."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son las preposiciones que, al unirse o amalgamarse con el artículo 'el', dan origen a las llamadas contracciones gramaticales?",
+    "opciones": [
+      "por y para",
+      "a y de",
+      "con y en",
+      "hacia y hasta"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según las precisiones normativas sobre la contracción, estas se utilizan obligatoriamente cuando el artículo precede a:",
+    "opciones": [
+      "Nombres propios de ciudades o países sin importar el contexto.",
+      "Títulos de obras literarias o publicaciones formales.",
+      "Sustantivos comunes, como en la expresión 'El viajante llegó al pueblo'.",
+      "Cualquier guarismo o cifra numérica referida a un año específico."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la frase 'La pintura de El Greco', la norma ortográfica dicta que NO se debe realizar la contracción 'del' debido a que:",
+    "opciones": [
+      "La contracción solo es aplicable cuando la preposición es 'a' en nombres propios.",
+      "El sustantivo 'Greco' rechaza el artículo de forma natural por su origen.",
+      "El artículo es parte integrante de la expresión denominativa.",
+      "El artículo acompaña a un sustantivo común con función de gentilicio."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Señale la alternativa en la que la regla sobre topónimos integrados se ha aplicado CORRECTAMENTE para evitar la contracción.",
+    "opciones": [
+      "Un viaje a el Río de la Plata por la tarde.",
+      "La provincia de el Chaco sufrió grandes inundaciones.",
+      "Ellos vienen de El Salvador por motivos de trabajo.",
+      "Mañana iremos a El campo a cosechar frutas."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Cuando el artículo NO forma parte integrante del topónimo (como en Río de la Plata o Chaco), la regla establece que:",
+    "opciones": [
+      "Se debe usar la contracción normativa (ej. al Río de la Plata, del Chaco).",
+      "El artículo debe omitirse obligatoriamente en toda circunstancia.",
+      "Se debe escribir la preposición y el artículo separados por un guion.",
+      "Se mantiene el artículo con letra mayúscula inicial y sin contraer."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Teniendo en cuenta la norma ortográfica referida al uso del artículo ante cifras numéricas de los años, ¿qué expresión de datación es la CORRECTA?",
+    "opciones": [
+      "Cusco, 09 de febrero del 2024",
+      "Cusco, 09 del febrero del 2024",
+      "Cusco, 09 de febrero de el 2024",
+      "Cusco, 09 de febrero de 2024"
+    ],
+    "correcta": 3
+  }
+          ]
+        },
+        {
+          "titulo": "Parte 2",
+          "youtube_id": "th_yhAzNh4c",
+          "pdf_link": "https://drive.google.com/file/d/1hCKP3JovEpxuYRBwpL_h4T4tqnCPvYuS/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según el texto, ¿qué efecto produce el uso del artículo determinado cuando actúa como presentador del sustantivo, como en 'La Historia del hombre abunda en los hechos heroicos'?",
+    "opciones": [
+      "Transforma la expresión en una frase fría y sin énfasis.",
+      "Hace que la expresión sea más viva y más concreta.",
+      "Cambia el género del sustantivo principal.",
+      "Convierte a la oración en una proposición subordinada."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función del artículo indeterminado 'un' y sus variantes en expresiones como 'Eres un candidato del pueblo'?",
+    "opciones": [
+      "Destacar la calidad y el valor para dar mayor énfasis a la expresión.",
+      "Presentar al sustantivo de forma abstracta e indeterminada.",
+      "Evitar la cacofonía ante sustantivos femeninos.",
+      "Modificar exclusivamente a los verbos copulativos."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En los ejemplos 'El oyente' / 'La oyente' y 'La caries' / 'Las caries', el artículo cumple la función específica de:",
+    "opciones": [
+      "Sustantivador universal de adjetivos.",
+      "Desambiguador de género y número de algunos sustantivos.",
+      "Nexo sintáctico entre el núcleo y el modificador.",
+      "Indicador de hiato ortográfico."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De acuerdo con la normativa del artículo, cuando dos o más adjetivos calificativos modifican a un mismo sustantivo, el artículo debe:",
+    "opciones": [
+      "Repetirse antes de cada uno de los adjetivos.",
+      "Omitirse por completo para evitar redundancias.",
+      "Preceder solo al primer adjetivo.",
+      "Colocarse únicamente antes del último adjetivo de la serie."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Señale la oración que aplica CORRECTAMENTE la regla del uso del artículo frente a múltiples adjetivos referidos a un solo sustantivo.",
+    "opciones": [
+      "El débil y el triste mendigo durmió en el piso.",
+      "El débil y triste mendigo durmió en el piso.",
+      "Débil y el triste mendigo durmió en el piso.",
+      "El débil y un triste mendigo durmió en el piso."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según las observaciones sobre el artículo, ¿en cuál de los siguientes países es OPCIONAL el uso del artículo?",
+    "opciones": [
+      "Bolivia",
+      "Colombia",
+      "Chile",
+      "Perú"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "De la lista proporcionada en el documento, identifique el grupo de países que NO acepta el uso del artículo.",
+    "opciones": [
+      "Japón, Argentina, Cusco",
+      "Bolivia, Chile, Colombia, Panamá",
+      "Perú, Japón, Argentina, Panamá",
+      "Chile, Colombia, Perú, Argentina"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Por razones de eufonía (armonía de sonidos), los sustantivos femeninos que empiezan con 'a' o 'ha' tónicas deben:",
+    "opciones": [
+      "Cambiar su morfema de género permanentemente al masculino.",
+      "Estar precedidos por el artículo 'el', solo en número singular.",
+      "Omitir cualquier tipo de artículo o determinante.",
+      "Usar el artículo 'la' seguido de un guion ortográfico."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Teniendo en cuenta la regla de eufonía para eludir el hiato, ¿cuál es la pluralización correcta de 'El águila' y 'El hada'?",
+    "opciones": [
+      "Los águilas / Los hadas",
+      "Las águilas / Las hadas",
+      "Los águilas / Las hadas",
+      "Las águila / Las hada"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Marque la alternativa que presenta un uso INCORRECTO del artículo por no respetar la regla de armonía de sonidos ante la 'a' tónica inicial.",
+    "opciones": [
+      "El arpa",
+      "Un ala",
+      "La ánfora",
+      "El aula"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué se le considera al artículo como un 'sustantivador universal'?",
+    "opciones": [
+      "Porque es la única categoría gramatical que puede iniciar una oración.",
+      "Porque determina la función de una palabra de otra categoría, convirtiéndola en sustantivo al anteponerse a ella.",
+      "Porque reemplaza universalmente a todos los pronombres personales en un texto formal.",
+      "Porque aporta los accidentes de género y número a los verbos conjugados."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'El fumar es dañino para la salud', la palabra 'fumar' asume la función de sustantivo. ¿De qué categoría gramatical original proviene?",
+    "opciones": [
+      "De un adjetivo calificativo.",
+      "De una conjunción subordinante.",
+      "De un adverbio de modo.",
+      "De un verbo."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Analice el siguiente enunciado: 'El bien debe estar por encima del mal'. Las palabras sustantivadas 'bien' y 'mal' originariamente pertenecen a la categoría de:",
+    "opciones": [
+      "Interjecciones",
+      "Preposiciones",
+      "Adverbios",
+      "Pronombres"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué categoría gramatical se ha sustantivado mediante el artículo en la frase 'El pero debe ser superado'?",
+    "opciones": [
+      "Una interjección",
+      "Una conjunción",
+      "Un pronombre indefinido",
+      "Un verbo infinitivo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la expresión 'El ay asustó a la familia', el artículo ha actuado como sustantivador universal sobre una palabra que originalmente era:",
+    "opciones": [
+      "Un pronombre relativo",
+      "Una preposición",
+      "Una interjección",
+      "Una frase nominal"
+    ],
+    "correcta": 2
+  }
+          ]
+        },
+        {
+          "titulo": "Parte 3",
+          "youtube_id": "bPCchOenE2M",
+          "pdf_link": "https://drive.google.com/file/d/11RiA7qH82z0v6KIgD0LQZxLqHCnHs4nO/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según el criterio semántico, ¿cuál es la función principal del adverbio en la oración?",
+    "opciones": [
+      "Aportar la acción principal del sujeto y sus variaciones temporales.",
+      "Agregar significado y aportar ideas al verbo, adjetivo y otro adverbio.",
+      "Reemplazar al sustantivo para evitar redundancias discursivas.",
+      "Conectar dos proposiciones subordinadas de igual jerarquía sintáctica."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'Llegaste demasiado tarde a mi vida', ¿a qué categoría gramatical modifica la palabra 'demasiado' según el texto?",
+    "opciones": [
+      "Al sustantivo 'vida'.",
+      "Al verbo 'llegaste'.",
+      "A un adjetivo calificativo.",
+      "A otro adverbio ('tarde')."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Desde el punto de vista morfológico, ¿cómo se define rigurosamente al adverbio?",
+    "opciones": [
+      "Como una palabra invariable que carece de accidentes gramaticales y no presenta flexión.",
+      "Como una palabra variable que presenta morfemas exclusivos de género y número.",
+      "Como una categoría gramatical que concuerda en persona y tiempo con el verbo principal.",
+      "Como un núcleo sintáctico independiente que posee flexión de tiempo y aspecto."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "El texto presenta los ejemplos 'Reaccioné demasiado tarde' y 'Ellas han reaccionado demasiado tarde' con el propósito de demostrar que el adverbio:",
+    "opciones": [
+      "Siempre debe preceder obligatoriamente al verbo principal de la oración.",
+      "Posee flexión de número plural, pero carece de morfemas de género.",
+      "Modifica su estructura morfológica dependiendo del pronombre personal.",
+      "Mantiene su forma invariable y no presenta ningún tipo de flexión."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Sintácticamente, ¿a qué categorías gramaticales tiene la capacidad de modificar el adverbio?",
+    "opciones": [
+      "Al sustantivo, al pronombre personal y a las interjecciones.",
+      "Exclusivamente a los verbos conjugados en modo indicativo o subjuntivo.",
+      "Principalmente a los verbos, a los adjetivos y también a otros adverbios.",
+      "A las preposiciones, a las conjunciones y a los determinantes posesivos."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el enunciado 'Posiblemente viaje la próxima semana', el adverbio 'Posiblemente' cumple la función sintáctica de modificar directamente a:",
+    "opciones": [
+      "Un sustantivo abstracto.",
+      "Un verbo conjugado.",
+      "Un adjetivo especificativo.",
+      "Un determinante artículo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Señale la oración extraída del texto donde se evidencia que el adverbio modifica de forma directa a un verbo.",
+    "opciones": [
+      "La señorita está sumamente satisfecha de los resultados.",
+      "Vivimos tan cerca y no nos vemos todos los días.",
+      "Rocío trabaja apenas en este nuevo lugar.",
+      "Ellas están más allá de las fronteras establecidas."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la expresión 'Rocío es tan humilde', ¿qué relación sintáctica específica se establece entre las palabras 'tan' y 'humilde'?",
+    "opciones": [
+      "Es un adjetivo calificativo modificando a un sustantivo propio.",
+      "Es un adverbio de cantidad modificando a un adjetivo calificativo.",
+      "Es un adverbio de modo modificando a un verbo copulativo.",
+      "Es una conjunción coordinante enlazando dos atributos nominales."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'La señorita está sumamente satisfecha de los resultados', la palabra 'sumamente' modifica sintácticamente a 'satisfecha', la cual funciona como:",
+    "opciones": [
+      "Un verbo en forma no personal.",
+      "Un adverbio de modo derivado.",
+      "Un adjetivo calificativo.",
+      "Un sustantivo abstracto femenino."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Identifique la alternativa en la que, según los ejemplos precisos del documento, un adverbio cumple la función de modificar a otro adverbio.",
+    "opciones": [
+      "Ha expuesto muy sereno frente al jurado.",
+      "Posiblemente viaje la próxima semana a la capital.",
+      "Ellas están más allá de lo que puedes imaginar.",
+      "Joaquín y Roberto estudian todos los días."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el enunciado 'Vivimos tan cerca y no nos vemos', la palabra 'tan' funciona como un adverbio que modifica sintácticamente a:",
+    "opciones": [
+      "El verbo principal 'vivimos'.",
+      "El pronombre átono 'nos'.",
+      "El verbo secundario 'vemos'.",
+      "El adverbio de lugar 'cerca'."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Debido a que el adverbio carece absolutamente de accidentes gramaticales como género, número o persona, se clasifica gramaticalmente dentro del grupo de las palabras:",
+    "opciones": [
+      "Variables complejas.",
+      "Flexivas dependientes.",
+      "Invariables.",
+      "Sustantivadas."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración 'Joaquín y Roberto estudian lejos de su familia', ¿qué elemento específico es modificado por el adverbio 'lejos' de acuerdo al análisis del texto?",
+    "opciones": [
+      "El sustantivo 'familia'.",
+      "El verbo 'estudian'.",
+      "El adjetivo posesivo 'su'.",
+      "La conjunción copulativa 'y'."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el análisis sintáctico de la oración 'Ha expuesto muy sereno', las categorías gramaticales de las palabras 'muy' y 'sereno' corresponden respectivamente a:",
+    "opciones": [
+      "Adverbio modificador y verbo principal.",
+      "Adverbio de cantidad y adjetivo calificativo.",
+      "Adjetivo explicativo y sustantivo abstracto.",
+      "Pronombre indefinido y adjetivo especificativo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si comparamos las oraciones 'Rocío trabaja apenas' y 'Rocío es tan humilde', la diferencia fundamental en la función sintáctica de los adverbios radica en que:",
+    "opciones": [
+      "En la primera modifica a un verbo y en la segunda modifica a un adjetivo.",
+      "En la primera modifica a un adjetivo y en la segunda modifica a un verbo.",
+      "En ambas oraciones los adverbios modifican directamente al núcleo del sujeto.",
+      "En la primera el adverbio carece de flexión y en la segunda presenta variaciones."
+    ],
+    "correcta": 0
+  }
+          ]
+        },
+        {
+          "titulo": "Parte 4",
+          "youtube_id": "slVEjppWWZI",
+          "pdf_link": "https://drive.google.com/file/d/1mlFQXA2gE_IpLNz07ky91bU0DpuW8S2t/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "En la expresión 'Jóvenes, delante está su porvenir', el adverbio subrayado ('delante') expresa semánticamente según la clasificación del texto:",
+    "opciones": [
+      "Organización o sucesión de eventos.",
+      "Período, época o ciclo temporal.",
+      "Situación, lugar, espacio, orientación y ubicación.",
+      "Maneras, costumbres, modalidades o procedimientos."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "De acuerdo con el documento, las palabras 'cuandoquiera', 'previamente' y 'ya' pertenecen estructuralmente a la categoría de adverbios de:",
+    "opciones": [
+      "Modo",
+      "Tiempo",
+      "Orden",
+      "Duda"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'Carlos apenas pudo hablar', ¿qué indica semánticamente el adverbio resaltado ('apenas') según su clasificación?",
+    "opciones": [
+      "Parte, porción o trozo.",
+      "Inseguridad, incertidumbre o vacilación.",
+      "Maneras, costumbres, modalidades o procedimientos.",
+      "Situación, orientación o ubicación espacial."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué grupo de palabras está conformado EXCLUSIVAMENTE por adverbios de cantidad, según la teoría analizada en el texto?",
+    "opciones": [
+      "harto, muy, apenas, tan",
+      "poco, mucho, tanto, medio",
+      "bastante, demasiado, casi, aprisa",
+      "cuan, cuanto, algo, tal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el enunciado 'Primeramente, habló el director y seguidamente el profesor', los adverbios utilizados indican fundamentalmente:",
+    "opciones": [
+      "Épocas, ciclos o sucesos cronológicos.",
+      "Maneras, costumbres o procedimientos formales.",
+      "Orden, agrupación, organización o sucesión.",
+      "Certeza, aseveración o confirmación de eventos."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Los adverbios 'seguro', 'ciertamente' e 'indudablemente' cumplen la función gramatical de señalar:",
+    "opciones": [
+      "Agrupación y organización de las ideas.",
+      "Certeza, aseveración, confirmación o ratificación.",
+      "Inseguridad, incertidumbre, titubeo o vacilación.",
+      "Maneras o modalidades específicas de ejecución."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Identifique la oración que incluye un adverbio cuya función es señalar objeción, impugnación, refutación o contradicción, de acuerdo con el texto.",
+    "opciones": [
+      "Los resultados fueron valorados positivamente por el jurado.",
+      "Con nada me conformo en esta difícil situación.",
+      "A lo mejor vuelves a soñar esta misma noche.",
+      "Últimamente estoy llegando puntual a mi trabajo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la expresión 'Quién sabe si nos volvamos a encontrar', la locución adverbial subrayada ('Quién sabe') denota directamente:",
+    "opciones": [
+      "Impugnación o refutación de un hecho.",
+      "Inseguridad, incertidumbre, titubeo o vacilación.",
+      "Procedimientos o costumbres cotidianas.",
+      "Parte o porción inespecífica del suceso principal."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el documento, los adverbios terminados en '-mente' (como 'fácilmente' o 'rápidamente') en su gran mayoría pertenecen a la clase de adverbios de:",
+    "opciones": [
+      "Tiempo",
+      "Afirmación",
+      "Modo",
+      "Orden"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se forman morfológicamente los adverbios terminados en '-mente' según la normativa descrita en el apartado correspondiente?",
+    "opciones": [
+      "Mediante la unión de un sustantivo común y el sufijo '-mente'.",
+      "A través de la suma de un adjetivo más el sufijo '-mente'.",
+      "Añadiendo el sufijo '-mente' a cualquier verbo en infinitivo.",
+      "Combinando un pronombre demostrativo con el sufijo '-mente'."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Lea los siguientes ejemplos: I. 'Junto a ti está tu madre'. II. 'Pronto daremos el siguiente examen'. III. 'Las tortugas caminan despacio'. ¿Qué clases de adverbios se presentan respectivamente?",
+    "opciones": [
+      "Lugar - Cantidad - Tiempo",
+      "Lugar - Tiempo - Modo",
+      "Modo - Afirmación - Orden",
+      "Duda - Tiempo - Modo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el enunciado 'Mis amigos están muy preocupados por ti', el adverbio 'muy' sirve gramaticalmente para expresar:",
+    "opciones": [
+      "Parte, porción o trozo (adverbio de cantidad).",
+      "Modalidad o procedimiento (adverbio de modo).",
+      "Confirmación o aserción (adverbio de afirmación).",
+      "Organización o sucesión (adverbio de orden)."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Teniendo en cuenta las subclasificaciones expuestas, ¿a qué categorías gramaticales pertenecen las palabras 'tampoco' y 'positivamente' respectivamente?",
+    "opciones": [
+      "Duda y Modo.",
+      "Negación y Afirmación.",
+      "Negación y Modo.",
+      "Afirmación y Tiempo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si analizamos las expresiones 'aún' y 'acaso', podemos afirmar basándonos de manera estricta en el texto que:",
+    "opciones": [
+      "'Aún' señala período o época; y 'acaso' señala titubeo o vacilación.",
+      "Ambas denotan inseguridad e incertidumbre en la oración.",
+      "'Aún' es un adverbio de cantidad y 'acaso' es un adverbio de tiempo.",
+      "Ambas señalan objeción, refutación o impugnación de un hecho."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Analice la oración: 'Verdaderamente este trabajo es excelente'. Según el texto, la palabra 'Verdaderamente' ejemplifica un adverbio que proviene originariamente de la adición del sufijo '-mente' a un:",
+    "opciones": [
+      "Pronombre demostrativo neutro.",
+      "Sustantivo abstracto de cualidad.",
+      "Adverbio de duda primitivo.",
+      "Adjetivo."
+    ],
+    "correcta": 3
+  }
+          ]
+        },
+        {
+          "titulo": "Parte 5",
+          "youtube_id": "yjZD-ePcFgA",
+          "pdf_link": "https://drive.google.com/file/d/1AyhG6n4jgkw2GOHJVY91gQCsABPWd-wc/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según el texto, ¿cuál de las siguientes oraciones presenta un uso CORRECTO de los adverbios de lugar?",
+    "opciones": [
+      "Lo encontré abajo de la mesa.",
+      "Íbamos adelante del profesor.",
+      "Se puso detrás de ti.",
+      "Se puso atrás de ti."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la forma correcta de expresar 'Íbamos adelante del profesor' según el documento normativo?",
+    "opciones": [
+      "Íbamos delante del profesor.",
+      "Íbamos por adelante del profesor.",
+      "Íbamos más adelante del profesor.",
+      "Íbamos en adelante del profesor."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En la oración 'Tenemos poco dinero', la palabra 'poco' funciona normativamente como:",
+    "opciones": [
+      "Adverbio invariable de cantidad.",
+      "Adjetivo, ya que modifica directamente a un sustantivo.",
+      "Pronombre indefinido de cantidad.",
+      "Sustantivo abstracto de carencia."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En cuál de los siguientes casos la palabra 'mucho' funciona como un ADVERBIO y NO como un adjetivo, según los ejemplos del texto?",
+    "opciones": [
+      "Hace mucho frío en la ciudad.",
+      "Desprende mucho humo de esa chimenea.",
+      "Tenemos mucho dinero ahorrado.",
+      "Lo hice mucho mejor que la vez pasada."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Basándose en la regla de invariabilidad de ciertos adverbios, ¿cuál de las siguientes expresiones es CORRECTA?",
+    "opciones": [
+      "Ella está media fatigada por el largo viaje.",
+      "La niña lo hizo de pura tonta.",
+      "Está medio fatigada luego del entrenamiento.",
+      "Sus amigos están pocos molestos con él."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La expresión 'Lo hizo de pura tonta' es considerada INCORRECTA porque:",
+    "opciones": [
+      "La preposición 'de' es totalmente innecesaria en este tipo de oraciones.",
+      "El sustantivo 'tonta' debe ir acompañado de un adjetivo variable.",
+      "El adverbio 'puro' es invariable y no debe concordar en género con el adjetivo.",
+      "El adverbio debe escribirse en grado superlativo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿En qué caso específico la palabra 'medio' SÍ puede variar de género y número de manera correcta?",
+    "opciones": [
+      "Cuando se antepone como adverbio a un verbo conjugado en femenino.",
+      "Cuando funciona como adjetivo modificando a un sustantivo (ej. media naranja).",
+      "Cuando modifica a un adjetivo calificativo femenino plural.",
+      "Cuando actúa como un adverbio de modo antepuesto a un pronombre."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Marque la alternativa que muestra un uso INCORRECTO al aplicar variaciones de género o número en palabras que deberían ser invariables.",
+    "opciones": [
+      "Sus padres están poco molestos.",
+      "Compró medio litro de leche.",
+      "Está media fatigada por el clima.",
+      "Lo hizo de puro tonta."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "De acuerdo con las reglas presentadas en el material, resulta inadecuado y agramatical anteponer la preposición 'en' a los:",
+    "opciones": [
+      "Adverbios de tiempo.",
+      "Adjetivos comparativos.",
+      "Pronombres indefinidos.",
+      "Adverbios locativos."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes oraciones presenta un uso CORRECTO de los adverbios locativos al omitir una preposición inadecuada?",
+    "opciones": [
+      "En aquí lo dejé sobre la mesa.",
+      "Aquí lo dejé.",
+      "En allí nos veremos más tarde.",
+      "En acá me quedaré a esperarte."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según la normativa expuesta, ¿con qué tipo de adjetivos NO puede combinarse nunca el adverbio 'más'?",
+    "opciones": [
+      "Con los adjetivos demostrativos neutros.",
+      "Con los adjetivos comparativos mejor, peor, inferior y superior.",
+      "Con los adjetivos calificativos terminados en '-ísimo'.",
+      "Con los adjetivos numerales ordinales y partitivos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Marque la opción CORRECTA que corrige el error en la expresión vulgar 'Mi muñeca es más mejor'.",
+    "opciones": [
+      "Mi muñeca es mucho más mejor.",
+      "Mi muñeca es la más superior.",
+      "Mi muñeca es la mejor.",
+      "Mi muñeca es superior mejor."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la posición ortográfica correcta del adverbio 'más' cuando interactúa en la oración con los vocablos 'nadie' y 'nada'?",
+    "opciones": [
+      "Siempre va antepuesto a dichas palabras (ej. más nadie).",
+      "Va obligatoriamente pospuesto a dichas palabras (ej. nadie más).",
+      "Se coloca invariablemente al final del predicado nominal.",
+      "Se sustituye siempre por el adverbio de cantidad 'mucho'."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Señale la oración que contiene un error normativo evidente en el uso del adverbio, según las reglas estudiadas.",
+    "opciones": [
+      "No vino nadie más a la ceremonia.",
+      "Me quedaré acá a esperar tu llamada.",
+      "Sus padres están pocos molestos con los vecinos.",
+      "Últimamente estudia poco para ingresar a la universidad."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Identifique la oración que es COMPLETAMENTE CORRECTA y respeta todas las normativas presentadas en el documento.",
+    "opciones": [
+      "Se puso atrás de ti y actuó de pura envidiosa.",
+      "En allí la encontré, debajo de la mesa de madera.",
+      "No vino más nadie, así que me fui a mi casa.",
+      "Allí nos veremos; sus padres están poco molestos."
+    ],
+    "correcta": 3
+  }
+          ]
+        },
+        {
+          "titulo": "Parte 6",
+          "youtube_id": "1UUqUiTY4LQ",
+          "pdf_link": "https://drive.google.com/file/d/1cn04HOmg4x4UNATVeRv4tqzyKo2LOoTH/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según el texto, ¿cómo se define teóricamente a una locución o frase adverbial?",
+    "opciones": [
+      "Como una palabra invariable que modifica exclusivamente al verbo principal.",
+      "Como una expresión fija constituida por varias palabras que equivale a un solo adverbio.",
+      "Como un conjunto de adjetivos unidos por preposiciones que califican al sujeto.",
+      "Como una frase nominal que reemplaza a los determinantes en la oración."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De acuerdo con el documento, ¿cuál es la característica sintáctica principal de expresiones como 'en un dos por tres' o 'a brazo partido'?",
+    "opciones": [
+      "Que equivalen a un solo adverbio en la oración.",
+      "Que funcionan invariablemente como núcleos del sujeto.",
+      "Que actúan como verbos en forma no personal.",
+      "Que siempre se anteponen al adjetivo calificativo."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En la oración 'Resolvió el ejercicio en un dos por tres', la frase resaltada cumple la función de:",
+    "opciones": [
+      "Locución adjetiva",
+      "Conjunción coordinante",
+      "Frase adverbial",
+      "Complemento preposicional"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué alternativa presenta una oración con una locución adverbial extraída literalmente de los ejemplos del texto?",
+    "opciones": [
+      "Lucharé con todas mis fuerzas.",
+      "Lucharé sin dudarlo.",
+      "Lucharé hasta el final.",
+      "Lucharé a brazo partido."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Según la clasificación estudiada, en la oración 'Esta parrillada está a pedir de boca', la estructura 'a pedir de boca' equivale gramaticalmente a:",
+    "opciones": [
+      "Un solo sustantivo abstractivo.",
+      "Un adjetivo en grado superlativo.",
+      "Un solo adverbio.",
+      "Una proposición subordinada."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Identifique la opción que NO contiene una locución adverbial mencionada en los ejemplos del texto.",
+    "opciones": [
+      "A las mil maravillas",
+      "A buen recaudo",
+      "A tontas y a locas",
+      "A los cuatro vientos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el enunciado 'Camina con pies de plomo', ¿qué categoría gramatical representa la frase 'con pies de plomo' dentro del contexto del documento?",
+    "opciones": [
+      "Frase adverbial",
+      "Locución prepositiva",
+      "Atributo nominal",
+      "Aposición explicativa"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Seleccione la frase adverbial que completa correctamente el siguiente enunciado extraído del texto: 'Esa pareja pelea...'",
+    "opciones": [
+      "frecuentemente.",
+      "como perro y gato.",
+      "de sol a sol.",
+      "a capa y espada."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'La madre la defendió a capa y espada', la expresión 'a capa y espada' es clasificada por el autor como:",
+    "opciones": [
+      "Locución conjuntiva",
+      "Frase nominal compuesta",
+      "Locución adverbial",
+      "Sustantivo colectivo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Analizando la oración 'Trabajaremos el día viernes de sol a sol', se puede afirmar que la locución adverbial presente es:",
+    "opciones": [
+      "Trabajaremos el día",
+      "de sol a sol",
+      "el día viernes",
+      "viernes de sol"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la expresión 'Ella propaló la noticia a los cuatro vientos', la frase 'a los cuatro vientos' se caracteriza sintácticamente por:",
+    "opciones": [
+      "Modificar a la preposición principal.",
+      "Ser una expresión fija que equivale a un adverbio.",
+      "Reemplazar al sujeto de la oración.",
+      "Ser el núcleo del predicado verbal."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el texto proporcionado, la frase 'a carta cabal' en la oración 'Él es un hombre a carta cabal' se encuentra dentro de la categoría de:",
+    "opciones": [
+      "Locuciones adverbiales",
+      "Adjetivos epítetos",
+      "Sustantivos concretos",
+      "Verbos pronominales"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "De las siguientes oraciones, ¿cuál emplea una locución adverbial para describir el resultado excelente de un evento, según los ejemplos del texto?",
+    "opciones": [
+      "Todo el plan resultó a pedir de boca.",
+      "Todo el plan resultó a carta cabal.",
+      "Todo el plan resultó a las mil maravillas.",
+      "Todo el plan resultó en un dos por tres."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Identifique la frase adverbial en la oración 'Se puso a buen recaudo'.",
+    "opciones": [
+      "Se puso",
+      "a buen recaudo",
+      "puso a buen",
+      "buen recaudo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el enunciado 'Ellos comieron a más no poder', la expresión 'a más no poder' ejemplifica una locución que equivale a:",
+    "opciones": [
+      "Un determinante indefinido.",
+      "Un solo adverbio.",
+      "Un conector adversativo.",
+      "Un verbo compuesto auxiliar."
+    ],
+    "correcta": 1
+  }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 12: Verbo",
+      "pdf_resuelto": "",
+      "videos": [
+        {
+          "titulo": "Parte 1",
+          "youtube_id": "Xn6AjrG-dII",
+          "pdf_link": "https://drive.google.com/file/d/1UtUCU_3FAUfUeiQzxvh7fhEPDlNq-Z8n/view",
           "gratis": false,
           "preguntas": []
         },
         {
-          "titulo": "11.2 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_13.2",
+          "titulo": "Parte 2",
+          "youtube_id": "qgUbaDTjNXQ",
+          "pdf_link": "https://drive.google.com/file/d/1hCbBQ8G9LfttydFIA_NWHDVx7_zmucTU/view",
           "gratis": false,
           "preguntas": []
         },
         {
-          "titulo": "11.3 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_13.3",
+          "titulo": "Parte 3",
+          "youtube_id": "lnL5UQHonFU",
+          "pdf_link": "https://drive.google.com/file/d/1ZH0nTa8NoPthWxmKTHlzFrQ0SMNI3HVT/view",
           "gratis": false,
           "preguntas": []
         }
       ]
     },
     {
-      "titulo": "Tema 12: Pronto",
+      "titulo": "Tema 13: Conectores lógicos y Conjunción",
       "pdf_resuelto": "",
       "videos": [
         {
-          "titulo": "12.1 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_14.1",
+          "titulo": "Parte 1",
+          "youtube_id": "K12OxDW9Ci8",
+          "pdf_link": "https://drive.google.com/file/d/1VknD0VjU6aTX4fTghq0RwELyPvtI-W_-/view",
           "gratis": false,
           "preguntas": []
         },
         {
-          "titulo": "12.2 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_14.2",
-          "gratis": false,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 13: Pronto",
-      "pdf_resuelto": "",
-      "videos": [
-        {
-          "titulo": "13.1 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_15.1",
+          "titulo": "Parte 2",
+          "youtube_id": "gIlyosSwGFU",
+          "pdf_link": "https://drive.google.com/file/d/1MzmvsCQekg9MM7f9Rxb_bl4dGGgOrvKA/view",
           "gratis": false,
           "preguntas": []
         },
         {
-          "titulo": "13.2 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_15.2",
+          "titulo": "Parte 3",
+          "youtube_id": "iFb5l8pHnAo",
+          "pdf_link": "https://drive.google.com/file/d/1sm-ZM9TcQkawnzuZnlt70bruXpfQiXwm/view",
           "gratis": false,
           "preguntas": []
         },
         {
-          "titulo": "13.3 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_15.3",
+          "titulo": "Parte 4",
+          "youtube_id": "4zSec1HBRxg",
+          "pdf_link": "https://drive.google.com/file/d/1QGXe6QauFXd1vS4gJKsa_fItLZPmM-6V/view",
           "gratis": false,
           "preguntas": []
         }
