@@ -8380,21 +8380,474 @@
           "youtube_id": "Xn6AjrG-dII",
           "pdf_link": "https://drive.google.com/file/d/1UtUCU_3FAUfUeiQzxvh7fhEPDlNq-Z8n/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "Según el criterio semántico, ¿cómo se define formalmente al verbo dentro de la oración?",
+    "opciones": [
+      "Palabra invariable que funciona como nexo subordinante entre los constituyentes.",
+      "Categoría gramatical variable que asume exclusivamente los accidentes de género y número.",
+      "Palabra lexical que expresa acción, inacción, pasión, estado, existencia y transformación de los seres.",
+      "Elemento que señala las circunstancias espaciales, de tiempo y modo del sujeto."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Desde el punto de vista del criterio morfológico, el verbo es una palabra variable. ¿Cuáles son los accidentes gramaticales que presenta?",
+    "opciones": [
+      "Género, número, persona, tiempo y voz.",
+      "Número, persona, tiempo, modo y aspecto.",
+      "Persona, tiempo, modo, aspecto y género.",
+      "Número, grado, tiempo, aspecto y voz."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el análisis sintáctico de la oración \"Marco ha de comprar libros\", la estructura que funciona como núcleo del predicado (\"ha de comprar\") se denomina:",
+    "opciones": [
+      "Forma simple",
+      "Forma compuesta",
+      "Forma copulativa",
+      "Forma perifrástica"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál es la característica sintáctica principal de los verbos copulativos (como ser, estar, yacer o permanecer)?",
+    "opciones": [
+      "Expresar una acción que transita directamente hacia un objeto explícito.",
+      "Actuar como núcleo de predicado independiente sin requerir elementos adicionales.",
+      "Servir de nexo entre el sujeto y su atributo para completar un sentido pleno.",
+      "Reflejar una acción que recae de manera mutua y recíproca entre los sujetos."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "A diferencia de los verbos copulativos, los verbos predicativos o no copulativos se distinguen porque:",
+    "opciones": [
+      "Exigen obligatoriamente la presencia de un complemento de régimen.",
+      "Carecen de significado lexical propio fuera de un contexto comunicativo.",
+      "Por sí solos expresan una idea con sentido pleno, indicando acción, inacción o pasión.",
+      "No pueden conjugarse en los tiempos compuestos con el auxiliar haber."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué elemento sintáctico está presente obligatoriamente en una oración que contiene un verbo transitivo (como en el ejemplo \"Lucila tejerá chompas\")?",
+    "opciones": [
+      "Un atributo",
+      "Un complemento circunstancial",
+      "Un complemento agente",
+      "Un complemento directo (CD)"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En el enunciado \"Mi vecina viajó a Sicuani\", el verbo \"viajó\" se clasifica como intransitivo fundamentalmente porque:",
+    "opciones": [
+      "La acción no transita del sujeto a un objeto directo, admitiendo en su lugar un circunstancial.",
+      "Su acción recae de forma exclusiva y reflexiva en el pronombre personal.",
+      "Presenta un cuadro flexivo incompleto por razones morfofonológicas.",
+      "Exige ineludiblemente la presencia de un adjetivo que funcione como atributo."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En los verbos reflexivos o reflejos, los pronombres personales (me, te, se, nos, os) asumen una función gramatical específica. Según el texto, ¿cuál es?",
+    "opciones": [
+      "Actuar exclusivamente como preposiciones o modificadores indirectos.",
+      "Desempeñarse como atributos nominales del sujeto.",
+      "Funcionar sintácticamente como complemento directo (CD) y complemento indirecto (CI).",
+      "Otorgar un simple énfasis a la acción verbal sin cumplir función sintáctica alguna."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el rasgo distintivo que diferencia a los verbos cuasireflexivos de los verdaderamente reflexivos?",
+    "opciones": [
+      "Los pronombres átonos en los cuasireflexivos actúan obligatoriamente como complementos directos.",
+      "Admiten el refuerzo \"a sí mismo\" para darle mayor énfasis expresivo a la oración.",
+      "Los pronombres actúan solo como refuerzo sin representar transitividad (no son CD ni CI), y no aceptan el refuerzo \"mismo(a)\".",
+      "Exigen la presencia de un sujeto compuesto y plural para que la acción se ejecute mutuamente."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración \"Gloria y yo nos abrazamos\", el pronombre \"nos\" indica que la acción es mutua y acepta el refuerzo \"recíprocamente\". Este verbo se clasifica como:",
+    "opciones": [
+      "Cuasireflejo",
+      "Recíproco",
+      "Copulativo",
+      "Intransitivo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Analice la oración: \"Cuentan que viajaste a Europa\". Según el documento, el verbo \"cuentan\" actúa aquí como impersonal debido a que:",
+    "opciones": [
+      "Expresa un fenómeno natural que no puede ser ejecutado por un humano.",
+      "Se emplea en tercera persona del plural porque no se conoce o no se quiere precisar el sujeto.",
+      "Presenta el signo de impersonalidad pronominal \"se\" en su estructura semántica.",
+      "Carece de conjugación en los modos indicativo y subjuntivo por estar en desuso."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué fenómeno morfológico ocurre en verbos como \"contar\" (cuento) o \"volver\" (vuelvo) para que sean catalogados en el grupo de verbos irregulares?",
+    "opciones": [
+      "Mantienen su raíz inalterable, pero cambian radicalmente todas sus desinencias.",
+      "Pierden obligatoriamente la vocal temática en su conjugación del pretérito perfecto.",
+      "Presentan alteraciones o cambios vocálicos en su raíz al momento de ser conjugados.",
+      "Modifican todas sus consonantes finales reemplazándolas por el morfema invariable \"se\"."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Los verbos como \"abolir\", \"atañer\", \"soler\" y \"balbucir\" pertenecen a la categoría de verbos defectivos. Esto implica que:",
+    "opciones": [
+      "Sus raíces mutan completamente originando múltiples formas léxicas en todos los tiempos.",
+      "Presentan un cuadro flexivo incompleto, no conjugándose en ciertos tiempos o personas.",
+      "Sirven únicamente como verbos copulativos y carecen de significado léxico propio.",
+      "Exigen la forma pronominal recíproca o reflexiva obligatoria para ser comprendidos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De acuerdo con las restricciones de los verbos defectivos, las conjugaciones \"acaezco\" o \"ataño\" referidas a la primera persona son inaceptables gramaticalmente por motivos:",
+    "opciones": [
+      "Morfofonológicos o de cacofonía extrema.",
+      "De redundancia sintáctica con el sujeto pronominal.",
+      "Semánticos o lógicos (resultan ilógicas o absurdas para el hablante).",
+      "Léxicos (son vocablos que ya han caído totalmente en el desuso)."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿A qué subcategoría pertenecen los verbos onomatopéyicos de animales y objetos (como ladrar, graznar o traquetear) que solo admiten conjugación en tercera persona?",
+    "opciones": [
+      "Verbos cuasireflexivos perifrásticos",
+      "Verbos copulativos absolutos",
+      "Verbos transitivos imperfectivos",
+      "Verbos defectivos unipersonales o terciopersonales"
+    ],
+    "correcta": 3
+  }
+          ]
         },
         {
           "titulo": "Parte 2",
           "youtube_id": "qgUbaDTjNXQ",
           "pdf_link": "https://drive.google.com/file/d/1hCbBQ8G9LfttydFIA_NWHDVx7_zmucTU/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "Según el documento, ¿cuál es el accidente gramatical que expresa la cantidad de personas que realizan o reciben la acción verbal?",
+    "opciones": [
+      "La persona",
+      "El número",
+      "El tiempo",
+      "El aspecto"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Teniendo en cuenta el accidente gramatical de 'Persona', ¿a qué papel del interlocutor corresponde la segunda persona (tú)?",
+    "opciones": [
+      "Quien habla",
+      "A quien se habla",
+      "De quien se habla",
+      "Quien recibe pasivamente la acción"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo están conformados estrictamente los tiempos verbales compuestos, de acuerdo con el texto?",
+    "opciones": [
+      "Por el verbo auxiliar 'ser' más un gerundio.",
+      "Por el verbo auxiliar 'haber' más el verbo principal en participio pasivo.",
+      "Por dos verbos conjugados en modo indicativo.",
+      "Por un verbo principal en infinitivo precedido de una preposición."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Identifique la oración en la que el verbo se encuentra conjugado en tiempo COMPUESTO.",
+    "opciones": [
+      "La secretaria redacta documentos oficiales.",
+      "Pedro come pastel de choclo.",
+      "Habíamos pensado en el problema toda la noche.",
+      "Ana preparó asado de cordero."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En cuanto al aspecto verbal, ¿qué característica define esencialmente al aspecto imperfectivo?",
+    "opciones": [
+      "Indica que la acción está concluida, sin posibilidad de repetición.",
+      "Señala una acción incierta proyectada al futuro.",
+      "Indica que la acción no está concluida y hay posibilidad de que se repita.",
+      "Expresa obligatoriamente un mandato o ruego en segunda persona."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué formas verbales ejemplifican de manera correcta el aspecto perfectivo según la tabla del documento?",
+    "opciones": [
+      "He cantado, había cantado, habré cantado.",
+      "Canto, cantaba, cantaré, cantaría.",
+      "Canto, he cantado, habré cantado.",
+      "Cantaré, cantaría, habría cantado."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "El aspecto que señala una 'acción incierta proyectada en el futuro cuya ejecución puede realizarse o no' se denomina:",
+    "opciones": [
+      "Perfectivo compuesto",
+      "Imperfectivo",
+      "Subjuntivo",
+      "Neutro"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cómo se define el modo indicativo en función de la intención del enunciante?",
+    "opciones": [
+      "Manifiesta la acción de manera subjetiva como duda o deseo.",
+      "Afirma o niega la acción de manera real y objetiva, con seguridad o certeza.",
+      "Expresa una orden o mandato de cumplimiento obligatorio.",
+      "Señala si el sujeto ejecuta o recibe pasivamente una acción."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según los ejemplos literales del texto, ¿cuál de las siguientes oraciones presenta el verbo en modo INDICATIVO?",
+    "opciones": [
+      "Queremos que Manuel escriba poemas.",
+      "Tal vez viajen a Juliaca.",
+      "Temo que no cumpla su promesa.",
+      "Estos niños cantarían bien."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes alternativas es un claro ejemplo del modo subjuntivo?",
+    "opciones": [
+      "Manuel escribe poemas.",
+      "Kelly terminó la tarea.",
+      "Temo que no cumpla su promesa.",
+      "Manuel, abre las cortinas."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el modo imperativo, la intención del hablante se dirige específicamente a expresar mandato, ruego o sugerencia hacia la:",
+    "opciones": [
+      "Tercera persona del singular o plural.",
+      "Primera persona del plural exclusivamente.",
+      "Segunda persona.",
+      "Forma impersonal del verbo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el enunciado 'Estudien con esmero, jóvenes', el verbo 'estudien' cumple con las características morfológicas y semánticas del modo:",
+    "opciones": [
+      "Indicativo",
+      "Subjuntivo",
+      "Imperativo",
+      "Neutro"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según la nota del documento sobre la voz verbal, ¿cuándo se considera que una oración está en voz pasiva?",
+    "opciones": [
+      "Cuando el sujeto realiza directamente la acción del verbo.",
+      "Cuando la acción está proyectada de manera incierta en el futuro.",
+      "Cuando se emplea el modo imperativo con seguridad.",
+      "Cuando el sujeto recibe la acción verbal."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Marque la alternativa que presenta una estructura correcta de oración en VOZ PASIVA, extraída del texto.",
+    "opciones": [
+      "El profesor asesora a los alumnos.",
+      "La madera fue devorada por el fuego.",
+      "Ese muchacho lee El Quijote.",
+      "Rusia ha invadido a Ucrania."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Al transformar la oración activa 'Rusia ha invadido a Ucrania' a voz pasiva, la forma correcta que muestra el documento es:",
+    "opciones": [
+      "Ucrania fue invadida por Rusia.",
+      "Rusia fue invadida por Ucrania.",
+      "Ucrania ha sido invadido por Rusia.",
+      "Rusia ha sido invadida por Ucrania."
+    ],
+    "correcta": 2
+  }
+          ]
         },
         {
           "titulo": "Parte 3",
           "youtube_id": "lnL5UQHonFU",
           "pdf_link": "https://drive.google.com/file/d/1ZH0nTa8NoPthWxmKTHlzFrQ0SMNI3HVT/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "Según el documento, ¿qué verbo auxiliar se utiliza específicamente para estructurar la voz pasiva en una oración?",
+    "opciones": [
+      "Haber",
+      "Estar",
+      "Ser",
+      "Hacer"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración 'Lilia ha bailado con Fredy', ¿qué función cumple el verbo 'haber' según la teoría de verbos auxiliares?",
+    "opciones": [
+      "Actúa como auxiliar de un gerundio para indicar una acción en proceso.",
+      "Sirve para formar los tiempos compuestos acompañando a un participio.",
+      "Forma la voz pasiva transformando al sujeto en paciente.",
+      "Funciona como núcleo absoluto del predicado nominal."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la razón fundamental por la cual los verboides reciben la denominación de 'formas no personales del verbo'?",
+    "opciones": [
+      "Porque expresan acciones realizadas por sujetos inanimados.",
+      "Porque no están conjugados en ninguna persona gramatical.",
+      "Porque carecen de significado propio si no están junto a un verbo auxiliar.",
+      "Porque solo pueden ser utilizados en proposiciones subordinadas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De acuerdo con el texto, si un verboide se encuentra en la oración sin la compañía de un verbo auxiliar, ¿qué sucede con su función gramatical?",
+    "opciones": [
+      "Cumple la función de otras categorías (sustantivo, adjetivo, adverbio).",
+      "Se convierte automáticamente en el núcleo verbal del predicado.",
+      "Genera una oración unimembre de carácter impersonal.",
+      "Adquiere de forma independiente los accidentes de tiempo y modo."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué categoría gramatical asume el infinitivo y cuál es su función sintáctica principal dentro del grupo nominal?",
+    "opciones": [
+      "Forma adverbial / Circunstancial",
+      "Forma adjetiva / Modificador directo",
+      "Forma verbal / Núcleo del predicado",
+      "Forma sustantiva / Núcleo del sujeto"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Analizando los ejemplos del texto, ¿cómo se forma morfológicamente un infinitivo compuesto (como en 'El haberte amado')?",
+    "opciones": [
+      "Con el verbo auxiliar 'haber' más el participio.",
+      "Con el verbo auxiliar 'ser' más un gerundio.",
+      "Con el verbo 'estar' más el infinitivo simple.",
+      "Con el verbo auxiliar 'habiendo' más un participio pasivo."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Sintácticamente, se afirma que el gerundio es la forma adverbial del verbo debido a que funciona como:",
+    "opciones": [
+      "Modificador directo",
+      "Circunstancial",
+      "Atributo del sujeto",
+      "Complemento predicativo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el enunciado 'Eliseo trabaja acarreando agua', la palabra subrayada ('acarreando') se clasifica estructuralmente como un:",
+    "opciones": [
+      "Infinitivo simple",
+      "Gerundio compuesto",
+      "Gerundio simple",
+      "Participio activo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Teniendo en cuenta la clasificación de los verboides, la frase 'Habiendo concluido mi trabajo' presenta una estructura correspondiente a un:",
+    "opciones": [
+      "Infinitivo compuesto",
+      "Participio pasivo irregular",
+      "Gerundio compuesto",
+      "Participio activo derivado"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "A diferencia del infinitivo y el gerundio, el participio se caracteriza morfológicamente porque:",
+    "opciones": [
+      "Mantiene una forma estrictamente invariable en cualquier contexto.",
+      "Presenta flexiones de género y número.",
+      "Carece de valor perfectivo en su significación.",
+      "Termina de manera exclusiva en las sílabas -ando, -iendo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué clasificación corresponden las formas verbales que terminan en '-ado' e '-ido', tales como 'amado' o 'vivido'?",
+    "opciones": [
+      "Participio pasivo regular",
+      "Participio pasivo irregular",
+      "Participio activo",
+      "Gerundio simple"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según el documento, las palabras 'satisfecho', 'escrito', 'impreso' y 'fijo' son ejemplos representativos de los:",
+    "opciones": [
+      "Gerundios irregulares",
+      "Participios activos",
+      "Infinitivos compuestos",
+      "Participios pasivos irregulares"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "De acuerdo con el texto, ¿qué función sintáctica o de categoría cumplen los participios activos (como 'amante' u 'oyente') en la oración?",
+    "opciones": [
+      "Funcionan exclusivamente como adverbios de modo.",
+      "Funcionan como sustantivos o como adjetivos.",
+      "Desempeñan siempre el papel de verbo auxiliar.",
+      "Cumplen la función ineludible de circunstanciales de tiempo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'Aquí tenemos al primer postulante apto de este concurso', la palabra 'postulante' evidencia el uso de un:",
+    "opciones": [
+      "Participio pasivo regular",
+      "Gerundio simple adjetivado",
+      "Participio activo",
+      "Infinitivo sustantivado"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Identifique la opción que demuestra la aplicación del verbo auxiliar 'estar' junto a un gerundio, tal como se muestra en los ejemplos del material.",
+    "opciones": [
+      "Mi casa es construida por los albañiles.",
+      "El vivir en paz es tarea de todos.",
+      "Están preparando el almuerzo.",
+      "El gobernador fue acusado por actos de nepotismo."
+    ],
+    "correcta": 2
+  }
+          ]
         }
       ]
     },
@@ -8403,92 +8856,3024 @@
       "pdf_resuelto": "",
       "videos": [
         {
-          "titulo": "Parte 1",
+          "titulo": "Conectores Lógicos -P1",
           "youtube_id": "K12OxDW9Ci8",
           "pdf_link": "https://drive.google.com/file/d/1VknD0VjU6aTX4fTghq0RwELyPvtI-W_-/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "Según el criterio semántico, ¿cómo se define a la preposición dentro de la oración?",
+    "opciones": [
+      "Posee un significado léxico propio e independiente del contexto.",
+      "No tiene significación por sí sola y su sentido es de carácter contextual.",
+      "Expresa invariablemente los accidentes de género y número del sustantivo.",
+      "Modifica de manera directa al verbo indicando sus circunstancias de acción."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Desde el punto de vista del criterio morfológico, la preposición se clasifica formalmente como una palabra:",
+    "opciones": [
+      "Variable, pues asume morfemas flexivos dependientes del núcleo verbal.",
+      "Derivada, ya que se forma a partir de la sustantivación de ciertos adjetivos.",
+      "Invariable, debido a que carece de morfemas y no sufre variaciones formales.",
+      "Concordante, porque siempre adopta el género gramatical del núcleo del sujeto."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función sintáctica fundamental que cumple la preposición según el texto analizado?",
+    "opciones": [
+      "Funciona como núcleo principal del predicado nominal en oraciones simples.",
+      "Actúa como complemento circunstancial de modo exclusivo de verbos copulativos.",
+      "Funciona invariablemente como modificador directo del sustantivo al que precede.",
+      "Funciona como conectivo, conector o nexo subordinante entre elementos sintácticos."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En la oración 'Un perro con rabia debe estar aislado para evitar posibles problemas', ¿qué función específica cumple la preposición 'con' en el sujeto?",
+    "opciones": [
+      "Actuar como núcleo principal del sujeto paciente.",
+      "Encabezar al modificador indirecto del sujeto.",
+      "Funcionar como aposición explicativa del sustantivo.",
+      "Unir dos núcleos formando un sujeto compuesto."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De acuerdo con las utilidades en el predicado, ¿cuáles son las ÚNICAS preposiciones que pueden encabezar al complemento agente en oraciones en voz pasiva?",
+    "opciones": [
+      "A y para",
+      "Con y sin",
+      "Por y de",
+      "En y entre"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el enunciado 'Nos vemos a las cuatro de la tarde', la preposición 'a' denota un significado contextual específico de:",
+    "opciones": [
+      "Dirección o trayectoria de un sujeto.",
+      "Modo o procedimiento de una acción.",
+      "Tiempo o momento temporal exacto.",
+      "Lugar de destino físico del hablante."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Analizando el uso de la preposición 'con', ¿qué expresa exactamente en la oración 'Dame un té con leche'?",
+    "opciones": [
+      "El medio empleado para conseguir alguna cosa particular.",
+      "La compañía de personas en un evento determinado.",
+      "El contenido exacto y exclusivo de un recipiente.",
+      "La unión o mezcla simultánea de diferentes cosas."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Considerando los múltiples significados de la preposición 'de', ¿qué denota en la expresión 'Me gustan las películas de acción'?",
+    "opciones": [
+      "El origen o procedencia geográfica de la película.",
+      "El material del cual está constituido un objeto físico.",
+      "El tema o asunto central del que trata el sustantivo.",
+      "La posesión o pertenencia exclusiva sobre el sustantivo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración 'Conduciré desde mi casa hasta la montaña', las preposiciones resaltadas (desde / hasta) indican de manera respectiva:",
+    "opciones": [
+      "Principio de tiempo y término referencial de una acción.",
+      "Principio de lugar y término de lugar espacial o destino.",
+      "Origen geográfico y finalidad principal de la acción verbal.",
+      "Causa directa inicial y dirección inespecífica de llegada."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En cuál de las siguientes opciones la preposición 'en' se utiliza exclusivamente para indicar el MEDIO, según los ejemplos del documento?",
+    "opciones": [
+      "Estamos en el mes de mayo con mucho entusiasmo.",
+      "Nosotros estudiamos quechua en el Instituto de Idiomas.",
+      "El reloj sin correa estaba guardado en uno de esos cajones.",
+      "Ella va habitualmente a su trabajo en automóvil."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué diferencia de significado contextual existe entre las oraciones 'Este informe es para mi jefe' y 'Brindemos por Pedro'?",
+    "opciones": [
+      "La primera indica lugar de destino y la segunda indica tiempo exacto.",
+      "La primera indica finalidad y la segunda indica causa o motivo.",
+      "La primera indica modo de ejecución y la segunda medio de transporte.",
+      "Ambas preposiciones indican exactamente la misma idea de dirección."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el enunciado 'Francisco tiene una inclinación hacia el arte', la preposición 'hacia' se emplea gramaticalmente para señalar:",
+    "opciones": [
+      "Una dirección física en pleno movimiento.",
+      "Un término definitivo o culminación de la acción.",
+      "Un lugar exacto ubicado en medio de dos puntos.",
+      "Una tendencia, afinidad o propensión."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Según el texto, la preposición 'sobre' se utiliza para indicar 'lugar' (El examen está sobre la mesa) y también puede indicar:",
+    "opciones": [
+      "Carencia o privación total de un objeto o persona.",
+      "Situación de inferioridad o subordinación jerárquica.",
+      "Tema o asunto específico del que trata una conversación.",
+      "Orden de secuencia temporal entre diferentes sucesos."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "De la clasificación presentada en el documento, ¿cuáles son las dos preposiciones que se consideran gramaticalmente 'arcaicas' o 'arcaizantes'?",
+    "opciones": [
+      "Cabe y So",
+      "Pro y Vía",
+      "Mediante y Durante",
+      "Versus y Tras"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En la oración 'Prohibido arrojar basura so pena de arresto y multa', la preposición arcaizante 'so' equivale semánticamente en el español actual a:",
+    "opciones": [
+      "Junto a (indicando proximidad espacial).",
+      "Contra (señalando una abierta oposición).",
+      "Bajo (indicando situación de sometimiento o inferioridad).",
+      "Hacia (marcando una dirección o tendencia obligatoria)."
+    ],
+    "correcta": 2
+  }
+          ]
         },
         {
-          "titulo": "Parte 2",
+          "titulo": "Conectores Lógicos -P2",
           "youtube_id": "gIlyosSwGFU",
           "pdf_link": "https://drive.google.com/file/d/1MzmvsCQekg9MM7f9Rxb_bl4dGGgOrvKA/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "Según el documento, ¿cómo se definen las locuciones prepositivas?",
+    "opciones": [
+      "Como adverbios invariables que modifican obligatoriamente al núcleo del predicado.",
+      "Como agrupaciones de palabras que adquieren conjuntamente el sentido y el funcionamiento gramatical de las preposiciones.",
+      "Como preposiciones simples que se unen para formar conjunciones adversativas de subordinación.",
+      "Como frases nominales que reemplazan al sujeto y carecen de un sentido completo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la estructura gramatical exacta que conforma a la locución prepositiva 'a partir de'?",
+    "opciones": [
+      "Preposición + infinitivo + preposición",
+      "Participio + preposición",
+      "Preposición + sustantivo + preposición",
+      "Sustantivo + preposición"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En la oración 'Me fui de la casa debido a tu mal proceder', la locución 'debido a' corresponde al modelo estructural de:",
+    "opciones": [
+      "Sustantivo + preposición",
+      "Preposición + sustantivo + preposición",
+      "Participio + preposición",
+      "Preposición + infinitivo + preposición"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según el texto, las locuciones 'alrededor de' y 'respecto de' siguen fielmente el modelo estructural de:",
+    "opciones": [
+      "Preposición + sustantivo + preposición",
+      "Preposición + lo + adjetivo + preposición",
+      "Participio + preposición",
+      "Sustantivo + preposición"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Identifique la alternativa que presenta EXCLUSIVAMENTE locuciones prepositivas formadas por el esquema 'Preposición + sustantivo + preposición'.",
+    "opciones": [
+      "a causa de, a través de, en lugar de",
+      "debido a, relacionado con, respecto de",
+      "a partir de, en lo referente a, a lo largo de",
+      "alrededor de, en medio de, apunto de"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En el enunciado 'Caminaré a lo largo de la costa peruana', la locución prepositiva 'a lo largo de' presenta la siguiente conformación:",
+    "opciones": [
+      "Participio + preposición",
+      "Preposición + lo + adjetivo + preposición",
+      "Preposición + sustantivo + preposición",
+      "Preposición + infinitivo + preposición"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes locuciones prepositivas NO pertenece al modelo 'Preposición + sustantivo + preposición' de acuerdo con la clasificación del texto?",
+    "opciones": [
+      "con motivo de",
+      "en virtud de",
+      "a expensas de",
+      "relacionado con"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En la oración 'No he podido estudiar en lo referente a dicho tema', la estructura gramatical de la locución empleada ('en lo referente a') es:",
+    "opciones": [
+      "Preposición + infinitivo + preposición",
+      "Preposición + lo + adjetivo + preposición",
+      "Sustantivo + preposición",
+      "Participio + preposición"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según los modelos presentados en el texto, la expresión 'apunto de' (a punto de) se clasifica estructuralmente como:",
+    "opciones": [
+      "Preposición + infinitivo + preposición",
+      "Participio + preposición",
+      "Preposición + sustantivo + preposición",
+      "Sustantivo + preposición"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De la siguiente lista de locuciones: 'de acuerdo con', 'a fin de', 'en medio de' y 'por culpa de', se puede afirmar categóricamente que todas:",
+    "opciones": [
+      "Siguen el modelo 'Preposición + lo + adjetivo + preposición'.",
+      "Tienen como núcleo principal un participio pasivo.",
+      "Siguen el modelo 'Preposición + sustantivo + preposición'.",
+      "Siguen el modelo 'Sustantivo + preposición'."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el enunciado 'La profesora explica a través de mapas conceptuales', la locución prepositiva utilizada es:",
+    "opciones": [
+      "explica a",
+      "de mapas",
+      "a través de",
+      "mapas conceptuales"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué locución prepositiva es la ÚNICA que ejemplifica el modelo 'Preposición + infinitivo + preposición' según el documento analizado?",
+    "opciones": [
+      "a favor de",
+      "a partir de",
+      "a causa de",
+      "en lugar de"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'Bajó el turismo a raíz de las violentas protestas', la locución subrayada ('a raíz de') se forma mediante la estructura:",
+    "opciones": [
+      "Preposición + lo + adjetivo + preposición",
+      "Preposición + infinitivo + preposición",
+      "Participio + preposición",
+      "Preposición + sustantivo + preposición"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Señale la locución prepositiva que corresponde exactamente al modelo 'Preposición + lo + adjetivo + preposición'.",
+    "opciones": [
+      "a lo ancho de",
+      "con arreglo a",
+      "de parte de",
+      "a expensas de"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Considerando la frase 'Así fueron las cosas en virtud a la verdad', la expresión 'en virtud a' funciona sintácticamente como una:",
+    "opciones": [
+      "Locución conjuntiva de modo y consecuencia.",
+      "Locución prepositiva del modelo Preposición + sustantivo + preposición.",
+      "Locución prepositiva del modelo Preposición + infinitivo + preposición.",
+      "Locución adverbial de afirmación."
+    ],
+    "correcta": 1
+  }
+          ]
         },
         {
-          "titulo": "Parte 3",
+          "titulo": "Conjunción - P3",
           "youtube_id": "iFb5l8pHnAo",
           "pdf_link": "https://drive.google.com/file/d/1sm-ZM9TcQkawnzuZnlt70bruXpfQiXwm/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "Según el criterio semántico, ¿cómo se define a la conjunción en la oración?",
+    "opciones": [
+      "Expresa invariablemente accidentes gramaticales de género y número.",
+      "Posee un significado lexical propio que complementa al verbo de manera directa.",
+      "Carece de significado lexical y su relación expresa unión, oposición, consecuencia, etc.",
+      "Funciona únicamente como modificador directo del núcleo nominal en el sujeto."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Desde el punto de vista sintáctico, la conjunción cumple la función principal de:",
+    "opciones": [
+      "Actuar como núcleo del predicado nominal en oraciones compuestas.",
+      "Servir de nexo coordinante y subordinante, enlazando elementos de igual valor o dependientes.",
+      "Ser el modificador indirecto exclusivo en construcciones prepositivas.",
+      "Funcionar como atributo obligatorio de los verbos copulativos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Morfológicamente, ¿por qué se afirma que la conjunción es una palabra invariable?",
+    "opciones": [
+      "Porque carece por completo de accidentes gramaticales.",
+      "Porque mantiene la misma terminación solo en sus formas singulares.",
+      "Porque únicamente admite flexión de tiempo y modo verbal.",
+      "Porque deriva sintácticamente de verbos infinitivos invariables."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según la normativa de las conjunciones copulativas, ¿en qué caso específico se debe utilizar la variante 'e' en lugar de 'y'?",
+    "opciones": [
+      "Cuando antecede a un sustantivo femenino singular o plural.",
+      "Cuando la siguiente palabra empieza con la letra 'o' átona.",
+      "Cuando la siguiente palabra empieza con la vocal 'i'.",
+      "Cuando se enlaza directamente con otra conjunción subordinante."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración 'Arturo u Orlando viajará a Venezuela', la conjunción empleada es de tipo disyuntiva. Según el texto, estas conjunciones tienen un valor de:",
+    "opciones": [
+      "Adición negativa.",
+      "Alternativa.",
+      "Restricción exclusiva.",
+      "Incompatibilidad lógica."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Dentro de las conjunciones adversativas, ¿qué diferencia semántica principal existe entre los conectores 'pero' y 'sino'?",
+    "opciones": [
+      "El conector 'pero' indica adición negativa y 'sino' indica causa directa.",
+      "El conector 'pero' expresa alternancia temporal y 'sino' señala finalidad.",
+      "El conector 'pero' indica restricción, y 'sino' expresa incompatibilidad exigiendo una negación previa.",
+      "Ambas conjunciones denotan exactamente la misma restricción sin exigir negación alguna."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Analice el siguiente enunciado: 'No estaba durmiendo, sino que trabajando'. ¿Qué clase de conjunción coordinante se ha utilizado?",
+    "opciones": [
+      "Copulativa",
+      "Concesiva",
+      "Disyuntiva",
+      "Adversativa"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Las conjunciones causales establecen una relación de causa-efecto o viceversa. ¿Cuál de las siguientes oraciones presenta este tipo de conjunción según el texto?",
+    "opciones": [
+      "Te daré el sí, siempre y cuando llegues a tiempo.",
+      "Tenía miedo, pues esa experiencia ya la había vivido.",
+      "No saldrás a la calle, aunque llores.",
+      "Se comportó de tal manera que hubo que expulsarlo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'Te daré el sí, siempre y cuando llegues a tiempo', la locución conjuntiva resaltada cumple la función de introducir:",
+    "opciones": [
+      "Un propósito o finalidad principal de la acción.",
+      "Una comparación directa entre dos frases.",
+      "Una proposición que es condición de la otra.",
+      "Un inconveniente que no imposibilita el proceso."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se define conceptualmente a la conjunción concesiva en el documento analizado?",
+    "opciones": [
+      "Introduce un inconveniente que no imposibilita que una acción o un proceso se lleve a cabo.",
+      "Muestra la consecuencia directa de algo que antes se cuantificó en la oración principal.",
+      "Confiere dos enunciados y señala que están estrictamente contrapuestos e incompatibles.",
+      "Establece una relación en la cual una proposición es el fin u objetivo de la otra."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Señale la oración que contiene una conjunción subordinante CONCESIVA, basándose en los ejemplos del texto.",
+    "opciones": [
+      "Hay más gente que antes en esta plaza.",
+      "La aceptaremos si bien no nos parece la mejor solución.",
+      "Toma tus pastillas antes de que sea demasiado tarde.",
+      "Ha cometido un delito, en consecuencia, será detenido."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el enunciado 'Hacía tanto frío que no se podía salir de casa', la palabra 'que' actúa como una conjunción subordinante:",
+    "opciones": [
+      "Comparativa",
+      "Final",
+      "Consecutiva",
+      "Ilativa"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de conjunciones introducen enunciados que informan el fin o propósito por el que se lleva a cabo algo (ej. 'Toca el piano para que vean lo bien que lo haces')?",
+    "opciones": [
+      "Ilativas",
+      "Finales",
+      "Condicionales",
+      "Causales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La característica estructural y ortográfica principal de las conjunciones ilativas (como 'luego', 'conque' o 'en consecuencia') es que:",
+    "opciones": [
+      "Introducen una oración como consecuencia de la precedente y van después de la puntuación.",
+      "Siempre se ubican al principio absoluto del texto y no admiten signos de puntuación previos.",
+      "Enlazan de manera obligatoria dos elementos nominales del sujeto para formar una aposición.",
+      "Actúan exclusivamente para denotar comparación entre dos o más frases dependientes."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "De la siguiente lista de conjunciones extraída del texto: 'porque, como, pues', ¿a qué clasificación exacta de conjunciones subordinantes pertenecen?",
+    "opciones": [
+      "Ilativas",
+      "Condicionales",
+      "Causales",
+      "Concesivas"
+    ],
+    "correcta": 2
+  }
+          ]
         },
         {
-          "titulo": "Parte 4",
+          "titulo": "Conjunción - P4",
           "youtube_id": "4zSec1HBRxg",
           "pdf_link": "https://drive.google.com/file/d/1QGXe6QauFXd1vS4gJKsa_fItLZPmM-6V/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "Según el texto, ¿cuál es la definición formal de una locución conjuntiva?",
+    "opciones": [
+      "Es una única palabra invariable que asume la función de nexo coordinante.",
+      "Es un grupo de palabras que se comportan morfológica y sintácticamente como una sola conjunción.",
+      "Es una estructura formada exclusivamente por una preposición y un infinitivo verbal.",
+      "Es una frase nominal que sirve de conector lógico en proposiciones subordinadas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Basándose en la clasificación de las locuciones conjuntivas coordinantes, las expresiones 'bien... bien...' y 'ya... ya...' corresponden a la categoría de:",
+    "opciones": [
+      "Copulativas",
+      "Adversativas",
+      "Disyuntivas",
+      "Aclarativas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Señale la alternativa que contiene EXCLUSIVAMENTE locuciones conjuntivas adversativas, de acuerdo con el cuadro del documento.",
+    "opciones": [
+      "así como, ya que, dado que",
+      "sin embargo, no obstante, en cambio",
+      "siempre que, con tal de, a no ser que",
+      "por tanto, así pues, en conclusión"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué clasificación de locuciones conjuntivas subordinantes pertenecen las frases 'ya que', 'dado que', 'puesto que' y 'visto que'?",
+    "opciones": [
+      "Ilativa",
+      "Condicional",
+      "Concesiva",
+      "Causal"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En la oración 'No vas a ningún lado, a menos que te portes bien', la locución resaltada ('a menos que') funciona gramaticalmente como una locución conjuntiva:",
+    "opciones": [
+      "Concesiva",
+      "Condicional",
+      "Final",
+      "Causal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el enunciado 'Empezaré a estudiar en cuanto se duerma', ¿qué tipo de locución conjuntiva es 'en cuanto' según la tipología presentada?",
+    "opciones": [
+      "Ilativa",
+      "Adversativa",
+      "Condicional",
+      "Final"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Analizando la oración 'Te seguiré amando aun cuando te vayas', podemos afirmar que la locución 'aun cuando' pertenece a las conjunciones subordinantes:",
+    "opciones": [
+      "Concesivas",
+      "Causales",
+      "Condicionales",
+      "Comparativas"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En el ejemplo 'No me hiciste caso a pesar de que te lo advertí', ¿qué función cumple la locución conjuntiva 'a pesar de que'?",
+    "opciones": [
+      "Señala una condición obligatoria para que se realice la acción principal.",
+      "Expresa un obstáculo o inconveniente que no impide la realización de la acción.",
+      "Indica la consecuencia lógica o deducción de lo expresado anteriormente.",
+      "Aclara o explica el sentido del sustantivo que le precede."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según la lista proporcionada en el material, las locuciones 'por ende', 'en conclusión', 'así es que' y 'por consiguiente' se clasifican como:",
+    "opciones": [
+      "Condicionales",
+      "Aclarativas",
+      "Ilativas",
+      "Causales"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración 'Acondicionaremos el patio antes que los niños jueguen', la expresión 'antes que' actúa como una locución conjuntiva:",
+    "opciones": [
+      "Final",
+      "Condicional",
+      "Concesiva",
+      "Comparativa"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Identifique la locución conjuntiva que NO pertenece al grupo de las locuciones subordinantes CONDICIONALES de acuerdo al texto.",
+    "opciones": [
+      "con tal que",
+      "a fin de que",
+      "siempre y cuando",
+      "en caso de que"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'Aliméntate saludablemente, de modo que tu sistema inmunológico se fortalezca', la locución 'de modo que' está agrupada en el documento bajo la categoría de conjunciones:",
+    "opciones": [
+      "Adversativas",
+      "Ilativas",
+      "Concesivas",
+      "Finales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Las locuciones 'al igual que', 'análogamente' y 'tanto como' establecen una relación sintáctica tipificada como:",
+    "opciones": [
+      "Locución conjuntiva causal",
+      "Locución conjuntiva aclarativa",
+      "Locución conjuntiva comparativa",
+      "Locución conjuntiva disyuntiva"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué finalidad estructural cumplen las locuciones conjuntivas 'es decir', 'esto es', 'vale decir' y 'en otras palabras' dentro del discurso?",
+    "opciones": [
+      "Subordinar una idea condicional estricta al verbo principal.",
+      "Introducir una proposición aclarativa que explica lo mencionado anteriormente.",
+      "Establecer una oposición parcial o total entre dos proposiciones.",
+      "Añadir información sumatoria o copulativa a un sujeto compuesto."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Señale la oración en la que se ha empleado correctamente una locución conjuntiva subordinante de tipo CONCESIVA, basándose estrictamente en los ejemplos y listas del texto.",
+    "opciones": [
+      "Lograrás tus objetivos en tanto que lo intentes con esfuerzo.",
+      "El niño dormirá plácidamente antes de que oscurezca por completo.",
+      "Aceptaremos las condiciones, por más que nos parezcan injustas.",
+      "Nos retiramos del lugar a causa de las fuertes lluvias."
+    ],
+    "correcta": 2
+  }
+          ]
         }
       ]
     },
     {
-      "titulo": "Tema 14: Pronto",
+      "titulo": "Tema 14: Sintaxis",
       "pdf_resuelto": "",
       "videos": [
         {
-          "titulo": "14.1 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_16.1",
+          "titulo": "Sintaxis - P1",
+          "youtube_id": "riMktssw9_k",
+          "pdf_link": "https://drive.google.com/file/d/1940vRqbFy_whJCLjF7QZZebYDr-83Fun/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "¿Cuál es el significado etimológico de la palabra 'sintaxis' según su origen griego mencionado en el texto?",
+    "opciones": [
+      "Orden o disposición",
+      "Unión de palabras",
+      "Significado de la frase",
+      "Relación de sonidos"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según el documento, ¿cuál es la unidad básica de estudio de la sintaxis?",
+    "opciones": [
+      "La proposición",
+      "El sintagma",
+      "El verbo",
+      "El fonema"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se define el 'sintagma' conceptualmente según el texto analizado?",
+    "opciones": [
+      "Como una oración compuesta que expresa una idea de manera incompleta.",
+      "Como la categoría invariable exclusiva dentro del predicado de la oración.",
+      "Como una unidad sintáctica básica formada por una o más palabras con sentido y valor funcional.",
+      "Como un nexo obligatorio que enlaza oraciones subordinadas y coordinadas."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué otras denominaciones recibe el Sintagma Nominal (SN) de acuerdo con la información del documento?",
+    "opciones": [
+      "Frase verbal, predicado, complemento.",
+      "Frase adjetiva, núcleo verbal, objeto directo.",
+      "Frase nominal, grupo nominal, sujeto.",
+      "Sintagma adverbial, modificador, atributo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué categorías gramaticales tienen la capacidad de funcionar como núcleo del sintagma nominal (SN)?",
+    "opciones": [
+      "Solo y exclusivamente los sustantivos propios.",
+      "Un sustantivo, adjetivo, pronombre, verboide o cualquier otra categoría que funcione como tal.",
+      "Exclusivamente los verbos conjugados y adverbios de tiempo.",
+      "Las preposiciones y conjunciones coordinantes."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En relación con el núcleo del sintagma nominal, ¿qué variaciones morfológicas (accidentes) afirma el texto que puede sufrir?",
+    "opciones": [
+      "Persona, tiempo y modo.",
+      "Tiempo y aspecto.",
+      "Grado e intensidad.",
+      "Género y número."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En la oración 'El inteligente superó a todos', ¿qué palabra cumple la función de núcleo del sintagma nominal sustantivado?",
+    "opciones": [
+      "superó",
+      "El",
+      "inteligente",
+      "todos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Los modificadores del sintagma nominal son elementos subordinados que giran alrededor del núcleo. Según el texto, ¿cuáles son?",
+    "opciones": [
+      "Modificador directo, Modificador indirecto y Aposición.",
+      "Objeto directo, Objeto indirecto y Circunstancial.",
+      "Atributo, Predicativo y Agente.",
+      "Núcleo, Nexo y Complemento."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cómo se caracteriza sintácticamente al Modificador Directo (MD) dentro del sintagma nominal?",
+    "opciones": [
+      "Se une al núcleo obligatoriamente mediante una preposición.",
+      "Funciona como el núcleo principal en ausencia del sustantivo.",
+      "Se une al núcleo sin la presencia de un enlace y pueden ser artículos y adjetivos.",
+      "Siempre va escrito entre comas para explicar la función exacta del sujeto."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la frase 'La primera universidad cusqueña', ¿qué palabras funcionan como modificadores directos (MD) del núcleo 'universidad'?",
+    "opciones": [
+      "universidad, cusqueña",
+      "La, primera, cusqueña",
+      "La, primera",
+      "primera, cusqueña"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el texto, el Modificador Indirecto (MI) es un elemento que se une al núcleo del sintagma nominal empleando como enlace a las:",
+    "opciones": [
+      "Interjecciones y locuciones verbales.",
+      "Comas y puntos y comas.",
+      "Preposiciones y conjunciones comparativas.",
+      "Palabras variables exclusivamente."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el enunciado 'Los estudiantes como los maestros discuten respecto a la contaminación...', la estructura 'como los maestros' funciona como un:",
+    "opciones": [
+      "Modificador directo.",
+      "Modificador indirecto.",
+      "Núcleo del sintagma.",
+      "Aposición explicativa."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la característica principal de la Aposición (AP) como modificador del SN?",
+    "opciones": [
+      "Modifica directamente al verbo principal de la oración sin nexos.",
+      "Es un adjetivo calificativo que señala la procedencia del núcleo nominal.",
+      "Sirve para enlazar dos sintagmas nominales de diferente jerarquía sintáctica.",
+      "Tiene el mismo valor que el núcleo, puede conmutarse con él y designa al mismo ser de otra manera."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué rasgo ortográfico, semántico y sintáctico define a la aposición explicativa según su clasificación?",
+    "opciones": [
+      "No va entre comas y restringe o singulariza el significado del sustantivo común.",
+      "Siempre está separada entre comas, es semánticamente sinónima y conmutable sintácticamente.",
+      "Va unida al núcleo a través de una preposición subordinante y señala posesión.",
+      "Aparece exclusivamente al final de la oración actuando como complemento circunstancial."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el ejemplo 'El río Vilcanota recorre todo el Valle sagrado', la palabra 'Vilcanota' cumple la función de:",
+    "opciones": [
+      "Aposición especificativa, porque singulariza al nombre común anterior y no va entre comas.",
+      "Aposición explicativa, porque aporta una información prescindible entre pausas.",
+      "Modificador directo, porque es un adjetivo calificativo abstracto.",
+      "Modificador indirecto, porque requiere un nexo tácito para unirse al núcleo."
+    ],
+    "correcta": 0
+  }
+          ]
         },
         {
-          "titulo": "14.2 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_16.2",
+          "titulo": "Sintaxis - P2",
+          "youtube_id": "qfjsVPwY0lU",
+          "pdf_link": "https://drive.google.com/file/d/19Qur0tWtnRRSt6_VK6sJGcECue2QiIdz/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "¿Cómo se clasifica al sujeto que no aparece escrito pero está implícito y sobreentendido en la oración, como en el ejemplo 'Ingresaron en la UNSAAC'?",
+    "opciones": [
+      "Sujeto expreso",
+      "Sujeto tácito",
+      "Sujeto simple",
+      "Sujeto complejo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'Los médicos, enfermeras y tecnólogos trabajan contra el COVID 19', ¿qué tipo de sujeto se presenta según la cantidad de núcleos?",
+    "opciones": [
+      "Sujeto simple",
+      "Sujeto compuesto",
+      "Sujeto expreso incomplejo",
+      "Sujeto tácito"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De acuerdo con el documento, ¿qué característica define estructuralmente a un sujeto incomplejo?",
+    "opciones": [
+      "Tiene varios núcleos unidos por conjunciones.",
+      "El sujeto no tiene elementos subordinados o modificadores al núcleo.",
+      "No aparece explícito en la oración.",
+      "Tiene modificadores indirectos obligatorios."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función principal del verbo dentro del predicado o sintagma verbal (SV)?",
+    "opciones": [
+      "Desempeñarse exclusivamente como atributo nominal.",
+      "Actuar como un complemento circunstancial de tiempo.",
+      "Funcionar como el elemento principal o núcleo que subordina a las demás palabras.",
+      "Servir de nexo subordinante hacia el complemento directo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El complemento directo (CD) es el ser en el cual recae directamente la acción de un verbo transitivo. ¿Por cuáles pronombres puede ser sustituido habitualmente?",
+    "opciones": [
+      "le, les, se",
+      "me, te, se, lo, la, las, los, nos, os",
+      "mío, tuyo, suyo, nuestro",
+      "este, ese, aquel, aquello"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el enunciado 'El docente le compró libros', el pronombre 'le' cumple la función sintáctica de:",
+    "opciones": [
+      "Complemento indirecto (CI)",
+      "Complemento directo (CD)",
+      "Atributo (ATRIB)",
+      "Complemento agente (CAg)"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según la clasificación de los complementos circunstanciales, la frase 'con pinturas naturales' en la oración 'Dibujó paisajes con pinturas naturales' funciona como:",
+    "opciones": [
+      "CC de instrumento o medio",
+      "CC de materia",
+      "CC de modo",
+      "CC de compañía"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'Empezó a trabajar con su guitarra', la frase 'con su guitarra' es analizada en el texto como un:",
+    "opciones": [
+      "CC de finalidad",
+      "CC de compañía",
+      "CC de instrumento o medio",
+      "CC de modo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El complemento agente (CAg) propio de la voz pasiva está encabezado por la preposición 'por', pero también puede estar encabezado por la preposición 'de' cuando se refiere a:",
+    "opciones": [
+      "Nombres de lugares o topónimos.",
+      "Autores de obras literarias.",
+      "Enfermedades (ej. 'contagiado de COVID-19').",
+      "Instrumentos o herramientas de trabajo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué característica esencial define al complemento de régimen (C.REG) dentro de la oración?",
+    "opciones": [
+      "Viene introducida por una preposición que es exigida, regida o impuesta por el verbo.",
+      "Es un adjetivo que expresa una cualidad exclusiva del núcleo del sujeto.",
+      "Sustituye al complemento directo mediante los pronombres la o las.",
+      "Aparece solo con verbos copulativos para formar el predicado nominal."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En el enunciado 'El niño se despertó atemorizado', la palabra 'atemorizado' actúa como un complemento bivalente llamado:",
+    "opciones": [
+      "Atributo (ATRIB)",
+      "Predicativo (PVO)",
+      "Complemento circunstancial de modo",
+      "Complemento de régimen"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de verbo exige estrictamente la presencia de un atributo o atributivo (ATRIB), como en la oración 'Yo soy contadora'?",
+    "opciones": [
+      "Verbo transitivo",
+      "Verbo impersonal",
+      "Verbo copulativo y semicopulativo",
+      "Verbo defectivo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según el cuadro comparativo del texto, ¿cuál es una característica exclusiva del ATRIBUTO frente al predicativo?",
+    "opciones": [
+      "Se presenta siempre con verbos no copulativos.",
+      "Complementa al sujeto o al complemento directo simultáneamente.",
+      "Es sustituible por el pronombre invariable LO.",
+      "Puede eliminarse de la oración sin afectar el sentido de la misma."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Basándose en las diferencias entre predicativo y atributo, si una frase señala un 'estado o un matiz de modo' y 'puede eliminarse sin afectar el sentido', se trata de un:",
+    "opciones": [
+      "Atributo",
+      "Complemento agente",
+      "Predicativo",
+      "Complemento de régimen"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración 'La mesa era de color verde', la estructura 'de color verde' cumple la función de:",
+    "opciones": [
+      "Complemento circunstancial de materia",
+      "Predicativo",
+      "Atributo o atributivo",
+      "Complemento directo"
+    ],
+    "correcta": 2
+  }
+          ]
+        },
+        {
+          "titulo": "Sintaxis - P3",
+          "youtube_id": "yfnzuE3oEwM",
+          "pdf_link": "https://drive.google.com/file/d/1Hnn-zzV072Cq2aO5r9aOxqoFfi_tsDjM/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según el texto, ¿qué categorías gramaticales pueden funcionar como núcleo de un predicado nominal?",
+    "opciones": [
+      "Verbos copulativos y predicativos.",
+      "Sustantivos, adjetivos o adverbios.",
+      "Preposiciones y conjunciones.",
+      "Pronombres y locuciones adverbiales."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De acuerdo con los ejemplos de clases de predicado, ¿qué tipo de predicado presenta la oración 'José Luis, muy talentoso'?",
+    "opciones": [
+      "Predicado verbal",
+      "Predicado nominal",
+      "Sintagma preposicional",
+      "Sintagma adverbial"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la característica principal del predicado verbal según la clasificación del documento?",
+    "opciones": [
+      "Su núcleo es obligatoriamente un sustantivo, adjetivo o adverbio.",
+      "Carece de núcleo y se apoya en un sintagma preposicional.",
+      "Su núcleo es un verbo conjugado.",
+      "Su estructura se basa en un adverbio modificando a otro adverbio."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según los ejemplos brindados en el texto, ¿cuál de las siguientes oraciones posee un predicado verbal?",
+    "opciones": [
+      "Clorinda Matto, una trascendental indigenista cusqueña.",
+      "Aquella casa, sumamente lejos.",
+      "La UNSAAC, la primera casa de estudios superiores del Cusco.",
+      "La Universidad Nacional de San Antonio Abad cumple 330 años."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál es la estructura básica de un sintagma preposicional de acuerdo con el texto?",
+    "opciones": [
+      "Una preposición seguida de un sustantivo o adjetivo.",
+      "Un verbo conjugado seguido de una preposición.",
+      "Un adverbio modificado internamente por una preposición.",
+      "Un adjetivo seguido obligatoriamente de un adverbio."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según el documento, ¿en qué partes de la oración puede aparecer un sintagma preposicional?",
+    "opciones": [
+      "Únicamente en el Sintagma Verbal (SV).",
+      "Únicamente en el Sintagma Nominal (SN).",
+      "Tanto en el Sintagma Nominal (SN) como en el Sintagma Verbal (SV).",
+      "Exclusivamente como núcleo del predicado nominal."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración 'La vida de campo es mejor de lo que nosotros esperábamos', la frase 'de campo' ejemplifica la aparición de un:",
+    "opciones": [
+      "Sintagma adverbial",
+      "Sintagma adjetival",
+      "Predicado nominal",
+      "Sintagma preposicional"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Según el texto, se forma un sintagma adjetival cuando:",
+    "opciones": [
+      "Un adjetivo modifica directamente a un sustantivo núcleo.",
+      "Un adjetivo es modificado internamente por un adverbio.",
+      "Un adverbio es modificado por un verbo conjugado.",
+      "Un sustantivo es precedido por una preposición y un adjetivo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'La muy interesante novela Los cachorros me cautivó de principio a fin', ¿qué palabras conforman el sintagma adjetival?",
+    "opciones": [
+      "de principio a fin",
+      "novela Los cachorros",
+      "me cautivó",
+      "muy interesante"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Identifique la oración que presenta un sintagma adjetival, tal como se muestra en los ejemplos del documento.",
+    "opciones": [
+      "El joven, un gran estudiante.",
+      "Esa señorita es sumamente talentosa.",
+      "Vive muy lejos de aquí.",
+      "Hasta que no tomes conciencia del estudio."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo está conformada la estructura de un sintagma adverbial según la sección correspondiente?",
+    "opciones": [
+      "Por un adverbio que modifica a un adjetivo calificativo.",
+      "Por un verbo conjugado que modifica a un adverbio de tiempo.",
+      "Por un adverbio que modifica a otro adverbio.",
+      "Por una preposición unida a un adverbio de lugar."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué función cumple el sintagma adverbial cuando aparece dentro del Sintagma Verbal (SV)?",
+    "opciones": [
+      "Núcleo del predicado",
+      "Circunstancial",
+      "Modificador directo",
+      "Aposición"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el enunciado 'El final se siente demasiado cerca y todos están nerviosos', la estructura 'demasiado cerca' se clasifica como:",
+    "opciones": [
+      "Sintagma preposicional",
+      "Sintagma adjetival",
+      "Predicado nominal",
+      "Sintagma adverbial"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Analice la oración: 'La ayuda llegó tan tarde, ya no la necesitaban'. ¿Cuál es el sintagma adverbial presente en este ejemplo?",
+    "opciones": [
+      "La ayuda llegó",
+      "tan tarde",
+      "ya no",
+      "la necesitaban"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si comparamos las expresiones 'muy alegre' y 'muy lejos' extraídas del texto, podemos afirmar estructuralmente que:",
+    "opciones": [
+      "Ambas son sintagmas adverbiales porque inician con el adverbio 'muy'.",
+      "'muy alegre' es un sintagma adjetival y 'muy lejos' es un sintagma adverbial.",
+      "'muy alegre' es un sintagma adverbial y 'muy lejos' es un sintagma preposicional.",
+      "Ambas representan ejemplos exclusivos de predicados nominales compuestos."
+    ],
+    "correcta": 1
+  }
+          ]
+        },
+        {
+          "titulo": "Oración Gramatical - P4",
+          "youtube_id": "WdMpLGjZG68",
+          "pdf_link": "https://drive.google.com/file/d/1grKZEtf_hIkZxyySnNzRq6DgVVzBsjGc/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según el texto, la oración gramatical se define como una unidad de predicación porque normalmente pone en relación:",
+    "opciones": [
+      "Un sustantivo con un adjetivo calificativo.",
+      "Un sujeto con un predicado verbal.",
+      "Una proposición principal con una subordinada.",
+      "Un sintagma nominal con un sintagma preposicional."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Además de ser una unidad de predicación, la oración gramatical constituye la expresión de:",
+    "opciones": [
+      "Una acción o estado en proceso continuo.",
+      "Un conjunto de fonemas sin significado propio.",
+      "Un juicio o pensamiento completo.",
+      "Una frase carente de entonación definida."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué elementos fundamentales conforman la definición de la oración gramatical como palabra o conjunto de palabras?",
+    "opciones": [
+      "Sentido incompleto, ausencia de entonación y dependencia sintáctica.",
+      "Únicamente sustantivos y adjetivos en aposición explicativa.",
+      "Sentido completo, entonación, generalmente con verbo conjugado y autonomía sintáctica.",
+      "Exclusivamente verbos en forma no personal carentes de sujeto."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El documento afirma que la oración es el fragmento más pequeño del discurso que:",
+    "opciones": [
+      "Exige obligatoriamente la presencia de dos o más verbos auxiliares.",
+      "Comunica una idea completa y posee independencia.",
+      "Carece de sentido semántico fuera de su contexto original.",
+      "Depende sintácticamente del párrafo en el que se ubica."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué implica que la oración posea 'independencia' según el concepto brindado en el texto?",
+    "opciones": [
+      "Que podría sacarse del contexto y seguir comunicando.",
+      "Que no admite modificadores directos ni indirectos en su estructura.",
+      "Que solo funciona si va acompañada de proposiciones secundarias.",
+      "Que siempre debe escribirse separada por un punto y coma."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Dentro de las características de la oración, ¿qué significa exactamente que posea 'sentido completo'?",
+    "opciones": [
+      "Que debe incluir obligatoriamente un sujeto tácito.",
+      "Que requiere de un contexto literario más amplio para ser descifrada.",
+      "Que expresa exclusivamente hechos ocurridos en el pasado.",
+      "Que comunica una idea cabal entendible por sí misma."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "La oración presenta autonomía o independencia sintáctica debido a que:",
+    "opciones": [
+      "Subordina a todos los pronombres relativos del discurso.",
+      "Posee más de una proposición adversativa en su estructura.",
+      "No depende de una construcción mayor.",
+      "Puede prescindir siempre del verbo conjugado sin alterar su sentido."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué se señala que la oración tiene una 'figura de entonación propia'?",
+    "opciones": [
+      "Porque al expresar una oración el hablante puede enunciar, dudar, preguntar, exclamar, desear u ordenar.",
+      "Porque exige que todas las palabras que la conforman lleven tilde ortográfica.",
+      "Porque se pronuncia invariablemente con un volumen de voz elevado al final.",
+      "Porque está limitada únicamente a expresar asombro o un mandato imperativo."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según las figuras de entonación propia mencionadas, el hablante mediante una oración puede realizar diversas acciones. ¿Cuál grupo refleja correctamente estas opciones?",
+    "opciones": [
+      "Describir, narrar, argumentar y resumir.",
+      "Enunciar, dudar, preguntar, exclamar, desear u ordenar.",
+      "Sustantivar, adjetivar, conjugar y declinar.",
+      "Afirmar, negar, contradecir y subordinar."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Respecto a la conformación verbal en las características de la oración gramatical, ¿qué señala el documento?",
+    "opciones": [
+      "Que nunca debe estar presente en oraciones unimembres.",
+      "Que el verbo siempre debe encontrarse en modo subjuntivo.",
+      "Que generalmente está dotado de verbo conjugado.",
+      "Que se reemplaza obligatoriamente por locuciones prepositivas."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si una construcción de palabras carece de sentido completo y autonomía sintáctica, ¿qué afirmación es correcta de acuerdo al texto?",
+    "opciones": [
+      "Se le considera una oración de entonación afirmativa.",
+      "No cumple con los requisitos esenciales para ser catalogada como una oración gramatical.",
+      "Cumple perfectamente con la definición exacta de la oración gramatical.",
+      "Es el fragmento más pequeño del discurso con independencia garantizada."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La relación que se establece de manera normal como 'unidad de predicación' se da entre:",
+    "opciones": [
+      "Un sujeto y un predicado verbal.",
+      "Un adverbio y un verboide.",
+      "Un núcleo nominal y una conjunción.",
+      "Dos proposiciones sintácticamente equivalentes."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "La capacidad intrínseca de una oración para 'sacarse del contexto y seguir comunicando' es una evidencia directa de su:",
+    "opciones": [
+      "Entonación dubitativa.",
+      "Ausencia de verbo conjugado.",
+      "Independencia o autonomía.",
+      "Dependencia semántica estricta."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "De las siguientes opciones, ¿cuál NO corresponde a una característica de la oración gramatical establecida en el texto?",
+    "opciones": [
+      "Posee sentido completo.",
+      "Tiene figura de entonación propia.",
+      "Generalmente está dotada de verbo conjugado.",
+      "Depende estructuralmente de una construcción mayor."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En resumen, según el texto proporcionado, la oración gramatical se concibe fundamentalmente como una estructura que integra:",
+    "opciones": [
+      "Sentido ambiguo, dependencia gramatical y ausencia de predicación verbal.",
+      "Sentido completo, autonomía sintáctica, entonación propia y, generalmente, un verbo conjugado.",
+      "Fragmentos mayores al discurso que carecen de pensamientos completos o juicios.",
+      "Únicamente conjuntos de ideas subordinadas que requieren conectores."
+    ],
+    "correcta": 1
+  }
+          ]
+        },
+        {
+          "titulo": "Oración Gramatical - P5",
+          "youtube_id": "jq-nbnk3Qr0",
+          "pdf_link": "https://drive.google.com/file/d/1ZjxNB9f5MgfRGdYCq4Y82g4V9w-takmx/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según el texto, ¿cuál es la característica principal de las oraciones unimembres en relación con su estructura sintagmática?",
+    "opciones": [
+      "Presentan obligatoriamente un sujeto tácito y un verbo conjugado.",
+      "No poseen sujeto ni predicado, pero gozan de sentido completo y autonomía sintáctica.",
+      "Están compuestas por dos o más proposiciones coordinadas mediante nexos.",
+      "Poseen sujeto y predicado, aunque el verbo principal sea estrictamente impersonal."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Las expresiones como \"¡Hola!\", \"Muchas gracias\" o \"¡Basta!\" se clasifican dentro de las oraciones unimembres como:",
+    "opciones": [
+      "Oraciones unimembres con verbos impersonales.",
+      "Oraciones bimembres sin verbo (predicado nominal).",
+      "Oraciones unimembres sin verbo o contextuales.",
+      "Oraciones simples con sujeto tácito sobreentendido."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Identifique la oración que corresponde al tipo unimembre con verbo impersonal, de acuerdo con los ejemplos del documento.",
+    "opciones": [
+      "La muchedumbre invadió el arenal.",
+      "Hubo protesta en la plaza de Armas.",
+      "Todas las cosas, más allá.",
+      "No llegó a la exposición."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué elementos sintácticos poseen de manera esencial las oraciones bimembres?",
+    "opciones": [
+      "Un verbo auxiliar y un participio pasivo.",
+      "Sujeto expreso exclusivamente y un verbo transitivo.",
+      "Sujeto (ya sea expreso o tácito) y predicado.",
+      "Múltiples proposiciones subordinadas sin verbo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración \"Oprimió el billete con desesperación\", la estructura corresponde a una oración:",
+    "opciones": [
+      "Unimembre impersonal.",
+      "Unimembre sin verbo.",
+      "Bimembre con sujeto expreso.",
+      "Bimembre con sujeto tácito."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Analizando la frase \"El delantero, el gran héroe del partido\", el texto la clasifica como un ejemplo de:",
+    "opciones": [
+      "Oración unimembre contextual.",
+      "Oración bimembre sin verbo (con predicado nominal).",
+      "Oración compuesta coordinada copulativa.",
+      "Oración simple con verbo perifrástico."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Estructuralmente, ¿qué caracteriza fundamentalmente a las oraciones simples?",
+    "opciones": [
+      "Presentan dos o más verbos principales conjugados.",
+      "Tienen un solo verbo principal o conjugado y no presentan proposiciones.",
+      "Se enlazan obligatoriamente con signos de puntuación.",
+      "Carecen de sujeto y predicado definidos en su estructura."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Seleccione la alternativa que es considerada una oración SIMPLE según los ejemplos del documento.",
+    "opciones": [
+      "Margot resuelve problemas y Vanesa analiza las oraciones.",
+      "Leonardo y Vanesa están interpretando canciones.",
+      "Cumple tus compromisos o tendrás dificultades.",
+      "Rony lee un poema; Mari lo escucha emocionada."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Las oraciones compuestas se distinguen de las simples principalmente porque:",
+    "opciones": [
+      "Contienen únicamente verbos impersonales y defectivos.",
+      "Poseen exclusivamente un sujeto tácito múltiple.",
+      "Presentan dos o más verbos principales y pueden contener proposiciones coordinadas o subordinadas.",
+      "Carecen por completo de nexos coordinantes o subordinantes."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En las oraciones compuestas coordinadas, ¿cómo se enlazan las proposiciones en el caso de las oraciones YUXTAPUESTAS?",
+    "opciones": [
+      "Mediante las conjunciones y, e, ni.",
+      "Mediante signos de puntuación.",
+      "A través de pronombres relativos exclusivos.",
+      "Empleando locuciones prepositivas de lugar."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes es un ejemplo de oración compuesta coordinada yuxtapuesta extraída del texto?",
+    "opciones": [
+      "No te abandonarán ni lo permitiré.",
+      "Arguedas describió el mundo andino; Ribeyro, lo urbano.",
+      "Mabel ingresó en primer lugar, pero no avisó a nadie.",
+      "Anota todo u olvidarás algo importante."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el enunciado \"Doris estudia enfermería e Irene trabaja en el municipio\", ¿qué tipo de oración compuesta coordinada se presenta?",
+    "opciones": [
+      "Adversativa",
+      "Disyuntiva",
+      "Copulativa",
+      "Yuxtapuesta"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué conectores actúan estrictamente como nexos en las oraciones compuestas coordinadas disyuntivas?",
+    "opciones": [
+      "pero, mas, sino",
+      "y, e, ni",
+      "o, u, o bien",
+      "sin embargo, no obstante"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según los ejemplos literales presentados, señale la oración compuesta coordinada DISYUNTIVA.",
+    "opciones": [
+      "Estudias inmediatamente o te quedas sin vacaciones.",
+      "El periodista entrevistó al alcalde; la gente lo miraba estupefacto.",
+      "Juan no tenía dinero, pero logró superar las dificultades.",
+      "Se instalaron, los huelguistas, en la plaza Mayor."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "La oración \"Marco salió temprano, mas demoró por la congestión vehicular\" se clasifica como una oración compuesta coordinada adversativa porque:",
+    "opciones": [
+      "Sus proposiciones se enlazan exclusivamente mediante el signo de la coma.",
+      "Presenta la conjunción adversativa 'mas' como nexo entre proposiciones.",
+      "Posee un verbo impersonal como núcleo principal de toda la oración.",
+      "Utiliza la conjunción 'y' en forma elíptica o sobreentendida."
+    ],
+    "correcta": 1
+  }
+          ]
+        },
+        {
+          "titulo": "Oración Gramatical - P6",
+          "youtube_id": "o7vNyEM_Qfc",
+          "pdf_link": "https://drive.google.com/file/d/1ag7HfqS8kTIhFw5xXYZrTzUPXITFrjTm/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según el documento, ¿cómo se define formalmente a la oración compuesta subordinada?",
+    "opciones": [
+      "Como aquella que presenta dos o más proposiciones con la misma jerarquía sintáctica unidas por signos de puntuación.",
+      "Como aquella que depende de una oración principal o de un elemento al que complementan, uniéndose mediante un nexo subordinante y pronombres relativos.",
+      "Como aquella que carece de verbos conjugados en su estructura principal, dependiendo exclusivamente del contexto.",
+      "Como aquella que funciona únicamente como modificador directo dentro de un sintagma nominal."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Las oraciones compuestas subordinadas sustantivas se caracterizan principalmente porque:",
+    "opciones": [
+      "Modifican directamente a un adjetivo calificativo dentro de la oración.",
+      "Actúan exclusivamente como circunstanciales de modo y tiempo.",
+      "Desempeñan las funciones propias de un sustantivo dentro de la oración.",
+      "Señalan una cualidad explicativa del núcleo del predicado verbal."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración 'Me molesta que tengas esa actitud', la proposición subordinada cumple la función específica de:",
+    "opciones": [
+      "Sustantiva del complemento directo",
+      "Sustantiva de la aposición explicativa",
+      "Sustantiva del sujeto",
+      "Sustantiva del modificador indirecto"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué función cumple la subordinada sustantiva en la oración 'Mónica, la que más estudiaba, se marchó a su tierra'?",
+    "opciones": [
+      "Sustantiva del modificador indirecto",
+      "Sustantiva del sujeto",
+      "Sustantiva de complemento directo",
+      "Sustantiva de la aposición explicativa"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Identifique la oración que presenta una subordinada sustantiva en función de COMPLEMENTO DIRECTO, basándose en los ejemplos del texto.",
+    "opciones": [
+      "El niño de quien te hablé vive allí.",
+      "Te aconsejamos que estudies los libros nuevos.",
+      "Me alegro de que hayas ingresado en la universidad.",
+      "Fue entrevistada por quien la perseguía."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el enunciado 'Fue entrevistada por quien la perseguía', la subordinada sustantiva asume el rol de:",
+    "opciones": [
+      "Complemento indirecto",
+      "Complemento circunstancial",
+      "Complemento de régimen",
+      "Complemento agente"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "La oración 'Me alegro de que hayas ingresado en la universidad' contiene una oración compuesta subordinada sustantiva en función de:",
+    "opciones": [
+      "Complemento de régimen",
+      "Sujeto",
+      "Complemento directo",
+      "Complemento circunstancial"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué función desempeñan las oraciones compuestas subordinadas adjetivas dentro de la oración?",
+    "opciones": [
+      "Funcionan como complemento agente en oraciones de voz pasiva.",
+      "Desempeñan las funciones propias de los adjetivos.",
+      "Actúan como nexo subordinante entre dos proposiciones.",
+      "Reemplazan al verbo principal de la oración."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De acuerdo con el texto, ¿qué clase de subordinada adjetiva se encuentra en 'La mujer cuyos ojos son verdes me cautivó en Pilpinto'?",
+    "opciones": [
+      "Subordinada adjetiva explicativa",
+      "Subordinada adjetiva especificativa",
+      "Subordinada adverbial de modo",
+      "Subordinada sustantiva del sujeto"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Señale el ejemplo que corresponde a una oración compuesta subordinada adjetiva EXPLICATIVA.",
+    "opciones": [
+      "El libro que estoy leyendo es muy interesante.",
+      "Alcánzame la plancha que está sobre la mesa.",
+      "Las nubes, que eran grises y espesas, anunciaban lluvia.",
+      "El candidato prometió muchas obras a quienes necesitaban apoyo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Las oraciones compuestas subordinadas adverbiales desempeñan fundamentalmente la función de:",
+    "opciones": [
+      "Complemento circunstancial en la oración.",
+      "Modificador directo del núcleo nominal.",
+      "Atributo del verbo copulativo.",
+      "Aposición explicativa o especificativa."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En la oración 'Investigaré como indique el protocolo', ¿qué tipo de subordinada adverbial se presenta?",
+    "opciones": [
+      "De lugar",
+      "De modo",
+      "De cantidad",
+      "De finalidad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Analizando el enunciado 'Compraré ese auto siempre que obtenga el préstamo', la subordinada adverbial se clasifica como:",
+    "opciones": [
+      "Concesiva",
+      "Tiempo",
+      "Causal",
+      "Condicional"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes oraciones es un ejemplo de subordinada adverbial CONCESIVA según el documento?",
+    "opciones": [
+      "Lo dejó a fin de que se quedara tranquilo.",
+      "Duermo durante el día porque trabajo de noche.",
+      "La justicia se impondrá, aunque algunos no lo quieran.",
+      "Llegamos a nuestro destino mientras estaba amaneciendo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La oración 'Margot vino para que le prestaras una novela' pertenece a la clase de oraciones compuestas subordinadas adverbiales de:",
+    "opciones": [
+      "Cantidad",
+      "Finalidad",
+      "Condicional",
+      "Tiempo"
+    ],
+    "correcta": 1
+  }
+          ]
+        },
+        {
+          "titulo": "Oración Gramatical - P7",
+          "youtube_id": "S_N_8e3jDQs",
+          "pdf_link": "https://drive.google.com/file/d/1P2lG_1v8Tte9swMCkrmnI8tTwmzFDWyt/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según el documento, ¿cuál es la función principal de las oraciones enunciativas o declarativas?",
+    "opciones": [
+      "Afirmar o negar hechos o ideas de forma objetiva para transmitir información.",
+      "Expresar emociones de diverso tipo enfatizando los elementos de la oración.",
+      "Manifestar un deseo anhelado por el emisor del mensaje.",
+      "Expresar una duda o la probabilidad de un suceso."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "De acuerdo con los ejemplos del texto, ¿cuál de las siguientes oraciones pertenece a la clasificación de enunciativa o declarativa?",
+    "opciones": [
+      "Me gustaría verte.",
+      "Quizá lleguemos antes del anochecer.",
+      "Tu prima nunca asiste a la reunión.",
+      "Cuéntame, qué ha pasado."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué expresan fundamentalmente las oraciones desiderativas según la clasificación por la actitud del hablante?",
+    "opciones": [
+      "Una orden, mandato o ruego.",
+      "Un deseo.",
+      "Una pregunta directa o indirecta.",
+      "Duda o probabilidad subjetiva."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el enunciado \"Quisiera viajar durante las vacaciones\", ¿a qué tipo de oración corresponde según el texto?",
+    "opciones": [
+      "Dubitativa",
+      "Exclamativa",
+      "Desiderativa",
+      "Imperativa"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Las oraciones dubitativas se caracterizan porque a través de ellas el hablante expresa:",
+    "opciones": [
+      "Deseo o anhelo profundo.",
+      "Duda o probabilidad.",
+      "Un mandato o ruego estricto.",
+      "Emociones enfatizando elementos sintácticos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Identifique la oración que corresponde al grupo de oraciones dubitativas, tomando como base los ejemplos literales del documento.",
+    "opciones": [
+      "Ojalá lleguen pronto.",
+      "Tal vez tengas razón.",
+      "Hoy hace frío.",
+      "Abre la ventana."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el texto, las oraciones interrogativas (donde el hablante expresa una pregunta) pueden clasificarse o presentarse estructuralmente como:",
+    "opciones": [
+      "Afirmativas o negativas.",
+      "Directas o indirectas.",
+      "Simples o compuestas.",
+      "Objetivas o subjetivas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el enunciado \"Cuéntame, qué ha pasado\", la oración es clasificada explícitamente por el autor como:",
+    "opciones": [
+      "Imperativa",
+      "Interrogativa",
+      "Desiderativa",
+      "Exclamativa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la principal intención del hablante al utilizar oraciones imperativas o exhortativas?",
+    "opciones": [
+      "Transmitir información afirmando o negando un hecho.",
+      "Presentar lo que dice como un mandato, una orden o un ruego.",
+      "Manifestar una probabilidad, inseguridad o duda.",
+      "Expresar sus emociones enfatizando uno o todos los elementos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De acuerdo con la teoría expuesta en el documento, ¿qué modo verbal se utiliza \"generalmente\" en las oraciones imperativas o exhortativas?",
+    "opciones": [
+      "El modo indicativo.",
+      "El modo subjuntivo.",
+      "El modo imperativo.",
+      "El modo condicional."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Señale la alternativa que presenta una oración imperativa o exhortativa extraída fielmente del documento.",
+    "opciones": [
+      "No te muevas de donde estas, por favor.",
+      "¡Qué susto pasamos!",
+      "No hay fresas en este lugar.",
+      "¿Qué haces?"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según la clasificación de la actitud del hablante, las oraciones que emplean signos específicos para expresar emociones y enfatizar elementos de la oración se denominan:",
+    "opciones": [
+      "Imperativas",
+      "Exclamativas",
+      "Interrogativas",
+      "Declarativas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Identifique la oración que pertenece a la clasificación de las oraciones exclamativas.",
+    "opciones": [
+      "¿Te gusta el teatro?",
+      "¡Auxilio!",
+      "Ojalá lleguen pronto.",
+      "Está lloviendo mucho."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si analizamos el enunciado \"El libro tal vez esté ahí\", la actitud del hablante nos permite clasificar la oración como:",
+    "opciones": [
+      "Dubitativa",
+      "Desiderativa",
+      "Enunciativa",
+      "Exclamativa"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "De los siguientes pares de ejemplos extraídos del texto, ¿qué oraciones corresponden respectivamente a las clases ENUNCIATIVA y DESIDERATIVA?",
+    "opciones": [
+      "Hoy hace frío. / Me gustaría verte.",
+      "Ojalá lleguen pronto. / Abre la ventana.",
+      "Tal vez tengas razón. / ¡Cómo canta tu prima!",
+      "¿Cuál es tu nombre? / Está lloviendo mucho."
+    ],
+    "correcta": 0
+  }
+          ]
         }
       ]
     },
     {
-      "titulo": "Tema 15: Pronto",
+      "titulo": "Tema 15: Texto y Lectura",
       "pdf_resuelto": "",
       "videos": [
         {
-          "titulo": "15.1 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_16.1",
+          "titulo": "Parte 1",
+          "youtube_id": "jn52nJyQR0A",
+          "pdf_link": "https://drive.google.com/file/d/1qsAW84E3TGH0XJVL3Zg5SrigvG4zPQHg/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "¿De qué vocablo latino proviene el término 'texto' y cuál es su significado original según el documento?",
+    "opciones": [
+      "textum, que significa 'escrito'",
+      "texere, que significa 'entrelazar'",
+      "textus, que significa 'tejido'",
+      "testus, que significa 'testimonio'"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según el texto, ¿cómo se define formalmente al texto?",
+    "opciones": [
+      "Como una unidad semántico estructural de contenido y forma que tiene como base al párrafo.",
+      "Como un conjunto de oraciones independientes que carecen de intencionalidad.",
+      "Como la suma de fonemas y morfemas dependientes que forman un sintagma.",
+      "Como un discurso oral de carácter estrictamente pragmático y abstracto."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "El texto posee un 'carácter comunicativo' debido a que:",
+    "opciones": [
+      "Se produce con una intención y en una situación concreta y específica.",
+      "Es una actividad que se realiza con una finalidad determinada como parte de su función social.",
+      "Está constituido por una sucesión de oraciones unidas por signos de puntuación.",
+      "Sirve exclusivamente para reemplazar el lenguaje oral en contextos formales."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué característica define el 'carácter pragmático' del texto?",
+    "opciones": [
+      "Que se produce con una intención y en una situación concreta.",
+      "Que es una unidad estructurada jerárquicamente en párrafos.",
+      "Que tiene como base el ordenamiento estricto de las ideas secundarias.",
+      "Que carece de función social específica pero tiene sentido pleno."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Que el texto tenga un 'carácter estructurado' significa que está constituido por:",
+    "opciones": [
+      "Un conjunto de vocablos sin relación sintáctica.",
+      "Una sucesión de enunciados u oraciones coherentes.",
+      "Párrafos independientes que no comparten un mismo tema.",
+      "Exclusivamente ideas principales sin argumentación adicional."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En cuanto a la estructura interna del texto, ¿cómo se definen teóricamente 'las ideas'?",
+    "opciones": [
+      "Son frases breves que sintetizan la idea central de cada párrafo.",
+      "Son los nombres que se le asignan a la totalidad de lo expuesto.",
+      "Son todos los pensamientos o conceptos que resulta de aplicar nuestro entendimiento a un objeto de conocimiento.",
+      "Son actos de habla sin relación semántica con el resto del discurso."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es la 'idea principal' dentro de la estructura interna del texto?",
+    "opciones": [
+      "Es la tesis, afirmación o planteamiento central que el autor desarrolla conforme van discurriendo las ideas.",
+      "Son los argumentos específicos que validan los ejemplos y propuestas del texto.",
+      "Es el asunto de carácter general, como la política, la guerra o el cáncer.",
+      "Es la frase breve que encabeza el texto y que es semejante a un nombre."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según el documento, la idea principal cumple el rol fundamental de:",
+    "opciones": [
+      "Detallar las características peculiares del texto y explicar ejemplos.",
+      "Ser el núcleo del discurso en torno al cual giran las demás ideas.",
+      "Explicar los alcances y límites de los subtemas abordados.",
+      "Nombrar a la totalidad de lo expuesto en un máximo de cinco palabras."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué es importante descubrir la idea de mayor jerarquía (la principal) en un texto?",
+    "opciones": [
+      "Para poder omitir la lectura de los párrafos argumentativos.",
+      "A fin de lograr una comprensión cabal del mismo.",
+      "Para clasificar si el texto tiene un carácter pragmático o comunicativo.",
+      "Para convertir directamente el texto en una sucesión de enunciados."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función sintáctica o lógica de las 'ideas secundarias' respecto a la idea principal?",
+    "opciones": [
+      "Reemplazarla cuando el texto es demasiado corto o ambiguo.",
+      "Contradecirla para generar un juicio de valor y debate en el lector.",
+      "Servirle de argumento para que sea digna de crédito, adquiera validez y sea útil.",
+      "Sintetizar su sentido e intención transformándola en el título del texto."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la organización interna de un texto, las ideas secundarias cumplen el papel de fundamentar, explicar y presentar la idea principal determinando sus:",
+    "opciones": [
+      "Objetivos y juicios de valor.",
+      "Etapas y procesos metodológicos.",
+      "Alcances y límites.",
+      "Temas y subtemas."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según el texto, ¿cómo se define 'el tema'?",
+    "opciones": [
+      "Es la frase que sintetiza la idea central y actúa como título.",
+      "Es todo aquello de lo que se habla en el texto; el asunto descrito, explicado y desarrollado.",
+      "Es la tesis principal que el autor busca defender mediante críticas y argumentos.",
+      "Es el acto lingüístico que un hablante quiere comunicar de manera concreta."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son ejemplos de 'temas' o aspectos generales mencionados explícitamente en el documento?",
+    "opciones": [
+      "El cáncer, la violencia, la política, la guerra.",
+      "El texto, el párrafo, la oración, el enunciado.",
+      "La introducción, el nudo, el clímax, el desenlace.",
+      "El título, la tesis, los argumentos, la conclusión."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué elemento de la estructura interna se define como una 'frase breve que sintetiza la idea central del texto' y tiene un sentido e intención 'semejante a un nombre'?",
+    "opciones": [
+      "El tema",
+      "La idea secundaria",
+      "La idea principal",
+      "El título"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Además de identificar a la totalidad de lo expuesto de forma breve, el título se caracteriza por tener un carácter eminentemente:",
+    "opciones": [
+      "Argumentativo",
+      "Pragmático",
+      "Informativo",
+      "Crítico"
+    ],
+    "correcta": 2
+  }
+          ]
         },
         {
-          "titulo": "15.2 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_16.2",
+          "titulo": "Parte 2",
+          "youtube_id": "Q5O-tUGfNuQ",
+          "pdf_link": "https://drive.google.com/file/d/1GDLr5ihHrEwPRJi9jbpDVkaZ_ztNZPLG/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "Según el documento, ¿cuál es la finalidad principal del texto narrativo?",
+    "opciones": [
+      "Persuadir al lector mediante argumentos, recursos y justificaciones.",
+      "Contar o narrar acontecimientos reales o ficticios en los que intervienen personajes en un determinado tiempo y espacio.",
+      "Transmitir información de manera estrictamente objetiva sobre un tema científico.",
+      "Describir detalladamente objetos, paisajes o personas como si el lector los tuviera delante."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué clase de texto, clasificado por su forma, se define metafóricamente en el texto como una \"pintura\" hecha con palabras?",
+    "opciones": [
+      "Texto narrativo",
+      "Texto expositivo",
+      "Texto dialógico",
+      "Texto descriptivo"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "El fragmento acerca de los cactus que indica que son de \"tamaño pequeño, mediano y hasta grande\" y que \"en su interior tienen abundante sábila\", es un ejemplo de texto:",
+    "opciones": [
+      "Argumentativo",
+      "Dialógico",
+      "Descriptivo",
+      "Informativo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "De acuerdo con la clasificación por su forma, ¿qué tipo de texto tiene como objetivo principal persuadir al lector sobre una tesis determinada?",
+    "opciones": [
+      "Texto expositivo",
+      "Texto humanístico",
+      "Texto argumentativo",
+      "Texto literario"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El discurso pronunciado por Raúl Alfonsín, donde expone que \"la democracia es un valor aún más alto que el de una mera forma de legitimidad del poder\", ejemplifica fundamentalmente a un texto:",
+    "opciones": [
+      "Expositivo",
+      "Argumentativo",
+      "Narrativo",
+      "Científico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el documento, el texto dialógico (o conversacional) es el modo de expresión propio del teatro, pero también se emplea en:",
+    "opciones": [
+      "Noticias, crónicas periodísticas y artículos de opinión.",
+      "Tesis de grado, monografías y artículos científicos.",
+      "Novelas, cuentos, algunos poemas y ensayos filosóficos.",
+      "Manuales, tratados técnicos y enciclopedias."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la característica principal y finalidad del texto expositivo según la lectura?",
+    "opciones": [
+      "Contener noticias locales y mundiales de actualidad.",
+      "Reproducir diálogos entre dos o más personajes imaginarios.",
+      "Abordar de manera objetiva un asunto para dar a conocer e informar una serie de hechos, datos o conceptos.",
+      "Priorizar la belleza del lenguaje mediante el uso de recursos literarios."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Teniendo en cuenta la clasificación por su contenido, el texto informativo se caracteriza porque su uso se circunscribe particularmente al contexto:",
+    "opciones": [
+      "Científico",
+      "Periodístico",
+      "Literario",
+      "Filosófico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La noticia sobre la detección de nuevos linajes de la variante ómicron en Perú por parte del Minsa corresponde a un texto de tipo:",
+    "opciones": [
+      "Informativo",
+      "Científico",
+      "Humanístico",
+      "Expositivo"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Los textos que contienen resultados de investigación expuestos en monografías, artículos, tesis y libros de sociología, astronomía o lógica son clasificados como:",
+    "opciones": [
+      "Textos filosóficos",
+      "Textos científicos",
+      "Textos humanísticos",
+      "Textos expositivos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el fin último de los textos filosóficos según la clasificación por su contenido?",
+    "opciones": [
+      "Abordar la actividad humana en su cotidianidad, usos y costumbres sin rigor de la ciencia.",
+      "Comprender de manera objetiva y estadística los fenómenos de la galaxia.",
+      "Entender las causas y fines primeros de los misterios de la existencia humana y del universo.",
+      "Informar de manera ágil los sucesos reales ocurridos a nivel local o mundial."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El extracto de \"El mito de la caverna de Platón\", donde se habla de hombres encadenados en una morada subterránea, es empleado en el texto como un claro ejemplo de texto:",
+    "opciones": [
+      "Humanístico",
+      "Literario",
+      "Filosófico",
+      "Científico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El texto humanístico contiene ideas sobre la actividad humana, costumbres, mitos y cultura general; su principal diferencia respecto a otros textos radica en que:",
+    "opciones": [
+      "Solo puede escribirse en forma de diálogo teatral.",
+      "Se elabora sin el rigor de la ciencia ni la profundidad filosófica.",
+      "Se centra exclusivamente en demostrar una tesis científica nueva.",
+      "Solo relata acontecimientos cronológicos en un tiempo exacto."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El ejemplo proporcionado sobre la \"Revolución francesa\", sus causas y sus consecuencias, pertenece al ámbito del texto:",
+    "opciones": [
+      "Científico",
+      "Humanístico",
+      "Literario",
+      "Filosófico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De acuerdo con el documento, ¿qué aspecto prima fundamentalmente en los textos literarios (novelas, poemas, comedias, etc.)?",
+    "opciones": [
+      "La narración periodística de sucesos comprobables.",
+      "La defensa de una hipótesis con justificaciones lógicas.",
+      "La belleza del lenguaje a través de los recursos literarios.",
+      "La transmisión de conocimientos médicos o biológicos."
+    ],
+    "correcta": 2
+  }
+          ]
+        },
+        {
+          "titulo": "Parte 3",
+          "youtube_id": "uxpbXjHbkCI",
+          "pdf_link": "https://drive.google.com/file/d/1RRSZlAvWjQq-KOBKQS91bIyheB5kiv9w/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según la clasificación por su estructura, ¿cómo se caracteriza el TEXTO ANALIZANTE?",
+    "opciones": [
+      "Empieza con la idea principal, la cual es explicada y ampliada en las oraciones siguientes.",
+      "Presenta la idea principal exclusivamente al final como una síntesis.",
+      "Ubica la idea central en el medio del párrafo rodeada de ideas secundarias.",
+      "Carece de una idea principal ya que todas poseen la misma jerarquía."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En un texto sintetizante, las ideas secundarias expresadas al inicio sirven fundamentalmente como:",
+    "opciones": [
+      "Un resumen absoluto de la conclusión final del autor.",
+      "Explicación anticipada o preparación para interpretar el mensaje total del texto.",
+      "Una tesis que será refutada inmediatamente en el desarrollo.",
+      "Argumentos de igual jerarquía sin subordinación alguna."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Analizando el ejemplo de Aristóteles y Henry Bergson sobre el hombre como 'animal que ríe', ¿qué tipo de texto se evidencia si la idea principal se ubica en el medio del párrafo?",
+    "opciones": [
+      "Texto analizante",
+      "Texto sintetizante",
+      "Texto centrado",
+      "Texto encuadrado"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Con qué otro nombre suelen llamar algunos autores al TEXTO ENCUADRADO, debido a su estructura de presentar la idea principal al inicio y al final?",
+    "opciones": [
+      "Texto paralelo-deductivo",
+      "Texto analizante-sintetizante",
+      "Texto sintético-inductivo",
+      "Texto centrado-explicativo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el documento, la principal característica del TEXTO PARALELO (como el ejemplo biográfico de Alberto Fujimori) es que:",
+    "opciones": [
+      "Empieza y termina con la misma idea principal para darle mayor énfasis.",
+      "Las ideas secundarias se encuentran únicamente al inicio del texto.",
+      "No presenta idea principal ni secundarias, ya que todas las ideas tienen igual importancia y no hay subordinación.",
+      "Solo presenta una única idea principal sin explicaciones, detalles ni ejemplos."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "De acuerdo con el texto, ¿cómo se define a la lectura desde una perspectiva integral?",
+    "opciones": [
+      "Como una decodificación visual exclusiva de fonemas sin interpretación semántica.",
+      "Como un proceso de carácter físico, fisiológico y mental para captar, decodificar, comprender y aplicar conocimientos.",
+      "Como la memorización estricta de contenidos explícitos para reproducirlos oralmente.",
+      "Como la actividad de resumir textos literarios en un nivel puramente crítico y filosófico."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El documento afirma que la lectura es el medio de comunicación entre el autor y el lector. ¿Cuál es el requisito indispensable para que esto se logre de manera efectiva?",
+    "opciones": [
+      "Que ambos compartan el mismo nivel de lectura crítica y valorativa.",
+      "Que el texto pertenezca a la tipología de estructura paralela.",
+      "Que el lector conozca personalmente las experiencias de vida del autor.",
+      "Que el lenguaje usado por el escritor sea comprendido por el lector."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En el Nivel Literal (Textual, Lineal) de comprensión lectora, el lector se caracteriza por:",
+    "opciones": [
+      "Elaborar hipótesis y conclusiones a partir de sus saberes previos.",
+      "Someterse estrictamente a los contenidos explícitos sin entrar en más detalles ni interpretaciones.",
+      "Evaluar moralmente las intenciones del autor a través de juicios de valor.",
+      "Deducir el significado de las metáforas y figuras literarias utilizadas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el documento, ¿para qué tipo de textos resulta conveniente aplicar de forma estricta un nivel de lectura literal?",
+    "opciones": [
+      "Textos poéticos llenos de lenguaje figurativo.",
+      "Novelas de ficción o cuentos filosóficos.",
+      "Textos que no requieren interpretación, como el prospecto o manual de un electrodoméstico.",
+      "Ensayos argumentativos que exigen una postura ética."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la 'meta' o el objetivo principal del nivel de comprensión inferencial (deductivo, extralineal)?",
+    "opciones": [
+      "La decodificación gráfica de las palabras.",
+      "La elaboración de conclusiones y relaciones más allá de lo establecido en el texto.",
+      "La evaluación moral y ética del protagonista.",
+      "El resumen lineal y textual de las ideas secundarias."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De la siguiente lista, identifique una operación que pertenece EXCLUSIVAMENTE al nivel inferencial, según el documento.",
+    "opciones": [
+      "Leer el prospecto de una medicina para conocer su dosis exacta.",
+      "Predecir acontecimientos sobre la base de una lectura inconclusa.",
+      "Emitir un juicio sobre si una historia es adecuada, válida o fantasiosa.",
+      "Aceptar o rechazar los argumentos del autor con base en nuestro sistema de valores."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según la teoría del nivel inferencial, ¿qué elementos externos al texto utiliza el lector para explicarlo más ampliamente y formular nuevas ideas?",
+    "opciones": [
+      "Informaciones, experiencias anteriores y saberes previos.",
+      "Un diccionario exclusivo de términos técnicos literales.",
+      "Exclusivamente la biografía oficial y documentada del autor.",
+      "Un análisis fonológico y ortográfico minucioso."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué característica define esencialmente a la lectura de NIVEL CRÍTICO?",
+    "opciones": [
+      "Se limita a predecir secuencias de acciones que no están explícitas en el texto.",
+      "Consiste en memorizar nombres, fechas y lugares exactos de la obra.",
+      "Tiene un carácter evaluativo donde interviene la formación del lector para emitir juicios con fundamentos.",
+      "Busca únicamente relacionar causas y efectos implícitos en las oraciones compuestas."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el nivel crítico, los juicios de 'rechazo o aceptación' dependen directamente de:",
+    "opciones": [
+      "La extensión total del texto literario o científico.",
+      "El código moral y el sistema de valores del propio lector.",
+      "Las inferencias de relaciones de causa y efecto realizadas previamente.",
+      "La cantidad de ideas secundarias en un texto de estructura encuadrada."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el material, ¿cuál de los siguientes grupos de preguntas sirve para explorar específicamente el nivel de comprensión CRÍTICA?",
+    "opciones": [
+      "¿Quién?, ¿Cuándo?, ¿Dónde?, ¿Qué dice el texto?",
+      "¿Qué pasaría si...?, ¿Qué significa esa metáfora?, ¿Cuál es la causa?",
+      "¿Qué opinas...?, ¿Qué piensas...?, ¿Cómo podrías calificar...?",
+      "¿Cuántos personajes hay?, ¿En qué orden ocurrieron los hechos?"
+    ],
+    "correcta": 2
+  }
+          ]
+        },
+        {
+          "titulo": "Parte 4",
+          "youtube_id": "9ChdeQFGSO0",
+          "pdf_link": "https://drive.google.com/file/d/1J_Q3Akayyr1SZ6PgeJbtQAveYWN21Pqs/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según el texto, ¿cuál es el propósito principal de las preguntas de RETENCIÓN?",
+    "opciones": [
+      "Si el lector puede hacer inferencias complejas y deducciones extralineales.",
+      "Averiguar hasta qué punto el lector puede conocer o reconocer la información ofrecida en el texto.",
+      "Evaluar si el lector es capaz de extender las ideas hacia otras situaciones hipotéticas.",
+      "Medir la capacidad de expresar las ideas principales con palabras totalmente distintas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el ejemplo de pregunta de retención referente al Código Penal, se afirma que este código protege:",
+    "opciones": [
+      "La libertad política",
+      "La libertad limitada",
+      "La voluntad restringida",
+      "La libertad social"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿En qué consisten fundamentalmente las preguntas de TRADUCCIÓN de acuerdo con el documento?",
+    "opciones": [
+      "En poner la comunicación o información recibida en términos distintos a los originales.",
+      "En evaluar el nivel de importancia que ofrece el autor a cada una de sus afirmaciones.",
+      "En deducir las consecuencias lógicas a partir de modificaciones hipotéticas del texto.",
+      "En memorizar de manera exacta y literal todas las palabras expuestas por el autor."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En las preguntas de traducción, se demanda dotar de significado a las distintas partes de la comunicación por separado, aun cuando estas:",
+    "opciones": [
+      "Carezcan totalmente de un significado propio o literal en su contexto.",
+      "Pertenezcan a un idioma o dialecto distinto al del lector.",
+      "Puedan estar determinadas, al menos parcialmente, por el contexto en que aparecen las demás ideas.",
+      "Hayan sido extraídas de un texto eminentemente científico o humanístico."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el ejemplo brindado para las preguntas de traducción sobre los sistemas de los grupos primitivos, el término 'restringidos' se refiere a:",
+    "opciones": [
+      "Adiestrados",
+      "Comprometidos",
+      "Limitados",
+      "Saturados"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de preguntas nos permiten hacer valoraciones, determinar la jerarquía de las unidades informativas e identificar la idea central y las secundarias?",
+    "opciones": [
+      "Preguntas de retención",
+      "Preguntas de traducción",
+      "Preguntas de interpretación",
+      "Preguntas de extrapolación"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Además de identificar ideas, ¿qué otras operaciones cognitivas nos permite realizar la interpretación del texto?",
+    "opciones": [
+      "Modificar hipotéticamente los datos del autor para crear un desenlace distinto.",
+      "Hacer inferencias o deducciones, extraer conclusiones parciales y hacer generalizaciones.",
+      "Traducir literalmente el texto a otro idioma utilizando únicamente sinónimos directos.",
+      "Reconocer explícitamente los datos estadísticos expuestos sin agregar ninguna valoración."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el ámbito de las preguntas de interpretación, ¿qué aspecto relacionado con las afirmaciones del autor se puede evaluar?",
+    "opciones": [
+      "Su nivel de popularidad social.",
+      "El nivel de importancia que el autor ofrece a cada una de sus afirmaciones.",
+      "La extensión en cantidad de palabras de sus ideas.",
+      "La cantidad de sinónimos empleados en cada oración."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el ejemplo del texto sobre la publicidad (pregunta de interpretación), ¿qué conclusión se deduce de la lectura?",
+    "opciones": [
+      "Que es un producto surgido exclusivamente en la Revolución Industrial.",
+      "Que persuade al público en la decisión de compra.",
+      "Que es una herramienta material de la Revolución Industrial.",
+      "Que se limita a vender bebidas y ropas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Las preguntas de EXTRAPOLACIÓN requieren que el lector tenga la capacidad suficiente para traducir, interpretar y:",
+    "opciones": [
+      "Memorizar las fechas exactas para repetirlas textualmente en el examen.",
+      "Sintetizar el texto en una sola idea principal jerarquizada de máximo cinco palabras.",
+      "Ampliar las tendencias más allá del contenido del texto.",
+      "Extraer los verbos copulativos para comprender el contexto literario."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la extrapolación, el lector debe ser consciente de dos aspectos fundamentales respecto al texto. ¿Cuáles son?",
+    "opciones": [
+      "El número de párrafos y las oraciones compuestas.",
+      "Los límites posibles y la extensión correcta de las tendencias.",
+      "El autor de la obra y el año de publicación.",
+      "Los personajes principales y el desenlace literario."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según las distintas maneras de realizar una extrapolación, si los datos expuestos en el texto sufren modificaciones hipotéticas, la extrapolación consistirá en:",
+    "opciones": [
+      "Deducir las posibles consecuencias.",
+      "Identificar el género literario del texto.",
+      "Extender las ideas a un período de la antigüedad.",
+      "Traducir las palabras a sinónimos directos."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué implica la extrapolación si los datos del texto se refieren a una secuencia de períodos o etapas?",
+    "opciones": [
+      "Juzgar las apariencias exteriores de dicho período con un enfoque crítico.",
+      "Un intento de extender dicha secuencia a un período posterior, incluyendo a los que prosiguen a este.",
+      "Extraer la idea principal de la primera etapa descartando todas las demás.",
+      "Traducir las características del último período a un lenguaje estrictamente coloquial."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si un texto hace referencia a un tema en particular, la extrapolación puede representar el intento de:",
+    "opciones": [
+      "Extender las ideas a otro tema o situación en el cual es aplicable.",
+      "Resumir la idea principal del texto en una sola frase breve y concisa.",
+      "Modificar la estructura gramatical o sintáctica del tema en cuestión.",
+      "Referirse obligatoriamente a una etapa histórica pasada anterior al tema."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "De acuerdo con el ejemplo de extrapolación sobre la piedra y el movimiento, si nos dejáramos llevar por el uso de nuestros sentidos a simple vista, probablemente afirmaríamos que:",
+    "opciones": [
+      "No existen cuerpos en reposo.",
+      "El movimiento es parte del cuerpo.",
+      "Las moléculas del cuerpo son eternas.",
+      "Se observa mejor el cuerpo en reposo."
+    ],
+    "correcta": 3
+  }
+          ]
         }
       ]
     },
     {
-      "titulo": "Tema 16: Pronto",
+      "titulo": "Tema 16: Relaciones Semánticas",
       "pdf_resuelto": "",
       "videos": [
         {
-          "titulo": "16.1 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_17.1",
+          "titulo": "Parte 1",
+          "youtube_id": "aYq34bVaq-k",
+          "pdf_link": "https://drive.google.com/file/d/1fpDo6-l1dy6DG5wGQQAPYLrk2vk3xjRz/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "Según el texto, ¿cuál es la etimología de la palabra 'sinónimo'?",
+    "opciones": [
+      "Proviene del latín 'sin' que significa 'junto a' y 'onomas' que significa 'igual'.",
+      "Proviene de dos voces griegas: 'sin' que significa 'con' y 'onomas' que significa 'nombre'.",
+      "Proviene del griego 'sin' que significa 'sin' y del latín 'onomas' que significa 'palabra'.",
+      "Proviene del latín 'sino' que significa 'semejante' y 'onomas' que significa 'significado'."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De acuerdo con el documento, ¿cómo se define formalmente la sinonimia?",
+    "opciones": [
+      "Como la semejanza de escritura entre dos palabras de distinto origen.",
+      "Como la semejanza de significados entre dos o más términos comprendidos en un mismo campo semántico.",
+      "Como la diferencia absoluta de significados en palabras de la misma categoría gramatical.",
+      "Como el reemplazo obligatorio de un sustantivo por un pronombre en el contexto."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué requisito gramatical fundamental deben cumplir las palabras para ser consideradas sinónimas?",
+    "opciones": [
+      "Deben pertenecer a diferente clase gramatical.",
+      "Deben poseer un origen etimológico idéntico.",
+      "Deben pertenecer a la misma clase gramatical.",
+      "Deben escribirse con el mismo número de sílabas."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se define a los sinónimos absolutos o directos?",
+    "opciones": [
+      "Son aquellos que cambian el sentido de la oración dependiendo del contexto.",
+      "Son los que, sin importar el contexto de la oración en que se encuentren, siempre tienen un mismo significado.",
+      "Son vocablos que expresan ideas total y exactamente contrarias.",
+      "Son aquellos que muestran ideas parcialmente opuestas y relativas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Seleccione la alternativa que presenta un ejemplo de sinónimos ABSOLUTOS o directos según el texto.",
+    "opciones": [
+      "Oración = frase",
+      "Silla = banca",
+      "Computadora = ordenador",
+      "Cima = planicie"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué característica principal define a los sinónimos relativos o indirectos?",
+    "opciones": [
+      "Tienen un mismo significado en cualquier contexto oracional.",
+      "Se oponen por completo a la esencia o naturaleza del otro término.",
+      "Dependiendo del contexto de la oración, cambian el sentido de la misma.",
+      "Siempre pertenecen a distintas categorías gramaticales."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Basándose en los ejemplos del material, señale un grupo de palabras que represente sinónimos relativos o indirectos.",
+    "opciones": [
+      "Silla = banca = butaca",
+      "Casa = vivienda",
+      "Computadora = ordenador",
+      "Inicio = fin"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la definición de antonimia propuesta en el documento?",
+    "opciones": [
+      "Palabras que, perteneciendo a diferente categoría gramatical, expresan un significado equivalente.",
+      "Palabras que, perteneciendo a la misma categoría gramatical, expresan significados contrarios.",
+      "Términos que se pronuncian de igual manera pero expresan ideas opuestas.",
+      "Vocablos que dependen del contexto para cambiar el sentido de la oración."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Identifique el par de antónimos que corresponden a la categoría de ADJETIVOS de acuerdo con la lista del texto.",
+    "opciones": [
+      "rapidez – lentitud",
+      "tapar – destapar",
+      "sabroso – insípido",
+      "temprano – tarde"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según la clasificación brindada, los vocablos antónimos 'bien – mal' y 'mucho – poco' pertenecen a la categoría de:",
+    "opciones": [
+      "Sustantivos",
+      "Adjetivos",
+      "Verbos",
+      "Adverbios"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué expresa la relación de los antónimos absolutos al ser contrastados?",
+    "opciones": [
+      "Ideas parcialmente opuestas dejando lugar a términos intermedios.",
+      "Ideas total y exactamente contrarias, oponiéndose por completo a su esencia.",
+      "Semejanza de significados en un mismo campo semántico.",
+      "Diferencias sutiles que varían obligatoriamente con el contexto."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Señale la alternativa que contiene un par de antónimos ABSOLUTOS, tal como se muestra en los ejemplos del documento.",
+    "opciones": [
+      "cima – planicie",
+      "perverso – bueno",
+      "persuadir – disuadir",
+      "entusiasmado – tranquilo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se caracterizan conceptualmente los antónimos relativos?",
+    "opciones": [
+      "Uno de los términos se opone por completo a la naturaleza del otro sin excepciones.",
+      "Muestran ideas parcialmente opuestas, dejando la posibilidad de una oposición más categórica.",
+      "Mantienen siempre el mismo significado opuesto sin importar el contexto.",
+      "Son aquellos que no pertenecen a la misma categoría gramatical."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Identifique un ejemplo de antónimo RELATIVO extraído fielmente del texto.",
+    "opciones": [
+      "inicio – fin",
+      "anteponer – posponer",
+      "introvertido – extravertido",
+      "cima – planicie"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "En la clasificación de antónimos, ¿por qué el par 'entusiasmado - tranquilo' es considerado relativo?",
+    "opciones": [
+      "Porque son términos de origen griego.",
+      "Porque sus significados expresan una idea total y exactamente contraria.",
+      "Porque la contrariedad no es plena, dejando la posibilidad de que otro término exprese una oposición mayor.",
+      "Porque pertenecen a distintas categorías gramaticales (uno es adjetivo y otro es verbo)."
+    ],
+    "correcta": 2
+  }
+          ]
         },
         {
-          "titulo": "16.2 Pronto",
-          "youtube_id": "PENDIENTE",
-          "pdf_link": "LINK_PDF_17.2",
+          "titulo": "Parte 2",
+          "youtube_id": "oiofLYzO91g",
+          "pdf_link": "https://drive.google.com/file/d/1Xh3FPSyOfbLxuAlrvosM8ypOGdheGnv4/view",
           "gratis": false,
-          "preguntas": []
+          "preguntas": [
+              {
+    "pregunta": "Según el documento, ¿cómo se define formalmente la paronimia?",
+    "opciones": [
+      "Como dos o más palabras que tienen idéntica escritura pero diferentes significados según el contexto.",
+      "Como palabras de significados opuestos pero igual pronunciación.",
+      "Como dos o más palabras que se asemejan en su sonido, pero se escriben de forma diferente y tienen significados distintos.",
+      "Como vocablos con igual significado pero distinta categoría gramatical."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "De acuerdo con el texto, ¿cuáles son las dos clases de parónimos que se describen?",
+    "opciones": [
+      "Parónimos por el acento y parónimos por la escritura.",
+      "Parónimos absolutos y parónimos relativos.",
+      "Parónimos directos y parónimos indirectos.",
+      "Parónimos por el género y parónimos por el número."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes pares de palabras representa un ejemplo general de parónimos mencionado en la introducción del documento?",
+    "opciones": [
+      "alto – bajo",
+      "alcalde – alcaide",
+      "silla – banca",
+      "ánimo – espíritu"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según la clasificación de los parónimos por el acento (esdrújulas, llanas, agudas), ¿cuál es la serie correcta mostrada en el material?",
+    "opciones": [
+      "actitud – aptitud – altitud",
+      "habido – ávido – habidos",
+      "Cálculo – Calculo – calculó",
+      "absolver – absolvió – absolverá"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En los parónimos por escritura, ¿qué significa la palabra \"absolver\" según el texto?",
+    "opciones": [
+      "Beber",
+      "Perdonar",
+      "Lanzar",
+      "Ir delante"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Las palabras \"actitud\" y \"aptitud\" son presentadas como parónimos. ¿Cuáles son sus significados respectivos de acuerdo con el material?",
+    "opciones": [
+      "Inclinación / idoneidad",
+      "Postura / alteración",
+      "Postura / idoneidad",
+      "Idoneidad / postura"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué significan las palabras \"agravado\" y \"agraviado\" respectivamente, según los ejemplos de parónimos por la escritura?",
+    "opciones": [
+      "De grave / ofendido",
+      "De ofendido / de gravedad",
+      "Joya / de alojar",
+      "Perverso / de vender"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En los parónimos por escritura, la palabra \"adoptar\" se define específicamente como:",
+    "opciones": [
+      "Ajustar, acomodar",
+      "Tomar posición",
+      "Ir delante",
+      "Beber"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Identifique el par de parónimos por escritura extraído literalmente del texto, junto con sus significados correctos.",
+    "opciones": [
+      "arca (para ahorcar) – horca (caja)",
+      "arca (joya) – horca (caja)",
+      "arca (de alojar) – horca (inclinación)",
+      "arca (caja) – horca (para ahorcar)"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Según la lista de parónimos por escritura del documento, la palabra \"ayes\" significa:",
+    "opciones": [
+      "De hallar",
+      "Cera",
+      "Quejidos lastimosos",
+      "Preposición"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia de significado entre \"aparte\" y \"a parte\" expresada en el texto?",
+    "opciones": [
+      "'aparte' significa de apartar y 'a parte' es una preposición.",
+      "'aparte' es una preposición y 'a parte' significa de apartar.",
+      "'aparte' significa quejido y 'a parte' significa hallar.",
+      "'aparte' significa faja y 'a parte' significa perverso."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En los ejemplos de parónimos por escritura, ¿qué palabras se asocian a los significados de \"proyectil\" y \"cera\" respectivamente?",
+    "opciones": [
+      "Vara y barra",
+      "Bala y vela",
+      "Banda y venda",
+      "Balido y válido"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De acuerdo con el texto, el parónimo por escritura de la palabra \"bandido\" (que significa perverso) es:",
+    "opciones": [
+      "banda (faja)",
+      "balido (de balar)",
+      "vendido (de vender)",
+      "venda (cinta sujetadora)"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según la lectura, ¿qué significa la palabra \"ávido\" y cuál es el parónimo que la acompaña?",
+    "opciones": [
+      "Significa 'de valer' y su parónimo es balido.",
+      "Significa 'ansioso' y su parónimo es habido.",
+      "Significa 'de haber' y su parónimo es válido.",
+      "Significa 'perverso' y su parónimo es vendido."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Seleccione la opción que relaciona correctamente la palabra con su significado extraído del cuadro del documento.",
+    "opciones": [
+      "vara : tira de metal",
+      "barra : rama",
+      "balido : de valer",
+      "venda : cinta sujetadora"
+    ],
+    "correcta": 3
+  }
+          ]
+        },
+        {
+          "titulo": "Parte 3",
+          "youtube_id": "TvEaa_y9Y0E",
+          "pdf_link": "https://drive.google.com/file/d/1WK3YbLkMVs6MYfLMesVtJgn3hw1Ik6km/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según el documento, ¿cómo se define la homofonía?",
+    "opciones": [
+      "Palabras con igual sonido o pronunciación, pero escritura ligeramente diferente y significados distintos.",
+      "Palabras con idéntica escritura y pronunciación, pero significados distintos.",
+      "Palabras con diferente pronunciación y escritura, pero un mismo significado.",
+      "Palabras que presentan una relación genérico-específica en su significado."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué par de palabras ejemplifica un caso de homofonía según los ejemplos presentados en el texto?",
+    "opciones": [
+      "llama - llama",
+      "flor - rosa",
+      "abría - habría",
+      "libro - capítulo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "De acuerdo con el cuadro de palabras homófonas, ¿cuál es la diferencia de significado entre 'ojear' y 'hojear'?",
+    "opciones": [
+      "La primera significa 'pasar hojas' y la segunda 'mirar, observar'.",
+      "La primera significa 'mirar, observar' y la segunda 'pasar hojas'.",
+      "La primera es una interjección y la segunda deriva del verbo haber.",
+      "Ambas palabras significan exactamente lo mismo dependiendo del contexto."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la característica principal de las palabras homógrafas?",
+    "opciones": [
+      "Tienen igual sonido, pero escritura ligeramente diferente y significados distintos.",
+      "Establecen una relación de parte-todo en un mismo campo semántico.",
+      "Tienen igual escritura y pronunciación, pero significados distintos.",
+      "Tienen distinta escritura y pronunciación, pero significados semejantes."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el texto se menciona la palabra 'alpaca' con tres acepciones distintas: animal, metal y paño hecho del pelo del animal. Este es un ejemplo de:",
+    "opciones": [
+      "Homofonía",
+      "Cohiponimia",
+      "Holonimia",
+      "Homografía"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué tipo de relación semántica se establece en la hiperonimia?",
+    "opciones": [
+      "Relación todo-parte.",
+      "Relación específico-genérico.",
+      "Relación genérico-específico.",
+      "Relación entre partes de un mismo todo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Identifique el ejemplo que corresponde estrictamente a una relación de HIPERONIMIA según el documento.",
+    "opciones": [
+      "jueves - día",
+      "país - perú",
+      "lechuga - beterraga",
+      "ojo - iris"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La relación semántica que va de lo específico a lo genérico (por ejemplo, 'mesa - mueble') se denomina:",
+    "opciones": [
+      "Holonimia",
+      "Hiponimia",
+      "Meronimia",
+      "Hiperonimia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según la teoría semántica del documento, la cohiponimia corresponde a la relación que se establece entre:",
+    "opciones": [
+      "Los merónimos de un mismo holónimo.",
+      "Un hiperónimo y sus múltiples merónimos.",
+      "Los hipónimos de un mismo hiperónimo.",
+      "Palabras homófonas de diferentes campos semánticos."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si consideramos las palabras 'lechuga', 'coliflor' y 'zanahoria', ¿por qué se afirma que son cohipónimos?",
+    "opciones": [
+      "Porque todas ellas son partes constitutivas de una ensalada (holónimo).",
+      "Porque tienen idéntica pronunciación pero distinta escritura.",
+      "Porque se relacionan de lo genérico a lo específico.",
+      "Porque todas son hipónimos que pertenecen al mismo hiperónimo 'hortaliza'."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué tipo de relación se establece en la holonimia?",
+    "opciones": [
+      "Genérico-específico",
+      "Todo-parte",
+      "Parte-todo",
+      "Específico-genérico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Señale el par de palabras que ilustra una relación de holonimia (todo-parte), tal como se muestra en los ejemplos del material.",
+    "opciones": [
+      "libro - capítulo",
+      "pedal - bicicleta",
+      "flor - rosa",
+      "naranja - fruta"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En oposición a la holonimia, la meronimia se define como la relación semántica de:",
+    "opciones": [
+      "Todo-parte",
+      "Parte-todo",
+      "Genérico-específico",
+      "Términos de igual jerarquía genérica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Analizando la pareja de palabras 'pantalla - televisor', el documento la clasifica como un ejemplo de:",
+    "opciones": [
+      "Holonimia",
+      "Meronimia",
+      "Comeronimia",
+      "Hiponimia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se denomina a la relación semántica que se establece entre los merónimos de un mismo holónimo (ej. 'raíz - tallo' respecto a 'árbol o planta')?",
+    "opciones": [
+      "Cohiponimia",
+      "Holonimia múltiple",
+      "Comeronimia",
+      "Homografía"
+    ],
+    "correcta": 2
+  }
+          ]
+        },
+        {
+          "titulo": "Parte 4",
+          "youtube_id": "N1Ro-wxJF9Q",
+          "pdf_link": "https://drive.google.com/file/d/1EqwuM60yEaaL8jDl9r2uBbdAD4hycZVh/view",
+          "gratis": false,
+          "preguntas": [
+              {
+    "pregunta": "Según el documento, ¿cómo se define la analogía?",
+    "opciones": [
+      "Como la semejanza o parecido de relación que existe entre dos pares de palabras.",
+      "Como la identidad absoluta de significados entre dos palabras.",
+      "Como la oposición directa de ideas en un mismo contexto gramatical.",
+      "Como la repetición de sonidos al final de dos o más versos."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿A raíz de qué proceso emerge la semejanza en una analogía y cómo se consolida?",
+    "opciones": [
+      "Del proceso de derivación etimológica y se consolida con el uso popular.",
+      "Del proceso de comparación y se consolida considerando los rasgos más importantes y notorios de dichas relaciones.",
+      "Del proceso de síntesis literaria y se consolida evaluando la morfología.",
+      "Del proceso de traducción y se consolida buscando sinónimos exactos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Estructuralmente, ¿cómo está conformado un ejercicio de analogía típica según el texto?",
+    "opciones": [
+      "Un título, tres premisas y cuatro alternativas.",
+      "Un texto base, una pregunta de retención y tres opciones de traducción.",
+      "Una premisa o base (generalmente dos palabras) y cinco alternativas u opciones.",
+      "Dos ideas secundarias, una principal y cuatro alternativas."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El par análogo 'arco : flecha' corresponde a la clasificación de analogías de:",
+    "opciones": [
+      "Sinonimia",
+      "Cogenéricas",
+      "Semejanza",
+      "Complementariedad"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué atributo esencial define a las analogías cogenéricas, como en el caso de 'oro : plata'?",
+    "opciones": [
+      "La pertenencia de ambos términos al mismo concepto, clase o categoría.",
+      "La oposición absoluta de las naturalezas de ambos términos.",
+      "La dependencia mutua para cumplir un rol u oficio determinado.",
+      "La relación de evolución desde un elemento arcaico a uno moderno."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En la clasificación de analogías, ¿qué relación se presenta en los pares 'empezar : concluir' y 'bisoño : veterano'?",
+    "opciones": [
+      "Sinonimia",
+      "Antonimia",
+      "Complementariedad",
+      "Contigüidad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según la clasificación del texto, la relación análoga 'carpintero : mesa' pertenece al tipo:",
+    "opciones": [
+      "Sujeto - Objeto",
+      "Materia prima - Producto",
+      "Oficio - Producto",
+      "Causa - Efecto"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la analogía 'acróbata : plasticidad', ¿qué relación se establece entre los términos según la teoría del documento?",
+    "opciones": [
+      "Causa - Efecto",
+      "Característica",
+      "Función",
+      "Disciplina - Objeto de estudio"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Identifique el par que corresponde a una analogía de CAUSA - EFECTO extraída literalmente del material.",
+    "opciones": [
+      "acera : pista",
+      "golpe : dolor",
+      "brisa : huracán",
+      "martillo : golpear"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El par de palabras 'aperitivo : banquete' representa una analogía de:",
+    "opciones": [
+      "Contigüidad",
+      "Evolución",
+      "Complementariedad",
+      "Parte - Todo"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "La analogía 'escalera : ascensor' se clasifica como una relación de EVOLUCIÓN porque:",
+    "opciones": [
+      "Uno designa la materia prima y el otro el producto manufacturado.",
+      "Son de naturaleza distinta pero tienen formas coincidentes.",
+      "Un término designa el elemento arcaico o primigenio y el otro el elemento sofisticado o moderno.",
+      "Ambos requieren el uno del otro para cumplir su rol en una edificación."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de analogía se evidencia en los pares 'brisa : huracán' y 'tibio : caliente'?",
+    "opciones": [
+      "Semejanza",
+      "Intensidad",
+      "Evolución",
+      "Antonimia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En las relaciones analógicas, ¿cómo se clasifica el par 'matraca : traquetea'?",
+    "opciones": [
+      "Sujeto - Objeto",
+      "Semejanza",
+      "Onomatopeya",
+      "Función"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "De acuerdo con el texto, la analogía 'cetro : poder' pertenece a la clase de:",
+    "opciones": [
+      "Representación",
+      "Sujeto - Objeto de estudio",
+      "Característica",
+      "Simbolismo"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "La analogía 'balanza : pesar' señala a un elemento material y a su resultado o tipo de empleo. Esta relación se denomina:",
+    "opciones": [
+      "Utilidad",
+      "Función",
+      "Sujeto - Objeto",
+      "Oficio - Producto"
+    ],
+    "correcta": 0
+  }
+          ]
         }
       ]
     }
