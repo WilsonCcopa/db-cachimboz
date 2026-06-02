@@ -3006,13 +3006,13 @@
         {
           "titulo": "7.4. Ejercicios",
           "youtube_id": "A_sFR10kjlY",
-          "pdf_link": "https://drive.google.com/file/d/1aNXmUJybZUqqHcEM1ZiZU2uVp9-IFA71/view",
+          "pdf_link": "https://drive.google.com/file/d/1OWkEeHXKYY7azRz86HVzyHYjzcfU5UXi/view",
           "gratis": true
         }
       ]
     },
     {
-      "titulo": "Tema 8: PRONTO",
+      "titulo": "Tema 8: Reacciones Químicas",
       "pdf_resuelto": "",
       "preguntas": [
         {
@@ -3024,33 +3024,33 @@
       ],
       "videos": [
         {
-          "titulo": "8.1. PRONTO...",
-          "youtube_id": "ID_YOUTUBE",
+          "titulo": "8.1. Parte 1",
+          "youtube_id": "C8EijCfOfdc",
           "pdf_link": "LINK_DRIVE",
           "gratis": true
         },
         {
-          "titulo": "8.2. PRONTO...",
-          "youtube_id": "ID_YOUTUBE",
+          "titulo": "8.2. Parte 2",
+          "youtube_id": "qHxthmH8skE",
           "pdf_link": "LINK_DRIVE",
           "gratis": true
         },
         {
-          "titulo": "8.3. PRONTO...",
-          "youtube_id": "ID_YOUTUBE",
+          "titulo": "8.3. Redox - P3",
+          "youtube_id": "MSvZ3aC4_dI",
           "pdf_link": "LINK_DRIVE",
           "gratis": true
         },
         {
-          "titulo": "8.4. PRONTO...",
-          "youtube_id": "ID_YOUTUBE",
+          "titulo": "8.4. Ejercicios",
+          "youtube_id": "SJvBcq0aqXE",
           "pdf_link": "LINK_DRIVE",
           "gratis": true
         }
       ]
     },
     {
-      "titulo": "Tema 9: PRONTO...",
+      "titulo": "Tema 9: Balance de Ecuaciones",
       "pdf_resuelto": "",
       "preguntas": [
         {
@@ -3062,21 +3062,27 @@
       ],
       "videos": [
         {
-          "titulo": "9.1. PRONTO...",
-          "youtube_id": "ID_YOUTUBE",
+          "titulo": "9.1. Teoría",
+          "youtube_id": "oa2fcDIwu1c",
           "pdf_link": "LINK_DRIVE",
           "gratis": true
         },
         {
-          "titulo": "9.2. PRONTO...",
-          "youtube_id": "ID_YOUTUBE",
+          "titulo": "9.2. Ejercicios",
+          "youtube_id": "Pjtp8ISARBU",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "9.3. Ejercicios",
+          "youtube_id": "ljVPfbM_cUU",
           "pdf_link": "LINK_DRIVE",
           "gratis": true
         }
       ]
     },
     {
-      "titulo": "Tema 10: PRONTO...",
+      "titulo": "Tema 10: Estequiometría",
       "pdf_resuelto": "",
       "preguntas": [
         {
@@ -3088,8 +3094,14 @@
       ],
       "videos": [
         {
-          "titulo": "10.1 PRONTO...",
-          "youtube_id": "ID_YOUTUBE",
+          "titulo": "10.1 Teoria",
+          "youtube_id": "_Xd9IMnOJKc",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "10.2 Ejercicios",
+          "youtube_id": "H69m-dnXgbo",
           "pdf_link": "LINK_DRIVE",
           "gratis": true
         }
