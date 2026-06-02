@@ -3013,96 +3013,1026 @@
     },
     {
       "titulo": "Tema 8: Reacciones Químicas",
-      "pdf_resuelto": "",
+      "pdf_resuelto": "https://drive.google.com/file/d/1RB0v_iGVltaCQLn98uYsgmSCDfFeLEft/view",
       "preguntas": [
         {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "pregunta": "Reconozca los tipos de reacciones químicas:<br>$$ Cr_2O_3 + Al \\rightarrow Al_2O_3 + 2Cr $$<br>$$ Au_2O_3 \\rightarrow 2Au + 3O_2 $$",
+          "opciones": [
+            "Desplazamiento simple y descomposición",
+            "Desplazamiento simple y metátesis",
+            "Combinación y desplazamiento",
+            "Adición y metátesis",
+            "Metátesis y metátesis"
+          ],
           "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+          "resolucion": "<b>Resolución:</b><br>En la primera reacción, el Cromo (Cr) desplaza al Aluminio (Al) del compuesto, por lo que es una reacción de <b>desplazamiento simple</b>.<br>En la segunda reacción, el $Au_2O_3$ se desdobla en sustancias más simples (Au y $O_2$), por lo que es una reacción de <b>descomposición</b>."
+        },
+        {
+          "pregunta": "Indicar la alternativa correcta referente al tipo de reacción química:<br>$$ N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g) \\quad \\Delta H = -9 \\text{ kcal/mol} $$",
+          "opciones": [
+            "Reversible, endotérmica, redox",
+            "Reversible, exotérmica, síntesis",
+            "Reversible, metátesis, exotérmica",
+            "Irreversible, síntesis, endotérmica",
+            "Reversible, homogénea, metátesis"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>Tiene doble flecha, por lo que es <b>reversible</b>.<br>Se forma un compuesto ($NH_3$) a partir de sus sustancias simples, lo que la define como reacción de <b>síntesis</b>.<br>Su $\\Delta H$ es negativo, lo cual indica que libera calor, es decir, es <b>exotérmica</b>."
+        },
+        {
+          "pregunta": "Las siguientes reacciones corresponden respectivamente a reacciones de:<br>• $$ 2HgO \\rightarrow 2Hg + O_2 $$<br>• $$ Na_2SO_4 + H_2O \\rightarrow 2NaOH + H_2SO_4 $$<br>• $$ 2Al + 3H_2SO_4 \\rightarrow 3H_2 + Al_2(SO_4)_3 $$",
+          "opciones": [
+            "Metátesis, síntesis, desplazamiento simple",
+            "Descomposición, desplazamiento simple, metátesis",
+            "Descomposición, desplazamiento libre, desplazamiento simple",
+            "Desplazamiento, descomposición simple, descomposición doble",
+            "Descomposición, metátesis, desplazamiento simple"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Resolución:</b><br>1) El HgO se desdobla en dos sustancias, es <b>descomposición</b>.<br>2) Hay un intercambio iónico entre dos compuestos (hidrólisis), categorizado como <b>metátesis</b>.<br>3) El Aluminio desplaza al Hidrógeno del ácido, siendo un <b>desplazamiento simple</b>."
+        },
+        {
+          "pregunta": "Las siguientes ecuaciones:<br>$$ Fe + 2HCl \\rightarrow FeCl_2 + H_2 $$<br>$$ Zn(NO_3)_2 + 2AgOH \\rightarrow Zn(OH)_2 + 2AgNO_3 $$<br>Representan reacciones de:",
+          "opciones": [
+            "Descomposición y síntesis",
+            "Desplazamiento simple y metátesis",
+            "Síntesis y descomposición",
+            "Metátesis y síntesis",
+            "Ambas son metátesis"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>En la primera, el Fe desplaza al H del HCl, constituyendo una reacción de <b>desplazamiento simple</b>.<br>En la segunda, hay un intercambio recíproco de iones entre dos sales/bases, lo que se conoce como doble desplazamiento o <b>metátesis</b>."
+        },
+        {
+          "pregunta": "Cuando el clorato de potasio se somete al calor, se obtiene cloruro de potasio y oxígeno molecular. La reacción es de:",
+          "opciones": [
+            "Síntesis y endotérmica",
+            "Síntesis y exotérmica",
+            "Desplazamiento simple y endotérmica",
+            "Descomposición y endotérmica",
+            "Metátesis y endotérmica"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>La ecuación es: $$ 2KClO_3 + \\text{calor} \\rightarrow 2KCl + 3O_2 $$<br>Al suministrar calor para romper el compuesto, el proceso absorbe energía (<b>endotérmica</b>) y genera dos sustancias más simples a partir de una (<b>descomposición</b>)."
+        },
+        {
+          "pregunta": "La ecuación química mostrada corresponde a una reacción de:<br>$$ CaCO_3 + \\text{calor} \\rightarrow CaO + CO_2 $$",
+          "opciones": [
+            "Descomposición y endotérmica",
+            "Desplazamiento endotérmica",
+            "Doble desplazamiento exotérmica",
+            "Síntesis y endotérmica",
+            "Descomposición endotérmica"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>El $CaCO_3$ se <b>descompone</b> en dos compuestos más sencillos. Para que ocurra, absorbe energía en forma de calor, por lo que es una reacción <b>endotérmica</b>."
+        },
+        {
+          "pregunta": "Identificar las siguientes reacciones:<br>$$ Zn + 2HCl \\rightarrow ZnCl_2 + H_2 $$<br>$$ KClO_3 \\rightarrow KCl + O_2 $$",
+          "opciones": [
+            "Síntesis y síntesis",
+            "Doble desplazamiento y desplazamiento",
+            "Síntesis y descomposición",
+            "Doble desplazamiento y descomposición",
+            "Desplazamiento simple y descomposición"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Resolución:</b><br>1) El Zinc desplaza al Hidrógeno, por lo tanto es <b>desplazamiento simple</b>.<br>2) El clorato de potasio se separa en dos sustancias distintas, por lo tanto es <b>descomposición</b>."
+        },
+        {
+          "pregunta": "La siguiente reacción química:<br>$$ H_2(g) + Cl_2(g) \\rightarrow 2HCl(g) + 46 \\text{ kcal/mol} $$",
+          "opciones": [
+            "Síntesis, homogénea, irreversible y endotérmica",
+            "Descomposición, homogénea, irreversible y endotérmica",
+            "Desplazamiento, heterogénea, reversible y exotérmica",
+            "Síntesis, homogénea, irreversible y exotérmica",
+            "Síntesis, heterogénea, reversible y endotérmica"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>Se forma un solo producto a partir de elementos (<b>síntesis</b>).<br>Todas las sustancias están en la misma fase gaseosa (<b>homogénea</b>).<br>Tiene una sola flecha (<b>irreversible</b>).<br>El calor aparece en los productos, indicando liberación de energía (<b>exotérmica</b>)."
+        },
+        {
+          "pregunta": "En una reacción exotérmica, ¿cuál es la alternativa correcta?",
+          "opciones": [
+            "Produce energía",
+            "El signo de la energía presente en el cambio es (+)",
+            "Se requiere suministrar energía desde afuera",
+            "No interviene la energía",
+            "El signo de la energía presente en el cambio es (-)"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>Una reacción exotérmica se caracteriza por liberar o <b>producir energía</b> (generalmente en forma de calor) hacia el entorno durante el proceso."
+        },
+        {
+          "pregunta": "Una reacción endotérmica es aquella que:",
+          "opciones": [
+            "Desprende calor",
+            "Necesita absorber calor para realizarse",
+            "Los reactantes no son consumidos totalmente",
+            "Se realiza en dos etapas",
+            "Pierde calor"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>Las reacciones endotérmicas son aquellas en las que hay que suministrar calor (o energía) al sistema para que la reacción pueda llevarse a cabo; es decir, <b>absorben energía</b>."
+        },
+        {
+          "pregunta": "La reacción del hidróxido de potasio con el ácido clorhídrico corresponde a una reacción de:<br>$$ KOH(aq) + HCl(aq) \\rightarrow KCl(aq) + H_2O(l) $$",
+          "opciones": [
+            "Adición",
+            "Descomposición",
+            "Desplazamiento simple",
+            "Desplazamiento doble",
+            "Combustión"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>Esta es una clásica reacción de neutralización ácido-base. En ella ocurre un intercambio mutuo de iones (el K se une al Cl, y el H al OH), lo que la clasifica como una reacción de <b>desplazamiento doble</b> (metátesis)."
+        },
+        {
+          "pregunta": "Para la siguiente reacción química:<br>$$ 2CO(g) + O_2(g) \\rightleftharpoons 2CO_2(g) \\quad \\Delta H = -135,5 \\text{ kcal} $$<br>Marque la alternativa correcta.",
+          "opciones": [
+            "Adición, homogénea, exotérmica",
+            "Adición, metátesis, exotérmica",
+            "Descomposición, irreversible, endotérmica",
+            "Descomposición, homogénea, endotérmica",
+            "Metátesis, heterogénea, endotérmica"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>Dos compuestos se unen para formar uno solo (<b>Adición/Síntesis</b>).<br>Todos están en estado gaseoso (<b>homogénea</b>).<br>El $\\Delta H$ negativo indica que libera calor (<b>exotérmica</b>)."
+        },
+        {
+          "pregunta": "Indique el tipo de reacciones químicas a las que corresponden las siguientes ecuaciones:<br>$$ CaCO_3(s) + \\text{Calor} \\rightleftharpoons CaO(s) + CO_2(g) $$<br>$$ NaCl(aq) + AgNO_3(aq) \\rightleftharpoons AgCl(s) + NaNO_3(aq) $$",
+          "opciones": [
+            "Combinación y desplazamiento simple",
+            "Descomposición y desplazamiento simple",
+            "Descomposición y metátesis",
+            "Descomposición y descomposición",
+            "Metátesis y metátesis"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>La primera reacción muestra a un compuesto rompiéndose en dos más simples por acción del calor (<b>Descomposición</b>).<br>La segunda reacción muestra un intercambio de iones entre dos sales (<b>Metátesis</b> o doble desplazamiento)."
+        },
+        {
+          "pregunta": "En la reacción química:<br>$$ 2SO_2(g) + O_2(g) \\rightleftharpoons 2SO_3(g) + \\text{calor} $$",
+          "opciones": [
+            "Síntesis, homogénea, reversible y exotérmica",
+            "Descomposición, homogénea, reversible y exotérmica",
+            "Síntesis, homogénea, reversible y endotérmica",
+            "Desplazamiento, reversible y exotérmica",
+            "Síntesis, heterogénea, reversible y exotérmica"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>Forma un único producto (<b>Síntesis</b>).<br>Todas las sustancias son gases (<b>homogénea</b>).<br>Posee una flecha doble (<b>reversible</b>).<br>El calor aparece en los productos, indicando que se libera energía (<b>exotérmica</b>)."
+        },
+        {
+          "pregunta": "Cuando se hace reaccionar agua con óxido de carbono (IV), se produce ácido carbónico. La categoría a la que pertenece esta reacción es:",
+          "opciones": [
+            "Sustitución",
+            "Descomposición",
+            "Desplazamiento simple",
+            "Síntesis",
+            "Desplazamiento doble"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>La reacción es: $$ CO_2 + H_2O \\rightarrow H_2CO_3 $$<br>Se combinan dos reactantes para formar un único producto, lo que corresponde a una reacción de <b>síntesis</b>."
+        },
+        {
+          "pregunta": "Las siguientes ecuaciones:<br>$$ Zn(s) + 2HCl(aq) \\rightarrow ZnCl_2(aq) + H_2(g) $$<br>$$ Pb(NO_3)_2(aq) + 2KI(aq) \\rightarrow PbI_2(s) + 2KNO_3(aq) $$<br>Representan reacciones de:",
+          "opciones": [
+            "Descomposición y síntesis",
+            "Metátesis y metátesis",
+            "Desplazamiento simple y metátesis",
+            "Desplazamiento doble y síntesis",
+            "Descomposición y metátesis"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>En la primera, el Zn reemplaza al H en el compuesto (<b>desplazamiento simple</b>).<br>En la segunda, el Plomo (Pb) y el Potasio (K) intercambian sus aniones para formar nuevos compuestos (<b>metátesis</b> o doble desplazamiento)."
+        },
+        {
+          "pregunta": "En las siguientes ecuaciones químicas:<br>• $$ (NH_4)_2Cr_2O_7 \\rightarrow Cr_2O_3 + N_2 + 4H_2O $$<br>• $$ CuSO_4 + Na_2CrO_4 \\rightarrow CuCrO_4 + Na_2SO_4 $$<br>• $$ 2Al + 3I_2 \\rightarrow 2AlI_3 $$<br>Se cumple que son reacciones de:",
+          "opciones": [
+            "Descomposición, metátesis, síntesis",
+            "Síntesis, descomposición, metátesis",
+            "Doble desplazamiento, síntesis, descomposición",
+            "Desplazamiento simple, síntesis, descomposición",
+            "Descomposición, síntesis, metátesis"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>1) El dicromato de amonio se desdobla en sustancias más simples (<b>descomposición</b>).<br>2) Hay intercambio de aniones (<b>metátesis</b>).<br>3) Aluminio y yodo se unen en un solo compuesto (<b>síntesis</b>)."
+        },
+        {
+          "pregunta": "En la siguiente ecuación química:<br>$$ 2SO_2(g) + O_2(g) \\rightleftharpoons 2SO_3(g) + \\text{calor} $$<br>La clasificación por agrupamiento atómico y cambio energético es:",
+          "opciones": [
+            "Desplazamiento simple - endotérmica",
+            "Síntesis - endotérmica",
+            "Homogénea, reversible y de metátesis",
+            "Heterogénea, irreversible y de metátesis",
+            "Síntesis - exotérmica"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Resolución:</b><br>El agrupamiento de sustancias simples para dar un solo producto es <b>síntesis</b>. La presencia de calor en el lado de los productos indica que es una reacción <b>exotérmica</b>."
+        },
+        {
+          "pregunta": "Dada la siguiente reacción química, identifique la alternativa correcta:<br>$$ CO(g) + O_2(g) \\rightleftharpoons CO_2(g) \\quad \\text{Calor de reacción = -135,5 kcal} $$",
+          "opciones": [
+            "Adición, metátesis, exotérmica",
+            "Descomposición, irreversible, endotérmica",
+            "Descomposición, homogénea, endotérmica",
+            "Adición, homogénea, exotérmica",
+            "Desplazamiento simple, homogénea, exotérmica"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>Todos los componentes están en la misma fase gaseosa (<b>homogénea</b>).<br>Se unen reactantes para un solo producto (<b>adición</b>).<br>El calor de reacción negativo ($\\Delta H$) significa que el sistema pierde calor, cediéndolo al entorno (<b>exotérmica</b>)."
+        },
+        {
+          "pregunta": "Se puede afirmar que la siguiente reacción:<br>$$ N_2O_4(g) \\rightleftharpoons 2NO_2(g) + 200 \\text{ kcal} $$",
+          "opciones": [
+            "Homogénea, exotérmica, irreversible",
+            "Homogénea, endotérmica, irreversible",
+            "Heterogénea, endotérmica, irreversible",
+            "Heterogénea, endotérmica, reversible",
+            "Homogénea, exotérmica, reversible"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Resolución:</b><br>Todos los participantes son gases (<b>homogénea</b>).<br>Tiene doble flecha (<b>reversible</b>).<br>Libera calor, denotado por el $+ 200 \\text{ kcal}$ en el lado de los productos (<b>exotérmica</b>)."
+        },
+        {
+          "pregunta": "En la reacción de metátesis entre nitrato de potasio y sulfato de cobre (II), los compuestos que se forman son:",
+          "opciones": [
+            "Nitrato de potasio y sulfato de cobre (I)",
+            "Sulfito de potasio y nitrato de cobre (1)",
+            "Óxido de cobre (II) y sulfato de potasio",
+            "Nitrato de cobre (II) y sulfato de potasio",
+            "Óxido de cobre y óxido de nitrógeno"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>La reacción es: $$ 2KNO_3 + CuSO_4 \\rightarrow K_2SO_4 + Cu(NO_3)_2 $$<br>Por intercambio iónico (metátesis), se forman <b>sulfato de potasio</b> y <b>nitrato de cobre (II)</b>."
+        },
+        {
+          "pregunta": "En la reacción de metátesis:<br>Nitrato de plomo (II) + yoduro de potasio<br>Los compuestos que se forman son:",
+          "opciones": [
+            "Yoduro de potasio y nitrato de potasio",
+            "Yoduro de plomo (II) y nitrato de potasio",
+            "Óxido de plomo (II) y óxido de potasio",
+            "Yodato de plomo y nitrato de potasio",
+            "Periodato de plomo y nitrato de potasio"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>La reacción de doble desplazamiento intercambia los iones:<br>$$ Pb(NO_3)_2 + 2KI \\rightarrow PbI_2 + 2KNO_3 $$<br>Produciendo un precipitado amarillo de <b>yoduro de plomo (II)</b> y <b>nitrato de potasio</b> acuoso."
+        },
+        {
+          "pregunta": "La reacción:<br>$$ NaOH(aq) + HCl(aq) \\rightleftharpoons NaCl(aq) + H_2O(l) $$<br>Se clasifica como:",
+          "opciones": [
+            "Endotérmica, síntesis y metátesis",
+            "Homogénea, irreversible y metátesis",
+            "Exotérmica, reversible y de metátesis",
+            "Heterogénea, síntesis",
+            "Desplazamiento simple"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>Es una reacción de neutralización ácido-base (intercambio de iones), por lo que es una <b>metátesis</b>. Ocurre en una sola fase acuosa visible (<b>homogénea</b>) y su retorno es prácticamente nulo en condiciones normales (<b>irreversible</b> en términos prácticos)."
+        },
+        {
+          "pregunta": "¿Cuántas de las siguientes reacciones son endotérmicas?<br>• $$ A(g) \\rightleftharpoons 2B_2(g) + 200 \\text{ kcal} $$<br>• $$ A(g) \\rightarrow B_2(g) - 180 \\text{ kcal} $$<br>• $$ 2A(g) - 150 \\text{ kcal} \\rightarrow B_2(g) $$<br>• $$ A(g) \\rightleftharpoons 2B_2(g) \\quad \\Delta H = +200 \\text{ kcal} $$<br>• $$ A(g) + 120 \\text{ kcal} \\rightleftharpoons 2B_2(g) $$",
+          "opciones": [
+            "2",
+            "3",
+            "1",
+            "5",
+            "4"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>Son endotérmicas las reacciones que absorben energía (calor en reactivos, o $\\Delta H$ positivo).<br>1) $+ 200$ en productos $\\rightarrow$ Exotérmica.<br>2) $- 180$ en productos (equivalente a sumarlo en reactivos) $\\rightarrow$ Endotérmica.<br>3) $- 150$ en reactivos (equivalente a sumarlo en productos) $\\rightarrow$ Exotérmica.<br>4) $\\Delta H = +200$ $\\rightarrow$ Endotérmica.<br>5) $+ 120$ en reactivos $\\rightarrow$ Endotérmica.<br>En total hay <b>3</b> reacciones endotérmicas."
+        },
+        {
+          "pregunta": "Cuando se hace reaccionar agua con óxido de hierro (III), se produce hidróxido de hierro (III). La categoría a la que pertenece esta reacción es:",
+          "opciones": [
+            "Sustitución",
+            "Descomposición",
+            "Desplazamiento simple",
+            "Síntesis",
+            "Desplazamiento doble"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>La ecuación es: $$ Fe_2O_3 + 3H_2O \\rightarrow 2Fe(OH)_3 $$<br>El agua y el óxido metálico se combinan para formar un hidróxido, encajando en la categoría de <b>síntesis</b> o adición."
+        },
+        {
+          "pregunta": "Para la reacción inversa de la ecuación:<br>$$ PCl_5(g) \\rightleftharpoons PCl_3(g) + Cl_2(g) \\quad \\Delta H = -91,5 \\text{ kJ} $$",
+          "opciones": [
+            "Adición y endotérmica",
+            "Descomposición y endotérmica",
+            "Adición y exotérmica",
+            "Metátesis y endotérmica",
+            "Sustitución simple y exotérmica"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>La reacción directa es una descomposición exotérmica ($\\Delta H$ negativo).<br>La <b>reacción inversa</b> consistiría en unir $PCl_3$ y $Cl_2$ para formar $PCl_5$, siendo un proceso de <b>adición</b> (síntesis). Además, al invertir la reacción, se invierte el signo de la entalpía, pasando a ser <b>endotérmica</b> (+91,5 kJ)."
+        },
+        {
+          "pregunta": "En las reacciones químicas:<br>$$ CuCO_3 + \\text{calor} \\rightleftharpoons CO_2 + CuO $$<br>$$ BaO_2 + H_2SO_4 \\rightleftharpoons BaSO_4 + H_2O_2 + \\text{calor} $$<br>Por agrupamiento atómico se clasifican en:",
+          "opciones": [
+            "Endotérmica y doble desplazamiento",
+            "Descomposición y doble desplazamiento",
+            "Desplazamiento simple y descomposición",
+            "Síntesis y desplazamiento simple",
+            "Desdoblamiento y doble desdoblamiento"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>El carbonato de cobre (II) se rompe en compuestos más simples, lo que es <b>descomposición</b>.<br>En la segunda, el Bario y el Hidrógeno intercambian iones (aniones sulfato y peróxido), lo cual corresponde a una reacción de metátesis o <b>doble desplazamiento</b>."
+        },
+        {
+          "pregunta": "La reacción química se clasifica como:<br>$$ 2NaHCO_3(s) \\rightarrow Na_2CO_3(s) + H_2O(g) + CO_2(g) - Q $$",
+          "opciones": [
+            "Adición - exotérmica",
+            "Descomposición - endotérmica",
+            "Metátesis - endotérmica",
+            "Descomposición - exotérmica",
+            "Síntesis - endotérmica"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>Una molécula compleja ($NaHCO_3$) se fragmenta en sustancias más simples (<b>descomposición</b>).<br>El símbolo \"- Q\" en el lado de los productos indica que matemáticamente el calor pertenece al lado de los reactivos, lo que significa que el proceso absorbe calor (<b>endotérmica</b>)."
+        },
+        {
+          "pregunta": "En referencia a las reacciones de oxidación-reducción, marque la alternativa de concepto incorrecta.",
+          "opciones": [
+            "En una reacción redox se produce variación de números de oxidación.",
+            "La transferencia de electrones se produce del agente oxidante al agente reductor.",
+            "El término \"forma oxidada del agente reductor\" es correcto.",
+            "El agente oxidante gana electrones.",
+            "El agente oxidante puede ser también agente reductor en la misma reacción."
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>La proposición incorrecta es que la transferencia se produce del agente oxidante al reductor. En la realidad, el <b>agente reductor</b> (que se oxida) es el que pierde los electrones y se los transfiere al <b>agente oxidante</b> (que se reduce)."
+        },
+        {
+          "pregunta": "Respecto de las ecuaciones de óxido-reducción, las afirmaciones correctas son:<br>I) La sustancia que se oxida es el agente reductor.<br>II) La sustancia que se reduce es el agente oxidante.<br>III) El agente reductor gana electrones y aumenta su número de oxidación.<br>IV) El agente oxidante pierde electrones y disminuye su número de oxidación.",
+          "opciones": [
+            "I y II",
+            "III",
+            "I y III",
+            "I y IV",
+            "IV"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>Las opciones I y II son definiciones fundamentales (<b>verdaderas</b>).<br>La III es falsa: el agente reductor pierde electrones.<br>La IV es falsa: el agente oxidante gana electrones."
+        },
+        {
+          "pregunta": "Corresponde a una característica de los agentes oxidantes:",
+          "opciones": [
+            "Pierden electrones",
+            "Aumenta su carga positiva",
+            "Se oxidan",
+            "Ganan electrones",
+            "Provocan la reducción de otras especies"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>El <b>agente oxidante</b> es la sustancia que provoca la oxidación de otra, y al hacerlo, este <b>gana los electrones</b> transferidos (reduciéndose en el proceso)."
+        },
+        {
+          "pregunta": "La afirmación correcta se encuentra en la alternativa:",
+          "opciones": [
+            "En un proceso de oxidación se ganan electrones.",
+            "La sustancia reductora gana electrones.",
+            "El agente oxidante produce sustancias reducidas.",
+            "En un proceso de reducción se pierden electrones.",
+            "El agente oxidante y la sustancia oxidada tienen el mismo número de oxidación."
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>El agente oxidante, al interactuar con el agente reductor, provoca que este último se oxide y él mismo se reduzca. De esta forma, el agente oxidante <b>produce sustancias reducidas</b> en el sistema."
+        },
+        {
+          "pregunta": "De acuerdo con la siguiente ecuación química, la alternativa correcta es:<br>$$ CaCl_2(s) + 2HNO_3(aq) \\rightarrow Ca(NO_3)_2(aq) + 2HCl(aq) + \\text{calor} $$",
+          "opciones": [
+            "Es una reacción de simple desplazamiento.",
+            "No se produce variación en los números de oxidación.",
+            "Corresponde a una reacción de descomposición.",
+            "Es una reacción endotérmica.",
+            "Es una reacción de óxido-reducción."
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>Es una reacción de doble desplazamiento (metátesis) entre una sal y un ácido. En todas las reacciones de metátesis, los iones solo se intercambian, por lo tanto <b>no hay variación en los números de oxidación</b>."
+        },
+        {
+          "pregunta": "En la semiecuación:<br>$$ Cl_2 \\rightarrow NaClO_3 $$<br>El número de electrones que cambian es:",
+          "opciones": [
+            "2",
+            "4",
+            "6",
+            "8",
+            "10"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Resolución:</b><br>El Cloro en $Cl_2$ tiene estado de oxidación $0$. En el clorato de sodio ($NaClO_3$), el cloro tiene estado de oxidación $+5$.<br>Como el $Cl_2$ posee 2 átomos, cada átomo pierde 5 electrones. La transferencia total es $2 \\times 5 = 10$ electrones."
+        },
+        {
+          "pregunta": "En la semiecuación:<br>$$ PbS \\rightarrow PbSO_4 $$<br>El número de electrones que cambian es:",
+          "opciones": [
+            "1",
+            "4",
+            "5",
+            "8",
+            "9"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>En el Sulfuro de plomo (PbS), el Azufre trabaja con $-2$. En el Sulfato de plomo ($PbSO_4$), el Azufre trabaja con $+6$.<br>El cambio de $-2$ a $+6$ implica la pérdida de <b>8 electrones</b>."
+        },
+        {
+          "pregunta": "De las semiecuaciones que se indican, ¿cuántas constituyen procesos de oxidación?<br>I) $$ HNO_3 \\rightarrow NH_4^+ $$<br>II) $$ H_2O_2 \\rightarrow O_2 $$<br>III) $$ H_2O_2 \\rightarrow H_2O $$<br>IV) $$ Bi_2O_3 \\rightarrow BiO_3^- $$",
+          "opciones": [
+            "I y III",
+            "III y IV",
+            "II y IV",
+            "I y II",
+            "II y III"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>Un proceso de oxidación ocurre cuando el número de oxidación aumenta.<br>En II: El Oxígeno pasa de $-1$ (en peróxido) a $0$ (en $O_2$), aumentando su E.O.<br>En IV: El Bismuto pasa de $+3$ a $+5$ en el anión bismutato, aumentando su E.O.<br>Por ende, II y IV son oxidaciones."
+        },
+        {
+          "pregunta": "De las semirreacciones iónicas y moleculares, ¿cuántas son de reducción?<br>I) $$ Cu^{2+} \\rightarrow Cu^0 $$<br>II) $$ H_2O_2 \\rightarrow O_2 $$<br>III) $$ NO_3^- \\rightarrow NH_3 $$<br>IV) $$ Cl_2 \\rightarrow ClO_3^- $$<br>V) $$ ClO_4^- \\rightarrow ClO_3^- $$",
+          "opciones": [
+            "1",
+            "3",
+            "4",
+            "5",
+            "2"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>La reducción ocurre cuando el número de oxidación disminuye:<br>I: Cobre pasa de $+2$ a $0$ (Reducción).<br>III: Nitrógeno pasa de $+5$ a $-3$ (Reducción).<br>V: Cloro pasa de $+7$ a $+5$ (Reducción).<br>En total son <b>3</b> reacciones de reducción."
+        },
+        {
+          "pregunta": "Señalar el número de reacciones redox:<br>• $$ Fe + S \\rightarrow FeS $$<br>• $$ CaCO_3 + Q \\rightarrow CaO + CO_2 $$<br>• $$ HCl + MnO_2 \\rightarrow MnCl_2 + H_2O + Cl_2 $$<br>• $$ NaOH + HCl \\rightarrow NaCl + H_2O $$<br>• $$ Cu_2S + Q \\rightarrow 2Cu + S $$",
+          "opciones": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>Las reacciones redox son las que presentan variación de estado de oxidación en al menos uno de sus elementos.<br>1) Fe y S cambian de 0 a compuestos con carga.<br>3) Cloro pasa de -1 a 0, y Manganeso cambia.<br>5) Cu y S pasan de estar combinados a su estado neutro (0).<br>Las demás son de descomposición simple o metátesis sin cambio redox. Total: <b>3</b>."
         }
       ],
       "videos": [
         {
           "titulo": "8.1. Parte 1",
           "youtube_id": "C8EijCfOfdc",
-          "pdf_link": "LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1fEi9MnMps84NZMjq0Mo3-fP3XfO47zkh/view",
           "gratis": true
         },
         {
           "titulo": "8.2. Parte 2",
           "youtube_id": "qHxthmH8skE",
-          "pdf_link": "LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1fEi9MnMps84NZMjq0Mo3-fP3XfO47zkh/view",
           "gratis": true
         },
         {
           "titulo": "8.3. Redox - P3",
           "youtube_id": "MSvZ3aC4_dI",
-          "pdf_link": "LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1fEi9MnMps84NZMjq0Mo3-fP3XfO47zkh/view",
           "gratis": true
         },
         {
           "titulo": "8.4. Ejercicios",
           "youtube_id": "SJvBcq0aqXE",
-          "pdf_link": "LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1xwSfZuEGQrgMKqqmUnTkHxsDjNzMK0gy/view",
           "gratis": true
         }
       ]
     },
     {
       "titulo": "Tema 9: Balance de Ecuaciones",
-      "pdf_resuelto": "",
+      "pdf_resuelto": "https://drive.google.com/file/d/1pfSrRy_1UqF06WoC5HllwajjHfQGwedB/view",
       "preguntas": [
         {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "pregunta": "Balancear la reacción: $$ CuSO_4 + KI \\rightarrow CuI + I_2 + K_2SO_4 $$",
+          "opciones": [
+            "$$ 2CuSO_4 + 4KI \\rightarrow 2CuI + I_2 + 2K_2SO_4 $$",
+            "$$ CuSO_4 + 2KI \\rightarrow CuI + I_2 + K_2SO_4 $$",
+            "$$ 2CuSO_4 + 2KI \\rightarrow CuI + 2I_2 + K_2SO_4 $$",
+            "$$ CuSO_4 + KI \\rightarrow CuI + I_2 + K_2SO_4 $$",
+            "$$ 4CuSO_4 + 2KI \\rightarrow 2CuI + I_2 + 4K_2SO_4 $$"
+          ],
           "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+          "resolucion": "<b>Paso 1:</b> Identificamos los estados de oxidación que cambian.<br>Cobre: $$ Cu^{+2} \\rightarrow Cu^{+1} $$ (Se reduce, gana $1e^-$)<br>Yodo: $$ I^{-1} \\rightarrow I_2^0 $$ (Se oxida, pierde $1e^-$ por átomo)<br><br><b>Paso 2:</b> Igualamos electrones transferidos.<br>Reducción: $$ Cu^{+2} + 1e^- \\rightarrow Cu^{+1} \\quad (\\times 2) $$<br>Oxidación: $$ 2I^{-1} \\rightarrow I_2^0 + 2e^- \\quad (\\times 1) $$<br><br><b>Paso 3:</b> Balanceamos por tanteo los demás elementos (K, S, O).<br>Ecuación final: $$ 2CuSO_4 + 4KI \\rightarrow 2CuI + I_2 + 2K_2SO_4 $$"
+        },
+        {
+          "pregunta": "Balancear la reacción: $$ FeCl_3 + H_2S \\rightarrow FeCl_2 + HCl + S $$",
+          "opciones": [
+            "$$ 2FeCl_3 + H_2S \\rightarrow 2FeCl_2 + 2HCl + S $$",
+            "$$ FeCl_3 + H_2S \\rightarrow FeCl_2 + HCl + S $$",
+            "$$ 2FeCl_3 + 3H_2S \\rightarrow 2FeCl_2 + 6HCl + 3S $$",
+            "$$ FeCl_3 + 2H_2S \\rightarrow FeCl_2 + 3HCl + 2S $$",
+            "$$ 4FeCl_3 + H_2S \\rightarrow 4FeCl_2 + HCl + S $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Identificamos cambios de estado de oxidación.<br>Reducción: $$ Fe^{+3} + 1e^- \\rightarrow Fe^{+2} \\quad (\\times 2) $$<br>Oxidación: $$ S^{-2} \\rightarrow S^0 + 2e^- \\quad (\\times 1) $$<br><br><b>Paso 2:</b> Colocamos coeficientes e igualamos.<br>Ecuación final: $$ 2FeCl_3 + H_2S \\rightarrow 2FeCl_2 + 2HCl + S $$"
+        },
+        {
+          "pregunta": "Balancear la reacción: $$ KClO_3 + S \\rightarrow KCl + SO_2 $$",
+          "opciones": [
+            "$$ 2KClO_3 + 3S \\rightarrow 2KCl + 3SO_2 $$",
+            "$$ KClO_3 + S \\rightarrow KCl + SO_2 $$",
+            "$$ 3KClO_3 + 2S \\rightarrow 3KCl + 2SO_2 $$",
+            "$$ 2KClO_3 + S \\rightarrow 2KCl + SO_2 $$",
+            "$$ KClO_3 + 2S \\rightarrow KCl + 2SO_2 $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Planteamos las semirreacciones.<br>Reducción: $$ Cl^{+5} + 6e^- \\rightarrow Cl^{-1} \\quad (\\times 2) $$<br>Oxidación: $$ S^0 \\rightarrow S^{+4} + 4e^- \\quad (\\times 3) $$<br><br><b>Paso 2:</b> Ajustamos coeficientes para igualar electrones (12 en total).<br>$$ 2KClO_3 + 3S \\rightarrow 2KCl + 3SO_2 $$"
+        },
+        {
+          "pregunta": "Balancear la reacción: $$ KMnO_4 + FeO \\rightarrow K_2O + MnO_2 + Fe_2O_3 $$",
+          "opciones": [
+            "$$ 2KMnO_4 + 6FeO \\rightarrow K_2O + 2MnO_2 + 3Fe_2O_3 $$",
+            "$$ KMnO_4 + FeO \\rightarrow K_2O + MnO_2 + Fe_2O_3 $$",
+            "$$ 4KMnO_4 + 2FeO \\rightarrow 2K_2O + 4MnO_2 + Fe_2O_3 $$",
+            "$$ 2KMnO_4 + 3FeO \\rightarrow K_2O + MnO_2 + 3Fe_2O_3 $$",
+            "$$ KMnO_4 + 2FeO \\rightarrow K_2O + MnO_2 + Fe_2O_3 $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Identificamos oxidación y reducción.<br>Reducción: $$ Mn^{+7} + 3e^- \\rightarrow Mn^{+4} \\quad (\\times 2) $$<br>Oxidación: $$ 2Fe^{+2} \\rightarrow 2Fe^{+3} + 2e^- \\quad (\\times 3) $$<br><br><b>Paso 2:</b> Se transfieren 6 electrones en total. Balanceamos con tanteo final.<br>$$ 2KMnO_4 + 6FeO \\rightarrow K_2O + 2MnO_2 + 3Fe_2O_3 $$"
+        },
+        {
+          "pregunta": "Balancear la reacción: $$ I_2 + HNO_3 \\rightarrow HIO_2 + NO_2 + H_2O $$",
+          "opciones": [
+            "$$ I_2 + 10HNO_3 \\rightarrow 2HIO_2 + 10NO_2 + 4H_2O $$",
+            "$$ I_2 + 6HNO_3 \\rightarrow 2HIO_2 + 6NO_2 + 2H_2O $$",
+            "$$ I_2 + 8HNO_3 \\rightarrow 2HIO_2 + 8NO_2 + 3H_2O $$",
+            "$$ I_2 + 4HNO_3 \\rightarrow HIO_2 + 4NO_2 + 2H_2O $$",
+            "$$ I_2 + 12HNO_3 \\rightarrow 2HIO_2 + 12NO_2 + 6H_2O $$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Escribimos las semirreacciones.<br>Oxidación: $$ I_2^0 \\rightarrow 2I^{+3} + 6e^- \\quad (\\times 1) $$<br>Reducción: $$ N^{+5} + 1e^- \\rightarrow N^{+4} \\quad (\\times 6) $$<br><br><b>Paso 2:</b> Ajustamos por tanteo hidrógenos y oxígenos.<br>$$ I_2 + 6HNO_3 \\rightarrow 2HIO_2 + 6NO_2 + 2H_2O $$"
+        },
+        {
+          "pregunta": "Balancear la reacción: $$ HNO_3 + Cu_2O \\rightarrow Cu(NO_3)_2 + NO + H_2O $$",
+          "opciones": [
+            "$$ 14HNO_3 + 3Cu_2O \\rightarrow 6Cu(NO_3)_2 + 2NO + 7H_2O $$",
+            "$$ 4HNO_3 + Cu_2O \\rightarrow 2Cu(NO_3)_2 + NO + H_2O $$",
+            "$$ 10HNO_3 + Cu_2O \\rightarrow 2Cu(NO_3)_2 + 2NO + 5H_2O $$",
+            "$$ 6HNO_3 + 2Cu_2O \\rightarrow 4Cu(NO_3)_2 + NO + 3H_2O $$",
+            "$$ 2HNO_3 + Cu_2O \\rightarrow Cu(NO_3)_2 + NO + H_2O $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Planteamos el cambio de electrones.<br>Oxidación: $$ Cu_2^{+1} \\rightarrow 2Cu^{+2} + 2e^- \\quad (\\times 3) $$<br>Reducción: $$ N^{+5} + 3e^- \\rightarrow N^{+2} \\quad (\\times 2) $$<br><br><b>Paso 2:</b> Ajustamos aniones espectadores y agua.<br>$$ 14HNO_3 + 3Cu_2O \\rightarrow 6Cu(NO_3)_2 + 2NO + 7H_2O $$"
+        },
+        {
+          "pregunta": "Balancear la reacción: $$ HNO_3 + H_2S \\rightarrow NO + S + H_2O $$",
+          "opciones": [
+            "$$ 2HNO_3 + 3H_2S \\rightarrow 2NO + 3S + 4H_2O $$",
+            "$$ HNO_3 + H_2S \\rightarrow NO + S + H_2O $$",
+            "$$ 4HNO_3 + H_2S \\rightarrow 4NO + S + 3H_2O $$",
+            "$$ 2HNO_3 + H_2S \\rightarrow 2NO + S + 2H_2O $$",
+            "$$ 6HNO_3 + 3H_2S \\rightarrow 6NO + 3S + 6H_2O $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Semirreacciones:<br>Reducción: $$ N^{+5} + 3e^- \\rightarrow N^{+2} \\quad (\\times 2) $$<br>Oxidación: $$ S^{-2} \\rightarrow S^0 + 2e^- \\quad (\\times 3) $$<br><br><b>Paso 2:</b> Sumamos coeficientes y comprobamos H y O.<br>$$ 2HNO_3 + 3H_2S \\rightarrow 2NO + 3S + 4H_2O $$"
+        },
+        {
+          "pregunta": "Balancear la reacción: $$ Cu + HNO_3 \\rightarrow Cu(NO_3)_2 + H_2O + NO $$",
+          "opciones": [
+            "$$ 3Cu + 8HNO_3 \\rightarrow 3Cu(NO_3)_2 + 4H_2O + 2NO $$",
+            "$$ Cu + 2HNO_3 \\rightarrow Cu(NO_3)_2 + H_2O + NO $$",
+            "$$ 2Cu + 4HNO_3 \\rightarrow 2Cu(NO_3)_2 + 2H_2O + NO $$",
+            "$$ Cu + HNO_3 \\rightarrow Cu(NO_3)_2 + H_2O + NO $$",
+            "$$ 4Cu + 6HNO_3 \\rightarrow 4Cu(NO_3)_2 + 3H_2O + NO $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Determinamos transferencia de electrones.<br>Oxidación: $$ Cu^0 \\rightarrow Cu^{+2} + 2e^- \\quad (\\times 3) $$<br>Reducción: $$ N^{+5} + 3e^- \\rightarrow N^{+2} \\quad (\\times 2) $$<br><br><b>Paso 2:</b> Balanceamos iones nitrato adicionales y moléculas de agua.<br>$$ 3Cu + 8HNO_3 \\rightarrow 3Cu(NO_3)_2 + 4H_2O + 2NO $$"
+        },
+        {
+          "pregunta": "Balancear la reacción: $$ CuS + HNO_3 \\rightarrow Cu(NO_3)_2 + NO + H_2O + S $$",
+          "opciones": [
+            "$$ 3CuS + 8HNO_3 \\rightarrow 3Cu(NO_3)_2 + 2NO + 4H_2O + 3S $$",
+            "$$ CuS + 2HNO_3 \\rightarrow Cu(NO_3)_2 + NO + H_2O + S $$",
+            "$$ 2CuS + 4HNO_3 \\rightarrow 2Cu(NO_3)_2 + NO + 2H_2O + 2S $$",
+            "$$ CuS + 8HNO_3 \\rightarrow Cu(NO_3)_2 + 2NO + 4H_2O + S $$",
+            "$$ 4CuS + 10HNO_3 \\rightarrow 4Cu(NO_3)_2 + 3NO + 5H_2O + 4S $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> El cambio redox es en S y N.<br>Oxidación: $$ S^{-2} \\rightarrow S^0 + 2e^- \\quad (\\times 3) $$<br>Reducción: $$ N^{+5} + 3e^- \\rightarrow N^{+2} \\quad (\\times 2) $$<br><br><b>Paso 2:</b> Agregamos el ácido necesario para formar la sal de cobre.<br>$$ 3CuS + 8HNO_3 \\rightarrow 3Cu(NO_3)_2 + 2NO + 4H_2O + 3S $$"
+        },
+        {
+          "pregunta": "Balancear la reacción: $$ KBiO_3 + Mn(NO_3)_2 + HNO_3 \\rightarrow Bi(NO_3)_3 + KMnO_4 + KNO_3 + H_2O $$",
+          "opciones": [
+            "$$ 5KBiO_3 + 2Mn(NO_3)_2 + 14HNO_3 \\rightarrow 5Bi(NO_3)_3 + 2KMnO_4 + 3KNO_3 + 7H_2O $$",
+            "$$ KBiO_3 + Mn(NO_3)_2 + HNO_3 \\rightarrow Bi(NO_3)_3 + KMnO_4 + KNO_3 + H_2O $$",
+            "$$ 2KBiO_3 + Mn(NO_3)_2 + 6HNO_3 \\rightarrow 2Bi(NO_3)_3 + KMnO_4 + KNO_3 + 3H_2O $$",
+            "$$ 3KBiO_3 + 2Mn(NO_3)_2 + 8HNO_3 \\rightarrow 3Bi(NO_3)_3 + 2KMnO_4 + KNO_3 + 4H_2O $$",
+            "$$ 4KBiO_3 + Mn(NO_3)_2 + 10HNO_3 \\rightarrow 4Bi(NO_3)_3 + KMnO_4 + 2KNO_3 + 5H_2O $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Cambios de estado:<br>Reducción: $$ Bi^{+5} + 2e^- \\rightarrow Bi^{+3} \\quad (\\times 5) $$<br>Oxidación: $$ Mn^{+2} \\rightarrow Mn^{+7} + 5e^- \\quad (\\times 2) $$<br><br><b>Paso 2:</b> Ajuste completo de K, N y H.<br>$$ 5KBiO_3 + 2Mn(NO_3)_2 + 14HNO_3 \\rightarrow 5Bi(NO_3)_3 + 2KMnO_4 + 3KNO_3 + 7H_2O $$"
+        },
+        {
+          "pregunta": "Balancear la reacción: $$ KI + KNO_2 + H_2SO_4 \\rightarrow I_2 + NO + K_2SO_4 + H_2O $$",
+          "opciones": [
+            "$$ 2KI + 2KNO_2 + 2H_2SO_4 \\rightarrow I_2 + 2NO + 2K_2SO_4 + 2H_2O $$",
+            "$$ 6KI + 2KNO_2 + 4H_2SO_4 \\rightarrow 3I_2 + 2NO + 4K_2SO_4 + 4H_2O $$",
+            "$$ 4KI + 2KNO_2 + 3H_2SO_4 \\rightarrow 2I_2 + 2NO + 3K_2SO_4 + 3H_2O $$",
+            "$$ 16KI + KNO_2 + 2H_2SO_4 \\rightarrow 3I_2 + NO + K_2SO_4 + 2H_2O $$",
+            "$$ 3KI + KNO_2 + 2H_2SO_4 \\rightarrow I_2 + NO + 2K_2SO_4 + 2H_2O $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Analizamos redox:<br>Oxidación: $$ 2I^{-1} \\rightarrow I_2^0 + 2e^- \\quad (\\times 1) $$<br>Reducción: $$ N^{+3} + 1e^- \\rightarrow N^{+2} \\quad (\\times 2) $$<br><br><b>Paso 2:</b> Aplicamos y ajustamos H y O.<br>$$ 2KI + 2KNO_2 + 2H_2SO_4 \\rightarrow I_2 + 2NO + 2K_2SO_4 + 2H_2O $$"
+        },
+        {
+          "pregunta": "Balancear la reacción: $$ KMnO_4 + HCl \\rightarrow MnCl_2 + KCl + Cl_2 + H_2O $$",
+          "opciones": [
+            "$$ 2KMnO_4 + 16HCl \\rightarrow 2MnCl_2 + 2KCl + 5Cl_2 + 8H_2O $$",
+            "$$ KMnO_4 + 8HCl \\rightarrow MnCl_2 + KCl + 2Cl_2 + 4H_2O $$",
+            "$$ 2KMnO_4 + 10HCl \\rightarrow 2MnCl_2 + 2KCl + 3Cl_2 + 5H_2O $$",
+            "$$ KMnO_4 + 6HCl \\rightarrow MnCl_2 + KCl + Cl_2 + 3H_2O $$",
+            "$$ 4KMnO_4 + 12HCl \\rightarrow 4MnCl_2 + 4KCl + 4Cl_2 + 6H_2O $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Redox principal:<br>Reducción: $$ Mn^{+7} + 5e^- \\rightarrow Mn^{+2} \\quad (\\times 2) $$<br>Oxidación: $$ 2Cl^{-1} \\rightarrow Cl_2^0 + 2e^- \\quad (\\times 5) $$<br><br><b>Paso 2:</b> Los átomos de Cl restantes actúan como espectadores. Balance de masas:<br>$$ 2KMnO_4 + 16HCl \\rightarrow 2MnCl_2 + 2KCl + 5Cl_2 + 8H_2O $$"
+        },
+        {
+          "pregunta": "Balancear la reacción: $$ LiCl + KMnO_4 + H_2SO_4 \\rightarrow Cl_2 + MnSO_4 + K_2SO_4 + Li_2SO_4 + H_2O $$",
+          "opciones": [
+            "$$ 2KMnO_4 + 10LiCl + 8H_2SO_4 \\rightarrow 5Cl_2 + 2MnSO_4 + K_2SO_4 + 5Li_2SO_4 + 8H_2O $$",
+            "$$ KMnO_4 + 5LiCl + 4H_2SO_4 \\rightarrow 2Cl_2 + MnSO_4 + K_2SO_4 + Li_2SO_4 + 4H_2O $$",
+            "$$ 2KMnO_4 + 8LiCl + 6H_2SO_4 \\rightarrow 4Cl_2 + MnSO_4 + K_2SO_4 + 4Li_2SO_4 + 6H_2O $$",
+            "$$ KMnO_4 + LiCl + H_2SO_4 \\rightarrow Cl_2 + MnSO_4 + K_2SO_4 + Li_2SO_4 + H_2O $$",
+            "$$ 4KMnO_4 + 10LiCl + 6H_2SO_4 \\rightarrow 5Cl_2 + MnSO_4 + 2K_2SO_4 + 5Li_2SO_4 + 6H_2O $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Semirreacciones iónicas:<br>Oxidación: $$ 2Cl^{-1} \\rightarrow Cl_2^0 + 2e^- \\quad (\\times 5) $$<br>Reducción: $$ Mn^{+7} + 5e^- \\rightarrow Mn^{+2} \\quad (\\times 2) $$<br><br><b>Paso 2:</b> Ajuste integral:<br>$$ 2KMnO_4 + 10LiCl + 8H_2SO_4 \\rightarrow 5Cl_2 + 2MnSO_4 + K_2SO_4 + 5Li_2SO_4 + 8H_2O $$"
+        },
+        {
+          "pregunta": "Balancear la reacción: $$ KMnO_4 + KCl + H_2SO_4 \\rightarrow MnSO_4 + K_2SO_4 + H_2O + Cl_2 $$",
+          "opciones": [
+            "$$ 2KMnO_4 + 10KCl + 8H_2SO_4 \\rightarrow 2MnSO_4 + 6K_2SO_4 + 8H_2O + 5Cl_2 $$",
+            "$$ KMnO_4 + 5KCl + 4H_2SO_4 \\rightarrow MnSO_4 + 3K_2SO_4 + 4H_2O + 2Cl_2 $$",
+            "$$ 2KMnO_4 + 8KCl + 6H_2SO_4 \\rightarrow 2MnSO_4 + 5K_2SO_4 + 6H_2O + 4Cl_2 $$",
+            "$$ KMnO_4 + KCl + H_2SO_4 \\rightarrow MnSO_4 + K_2SO_4 + H_2O + Cl_2 $$",
+            "$$ 4KMnO_4 + 10KCl + 10H_2SO_4 \\rightarrow 4MnSO_4 + 7K_2SO_4 + 10H_2O + 5Cl_2 $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Muy parecida a la anterior.<br>Oxidación: $$ 2Cl^{-1} \\rightarrow Cl_2^0 + 2e^- \\quad (\\times 5) $$<br>Reducción: $$ Mn^{+7} + 5e^- \\rightarrow Mn^{+2} \\quad (\\times 2) $$<br><br><b>Paso 2:</b> Se requieren $10KCl$, sumado al potasio del $KMnO_4$, ajustamos a $6K_2SO_4$.<br>$$ 2KMnO_4 + 10KCl + 8H_2SO_4 \\rightarrow 2MnSO_4 + 6K_2SO_4 + 8H_2O + 5Cl_2 $$"
+        },
+        {
+          "pregunta": "Balancear la reacción: $$ KMnO_4 + H_2S + H_2SO_4 \\rightarrow MnSO_4 + K_2SO_4 + H_2O + S $$",
+          "opciones": [
+            "$$ 2KMnO_4 + 5H_2S + 3H_2SO_4 \\rightarrow 2MnSO_4 + K_2SO_4 + 8H_2O + 5S $$",
+            "$$ KMnO_4 + 2H_2S + H_2SO_4 \\rightarrow MnSO_4 + K_2SO_4 + 3H_2O + 2S $$",
+            "$$ 2KMnO_4 + 3H_2S + 2H_2SO_4 \\rightarrow 2MnSO_4 + K_2SO_4 + 5H_2O + 3S $$",
+            "$$ KMnO_4 + H_2S + H_2SO_4 \\rightarrow MnSO_4 + K_2SO_4 + H_2O + S $$",
+            "$$ 4KMnO_4 + 5H_2S + 4H_2SO_4 \\rightarrow 4MnSO_4 + 2K_2SO_4 + 8H_2O + 5S $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Escribimos el balance electrónico.<br>Oxidación: $$ S^{-2} \\rightarrow S^0 + 2e^- \\quad (\\times 5) $$<br>Reducción: $$ Mn^{+7} + 5e^- \\rightarrow Mn^{+2} \\quad (\\times 2) $$<br><br><b>Paso 2:</b> Ajustamos tanteo de la sal de sulfato y el agua.<br>$$ 2KMnO_4 + 5H_2S + 3H_2SO_4 \\rightarrow 2MnSO_4 + K_2SO_4 + 8H_2O + 5S $$"
+        },
+        {
+          "pregunta": "Balancear la reacción: $$ KMnO_4 + H_2SO_4 + H_2O_2 \\rightarrow MnSO_4 + K_2SO_4 + H_2O + O_2 $$",
+          "opciones": [
+            "$$ 2KMnO_4 + 5H_2O_2 + 3H_2SO_4 \\rightarrow 2MnSO_4 + K_2SO_4 + 8H_2O + 5O_2 $$",
+            "$$ KMnO_4 + 2H_2O_2 + H_2SO_4 \\rightarrow MnSO_4 + K_2SO_4 + 3H_2O + 2O_2 $$",
+            "$$ 2KMnO_4 + 4H_2O_2 + 2H_2SO_4 \\rightarrow 2MnSO_4 + K_2SO_4 + 6H_2O + 4O_2 $$",
+            "$$ KMnO_4 + H_2SO_4 + H_2O_2 \\rightarrow MnSO_4 + K_2SO_4 + H_2O + O_2 $$",
+            "$$ 4KMnO_4 + 5H_2O_2 + 4H_2SO_4 \\rightarrow 4MnSO_4 + 2K_2SO_4 + 8H_2O + 5O_2 $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Ocurre oxidación y reducción en distintos compuestos con oxígeno.<br>Reducción: $$ Mn^{+7} + 5e^- \\rightarrow Mn^{+2} \\quad (\\times 2) $$<br>Oxidación: $$ H_2O_2 \\rightarrow O_2 + 2H^+ + 2e^- \\quad (\\times 5) $$<br><br><b>Paso 2:</b> Sumamos coeficientes y nivelamos el medio ácido.<br>$$ 2KMnO_4 + 5H_2O_2 + 3H_2SO_4 \\rightarrow 2MnSO_4 + K_2SO_4 + 8H_2O + 5O_2 $$"
+        },
+        {
+          "pregunta": "Balancear la reacción: $$ K_2Cr_2O_7 + H_2S + H_2SO_4 \\rightarrow K_2SO_4 + Cr_2(SO_4)_3 + S + H_2O $$",
+          "opciones": [
+            "$$ K_2Cr_2O_7 + 3H_2S + 4H_2SO_4 \\rightarrow K_2SO_4 + Cr_2(SO_4)_3 + 3S + 7H_2O $$",
+            "$$ K_2Cr_2O_7 + 2H_2S + 3H_2SO_4 \\rightarrow K_2SO_4 + Cr_2(SO_4)_3 + 2S + 5H_2O $$",
+            "$$ K_2Cr_2O_7 + H_2S + H_2SO_4 \\rightarrow K_2SO_4 + Cr_2(SO_4)_3 + S + H_2O $$",
+            "$$ 2K_2Cr_2O_7 + 3H_2S + 5H_2SO_4 \\rightarrow 2K_2SO_4 + 2Cr_2(SO_4)_3 + 3S + 8H_2O $$",
+            "$$ K_2Cr_2O_7 + 4H_2S + 5H_2SO_4 \\rightarrow K_2SO_4 + Cr_2(SO_4)_3 + 4S + 8H_2O $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Extraemos los agentes involucrados.<br>Reducción: $$ 2Cr^{+6} + 6e^- \\rightarrow 2Cr^{+3} \\quad (\\times 1) $$<br>Oxidación: $$ S^{-2} \\rightarrow S^0 + 2e^- \\quad (\\times 3) $$<br><br><b>Paso 2:</b> Ajuste general y tanteo de hidrógenos.<br>$$ K_2Cr_2O_7 + 3H_2S + 4H_2SO_4 \\rightarrow K_2SO_4 + Cr_2(SO_4)_3 + 3S + 7H_2O $$"
+        },
+        {
+          "pregunta": "Balancear la reacción: $$ KMnO_4 + FeSO_4 + H_2SO_4 \\rightarrow MnSO_4 + K_2SO_4 + Fe_2(SO_4)_3 + H_2O $$",
+          "opciones": [
+            "$$ 2KMnO_4 + 10FeSO_4 + 8H_2SO_4 \\rightarrow 2MnSO_4 + K_2SO_4 + 5Fe_2(SO_4)_3 + 8H_2O $$",
+            "$$ KMnO_4 + 5FeSO_4 + 4H_2SO_4 \\rightarrow MnSO_4 + K_2SO_4 + 2Fe_2(SO_4)_3 + 4H_2O $$",
+            "$$ 2KMnO_4 + 8FeSO_4 + 6H_2SO_4 \\rightarrow MnSO_4 + K_2SO_4 + 4Fe_2(SO_4)_3 + 6H_2O $$",
+            "$$ KMnO_4 + FeSO_4 + H_2SO_4 \\rightarrow MnSO_4 + K_2SO_4 + Fe_2(SO_4)_3 + H_2O $$",
+            "$$ 4KMnO_4 + 10FeSO_4 + 10H_2SO_4 \\rightarrow 4MnSO_4 + 2K_2SO_4 + 5Fe_2(SO_4)_3 + 10H_2O $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Balance electrónico.<br>Reducción: $$ Mn^{+7} + 5e^- \\rightarrow Mn^{+2} \\quad (\\times 2) $$<br>Oxidación: $$ 2Fe^{+2} \\rightarrow 2Fe^{+3} + 2e^- \\quad (\\times 5) $$<br><br><b>Paso 2:</b> Completamos los coeficientes restantes.<br>$$ 2KMnO_4 + 10FeSO_4 + 8H_2SO_4 \\rightarrow 2MnSO_4 + K_2SO_4 + 5Fe_2(SO_4)_3 + 8H_2O $$"
+        },
+        {
+          "pregunta": "Balancear la reacción: $$ KMnO_4 + H_2SO_4 + Sb \\rightarrow MnSO_4 + K_2SO_4 + Sb_2O_3 + H_2O $$",
+          "opciones": [
+            "$$ 6KMnO_4 + 9H_2SO_4 + 10Sb \\rightarrow 6MnSO_4 + 3K_2SO_4 + 5Sb_2O_3 + 9H_2O $$",
+            "$$ 6KMnO_4 + 4H_2SO_4 + Sb \\rightarrow 6MnSO_4 + K_2SO_4 + Sb_2O_3 + 4H_2O $$",
+            "$$ 2KMnO_4 + H_2SO_4 + Sb \\rightarrow 2MnSO_4 + K_2SO_4 + Sb_2O_3 + H_2O $$",
+            "$$ 10KMnO_4 + 8H_2SO_4 + 2Sb \\rightarrow 10MnSO_4 + 5K_2SO_4 + Sb_2O_3 + 8H_2O $$",
+            "$$ 12KMnO_4 + 6H_2SO_4 + Sb \\rightarrow 12MnSO_4 + 6K_2SO_4 + Sb_2O_3 + 6H_2O $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Planteamiento redox.<br>Reducción: $$ Mn^{+7} + 5e^- \\rightarrow Mn^{+2} \\quad (\\times 6) $$<br>Oxidación: $$ 2Sb^0 \\rightarrow 2Sb^{+3} + 6e^- \\quad (\\times 5) $$<br><br><b>Paso 2:</b> Con los multiplicadores formamos las moléculas.<br>$$ 6KMnO_4 + 9H_2SO_4 + 10Sb \\rightarrow 6MnSO_4 + 3K_2SO_4 + 5Sb_2O_3 + 9H_2O $$"
+        },
+        {
+          "pregunta": "Balancear la reacción: $$ FeSO_4 + H_2SO_4 + H_2O_2 \\rightarrow Fe_2(SO_4)_3 + H_2O $$",
+          "opciones": [
+            "$$ 2FeSO_4 + H_2SO_4 + H_2O_2 \\rightarrow Fe_2(SO_4)_3 + 2H_2O $$",
+            "$$ FeSO_4 + H_2SO_4 + H_2O_2 \\rightarrow Fe_2(SO_4)_3 + H_2O $$",
+            "$$ 4FeSO_4 + 2H_2SO_4 + H_2O_2 \\rightarrow 2Fe_2(SO_4)_3 + 2H_2O $$",
+            "$$ 2FeSO_4 + 2H_2SO_4 + H_2O_2 \\rightarrow Fe_2(SO_4)_3 + 3H_2O $$",
+            "$$ 3FeSO_4 + H_2SO_4 + H_2O_2 \\rightarrow Fe_2(SO_4)_3 + 2H_2O $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Extraemos la transferencia iónica.<br>Oxidación: $$ 2Fe^{+2} \\rightarrow 2Fe^{+3} + 2e^- \\quad (\\times 1) $$<br>Reducción: $$ O_2^{-1} + 2e^- \\rightarrow 2O^{-2} \\quad (\\times 1) $$<br><br><b>Paso 2:</b> Balanceo de carga y masas.<br>$$ 2FeSO_4 + H_2SO_4 + H_2O_2 \\rightarrow Fe_2(SO_4)_3 + 2H_2O $$"
+        },
+        {
+          "pregunta": "Balancear la reacción: $$ KI + H_2SO_4 + H_2O_2 \\rightarrow K_2SO_4 + H_2O + I_2 $$",
+          "opciones": [
+            "$$ 2KI + H_2SO_4 + H_2O_2 \\rightarrow K_2SO_4 + 2H_2O + I_2 $$",
+            "$$ KI + H_2SO_4 + H_2O_2 \\rightarrow K_2SO_4 + H_2O + I_2 $$",
+            "$$ 4KI + 2H_2SO_4 + H_2O_2 \\rightarrow 2K_2SO_4 + 2H_2O + 2I_2 $$",
+            "$$ 2KI + 2H_2SO_4 + H_2O_2 \\rightarrow K_2SO_4 + 3H_2O + I_2 $$",
+            "$$ 6KI + 3H_2SO_4 + 2H_2O_2 \\rightarrow 3K_2SO_4 + 4H_2O + 3I_2 $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> El yodo se oxida y el oxígeno del peróxido se reduce.<br>Oxidación: $$ 2I^{-1} \\rightarrow I_2^0 + 2e^- \\quad (\\times 1) $$<br>Reducción: $$ O_2^{-1} + 2e^- \\rightarrow 2O^{-2} \\quad (\\times 1) $$<br><br><b>Paso 2:</b> Agregamos los coeficientes a la ecuación molecular.<br>$$ 2KI + H_2SO_4 + H_2O_2 \\rightarrow K_2SO_4 + 2H_2O + I_2 $$"
         }
       ],
       "videos": [
         {
           "titulo": "9.1. Teoría",
           "youtube_id": "oa2fcDIwu1c",
-          "pdf_link": "LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1comB2zH-nIfdqXHhGARJBuSzy9MUhxo-/view",
           "gratis": true
         },
         {
           "titulo": "9.2. Ejercicios",
           "youtube_id": "Pjtp8ISARBU",
-          "pdf_link": "LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1-9bjWhN2Yel3aRb1PGKfIkIA76crBHnH/view",
           "gratis": true
         },
         {
           "titulo": "9.3. Ejercicios",
           "youtube_id": "ljVPfbM_cUU",
-          "pdf_link": "LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1-9bjWhN2Yel3aRb1PGKfIkIA76crBHnH/view",
           "gratis": true
         }
       ]
     },
     {
       "titulo": "Tema 10: Estequiometría",
-      "pdf_resuelto": "",
+      "pdf_resuelto": "https://drive.google.com/file/d/13bEJnZnJRYCVmCzOSt5zS_2AZfHzumo5/view",
       "preguntas": [
         {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "pregunta": "Dada la siguiente reacción:<br>$$ 4P + 3S \\rightarrow P_4S_3 $$<br>¿Qué peso de fósforo será necesario para producir 18 gramos de $$P_4S_3$$ sabiendo que la reacción ha tenido un rendimiento del 82%?",
+          "opciones": [
+            "12,37g",
+            "24,05g",
+            "36,11g",
+            "6,77g",
+            "10,15g"
+          ],
           "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+          "resolucion": "<b>Paso 1:</b> Planteamos la estequiometría de la reacción con las masas molares ($P = 31$, $P_4S_3 = 220$).<br>$$ 4(31\\text{ g}) \\text{ P} \\rightarrow 220\\text{ g } P_4S_3 $$<br>$$ 124\\text{ g P} \\rightarrow 220\\text{ g } P_4S_3 $$<br><br><b>Paso 2:</b> Incluimos el rendimiento de la reacción ($82\\% = 0,82$).<br>$$ X\\text{ g} \\times 0,82 \\rightarrow 18\\text{ g} $$<br><br><b>Paso 3:</b> Resolvemos por regla de tres:<br>$$ X \\times 0,82 = \\frac{124 \\times 18}{220} $$<br>$$ X \\times 0,82 = 10,145 $$<br>$$ X = \\frac{10,145}{0,82} = 12,37\\text{ g} $$"
+        },
+        {
+          "pregunta": "¿Qué masa de dióxido de carbono se formará al quemar 100 moles de carbono?",
+          "opciones": [
+            "600g",
+            "1,2kg",
+            "800g",
+            "4,4kg",
+            "240g"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1:</b> Planteamos la ecuación de combustión del carbono.<br>$$ C + O_2 \\rightarrow CO_2 $$<br><br><b>Paso 2:</b> Establecemos la relación estequiométrica (1 mol de C produce 1 mol de $CO_2$, y $1 \\text{ mol de } CO_2 = 44\\text{ g}$).<br>$$ 1 \\text{ mol C} \\rightarrow 44\\text{ g } CO_2 $$<br>$$ 100 \\text{ mol C} \\rightarrow X\\text{ g } CO_2 $$<br><br><b>Paso 3:</b> Calculamos.<br>$$ X = 4400\\text{ g} = 4,4\\text{ kg} $$"
+        },
+        {
+          "pregunta": "En la reacción de preparación de fosforo en el horno eléctrico:<br>$$ Ca_3(PO_4)_2 + SiO_2 + C \\rightarrow CaSiO_3 + CO + P $$<br>¿Cuántos gramos de fósforo se producirán a partir de un mol de $$Ca_3(PO_4)_2$$?<br>P.A.(M): P=31",
+          "opciones": [
+            "33",
+            "62",
+            "15",
+            "1,1",
+            "31"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Balanceamos la ecuación química para el fósforo.<br>$$ 1 Ca_3(PO_4)_2 + 3 SiO_2 + 5 C \\rightarrow 3 CaSiO_3 + 5 CO + 2 P $$<br><br><b>Paso 2:</b> Establecemos la relación estequiométrica.<br>$$ 1 \\text{ mol } Ca_3(PO_4)_2 \\rightarrow 2 \\text{ moles de P} $$<br><br><b>Paso 3:</b> Convertimos los moles de P a gramos ($P = 31\\text{ g/mol}$).<br>$$ \\text{Masa} = 2 \\times 31\\text{ g} = 62\\text{ g} $$"
+        },
+        {
+          "pregunta": "Calcular el peso de cobre que se precipita al reaccionar 715,5g de óxido de cobre (II) con amoníaco en exceso, en la reacción:<br>$$ CuO + NH_3 \\rightarrow N_2 + H_2O + Cu $$<br>P.A.: Cu=63,5g; O=16g",
+          "opciones": [
+            "123,7g",
+            "240,5g",
+            "571,5g",
+            "67.7g",
+            "101,5g"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Balanceamos la reacción.<br>$$ 3CuO + 2NH_3 \\rightarrow N_2 + 3H_2O + 3Cu $$<br><br><b>Paso 2:</b> Calculamos las masas molares ($CuO = 63,5 + 16 = 79,5\\text{ g/mol}$).<br>Relación: $$ 3(79,5\\text{ g}) \\text{ CuO} \\rightarrow 3(63,5\\text{ g}) \\text{ Cu} $$<br><br><b>Paso 3:</b> Aplicamos la regla de tres para la masa dada.<br>$$ 715,5\\text{ g CuO} \\rightarrow X\\text{ g Cu} $$<br>$$ X = \\frac{715,5 \\times 63,5}{79,5} = 571,5\\text{ g de Cu} $$"
+        },
+        {
+          "pregunta": "En la reacción:<br>$$ NaCl(s) + H_2SO_4(ac) \\rightarrow NaHSO_4(ac) + HCl(g) $$<br>PM(M): NaCl=58,5, $H_2SO_4=98$<br>Hallar el volumen en litros del HCl(g) en condiciones normales que se obtendrá a partir de 5,85g de NaCl del 90% de pureza y un ligero exceso de $$H_2SO_4$$.",
+          "opciones": [
+            "2,5",
+            "3,0",
+            "1,5",
+            "0,5",
+            "2,0"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Paso 1:</b> Determinamos la masa pura de NaCl que reacciona.<br>$$ \\text{Masa pura} = 5,85\\text{ g} \\times 0,90 = 5,265\\text{ g de NaCl} $$<br><br><b>Paso 2:</b> Relacionamos masa de NaCl con volumen de HCl a condiciones normales (C.N.).<br>$$ 1 \\text{ mol NaCl (58,5 g)} \\rightarrow 1 \\text{ mol HCl (22,4 L)} $$<br>$$ 5,265\\text{ g} \\rightarrow X \\text{ L} $$<br><br><b>Paso 3:</b> Resolvemos.<br>$$ X = \\frac{5,265 \\times 22,4}{58,5} = 2,016 \\approx 2,0\\text{ L} $$"
+        },
+        {
+          "pregunta": "Un estudiante desea generar hidrógeno mezclando 112g de hierro con 2190g de HCl. ¿Qué volumen de hidrógeno se producirá en condiciones normales para un rendimiento de 50%, según la reacción?<br>$$ 2Fe + 6HCl \\rightarrow 2FeCl_3 + 3H_2 $$<br>P.A.(M): Fe=56; H=1; Cl=35,5",
+          "opciones": [
+            "145",
+            "336",
+            "67,2",
+            "33,6",
+            "50"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1:</b> Identificamos el reactivo limitante. Determinamos los moles de cada reactivo:<br>Moles de Fe = $112 / 56 = 2 \\text{ mol}$<br>Moles de HCl = $2190 / 36,5 = 60 \\text{ mol}$<br>El Hierro (Fe) es el reactivo limitante (2 moles de Fe necesitan 6 de HCl, y hay un exceso de HCl).<br><br><b>Paso 2:</b> Calculamos el volumen teórico de $H_2$ a C.N.<br>La estequiometría dice que 2 moles de Fe producen 3 moles de $H_2$.<br>Volumen teórico = $3 \\times 22,4\\text{ L} = 67,2\\text{ L}$<br><br><b>Paso 3:</b> Aplicamos el 50% de rendimiento.<br>$$ \\text{Volumen real} = 67,2\\text{ L} \\times 0,50 = 33,6\\text{ L} $$"
+        },
+        {
+          "pregunta": "En la reacción:<br>$$ N_2 + O_2 \\rightarrow NO_2 $$<br>¿Cuántos moles de nitrógeno se necesitarán para reaccionar con 0,24 moles de oxígeno?",
+          "opciones": [
+            "2,3",
+            "0,12",
+            "0,24",
+            "0,36",
+            "0,18"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Balanceamos la reacción.<br>$$ N_2 + 2O_2 \\rightarrow 2NO_2 $$<br><br><b>Paso 2:</b> Relacionamos estequiométricamente.<br>$$ 1 \\text{ mol } N_2 \\rightarrow 2 \\text{ moles } O_2 $$<br>$$ X \\text{ mol } N_2 \\rightarrow 0,24 \\text{ moles } O_2 $$<br><br><b>Paso 3:</b> Calculamos.<br>$$ X = \\frac{0,24}{2} = 0,12\\text{ moles de } N_2 $$"
+        },
+        {
+          "pregunta": "El HCl reacciona con el carbonato de calcio para producir cloruro de calcio, bióxido de carbono y agua. ¿Qué cantidad de carbonato de calcio reaccionará si se utilizó 584g de HCl del 60% puro?<br>P.A.(M): Cl=35,5; Ca=40; O=16; C=12; H=1",
+          "opciones": [
+            "460",
+            "450",
+            "480",
+            "380",
+            "390"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Calculamos la masa pura de HCl disponible.<br>$$ \\text{Masa pura} = 584\\text{ g} \\times 0,60 = 350,4\\text{ g de HCl} $$<br><br><b>Paso 2:</b> Planteamos la reacción balanceada.<br>$$ CaCO_3 + 2HCl \\rightarrow CaCl_2 + CO_2 + H_2O $$<br><br><b>Paso 3:</b> Realizamos la relación masa-masa ($CaCO_3 = 100\\text{ g/mol}$, $HCl = 36,5\\text{ g/mol}$).<br>$$ 100\\text{ g } CaCO_3 \\rightarrow 2(36,5)\\text{ g HCl} = 73\\text{ g HCl} $$<br>$$ X\\text{ g } CaCO_3 \\rightarrow 350,4\\text{ g HCl} $$<br><br><b>Paso 4:</b> Resolvemos.<br>$$ X = \\frac{350,4 \\times 100}{73} = 480\\text{ g} $$"
+        },
+        {
+          "pregunta": "En la siguiente reacción en medio ácido:<br>$$ MnO_4^- + I^- \\rightarrow MnO_4^{2-} + IO_3^- $$<br>Determine la cantidad de moles de agente oxidante necesarios que debe reaccionar con 108g de agua.",
+          "opciones": [
+            "15",
+            "12,5",
+            "12",
+            "11",
+            "13,5"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Balanceamos la reacción ión-electrón en medio ácido. El agente oxidante es el ión permanganato ($MnO_4^-$).<br>$$ 6MnO_4^- + I^- + 3H_2O \\rightarrow 6MnO_4^{2-} + IO_3^- + 6H^+ $$<br><br><b>Paso 2:</b> Relacionamos moles de agente oxidante con masa de agua ($H_2O = 18\\text{ g/mol}$).<br>$$ 6 \\text{ moles } MnO_4^- \\rightarrow 3(18\\text{ g}) H_2O = 54\\text{ g } H_2O $$<br>$$ X \\text{ moles } MnO_4^- \\rightarrow 108\\text{ g } H_2O $$<br><br><b>Paso 3:</b> Resolvemos la proporción.<br>$$ X = \\frac{6 \\times 108}{54} = 12 \\text{ moles} $$"
+        },
+        {
+          "pregunta": "¿Qué volumen de oxígeno a C.N. es necesario para combustión completa de 152g de $$CS_2$$?<br>$$ CS_2 + 3O_2 \\rightarrow CO_2 + 2SO_2 $$",
+          "opciones": [
+            "22,4L",
+            "104,4L",
+            "44,6L",
+            "11,2L",
+            "134,4L"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Paso 1:</b> Calculamos la masa molar del disulfuro de carbono ($CS_2$).<br>$$ 12 + 2(32) = 76\\text{ g/mol} $$<br><br><b>Paso 2:</b> Relacionamos estequiométricamente la masa de $CS_2$ y el volumen de $O_2$ a condiciones normales (C.N.).<br>$$ 76\\text{ g } CS_2 \\rightarrow 3(22,4\\text{ L}) O_2 = 67,2\\text{ L } O_2 $$<br>$$ 152\\text{ g } CS_2 \\rightarrow X \\text{ L } O_2 $$<br><br><b>Paso 3:</b> Calculamos el valor de X.<br>$$ X = \\frac{152 \\times 67,2}{76} = 134,4\\text{ L} $$"
+        },
+        {
+          "pregunta": "En la reacción:<br>$$ KClO_3 \\rightarrow KCl + O_2 $$<br>La cantidad de clorato de potasio que se necesita para obtener 1 kilogramo de oxígeno es:",
+          "opciones": [
+            "2000g",
+            "6500g",
+            "2200g",
+            "2552g",
+            "1500g"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1:</b> Balanceamos la ecuación y calculamos masas molares ($KClO_3 = 122,5\\text{ g/mol}$, $O_2 = 32\\text{ g/mol}$).<br>$$ 2KClO_3 \\rightarrow 2KCl + 3O_2 $$<br><br><b>Paso 2:</b> Establecemos la relación masa-masa entre el reactante y el oxígeno.<br>$$ 2(122,5\\text{ g}) KClO_3 \\rightarrow 3(32\\text{ g}) O_2 $$<br>$$ 245\\text{ g } KClO_3 \\rightarrow 96\\text{ g } O_2 $$<br><br><b>Paso 3:</b> Calculamos para 1 kg ($1000\\text{ g}$) de $O_2$.<br>$$ X \\rightarrow 1000\\text{ g } O_2 $$<br>$$ X = \\frac{245 \\times 1000}{96} = 2552,08 \\approx 2552\\text{ g} $$"
+        },
+        {
+          "pregunta": "¿Qué volumen de hidrógeno a condiciones normales se producirá al reaccionar 32,5g de Zn con suficiente cantidad de HCl?<br>$$ Zn + 2HCl \\rightarrow ZnCl_2 + H_2 $$<br>P.A.: Zn=65; H=1; Cl=35,5",
+          "opciones": [
+            "11,2L",
+            "18,2L",
+            "12,2L",
+            "22,4L",
+            "6,3L"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Relacionamos la masa de Zn con el volumen de $H_2$ que se produce a C.N.<br>$$ 65\\text{ g Zn} \\rightarrow 22,4\\text{ L } H_2 $$<br>$$ 32,5\\text{ g Zn} \\rightarrow X \\text{ L } H_2 $$<br><br><b>Paso 2:</b> Resolvemos la regla de tres.<br>$$ X = \\frac{32,5 \\times 22,4}{65} = 11,2\\text{ L} $$"
+        },
+        {
+          "pregunta": "Por la reacción de 2032g de yodo en la siguiente ecuación química:<br>$$ I_2 + HNO_3 \\rightarrow HIO_4 + NO + H_2O $$<br>¿Cuántos moles de agua se forman?<br>P.A.(M): I=127; H=1; O=16",
+          "opciones": [
+            "12,5",
+            "16,7",
+            "14,6",
+            "21",
+            "10,7"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Paso 1:</b> Balanceamos la ecuación redox.<br>$$ 3I_2 + 14HNO_3 \\rightarrow 6HIO_4 + 14NO + 4H_2O $$<br><br><b>Paso 2:</b> Relacionamos la masa de Yodo ($I_2 = 254\\text{ g/mol}$) con los moles de agua producidos.<br>$$ 3(254\\text{ g}) I_2 \\rightarrow 4 \\text{ moles } H_2O $$<br>$$ 762\\text{ g } I_2 \\rightarrow 4 \\text{ moles } H_2O $$<br><br><b>Paso 3:</b> Calculamos los moles para 2032 g de Yodo.<br>$$ 2032\\text{ g } I_2 \\rightarrow X \\text{ moles } H_2O $$<br>$$ X = \\frac{2032 \\times 4}{762} = 10,666 \\dots \\approx 10,7\\text{ moles} $$"
+        },
+        {
+          "pregunta": "¿Cuál es el volumen de cloro gas a C.N. que se produce cuando 0,197g de oro se trata con suficiente cantidad de agua regia en la reacción?<br>$$ Au + 5HCl + 5HNO_3 \\rightarrow AuCl_3 + Cl_2 + 5H_2O + 5NO_2 $$<br>P.A.(M): Au=197",
+          "opciones": [
+            "0,0224L",
+            "0,011L",
+            "1,11L",
+            "0,244L",
+            "0,488L"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Usamos la ecuación proporcionada y relacionamos la masa del Oro con el volumen de Cloro a C.N.<br>$$ 1 \\text{ mol Au} \\rightarrow 1 \\text{ mol } Cl_2 $$<br>$$ 197\\text{ g Au} \\rightarrow 22,4\\text{ L } Cl_2 $$<br><br><b>Paso 2:</b> Resolvemos para los 0,197 g dados en el problema.<br>$$ 0,197\\text{ g Au} \\rightarrow X \\text{ L } Cl_2 $$<br>$$ X = \\frac{0,197 \\times 22,4}{197} = 0,0224\\text{ L} $$"
+        },
+        {
+          "pregunta": "¿Qué peso de cloruro de sodio se podrá obtener de la reacción de 1,12 litros de cloruro de hidrógeno gas medido en condiciones normales con un exceso de hidróxido de sodio?<br>P.A.(M): Na=23; Cl=35,5",
+          "opciones": [
+            "2,0g",
+            "1,8g",
+            "2,9g",
+            "0,05g",
+            "2,24g"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Planteamos la ecuación de neutralización.<br>$$ HCl(g) + NaOH(ac) \\rightarrow NaCl(ac) + H_2O $$<br><br><b>Paso 2:</b> Relacionamos volumen de HCl a C.N. con masa de NaCl ($NaCl = 58,5\\text{ g/mol}$).<br>$$ 22,4\\text{ L HCl} \\rightarrow 58,5\\text{ g NaCl} $$<br>$$ 1,12\\text{ L HCl} \\rightarrow X\\text{ g NaCl} $$<br><br><b>Paso 3:</b> Calculamos la masa obtenida.<br>$$ X = \\frac{1,12 \\times 58,5}{22,4} = 2,925 \\approx 2,9\\text{ g} $$"
+        },
+        {
+          "pregunta": "Considere la siguiente ecuación:<br>$$ Sn + HNO_3 \\rightarrow SnO_2 + NO_2 + H_2O $$<br>¿Cuántos moles de $$NO_2$$ se producen por gramo de estaño (Sn) reaccionado?",
+          "opciones": [
+            "6,04",
+            "0,0336",
+            "0,0265",
+            "2,15",
+            "0,88"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Balanceamos la reacción principal.<br>$$ Sn + 4HNO_3 \\rightarrow SnO_2 + 4NO_2 + 2H_2O $$<br><br><b>Paso 2:</b> Determinamos la relación estequiométrica entre la masa de Sn ($Sn \\approx 118,7\\text{ g/mol}$) y los moles de $NO_2$.<br>$$ 118,7\\text{ g Sn} \\rightarrow 4 \\text{ moles } NO_2 $$<br>$$ 1\\text{ g Sn} \\rightarrow X \\text{ moles } NO_2 $$<br><br><b>Paso 3:</b> Calculamos los moles para un solo gramo.<br>$$ X = \\frac{4}{118,7} = 0,03369 \\approx 0,0336 \\text{ moles} $$"
+        },
+        {
+          "pregunta": "Un trozo de hierro que pesaba 10,50 gramos se dejó en una atmósfera húmeda hasta que se convirtió totalmente en óxido ($$Fe_2O_3$$). ¿Cuánto pesa el óxido?",
+          "opciones": [
+            "20g",
+            "1,5g",
+            "15g",
+            "30g",
+            "224g"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Planteamos la ecuación general de oxidación del hierro.<br>$$ 2Fe + 3O \\rightarrow Fe_2O_3 $$<br><br><b>Paso 2:</b> Relacionamos masa de Fe ($Fe = 56\\text{ g/mol}$) con la masa de óxido final ($Fe_2O_3 = 160\\text{ g/mol}$).<br>$$ 2(56\\text{ g}) Fe \\rightarrow 160\\text{ g } Fe_2O_3 $$<br>$$ 112\\text{ g Fe} \\rightarrow 160\\text{ g } Fe_2O_3 $$<br><br><b>Paso 3:</b> Calculamos para 10,5 g de Hierro oxidado.<br>$$ 10,5\\text{ g Fe} \\rightarrow X\\text{ g } Fe_2O_3 $$<br>$$ X = \\frac{10,5 \\times 160}{112} = 15\\text{ g} $$"
+        },
+        {
+          "pregunta": "En la siguiente ecuación química:<br>$$ I_2 + 6HNO_3 \\rightarrow 2HIO_2 + 6NO_2 + 2H_2O $$<br>¿Cuántos litros de óxido de nitrógeno (IV) se producirán a condiciones normales por la reacción de 10 moles de ácido nítrico con yodo?",
+          "opciones": [
+            "10L",
+            "248L",
+            "20L",
+            "24,2L",
+            "224L"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Paso 1:</b> Relacionamos los moles de $HNO_3$ con el volumen de $NO_2$ en C.N.<br>$$ 6 \\text{ moles } HNO_3 \\rightarrow 6(22,4\\text{ L}) NO_2 $$<br>$$ 1 \\text{ mol } HNO_3 \\rightarrow 22,4\\text{ L } NO_2 $$<br><br><b>Paso 2:</b> Multiplicamos por la cantidad de moles solicitados en la pregunta.<br>$$ 10 \\text{ moles } HNO_3 \\rightarrow X \\text{ L } NO_2 $$<br>$$ X = 10 \\times 22,4 = 224\\text{ L} $$"
+        },
+        {
+          "pregunta": "¿Cuántos moles de $$CO_2$$ se formarán en la combustión de 500g de \"carbón de piedra\" que contiene 95% de carbono?<br>$$ C + O_2 \\rightarrow CO_2 $$",
+          "opciones": [
+            "41,7",
+            "43,9",
+            "39,6",
+            "19,8",
+            "3,96"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Hallamos la masa pura de carbono que formará parte de la reacción.<br>$$ \\text{Masa de C} = 500\\text{ g} \\times 0,95 = 475\\text{ g} $$<br><br><b>Paso 2:</b> Relacionamos la masa de C con los moles de $CO_2$ producidos ($C = 12\\text{ g/mol}$).<br>$$ 12\\text{ g C} \\rightarrow 1 \\text{ mol } CO_2 $$<br>$$ 475\\text{ g C} \\rightarrow X \\text{ moles } CO_2 $$<br><br><b>Paso 3:</b> Calculamos los moles finales.<br>$$ X = \\frac{475}{12} = 39,583 \\dots \\approx 39,6 \\text{ moles} $$"
+        },
+        {
+          "pregunta": "¿Cuántos gramos de cloruro de sodio se producen al neutralizar 80g de hidróxido de sodio en suficiente ácido clorhídrico?<br>P.A.(M): H=1; O=16; Na=23; Cl=35,5",
+          "opciones": [
+            "98g",
+            "152g",
+            "256g",
+            "117g",
+            "2,2g"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1:</b> Planteamos la reacción de neutralización.<br>$$ NaOH + HCl \\rightarrow NaCl + H_2O $$<br><br><b>Paso 2:</b> Relacionamos sus masas molares teóricas ($NaOH = 40\\text{ g/mol}$, $NaCl = 58,5\\text{ g/mol}$).<br>$$ 40\\text{ g NaOH} \\rightarrow 58,5\\text{ g NaCl} $$<br>$$ 80\\text{ g NaOH} \\rightarrow X\\text{ g NaCl} $$<br><br><b>Paso 3:</b> Calculamos (notar que 80g es exactamente el doble de 40g).<br>$$ X = 58,5 \\times 2 = 117\\text{ g} $$"
         }
       ],
       "videos": [
         {
           "titulo": "10.1 Teoria",
           "youtube_id": "_Xd9IMnOJKc",
-          "pdf_link": "LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1XZbjo8KIE_Y4oNxJz0g1K9Gcbr3rDs1P/view",
           "gratis": true
         },
         {
           "titulo": "10.2 Ejercicios",
           "youtube_id": "H69m-dnXgbo",
-          "pdf_link": "LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1Dfu9wIto9hosupktb9swiWRzFm4PcotI/view",
           "gratis": true
         }
       ]
