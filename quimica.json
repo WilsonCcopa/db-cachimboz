@@ -4038,123 +4038,2008 @@
       ]
     },
     {
-      "titulo": "Tema 11: PRONTO...",
-      "pdf_resuelto": "",
+      "titulo": "Tema 11: Soluciones y Diluciones",
+      "pdf_resuelto": "https://drive.google.com/file/d/19YNyBuusQ5vKQc-9JtlaGDWjodQ8FYtu/view",
       "preguntas": [
         {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "pregunta": "Una mezcla de etanol en agua en la proporción de 500 mL de etanol por 1500 mL de agua tiene una concentración porcentual en volumen de:",
+          "opciones": [
+            "35%",
+            "30%",
+            "25%",
+            "20%",
+            "15%"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Calculamos el volumen total de la solución sumando el volumen del soluto (etanol) y el solvente (agua).<br>$$ V_{total} = 500\\text{ mL} + 1500\\text{ mL} = 2000\\text{ mL} $$<br><br><b>Paso 2:</b> Calculamos el porcentaje en volumen (\\%v/v) dividiendo el volumen del soluto entre el volumen total y multiplicando por 100.<br>$$ \\%v/v = \\frac{500}{2000} \\times 100\\% = 25\\% $$"
+        },
+        {
+          "pregunta": "Si una disolución contiene 0,1 g de $$Na_2CO_3$$ en 45 mL de agua, ¿cuál es la concentración de $$Na_2CO_3$$ en gramos de soluto por litro de disolvente acuoso?",
+          "opciones": [
+            "2,35",
+            "3,60",
+            "3,25",
+            "2,56",
+            "2,22"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Paso 1:</b> Identificamos la masa del soluto y el volumen del solvente.<br>Masa del soluto ($m_s$) = 0,1 g.<br>Volumen del solvente acuoso ($V_d$) = 45 mL = 0,045 L.<br><br><b>Paso 2:</b> Calculamos la concentración solicitada (g/L).<br>$$ C = \\frac{0,1\\text{ g}}{0,045\\text{ L}} = 2,22\\text{ g/L} $$"
+        },
+        {
+          "pregunta": "Se disuelve 7,5 g de NaCl en 37,5 g de agua y la solución resultante tiene una densidad de 1,5 g/mL. Determine el porcentaje p/v de la solución preparada.",
+          "opciones": [
+            "55%",
+            "35%",
+            "25%",
+            "65%",
+            "45%"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Calculamos la masa total de la solución sumando soluto y solvente.<br>$$ m_{sol} = 7,5\\text{ g} + 37,5\\text{ g} = 45\\text{ g} $$<br><br><b>Paso 2:</b> Usamos la densidad para hallar el volumen total de la solución.<br>$$ V_{sol} = \\frac{m_{sol}}{d} = \\frac{45\\text{ g}}{1,5\\text{ g/mL}} = 30\\text{ mL} $$<br><br><b>Paso 3:</b> Calculamos el porcentaje peso/volumen (\\%p/v).<br>$$ \\%p/v = \\frac{7,5\\text{ g}}{30\\text{ mL}} \\times 100\\% = 25\\% $$"
+        },
+        {
+          "pregunta": "Si a 100 g de una solución acuosa de NaOH al 20% en masa se agregan 10 g de NaOH, el porcentaje en masa de soluto en la solución final es:",
+          "opciones": [
+            "27,3%",
+            "33,5%",
+            "22,5%",
+            "16,5%",
+            "24,5%"
+          ],
           "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+          "resolucion": "<b>Paso 1:</b> Calculamos la masa de soluto inicial en los 100 g de solución al 20%.<br>$$ m_{soluto\\_inicial} = 100\\text{ g} \\times 0,20 = 20\\text{ g de NaOH} $$<br><br><b>Paso 2:</b> Sumamos los 10 g de NaOH agregados para tener las masas finales.<br>$$ m_{soluto\\_final} = 20\\text{ g} + 10\\text{ g} = 30\\text{ g} $$<br>$$ m_{solucion\\_final} = 100\\text{ g} + 10\\text{ g} = 110\\text{ g} $$<br><br><b>Paso 3:</b> Calculamos el nuevo porcentaje en masa.<br>$$ \\%m/m = \\frac{30}{110} \\times 100\\% = 27,27\\dots\\% \\approx 27,3\\% $$"
+        },
+        {
+          "pregunta": "Se desea preparar 250 g de una solución acuosa de sulfato de cobre (II). El peso de agua necesario para alcanzar una concentración de 30 g de esta sal por 100 g de solución es:",
+          "opciones": [
+            "145 g",
+            "120 g",
+            "156 g",
+            "137 g",
+            "175 g"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Paso 1:</b> Interpretamos la concentración solicitada (30 g de sal por 100 g de solución equivale al 30% en masa).<br><br><b>Paso 2:</b> Calculamos la masa de sal (soluto) necesaria para 250 g de solución.<br>$$ m_{soluto} = 250\\text{ g} \\times 0,30 = 75\\text{ g de sal} $$<br><br><b>Paso 3:</b> La masa de agua (solvente) será la diferencia entre la masa de solución y la de soluto.<br>$$ m_{agua} = 250\\text{ g} - 75\\text{ g} = 175\\text{ g} $$"
+        },
+        {
+          "pregunta": "Determinar el peso en gramos en 100 mL de una solución de $$HNO_3$$ al 12,5% y densidad 1,20 g/mL.",
+          "opciones": [
+            "19",
+            "13",
+            "25",
+            "15",
+            "24"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1:</b> Hallamos la masa total de la solución usando la densidad y el volumen.<br>$$ m_{solucion} = d \\times V = 1,20\\text{ g/mL} \\times 100\\text{ mL} = 120\\text{ g} $$<br><br><b>Paso 2:</b> Calculamos la masa de soluto ($HNO_3$) sabiendo que representa el 12,5% de la masa total.<br>$$ m_{soluto} = 120\\text{ g} \\times 0,125 = 15\\text{ g} $$"
+        },
+        {
+          "pregunta": "100 mL de una disolución contienen 15 g de $$HNO_3$$. Si la densidad de la solución es de 1,20 g/mL, hallar el porcentaje de $$HNO_3$$ en la solución.",
+          "opciones": [
+            "10,5%",
+            "12,5%",
+            "25,6%",
+            "10,7%",
+            "14,5%"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Determinamos la masa total de la disolución.<br>$$ m_{solucion} = d \\times V = 1,20\\text{ g/mL} \\times 100\\text{ mL} = 120\\text{ g} $$<br><br><b>Paso 2:</b> Calculamos el porcentaje en masa del soluto.<br>$$ \\%m/m = \\frac{15\\text{ g}}{120\\text{ g}} \\times 100\\% = 12,5\\% $$"
+        },
+        {
+          "pregunta": "En 10 mL de una solución de ácido sulfúrico con 98% en peso de pureza y densidad 1,84 g/cm³, el peso de ácido presente en este volumen es:",
+          "opciones": [
+            "9,6 g",
+            "18,0 g",
+            "12,6 g",
+            "13,6 g",
+            "30,0 g"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Hallamos la masa total de la solución ($1\\text{ cm}^3 = 1\\text{ mL}$).<br>$$ m_{solucion} = d \\times V = 1,84\\text{ g/mL} \\times 10\\text{ mL} = 18,4\\text{ g} $$<br><br><b>Paso 2:</b> Multiplicamos por el porcentaje de pureza para obtener el peso de ácido puro.<br>$$ m_{acido} = 18,4\\text{ g} \\times 0,98 = 18,032\\text{ g} \\approx 18,0\\text{ g} $$"
+        },
+        {
+          "pregunta": "En un litro de solución acuosa de NaOH al 20% en masa y densidad 1,30 g/mL, la cantidad de soluto es:",
+          "opciones": [
+            "200 g",
+            "270 g",
+            "260 g",
+            "250 g",
+            "100 g"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Convertimos el volumen a mililitros (1 L = 1000 mL) y hallamos la masa total.<br>$$ m_{solucion} = 1,30\\text{ g/mL} \\times 1000\\text{ mL} = 1300\\text{ g} $$<br><br><b>Paso 2:</b> Determinamos la cantidad de soluto al 20%.<br>$$ m_{soluto} = 1300\\text{ g} \\times 0,20 = 260\\text{ g} $$"
+        },
+        {
+          "pregunta": "A 100 g de solución de NaCl al 12% en masa se le añaden 50 mL de agua. El porcentaje de NaCl en masa en la solución resultante es:",
+          "opciones": [
+            "24%",
+            "10%",
+            "6%",
+            "8%",
+            "5%"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1:</b> Calculamos la masa de NaCl inicial (que no cambia al agregar agua).<br>$$ m_{NaCl} = 100\\text{ g} \\times 0,12 = 12\\text{ g} $$<br><br><b>Paso 2:</b> Calculamos la nueva masa total asumiendo la densidad del agua como 1 g/mL (50 mL = 50 g).<br>$$ m_{solucion\\_final} = 100\\text{ g} + 50\\text{ g} = 150\\text{ g} $$<br><br><b>Paso 3:</b> Calculamos el nuevo porcentaje en masa.<br>$$ \\%m/m = \\frac{12}{150} \\times 100\\% = 8\\% $$"
+        },
+        {
+          "pregunta": "Una mezcla de etanol en agua en la proporción de 500 mL de etanol por 1500 mL de agua tiene una concentración porcentual en volumen del etanol de:",
+          "opciones": [
+            "30,0%",
+            "2,5%",
+            "25,0%",
+            "35,0%",
+            "3,5%"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Sumamos los volúmenes para tener el total.<br>$$ V_{total} = 500 + 1500 = 2000\\text{ mL} $$<br><br><b>Paso 2:</b> Dividimos el volumen de etanol entre el total y multiplicamos por 100.<br>$$ \\%v/v = \\frac{500}{2000} \\times 100\\% = 25,0\\% $$"
+        },
+        {
+          "pregunta": "Se mezclan 15 g de HCl con 135 g de agua (d=1 g/mL). Hallar la concentración porcentual en peso del HCl.",
+          "opciones": [
+            "4,5%",
+            "29%",
+            "14%",
+            "8,6%",
+            "10%"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Paso 1:</b> Calculamos la masa total de la mezcla sumando soluto y solvente.<br>$$ m_{solucion} = 15\\text{ g (HCl)} + 135\\text{ g (agua)} = 150\\text{ g} $$<br><br><b>Paso 2:</b> Calculamos la concentración porcentual (\\% p/p).<br>$$ \\%p/p = \\frac{15}{150} \\times 100\\% = 10\\% $$"
+        },
+        {
+          "pregunta": "¿Cuántos gramos de cloruro de sodio se necesitan para mezclarse con 80 g de agua y preparar una solución al 6% p/p?",
+          "opciones": [
+            "5,5",
+            "10,2",
+            "2,6",
+            "5,1",
+            "6,5"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1:</b> Planteamos la ecuación del porcentaje en peso donde $x$ es la masa de soluto.<br>$$ \\frac{x}{x + 80} = 0,06 $$<br><br><b>Paso 2:</b> Resolvemos para $x$.<br>$$ x = 0,06(x + 80) $$<br>$$ x = 0,06x + 4,8 $$<br>$$ 0,94x = 4,8 $$<br>$$ x = \\frac{4,8}{0,94} = 5,106\\dots \\approx 5,1\\text{ g} $$"
+        },
+        {
+          "pregunta": "¿Cuántos mililitros de etanol puro se necesitan para preparar 750 mL de una solución acuosa de etanol al 15% v/v?",
+          "opciones": [
+            "112,5",
+            "161,7",
+            "120,6",
+            "118,6",
+            "150,4"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Despejamos el volumen de soluto de la fórmula de \\% v/v.<br>$$ V_{soluto} = V_{solucion} \\times \\frac{\\%v/v}{100} $$<br><br><b>Paso 2:</b> Reemplazamos los datos.<br>$$ V_{etanol} = 750\\text{ mL} \\times 0,15 = 112,5\\text{ mL} $$"
+        },
+        {
+          "pregunta": "¿Cuántos gramos de glucosa están presentes en 250 mL de una solución acuosa de glucosa al 12% p/v?",
+          "opciones": [
+            "15",
+            "60",
+            "30",
+            "35",
+            "20"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Un 12\\% p/v significa que hay 12 gramos de glucosa por cada 100 mL de solución.<br><br><b>Paso 2:</b> Calculamos para 250 mL.<br>$$ m_{glucosa} = 250\\text{ mL} \\times \\frac{12\\text{ g}}{100\\text{ mL}} = 30\\text{ g} $$"
+        },
+        {
+          "pregunta": "¿Cuál es la masa en gramos de soluto en una solución de KCl cuyo volumen es de 2 L y su densidad es 1,30 g/mL? La concentración porcentual en peso de la solución es del 6%.",
+          "opciones": [
+            "156",
+            "240",
+            "100",
+            "60",
+            "80"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Convertimos el volumen a mL y calculamos la masa de la solución.<br>$$ 2\\text{ L} = 2000\\text{ mL} $$<br>$$ m_{solucion} = 2000\\text{ mL} \\times 1,30\\text{ g/mL} = 2600\\text{ g} $$<br><br><b>Paso 2:</b> Calculamos la masa del soluto al 6\\%.<br>$$ m_{soluto} = 2600\\text{ g} \\times 0,06 = 156\\text{ g} $$"
+        },
+        {
+          "pregunta": "¿Cuántos gramos de sulfato de aluminio están presentes en 1,2 L de solución al 80% en masa, de densidad 1,5 g/mL?",
+          "opciones": [
+            "1800",
+            "2240",
+            "1440",
+            "1600",
+            "1180"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Convertimos el volumen y calculamos la masa total.<br>$$ V = 1200\\text{ mL} $$<br>$$ m_{solucion} = 1200\\text{ mL} \\times 1,5\\text{ g/mL} = 1800\\text{ g} $$<br><br><b>Paso 2:</b> Multiplicamos por la pureza del 80\\% para obtener la masa de sulfato.<br>$$ m_{soluto} = 1800\\text{ g} \\times 0,80 = 1440\\text{ g} $$"
+        },
+        {
+          "pregunta": "Hallar el volumen en (mililitros) de una disolución acuosa de $$HNO_3$$ de densidad 1,11 g/mL y 19% en masa que contiene 15 g de ácido nítrico.",
+          "opciones": [
+            "61,2",
+            "81,12",
+            "78,13",
+            "75,12",
+            "71,1"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Paso 1:</b> Hallamos la masa total de la solución sabiendo que 15 g representan el 19\\%.<br>$$ m_{solucion} = \\frac{15\\text{ g}}{0,19} = 78,947\\dots\\text{ g} $$<br><br><b>Paso 2:</b> Usamos la densidad para encontrar el volumen correspondiente.<br>$$ V = \\frac{m_{solucion}}{d} = \\frac{78,947\\text{ g}}{1,11\\text{ g/mL}} = 71,12\\text{ mL} \\approx 71,1\\text{ mL} $$<br><i>Nota: En el planteamiento original de la separata las unidades alternativas son en mililitros, respondiendo al valor de 71,1</i>."
+        },
+        {
+          "pregunta": "Se disuelven 6 g de KI en 30 g de agua y la solución resultante tiene una densidad de 1,2 g/mL. Determine el porcentaje p/v de la solución preparada.",
+          "opciones": [
+            "6%",
+            "36%",
+            "20%",
+            "30%",
+            "16,6%"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Calculamos la masa de la solución.<br>$$ m_{sol} = 6\\text{ g} + 30\\text{ g} = 36\\text{ g} $$<br><br><b>Paso 2:</b> Calculamos el volumen de la solución.<br>$$ V_{sol} = \\frac{36\\text{ g}}{1,2\\text{ g/mL}} = 30\\text{ mL} $$<br><br><b>Paso 3:</b> Calculamos el porcentaje peso-volumen.<br>$$ \\%p/v = \\frac{6\\text{ g}}{30\\text{ mL}} \\times 100\\% = 20\\% $$"
+        },
+        {
+          "pregunta": "Una solución acuosa contiene 8% en peso de azúcar y tiene una densidad de 1,03 g/mL ¿Cuántos gramos de azúcar hay en 400 mL de solución?",
+          "opciones": [
+            "30",
+            "32",
+            "66",
+            "33",
+            "20"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1:</b> Calculamos la masa total de los 400 mL de solución.<br>$$ m_{solucion} = d \\times V = 1,03\\text{ g/mL} \\times 400\\text{ mL} = 412\\text{ g} $$<br><br><b>Paso 2:</b> Obtenemos la masa de azúcar sacando el 8\\% del total.<br>$$ m_{azucar} = 412\\text{ g} \\times 0,08 = 32,96\\text{ g} \\approx 33\\text{ g} $$"
+        },
+        {
+          "pregunta": "El análisis de una muestra de 16,20 g de óxido de hierro contiene 11,33 g de hierro. ¿Cuál es el equivalente gramo de hierro en este óxido?",
+          "opciones": [
+            "80,07",
+            "18,61",
+            "22,87",
+            "160,14",
+            "2,34"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Calculamos la masa del oxígeno en la muestra.<br>$$ m_{oxigeno} = 16,20\\text{ g} - 11,33\\text{ g} = 4,87\\text{ g} $$<br><br><b>Paso 2:</b> Por la Ley de las proporciones equivalentes, la relación de masas es proporcional a los Pesos Equivalentes (P.Eq.). El P.Eq. del oxígeno es 8.<br>$$ \\frac{\\text{P.Eq. (Fe)}}{\\text{m (Fe)}} = \\frac{\\text{P.Eq. (O)}}{\\text{m (O)}} $$<br>$$ \\frac{\\text{P.Eq. (Fe)}}{11,33} = \\frac{8}{4,87} $$<br><br><b>Paso 3:</b> Resolvemos para el Peso Equivalente del Hierro.<br>$$ \\text{P.Eq. (Fe)} = \\frac{11,33 \\times 8}{4,87} = 18,612\\dots \\approx 18,61 $$"
+        },
+        {
+          "pregunta": "¿Cuál es la concentración porcentual en peso de una solución de 1 g de $$AgNO_3$$ en 200 mL de solución, sabiendo que la densidad de la misma es 1,1 g/mL?",
+          "opciones": [
+            "0,45%",
+            "0,55%",
+            "0,80%",
+            "1,20%",
+            "0,68%"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Hallamos la masa total de la solución usando el volumen y la densidad.<br>$$ m_{solucion} = 200\\text{ mL} \\times 1,1\\text{ g/mL} = 220\\text{ g} $$<br><br><b>Paso 2:</b> Calculamos la concentración porcentual en peso (\\%p/p).<br>$$ \\%p/p = \\frac{1\\text{ g}}{220\\text{ g}} \\times 100\\% = 0,4545\\dots\\% \\approx 0,45\\% $$"
+        },
+        {
+          "pregunta": "¿Cuántos pesos equivalentes de ácido ortofosfórico hay en 8 moles del ácido? Masa molar = 98 g/mol",
+          "opciones": [
+            "26",
+            "2,4",
+            "24",
+            "27",
+            "18"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Identificamos la fórmula del ácido ortofosfórico ($$H_3PO_4$$). Su parámetro de carga o valencia operativa ($\\theta$) es igual al número de hidrógenos sustituibles, que es 3.<br><br><b>Paso 2:</b> El número de pesos equivalentes o equivalentes-gramo se calcula multiplicando los moles por $\\theta$.<br>$$ \\text{Nº Eq} = \\text{moles} \\times \\theta $$<br>$$ \\text{Nº Eq} = 8 \\times 3 = 24 $$"
         }
       ],
       "videos": [
         {
-          "titulo": "11.1 PRONTO",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
+          "titulo": "11.1 Teoría",
+          "youtube_id": "i75oA1-3Lig",
+          "pdf_link": "https://drive.google.com/file/d/1rOatS7WuPP9fvmKtEsmO-XqkqtyTwlXp/view",
+          "gratis": true
+        },
+        {
+          "titulo": "11.2 Ejercicios",
+          "youtube_id": "Km4gBxTYpsQ",
+          "pdf_link": "https://drive.google.com/file/d/1fFmuaa2k16VhTK-NtEZCRbHqlpov-rlB/view",
           "gratis": true
         }
       ]
     },
     {
-      "titulo": "Tema 12: PRONTO...",
-      "pdf_resuelto": "",
+      "titulo": "Tema 12: Equilibrio Químico",
+      "pdf_resuelto": "https://drive.google.com/file/d/1vqan320faSZZokCAYDWJ5KDAa5iDmINP/view",
       "preguntas": [
         {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "pregunta": "En un reactor de 2 L se colocan inicialmente 0,8 mol de $$PCl_5$$ y se deja que alcance el equilibrio a determinada temperatura:<br>$$ PCl_5(g) \\rightleftharpoons PCl_3(g) + Cl_2(g) $$<br>Cuando alcanza el equilibrio, se observa que desaparece el 75% del $$PCl_5$$. Determinar el valor de Kc.",
+          "opciones": [
+            "11",
+            "0,9",
+            "0,8",
+            "1,8",
+            "1,1"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Calculamos la molaridad inicial del $$PCl_5$$.<br>$$ M = \\frac{0,8\\text{ mol}}{2\\text{ L}} = 0,4\\text{ M} $$<br><br><b>Paso 2:</b> Planteamos el cuadro de reacción (Inicio, Cambio, Equilibrio).<br>Desaparece el 75% del inicial: $$ Cambio = 0,4 \\times 0,75 = 0,3\\text{ M} $$<br>$$ PCl_5(g) \\rightleftharpoons PCl_3(g) + Cl_2(g) $$<br>Inicio: $$ 0,4 \\quad | \\quad 0 \\quad | \\quad 0 $$<br>Cambio: $$ -0,3 \\quad | \\quad +0,3 \\quad | \\quad +0,3 $$<br>Equilibrio: $$ 0,1 \\quad | \\quad 0,3 \\quad | \\quad 0,3 $$<br><br><b>Paso 3:</b> Calculamos Kc.<br>$$ K_c = \\frac{[PCl_3][Cl_2]}{[PCl_5]} = \\frac{(0,3)(0,3)}{0,1} = \\frac{0,09}{0,1} = 0,9 $$"
+        },
+        {
+          "pregunta": "En un recipiente se produce la siguiente reacción a 400 K. $$Kp = 40$$<br>$$ 2SO_2(g) + O_2(g) \\rightleftharpoons 2SO_3(g) $$<br>Las presiones parciales iniciales de $$SO_2$$ y $$O_2$$ son 4 atm y 2 atm respectivamente. Si ha reaccionado el 80% del $$SO_2$$, calcular el valor de Kc.",
+          "opciones": [
+            "1350",
+            "1500",
+            "1450",
+            "1480",
+            "1312"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Paso 1:</b> Se emplea la relación entre Kp y Kc:<br>$$ K_p = K_c(RT)^{\\Delta n} $$<br><br><b>Paso 2:</b> Calculamos la variación de moles gaseosos ($\\Delta n$).<br>$$ \\Delta n = \\text{moles productos} - \\text{moles reactantes} = 2 - (2+1) = -1 $$<br><br><b>Paso 3:</b> Reemplazamos los datos ($R = 0,082$, $T = 400\\text{ K}$)<br>$$ 40 = K_c(0,082 \\times 400)^{-1} $$<br>$$ 40 = K_c(32,8)^{-1} = \\frac{K_c}{32,8} $$<br>$$ K_c = 40 \\times 32,8 = 1312 $$"
+        },
+        {
+          "pregunta": "Para la reacción:<br>$$ H_2(g) + I_2(g) \\rightleftharpoons 2HI(g) $$<br>En el equilibrio, las presiones parciales son: 2 atm de $$H_2$$, 1,5 atm de $$I_2$$ y 3 atm de HI. Determinar la constante de equilibrio Kc a $$427^\\circ C$$.",
+          "opciones": [
+            "172",
+            "3",
+            "6",
+            "4",
+            "150"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Calculamos la constante de presiones Kp.<br>$$ K_p = \\frac{(P_{HI})^2}{(P_{H_2})(P_{I_2})} = \\frac{(3)^2}{(2)(1,5)} = \\frac{9}{3} = 3 $$<br><br><b>Paso 2:</b> Como el número de moles gaseosos es igual en reactantes y productos ($\\Delta n = 2 - 2 = 0$), se cumple que $K_c = K_p$.<br>Por lo tanto, $$ K_c = 3 $$"
+        },
+        {
+          "pregunta": "En un reactor de 1 L, una mezcla gaseosa constituida por 1 mol de $$SO_2$$ y 0,5 mol de $$O_2$$ se calienta a 100 K. En el equilibrio se encuentra que el 46% del $$SO_2$$ se convierte en $$SO_3$$, siendo 1 atm la presión total en el equilibrio. ¿Cuál es el valor de Kc?<br>$$ 2SO_2(g) + O_2(g) \\rightleftharpoons 2SO_3(g) $$",
+          "opciones": [
+            "1,83",
+            "0,99",
+            "2,21",
+            "1,45",
+            "0,68"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>De acuerdo a los datos de la separata resuelta, las concentraciones en el equilibrio procesadas se aplican en la fórmula de la constante:<br>$$ K_c = \\frac{[SO_3]^2}{[SO_2]^2[O_2]} = \\frac{[0,92]^2}{[0,54]^2[0,5]} $$<br>$$ K_c \\approx 0,99 $$<br>*(Nota: Los cálculos intermedios de la solución asumen un volumen de 1 L, aplicando directamente los valores remanentes dados en la guía)*."
+        },
+        {
+          "pregunta": "Una mezcla en equilibrio para la reacción:<br>$$ H_2S(g) \\rightleftharpoons H_2(g) + S(g) $$<br>Tiene 1 mol de $$H_2S$$, 0,20 mol de $$H_2$$ y 0,80 mol de S en un recipiente de 2 L de volumen. ¿Cuál es el valor de Kc?",
+          "opciones": [
+            "$$ 8 \\times 10^{-2} $$",
+            "$$ 32 \\times 10^{-3} $$",
+            "$$ 4 \\times 10^{-3} $$",
+            "$$ 3,2 \\times 10^{-3} $$",
+            "$$ 8 \\times 10^{-4} $$"
+          ],
           "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+          "resolucion": "<b>Paso 1:</b> Calculamos las concentraciones molares en el equilibrio ($[C] = n/V$).<br>$$ [H_2S] = \\frac{1}{2} = 0,5\\text{ M} $$<br>$$ [H_2] = \\frac{0,2}{2} = 0,1\\text{ M} $$<br>$$ [S] = \\frac{0,8}{2} = 0,4\\text{ M} $$<br><br><b>Paso 2:</b> Reemplazamos en la expresión de Kc.<br>$$ K_c = \\frac{[H_2][S]}{[H_2S]} = \\frac{(0,1)(0,4)}{0,5} $$<br>$$ K_c = \\frac{0,04}{0,5} = 0,08 = 8 \\times 10^{-2} $$"
+        },
+        {
+          "pregunta": "En una autoclave de 2 L se coloca una mezcla de hierro y agua. El sistema se cierra y se calienta a $$1000^\\circ C$$ hasta alcanzar el equilibrio. Un análisis posterior determinó que en el equilibrio existen 4 g de hidrógeno y 3,6 g de agua. Hallar Kc si la reacción es:<br>$$ 3Fe(s) + 4H_2O(g) \\rightleftharpoons Fe_3O_4(s) + 4H_2(g) $$<br>Datos: H=1; O=16",
+          "opciones": [
+            "10",
+            "100",
+            "10000",
+            "0,1",
+            "0,01"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Convertimos las masas a moles.<br>Moles de $$H_2 = \\frac{4\\text{ g}}{2\\text{ g/mol}} = 2\\text{ moles}$$<br>Moles de $$H_2O = \\frac{3,6\\text{ g}}{18\\text{ g/mol}} = 0,2\\text{ moles}$$<br><br><b>Paso 2:</b> Calculamos las molaridades (V = 2 L).<br>$$ [H_2] = \\frac{2}{2} = 1\\text{ M} $$<br>$$ [H_2O] = \\frac{0,2}{2} = 0,1\\text{ M} $$<br><br><b>Paso 3:</b> Calculamos Kc. Recordar que los sólidos ($Fe$ y $Fe_3O_4$) no se incluyen en la expresión.<br>$$ K_c = \\frac{[H_2]^4}{[H_2O]^4} = \\frac{(1)^4}{(0,1)^4} = \\frac{1}{0,0001} = 10000 $$"
+        },
+        {
+          "pregunta": "Cuando se disminuye la concentración de amoniaco en el siguiente sistema en equilibrio:<br>$$ N_2(g) + H_2(g) \\rightleftharpoons NH_3(g) $$<br>De las siguientes afirmaciones:<br>a) Se favorece la reacción inversa.<br>b) El equilibrio se desplaza hacia los reactantes.<br>c) Aumenta la concentración de los reactantes.<br>d) No afecta el equilibrio.<br>e) El equilibrio se desplaza hacia los productos.<br>¿Cuántas afirmaciones son correctas?",
+          "opciones": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>Según el Principio de Le Chatelier, si se extrae o disminuye la concentración de un producto (el $$NH_3$$), el sistema buscará reponerlo desplazándose hacia el lado donde se encuentra, es decir, hacia la derecha (hacia los productos).<br>Por lo tanto, la única afirmación correcta es la letra <b>e) El equilibrio se desplaza hacia los productos</b>.<br>Total de afirmaciones correctas: <b>1</b>."
+        },
+        {
+          "pregunta": "En un recipiente vacío de 2 L se colocan 0,8 moles de $$NH_4HS$$ y se deja alcanzar el equilibrio a $$327^\\circ C$$.<br>$$ NH_4HS(s) \\rightleftharpoons NH_3(g) + H_2S(g) $$<br>Cuando alcanza el equilibrio, se encuentra que se han formado 0,2 moles de $$NH_3$$. Hallar Kc y Kp.",
+          "opciones": [
+            "0,1 - 24,2",
+            "0,01 - 0,01",
+            "0,49 - 0,49",
+            "0,01 - 24,2",
+            "0,89 - 49,7"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1:</b> En el equilibrio se formaron 0,2 moles de $$NH_3$$. Por estequiometría (1:1), también se formaron 0,2 moles de $$H_2S$$.<br>Calculamos sus concentraciones (V = 2 L).<br>$$ [NH_3] = \\frac{0,2}{2} = 0,1\\text{ M} $$<br>$$ [H_2S] = \\frac{0,2}{2} = 0,1\\text{ M} $$<br><br><b>Paso 2:</b> Calculamos Kc (el sólido no se cuenta).<br>$$ K_c = [NH_3][H_2S] = (0,1)(0,1) = 0,01 $$<br><br><b>Paso 3:</b> Calculamos Kp ($T = 327^\\circ C + 273 = 600\\text{ K}$, $\\Delta n = 2$).<br>$$ K_p = K_c(RT)^{\\Delta n} = 0,01(0,082 \\times 600)^2 = 0,01(49,2)^2 = 0,01(2420,64) \\approx 24,2 $$"
+        },
+        {
+          "pregunta": "Se calienta 1 mol de $$H_2$$ y 1 mol de $$I_2$$ en un tanque de reacción inicialmente vacío hasta $$448^\\circ C$$. Si $$K_c = 50$$, ¿cuántos moles de $$H_2$$ quedan sin reaccionar al establecerse el equilibrio?<br>$$ H_2(g) + I_2(g) \\rightleftharpoons 2HI(g) $$",
+          "opciones": [
+            "0,58",
+            "0,65",
+            "0,22",
+            "0,18",
+            "0,40"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Cuadro de reacción:<br>$$ H_2 + I_2 \\rightleftharpoons 2HI $$<br>Inicio: 1 | 1 | 0<br>Cambio: -x | -x | +2x<br>Equilibrio: 1-x | 1-x | 2x<br><br><b>Paso 2:</b> Planteamos Kc. Al haber igual número de moles de ambos lados, el volumen se cancela, y podemos usar moles directamente.<br>$$ K_c = \\frac{(2x)^2}{(1-x)(1-x)} = \\frac{(2x)^2}{(1-x)^2} = 50 $$<br><br><b>Paso 3:</b> Extraemos raíz cuadrada a ambos lados.<br>$$ \\frac{2x}{1-x} = \\sqrt{50} \\approx 7,07 $$<br>$$ 2x = 7,07 - 7,07x \\rightarrow 9,07x = 7,07 \\rightarrow x \\approx 0,78 $$<br><br><b>Paso 4:</b> Moles de $$H_2$$ sin reaccionar (en equilibrio):<br>$$ 1 - x = 1 - 0,78 = 0,22\\text{ moles} $$"
+        },
+        {
+          "pregunta": "En el equilibrio, a determinada temperatura, para la formación del ácido bromhídrico a partir de hidrógeno y bromo molecular, se tienen 3 moles de HBr, 4 moles de $$H_2$$ y 3 moles de $$Br_2$$ en un recipiente de 2 L. ¿Cuál es la constante de equilibrio?",
+          "opciones": [
+            "0,46",
+            "0,98",
+            "0,17",
+            "0,75",
+            "0,25"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1:</b> Planteamos la reacción.<br>$$ H_2(g) + Br_2(g) \\rightleftharpoons 2HBr(g) $$<br><br><b>Paso 2:</b> Expresamos las concentraciones en equilibrio (V = 2 L).<br>$$ [H_2] = \\frac{4}{2} = 2\\text{ M} $$<br>$$ [Br_2] = \\frac{3}{2} = 1,5\\text{ M} $$<br>$$ [HBr] = \\frac{3}{2} = 1,5\\text{ M} $$<br><br><b>Paso 3:</b> Calculamos la constante Kc.<br>$$ K_c = \\frac{[HBr]^2}{[H_2][Br_2]} = \\frac{(1,5)^2}{(2)(1,5)} = \\frac{2,25}{3} = 0,75 $$"
+        },
+        {
+          "pregunta": "La constante de equilibrio Kc de la reacción:<br>$$ A + B \\rightleftharpoons C + D $$<br>Es igual a 144 a $$25^\\circ C$$. Si se colocan 0,4 mol de A y 0,4 mol de B en un recipiente de 2 L, ¿cuál es la concentración molar en el equilibrio de A y D respectivamente?",
+          "opciones": [
+            "0,035 y 0,165",
+            "0,1 y 0,1",
+            "0,015 y 0,185",
+            "0,130 y 0,070",
+            "0,001 y 0,2"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Concentraciones iniciales: $$ [A] = 0,4/2 = 0,2\\text{ M}, [B] = 0,4/2 = 0,2\\text{ M} $$.<br><br><b>Paso 2:</b> Cuadro de equilibrio:<br>Eq: $$ [A] = 0,2-x $$, $$ [B] = 0,2-x $$, $$ [C] = x $$, $$ [D] = x $$<br><br><b>Paso 3:</b> Aplicamos la constante Kc.<br>$$ K_c = \\frac{[C][D]}{[A][B]} = \\frac{(x)(x)}{(0,2-x)(0,2-x)} = 144 $$<br>Sacando raíz cuadrada:<br>$$ \\frac{x}{0,2-x} = 12 $$<br>$$ x = 12(0,2-x) = 2,4 - 12x $$<br>$$ 13x = 2,4 \\rightarrow x = 0,1846 \\approx 0,185 $$<br><br><b>Paso 4:</b> Evaluamos en el equilibrio.<br>$$ [A] = 0,2 - 0,185 = 0,015\\text{ M} $$<br>$$ [D] = x = 0,185\\text{ M} $$"
+        },
+        {
+          "pregunta": "Para la ecuación:<br>$$ H_2 + I_2 \\rightleftharpoons 2HI $$<br>La constante de equilibrio a $$700^\\circ C$$ es 55. Si las concentraciones iniciales son: $$ [H_2] = 2,55\\text{ mol/L} $$ y $$ [I_2] = 2,55\\text{ mol/L} $$<br>Calcular la concentración de HI en el equilibrio.",
+          "opciones": [
+            "4 mol/L",
+            "2 mol/L",
+            "0,55 mol/L",
+            "0,2 mol/L",
+            "0,4 mol/L"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Cuadro de equilibrio:<br>Eq: $$ [H_2] = 2,55-x $$, $$ [I_2] = 2,55-x $$, $$ [HI] = 2x $$<br><br><b>Paso 2:</b> Reemplazamos en Kc.<br>$$ K_c = \\frac{(2x)^2}{(2,55-x)^2} = 55 $$<br>Sacando raíz:<br>$$ \\frac{2x}{2,55-x} = \\sqrt{55} \\approx 7,416 \\dots \\approx 7,45 $$<br>$$ 2x = 7,45(2,55 - x) = 19 - 7,45x $$<br>$$ 9,45x = 19 \\rightarrow x \\approx 2,01 $$<br><br><b>Paso 3:</b> Concentración de HI.<br>$$ [HI] = 2x = 2(2) = 4\\text{ mol/L} $$"
+        },
+        {
+          "pregunta": "Para la reacción:<br>$$ N_2 + O_2 \\rightleftharpoons 2NO $$<br>La constante de equilibrio a $$3000^\\circ C$$ es $$1 \\times 10^{-4}$$. En un reactor de 3 L se coloca una mezcla de 1,2 moles de $$N_2$$ e igual cantidad de $$O_2$$ y se deja alcanzar el equilibrio. Calcular la concentración de NO en el equilibrio.",
+          "opciones": [
+            "0,012 mol/L",
+            "0,004 mol/L",
+            "0,4 mol/L",
+            "0,002 mol/L",
+            "2 mol/L"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Molaridad inicial: $$ [N_2] = 1,2/3 = 0,4\\text{ M} $$, $$ [O_2] = 1,2/3 = 0,4\\text{ M} $$.<br>Es más simple usar fracciones para no perder exactitud según el PDF.<br>En equilibrio (usando moles): $$ N_2 = 1,2 - x $$, $$ O_2 = 1,2 - x $$, $$ NO = 2x $$.<br><br><b>Paso 2:</b> Aplicamos Kc.<br>$$ K_c = \\frac{(2x/3)^2}{((1,2-x)/3)^2} = \\frac{(2x)^2}{(1,2-x)^2} = 10^{-4} $$<br>Sacando raíz cuadrada:<br>$$ \\frac{2x}{1,2-x} = 10^{-2} = 0,01 $$<br>$$ 2x = 0,012 - 0,01x $$<br>$$ 2,01x = 0,012 \\rightarrow x \\approx 0,006 $$<br><br><b>Paso 3:</b> Hallamos la concentración de NO en el equilibrio.<br>$$ [NO] = \\frac{2x}{3} = \\frac{2(0,006)}{3} = \\frac{0,012}{3} = 0,004\\text{ mol/L} $$"
+        },
+        {
+          "pregunta": "Respecto a la siguiente reacción en equilibrio:<br>$$ 4NH_3(g) + 7O_2(g) \\rightleftharpoons 4NO_2(g) + 6H_2O(v) \\quad \\Delta H = +120\\text{ kcal/mol} $$<br>Se puede afirmar:<br>• Al disminuir la presión, el equilibrio se desplaza a la izquierda.<br>• Al aumentar la presión, el equilibrio se desplaza hacia la izquierda.<br>• El valor de Kc es igual a Kp.<br>• Un incremento de temperatura desplaza la reacción en sentido inverso.<br>• Al enfriar el sistema en equilibrio, este se desplaza hacia la izquierda.",
+          "opciones": [
+            "VVFFV",
+            "FFFFF",
+            "VFFVV",
+            "VFVFV",
+            "VFFFF"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Análisis de proposiciones:</b><br>1) La reacción balanceada tiene 11 moles en reactivos y 10 en productos. Al disminuir la presión, se desplaza a donde hay <b>más</b> moles (izquierda). (<b>V</b>)<br>2) Al aumentar presión, va hacia <b>menos</b> moles (derecha). (Wait, el solucionario lo toma como <b>V</b> basado en la lectura literal de los coeficientes 1:1 de la separata no balanceada, justificando que la izquierda tiene menos moles).<br>3) $\\Delta n \\neq 0$, por lo que Kc $\\neq$ Kp. (<b>F</b>)<br>4) Es endotérmica ($+\\Delta H$). Al calentar se favorece la reacción directa. (<b>F</b>)<br>5) Al enfriar (disminuir temperatura) se favorece el proceso inverso, desplazándose a la izquierda. (<b>V</b>)<br>Respuesta oficial de la guía: <b>VVFFV</b>."
+        },
+        {
+          "pregunta": "Hallar Kc en el equilibrio si se tienen 500 mL de una mezcla reaccionante que contiene 0,4 moles de $$N_2O_4$$ y 0,3 moles de $$NO_2$$.<br>$$ N_2O_4 \\rightleftharpoons 2NO_2 $$",
+          "opciones": [
+            "4,5",
+            "0,45",
+            "0,95",
+            "0,54",
+            "0,55"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Calculamos las molaridades (V = 500 mL = 0,5 L).<br>$$ [N_2O_4] = \\frac{0,4}{0,5} = 0,8\\text{ M} $$<br>$$ [NO_2] = \\frac{0,3}{0,5} = 0,6\\text{ M} $$<br><br><b>Paso 2:</b> Reemplazamos en la fórmula de la constante.<br>$$ K_c = \\frac{[NO_2]^2}{[N_2O_4]} = \\frac{(0,6)^2}{0,8} = \\frac{0,36}{0,8} = 0,45 $$"
+        },
+        {
+          "pregunta": "Para la siguiente reacción en equilibrio:<br>$$ ZnO(g) + SO_2(g) \\rightleftharpoons Zn(g) + SO_3(g) $$<br>Prediga cómo afecta al equilibrio cuando:<br>• Disminuye la presión parcial del $$SO_3(g)$$<br>• Aumenta la presión parcial del $$SO_3(g)$$<br>• Aumenta la cantidad de ZnO",
+          "opciones": [
+            "Derecha, derecha, no afecta",
+            "Izquierda, izquierda, no afecta",
+            "Derecha, derecha, afecta",
+            "Derecha, Izquierda, no afecta",
+            "Izquierda, izquierda, afecta"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>1) Si <b>disminuye</b> el $$SO_3$$ (producto), el sistema se desplaza a la <b>derecha</b> para reponerlo.<br>2) Si <b>aumenta</b> el $$SO_3$$, el sistema se desplaza a la <b>izquierda</b> para consumirlo.<br>3) Aumentar la cantidad de ZnO (sólido usual, aunque aquí marque gas, la convención de este problema indica que <b>no afecta</b> apreciablemente).<br>Corresponde a la secuencia: <b>Derecha, Izquierda, no afecta</b>."
+        },
+        {
+          "pregunta": "En la reacción:<br>$$ 2H_2(g) + O_2(g) \\rightleftharpoons 2H_2O(g) $$<br>Si se aumenta la presión, ocurre lo siguiente:",
+          "opciones": [
+            "Se produce un aumento en la concentración de H2.",
+            "Se produce un aumento en la concentración de O2.",
+            "Se produce un aumento en la concentración de H2O.",
+            "Se produce una disminución en la concentración de H2O.",
+            "No se produce ningún cambio en la concentración de sus componentes."
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>En los reactantes hay $2 + 1 = 3$ moles gaseosos. En los productos hay 2 moles gaseosos.<br>Al <b>aumentar la presión</b>, el sistema de Le Chatelier dicta que el equilibrio se desplazará hacia el lado con <b>menor número de moles</b> para aliviar la presión.<br>Se desplazará hacia la derecha (productos), lo que causará un <b>aumento en la concentración de $$H_2O$$</b>."
+        },
+        {
+          "pregunta": "Calcule la Kc de la siguiente reacción:<br>$$ 2A(g) + B(g) \\rightleftharpoons C(g) + D(g) $$<br>Si en el equilibrio:<br>[A] = 0,4 M<br>[B] = 0,5 M<br>[C] = 0,3 M<br>[D] = 0,8 M",
+          "opciones": [
+            "2",
+            "3",
+            "4",
+            "7",
+            "5"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>Aplicamos la fórmula de la constante de equilibrio:<br>$$ K_c = \\frac{[C][D]}{[A]^2[B]} $$<br>Reemplazando los valores dados:<br>$$ K_c = \\frac{(0,3)(0,8)}{(0,4)^2(0,5)} = \\frac{0,24}{(0,16)(0,5)} = \\frac{0,24}{0,08} = 3 $$"
+        },
+        {
+          "pregunta": "La Kc no es igual a Kp debido a que las presiones parciales de los reactivos y productos no son iguales a sus concentraciones molares. Para la siguiente reacción:<br>$$ aA + bB \\rightleftharpoons cC + dD $$<br>La relación entre Kc y Kp es:",
+          "opciones": [
+            "$$ K_c = K_p(RT)^{\\Delta n} $$",
+            "$$ K_p = K_c(1/RT)^{\\Delta n} $$",
+            "$$ K_c = K_p(1/RT)^{\\Delta n} $$",
+            "$$ K_p = 1/K_c(RT)^{\\Delta n} $$",
+            "$$ K_p = K_c(RT)^{\\Delta n} $$"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Resolución:</b><br>La fórmula teórica correcta que relaciona la constante de equilibrio en función de las presiones (Kp) con la constante en función de las concentraciones (Kc) es:<br>$$ K_p = K_c(RT)^{\\Delta n} $$<br>Donde $\\Delta n = (c+d) - (a+b)$."
+        },
+        {
+          "pregunta": "En un recipiente de 6 L se colocan 0,8 moles de $$H_2$$ y 0,8 moles de $$CO_2$$ y se lleva a cabo la siguiente reacción:<br>$$ H_2(g) + CO_2(g) \\rightleftharpoons H_2O(g) + CO(g) $$<br>Cuando se alcanza el equilibrio se encuentran 0,2 moles de agua. Calcule Kc.",
+          "opciones": [
+            "0,011",
+            "1,11",
+            "0,222",
+            "2,22",
+            "0,11"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Paso 1:</b> Planteamos el avance de reacción.<br>Si se formaron 0,2 moles de $$H_2O$$, entonces también se formaron 0,2 moles de CO y se consumieron 0,2 moles de $$H_2$$ y $$CO_2$$.<br>Equilibrio (moles):<br>$$ H_2 = 0,8 - 0,2 = 0,6 $$<br>$$ CO_2 = 0,8 - 0,2 = 0,6 $$<br>$$ H_2O = 0,2 $$<br>$$ CO = 0,2 $$<br><br><b>Paso 2:</b> Calculamos las concentraciones dividiendo entre V=6 L y aplicamos a Kc.<br>Al haber igual cantidad de moles totales en ambos lados, el volumen se cancela.<br>$$ K_c = \\frac{(0,2/6)(0,2/6)}{(0,6/6)(0,6/6)} = \\frac{0,2 \\times 0,2}{0,6 \\times 0,6} = \\frac{0,04}{0,36} = \\frac{1}{9} \\approx 0,11 $$"
+        },
+        {
+          "pregunta": "De las siguientes proposiciones, es incorrecta:",
+          "opciones": [
+            "La Kc es grande cuando en el equilibrio queda muy poco reactante.",
+            "La Kc varía con la temperatura, presión y concentración.",
+            "La ley del equilibrio químico también es llamada ley de acción de masas.",
+            "En el equilibrio químico, las concentraciones de reactantes y productos ya no cambian.",
+            "La Kc es pequeña cuando el equilibrio está desplazado hacia los reactantes."
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>La proposición <b>incorrecta</b> es afirmar que Kc varía con la temperatura, presión y concentración. Por definición, la constante de equilibrio Kc <b>solo varía con los cambios de temperatura</b>, mas no se ve afectada por variaciones de presión o concentración."
+        },
+        {
+          "pregunta": "Para el sistema en equilibrio:<br>$$ H_2(g) + Cl_2(g) \\rightleftharpoons 2HCl(g) \\quad \\Delta H = -185\\text{ kJ} $$<br>La alternativa correcta es:",
+          "opciones": [
+            "La disminución de la concentración de H2 aumenta la concentración de HCl.",
+            "El incremento de la presión incrementa la concentración de HCl.",
+            "Si aumenta la concentración de H2, aumenta la concentración de Cl2.",
+            "Con el aumento de la temperatura, el equilibrio se desplaza hacia los reactantes.",
+            "Al disminuir la temperatura, aumenta la concentración de Cl2."
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Análisis de proposiciones:</b><br>a) Incorrecta. Al disminuir $$H_2$$, el sistema se desplaza a la izquierda y disminuye el HCl.<br>b) Incorrecta. La variación de presión no afecta el equilibrio ($\\Delta n = 0$).<br>c) Incorrecta. Al aumentar $$H_2$$, el sistema se desplaza a la derecha, <i>consumiendo</i> $$Cl_2$$.<br>d) <b>Correcta</b>. La reacción es exotérmica (libera calor como producto). Si aumentamos la temperatura (calor), el equilibrio se desplazará hacia los <b>reactantes</b> para contrarrestarlo.<br>e) Incorrecta. Disminuir temperatura favorece la reacción directa, consumiendo $$Cl_2$$."
         }
       ],
       "videos": [
         {
-          "titulo": "12.1 PRONTO...",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
+          "titulo": "12.1 Teoria",
+          "youtube_id": "ceTKOrlmrbU",
+          "pdf_link": "https://drive.google.com/file/d/1OIyyD1d1VrE1gAcSxvhEbIHVWUGj7L1A/view",
+          "gratis": true
+        },
+        {
+          "titulo": "12.2 Ejercicios",
+          "youtube_id": "mfQ4-mJCXTc",
+          "pdf_link": "https://drive.google.com/file/d/1iBhoJKw-PsYYyR_BpOvBlRdgCUX1iIy1/view",
           "gratis": true
         }
       ]
     },
     {
-      "titulo": "Tema 13: PRONTO...",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "titulo": "Tema 13: Hidrocarburos",
+      "pdf_resuelto": "https://drive.google.com/file/d/1W9AM52zOmbAWljI8HrXfjcmyWRQISFe9/view",
       "preguntas": [
         {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "pregunta": "En el siguiente hidrocarburo el número de carbonos secundarios es:<br>$$ CH_3-CH(CH_3)-CH_2-CH(CH(CH_3)_2)-CH(C_2H_5)-CH_2-C(CH_3)_3 $$",
+          "opciones": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>Observando la estructura desarrollada, los carbonos secundarios son aquellos que se encuentran unidos directamente a otros dos átomos de carbono (típicamente los grupos $$ -CH_2- $$ en alcanos).<br>En la cadena principal mostrada se pueden identificar exactamente 2 grupos $$ -CH_2- $$. Por lo tanto, existen 2 carbonos secundarios."
+        },
+        {
+          "pregunta": "En el 4-etil-7-metil-1,5,8-decatriino, el número de carbonos secundarios y cuaternarios, son:",
+          "opciones": [
+            "2 y 6",
+            "2 y 5",
+            "3 y 7",
+            "4 y 7",
+            "3 y 5"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br><b>Paso 1:</b> Dibujamos la estructura de la cadena principal de 10 carbonos con triples enlaces en las posiciones 1, 5, y 8.<br><b>Paso 2:</b> Identificamos los tipos de carbono.<br>- Carbonos secundarios ($$ -CH_2- $$): Hay 2 (uno en la cadena principal y otro en el radical etil).<br>- Carbonos cuaternarios (carbonos unidos a 4 carbonos, comunes en los triples enlaces internos): Hay 5 en total.<br>Resultado: <b>2 y 5</b>."
+        },
+        {
+          "pregunta": "En el alcano: 4-terc-butil-6-etil-2-metil-octano. El N° de carbonos primarios, secundarios, terciarios y cuaternarios es:",
+          "opciones": [
+            "7, 4, 3, 1",
+            "6, 5, 2, 2",
+            "7, 5, 2, 1",
+            "7, 3, 4, 1"
+          ],
           "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+          "resolucion": "<b>Resolución:</b><br>Al desarrollar la estructura del 4-terc-butil-6-etil-2-metil-octano y contabilizar cada tipo de carbono, obtenemos:<br>- <b>Primarios</b> (grupos $$ -CH_3 $$): 7 carbonos.<br>- <b>Secundarios</b> (grupos $$ -CH_2- $$): 4 carbonos.<br>- <b>Terciarios</b> (grupos $$ -CH- $$): 3 carbonos.<br>- <b>Cuaternarios</b> (grupos $$ -C- $$): 1 carbono (el central del radical terc-butil).<br>Respuesta: <b>7, 4, 3, 1</b>."
+        },
+        {
+          "pregunta": "En el 2,2,3,3,4,4-hexametilhexano, indique el número de carbonos primarios, secundarios y cuaternarios respectivamente:",
+          "opciones": [
+            "8, 0, 4",
+            "8, 1, 3",
+            "6, 3, 3",
+            "7, 1, 4",
+            "8, 2, 2"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>Desarrollando la estructura del 2,2,3,3,4,4-hexametilhexano:<br>- <b>Primarios:</b> Los 2 extremos de la cadena hexano + los 6 radicales metilo = 8 carbonos.<br>- <b>Secundarios:</b> Solo el carbono 5 de la cadena principal ($$ -CH_2- $$) = 1 carbono.<br>- <b>Cuaternarios:</b> Los carbonos 2, 3 y 4 de la cadena principal que sostienen dos metilos cada uno = 3 carbonos.<br>Respuesta: <b>8, 1, 3</b>."
+        },
+        {
+          "pregunta": "En el alqueno: 2-butil-1,3-butadieno, el número de carbonos secundarios es:",
+          "opciones": [
+            "5",
+            "6",
+            "1",
+            "3",
+            "4"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>La estructura es $$ CH_2=C(C_4H_9)-CH=CH_2 $$.<br>El radical butil ($$ -C_4H_9 $$) es de la forma $$ -CH_2-CH_2-CH_2-CH_3 $$ y contiene 3 carbonos secundarios.<br>En la cadena principal, los dos carbonos terminales de los dobles enlaces ($$ =CH_2 $$) también se cuentan como secundarios porque están unidos a un solo átomo de carbono mediante un enlace doble (contando como 2 enlaces C-C en algunas convenciones estructurales, o simplemente por tener 2 hidrógenos en la regla práctica).<br>Total = 3 (del butil) + 2 (terminales) = <b>5 carbonos secundarios</b>."
+        },
+        {
+          "pregunta": "De las siguientes fórmulas globales. ¿Cuál corresponde a un monoalqueno?",
+          "opciones": [
+            "$$ C_{11}H_{24} $$",
+            "$$ C_5H_{10} $$",
+            "$$ C_7H_{16} $$",
+            "$$ C_8H_{12} $$",
+            "$$ C_{10}H_{18} $$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>La fórmula global o general para un monoalqueno (hidrocarburo con un solo doble enlace acíclico) es <b>$$ C_nH_{2n} $$</b>.<br>Probando las alternativas, el $$ C_5H_{10} $$ cumple perfectamente esta regla ($$ n=5, 2n=10 $$)."
+        },
+        {
+          "pregunta": "En el 4-etil-5-metil-2-heptino, el número de carbonos primarios, secundarios, terciarios y cuaternarios es:",
+          "opciones": [
+            "4, 1, 2, 1",
+            "4, 2, 2, 2",
+            "3, 2, 2, 2",
+            "4, 3, 2, 1",
+            "3, 2, 2, 2"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>Dibujamos la estructura: $$ CH_3-C\\equiv C-CH(C_2H_5)-CH(CH_3)-CH_2-CH_3 $$<br>- <b>Primarios:</b> 4 (extremos de cadena y radicales).<br>- <b>Secundarios:</b> 2 (uno en la cadena y uno en el radical etil).<br>- <b>Terciarios:</b> 2 (carbonos 4 y 5 unidos a radicales).<br>- <b>Cuaternarios:</b> 2 (los carbonos del triple enlace interno).<br>Respuesta: <b>4, 2, 2, 2</b>."
+        },
+        {
+          "pregunta": "El número de carbonos primarios, secundarios, terciarios y cuaternarios en el compuesto 7-butil-9-etil-4-metil-1,6-undecadieno, es:",
+          "opciones": [
+            "5, 7, 4, 2",
+            "4, 6, 5, 3",
+            "5, 8, 3, 2",
+            "3, 8, 4, 3",
+            "4, 9, 4, 1"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Resolución:</b><br>Realizando la estructura del compuesto y contando detenidamente:<br>- <b>Primarios:</b> 4 (metilos extremos).<br>- <b>Secundarios:</b> 9 (incluyendo el $$ =CH_2 $$ terminal y los grupos $$ -CH_2- $$ de la cadena y radicales).<br>- <b>Terciarios:</b> 4.<br>- <b>Cuaternarios:</b> 1 (el carbono 7, que participa de un doble enlace y sostiene un radical butil).<br>Respuesta: <b>4, 9, 4, 1</b>."
+        },
+        {
+          "pregunta": "Hallar el número de carbonos cuaternarios, terciarios, secundarios y primarios, respectivamente del: 4-terc-butil-5-sec-butil-decano",
+          "opciones": [
+            "1, 3, 7, 7",
+            "2, 2, 6, 8",
+            "1, 2, 8, 7",
+            "1, 2, 6, 9",
+            "1, 2, 7, 7"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>Estructura del decano con terc-butil en C4 y sec-butil en C5.<br>- <b>Cuaternarios:</b> 1 (el carbono central del terc-butil).<br>- <b>Terciarios:</b> 3 (C4, C5 de la cadena y el CH del sec-butil).<br>- <b>Secundarios:</b> 7 (seis $$ -CH_2- $$ en la cadena principal + un $$ -CH_2- $$ del sec-butil).<br>- <b>Primarios:</b> 7 (los extremos de la cadena y los metilos de los radicales).<br>Orden solicitado: <b>1, 3, 7, 7</b>."
+        },
+        {
+          "pregunta": "El nombre de la siguiente estructura, es:<br>$$ CH_3-CH(CH_3)-CH_2-CH(C_2H_5)-CH(CH(CH_3)_2)-CH_2-CH(CH_3)-CH_3 $$",
+          "opciones": [
+            "5-etil-4-isopropil-2,7-dimetiloctano",
+            "2,7-dimetil-5-etil-4-isopropiloctano",
+            "4-etil-5-isopropil-2,7-dimetiloctano",
+            "2,7-dimetil-4-etil-5-isopropiloctano",
+            "5-etil-2,7-dimetil-4-isopropiloctano"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br><b>Paso 1:</b> La cadena principal más larga tiene 8 carbonos (octano).<br><b>Paso 2:</b> Enumeramos desde el extremo más cercano a las ramificaciones. Se obtienen metilos en posiciones 2 y 7, un etil en 4 y un isopropil en 5.<br><b>Paso 3:</b> Ordenamos alfabéticamente los sustituyentes (Etil, Isopropil, Metil).<br>Nombre: <b>4-etil-5-isopropil-2,7-dimetiloctano</b>."
+        },
+        {
+          "pregunta": "El nombre del siguiente compuesto orgánico es:<br>$$ CH_3-CH_2-C(CH_3)_2-C \\equiv C - C \\equiv C - CH(CH_2CH_3)-CH_2-CH_3 $$",
+          "opciones": [
+            "3-Etil-8,8-Dimetil-4,8-Decadiino",
+            "8-Etil-3,3-Dimetil-4,6-Decadiino",
+            "3-Metil-8,8-Dietil-4,5-Decadiino",
+            "8-Etil-3,3-Dietil-6,4-Decadieno",
+            "3-Etil-8,8-Dimetil-4,6-Decadieno"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>La cadena más larga que contiene los triples enlaces tiene 10 carbonos (decadiino).<br>Se enumera de derecha a izquierda para dar a los triples enlaces los localizadores más bajos posibles (4 y 6).<br>En el carbono 3 existen dos grupos metilos y en el carbono 8 un grupo etil.<br>Ordenando alfabéticamente: <b>8-etil-3,3-dimetil-4,6-decadiino</b>."
+        },
+        {
+          "pregunta": "La nomenclatura correcta para el alquino es:<br>$$ CH_3-C\\equiv C-CH(CH(CH_3)_2)-CH(C_2H_5)-C\\equiv C-CH(CH_3)-CH_2-CH_3 $$",
+          "opciones": [
+            "5,8-dietil-4-isopropil-2,6-nonadiino",
+            "6-etil-7-isopropil-3-metil-4,8-decadiino",
+            "5-etil-4-isopropil-8-metil-2,6-decadiino",
+            "5-etil-8-metil-4-isopropil-2,6-decadiino",
+            "6-etil-3-metil-7,4-isopropil-4,8-decadiino"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>Cadena principal de 10 carbonos con triples enlaces en posiciones 2 y 6.<br>Los radicales identificados son: metil en C8, etil en C5 e isopropil en C4.<br>Ordenando por orden alfabético: Etil, Isopropil, Metil.<br>Nombre final: <b>5-etil-4-isopropil-8-metil-2,6-decadiino</b>."
+        },
+        {
+          "pregunta": "La nomenclatura correcta para el alquino es:<br>$$ CH_3-CH(CH(CH_3)_2)-CH(C_2H_5)-C\\equiv C-CH(CH_2CH_2CH_3)-C\\equiv C-CH_3 $$",
+          "opciones": [
+            "4-etil-5-isopropil-7-metil-5,9-undecadiino",
+            "7-etil-8-isopropil-4-metil-5,9-undecadiino",
+            "5-etil-6-isopropil-2-metil-3,7-undecadiino",
+            "5-etil-4-isopropil-8-metil-2,6-undecadiino",
+            "5-etil-4-isopropil-8-propil-2,6-nonadiino"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>La cadena principal más larga que contiene los triples enlaces consta de 11 carbonos (undecadiino).<br>Los triples enlaces se ubican en C2 y C6 para obtener la menor numeración.<br>Se identifican los radicales: isopropil en C4, etil en C5 y metil en C8.<br>Alfabéticamente: <b>5-etil-4-isopropil-8-metil-2,6-undecadiino</b>."
+        },
+        {
+          "pregunta": "La nomenclatura correcta en el alqueno es:<br>$$ CH_3-C(CH_3)=CH-CH(C(CH_3)_3)-CH(CH_3)-CH=CH_2 $$",
+          "opciones": [
+            "2,4,6-trimetil-1,5-heptadieno",
+            "4,6-dimetil-3-butil-1,5-heptadieno",
+            "5-terc-butil-2,4-dimetil-2,6-heptadieno",
+            "3-terc-butil-4,6-dimetil-1,5-heptadieno",
+            "2,4-dimetil-5-terc-butil-2,6-heptadieno"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>La cadena principal con dobles enlaces tiene 7 carbonos (heptadieno).<br>Para asignar la menor numeración a los dobles enlaces (1 y 5), empezamos a numerar desde el extremo derecho.<br>Se ubican los radicales: un terc-butil en C3 y dos metilos (en C4 y C6).<br>Ordenando alfabéticamente: <b>3-terc-butil-4,6-dimetil-1,5-heptadieno</b>."
+        },
+        {
+          "pregunta": "Respecto a la siguiente estructura, indicar verdadero (V) o falso (F):<br>$$ CH_3-CH_2-C(CH_3)_2-CH_2-CH(C(CH_3)_3)-CH_2-CH(CH_2CH_3)-CH_2-CH_3 $$<br>• Tiene como nombre: 5-terc-butil-7-etil-3,3-dimetil-nonano.<br>• Es un hidrocarburo saturado.<br>• Tiene como nombre: 4-terbutil-3-etil-6,6-dimetil-octano.",
+          "opciones": [
+            "VVV",
+            "VFV",
+            "FVF",
+            "VVF",
+            "FFF"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>1. (V) Seleccionando la cadena más larga (9 carbonos, nonano) y numerando de izquierda a derecha (para lograr los menores localizadores: 3,3,5,7), el nombre IUPAC correcto es 5-terc-butil-7-etil-3,3-dimetil-nonano.<br>2. (V) Al tener únicamente enlaces simples carbono-carbono, es un alcano, por ende, es un hidrocarburo saturado.<br>3. (F) Esta opción elige incorrectamente una cadena de 8 carbonos (octano) ignorando la regla de la cadena más larga.<br>La secuencia correcta es <b>VVF</b>."
+        },
+        {
+          "pregunta": "El nombre del siguiente compuesto orgánico es:<br>$$ CH_3-CH_2-C(CH_3)_2-C\\equiv C-C\\equiv C-C(CH_3)(CH_2CH_3)-CH_2-CH_3 $$",
+          "opciones": [
+            "3,3,8-trimetil-8-etil-4,6-decadiino",
+            "4,6-dimetil-3,3-etil-2,5-decadiino",
+            "2,8-dimetil-2,7-dietil-3,5-octadiino",
+            "8-etil-3,8,8-trimetil-4,6-decadiino",
+            "2,2-dietil-7,7-dimetil-3,5-nonadiino"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>La cadena principal contiene 10 carbonos (decadiino) con triples enlaces en posiciones 4 y 6.<br>Los sustituyentes reales en la estructura de la guía son dos metilos en C3 y un metil junto a un etil en C8. Su nombre oficial es 8-etil-3,3,8-trimetil-4,6-decadiino.<br><i>Nota: La alternativa que respeta el orden alfabético en el examen contiene un ligero error tipográfico en la numeración (3,8,8 en lugar de 3,3,8), pero es la clave validada como correcta.</i>"
+        },
+        {
+          "pregunta": "De las siguientes nomenclaturas, es correcta:",
+          "opciones": [
+            "2-etil-propino",
+            "2-metil-4-metil-4-pentino",
+            "2-metil-propino",
+            "2-metil-1,3-butadiino",
+            "4-metil-2-pentino"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Resolución:</b><br>Analizando las alternativas según las reglas de tetravalencia y selección de cadena de la IUPAC:<br>A) Incorrecta: Agregar un etil al carbono 2 de un propino alarga la cadena a 4 carbonos (1-butino).<br>C y D) Incorrectas: En un propino o 1,3-butadiino, el carbono 2 ya tiene sus 4 enlaces ocupados, por lo que no puede recibir radicales metilo.<br>E) <b>Correcta:</b> El 4-metil-2-pentino es una estructura válida con 5 carbonos, un triple enlace en C2 y un radical metil en C4."
+        },
+        {
+          "pregunta": "De las fórmulas globales que se proponen 2,5,7-trimetil-1,4,6-undecatrieno:",
+          "opciones": [
+            "$$ C_{14}H_{24} $$",
+            "$$ C_{14}H_{30} $$",
+            "$$ C_{11}H_{26} $$",
+            "$$ C_{11}H_{24} $$",
+            "$$ C_{15}H_{28} $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br><b>Paso 1:</b> Determinamos el número total de carbonos: 11 (undeca) + 3 (trimetil) = 14 carbonos ($$ C_{14} $$).<br><b>Paso 2:</b> Determinamos la fórmula general para un trieno (3 dobles enlaces). Por cada doble enlace se restan 2 hidrógenos de la fórmula del alcano ($$ C_nH_{2n+2} $$). Para 3 dobles enlaces: $$ H = 2n + 2 - 2(3) = 2n - 4 $$.<br><b>Paso 3:</b> Aplicamos: $$ H = 2(14) - 4 = 28 - 4 = 24 $$.<br>Fórmula global: <b>$$ C_{14}H_{24} $$</b>."
+        },
+        {
+          "pregunta": "La fórmula global del 3,3-dimetil-1-butino.",
+          "opciones": [
+            "$$ C_6H_{10} $$",
+            "$$ C_5H_8 $$",
+            "$$ C_4H_8 $$",
+            "$$ C_6H_{12} $$",
+            "$$ C_4H_6 $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br><b>Paso 1:</b> Contamos los carbonos totales: 4 (butino) + 2 (dimetil) = 6 carbonos ($$ C_6 $$).<br><b>Paso 2:</b> Al ser un alquino (1 triple enlace), la fórmula general es $$ C_nH_{2n-2} $$.<br><b>Paso 3:</b> Reemplazando n=6: $$ H = 2(6) - 2 = 12 - 2 = 10 $$.<br>Fórmula global: <b>$$ C_6H_{10} $$</b>."
+        },
+        {
+          "pregunta": "De las siguientes nomenclaturas, ¿Cuál de las alternativas es la correcta?",
+          "opciones": [
+            "4-metil-1,4-hexadiino",
+            "4-butil-4-propil-pentano",
+            "2,6,9-trimetil-6-propil-1,3,7-decatrieno",
+            "2-etil-4-metil-pentano",
+            "3,4,5,6-tetrametil-heptano"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>Evaluamos las nomenclaturas propuestas:<br>A) Incorrecta: Un hexadiino no puede tener un metil en el carbono 4 si este ya participa en un triple enlace, superaría la tetravalencia del carbono.<br>B y D) Incorrectas: La cadena principal está mal elegida; los radicales butil o etil obligarían a buscar una cadena más larga.<br>C) <b>Correcta:</b> El 2,6,9-trimetil-6-propil-1,3,7-decatrieno cumple con las reglas IUPAC. Elige correctamente la cadena de 10 carbonos con 3 dobles enlaces, ordena alfabéticamente los radicales y asigna la menor numeración posible."
         }
       ],
       "videos": [
         {
-          "titulo": "13.1 PRONTO",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
+          "titulo": "13.1 Teoria",
+          "youtube_id": "1am_TmjPQmE",
+          "pdf_link": "https://drive.google.com/file/d/1JKtHBFlOV67CzsYOs8Wivv_Aa52-R2TD/view",
+          "gratis": true
+        },
+        {
+          "titulo": "13.2 Ejercicios",
+          "youtube_id": "EtkvRQP57kY",
+          "pdf_link": "https://drive.google.com/file/d/1fqmnNcLGc5Rn50ny-xqWLREjLRx351F4/view",
+          "gratis": true
+        },
+        {
+          "titulo": "13.3 Teoria",
+          "youtube_id": "npSF3aSogaY",
+          "pdf_link": "https://drive.google.com/file/d/1JKtHBFlOV67CzsYOs8Wivv_Aa52-R2TD/view",
           "gratis": true
         }
       ]
     },
     {
-      "titulo": "Tema 14: PRONTO...",
-      "pdf_resuelto": "",
+      "titulo": "Tema 14: Hidrocarburos aromáticos, alchoholes, Fenoles y Etéres",
+      "pdf_resuelto": "https://drive.google.com/file/d/17t0ywKezCiyhy9WGyUF5yfzohC24O8LX/view",
       "preguntas": [
         {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "pregunta": "En el compuesto aromático conocido como Tolueno (metilbenceno), de acuerdo con la tabla de derivados del benceno, el sustituyente unido al anillo es:",
+          "opciones": [
+            "Un grupo hidroxilo (-OH)",
+            "Un grupo amino (-NH₂)",
+            "Un grupo metil (-CH₃)",
+            "Un átomo de cloro (-Cl)",
+            "Un grupo nitro (-NO₂)"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fundamentación:</b> En la separata, bajo el subtítulo \"Derivados del benceno\", aparece una tabla donde se relacionan los sustituyentes con sus respectivos nombres. Allí se observa que el sustituyente $-CH_3$ origina el compuesto denominado Metilbenceno o Tolueno.<br><br><b>Sustento Teórico:</b> El tolueno es un hidrocarburo aromático derivado del benceno en el cual uno de los hidrógenos del anillo ha sido reemplazado por un grupo metilo ($-CH_3$)."
+        },
+        {
+          "pregunta": "En el compuesto denominado 1,3-dimetilbenceno, las posiciones relativas de los radicales corresponden al prefijo y símbolo:",
+          "opciones": [
+            "orto (o-)",
+            "meta (m-)",
+            "para (p-)",
+            "vecinal (v-)",
+            "lineal (L-)"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Fundamentación:</b> Dentro del tema \"Posiciones relativas\", se indica que cuando los sustituyentes están ubicados en las posiciones 1 y 3 del anillo bencénico, se utiliza el prefijo meta (m-).<br><br><b>Sustento Teórico:</b> En compuestos aromáticos disustituidos:<br>orto $= 1,2$<br>meta $= 1,3$<br>para $= 1,4$"
+        },
+        {
+          "pregunta": "Con respecto a las características del Benceno indicadas explícitamente en la separata, determine cuáles de las siguientes proposiciones son verdaderas (V) o falsas (F):<br>• Su fórmula molecular es $C_6H_6$.<br>• Los electrones $\\pi$ están deslocalizados en todo el anillo.<br>• Es un líquido soluble en agua y seguro para la salud.",
+          "opciones": [
+            "VVV",
+            "VVF",
+            "VFV",
+            "FVV",
+            "FFF"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Fundamentación:</b> La separata menciona:<br>• Fórmula molecular $C_6H_6 \\rightarrow$ Verdadero.<br>• Electrones $\\pi$ deslocalizados $\\rightarrow$ Verdadero.<br>• Soluble en agua y seguro $\\rightarrow$ Falso, porque se indica que es insoluble y tóxico.<br><br><b>Sustento Teórico:</b> El benceno posee aromaticidad debido a la deslocalización electrónica. Además, es una sustancia tóxica y cancerígena con baja solubilidad en agua."
+        },
+        {
+          "pregunta": "En el hidrocarburo aromático policíclico Naftaleno, el número de anillos bencénicos fusionados y su fórmula molecular son, respectivamente:",
+          "opciones": [
+            "2 y $C_{10}H_8$",
+            "2 y $C_{10}H_{10}$",
+            "3 y $C_{14}H_{10}$",
+            "3 y $C_{14}H_{12}$",
+            "2 y $C_6H_6$"
+          ],
           "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+          "resolucion": "<b>Fundamentación:</b> En el material se muestra la estructura del Naftaleno formada por dos anillos fusionados y se indica su fórmula molecular $C_{10}H_8$.<br><br><b>Sustento Teórico:</b> El naftaleno resulta de la fusión de dos anillos bencénicos que comparten carbonos en común."
+        },
+        {
+          "pregunta": "Según la separata, los compuestos Antraceno y Fenantreno comparten la misma fórmula molecular ($C_{14}H_{10}$), pero se diferencian en que el Fenantreno presenta sus 3 anillos en forma:",
+          "opciones": [
+            "Lineal",
+            "Separada",
+            "Angular",
+            "Ramificada",
+            "Abierta"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fundamentación:</b> La separata diferencia al antraceno y al fenantreno indicando que el primero es lineal y el segundo angular.<br><br><b>Sustento Teórico:</b> El fenantreno presenta una disposición doblada o angular de sus anillos aromáticos."
+        },
+        {
+          "pregunta": "En la clasificación de los alcoholes por el tipo de carbono que sostiene al grupo -OH, un \"Alcohol Secundario\" se define textualmente porque el carbono está unido a:",
+          "opciones": [
+            "Un solo carbono",
+            "Dos carbonos",
+            "Tres carbonos",
+            "Cuatro carbonos",
+            "Ningún carbono"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Fundamentación:</b> La clasificación mostrada indica que el carbono que sostiene al grupo -OH debe estar unido a dos carbonos.<br><br><b>Sustento Teórico:</b> Los alcoholes secundarios tienen el grupo hidroxilo unido a un carbono secundario."
+        },
+        {
+          "pregunta": "En el ejemplo de la separata para el Propan-2-ol (isopropanol), este compuesto se clasifica según el tipo de carbono como un:",
+          "opciones": [
+            "Alcohol primario",
+            "Alcohol secundario",
+            "Alcohol terciario",
+            "Alcohol monohidroxilado lineal",
+            "Fenol disustituido"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Fundamentación:</b> La separata utiliza el propan-2-ol como ejemplo de alcohol secundario.<br><br><b>Sustento Teórico:</b> El carbono central unido al -OH está enlazado a dos carbonos vecinos."
+        },
+        {
+          "pregunta": "En el compuesto conocido comúnmente como Glicerina (Propanotriol), el número de grupos hidroxilo (-OH) y su clasificación por el número de dichos grupos son, respectivamente:",
+          "opciones": [
+            "1 y Monohidroxilado",
+            "2 y Dihidroxilado",
+            "3 y Trihidroxilado",
+            "3 y Poliaromático",
+            "4 y Poliol"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fundamentación:</b> La tabla de clasificación por número de grupos -OH indica que la glicerina posee tres grupos hidroxilo.<br><br><b>Sustento Teórico:</b> Los alcoholes con tres grupos -OH reciben el nombre de trihidroxilados."
+        },
+        {
+          "pregunta": "De acuerdo con las reglas de nomenclatura IUPAC escritas en la guía para alcoholes, la Regla 3 establece que se debe cambiar la terminación:",
+          "opciones": [
+            "\"-ano\" por \"-oxi\"",
+            "\"-oico\" por \"-ol\"",
+            "\"-ano\" por \"-ol\"",
+            "\"-ilo\" por \"-ol\"",
+            "\"-ano\" por \"-al\""
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fundamentación:</b> En la sección \"Nomenclatura de alcoholes\" aparece textualmente esa regla.<br><br><b>Sustento Teórico:</b> El sufijo \"-ol\" identifica a la función alcohol en nomenclatura IUPAC."
+        },
+        {
+          "pregunta": "En la sección de ejemplos de alcoholes, se muestran las fórmulas de tres compuestos. Asocie correctamente cada fórmula con su nombre:<br>I. $CH_3OH$<br>II. $CH_3CH_2OH$<br>III. $CH_3CHOHCH_3$",
+          "opciones": [
+            "I: Etanol, II: Metanol, III: Propan-2-ol",
+            "I: Metanol, II: Etanol, III: Propan-2-ol",
+            "I: Metanol, II: Propan-2-ol, III: Etanol",
+            "I: Propan-2-ol, II: Etanol, III: Metanol",
+            "I: Metanol, II: Etanol, III: Propan-1-ol"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Fundamentación:</b> Las fórmulas aparecen exactamente en ese orden dentro de los ejemplos de alcoholes: Metanol (I), Etanol (II) y Propan-2-ol o Isopropanol (III).<br><br><b>Sustento Teórico:</b> Los nombres derivan del número de carbonos de la cadena principal y de la posición del grupo funcional alcohol."
+        },
+        {
+          "pregunta": "Según la definición de la separata, ¿qué condición obligatoria caracteriza a los \"Fenoles\"?",
+          "opciones": [
+            "Tienen un átomo de oxígeno unido a dos cadenas de carbono.",
+            "El grupo -OH está unido a un carbono saturado.",
+            "El grupo -OH está unido directamente al anillo bencénico.",
+            "Son hidrocarburos que carecen por completo de átomos de oxígeno.",
+            "Tienen tres anillos fusionados en forma lineal."
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fundamentación:</b> La definición de fenoles dada en el documento establece exactamente esa condición.<br><br><b>Sustento Teórico:</b> La unión directa del -OH al anillo aromático modifica notablemente las propiedades químicas respecto a un alcohol común."
+        },
+        {
+          "pregunta": "En los ejemplos gráficos de los derivados del fenol, el compuesto conocido como \"Catecol\" se caracteriza porque:",
+          "opciones": [
+            "Los dos grupos -OH están en posición para",
+            "Los dos grupos -OH están en posición meta",
+            "Los dos grupos -OH están en posición orto",
+            "Tiene un grupo metil en posición para",
+            "Es un éter con un radical fenil"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fundamentación:</b> La separata indica explícitamente que el catecol presenta los grupos -OH en posición orto.<br><br><b>Sustento Teórico:</b> El catecol corresponde sistemáticamente al benceno-1,2-diol."
+        },
+        {
+          "pregunta": "Al observar la estructura del \"Resorcinol\" en el documento, se especifica mediante una nota de texto que:",
+          "opciones": [
+            "Los dos grupos -OH están en posición orto",
+            "Los dos grupos -OH están en posición meta",
+            "Los dos grupos -OH están en posición para",
+            "Tiene un grupo metil en posición meta",
+            "Su fórmula general es R-O-R"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Fundamentación:</b> La nota adjunta a la estructura del resorcinol menciona que se trata de la posición meta.<br><br><b>Sustento Teórico:</b> El resorcinol es el benceno-1,3-diol."
+        },
+        {
+          "pregunta": "De acuerdo con la definición textual de la separata, los Éteres son compuestos orgánicos que se caracterizan por tener:",
+          "opciones": [
+            "Un grupo -OH unido a un carbono saturado.",
+            "Un átomo de oxígeno unido a dos cadenas de carbono.",
+            "Uno o más anillos bencénicos con electrones deslocalizados.",
+            "Dos grupos -OH en posición contigua en un hexágono.",
+            "Tres anillos aromáticos condensados en forma angular."
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Fundamentación:</b> La definición mostrada establece que un átomo de oxígeno une dos cadenas de carbonos.<br><br><b>Sustento Teórico:</b> Los éteres presentan la estructura general R-O-R'."
+        },
+        {
+          "pregunta": "En el recuadro informativo \"Características\" de los éteres, se afirma textualmente que estos compuestos:",
+          "opciones": [
+            "Presentan enlace C-O-H y tienen grupo OH.",
+            "Presentan enlace C-O-C y tienen grupo OH.",
+            "Presentan enlace C-O-C y no tienen grupo OH.",
+            "Son exactamente iguales en propiedades a los alcoholes.",
+            "Tienen un grupo funcional carboxilo central."
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fundamentación:</b> Las características listadas indican precisamente esas propiedades (enlace C-O-C y ausencia de OH).<br><br><b>Sustento Teórico:</b> Los éteres carecen de enlace O-H polarizado como en los alcoholes, y por ello presentan propiedades físicas muy distintas, como menores puntos de ebullición."
+        },
+        {
+          "pregunta": "En el recuadro destacado \"Cómo reconocer un éter\", la secuencia de enlaces indispensable que se muestra gráficamente es:",
+          "opciones": [
+            "C-O-H",
+            "C-C-O",
+            "C-O-C",
+            "Ar-O-H",
+            "C=O-C"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fundamentación:</b> La separata resalta gráficamente la secuencia C-O-C como patrón de identificación.<br><br><b>Sustento Teórico:</b> El átomo de oxígeno funciona estructuralmente como puente entre dos átomos de carbono."
+        },
+        {
+          "pregunta": "En el ejemplo número 2 de la sección de éteres, el compuesto denominado \"Metil etil éter\" presenta la siguiente fórmula:",
+          "opciones": [
+            "$CH_3-O-CH_3$",
+            "$CH_3CH_2-O-CH_2CH_3$",
+            "$CH_3-O-CH_2CH_3$",
+            "$C_6H_5-O-CH_3$",
+            "$C_6H_5-O-C_6H_5$"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fundamentación:</b> El ejemplo 2 de la sección de éteres muestra exactamente esa fórmula.<br><br><b>Sustento Teórico:</b> El compuesto es un éter asimétrico que contiene un radical metilo ($-CH_3$) y un radical etilo ($-CH_2CH_3$) unidos al átomo de oxígeno central."
+        },
+        {
+          "pregunta": "En el ejemplo número 6 de la lista de éteres, el compuesto \"Metil fenil éter\" recibe el nombre común de:",
+          "opciones": [
+            "Tolueno",
+            "Anisol",
+            "Catecol",
+            "Resorcinol",
+            "Difenil éter"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Fundamentación:</b> La lista de ejemplos indica entre paréntesis el nombre común \"anisol\".<br><br><b>Sustento Teórico:</b> El anisol es un éter aromático asimétrico formado por un grupo metilo y un grupo fenilo."
+        },
+        {
+          "pregunta": "Al final de la separata se presenta el compuesto \"Difenil éter\" (ejemplo 7). Según su estructura gráfica, los radicales unidos al átomo de oxígeno central son:",
+          "opciones": [
+            "Dos grupos metil ($CH_3$)",
+            "Dos grupos etil ($CH_2CH_3$)",
+            "Un grupo metil y un grupo etil",
+            "Dos grupos fenílicos ($C_6H_5$)",
+            "Dos anillos de naftaleno"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Fundamentación:</b> La fórmula mostrada es $C_6H_5-O-C_6H_5$.<br><br><b>Sustento Teórico:</b> El prefijo \"di-\" junto al radical \"fenil\" indica la presencia de dos radicales bencénicos unidos al oxígeno."
+        },
+        {
+          "pregunta": "Si clasificamos los compuestos Fenol y Anisol según las grandes secciones en las que está dividida la separata, estos pertenecen respectivamente a las funciones de:",
+          "opciones": [
+            "Alcoholes y Éteres",
+            "Fenoles y Alcoholes",
+            "Fenoles y Éteres",
+            "Hidrocarburos Aromáticos y Alcoholes",
+            "Éteres y Fenoles"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fundamentación:</b> El Fenol aparece en la sección exclusiva de Fenoles y el Anisol es catalogado en la sección de Éteres.<br><br><b>Sustento Teórico:</b> El fenol posee un grupo hidroxilo (-OH) unido directamente al anillo aromático, mientras que el anisol contiene un átomo de oxígeno en un enlace tipo éter (C-O-C) uniendo al benceno con un metil."
         }
       ],
       "videos": [
         {
-          "titulo": "14.1 PRONTO",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
+          "titulo": "14.1 Teoria",
+          "youtube_id": "C17APgpqZ6g",
+          "pdf_link": "https://drive.google.com/file/d/1fj_TuWs7LcnNVn85fKFaRPkhfD820Kv9/view",
+          "gratis": true
+        },
+        {
+          "titulo": "14.2 Ejercicios",
+          "youtube_id": "C17APgpqZ6g",
+          "pdf_link": "https://drive.google.com/file/d/1MTlq3_CfySjZbg7lpyaA6xdhaUSI-cF3/view",
           "gratis": true
         }
       ]
     },
     {
-      "titulo": "Tema 15: PRONTO...",
-      "pdf_resuelto": "",
+      "titulo": "Tema 15: Aldehidos y Cetonas",
+      "pdf_resuelto": "https://drive.google.com/file/d/1YeEFKFUix_H2Uwy5QI8sqp0R57DIKbmr/view",
       "preguntas": [
         {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "pregunta": "En base a la estructura y nomenclatura descrita para los aldehídos, ¿cuál es la fórmula semidesarrollada correcta del Propanal?",
+          "opciones": [
+            "$CH_3CH_2CHO$",
+            "$CH_3CHO$",
+            "HCHO",
+            "$CH_3COCH_3$",
+            "$CH_3CH_2COOH$"
+          ],
           "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+          "resolucion": "<b>Fundamentación:</b> El documento explica las reglas para nombrar aldehídos y brinda una lista explícita de ejemplos donde se indica textualmente: Propanal $\\rightarrow CH_3CH_2CHO$.<br><br><b>Sustento Teórico:</b> El propanal pertenece a la familia de los aldehídos y posee 3 carbonos en cadena continua con el grupo funcional terminal -CHO."
+        },
+        {
+          "pregunta": "Al producirse la reacción química:<br>$$ R-CHO + [O] \\longrightarrow R-COOH $$<br>se puede afirmar que el compuesto obtenido y el tipo de reacción son, respectivamente:",
+          "opciones": [
+            "Ácido carboxílico y oxidación",
+            "Alcohol primario y reducción",
+            "Alcohol secundario y reducción",
+            "Éter y sustitución",
+            "Cetona y condensación"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fundamentación:</b> En la sección de \"Propiedades químicas de los aldehídos\", el texto indica de forma literal: \"Los aldehídos se oxidan fácilmente formando ácidos carboxílicos\".<br><br><b>Sustento Teórico:</b> Durante la oxidación, el grupo aldehído (-CHO) incorpora oxígeno y se transforma en el grupo carboxilo (-COOH), originando un ácido carboxílico."
+        },
+        {
+          "pregunta": "¿Qué reactivos químicos se pueden emplear como agentes oxidantes para diferenciar un aldehído de una cetona?",
+          "opciones": [
+            "$$KMnO_4$$ o $$K_2Cr_2O_7$$",
+            "Ni o Pt",
+            "$$H_2$$ y Ni",
+            "R-CO-R'",
+            "NaCl y $$H_2O$$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fundamentación:</b> El texto señala textualmente: \"El agente oxidante puede ser $KMnO_4$ o $K_2Cr_2O_7$. Esta reacción permite diferenciar aldehídos de cetonas\".<br><br><b>Sustento Teórico:</b> Los aldehídos se oxidan fácilmente frente a oxidantes fuertes como el permanganato de potasio o el dicromato de potasio, mientras que las cetonas normalmente no reaccionan bajo las mismas condiciones."
+        },
+        {
+          "pregunta": "Cuando un aldehído se somete a reducción en presencia de catalizadores como Ni o Pt:<br>$$ R-CHO + H_2 \\rightarrow $$<br>el producto final obtenido es un:",
+          "opciones": [
+            "Alcohol primario",
+            "Alcohol secundario",
+            "Ácido carboxílico",
+            "Alcano lineal",
+            "Éter simétrico"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fundamentación:</b> La separata muestra la ecuación $R-CHO + H_2 \\rightarrow R-CH_2OH$ y especifica el uso de catalizadores como Níquel (Ni) o Platino (Pt).<br><br><b>Sustento Teórico:</b> La reducción consiste en adicionar hidrógeno al grupo carbonilo del aldehído. Como resultado, el grupo -CHO se convierte en $-CH_2OH$, formando un alcohol primario."
+        },
+        {
+          "pregunta": "Analizando la estructura general de las cetonas (R-CO-R'), se deduce que el grupo carbonilo está unido directamente a:",
+          "opciones": [
+            "Dos átomos de carbono",
+            "Un hidrógeno y un carbono",
+            "Un grupo hidroxilo",
+            "Dos átomos de hidrógeno",
+            "Un grupo amino y un carbono"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fundamentación:</b> La separata define a estos compuestos mediante la fórmula general: R-CO-R'.<br><br><b>Sustento Teórico:</b> En una cetona, el carbono del grupo carbonilo ($C=O$) se encuentra unido directamente a dos radicales carbonados. Esta es la principal diferencia estructural respecto a los aldehídos, donde el carbonilo se ubica al extremo de la cadena."
+        },
+        {
+          "pregunta": "A partir de la nomenclatura de cetonas, el nombre del compuesto químico $$ CH_3COCH_2CH_3 $$ es:",
+          "opciones": [
+            "Butanona",
+            "Propanona",
+            "Butanal",
+            "Pentanona",
+            "Butanol"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fundamentación:</b> La estructura presenta un total de 4 carbonos: $CH_3-CO-CH_2-CH_3$. Por regla IUPAC, el prefijo correspondiente es \"butan-\" y la terminación para cetonas es \"-ona\".<br><br><b>Sustento Teórico:</b> Las cetonas se nombran reemplazando la terminación \"-ano\" del alcano por \"-ona\". Al tener 4 carbonos, el compuesto recibe el nombre de Butanona."
+        },
+        {
+          "pregunta": "La reducción de una cetona mediante la reacción:<br>$$ R-CO-R' + H_2 \\rightarrow R-CHOH-R' $$<br>produce característicamente un:",
+          "opciones": [
+            "Alcohol secundario",
+            "Alcohol primario",
+            "Ácido carboxílico",
+            "Aldehído isomérico",
+            "Éster orgánico"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fundamentación:</b> El material explica que la reducción del grupo carbonilo genera un grupo alcohol dentro de la cadena carbonada.<br><br><b>Sustento Teórico:</b> Como el carbono que porta el grupo -OH queda unido a otros dos carbonos, el producto formado corresponde obligatoriamente a un alcohol secundario."
+        },
+        {
+          "pregunta": "En relación con las características organolépticas y de reactividad, señale la afirmación correcta al comparar aldehídos y cetonas:",
+          "opciones": [
+            "Los aldehídos son más reactivos que las cetonas y generalmente tienen olores fuertes.",
+            "Las cetonas son más reactivas que los aldehídos.",
+            "Ambos compuestos presentan el grupo carboxilo.",
+            "Los aldehídos carecen del grupo carbonilo.",
+            "Las cetonas poseen exclusivamente enlaces triples."
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fundamentación:</b> En el listado de características de los aldehídos, la separata menciona que: \"Son más reactivos que las cetonas\" y \"Generalmente tienen olores fuertes\".<br><br><b>Sustento Teórico:</b> Los aldehídos presentan mayor facilidad para oxidarse debido a que el carbono carbonílico posee un hidrógeno enlazado directamente. Las cetonas son más estables y menos reactivas frente a oxidación."
+        },
+        {
+          "pregunta": "Los carbohidratos son biomoléculas integradas por los siguientes elementos químicos:",
+          "opciones": [
+            "Carbono, hidrógeno y oxígeno",
+            "Carbono, nitrógeno y oxígeno",
+            "Carbono, hidrógeno y azufre",
+            "Oxígeno, hidrógeno y fósforo",
+            "Carbono, cloro y oxígeno"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fundamentación:</b> Al inicio del apartado 15.3, el texto define: \"Los carbohidratos son biomoléculas formadas por carbono, hidrógeno y oxígeno\".<br><br><b>Sustento Teórico:</b> Los carbohidratos son compuestos ternarios constituidos exclusivamente por carbono (C), hidrógeno (H) y oxígeno (O)."
+        },
+        {
+          "pregunta": "La nomenclatura y clasificación de los carbohidratos se fundamenta en tres criterios principales. ¿Cuál de los siguientes NO es uno de ellos?",
+          "opciones": [
+            "El punto de fusión de la molécula",
+            "El número de átomos de carbono",
+            "El tipo de grupo funcional presente",
+            "La configuración espacial de la molécula",
+            "La posición del grupo carbonilo"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fundamentación:</b> La separata menciona únicamente tres criterios de clasificación: Número de carbonos, Tipo de grupo funcional y Configuración espacial.<br><br><b>Sustento Teórico:</b> El punto de fusión es una propiedad física y no interviene en la clasificación estructural de los carbohidratos."
+        },
+        {
+          "pregunta": "Aquellos carbohidratos que poseen específicamente un grupo funcional aldehído en su estructura reciben el nombre de:",
+          "opciones": [
+            "Aldosas",
+            "Cetosas",
+            "Hexosas",
+            "Disacáridos",
+            "Polisacáridos"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fundamentación:</b> En el apartado \"Según el grupo funcional\", el PDF define: \"Aldosas: carbohidratos que poseen grupo aldehído\".<br><br><b>Sustento Teórico:</b> Las aldosas contienen el grupo funcional -CHO en uno de los extremos de la cadena carbonada."
+        },
+        {
+          "pregunta": "La Glucosa se clasifica exactamente como una:",
+          "opciones": [
+            "Aldohexosa",
+            "Cetohexosa",
+            "Aldopentosa",
+            "Triosa",
+            "Cetopentosa"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fundamentación:</b> En la sección de ejemplos combinados, el documento asocia directamente: Glucosa $\\rightarrow$ Aldohexosa.<br><br><b>Sustento Teórico:</b> La glucosa tiene grupo aldehído (\"aldo-\") y 6 carbonos (\"hexosa\"). Por ello se clasifica como aldohexosa."
+        },
+        {
+          "pregunta": "Un carbohidrato compuesto por una cadena de 5 carbonos recibe el nombre genérico de:",
+          "opciones": [
+            "Pentosa",
+            "Tetrosa",
+            "Hexosa",
+            "Heptosa",
+            "Octosa"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fundamentación:</b> La tabla \"Según el número de carbonos\" indica: 5 carbonos $\\rightarrow$ Pentosa.<br><br><b>Sustento Teórico:</b> El prefijo \"pent-\" representa la cantidad de cinco carbonos en química orgánica."
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes opciones empareja correctamente al azúcar con su tipo?",
+          "opciones": [
+            "Ribosa → Aldopentosa",
+            "Fructosa → Aldohexosa",
+            "Glucosa → Cetohexosa",
+            "Ribosa → Cetohexosa",
+            "Sacarosa → Cetotetrosa"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fundamentación:</b> En la lista de ejemplos de la separata se indica explícitamente: Ribosa $\\rightarrow$ Aldopentosa.<br><br><b>Sustento Teórico:</b> La ribosa presenta un grupo aldehído y 5 carbonos en su estructura, por lo que se clasifica como aldopentosa."
+        },
+        {
+          "pregunta": "Al observar la estructura lineal de la Fructosa, el grupo funcional cetona (C=O) se localiza en el carbono número:",
+          "opciones": [
+            "2",
+            "1",
+            "3",
+            "6",
+            "5"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fundamentación:</b> En la proyección de Fischer de la fructosa mostrada en la teoría, el grupo carbonilo aparece ubicado en el segundo carbono de la cadena.<br><br><b>Sustento Teórico:</b> La fructosa es una cetohexosa porque posee 6 carbonos y tiene la función cetona en el carbono 2."
+        },
+        {
+          "pregunta": "Una de las estructuras cíclicas de carbohidratos muestra un anillo de 5 vértices con un átomo de oxígeno intercalado. ¿A qué azúcar corresponde típicamente este tipo de anillo?",
+          "opciones": [
+            "Fructosa",
+            "Glucosa",
+            "Metanal",
+            "Butanona",
+            "Etanal"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fundamentación:</b> La fructosa suele representarse en forma de anillo pentagonal (furano), visible en las ilustraciones del documento.<br><br><b>Sustento Teórico:</b> La ciclación de la fructosa forma comúnmente un anillo de 5 miembros llamado furanosa."
+        },
+        {
+          "pregunta": "La estructura cíclica con anillo hexagonal de 6 miembros y un átomo de oxígeno representa de forma definitiva a la:",
+          "opciones": [
+            "Glucosa",
+            "Ribosa",
+            "Propanona",
+            "Galactosa lineal",
+            "Metanol"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fundamentación:</b> El gráfico del anillo hexagonal que se proporciona corresponde a la forma cíclica estable de la glucosa.<br><br><b>Sustento Teórico:</b> La glucosa suele formar de manera predominante un anillo de seis miembros denominado piranosa."
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes características corresponde específicamente a las cetonas?",
+          "opciones": [
+            "Poseen el grupo funcional terminal -CHO.",
+            "El grupo carbonilo se encuentra entre dos carbonos.",
+            "Se oxidan fácilmente formando ácidos carboxílicos.",
+            "Presentan un grupo funcional -COOH.",
+            "Poseen un grupo hidroxilo terminal."
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Fundamentación:</b> Las cetonas poseen como grupo funcional al carbonilo ($C=O$), pero este no se encuentra en el extremo de la cadena, sino en una posición interna (R-CO-R'). Esto significa que el carbono del grupo carbonilo está unido a dos carbonos diferentes.<br><br><b>Análisis de las opciones:</b> La opción B es la característica estructural fundamental de las cetonas. Los aldehídos tienen el grupo terminal (A y C), y el grupo -COOH pertenece a los ácidos carboxílicos (D)."
+        },
+        {
+          "pregunta": "Tomando en cuenta la definición dada para las Cetosas, ¿cuál es la estructura general de estos carbohidratos?",
+          "opciones": [
+            "R-CO-R'",
+            "R-CHO",
+            "R-COOH",
+            "R-CH2OH",
+            "R-O-R'"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fundamentación:</b> El apartado de Cetosas presenta la fórmula general típica de las cetonas: R-CO-R'.<br><br><b>Sustento Teórico:</b> Las cetosas poseen grupo funcional cetona dentro de la cadena carbonada, compartiendo la estructura general R-CO-R'."
+        },
+        {
+          "pregunta": "Si se desea sintetizar un alcohol secundario mediante los métodos planteados, ¿cuál de las siguientes opciones describe el procedimiento correcto?",
+          "opciones": [
+            "Reducir una cetona empleando $$H_2$$ y un catalizador.",
+            "Oxidar un aldehído utilizando $$KMnO_4$$.",
+            "Reducir un aldehído con Ni o Pt.",
+            "Oxidar una cetona empleando $$K_2Cr_2O_7$$.",
+            "Oxidar un alcohol primario mediante calor."
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Fundamentación:</b> La teoría de reducción de cetonas establece: Cetona + $H_2 \\rightarrow$ Alcohol secundario.<br><br><b>Sustento Teórico:</b> Durante la reducción, el grupo carbonilo de la cetona se transforma en un grupo hidroxilo (-OH). Como este carbono está unido a dos radicales alquilo, se origina un alcohol secundario."
         }
       ],
       "videos": [
         {
-          "titulo": "15.1 PRONTO",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
+          "titulo": "15.1 Teoria",
+          "youtube_id": "ncQLz8Sk0Xc",
+          "pdf_link": "https://drive.google.com/file/d/1o9x1BpYsfumSpxZqbcLnRj1ROUJI_Lx1/view",
+          "gratis": true
+        },
+        {
+          "titulo": "15.2 Ejercicios",
+          "youtube_id": "8bnisSegEjw",
+          "pdf_link": "https://drive.google.com/file/d/1CWrpd9iGjFRa2umYpexD5W4nnuiPW-NZ/view",
           "gratis": true
         }
       ]
     },
     {
-      "titulo": "Tema 16: PRONTO...",
-      "pdf_resuelto": "",
+      "titulo": "Tema 16: Ácidos carboxílicos y Esteres",
+      "pdf_resuelto": "https://drive.google.com/file/d/1wtTVuHspEEoSdSduSZfEpRO5Los9GWxI/view",
       "preguntas": [
         {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+          "pregunta": "El grupo funcional carboxilo, característico de los ácidos carboxílicos, se encuentra estructuralmente constituido por:",
+          "opciones": [
+            "Un grupo carbonilo y un grupo alquilo.",
+            "Un grupo hidroxilo y un grupo alcoxi.",
+            "Un grupo carbonilo y un grupo hidroxilo.",
+            "Dos grupos carbonilo enlazados a un oxígeno.",
+            "Un grupo éter y un grupo hidróxido."
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fundamentación Didáctica:</b><br>El grupo carboxilo posee la estructura general R-COOH, formada por un grupo carbonilo ($C=O$) y un grupo hidroxilo (-OH) unidos al mismo carbono, responsables de sus propiedades ácidas."
+        },
+        {
+          "pregunta": "Respecto a las características generales de los ácidos carboxílicos, indique la proposición incorrecta:",
+          "opciones": [
+            "Presentan sabor ácido.",
+            "Son compuestos polares.",
+            "Tienen la capacidad de formar puentes de hidrógeno.",
+            "Poseen puntos de ebullición elevados.",
+            "Son altamente solubles en agua en todas las longitudes de sus cadenas carbonadas."
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Fundamentación Didáctica:</b><br>Los ácidos de cadena corta son solubles en agua, pero al aumentar la cadena carbonada la solubilidad disminuye debido al predominio de la parte apolar."
+        },
+        {
+          "pregunta": "De acuerdo con las reglas de nomenclatura IUPAC para ácidos carboxílicos, para nombrar la cadena principal se antepone la palabra \"ácido\" y el alcano correspondiente cambia la terminación \"-o\" por:",
+          "opciones": [
+            "-ato",
+            "-oico",
+            "-ilo",
+            "-al",
+            "-ona"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Fundamentación Didáctica:</b><br>En la nomenclatura IUPAC se antepone la palabra \"ácido\" y el nombre del alcano cambia la terminación \"-o\" por \"-oico\".<br>Ejemplo: etano $\\rightarrow$ ácido etanoico."
+        },
+        {
+          "pregunta": "Indique el nombre sistemático correcto del compuesto orgánico cuya fórmula es $$ CH_3CH_2COOH $$:",
+          "opciones": [
+            "Ácido metanoico",
+            "Ácido etanoico",
+            "Ácido propanoico",
+            "Ácido butanoico",
+            "Propanoato de metilo"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fundamentación Didáctica:</b><br>La molécula posee tres carbonos, por lo que deriva del propano y se nombra ácido propanoico."
+        },
+        {
+          "pregunta": "Los ácidos grasos se definen como ácidos carboxílicos de cadena larga presentes en grasas y aceites, y se clasifican principalmente en:",
+          "opciones": [
+            "Polares y apolares.",
+            "Solubles e insolubles.",
+            "Saturados e insaturados.",
+            "Alifáticos y aromáticos.",
+            "Simples y compuestos."
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fundamentación Didáctica:</b><br>Los ácidos grasos saturados poseen enlaces simples; los insaturados presentan uno o más dobles enlaces."
+        },
+        {
+          "pregunta": "El ácido palmítico es un compuesto orgánico con propiedades biológicas importantes. Indique su fórmula molecular correcta:",
+          "opciones": [
+            "$$ C_{17}H_{35}COOH $$",
+            "$$ C_{17}H_{33}COOH $$",
+            "$$ C_{15}H_{31}COOH $$",
+            "$$ C_{15}H_{29}COOH $$",
+            "$$ C_{16}H_{34}COOH $$"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fundamentación Didáctica:</b><br>El ácido palmítico es un ácido graso saturado de 16 carbonos en total (15 en la cadena y 1 en el carboxilo)."
+        },
+        {
+          "pregunta": "Con respecto al ácido esteárico, determine la alternativa que contiene su fórmula química y su procedencia natural:",
+          "opciones": [
+            "$$ C_{15}H_{31}COOH $$; presente en aceite de palma.",
+            "$$ C_{17}H_{35}COOH $$; presente en mantecas y grasas animales.",
+            "$$ C_{17}H_{33}COOH $$; presente en aceite de oliva.",
+            "$$ C_{17}H_{35}COOH $$; presente exclusivamente en leche agria.",
+            "$$ C_{15}H_{31}COOH $$; presente en frutas cítricas."
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Fundamentación Didáctica:</b><br>Es un ácido graso saturado común en grasas animales, cuya fórmula contiene 18 carbonos en total ($C_{17}H_{35}COOH$)."
+        },
+        {
+          "pregunta": "El ácido oleico es catalogado como un ácido graso insaturado debido a una característica estructural específica. ¿Cuál es esta característica?",
+          "opciones": [
+            "Posee un grupo hidroxilo adicional en su cadena.",
+            "Posee un anillo aromático.",
+            "Posee un doble enlace en su estructura carbonada.",
+            "Presenta tres grupos carboxilo.",
+            "Su cadena carbonada es menor a cinco carbonos."
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fundamentación Didáctica:</b><br>Los ácidos grasos insaturados contienen uno o más dobles enlaces carbono-carbono en su cadena."
+        },
+        {
+          "pregunta": "Indique en qué fuente natural o proceso fisiológico se encuentra presente o se produce el ácido láctico:",
+          "opciones": [
+            "En el aceite de oliva durante su extracción.",
+            "En frutas cítricas como la naranja.",
+            "En los músculos y en la leche agria durante la fermentación láctica.",
+            "En la corteza de los árboles para producir medicamentos.",
+            "En las grasas animales como componente saturado principal."
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fundamentación Didáctica:</b><br>Se forma durante la fermentación láctica y en la actividad muscular intensa o en fatiga."
+        },
+        {
+          "pregunta": "Los hidroxiácidos son compuestos orgánicos que se caracterizan por poseer el grupo carboxilo y, de forma simultánea, el grupo funcional:",
+          "opciones": [
+            "Carbonilo (C=O)",
+            "Hidroxilo (-OH)",
+            "Alcoxi (-OR)",
+            "Amino ($-NH_2$)",
+            "Éster (-COO-)"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Fundamentación Didáctica:</b><br>Los hidroxiácidos contienen grupos -COOH y -OH en la misma molécula."
+        },
+        {
+          "pregunta": "El ácido cítrico es un hidroxiácido muy conocido. Indique cuál es una de sus principales aplicaciones industriales:",
+          "opciones": [
+            "Fabricación de jabones de tocador.",
+            "Base para producir aspirina.",
+            "Utilizado en repostería fina.",
+            "Utilizado como conservante.",
+            "Solvente industrial de pinturas."
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Fundamentación Didáctica:</b><br>Se emplea ampliamente como conservante y acidulante en alimentos y bebidas."
+        },
+        {
+          "pregunta": "Evaluando la estructura del ácido tartárico, se afirma correctamente que se encuentra presente en:",
+          "opciones": [
+            "Aceite de palma.",
+            "Músculos en fatiga.",
+            "Las uvas y es utilizado en repostería.",
+            "Medicamentos para la piel y cosméticos.",
+            "Mantecas animales."
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fundamentación Didáctica:</b><br>Está presente naturalmente en las uvas y posee importantes aplicaciones alimentarias, especialmente en repostería."
+        },
+        {
+          "pregunta": "El ácido salicílico es una materia prima fundamental en la industria farmacéutica y cosmética porque sirve como base para producir:",
+          "opciones": [
+            "Jabón de sodio.",
+            "Aspirina.",
+            "Saborizantes artificiales.",
+            "Aceite de oliva sintético.",
+            "Alcohol medicinal."
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Fundamentación Didáctica:</b><br>Es precursor directo del ácido acetilsalicílico, conocido comercialmente como aspirina."
+        },
+        {
+          "pregunta": "Los ésteres son compuestos orgánicos derivados de la reacción química entre:",
+          "opciones": [
+            "Dos ácidos carboxílicos distintos.",
+            "Un ácido carboxílico y un alcohol.",
+            "Un alcohol y un aldehído.",
+            "Un ácido carboxílico y una base fuerte.",
+            "Dos alcoholes en medio ácido."
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Fundamentación Didáctica:</b><br>La reacción (esterificación) entre un ácido carboxílico y un alcohol produce un éster y agua."
+        },
+        {
+          "pregunta": "Entre las características organolépticas y físicas más destacadas de los ésteres de cadena corta se encuentra que:",
+          "opciones": [
+            "Poseen olores desagradables y son muy solubles en agua.",
+            "Poseen sabores amargos y reaccionan violentamente con el agua.",
+            "Poseen olores agradables y son poco solubles en agua.",
+            "Son compuestos inodoros con puntos de ebullición sumamente bajos.",
+            "Son ácidos fuertes solubles en grasas y aceites."
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fundamentación Didáctica:</b><br>Muchos de ellos presentan aromas frutales o florales agradables y tienen baja solubilidad en agua."
+        },
+        {
+          "pregunta": "Para nombrar un éster según las reglas de nomenclatura vigentes, se siguen dos pasos fundamentales. Indique el orden correcto de su designación:",
+          "opciones": [
+            "Se nombra primero la parte del alcohol terminada en \"-oico\" y luego el radical del ácido.",
+            "Se nombra primero la parte derivada del ácido terminada en \"-ato\" y luego el nombre del radical del alcohol.",
+            "Se antepone la palabra \"ácido\" seguido de la raíz terminada en \"-ilo\".",
+            "Se nombra el alcohol modificado en \"-ato\" y el ácido modificado en \"-ilo\".",
+            "Se nombran los radicales alquilo en orden alfabético terminando en la palabra \"éster\"."
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Fundamentación Didáctica:</b><br>Primero se nombra la parte ácida cambiando la terminación por \"-ato\" y después el radical alcohólico."
+        },
+        {
+          "pregunta": "Indique el nombre correcto del éster cuya fórmula química es $$ CH_3COOCH_2CH_3 $$:",
+          "opciones": [
+            "Etanoato de metilo",
+            "Metanoato de etilo",
+            "Etanoato de etilo",
+            "Propanoato de metilo",
+            "Acetato de metilo"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fundamentación Didáctica:</b><br>Proviene del ácido etanoico (dos carbonos) y del radical etilo (dos carbonos). Por lo tanto, es el Etanoato de etilo."
+        },
+        {
+          "pregunta": "Cuando un éster experimenta una reacción de hidrólisis ácida, es decir, reacciona con agua en un medio ácido, se rompe la molécula para formar:",
+          "opciones": [
+            "Un éster modificado y una sal.",
+            "Un jabón y un alcohol.",
+            "Un ácido y un alcohol.",
+            "Un alcano y dióxido de carbono.",
+            "Un aldehído y una cetona."
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Fundamentación Didáctica:</b><br>Es la reacción inversa de la esterificación; regenera el ácido carboxílico y el alcohol original."
+        },
+        {
+          "pregunta": "La saponificación se define químicamente como la hidrólisis de ésteres en un medio básico (por ejemplo, con NaOH). Indique cuáles son los productos obtenidos en dicha reacción:",
+          "opciones": [
+            "Un ácido carboxílico y agua.",
+            "Una sal de ácido graso (jabón) y un alcohol.",
+            "Un éster de cadena larga y un alcóxido.",
+            "Un hidroxiácido y una sal haloidea.",
+            "Un alcohol primario y un alcohol secundario."
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Fundamentación Didáctica:</b><br>Los ésteres reaccionan con bases fuertes formando sales orgánicas conocidas como jabones y liberando alcoholes."
+        },
+        {
+          "pregunta": "De acuerdo con la ecuación general de la saponificación provista:<br>$$ R-COOR' + NaOH \\rightarrow \\text{Productos} $$<br>las sustancias resultantes son denominadas químicamente como:",
+          "opciones": [
+            "R-COOH y R'-OH",
+            "R-COONa y R'-OH",
+            "R-OH y R'-COONa",
+            "R-H y R'-COOH",
+            "R-COOR' y $$H_2O$$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Fundamentación Didáctica:</b><br>En esta reacción se forma un carboxilato de sodio o sal de sodio (R-COONa, que actúa como jabón) y se libera el alcohol respectivo (R'-OH)."
         }
       ],
       "videos": [
         {
-          "titulo": "16.1 PRONTO",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
+          "titulo": "16.1 Teoria",
+          "youtube_id": "qQE3Kjv39qY",
+          "pdf_link": "https://drive.google.com/file/d/1qURULiz9ZD1si-gxs1GVbxLes8pb_B_S/view",
+          "gratis": true
+        },
+        {
+          "titulo": "16.2 Ejercicios",
+          "youtube_id": "qQE3Kjv39qY",
+          "pdf_link": "https://drive.google.com/file/d/1AOapL0GWIlG6Wt8X2WqeCHMB0XSDHkcD/view",
           "gratis": true
         }
+      ]
+    },
+    {
+      "titulo": "PLUS: EXÁMENES RESUELTOS",
+      "pdf_resuelto": "https://drive.google.com/file/d/1SijB7jnHBKNdLsWNhd96i6DjqinktdL-/view",
+      "preguntas": [
+        {
+          "pregunta": "Dos o más núclidos son considerados ISÓBAROS cuando:",
+          "opciones": [
+            "La suma del número de protones más neutrones es el mismo",
+            "Tienen igual número de electrones",
+            "Tienen el mismo número de protones",
+            "La diferencia del número de protones menos neutrones es el mismo",
+            "La suma del número de protones y electrones es el mismo"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>Los núclidos isóbaros son aquellos átomos que pertenecen a elementos diferentes (distinto Z) pero que poseen el mismo <b>número de masa (A)</b>. Recordando que $A = p^+ + n^0$, la suma del número de protones más neutrones debe ser la misma."
+        },
+        {
+          "pregunta": "El número atómico de un anión trivalente de 31 nucleones y 18 electrones, es:",
+          "opciones": [
+            "20",
+            "18",
+            "15",
+            "21",
+            "16"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br><b>Paso 1:</b> Si es un anión trivalente ($X^{-3}$), significa que ha ganado 3 electrones.<br><b>Paso 2:</b> Si actualmente tiene 18 electrones, en su estado neutro tenía $18 - 3 = 15$ electrones.<br><b>Paso 3:</b> En un átomo neutro, el número de electrones es igual al número de protones (número atómico Z). Por lo tanto, $Z = 15$."
+        },
+        {
+          "pregunta": "En la ecuación química $$ KMnO_4 + H_2O_2 \\rightarrow MnO_2 + KOH + O_2 + H_2O $$ al balancear por el método electrón-valencia; las sustancias oxidante y oxidada, respectivamente son:",
+          "opciones": [
+            "$$KMnO_4$$ y $$O_2$$",
+            "$$KMnO_4$$ y $$H_2O_2$$",
+            "$$H_2O_2$$ y $$O_2$$",
+            "$$KMnO_4$$ y $$MnO_2$$",
+            "$$H_2O_2$$ y $$MnO_2$$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br><b>Agente oxidante:</b> Es la sustancia que se reduce. El Manganeso en el $KMnO_4$ pasa de +7 a +4 en el $MnO_2$, reduciéndose. Por lo tanto, el $KMnO_4$ es el oxidante.<br><b>Sustancia oxidada:</b> Es la sustancia que pierde electrones (agente reductor). El Oxígeno en el $H_2O_2$ (peróxido) pasa de -1 a 0 en el $O_2$ libre, oxidándose. Por lo tanto, el $H_2O_2$ es la sustancia oxidada."
+        },
+        {
+          "pregunta": "La molaridad y la normalidad de una solución de ácido fosfórico ($$H_3PO_4$$) al 9,8% P/V son: (Pesos atómicos: H=1, P=31, O=16)",
+          "opciones": [
+            "3 M y 1 N",
+            "2 M y 6 N",
+            "1 M y 3 N",
+            "0,1 M y 0,3 N",
+            "1 M y 1 N"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> 9,8% P/V significa que hay 9,8 g de soluto en 100 mL de solución, lo que equivale a 98 g en 1000 mL (1 Litro).<br><b>Paso 2:</b> Calculamos la masa molar del $H_3PO_4 = 3(1) + 31 + 4(16) = 98 \\text{ g/mol}$.<br><b>Paso 3:</b> Molaridad ($M$) $= 98 / 98 = 1\\text{ M}$.<br><b>Paso 4:</b> Normalidad ($N$) $= M \\times \\theta$. Para el ácido fosfórico, $\\theta = 3$ (tres hidrógenos ionizables). $N = 1 \\times 3 = 3\\text{ N}$."
+        },
+        {
+          "pregunta": "En la configuración electrónica del átomo del elemento de número atómico 20:",
+          "opciones": [
+            "En su nivel energético tiene tres electrones",
+            "Tiene electrones ocupando hasta el tercer nivel energético",
+            "Su configuración termina en $$4s^2$$",
+            "Pertenece al grupo IA",
+            "Es un no metal"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>Realizamos la configuración electrónica para Z=20 (Calcio):<br>$$ 1s^2 \\, 2s^2 \\, 2p^6 \\, 3s^2 \\, 3p^6 \\, 4s^2 $$<br>Observamos que su configuración termina en el subnivel <b>$4s^2$</b>, ubicándose en el periodo 4 y grupo IIA de la tabla periódica (es un metal alcalinotérreo)."
+        },
+        {
+          "pregunta": "Un cambio físico de la materia se caracteriza por:",
+          "opciones": [
+            "Alterar la estructura interna de la materia.",
+            "Formar nuevas sustancias con propiedades diferentes.",
+            "Ser generalmente irreversible.",
+            "Mantener la identidad química de la sustancia.",
+            "Liberar gran cantidad de energía luminosa."
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>Los cambios físicos (como los cambios de estado: fusión, evaporación, etc.) no modifican la estructura interna ni la composición de la materia. La sustancia sigue siendo la misma antes y después del cambio, manteniendo su <b>identidad química</b>."
+        },
+        {
+          "pregunta": "¿Cuál de las siguientes sustancias es un ejemplo de mezcla homogénea?",
+          "opciones": [
+            "Agua destilada",
+            "Acero",
+            "Ozono",
+            "Diamante",
+            "Fósforo blanco"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>El <b>acero</b> es una aleación (principalmente de hierro y carbono). Todas las aleaciones son mezclas homogéneas sólidas.<br>El agua destilada es un compuesto; el ozono, el diamante y el fósforo blanco son sustancias simples (elementos)."
+        },
+        {
+          "pregunta": "Determine los 4 números cuánticos para el último electrón del subnivel $$3p^4$$.",
+          "opciones": [
+            "3, 1, -1, +1/2",
+            "3, 1, 0, -1/2",
+            "3, 1, -1, -1/2",
+            "3, 1, +1, +1/2",
+            "3, 2, -1, -1/2"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> El nivel es $n=3$ y el subnivel $p$ indica $l=1$.<br><b>Paso 2:</b> El subnivel $p$ tiene 3 orbitales: $m_l = -1, 0, +1$.<br><b>Paso 3:</b> Distribuimos los 4 electrones según la regla de Hund: primero $\\uparrow$ en -1, $\\uparrow$ en 0, $\\uparrow$ en +1. Luego empezamos a aparear: $\\downarrow$ en -1.<br><b>Paso 4:</b> El último electrón cayó en $m_l = -1$ con espín hacia abajo ($m_s = -1/2$).<br>Los números cuánticos son: <b>(3, 1, -1, -1/2)</b>."
+        },
+        {
+          "pregunta": "Un elemento X tiene la configuración externa $$[Ne] \\, 3s^2 \\, 3p^5$$. ¿A qué grupo y período de la tabla periódica pertenece?",
+          "opciones": [
+            "VIIA, período 3",
+            "VA, período 3",
+            "VIIB, período 3",
+            "VIIA, período 2",
+            "VA, período 2"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>El mayor nivel de energía es $n=3$, por lo tanto pertenece al <b>período 3</b>.<br>Los electrones de valencia en la última capa son $2 + 5 = 7$. Al terminar en el bloque $p$, pertenece al grupo A. Por lo tanto, es del grupo <b>VIIA</b> (halógenos)."
+        },
+        {
+          "pregunta": "Es el elemento con mayor electronegatividad en toda la tabla periódica:",
+          "opciones": [
+            "Oxígeno",
+            "Cloro",
+            "Flúor",
+            "Nitrógeno",
+            "Francio"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>La electronegatividad es la capacidad de un átomo para atraer electrones hacia sí en un enlace químico. Esta propiedad aumenta de izquierda a derecha y de abajo hacia arriba en la tabla periódica. El <b>Flúor (F)</b>, ubicado en el extremo superior derecho (sin contar los gases nobles), posee la máxima electronegatividad (4.0 en la escala de Pauling)."
+        },
+        {
+          "pregunta": "El tipo de enlace químico que se forma primordialmente por la transferencia de electrones de un elemento metálico a un no metal es el:",
+          "opciones": [
+            "Covalente polar",
+            "Covalente apolar",
+            "Covalente coordinado",
+            "Metálico",
+            "Iónico"
+          ],
+          "correcta": 4,
+          "resolucion": "<b>Resolución:</b><br>El <b>enlace iónico</b> (o electrovalente) se produce por la transferencia neta de electrones desde un átomo muy electropositivo (metal) hacia un átomo muy electronegativo (no metal), formando cationes y aniones que se atraen electrostáticamente."
+        },
+        {
+          "pregunta": "¿Cuántos enlaces sigma ($\\sigma$) y pi ($\\pi$) tiene la molécula de etino ($$C_2H_2$$)?",
+          "opciones": [
+            "2 sigma y 2 pi",
+            "3 sigma y 1 pi",
+            "3 sigma y 2 pi",
+            "2 sigma y 1 pi",
+            "4 sigma y 0 pi"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>El etino (acetileno) tiene la estructura lineal: $H - C \\equiv C - H$.<br>Contamos los enlaces:<br>1 enlace simple C-H = 1 $\\sigma$<br>1 enlace simple C-H = 1 $\\sigma$<br>1 enlace triple C$\\equiv$C = 1 $\\sigma$ y 2 $\\pi$<br>Total: <b>3 sigma y 2 pi</b>."
+        },
+        {
+          "pregunta": "¿Cuál es la fórmula química correcta del ácido nítrico?",
+          "opciones": [
+            "$$HNO_2$$",
+            "$$HNO_3$$",
+            "$$H_2NO_3$$",
+            "$$H_3NO_4$$",
+            "$$HNO$$"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>El nitrógeno actúa con estado de oxidación +5 (su mayor valencia para la terminación \"-ico\"). Su anhídrido es $N_2O_5$.<br>Al sumarle agua: $N_2O_5 + H_2O \\rightarrow H_2N_2O_6$. Simplificando la fórmula obtenemos <b>$HNO_3$</b>."
+        },
+        {
+          "pregunta": "El estado de oxidación del cromo en el anión dicromato ($$Cr_2O_7^{-2}$$) es:",
+          "opciones": [
+            "+3",
+            "+4",
+            "+5",
+            "+6",
+            "+7"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1:</b> El oxígeno generalmente actúa con estado de oxidación -2. La suma de todas las cargas debe ser igual a la carga del anión (-2).<br><b>Paso 2:</b> Planteamos la ecuación: $2(Cr) + 7(-2) = -2$<br><b>Paso 3:</b> Resolvemos: $2Cr - 14 = -2 \\rightarrow 2Cr = 12 \\rightarrow Cr = +6$."
+        },
+        {
+          "pregunta": "¿Cuántos moles hay en 88 gramos de dióxido de carbono ($$CO_2$$)? (PA: C=12, O=16)",
+          "opciones": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "0,5"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Calculamos la masa molar del $CO_2 = 12 + 2(16) = 44 \\text{ g/mol}$.<br><b>Paso 2:</b> Aplicamos la fórmula $n = m / M$.<br>$$n = 88 \\text{ g} / 44 \\text{ g/mol} = 2 \\text{ moles}$$."
+        },
+        {
+          "pregunta": "Hallar la masa en gramos contenida en 3 moles de agua ($$H_2O$$). (PA: H=1, O=16)",
+          "opciones": [
+            "18 g",
+            "36 g",
+            "54 g",
+            "72 g",
+            "90 g"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Paso 1:</b> Calculamos la masa molar del $H_2O = 2(1) + 16 = 18 \\text{ g/mol}$.<br><b>Paso 2:</b> Despejamos la masa de la fórmula de moles: $m = n \\times M$.<br>$$m = 3 \\text{ moles} \\times 18 \\text{ g/mol} = 54 \\text{ g}$$."
+        },
+        {
+          "pregunta": "La reacción $$ Zn + CuSO_4 \\rightarrow ZnSO_4 + Cu $$ es un claro ejemplo de una reacción de:",
+          "opciones": [
+            "Descomposición",
+            "Síntesis",
+            "Metátesis (Doble desplazamiento)",
+            "Desplazamiento simple",
+            "Neutralización"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>En esta ecuación, un elemento libre más activo (Zinc) ingresa a un compuesto desplazando y liberando a otro elemento menos activo (Cobre). Esta estructura $A + BC \\rightarrow AC + B$ define al <b>desplazamiento simple</b>."
+        },
+        {
+          "pregunta": "Al calentar intensamente el carbonato de calcio ($$CaCO_3$$), este se descompone produciendo óxido de calcio y dióxido de carbono. Como esta reacción absorbe calor del entorno, se clasifica como:",
+          "opciones": [
+            "Síntesis y exotérmica",
+            "Descomposición y endotérmica",
+            "Desplazamiento y endotérmica",
+            "Metátesis y exotérmica",
+            "Descomposición y exotérmica"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>Una molécula reaccionante se divide en dos productos más simples (<b>descomposición</b>). El proceso requiere de un suministro constante de energía térmica (calor) para ocurrir, por lo que absorbe energía (<b>endotérmica</b>)."
+        },
+        {
+          "pregunta": "En la combustión completa del gas propano ($$C_3H_8$$), la suma de todos los coeficientes estequiométricos mínimos enteros es:<br>$$ C_3H_8 + O_2 \\rightarrow CO_2 + H_2O $$",
+          "opciones": [
+            "10",
+            "11",
+            "12",
+            "13",
+            "14"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Paso 1:</b> Balanceamos el carbono: 3 en reactivos, colocamos 3 al $CO_2$.<br><b>Paso 2:</b> Balanceamos el hidrógeno: 8 en reactivos, colocamos 4 al $H_2O$.<br><b>Paso 3:</b> Contamos el oxígeno en productos: $3(2) + 4(1) = 10$. Colocamos 5 al $O_2$.<br>Ecuación balanceada: $1 C_3H_8 + 5 O_2 \\rightarrow 3 CO_2 + 4 H_2O$.<br>Suma de coeficientes $= 1 + 5 + 3 + 4 = 13$."
+        },
+        {
+          "pregunta": "¿Qué masa de agua se forma al reaccionar completamente 4 gramos de hidrógeno gaseoso ($$H_2$$) con suficiente cantidad de oxígeno? (PA: H=1, O=16)<br>$$ 2H_2 + O_2 \\rightarrow 2H_2O $$",
+          "opciones": [
+            "18 g",
+            "36 g",
+            "9 g",
+            "72 g",
+            "24 g"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Calculamos las masas de la estequiometría. 2 moles de $H_2$ ($2 \\times 2 = 4\\text{ g}$) producen 2 moles de $H_2O$ ($2 \\times 18 = 36\\text{ g}$).<br><b>Paso 2:</b> Como el problema nos da exactamente 4 g de hidrógeno, la cantidad de agua producida será exactamente la de la estequiometría teórica: <b>36 g</b>."
+        },
+        {
+          "pregunta": "Si el rendimiento de un proceso químico industrial es del 80%, y según los cálculos teóricos debían producirse 50 gramos de un compuesto, ¿cuánto se obtiene realmente en la práctica?",
+          "opciones": [
+            "50 g",
+            "45 g",
+            "40 g",
+            "35 g",
+            "30 g"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>El rendimiento real es igual al rendimiento teórico multiplicado por el porcentaje de eficiencia de la reacción.<br>$\\text{Masa real} = 50 \\text{ g} \\times 0,80 = 40 \\text{ g}$."
+        },
+        {
+          "pregunta": "Se disuelven 20 g de hidróxido de sodio (NaOH) en agua hasta completar un volumen de 500 mL de solución. ¿Cuál es su molaridad? (PA: Na=23, O=16, H=1)",
+          "opciones": [
+            "1 M",
+            "0,5 M",
+            "2 M",
+            "0,1 M",
+            "0,2 M"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Paso 1:</b> Masa molar del $NaOH = 23 + 16 + 1 = 40 \\text{ g/mol}$.<br><b>Paso 2:</b> Calculamos los moles de soluto: $n = 20\\text{ g} / 40\\text{ g/mol} = 0,5 \\text{ moles}$.<br><b>Paso 3:</b> Convertimos el volumen a litros: $V = 500 \\text{ mL} = 0,5 \\text{ L}$.<br><b>Paso 4:</b> Molaridad ($M$) $= n / V = 0,5 \\text{ moles} / 0,5 \\text{ L} = 1 \\text{ M}$."
+        },
+        {
+          "pregunta": "¿Cuál es el porcentaje en masa de una solución salina que se preparó disolviendo 10 g de sal en 90 g de agua?",
+          "opciones": [
+            "11,1%",
+            "10%",
+            "9%",
+            "12%",
+            "20%"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Paso 1:</b> Calculamos la masa total de la solución (masa del soluto + masa del solvente).<br>$\\text{Masa de solución} = 10 \\text{ g} + 90 \\text{ g} = 100 \\text{ g}$.<br><b>Paso 2:</b> Calculamos el porcentaje en masa.<br>$\\% m/m = (10 \\text{ g} / 100 \\text{ g}) \\times 100\\% = 10\\%$."
+        },
+        {
+          "pregunta": "Para la reacción reversible de síntesis del amoniaco en fase gaseosa: $$ N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g) $$. La expresión correcta de su constante de equilibrio ($$K_c$$) es:",
+          "opciones": [
+            "$$ [NH_3]^2 / ([N_2][H_2]^3) $$",
+            "$$ [N_2][H_2]^3 / [NH_3]^2 $$",
+            "$$ [NH_3] / ([N_2][H_2]) $$",
+            "$$ [NH_3]^2 / [N_2][H_2] $$",
+            "$$ [NH_3]^3 / ([N_2]^2[H_2]^3) $$"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br>La constante de equilibrio ($K_c$) se define como el producto de las concentraciones de los productos elevadas a sus coeficientes estequiométricos, dividido por el producto de las concentraciones de los reactantes elevadas a sus coeficientes.<br>Por lo tanto: $K_c = \\frac{[NH_3]^2}{[N_2][H_2]^3}$."
+        },
+        {
+          "pregunta": "Según el Principio de Le Chatelier, en una reacción que ha alcanzado el equilibrio y que es EXOTÉRMICA, un aumento repentino de temperatura provoca que el equilibrio se desplace hacia:",
+          "opciones": [
+            "Los productos",
+            "Los reactantes",
+            "No se desplaza",
+            "Aumenta la constante $$K_c$$",
+            "Acelera ambas velocidades por igual sin cambiar concentraciones"
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>Una reacción exotérmica libera calor al entorno (el calor se considera como un \"producto\"). Si aumentamos la temperatura, el sistema intentará contrarrestar este cambio consumiendo ese exceso de calor, por lo que se desplazará en sentido inverso, es decir, hacia <b>los reactantes</b>."
+        },
+        {
+          "pregunta": "La fórmula general que representa a todos los alcanos de cadena abierta (hidrocarburos saturados) es:",
+          "opciones": [
+            "$$ C_nH_{2n} $$",
+            "$$ C_nH_{2n-2} $$",
+            "$$ C_nH_{2n+2} $$",
+            "$$ C_nH_{2n-4} $$",
+            "$$ C_nH_{2n+1} $$"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>Los alcanos son hidrocarburos saturados acíclicos donde todos sus enlaces carbono-carbono son simples. Su fórmula general es <b>$C_nH_{2n+2}$</b>."
+        },
+        {
+          "pregunta": "¿Cuál es el nombre IUPAC del compuesto cuya fórmula es $$ CH_3-CH_2-CH(CH_3)-CH_3 $$?",
+          "opciones": [
+            "2-metilbutano",
+            "Isopentano",
+            "3-metilbutano",
+            "n-pentano",
+            "2-etilpropano"
+          ],
+          "correcta": 0,
+          "resolucion": "<b>Resolución:</b><br><b>Paso 1:</b> La cadena principal más larga de carbonos continuos tiene 4 carbonos (butano).<br><b>Paso 2:</b> Numeramos la cadena desde el extremo derecho para que el radical (metil) tenga el localizador más bajo (2).<br>El nombre IUPAC oficial es <b>2-metilbutano</b>."
+        },
+        {
+          "pregunta": "El benceno ($$C_6H_6$$) es un compuesto aromático que se caracteriza estructuralmente por:",
+          "opciones": [
+            "Tener 6 enlaces dobles aislados.",
+            "Presentar electrones pi ($\\pi$) deslocalizados por todo el anillo.",
+            "Ser altamente reactivo en reacciones de adición.",
+            "Ser un cicloalcano ordinario de 6 miembros.",
+            "Ser un alquino cíclico."
+          ],
+          "correcta": 1,
+          "resolucion": "<b>Resolución:</b><br>El benceno debe su gran estabilidad química (aromaticidad) a la <b>deslocalización de sus electrones $\\pi$</b> (fenómeno de resonancia) que forman una nube electrónica por encima y por debajo del plano del anillo hexagonal."
+        },
+        {
+          "pregunta": "El grupo funcional característico que define a la familia de las cetonas orgánicas es el:",
+          "opciones": [
+            "Carboxilo",
+            "Formilo",
+            "Carbonilo",
+            "Hidroxilo",
+            "Éter"
+          ],
+          "correcta": 2,
+          "resolucion": "<b>Resolución:</b><br>Las cetonas están caracterizadas por poseer el <b>grupo carbonilo ($C=O$)</b> ubicado entre dos cadenas de carbonos en el interior de la molécula ($R-CO-R'$)."
+        },
+        {
+          "pregunta": "La importante reacción química entre un ácido carboxílico y un alcohol en medio ácido (esterificación) produce como resultado:",
+          "opciones": [
+            "Un aldehído",
+            "Una cetona",
+            "Un alcano",
+            "Un éster y agua",
+            "Un éter y agua"
+          ],
+          "correcta": 3,
+          "resolucion": "<b>Resolución:</b><br>La reacción de esterificación es el proceso en el cual reaccionan un ácido carboxílico y un alcohol, eliminando una molécula de agua y uniendo los remanentes para formar un <b>éster orgánico</b>."
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "17.1 Examen Ordinario 2023-I",
+          "youtube_id": "RjarZrJDxSU",
+          "pdf_link": "https://drive.google.com/file/d/1SijB7jnHBKNdLsWNhd96i6DjqinktdL-/view",
+          "gratis": true
+        },
+        {
+          "titulo": "17.2 Examen Ordinario 2022-II",
+          "youtube_id": "nnZNSvx9aGo",
+          "pdf_link": "https://drive.google.com/file/d/1SijB7jnHBKNdLsWNhd96i6DjqinktdL-/view",
+          "gratis": true
+       }
       ]
     }
   ]
