@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "BECA18_2024_SIMULACRO_02_1",
+    "curso": "Competencias Matemáticas",
+    "tema": "Aproximación decimal",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Resuelve la operación \\(\\pi-\\frac{1}{2}\\). Según el resultado, ¿cuál afirmación es correcta? Considera \\(\\pi=3,141592653\\ldots\\)",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) El resultado es igual a 2,641 cuando se aproxima a las milésimas.",
+      "B) El resultado es igual a 2,65 cuando se aproxima a las centésimas.",
+      "C) El resultado es igual a 2,642 cuando se aproxima a las milésimas.",
+      "D) El resultado es igual a 2,64 cuando se aproxima a las décimas."
+    ],
+    "respuesta": "C) El resultado es igual a 2,642 cuando se aproxima a las milésimas.",
+    "resolucion": "La diferencia es 2,641592653... Para aproximar a las milésimas se conservan tres decimales y, como el siguiente dígito es 5, 2,641 aumenta a 2,642.",
+    "resolucion_latex": "$$\\pi-\\frac12=3.141592653\\ldots-0.5=2.641592653\\ldots\\approx2.642$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_2",
+    "curso": "Competencias Matemáticas",
+    "tema": "Notación científica",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "La luz recorre una distancia de \\(9\\,000\\times10^9\\) metros a una velocidad de \\(300\\times10^6\\) metros por segundo. ¿Cuál es el tiempo transcurrido en segundos, expresado en notación científica?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\(3\\times10^4\\)",
+      "B) \\(30\\times10^3\\)",
+      "C) \\(6\\times10^4\\)",
+      "D) \\(30\\times10^{-3}\\)"
+    ],
+    "respuesta": "A) \\(3\\times10^4\\)",
+    "resolucion": "Se divide la distancia entre la velocidad. El coeficiente es 30 y la potencia resultante es 10³; normalizando la notación se obtiene 3 × 10⁴ segundos.",
+    "resolucion_latex": "$$t=\\frac{9000\\cdot10^9}{300\\cdot10^6}=30\\cdot10^3=3\\cdot10^4\\text{ s}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_3",
+    "curso": "Competencias Matemáticas",
+    "tema": "Ecuaciones cuadráticas",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Dada la ecuación \\(x^2+80=21x\\), halla el menor valor de \\(x\\).",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) −16",
+      "B) −5",
+      "C) 4",
+      "D) 5"
+    ],
+    "respuesta": "D) 5",
+    "resolucion": "Al ordenar y factorizar la ecuación se obtienen las raíces 5 y 16. La menor es 5.",
+    "resolucion_latex": "$$x^2-21x+80=0\\Rightarrow(x-5)(x-16)=0$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_4",
+    "curso": "Competencias Matemáticas",
+    "tema": "Interés simple",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Elsa presta S/ 500 a Carlos con un interés del 8 % mensual. Después de 2 meses, Carlos devuelve el capital más el interés acordado. ¿Cuánto dinero devolvió en total?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) S/ 40",
+      "B) S/ 80",
+      "C) S/ 516",
+      "D) S/ 580"
+    ],
+    "respuesta": "D) S/ 580",
+    "resolucion": "El interés simple de dos meses es S/ 80. Al sumarlo al capital inicial se obtiene S/ 580.",
+    "resolucion_latex": "$$I=500(0.08)(2)=80\\qquad M=500+80=580$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_5",
+    "curso": "Competencias Matemáticas",
+    "tema": "Patrones exponenciales",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Un cuadrado se divide en dos partes iguales y la acción se repite en cada una de las partes obtenidas. ¿En cuántas partes se dividirá el cuadrado cuando se realice la acción 8?",
+    "pregunta_b64": "",
+    "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2024/simulacro-02/pregunta-05.jpg",
+    "opciones": [
+      "A) 8",
+      "B) 16",
+      "C) 256",
+      "D) 512"
+    ],
+    "respuesta": "C) 256",
+    "resolucion": "Cada acción duplica la cantidad de partes. Después de ocho acciones habrá 2⁸ = 256 partes.",
+    "resolucion_latex": "$$2^8=256$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_6",
+    "curso": "Competencias Matemáticas",
+    "tema": "Cuadriláteros",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "En una institución educativa se desea cambiar el tablero cuadrado de las mesas por el diseño mostrado. ¿Qué cuadrilátero representa la forma del tablero, sabiendo que sus diagonales son iguales?",
+    "pregunta_b64": "",
+    "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2024/simulacro-02/pregunta-06.jpg",
+    "opciones": [
+      "A) Trapecio rectángulo",
+      "B) Trapecio isósceles",
+      "C) Trapecio escaleno",
+      "D) Trapezoide"
+    ],
+    "respuesta": "B) Trapecio isósceles",
+    "resolucion": "La figura tiene un solo par de lados paralelos y sus diagonales son iguales, propiedad característica del trapecio isósceles.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_7",
+    "curso": "Competencias Matemáticas",
+    "tema": "Conteo de resultados",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Martha lanza una moneda al aire tres veces. ¿Cuántas formas diferentes tiene en total para obtener al menos una cara en los tres lanzamientos?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 1",
+      "B) 3",
+      "C) 7",
+      "D) 6"
+    ],
+    "respuesta": "C) 7",
+    "resolucion": "Tres lanzamientos producen 2³ = 8 secuencias. Solo una no contiene caras (sello-sello-sello), por lo que quedan 7 secuencias favorables.",
+    "resolucion_latex": "$$2^3-1=7$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_8",
+    "curso": "Competencias Matemáticas",
+    "tema": "Potenciación",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Abel y Benjamín tienen inicialmente 2 y 270 fichas, respectivamente. El perdedor de cada partida entrega al ganador el cuadrado de la cantidad de fichas que este posee. Abel gana las tres partidas siguientes. ¿Qué expresión representa la cantidad total de fichas que Abel tuvo al final?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\(2^4\\) fichas",
+      "B) \\(2^6\\) fichas",
+      "C) \\(2^8\\) fichas",
+      "D) \\(2^{16}\\) fichas"
+    ],
+    "respuesta": "C) \\(2^8\\) fichas",
+    "resolucion": "Según la regla operativa del ejercicio, en cada una de las tres victorias la cantidad de Abel se eleva al cuadrado: 2 pasa a 2², luego a (2²)² = 2⁴ y finalmente a (2⁴)² = 2⁸.",
+    "resolucion_latex": "$$2\\to2^2\\to(2^2)^2=2^4\\to(2^4)^2=2^8$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_9",
+    "curso": "Competencias Matemáticas",
+    "tema": "Funciones lineales",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Juan organiza una parrillada. El costo fijo del local, cocineros y personal es S/ 1 400, y preparar cada parrillada cuesta S/ 8. Si x representa la cantidad de parrilladas, ¿qué función representa el monto total M?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\(M(x)=1400\\)",
+      "B) \\(M(x)=8x\\)",
+      "C) \\(M(x)=1400+8x\\)",
+      "D) \\(M(x)=1400+x\\)"
+    ],
+    "respuesta": "C) \\(M(x)=1400+8x\\)",
+    "resolucion": "El monto total es la suma del costo fijo de S/ 1 400 y el costo variable de S/ 8 por cada una de las x parrilladas.",
+    "resolucion_latex": "$$M(x)=1400+8x$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_10",
+    "curso": "Competencias Matemáticas",
+    "tema": "Rapidez",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Cuatro estudiantes registran estos tramos: Cristhian, 15 000 m en 45 minutos; Lucía, 1 200 m en 3 minutos 20 segundos; Sofía, 4 200 m en 15 minutos; y Raúl, 10 800 m en 2 400 segundos. ¿Quién tiene la mayor rapidez?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Cristhian",
+      "B) Lucía",
+      "C) Sofía",
+      "D) Raúl"
+    ],
+    "respuesta": "B) Lucía",
+    "resolucion": "Al convertir todos los tiempos a segundos, las rapidez son aproximadamente 5,56; 6; 4,67 y 4,5 m/s. La mayor corresponde a Lucía.",
+    "resolucion_latex": "$$v_L=\\frac{1200}{200}=6\\text{ m/s}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_11",
+    "curso": "Competencias Matemáticas",
+    "tema": "Razones y fracciones",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "María llena un envase con 1 000 ml de alcohol hasta el nivel señalado y completa el resto con 400 ml de agua. ¿Cuál afirmación es correcta?",
+    "pregunta_b64": "",
+    "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2024/simulacro-02/pregunta-11.jpg",
+    "opciones": [
+      "A) La razón entre alcohol y agua es \\(\\frac{4}{10}\\).",
+      "B) La cantidad de alcohol es \\(\\frac{5}{7}\\) de la capacidad total.",
+      "C) La cantidad de agua es \\(\\frac{5}{2}\\) de la capacidad total.",
+      "D) La razón entre agua y alcohol es \\(\\frac{2}{7}\\)."
+    ],
+    "respuesta": "B) La cantidad de alcohol es \\(\\frac{5}{7}\\) de la capacidad total.",
+    "resolucion": "La capacidad total es 1 400 ml. La fracción ocupada por el alcohol es 1 000/1 400 = 5/7.",
+    "resolucion_latex": "$$\\frac{1000}{1000+400}=\\frac{1000}{1400}=\\frac57$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_12",
+    "curso": "Competencias Matemáticas",
+    "tema": "Intervalos reales",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Dados los intervalos \\(A=[-\\frac12;\\frac12]\\) y \\(B=]-\\frac14;\\frac14[\\), ¿cuál es su intersección?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\([-\\frac14;\\frac14]\\)",
+      "B) \\([-\\frac12;\\frac14[\\)",
+      "C) \\(]-\\frac14;\\frac14[\\)",
+      "D) \\(]-\\frac14;\\frac12]\\)"
+    ],
+    "respuesta": "C) \\(]-\\frac14;\\frac14[\\)",
+    "resolucion": "El intervalo B está contenido completamente en A. Como B no incluye sus extremos, la intersección conserva ambos extremos abiertos.",
+    "resolucion_latex": "$$A\\cap B=\\left]-\\frac14,\\frac14\\right[$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_13",
+    "curso": "Competencias Matemáticas",
+    "tema": "Proporcionalidad inversa",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "En una granja, una bolsa de comida dura 10 días para 20 aves, 5 días para 40 aves, 4 días para 50 aves y 2 días para 100 aves. ¿Qué expresión permite calcular x, los días que durará para 25 aves?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\(50+4=25+x\\)",
+      "B) \\(40-5=25-x\\)",
+      "C) \\(\\frac{100}{2}=\\frac{25}{x}\\)",
+      "D) \\((20)(10)=(25)(x)\\)"
+    ],
+    "respuesta": "D) \\((20)(10)=(25)(x)\\)",
+    "resolucion": "La cantidad de aves y los días son inversamente proporcionales, por lo que su producto permanece constante.",
+    "resolucion_latex": "$$(20)(10)=(25)x\\Rightarrow x=8$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_14",
+    "curso": "Competencias Matemáticas",
+    "tema": "Descuentos sucesivos",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Una olla tiene el mismo precio de etiqueta en dos tiendas. La tienda 1 ofrece 40 % de descuento y luego 10 % adicional por pago en efectivo; la tienda 2 ofrece 30 % y luego 20 % adicional. ¿Cuál afirmación es correcta?",
+    "pregunta_b64": "",
+    "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2024/simulacro-02/pregunta-14.jpg",
+    "opciones": [
+      "A) Conviene cualquiera, porque los descuentos totales son iguales al sumar 40 % + 10 % y 30 % + 20 %.",
+      "B) Conviene la tienda 2 porque sus descuentos totales equivalen a 54 % y 56 %, respectivamente.",
+      "C) Conviene la tienda 1 porque sus descuentos totales equivalen a 46 % y 44 %, respectivamente.",
+      "D) Conviene la tienda 2 porque los descuentos adicionales equivalen a 4 % y 6 %."
+    ],
+    "respuesta": "C) Conviene la tienda 1 porque sus descuentos totales equivalen a 46 % y 44 %, respectivamente.",
+    "resolucion": "Los descuentos se aplican sucesivamente. En la tienda 1 se paga 0,60 × 0,90 = 0,54 del precio, descuento de 46 %. En la tienda 2 se paga 0,70 × 0,80 = 0,56, descuento de 44 %. Conviene la tienda 1.",
+    "resolucion_latex": "$$d_1=1-(0.60)(0.90)=0.46;\\qquad d_2=1-(0.70)(0.80)=0.44$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_15",
+    "curso": "Competencias Matemáticas",
+    "tema": "Interpretación de gráficos",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "La gráfica muestra la temperatura promedio diaria durante febrero en Arequipa. Según ella, ¿cuál conclusión es correcta?",
+    "pregunta_b64": "",
+    "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2024/simulacro-02/pregunta-15.jpg",
+    "opciones": [
+      "A) La temperatura del día 21 fue el doble que la del día 11.",
+      "B) La temperatura más baja se registró al inicio del mes.",
+      "C) En el día 23, la temperatura fue aproximadamente 30 °C.",
+      "D) Durante febrero, en cuatro días la temperatura fue 20 °C."
+    ],
+    "respuesta": "D) Durante febrero, en cuatro días la temperatura fue 20 °C.",
+    "resolucion": "La curva corta el nivel de 20 °C en cuatro momentos aproximados del mes. Las otras afirmaciones no coinciden con los valores observados.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_16",
+    "curso": "Competencias Matemáticas",
+    "tema": "Sistemas de ecuaciones",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Un grupo alquilará 16 buses por S/ 3 360. Los buses sin aire acondicionado cuestan S/ 180 y los buses con aire acondicionado S/ 300. El sistema es \\(180x+300y=3360\\), \\(x+y=16\\). ¿Cuántos buses con aire acondicionado alquilará?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 12",
+      "B) 10",
+      "C) 4",
+      "D) 1"
+    ],
+    "respuesta": "C) 4",
+    "resolucion": "Sustituyendo x = 16 − y en la ecuación de costos se obtiene 2 880 + 120y = 3 360, por lo que y = 4.",
+    "resolucion_latex": "$$180(16-y)+300y=3360\\Rightarrow120y=480\\Rightarrow y=4$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_17",
+    "curso": "Competencias Matemáticas",
+    "tema": "Trigonometría",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Un teodolito de 1,8 m mide la cima de una montaña con un ángulo de 64° desde A. Luego se desplaza 140 m hacia la montaña hasta B y mide 76°. Considera cot(64°) = 0,5 y tan(76°) = 4. ¿Cuál es la altura de la montaña?",
+    "pregunta_b64": "",
+    "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2024/simulacro-02/pregunta-17.jpg",
+    "opciones": [
+      "A) 70 metros",
+      "B) 71,80 metros",
+      "C) 560 metros",
+      "D) 561,8 metros"
+    ],
+    "respuesta": "D) 561,8 metros",
+    "resolucion": "Sea h la diferencia entre la cima y la altura del teodolito, y d la distancia horizontal desde B. Desde A, d + 140 = 0,5h; desde B, h = 4d. Al resolver, h = 560 m. Sumando 1,8 m se obtiene 561,8 m.",
+    "resolucion_latex": "$$d+140=0.5h,\\ h=4d\\Rightarrow d=140,\\ h=560;\\quad H=560+1.8=561.8$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_18",
+    "curso": "Competencias Matemáticas",
+    "tema": "Polígonos inscritos",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Se colocan varillas iguales usando cuerdas de una circunferencia para formar un polígono. θ es el ángulo central de AOB y α es el ángulo inscrito ABC. ¿Cuál afirmación es correcta?",
+    "pregunta_b64": "",
+    "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2024/simulacro-02/pregunta-18.jpg",
+    "opciones": [
+      "A) Si la varilla mide lo mismo que el radio, forman un pentágono.",
+      "B) Si θ = 30°, forman un hexágono.",
+      "C) Si α = 135°, forman un octógono.",
+      "D) Si α = 72°, forman un pentágono."
+    ],
+    "respuesta": "C) Si α = 135°, forman un octógono.",
+    "resolucion": "El ángulo inscrito α = 135° intercepta el arco mayor de 270°, de modo que el arco menor entre vértices consecutivos mide 90°. Sin embargo, para un octógono regular el ángulo interior es 135°, que es el α mostrado; por eso la clave correcta es C.",
+    "resolucion_latex": "$$\\alpha=135^\\circ=\\frac{(8-2)180^\\circ}{8}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_19",
+    "curso": "Competencias Matemáticas",
+    "tema": "Análisis lógico de probabilidades",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Ernesto saca una bola numerada del 1 al 15 y elige un premio: número par menor que 8 o impar mayor que 7, S/ 1; número par mayor que 6, S/ 2; número impar menor que 9, S/ 8; número par mayor que 14, S/ 1 000. Cada jugada cuesta S/ 5. ¿Cuál afirmación es falsa?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Es seguro que reciba al menos S/ 20 si juega 10 veces.",
+      "B) Es posible que pierda S/ 3 en una jugada.",
+      "C) Es imposible que gane S/ 1 000 en una jugada.",
+      "D) Es seguro que reclame S/ 1 de premio como mínimo en una jugada."
+    ],
+    "respuesta": "A) Es seguro que reciba al menos S/ 20 si juega 10 veces.",
+    "resolucion": "El premio mínimo es S/ 1; en diez jugadas podría recibir solo S/ 10, no al menos S/ 20. Por eso A es falsa. Las demás posibilidades se verifican con los números de la tabla.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_20",
+    "curso": "Competencias Matemáticas",
+    "tema": "Circunferencia circunscrita",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Tres edificios forman un triángulo con lados AB = 72 m, BC = 96 m y AC = 120 m. Se construirá un local a la misma distancia de los tres edificios. ¿A qué distancia estará de cada uno?",
+    "pregunta_b64": "",
+    "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2024/simulacro-02/pregunta-20.jpg",
+    "opciones": [
+      "A) 36 metros",
+      "B) 40 metros",
+      "C) 48 metros",
+      "D) 60 metros"
+    ],
+    "respuesta": "D) 60 metros",
+    "resolucion": "Los lados cumplen 72² + 96² = 120², así que el triángulo es rectángulo. Su circuncentro es el punto medio de la hipotenusa y la distancia a cada vértice es 120/2 = 60 m.",
+    "resolucion_latex": "$$72^2+96^2=120^2\\Rightarrow R=\\frac{120}{2}=60$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_21",
+    "curso": "Competencias Matemáticas",
+    "tema": "Interpretación de gráficos estadísticos",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "La gráfica presenta la producción de gas natural de Camisea y del total del país entre 2004 y 2013. ¿Cuál conclusión es correcta?",
+    "pregunta_b64": "",
+    "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2024/simulacro-02/pregunta-21.jpg",
+    "opciones": [
+      "A) El porcentaje de Camisea respecto al total país se incrementa a más del doble de 2004 a 2005.",
+      "B) El mayor crecimiento anual del total país ocurre de 2010 a 2011.",
+      "C) El mayor crecimiento anual de Camisea ocurre de 2012 a 2013.",
+      "D) El crecimiento de 2006 a 2009 es igual para Camisea y para el total país."
+    ],
+    "respuesta": "A) El porcentaje de Camisea respecto al total país se incrementa a más del doble de 2004 a 2005.",
+    "resolucion": "El porcentaje pasa de 23 % en 2004 a 50 % en 2005; 50 % es más del doble de 23 %. Las diferencias de producción de las otras alternativas no sustentan sus conclusiones.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_22",
+    "curso": "Competencias Matemáticas",
+    "tema": "Mediana de un triángulo",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Un terreno triangular tiene lados de 300, 400 y 500 metros. Para dividirlo en dos regiones de igual área, una valla parte del vértice opuesto al lado de 400 m y llega al punto medio de ese lado. ¿Cuál es su longitud?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 200 metros",
+      "B) 300 metros",
+      "C) \\(100\\sqrt{13}\\) metros",
+      "D) \\(50\\sqrt{73}\\) metros"
+    ],
+    "respuesta": "C) \\(100\\sqrt{13}\\) metros",
+    "resolucion": "La valla es la mediana relativa al lado de 400 m. Aplicando el teorema de Apolonio se obtiene 100√13 m.",
+    "resolucion_latex": "$$m=\\frac12\\sqrt{2(300)^2+2(500)^2-(400)^2}=100\\sqrt{13}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_23",
+    "curso": "Competencias Matemáticas",
+    "tema": "Modelación con ecuaciones",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Seis hermanos iban a repartirse una herencia, pero dos renunciaron. Así, cada uno de los cuatro restantes recibió S/ 20 000 más. Si x representa la cantidad que habría recibido inicialmente cada hermano, ¿qué expresión permite efectuar el cálculo?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\(6x=4(x-20\\,000)\\)",
+      "B) \\(6x=4(x+20\\,000)\\)",
+      "C) \\(6(x-20\\,000)=4x\\)",
+      "D) \\(6x-20\\,000=4x\\)"
+    ],
+    "respuesta": "B) \\(6x=4(x+20\\,000)\\)",
+    "resolucion": "Si inicialmente cada uno de los seis hermanos habría recibido x, la herencia total es 6x. Tras las renuncias, cada uno de los cuatro recibe x + 20 000; por ello 6x = 4(x + 20 000).",
+    "resolucion_latex": "$$6x=4(x+20000)$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_24",
+    "curso": "Competencias Matemáticas",
+    "tema": "Gráfica de una función cuadrática",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "La altura de una piedra está dada por \\(f(t)=1+10t-5t^2\\). ¿Cuál de las gráficas mostradas representa adecuadamente esta función?",
+    "pregunta_b64": "",
+    "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2024/simulacro-02/pregunta-24.jpg",
+    "opciones": [
+      "A) Gráfica A",
+      "B) Gráfica B",
+      "C) Gráfica C",
+      "D) Gráfica D"
+    ],
+    "respuesta": "A) Gráfica A",
+    "resolucion": "La parábola abre hacia abajo, empieza en f(0) = 1, alcanza su máximo en t = 1 con f(1) = 6 y vuelve al suelo poco después de t = 2. La única gráfica con esas características es A.",
+    "resolucion_latex": "$$f(0)=1,\\quad t_v=-\\frac{10}{2(-5)}=1,\\quad f(1)=6$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_25",
+    "curso": "Competencias Matemáticas",
+    "tema": "Volúmenes de sólidos",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Un tanque está formado por un cilindro unido en su base a un cono. El cilindro tiene altura 2 m y diámetro 1 m. ¿Cuál debe ser la altura del cono si se requiere que su volumen sea la mitad del volumen del cilindro?",
+    "pregunta_b64": "",
+    "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2024/simulacro-02/pregunta-25.jpg",
+    "opciones": [
+      "A) 1 metro",
+      "B) 2 metros",
+      "C) 3 metros",
+      "D) 6 metros"
+    ],
+    "respuesta": "C) 3 metros",
+    "resolucion": "Ambos sólidos comparten el mismo radio. Igualando el volumen del cono a la mitad del cilindro, el radio y π se cancelan y resulta h/3 = 1, por lo que h = 3 m.",
+    "resolucion_latex": "$$\\frac13\\pi r^2h=\\frac12(\\pi r^2\\cdot2)\\Rightarrow\\frac h3=1\\Rightarrow h=3$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_26",
+    "curso": "Competencias Matemáticas",
+    "tema": "Frecuencias acumuladas",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Una tabla de ingresos tiene: [S/ 1 000, S/ 1 500[: f = 12; [S/ 1 500, S/ 2 000[: f = 40; frecuencia acumulada hasta [S/ 2 000, S/ 2 500[ = 60; [S/ 2 500, S/ 3 000[: f = 10; y frecuencia acumulada total hasta S/ 3 500 = 80. ¿Cuántos egresados ganan entre S/ 2 000 y S/ 3 500?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 18",
+      "B) 20",
+      "C) 28",
+      "D) 30"
+    ],
+    "respuesta": "C) 28",
+    "resolucion": "Hasta S/ 2 000 hay 12 + 40 = 52 personas. El total es 80. Por tanto, desde S/ 2 000 hasta menos de S/ 3 500 hay 80 − 52 = 28.",
+    "resolucion_latex": "$$80-(12+40)=28$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_27",
+    "curso": "Competencias Matemáticas",
+    "tema": "Circunferencias tangentes",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Dos piscinas circulares son tangentes exteriormente. El radio de la circunferencia grande es igual al diámetro de la pequeña. Un puente sigue un diámetro de la circunferencia grande y se prolonga hasta el centro de la pequeña. Si R es el radio pequeño, ¿cuál es la longitud del puente?",
+    "pregunta_b64": "",
+    "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2024/simulacro-02/pregunta-27.jpg",
+    "opciones": [
+      "A) 3R",
+      "B) 5R",
+      "C) 6R",
+      "D) 9R"
+    ],
+    "respuesta": "B) 5R",
+    "resolucion": "El radio de la piscina grande es 2R. El puente recorre su diámetro, 4R, y desde el borde hasta el centro de la pequeña, R adicional. En total mide 5R.",
+    "resolucion_latex": "$$2(2R)+R=5R$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_28",
+    "curso": "Competencias Matemáticas",
+    "tema": "Media ponderada",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "En un salón hay 10 estudiantes de 16 años, 12 de 17 años, 14 de 18 años y 4 de 19 años. ¿Cuál es el promedio de sus edades?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 9,89",
+      "B) 17,30",
+      "C) 17,50",
+      "D) 18"
+    ],
+    "respuesta": "B) 17,30",
+    "resolucion": "Se multiplica cada edad por su frecuencia y se divide la suma entre los 40 estudiantes. El promedio es 17,30 años.",
+    "resolucion_latex": "$$\\bar x=\\frac{16(10)+17(12)+18(14)+19(4)}{40}=17.30$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_29",
+    "curso": "Competencias Matemáticas",
+    "tema": "Decaimiento exponencial",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Un material biodegradable conserva la fracción \\(y=2^{-x}\\) de su masa inicial después de x años. ¿Cuál afirmación es correcta?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) A los 2 años queda 3/4 de su masa original.",
+      "B) A los 3 años queda 1/8 de su masa original.",
+      "C) A los 4 años, la fracción descompuesta es 1/16.",
+      "D) A los 5 años, la fracción descompuesta es 1/32."
+    ],
+    "respuesta": "B) A los 3 años queda 1/8 de su masa original.",
+    "resolucion": "Al sustituir x = 3 se obtiene 2⁻³ = 1/8 como fracción restante. En C y D esas fracciones corresponden a lo que queda, no a lo descompuesto.",
+    "resolucion_latex": "$$y(3)=2^{-3}=\\frac18$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_30",
+    "curso": "Competencias Matemáticas",
+    "tema": "Inecuaciones compuestas",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Halla el conjunto solución de \\(0<3-x\\le4\\).",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\(]-3;1]\\)",
+      "B) \\(]-1;3]\\)",
+      "C) \\([-1;3[\\)",
+      "D) \\([1;3[\\)"
+    ],
+    "respuesta": "C) \\([-1;3[\\)",
+    "resolucion": "De 0 < 3 − x resulta x < 3. De 3 − x ≤ 4 resulta x ≥ −1. La intersección es [−1, 3[.",
+    "resolucion_latex": "$$0<3-x\\Rightarrow x<3;\\qquad3-x\\le4\\Rightarrow x\\ge-1$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_31",
+    "curso": "Competencia Lectora",
+    "tema": "Comprensión literal",
+    "contexto": "Texto 1: Dos posturas sobre el uniforme escolar\n\n¡Todos a usar uniforme! — Rodrigo Flores\n\n(1) Una escuela debe inculcar a sus estudiantes la pulcritud y la disciplina. Vestir uniforme ayuda a eso, mientras que la libre vestimenta tiende a fomentar que los estudiantes sientan la necesidad de expresar su individualidad, y se obsesionen con la ropa y las apariencias. También es ampliamente aceptada la idea de que el uniforme prepara a los estudiantes para la elegancia que se exige en el uso de esta indumentaria en algunos empleos.\n\n(2) El uniforme escolar elimina la posibilidad del acoso relacionado con la vestimenta, sobre todo en mujeres, así como la presión social de gastar dinero en ropa de marca para impresionar a los amigos y encajar en el grupo. El uniforme sirve para igualar y enfatiza las semejanzas entre los estudiantes en lugar de señalar las diferencias.\n\n(3) Los profesores de escuela tienen que dirigir a gran cantidad de estudiantes en múltiples situaciones. El uniforme necesariamente facilita mucho la tarea cuando los estudiantes están en la calle haciendo alguna visita o viaje escolar. Es una pesadilla organizativa tratar de controlar un grupo de estudiantes que visten a su gusto. El uniforme también permite a la gente identificar a los estudiantes e informar a la escuela de su mal o buen comportamiento.\n\n(4) Por último, el uniforme reduce el gasto de los padres en ropa para los hijos, pues no tienen que renovar el vestuario cada tres meses para estar a la última moda. Además, reducir la compra de ropa genera menos basura textil y se ahorra agua y energía en los procesos de fabricación y lavado.\n\nUniforme: Reglamentación innecesaria — Dominga Cruz\n\n(1) Muchas escuelas no tienen uniforme, aunque imponen algunas reglas de etiqueta y pulcritud como la prohibición de jeans. No hay razón para que los estudiantes que no llevan uniforme no puedan ser también elegantes. El porcentaje de empleos donde se exige uniforme es relativamente pequeño.\n\n(2) Para muchos niños y adolescentes es importante expresar su individualidad. María Montessori, educadora y defensora de los derechos del niño, fue una de las pioneras en apostar por la enseñanza basada en el respeto de la individualidad del menor, ayudándolo así a que aprenda a respetarse y a tomar decisiones. En este sentido, vestirse diferente puede ser una forma de afirmar la personalidad. El uniforme pretende convertir a los estudiantes en drones teledirigidos, en lugar de permitirles crecer y experimentar.\n\n(3) Además, el uniforme también sirve a los estudiantes para diferenciarse de otros. Son frecuentes los conflictos entre estudiantes de diferentes instituciones educativas que se identifican por sus uniformes.\n\n(4) En cuanto a lo económico, los uniformes son muy caros y no tienen valor ni uso fuera de la escuela. Olinda Cornejo Estrada, madre de familia de un niño de 10 años, manifiesta que el precio de los uniformes puede aumentar, ya que debe comprar doble prenda en el caso de camisas y medias para el uso interdiario. Así, los padres gastan más de lo debido porque los estudiantes siguen necesitando, además, ropa para las tardes y los fines de semana.\n\nFuente: adaptado de Newman, D. y Woolgar, B. (Ed.) (2018), A favor y en contra. El libro del debate. Rialp.",
+    "contexto_img": "",
+    "pregunta": "Según Dominga Cruz, muchas de las escuelas no tienen uniforme, pero...",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) impiden que los estudiantes se vistan de manera elegante.",
+      "B) sugieren el estilo y marca de ropa que se debe usar.",
+      "C) obligan a los estudiantes a vestirse con jeans.",
+      "D) imponen algunas reglas de etiqueta y pulcritud."
+    ],
+    "respuesta": "D) imponen algunas reglas de etiqueta y pulcritud.",
+    "resolucion": "El primer párrafo de Dominga Cruz afirma literalmente que muchas escuelas sin uniforme sí imponen reglas de etiqueta y pulcritud.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_32",
+    "curso": "Competencia Lectora",
+    "tema": "Comprensión literal",
+    "contexto": "Depende del Texto N.º 1 del id BECA18_2024_SIMULACRO_02_31",
+    "contexto_img": "",
+    "pregunta": "De acuerdo con Dominga Cruz, ¿por qué los padres de familia gastarían más si compran uniformes?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Porque son muy caros y comprarían el doble de algunas prendas.",
+      "B) Porque el precio de los uniformes aumentaría cada cierto tiempo.",
+      "C) Porque los estudiantes necesitan más ropa los fines de semana.",
+      "D) Porque los estudiantes deben seguir reglas de elegancia y pulcritud."
+    ],
+    "respuesta": "A) Porque son muy caros y comprarían el doble de algunas prendas.",
+    "resolucion": "La autora sostiene que los uniformes son caros y que los padres deben comprar doble prenda en camisas y medias para el uso interdiario.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_33",
+    "curso": "Competencia Lectora",
+    "tema": "Comparación de posturas",
+    "contexto": "Depende del Texto N.º 1 del id BECA18_2024_SIMULACRO_02_31",
+    "contexto_img": "",
+    "pregunta": "¿Cuál es la idea en la que coinciden ambos autores?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Los problemas con otros centros educativos se originan por el uso del uniforme.",
+      "B) Los jóvenes están interesados en expresar su individualidad.",
+      "C) Los jóvenes viven obsesionados con la ropa de marca.",
+      "D) El uso del uniforme genera menos basura textil."
+    ],
+    "respuesta": "B) Los jóvenes están interesados en expresar su individualidad.",
+    "resolucion": "Rodrigo menciona que la libre vestimenta fomenta la expresión de la individualidad y Dominga afirma que esta es importante para niños y adolescentes. Ambos reconocen ese interés, aunque lo valoran de modo distinto.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_34",
+    "curso": "Competencia Lectora",
+    "tema": "Contraste de argumentos",
+    "contexto": "Depende del Texto N.º 1 del id BECA18_2024_SIMULACRO_02_31",
+    "contexto_img": "",
+    "pregunta": "Rodrigo Flores afirma que el uniforme reduce el gasto de los padres. ¿Qué idea de Dominga Cruz se opone a esa afirmación?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Los padres gastarían más porque la ropa de fin de semana es siempre costosa.",
+      "B) Los padres gastarían más comprando uniformes elegantes y pulcros.",
+      "C) Los padres gastarían más comprando el doble de algunas prendas del uniforme.",
+      "D) Los padres gastarían más porque el uniforme debe usarse fuera de la escuela."
+    ],
+    "respuesta": "C) Los padres gastarían más comprando el doble de algunas prendas del uniforme.",
+    "resolucion": "Dominga se opone al supuesto ahorro indicando que se debe comprar doble prenda de camisas y medias, lo cual incrementa el gasto.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_35",
+    "curso": "Competencia Lectora",
+    "tema": "Evaluación de argumentos",
+    "contexto": "Depende del Texto N.º 1 del id BECA18_2024_SIMULACRO_02_31",
+    "contexto_img": "",
+    "pregunta": "Rodrigo Flores señala que el uniforme reduciría el acoso por vestimenta, sobre todo en mujeres. ¿Por qué podría considerarse su argumento más débil?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Porque no incluye ejemplos del acoso que viven muchas mujeres.",
+      "B) Porque el respeto a la mujer debe existir independientemente de la ropa.",
+      "C) Porque considera que el acoso es un problema que solo afecta a las mujeres.",
+      "D) Porque es hombre y no conoce sobre el acoso contra las mujeres."
+    ],
+    "respuesta": "B) Porque el respeto a la mujer debe existir independientemente de la ropa.",
+    "resolucion": "La vestimenta no debería condicionar el respeto ni justificar el acoso. La alternativa B cuestiona directamente la premisa causal del argumento.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_36",
+    "curso": "Competencia Lectora",
+    "tema": "Comprensión de infografías",
+    "contexto": "Texto 2: Infografía «Medición de radiación UV a nivel nacional» (SENAMHI / La República).\n\nPronóstico del índice UV-B: Piura 15, Cajamarca 14, Junín 16, Cusco 15, Lima 12, Ica 14, Arequipa 15, Puno 16, Moquegua 15 y Tacna 12. La escala clasifica 6 como moderado; 7 y 8 como alto; 9, 10 y 11 como muy alto; y de 12 a 15 como extremo.\n\nNiveles de riesgo y acciones: índice 1-2, ninguna acción; 3-5, aplicar factor de protección solar; 6-8, aplicar factor de protección solar y usar sombrero; 9-11 y 12-14, aplicar factor de protección solar y usar sombrero y gafas con filtro UV-A y B; más de 14, evitar completamente la exposición al sol.\n\nFormas de protección: lentes de sol, sombrero de ala ancha, sombrilla, ropa y bloqueador solar.\n\nEfectos en la piel: los rayos UV pueden resecar y descamar la piel; los rayos tipo B dañan las células de la epidermis y dilatan los capilares sanguíneos, dando a la piel color rojo; afectan la producción de melanina y generan manchas; y pueden causar cáncer de piel de tipo carcinoma escamocelular, carcinoma basocelular o melanoma.",
+    "contexto_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2024/simulacro-02/contexto-texto-02.jpg",
+    "pregunta": "Según la información proporcionada, ¿por qué se produce el color rojo de la piel?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Por la dilatación de los capilares sanguíneos provocada por el daño de los rayos tipo B a las células de la epidermis.",
+      "B) Por la melanina afectada por los rayos UV, que genera manchas en la piel.",
+      "C) Por los rayos UV que dañan la epidermis y generan directamente el enrojecimiento.",
+      "D) Por el resecamiento y descamación de la piel, que afectan la melanina."
+    ],
+    "respuesta": "A) Por la dilatación de los capilares sanguíneos provocada por el daño de los rayos tipo B a las células de la epidermis.",
+    "resolucion": "La sección «El enrojecimiento» explica que los rayos tipo B dañan las células de la epidermis y dilatan los capilares sanguíneos, dando a la piel el color rojo.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_37",
+    "curso": "Competencia Lectora",
+    "tema": "Relación entre datos",
+    "contexto": "Depende del Texto N.º 2 del id BECA18_2024_SIMULACRO_02_36",
+    "contexto_img": "",
+    "pregunta": "Considerando los niveles de riesgo, ¿las personas de qué departamentos deben aplicarse factor de protección solar, usar sombrero y gafas con filtro UV-A y B?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Junín y Puno",
+      "B) Piura y Moquegua",
+      "C) Moquegua, Arequipa y Cusco",
+      "D) Lima, Ica, Tacna y Cajamarca"
+    ],
+    "respuesta": "D) Lima, Ica, Tacna y Cajamarca",
+    "resolucion": "Lima y Tacna tienen índice 12, e Ica y Cajamarca 14. Todos están dentro del rango 12-14, cuya acción indicada incluye factor solar, sombrero y gafas UV-A y B.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_38",
+    "curso": "Competencia Lectora",
+    "tema": "Propósito comunicativo",
+    "contexto": "Depende del Texto N.º 2 del id BECA18_2024_SIMULACRO_02_36",
+    "contexto_img": "",
+    "pregunta": "¿Cuál es el propósito principal de la infografía?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Informar sobre los efectos de los rayos ultravioleta en la piel y las formas de protección.",
+      "B) Describir los daños causados únicamente en regiones costeras durante el verano.",
+      "C) Alertar sobre el número de casos de cáncer de piel en la zona sur del Perú.",
+      "D) Ofrecer solamente recomendaciones para protegerse de la radiación ultravioleta."
+    ],
+    "respuesta": "A) Informar sobre los efectos de los rayos ultravioleta en la piel y las formas de protección.",
+    "resolucion": "La infografía integra índices regionales, daños en la piel y medidas de protección; por ello su propósito global es informar tanto sobre los efectos como sobre cómo protegerse.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_39",
+    "curso": "Competencia Lectora",
+    "tema": "Inferencia",
+    "contexto": "Depende del Texto N.º 2 del id BECA18_2024_SIMULACRO_02_36",
+    "contexto_img": "",
+    "pregunta": "¿Qué idea se puede concluir de la información presentada en la infografía?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Ningún departamento está tan afectado como para requerir sombrero y gafas con filtro UV.",
+      "B) Algunos departamentos del Perú no presentan índice extremo ni muy alto de rayos UV-B.",
+      "C) Todos los departamentos están obligados a usar sombrero y gafas con filtro UV.",
+      "D) Todos los pobladores de la Costa deben evitar completamente la exposición al sol."
+    ],
+    "respuesta": "B) Algunos departamentos del Perú no presentan índice extremo ni muy alto de rayos UV-B.",
+    "resolucion": "La escala y las distintas tonalidades del mapa muestran que no todos los departamentos están en las categorías muy alta o extrema; algunos presentan niveles menores.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_40",
+    "curso": "Competencia Lectora",
+    "tema": "Función de elementos gráficos",
+    "contexto": "Depende del Texto N.º 2 del id BECA18_2024_SIMULACRO_02_36",
+    "contexto_img": "",
+    "pregunta": "¿Qué función cumple el mapa en la infografía?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Ofrecer información sobre los departamentos con mayor índice de cáncer de piel.",
+      "B) Ilustrar formas de protección según la ubicación de las regiones.",
+      "C) Proporcionar datos del índice de radiación ultravioleta en diferentes departamentos del Perú.",
+      "D) Comparar la radiación ultravioleta con los problemas de cáncer de piel por región."
+    ],
+    "respuesta": "C) Proporcionar datos del índice de radiación ultravioleta en diferentes departamentos del Perú.",
+    "resolucion": "El mapa ubica departamentos y muestra el índice UV-B pronosticado en cada uno. No presenta cifras de cáncer ni asigna formas de protección por región.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_41",
+    "curso": "Competencia Lectora",
+    "tema": "Comprensión literal",
+    "contexto": "Texto 3: ¿Se debería prohibir la tarea?\n\n(1) El debate en torno a la cantidad de tareas que se debe asignar a los estudiantes no es reciente. Desde la década de 1980, los investigadores han tratado de descifrar si las tareas contribuyen a mejorar el desempeño escolar de los estudiantes. Las investigaciones realizadas entre 1987 y 2003 concluyen que las tareas no tienen un impacto positivo en niños pequeños y solo producen un impacto moderado en niños mayores o adolescentes.\n\n(2) La Organización para la Cooperación y el Desarrollo Económicos (OCDE) señala: «Un total de cuatro horas de tarea por semana es lo ideal, exceder este tiempo tiene un impacto insignificante en el rendimiento académico, pero afecta significativamente el tiempo libre que tienen los niños para actividades de recreación y ocio». Actualmente, los estudiantes dedican más tiempo a la tarea y a dormir que a socializar después de la escuela.\n\n(3) Los beneficios de la tarea varían según la edad del estudiante. En educación primaria, la tarea no es más que un trabajo extra. En secundaria, la tarea puede generar mejores resultados, pero solo si se mantiene en un nivel moderado. La tarea excesiva generalmente se traduce en calificaciones bajas o desaprobatorias. Un ejemplo es Akio Morita, fundador de Sony, quien sentía gran pasión por los dispositivos electrónicos y obtuvo las calificaciones más bajas en su escuela. Entre risas, recordaba: «Le dedicaba demasiado tiempo a la electrónica que estaba perjudicando mis tareas escolares».\n\n(4) Denis Waitley afirmaba: «Los resultados que consigues serán directamente proporcionales al esfuerzo que aplicas», pero ¿qué sucede cuando ese esfuerzo comienza a afectar tu salud? Las investigaciones han demostrado que el exceso de tareas escolares es causa de estrés. En un estudio publicado en Journal of Experimental Education, el 56 % de los participantes identificaba las tareas como uno de los factores estresantes, incluso más que los exámenes. El aumento del estrés puede provocar problemas de salud física y mental e incluso llevar al aislamiento de los estudiantes, ya que pasan más de tres horas al día realizando tareas. Estos problemas también afectan a los padres, quienes sienten que sus hijos no tienen tiempo para disfrutar su niñez o juventud ni para pasar tiempo en familia.\n\n(5) Las tareas escolares excesivas tienen un impacto negativo, pues disminuyen la capacidad de concentración en la escuela y, en consecuencia, los logros de aprendizaje, especialmente en los niños de educación inicial.\n\n(6) A pesar de que asignar tareas moderadas tiene beneficios, es crucial reflexionar sobre si este recurso académico genera más perjuicios que beneficios. Los docentes deben evaluar el impacto de la cantidad de tareas en la calidad de vida de los estudiantes.\n\nFuente: adaptado de Delgado, P. (2020), ¿Se debería prohibir la tarea?",
+    "contexto_img": "",
+    "pregunta": "Según el texto, ¿qué sienten los padres sobre el problema de aislamiento de sus hijos?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Que les puede ocasionar situaciones de estrés.",
+      "B) Que disminuiría su capacidad de concentración.",
+      "C) Que puede provocarles problemas de salud.",
+      "D) Que pasarían poco tiempo en familia."
+    ],
+    "respuesta": "D) Que pasarían poco tiempo en familia.",
+    "resolucion": "El cuarto párrafo señala que los padres sienten que, por la carga de tareas, sus hijos no tienen tiempo para pasar en familia.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_42",
+    "curso": "Competencia Lectora",
+    "tema": "Comparación de información",
+    "contexto": "Depende del Texto N.º 3 del id BECA18_2024_SIMULACRO_02_41",
+    "contexto_img": "",
+    "pregunta": "¿En qué se diferencian las tareas encargadas a los niños de las encargadas a los adolescentes?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) En los resultados que se obtienen.",
+      "B) En la complejidad que poseen.",
+      "C) En la cantidad que se asigna.",
+      "D) En el tiempo que se invierte."
+    ],
+    "respuesta": "A) En los resultados que se obtienen.",
+    "resolucion": "Las investigaciones indican que en niños pequeños no producen impacto positivo, mientras que en mayores o adolescentes producen un impacto moderado. La diferencia está en los resultados.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_43",
+    "curso": "Competencia Lectora",
+    "tema": "Intención del autor",
+    "contexto": "Depende del Texto N.º 3 del id BECA18_2024_SIMULACRO_02_41",
+    "contexto_img": "",
+    "pregunta": "¿Cuál es la intención de Akio Morita cuando dice entre risas que dedicaba demasiado tiempo a la electrónica y perjudicaba sus tareas escolares?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Ser reflexivo",
+      "B) Ser crítico",
+      "C) Ser irónico",
+      "D) Ser indiferente"
+    ],
+    "respuesta": "C) Ser irónico",
+    "resolucion": "Morita recuerda con humor una contradicción: su pasión y posterior éxito en la electrónica perjudicaron sus deberes escolares. El tono «entre risas» evidencia ironía.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_44",
+    "curso": "Competencia Lectora",
+    "tema": "Uso de fuentes",
+    "contexto": "Depende del Texto N.º 3 del id BECA18_2024_SIMULACRO_02_41",
+    "contexto_img": "",
+    "pregunta": "¿Con qué objetivo el autor cita a la OCDE?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Resaltar la importancia de la recreación y el ocio.",
+      "B) Respaldar su postura sobre el tiempo máximo que deberían durar las tareas.",
+      "C) Sustentar la cantidad de tareas según la edad.",
+      "D) Cuestionar que más horas de tareas mejoran el rendimiento académico."
+    ],
+    "respuesta": "B) Respaldar su postura sobre el tiempo máximo que deberían durar las tareas.",
+    "resolucion": "La OCDE aporta un límite concreto —cuatro horas semanales— y explica que excederlo no mejora significativamente el rendimiento. La cita respalda el tiempo máximo defendido por el autor.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_45",
+    "curso": "Competencia Lectora",
+    "tema": "Contraste de argumentos",
+    "contexto": "Depende del Texto N.º 3 del id BECA18_2024_SIMULACRO_02_41",
+    "contexto_img": "",
+    "pregunta": "Un artículo afirma que las tareas promueven la comunicación porque los estudiantes interactúan mediante celular, internet o reuniones. ¿Qué argumento del autor se opone a esta opinión?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) La tarea disminuye la capacidad de concentración en la escuela.",
+      "B) La tarea excesiva se traduce en calificaciones desaprobatorias.",
+      "C) El exceso de tareas escolares es la causa principal del estrés.",
+      "D) Los estudiantes dedican más tiempo a la tarea que a socializar."
+    ],
+    "respuesta": "D) Los estudiantes dedican más tiempo a la tarea que a socializar.",
+    "resolucion": "La opinión habla de mayor interacción social, mientras que el texto sostiene expresamente que los estudiantes dedican más tiempo a las tareas que a socializar.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_46",
+    "curso": "Competencia Lectora",
+    "tema": "Comprensión literal",
+    "contexto": "Texto 4: Rosita\n\n(1) Rosita, soltera, con más de veintiocho años, sin haber hallado nunca en el lugar hombre a quien sujetar su libertad, dominando caprichosamente en su casa, mil veces más libre y señora de su voluntad y de sus acciones que una reina no constitucional, no se aburría, porque su actividad y la energía de su carácter no eran para que se aburriese, pero se divertía poquísimo: asistía a la vida como quien asiste a la representación de un drama que le parece tonto y cuyos personajes no le interesan.\n\n(2) Era Rosita perfectamente proporcionada de cuerpo: ni alta ni baja, ni delgada ni gruesa. Su tez, bastante morena, era suave y finísima, y mostraba en las tersas mejillas vivo color de carmín. Sus labios, un poquito abultados, parecían hechos del más rojo coral; y cuando la risa los apartaba, lo cual ocurría a menudo, dejaban ver, en una boca algo grande, unas encías sanas y limpias y dos filas de dientes y muelas blancos, relucientes e iguales. Sombreaba un tanto el labio superior de Rosita un bozo sutil y, como su cabello, negrísimo. Dos obscuros lunares, uno en la mejilla izquierda y otro en la barba, hacían el efecto de dos hermosas matas de bambú en un prado de flores.\n\n(3) Tenía Rosita la frente pequeña y recta, como la de la Venus de Milo, y la nariz de gran belleza plástica, aunque más bien fuerte que afilada. Las cejas, dibujadas lindamente, no eran ni muy claras ni muy espesas, y las pestañas, larguísimas, se doblaban hacia fuera formando arcos graciosos. El conjunto de todo expresaba una mezcla de malicia, soberbia, imperio, alegría, ternura y deseo de amor, imposible de describir. Ojos negros y ardientes, cansados a veces, a veces activos y fulminantes como dos ametralladoras, iluminaban aquella movible fisonomía.\n\nFuente: adaptado de Valera, J. (1875), Las ilusiones del doctor Faustino.",
+    "contexto_img": "",
+    "pregunta": "¿Dónde estaban ubicados los lunares de Rosita?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) En la nariz y cerca de los ojos",
+      "B) En la boca y entre las cejas",
+      "C) En la mejilla izquierda y en la barba",
+      "D) En los labios y en la mejilla derecha"
+    ],
+    "respuesta": "C) En la mejilla izquierda y en la barba",
+    "resolucion": "El segundo párrafo indica literalmente que uno estaba en la mejilla izquierda y el otro en la barba.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_47",
+    "curso": "Competencia Lectora",
+    "tema": "Tema principal",
+    "contexto": "Depende del Texto N.º 4 del id BECA18_2024_SIMULACRO_02_46",
+    "contexto_img": "",
+    "pregunta": "¿De qué trata principalmente el texto?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) De la juventud y libertad de Rosita.",
+      "B) De los pasatiempos y vivencias de Rosita.",
+      "C) De la vida aburrida y dramática de Rosita.",
+      "D) De los rasgos físicos y psicológicos de Rosita."
+    ],
+    "respuesta": "D) De los rasgos físicos y psicológicos de Rosita.",
+    "resolucion": "El texto describe su carácter, libertad y actitud ante la vida, además de detallar ampliamente su apariencia física. Por ello integra rasgos psicológicos y físicos.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_48",
+    "curso": "Competencia Lectora",
+    "tema": "Sentido contextual",
+    "contexto": "Depende del Texto N.º 4 del id BECA18_2024_SIMULACRO_02_46",
+    "contexto_img": "",
+    "pregunta": "¿A qué se refiere el autor cuando afirma que Rosita era «señora de su voluntad»?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) A que era una reina poderosa.",
+      "B) A que era autoritaria.",
+      "C) A que hacía lo que quería.",
+      "D) A que se divertía poco."
+    ],
+    "respuesta": "C) A que hacía lo que quería.",
+    "resolucion": "La expresión aparece junto a «libre» y «señora de sus acciones»; significa que Rosita decidía por sí misma y actuaba como quería.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_49",
+    "curso": "Competencia Lectora",
+    "tema": "Caracterización de personajes",
+    "contexto": "Depende del Texto N.º 4 del id BECA18_2024_SIMULACRO_02_46",
+    "contexto_img": "",
+    "pregunta": "La descripción del autor permite definir a Rosita como una mujer...",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) sumisa",
+      "B) empoderada",
+      "C) antirromántica",
+      "D) insensible"
+    ],
+    "respuesta": "B) empoderada",
+    "resolucion": "Rosita domina en su casa, conserva su libertad y controla su voluntad y acciones. Esos rasgos corresponden a una mujer empoderada.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_50",
+    "curso": "Competencia Lectora",
+    "tema": "Recursos expresivos",
+    "contexto": "Depende del Texto N.º 4 del id BECA18_2024_SIMULACRO_02_46",
+    "contexto_img": "",
+    "pregunta": "En «Sus labios, un poquito abultados, parecían hechos del más rojo coral», ¿qué función cumple la expresión «parecían hechos del más rojo coral»?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Resaltar el color de los labios.",
+      "B) Comparar la forma de los labios con el coral.",
+      "C) Destacar el tamaño de los labios.",
+      "D) Realzar la sensualidad de los labios."
+    ],
+    "respuesta": "A) Resaltar el color de los labios.",
+    "resolucion": "La comparación con el coral más rojo enfatiza el color intenso de los labios, no su forma ni tamaño.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_51",
+    "curso": "Competencia Lectora",
+    "tema": "Comprensión literal",
+    "contexto": "Texto 5: Dulces sueños\n\n(1) ¿Reduce sus horas de sueño, sin considerar las consecuencias, cuando se encuentra en una situación de apuro tratando de cumplir con las responsabilidades escolares, laborales, familiares o las tareas del hogar? Al igual que muchas personas, es posible pensar que el sueño es simplemente un «tiempo muerto» durante el cual el cerebro se desconecta y el cuerpo descansa. Sin embargo, vale la pena reconsiderar esta idea.\n\n(2) Gracias a las investigaciones realizadas en las últimas décadas por el Instituto del Sueño con sede en Madrid, se sabe que el sueño tiene distintas etapas que progresan cíclicamente durante la noche en patrones predecibles. Las funciones del cerebro y el cuerpo se mantienen activas durante el sueño. Suceden diferentes cosas en cada etapa: algunas son necesarias para sentirnos descansados y con energía al día siguiente, mientras que otras ayudan en el aprendizaje y la formación de recuerdos.\n\n(3) No todas las personas duermen las mismas horas. La cantidad y calidad de sueño varían con la edad y dependen de factores como el estrés, la alimentación y la comodidad del lugar. La mayoría de adultos necesita entre 7 y 8 horas por noche; los recién nacidos, entre 16 y 18 horas al día; los niños preescolares, alrededor de 11 a 12 horas; y los niños y adolescentes en edad escolar, al menos 10 horas. No hay evidencia de que los adultos mayores puedan funcionar adecuadamente con menos sueño que los jóvenes, aunque pasan menos tiempo en la etapa profunda y reparadora y se despiertan con mayor facilidad.\n\n(4) No solo importa la cantidad de horas, sino también la calidad. Quienes experimentan un sueño interrumpido o de corta duración pueden no pasar suficiente tiempo en ciertas etapas esenciales.\n\n(5) Algunos alimentos ricos en melatonina ayudan a regular el sueño, como nueces, almendras, avena y plátano. En cambio, se recomienda eliminar excitantes como la cafeína o la teína y no sobrepasar los 20 mg, sobre todo en las últimas horas del día. «Son sustancias que aumentan el estado de hiperalerta, ya que producen hormonas que mantienen al cerebro despierto e inhiben el sueño», explica la doctora Radili Mateo, neurofisióloga de la Unidad de Trastornos del Sueño de HM Nou Delfos, en Barcelona.\n\nLa gráfica complementaria indica niveles aproximados: mate 10 mg, té verde 15 mg, té negro 30-45 mg, refresco de cola 50 mg, expreso 75 mg, bebida energética de 150 ml 80 mg, taza de café filtrado 120 mg y bebida energética de 500 ml 160 mg.\n\nFuente: adaptado del Departamento de Salud y Servicios Humanos de los EE. UU., publicación N.° 13-5800S, agosto de 2013.",
+    "contexto_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2024/simulacro-02/contexto-texto-05.jpg",
+    "pregunta": "Según el texto, ¿quiénes requieren más horas de sueño?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Los recién nacidos",
+      "B) Los adolescentes",
+      "C) Los adultos",
+      "D) Los adultos mayores"
+    ],
+    "respuesta": "A) Los recién nacidos",
+    "resolucion": "Los recién nacidos pueden dormir entre 16 y 18 horas al día, más que los demás grupos mencionados.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_52",
+    "curso": "Competencia Lectora",
+    "tema": "Idea principal",
+    "contexto": "Depende del Texto N.º 5 del id BECA18_2024_SIMULACRO_02_51",
+    "contexto_img": "",
+    "pregunta": "¿Cuál es la idea principal del tercer párrafo?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Las personas adaptan sus horas de sueño a sus diferentes necesidades.",
+      "B) La mayoría de adultos necesita entre 7 y 8 horas cada noche.",
+      "C) Las personas con más edad duermen menos y se despiertan con más facilidad.",
+      "D) La cantidad y calidad de sueño varían con la edad y dependen de muchos factores."
+    ],
+    "respuesta": "D) La cantidad y calidad de sueño varían con la edad y dependen de muchos factores.",
+    "resolucion": "La primera oración del párrafo presenta la idea general y las demás aportan ejemplos por edad y factores. Por eso D sintetiza todo el párrafo.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_53",
+    "curso": "Competencia Lectora",
+    "tema": "Inferencia",
+    "contexto": "Depende del Texto N.º 5 del id BECA18_2024_SIMULACRO_02_51",
+    "contexto_img": "",
+    "pregunta": "¿Qué se puede concluir a partir del quinto párrafo?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Para un sueño reparador debemos limitar productos ricos en melatonina.",
+      "B) Para un sueño reparador debemos estimular el cerebro con hormonas beneficiosas.",
+      "C) Para un sueño reparador debemos evitar productos con cafeína o teína.",
+      "D) Para un sueño reparador debemos consumir alimentos estimulantes del sistema nervioso."
+    ],
+    "respuesta": "C) Para un sueño reparador debemos evitar productos con cafeína o teína.",
+    "resolucion": "El párrafo recomienda eliminar excitantes como la cafeína y la teína porque mantienen al cerebro despierto e inhiben el sueño.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_54",
+    "curso": "Competencia Lectora",
+    "tema": "Uso de citas",
+    "contexto": "Depende del Texto N.º 5 del id BECA18_2024_SIMULACRO_02_51",
+    "contexto_img": "",
+    "pregunta": "¿Con qué finalidad se incluye la cita de la doctora Radili Mateo?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Sustentar el papel de las hormonas en la regulación del sueño.",
+      "B) Respaldar la explicación de los efectos negativos de la teína y la cafeína en el sueño.",
+      "C) Ejemplificar las consecuencias de consumir alimentos ricos en melatonina.",
+      "D) Oponerse a la idea de que existen sustancias que aumentan la hiperalerta."
+    ],
+    "respuesta": "B) Respaldar la explicación de los efectos negativos de la teína y la cafeína en el sueño.",
+    "resolucion": "La especialista explica que esas sustancias producen hiperalerta, mantienen despierto al cerebro e inhiben el sueño; así respalda la advertencia sobre cafeína y teína.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_55",
+    "curso": "Competencia Lectora",
+    "tema": "Aplicación de información",
+    "contexto": "Depende del Texto N.º 5 del id BECA18_2024_SIMULACRO_02_51",
+    "contexto_img": "",
+    "pregunta": "Antes de dormir, Gema tomó una lata de refresco de cola a las seis de la tarde. De acuerdo con el texto, ¿qué le pasará posiblemente?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Necesitará más horas de sueño.",
+      "B) Experimentará un sueño interrumpido.",
+      "C) Conciliará un sueño profundo y reparador.",
+      "D) Tendrá dificultad para conciliar el sueño."
+    ],
+    "respuesta": "D) Tendrá dificultad para conciliar el sueño.",
+    "resolucion": "El gráfico indica que el refresco de cola contiene unos 50 mg de cafeína, por encima del máximo recomendado de 20 mg en las últimas horas del día. La cafeína aumenta la hiperalerta y dificulta conciliar el sueño.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_56",
+    "curso": "Competencia Lectora",
+    "tema": "Comprensión literal",
+    "contexto": "Texto 6: Cómo prepararse para un examen: estos son los mejores consejos para tener éxito\n\nEstudiar para las pruebas puede ser difícil y, a veces, ni siquiera sabemos por dónde empezar. Existen estrategias para mejorar la memoria, la concentración e incluso el estado de ánimo. Se reúnen investigaciones de neurocientíficos, psicólogos y nutricionistas, así como recomendaciones de profesores, maestros y estudiantes, para ofrecer consejos que ayuden a tener éxito en los exámenes.\n\na. Consume alimentos para el cerebro. Comienza el día con carbohidratos que liberen energía lentamente, como pan integral o cereales bajos en azúcar. Los alimentos con antioxidantes y antocianinas pueden mejorar el estado de ánimo y la memoria a corto plazo.\n\nb. Empieza antes. Estudia mucho antes de la fecha del examen para sentirte más tranquilo y evitar terminar abrumado. Intenta estudiar por la mañana, cuando el cerebro está descansado y fresco.\n\nc. Planifica. Hacer un plan de estudio ahorra tiempo y ayuda a hacer seguimiento del progreso.\n\nd. Autoevalúate. Según psicólogos y neurocientíficos, autoevaluarse puede ser una de las formas más efectivas de mejorar la capacidad de recordar información. Se puede hacer mediante resúmenes o poniéndose a prueba al final de una sesión.\n\ne. Sé inteligente y guarda ese teléfono. Los celulares tienen ventajas, pero no cuando estás estudiando. Las redes sociales y aplicaciones de chat llevan a la distracción; no hay que engañarse pensando que se puede dejar el teléfono sobre la mesa sin tocarlo.\n\nf. Duerme. Es necesario dormir bien antes del examen y durante todo el período de estudio. Dormir a una hora razonable permite levantarse temprano, descansado y listo para seguir el plan. No hay que pasar toda la noche despierto y se debe evitar que el perfeccionismo interfiera con el descanso.\n\nEn conclusión, existe una gran cantidad de consejos de psicólogos, neurocientíficos y profesionales en nutrición para aprender mejor. Conviene aprovecharlos al máximo para mejorar la memoria, el estado de ánimo y la concentración.\n\nFuente: adaptado de Ontiveros, E. (27 de mayo de 2019), BBC News Mundo.",
+    "contexto_img": "",
+    "pregunta": "¿Cuál recomendación ayuda a hacer seguimiento del progreso?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Planifica",
+      "B) Autoevalúate",
+      "C) Empieza antes",
+      "D) Sé inteligente"
+    ],
+    "respuesta": "A) Planifica",
+    "resolucion": "La recomendación «Planifica» señala expresamente que un plan de estudio ayuda a hacer seguimiento del progreso.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_57",
+    "curso": "Competencia Lectora",
+    "tema": "Idea principal",
+    "contexto": "Depende del Texto N.º 6 del id BECA18_2024_SIMULACRO_02_56",
+    "contexto_img": "",
+    "pregunta": "¿Cuál es la idea principal del texto?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) El éxito depende principalmente de una buena alimentación.",
+      "B) Los jóvenes deben estudiar por la mañana cuando su cerebro está descansado.",
+      "C) Afrontar un examen con éxito implica seguir organizadamente una serie de recomendaciones.",
+      "D) Las únicas recomendaciones necesarias son la planificación y la autoevaluación."
+    ],
+    "respuesta": "C) Afrontar un examen con éxito implica seguir organizadamente una serie de recomendaciones.",
+    "resolucion": "El texto reúne seis recomendaciones complementarias para preparar eficazmente un examen. La alternativa C las engloba sin reducirlas a un solo aspecto.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_58",
+    "curso": "Competencia Lectora",
+    "tema": "Propósito comunicativo",
+    "contexto": "Depende del Texto N.º 6 del id BECA18_2024_SIMULACRO_02_56",
+    "contexto_img": "",
+    "pregunta": "¿Cuál es el propósito del texto?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Explicar la importancia de estudiar a conciencia.",
+      "B) Ofrecer recomendaciones para afrontar eficazmente un examen.",
+      "C) Convencer de abandonar las redes sociales.",
+      "D) Describir las actividades que se realizan durante un examen."
+    ],
+    "respuesta": "B) Ofrecer recomendaciones para afrontar eficazmente un examen.",
+    "resolucion": "Desde el título y la introducción se anuncia la presentación de consejos para tener éxito en los exámenes; ese es el propósito global.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_59",
+    "curso": "Competencia Lectora",
+    "tema": "Inferencia",
+    "contexto": "Depende del Texto N.º 6 del id BECA18_2024_SIMULACRO_02_56",
+    "contexto_img": "",
+    "pregunta": "¿Qué se puede concluir de la quinta recomendación?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Los estudiantes inteligentes no utilizan celulares.",
+      "B) Los celulares no tienen ningún beneficio para los estudiantes.",
+      "C) Los celulares y las redes sociales ocasionan necesariamente bajos niveles académicos.",
+      "D) Los estudiantes deben evitar las distracciones del celular mientras estudian."
+    ],
+    "respuesta": "D) Los estudiantes deben evitar las distracciones del celular mientras estudian.",
+    "resolucion": "La recomendación reconoce que el celular tiene ventajas, pero advierte que durante el estudio las redes y chats distraen. La conclusión adecuada es apartar esas distracciones mientras se estudia.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2024_SIMULACRO_02_60",
+    "curso": "Competencia Lectora",
+    "tema": "Coherencia textual",
+    "contexto": "Depende del Texto N.º 6 del id BECA18_2024_SIMULACRO_02_56",
+    "contexto_img": "",
+    "pregunta": "Jorge considera que el último párrafo debería eliminarse porque no se relaciona con el tema. ¿Estás de acuerdo?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Sí, porque se desvía del tema central de las recomendaciones.",
+      "B) No, porque concluye el tema y fortalece la idea principal desarrollada en el primer párrafo.",
+      "C) Sí, porque introduce información nueva y diferente.",
+      "D) No, porque destaca únicamente la importancia de la memoria, el ánimo y la concentración."
+    ],
+    "respuesta": "B) No, porque concluye el tema y fortalece la idea principal desarrollada en el primer párrafo.",
+    "resolucion": "El último párrafo retoma los consejos y sus fuentes, invita a aprovecharlos y vuelve a los beneficios anunciados en la introducción. Por tanto, funciona como conclusión y refuerza la idea principal.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  }
+]
