@@ -1,0 +1,1203 @@
+[
+  {
+    "id": "BECA18_2023_SIMULACRO_03_1",
+    "curso": "Competencias Matemáticas",
+    "tema": "Mínimo común múltiplo",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Samuel cuenta las hojas de un libro y observa que, al agruparlas de 12 en 12, de 18 en 18 y de 20 en 20, siempre sobran 7 hojas. Si el libro tiene entre 500 y 1200 páginas, ¿cuántas hojas tiene como máximo?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 277",
+      "B) 367",
+      "C) 547",
+      "D) 727"
+    ],
+    "respuesta": "C) 547",
+    "resolucion": "El número de hojas deja residuo 7 al dividirse entre 12, 18 y 20. El mínimo común múltiplo es 180, así que las cantidades posibles son de la forma 180k + 7. Como las hojas son la mitad de las páginas, deben estar entre 250 y 600; el mayor valor posible es 547.",
+    "resolucion_latex": "$$\\operatorname{mcm}(12,18,20)=180,\\qquad H=180k+7,\\qquad H_{\\max}=3(180)+7=547$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_2",
+    "curso": "Competencias Matemáticas",
+    "tema": "Periodicidad",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Dos señales luminosas se apagaron juntas en un determinado instante. Una permanece 10 segundos apagada y 34 segundos encendida, mientras que la otra permanece 10 segundos apagada y 45 segundos encendida. ¿Después de cuántos segundos ambas señales se apagan juntas nuevamente por segunda vez?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 180",
+      "B) 220",
+      "C) 240",
+      "D) 210"
+    ],
+    "respuesta": "B) 220",
+    "resolucion": "Los ciclos completos duran 44 y 55 segundos. El primer instante positivo en el que comienzan juntas otra fase de apagado es el mínimo común múltiplo de ambos periodos: 220 segundos.",
+    "resolucion_latex": "$$T_1=10+34=44,\\quad T_2=10+45=55,\\quad \\operatorname{mcm}(44,55)=220$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_3",
+    "curso": "Competencias Matemáticas",
+    "tema": "Máximo común divisor",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Tres rollos de alambre de acero, de igual grosor, miden 720 m, 280 m y 216 m. Se quieren dividir, sin desperdiciar material, en trozos de igual longitud. ¿Cuántos trozos se obtendrán como mínimo?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 304",
+      "B) 142",
+      "C) 152",
+      "D) 167"
+    ],
+    "respuesta": "C) 152",
+    "resolucion": "Para obtener el menor número de trozos, cada uno debe tener la mayor longitud que divida exactamente a los tres rollos. Esa longitud es 8 m. Al dividir la longitud total entre 8 se obtienen 152 trozos.",
+    "resolucion_latex": "$$\\gcd(720,280,216)=8,\\qquad \\frac{720+280+216}{8}=152$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_4",
+    "curso": "Competencias Matemáticas",
+    "tema": "Razones y proporciones",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Un comerciante distribuye lapiceros y borradores en cinco cajas con 9, 8, 12, 23 y 27 unidades, respectivamente. Vendió todo el contenido de una caja y, de lo que quedó, la cantidad de lapiceros es el cuádruple de la cantidad de borradores. ¿Cuántos lapiceros le quedaron?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 70",
+      "B) 60",
+      "C) 48",
+      "D) 56"
+    ],
+    "respuesta": "D) 56",
+    "resolucion": "En total hay 79 unidades. Al vender la caja de 9 quedan 70. Como los lapiceros y borradores están en razón 4 a 1, las 70 unidades representan 5 partes iguales; 4 de esas partes son lapiceros.",
+    "resolucion_latex": "$$79-9=70,\\qquad L=\\frac45(70)=56$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_5",
+    "curso": "Competencias Matemáticas",
+    "tema": "Operaciones con dinero",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Tenía S/ 3000, compré un monitor y me quedaron S/ 1960. Luego recibí S/ 840, compré un regalo y me quedaron S/ 2200. ¿Cuánto suma lo gastado en el monitor y el regalo?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) S/ 1640",
+      "B) S/ 1540",
+      "C) S/ 1840",
+      "D) S/ 1340"
+    ],
+    "respuesta": "A) S/ 1640",
+    "resolucion": "El monitor costó S/ 1040. Después de recibir S/ 840 se tenían S/ 2800, de modo que el regalo costó S/ 600. La suma gastada es S/ 1640.",
+    "resolucion_latex": "$$(3000-1960)+(1960+840-2200)=1040+600=1640$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_6",
+    "curso": "Competencias Matemáticas",
+    "tema": "Porcentajes",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "El sueldo semanal de un médico es 25 % mayor que el de una enfermera y 50 % mayor que el de un técnico en enfermería. Si la suma de los tres sueldos es S/ 3700, ¿cuánto gana semanalmente el técnico?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) S/ 1000",
+      "B) S/ 1200",
+      "C) S/ 900",
+      "D) S/ 1500"
+    ],
+    "respuesta": "A) S/ 1000",
+    "resolucion": "Sea T el sueldo del técnico. El médico gana 1,5T. Como ese sueldo también es 1,25 veces el de la enfermera, la enfermera gana 1,2T. Al sumar los tres sueldos se obtiene 3,7T = 3700.",
+    "resolucion_latex": "$$M=1.5T,\\quad E=\\frac{M}{1.25}=1.2T,\\quad 1.5T+1.2T+T=3700\\Rightarrow T=1000$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_7",
+    "curso": "Competencias Matemáticas",
+    "tema": "Mínimo común múltiplo",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Se desea diseñar una caja cúbica de volumen mínimo para almacenar cajitas de 20 cm de largo, 10 cm de ancho y 8 cm de alto. Cada cajita contiene 50 mascarillas. ¿Cuántas mascarillas caben en la caja cúbica sin que sobre espacio?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 2000",
+      "B) 250",
+      "C) 1000",
+      "D) 2500"
+    ],
+    "respuesta": "A) 2000",
+    "resolucion": "La arista mínima del cubo debe ser múltiplo de 20, 10 y 8; por ello mide 40 cm. El cociente entre los volúmenes indica que caben 40 cajitas, cada una con 50 mascarillas.",
+    "resolucion_latex": "$$a=\\operatorname{mcm}(20,10,8)=40,\\quad \\frac{40^3}{20\\cdot10\\cdot8}=40,\\quad 40\\cdot50=2000$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_8",
+    "curso": "Competencias Matemáticas",
+    "tema": "Probabilidad",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Una coneja está preñada de tres conejitos. Si cada cría tiene igual probabilidad de ser macho o hembra, ¿cuál es la probabilidad de que nazcan por lo menos dos machos?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\(\\frac34\\)",
+      "B) \\(\\frac38\\)",
+      "C) \\(\\frac12\\)",
+      "D) \\(\\frac14\\)"
+    ],
+    "respuesta": "C) \\(\\frac12\\)",
+    "resolucion": "Hay ocho resultados equiprobables para el sexo de tres crías. Son favorables los tres casos con exactamente dos machos y el caso con tres machos: cuatro de ocho.",
+    "resolucion_latex": "$$P(X\\ge2)=\\binom32\\left(\\frac12\\right)^3+\\binom33\\left(\\frac12\\right)^3=\\frac48=\\frac12$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_9",
+    "curso": "Competencias Matemáticas",
+    "tema": "Probabilidad total",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "En un curso hay 40 matriculados: 30 asisten a clases y 10 no asisten. Aprueban el 70 % de quienes asisten y el 20 % de quienes no asisten. Si se elige un alumno al azar, ¿cuál es la probabilidad de que haya aprobado?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 0,575",
+      "B) 0,325",
+      "C) 0,550",
+      "D) 0,900"
+    ],
+    "respuesta": "A) 0,575",
+    "resolucion": "Se aplica la probabilidad total, ponderando la aprobación de cada grupo por su proporción dentro del curso.",
+    "resolucion_latex": "$$P(A)=\\frac{30}{40}(0.70)+\\frac{10}{40}(0.20)=0.525+0.05=0.575$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_10",
+    "curso": "Competencias Matemáticas",
+    "tema": "Porcentajes",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "De un grupo de postulantes, el 40 % no aprobó el examen de aptitud. Quienes sí aprobaron fueron divididos en dos grupos iguales para la entrevista: aprobó el 35 % del primer grupo y el 45 % del segundo. Respecto del total inicial, ¿qué porcentaje aprobó la entrevista?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 16 %",
+      "B) 23 %",
+      "C) 24 %",
+      "D) 26 %"
+    ],
+    "respuesta": "C) 24 %",
+    "resolucion": "El 60 % llegó a la entrevista y se dividió en dos grupos de 30 % del total. Se suman los aprobados en cada grupo.",
+    "resolucion_latex": "$$0.30(0.35)+0.30(0.45)=0.105+0.135=0.24=24\\%$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_11",
+    "curso": "Competencias Matemáticas",
+    "tema": "División de polinomios",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Dados los polinomios \\(p(x)=x^6+2x^4+2x^2+1\\) y \\(q(x)=x^4+x^3+2x^2+x+1\\), calcula el cociente de \\(p(x)\\) entre \\(q(x)\\).",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\(x^2+x+1\\)",
+      "B) \\(x^2-x-1\\)",
+      "C) \\(x^2+x-1\\)",
+      "D) \\(x^2-x+1\\)"
+    ],
+    "respuesta": "D) \\(x^2-x+1\\)",
+    "resolucion": "Al multiplicar q(x) por x² − x + 1 se recupera exactamente p(x), por lo que la división es exacta y ese factor es el cociente.",
+    "resolucion_latex": "$$q(x)(x^2-x+1)=x^6+2x^4+2x^2+1=p(x)$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_12",
+    "curso": "Competencias Matemáticas",
+    "tema": "Ecuaciones lineales",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "En un juego de ajedrez, un jugador recibe S/ 10 por cada victoria y paga S/ 4 por cada derrota. Después de 12 partidas tiene una ganancia neta de S/ 64. ¿Cuántas partidas ganó?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 6",
+      "B) 8",
+      "C) 4",
+      "D) 2"
+    ],
+    "respuesta": "B) 8",
+    "resolucion": "Si ganó g partidas, perdió 12 − g. La ganancia neta permite plantear una ecuación lineal.",
+    "resolucion_latex": "$$10g-4(12-g)=64\\Rightarrow14g=112\\Rightarrow g=8$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_13",
+    "curso": "Competencias Matemáticas",
+    "tema": "Conversión de unidades",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Oxana tiene un pendrive de 32 GB. Los archivos guardados tienen tamaños que varían entre 50 MB y 70 MB, considerando que 1 GB = 1024 MB. ¿Cuál es el número máximo de archivos que potencialmente puede salvar?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 655",
+      "B) 468",
+      "C) 474",
+      "D) 642"
+    ],
+    "respuesta": "A) 655",
+    "resolucion": "Para maximizar el número de archivos se toma el tamaño mínimo, 50 MB. La capacidad total es 32 768 MB y caben 655 archivos completos.",
+    "resolucion_latex": "$$32\\cdot1024=32768\\text{ MB},\\qquad \\left\\lfloor\\frac{32768}{50}\\right\\rfloor=655$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_14",
+    "curso": "Competencias Matemáticas",
+    "tema": "Radicales",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Simplifica la expresión \\(E=\\frac{\\sqrt[x]{3^x+5^{-x}}+\\sqrt[x]{3^{-x}+5^x}}{\\sqrt[x]{15^x+1}}\\).",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\(\\frac{16}{15}\\)",
+      "B) \\(\\frac45\\)",
+      "C) \\(\\frac{2}{15}\\)",
+      "D) \\(\\frac{8}{15}\\)"
+    ],
+    "respuesta": "D) \\(\\frac{8}{15}\\)",
+    "resolucion": "Cada radicando del numerador puede expresarse usando el factor común 15^x + 1. Al dividir por el denominador, los términos se reducen a 1/5 y 1/3.",
+    "resolucion_latex": "$$\\sqrt[x]{3^x+5^{-x}}=\\frac{\\sqrt[x]{15^x+1}}5,\\quad \\sqrt[x]{3^{-x}+5^x}=\\frac{\\sqrt[x]{15^x+1}}3\\Rightarrow E=\\frac15+\\frac13=\\frac8{15}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_15",
+    "curso": "Competencias Matemáticas",
+    "tema": "Funciones cuadráticas",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "La oferta de un artículo está dada por \\(f(x)=x^2-bx+10\\), para \\(x\\ge3\\). Se sabe que \\(f(5)=\\alpha\\) y \\(f(10)=10\\alpha\\). Si el precio fuera S/ 35, ¿cuántas unidades estarían dispuestos a ofrecer los productores?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 631",
+      "B) 847",
+      "C) 1025",
+      "D) 1015"
+    ],
+    "respuesta": "C) 1025",
+    "resolucion": "Se sustituyen 5 y 10 en la función y se usa la relación de la tabla. Esto permite hallar b = 6; luego se evalúa f(35).",
+    "resolucion_latex": "$$100-10b+10=10(25-5b+10)\\Rightarrow b=6,\\qquad f(35)=35^2-6(35)+10=1025$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_16",
+    "curso": "Competencias Matemáticas",
+    "tema": "Inecuaciones",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Una empresa debe distribuir semanalmente menos de 427 protectores faciales. Ya distribuyó 90 y la cantidad que falta distribuir es mayor que tres quintos del total más 78. ¿Cuál es la cantidad mínima total de protectores que se distribuirán en la semana?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 421",
+      "B) 426",
+      "C) 424",
+      "D) 420"
+    ],
+    "respuesta": "A) 421",
+    "resolucion": "Sea x el total semanal. La cantidad pendiente es x − 90. Al resolver la desigualdad y combinarla con x < 427, el menor entero posible es 421.",
+    "resolucion_latex": "$$x-90>\\frac35x+78\\Rightarrow\\frac25x>168\\Rightarrow x>420\\Rightarrow x_{\\min}=421$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_17",
+    "curso": "Competencias Matemáticas",
+    "tema": "Inecuaciones",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Un comerciante tiene 3000 unidades de un producto que hoy cuesta $ 5 y cuyo precio aumentará $ 0,50 el próximo mes. Desea que el ingreso total no sea menor que $ 15 900. ¿Cuál es el ingreso máximo que puede obtener por la venta al precio actual?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) $ 5995",
+      "B) $ 6000",
+      "C) $ 6005",
+      "D) $ 4000"
+    ],
+    "respuesta": "B) $ 6000",
+    "resolucion": "Si vende x unidades ahora, las restantes se venderán a $ 5,50. La condición exige que x no exceda 1200; por tanto, el mayor ingreso posible al precio actual es $ 6000.",
+    "resolucion_latex": "$$5x+5.5(3000-x)\\ge15900\\Rightarrow x\\le1200,\\qquad 5(1200)=6000$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_18",
+    "curso": "Competencias Matemáticas",
+    "tema": "Ecuaciones racionales",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Si \\(x\\) es solución de \\(\\frac{x-2}{x+2}+\\frac{x+2}{x-2}=3\\), calcula \\(x^4-19x^2+18\\).",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) −72",
+      "B) 38",
+      "C) −42",
+      "D) 60"
+    ],
+    "respuesta": "B) 38",
+    "resolucion": "Al reducir la ecuación se obtiene x² = 20. Se reemplaza este valor directamente en la expresión solicitada.",
+    "resolucion_latex": "$$\\frac{(x-2)^2+(x+2)^2}{x^2-4}=3\\Rightarrow2x^2+8=3x^2-12\\Rightarrow x^2=20,\\qquad x^4-19x^2+18=400-380+18=38$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_19",
+    "curso": "Competencias Matemáticas",
+    "tema": "Modelación algebraica",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Una lámina rectangular tiene un largo 45 cm mayor que su ancho. Al cortar cuadrados de 15 cm en cada esquina y doblar los bordes se forma una caja sin tapa de 26 250 cm³. Calcula el área de la lámina.",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 5500 cm²",
+      "B) 3400 cm²",
+      "C) 4050 cm²",
+      "D) 6300 cm²"
+    ],
+    "respuesta": "A) 5500 cm²",
+    "resolucion": "Sea w el ancho de la lámina; su largo es w + 45. La base de la caja mide (w − 30) por (w + 15) y su altura es 15. La solución positiva es w = 55, por lo que el largo es 100.",
+    "resolucion_latex": "$$15(w-30)(w+15)=26250\\Rightarrow(w-30)(w+15)=1750\\Rightarrow w=55,\\qquad A=55(55+45)=5500\\text{ cm}^2$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_20",
+    "curso": "Competencias Matemáticas",
+    "tema": "Sistemas de ecuaciones",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "En el diagrama, los dos platos de cada balanza están en equilibrio. Si figuras iguales tienen el mismo peso y cada cilindro pesa 1 kg, ¿cuántos cubos juntos pesan lo mismo que una esfera?",
+    "pregunta_b64": "",
+    "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2023/simulacro-03/pregunta-20.jpg",
+    "opciones": [
+      "A) 8",
+      "B) 3",
+      "C) 7",
+      "D) 2"
+    ],
+    "respuesta": "A) 8",
+    "resolucion": "Sea u el peso de un cubo y s el de una esfera. Las balanzas dan 2 = 2u + s y 3 + u = 2s. Al resolver, u = 0,2 y s = 1,6; por ello una esfera pesa lo mismo que ocho cubos.",
+    "resolucion_latex": "$$2=2u+s,\\quad3+u=2s\\Rightarrow u=\\frac15,\\ s=\\frac85\\Rightarrow\\frac{s}{u}=8$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_21",
+    "curso": "Competencias Matemáticas",
+    "tema": "Volumen de cilindros",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Sofía preparó una torta cilíndrica de 30 cm de diámetro y 10 cm de altura, dividida en 20 porciones iguales. Ella y sus 15 invitados comieron una porción cada uno. ¿Cuál es el volumen de la torta sobrante?",
+    "pregunta_b64": "",
+    "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2023/simulacro-03/pregunta-21.jpg",
+    "opciones": [
+      "A) \\(600\\pi\\text{ cm}^3\\)",
+      "B) \\(562{,}5\\pi\\text{ cm}^3\\)",
+      "C) \\(500\\pi\\text{ cm}^3\\)",
+      "D) \\(450\\pi\\text{ cm}^3\\)"
+    ],
+    "respuesta": "D) \\(450\\pi\\text{ cm}^3\\)",
+    "resolucion": "El volumen total es 2250π cm³. Se consumieron 16 de 20 porciones, así que quedó la quinta parte del volumen.",
+    "resolucion_latex": "$$V=\\pi(15)^2(10)=2250\\pi,\\qquad V_{\\text{sobrante}}=\\frac4{20}(2250\\pi)=450\\pi\\text{ cm}^3$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_22",
+    "curso": "Competencias Matemáticas",
+    "tema": "Áreas de figuras planas",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "En la figura, ABC es un triángulo rectángulo con un cateto de 16 y una hipotenusa de 20. Si L es el lado del cuadrado inscrito, calcula la suma de las áreas de los dos triángulos interiores.",
+    "pregunta_b64": "",
+    "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2023/simulacro-03/pregunta-22.jpg",
+    "opciones": [
+      "A) \\(\\frac{2160}{49}\\)",
+      "B) 48",
+      "C) \\(\\frac{2400}{49}\\)",
+      "D) \\(\\frac{2592}{49}\\)"
+    ],
+    "respuesta": "C) \\(\\frac{2400}{49}\\)",
+    "resolucion": "El otro cateto mide 12. El lado del cuadrado inscrito en el ángulo recto es ab/(a+b) = 48/7. La suma de los dos triángulos es el área del triángulo grande menos el área del cuadrado.",
+    "resolucion_latex": "$$b=\\sqrt{20^2-16^2}=12,\\quad L=\\frac{12\\cdot16}{12+16}=\\frac{48}{7},\\qquad A=\\frac{12\\cdot16}{2}-\\left(\\frac{48}{7}\\right)^2=\\frac{2400}{49}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_23",
+    "curso": "Competencias Matemáticas",
+    "tema": "Teorema de Pitágoras",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "En un triángulo rectángulo los catetos miden \\(2x-1\\) y \\(2(x+1)\\), y la hipotenusa mide \\(3x\\). Halla el área del triángulo.",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 54",
+      "B) 35",
+      "C) 77",
+      "D) 43"
+    ],
+    "respuesta": "A) 54",
+    "resolucion": "Se aplica el teorema de Pitágoras y se toma la solución positiva x = 5. Los catetos miden 9 y 12, por lo que el área es 54.",
+    "resolucion_latex": "$$(2x-1)^2+[2(x+1)]^2=(3x)^2\\Rightarrow x=5,\\qquad A=\\frac{9\\cdot12}{2}=54$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_24",
+    "curso": "Competencias Matemáticas",
+    "tema": "Relaciones métricas",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "En el triángulo rectángulo ABC de la figura, la altura desde A divide la hipotenusa en \\(BD=2\\) y \\(DC=6\\). Calcula \\(AC^2-AB^2\\).",
+    "pregunta_b64": "",
+    "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2023/simulacro-03/pregunta-24.jpg",
+    "opciones": [
+      "A) 32",
+      "B) 16",
+      "C) 40",
+      "D) 18"
+    ],
+    "respuesta": "A) 32",
+    "resolucion": "La hipotenusa mide 8. Por las relaciones métricas, cada cateto al cuadrado es el producto de la hipotenusa por su proyección sobre ella.",
+    "resolucion_latex": "$$AB^2=BD\\cdot BC=2\\cdot8=16,\\quad AC^2=DC\\cdot BC=6\\cdot8=48,\\quad AC^2-AB^2=32$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_25",
+    "curso": "Competencias Matemáticas",
+    "tema": "Perímetros y áreas",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "La figura representa una cochera rodeada por un jardín. ABCD es un cuadrado y el jardín sombreado tiene 2 m de ancho y 130 m² de área. Halla el perímetro del jardín.",
+    "pregunta_b64": "",
+    "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2023/simulacro-03/pregunta-25.jpg",
+    "opciones": [
+      "A) 122 m",
+      "B) 134 m",
+      "C) 92 m",
+      "D) 115 m"
+    ],
+    "respuesta": "B) 134 m",
+    "resolucion": "Al comparar el área del cuadrado exterior con el rectángulo interior se obtiene un lado exterior de 23 m. En el contorno en forma de U, el borde exterior mide 3x + 4 y el borde interior mide 3x − 8; su suma es 134 m.",
+    "resolucion_latex": "$$x^2-(x-4)(x-2)=130\\Rightarrow6x-8=130\\Rightarrow x=23,\\qquad P=(3x+4)+(3x-8)=6x-4=134\\text{ m}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_26",
+    "curso": "Competencias Matemáticas",
+    "tema": "Circunferencias",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "En la figura hay dos círculos concéntricos de centro O y \\(\\overline{AB}\\) es una cuerda del círculo mayor tangente al menor. Si el área de la región sombreada es \\(64\\pi\\text{ m}^2\\), halla AB.",
+    "pregunta_b64": "",
+    "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2023/simulacro-03/pregunta-26.jpg",
+    "opciones": [
+      "A) 16 m",
+      "B) 14 m",
+      "C) 8 m",
+      "D) \\(8\\sqrt2\\text{ m}\\)"
+    ],
+    "respuesta": "A) 16 m",
+    "resolucion": "Si R y r son los radios, el área de la corona da R² − r² = 64. La perpendicular desde el centro a la cuerda la biseca; por Pitágoras, la mitad de AB mide 8.",
+    "resolucion_latex": "$$\\pi(R^2-r^2)=64\\pi\\Rightarrow R^2-r^2=64,\\qquad \\frac{AB}{2}=\\sqrt{R^2-r^2}=8\\Rightarrow AB=16\\text{ m}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_27",
+    "curso": "Competencias Matemáticas",
+    "tema": "Geometría analítica",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "El lado del cuadrado ABCD mide 4 cm. M es el punto medio de BC, N es el punto medio de AM y P es el punto medio de NC. Calcula el área del cuadrilátero ANPD.",
+    "pregunta_b64": "",
+    "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2023/simulacro-03/pregunta-27.jpg",
+    "opciones": [
+      "A) 7 cm²",
+      "B) 8 cm²",
+      "C) 9 cm²",
+      "D) 6 cm²"
+    ],
+    "respuesta": "A) 7 cm²",
+    "resolucion": "Se ubica el cuadrado en el plano: A(0,0), B(4,0), C(4,4), D(0,4). Así, M(4,2), N(2,1) y P(3,2,5). La fórmula del polígono para A-N-P-D da un área de 7 cm².",
+    "resolucion_latex": "$$A(0,0),\\ N(2,1),\\ P\\left(3,\\frac52\\right),\\ D(0,4)\\Rightarrow \\text{Área}=\\frac12|17-3|=7\\text{ cm}^2$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_28",
+    "curso": "Competencias Matemáticas",
+    "tema": "Ángulos y bisectrices",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "En la figura, \\(\\ell_1\\) y \\(\\ell_2\\) son paralelas; BC y BA son bisectrices de \\(\\angle NCQ\\) y \\(\\angle MAQ\\), respectivamente. Si \\(m\\angle NBC=40^\\circ\\), halla \\(m\\angle MBA\\).",
+    "pregunta_b64": "",
+    "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2023/simulacro-03/pregunta-28.jpg",
+    "opciones": [
+      "A) 50°",
+      "B) 40°",
+      "C) 95°",
+      "D) 100°"
+    ],
+    "respuesta": "C) 95°",
+    "resolucion": "El paralelismo permite trasladar los ángulos formados por las transversales. Al usar que BC y BA dividen en dos partes iguales los ángulos señalados y que ∠NBC = 40°, la persecución angular determina ∠MBA = 95°.",
+    "resolucion_latex": "$$m\\angle MBA=95^\\circ$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_29",
+    "curso": "Competencias Matemáticas",
+    "tema": "Relaciones métricas",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "En un triángulo rectángulo, la altura relativa a la hipotenusa la divide en segmentos de 4 cm y 9 cm. Calcula el área del triángulo.",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 39 cm²",
+      "B) 52 cm²",
+      "C) 42 cm²",
+      "D) 45 cm²"
+    ],
+    "respuesta": "A) 39 cm²",
+    "resolucion": "La hipotenusa mide 13 y la altura es la media geométrica de los dos segmentos, es decir, 6. El área es la mitad del producto de la hipotenusa por la altura.",
+    "resolucion_latex": "$$c=4+9=13,\\quad h=\\sqrt{4\\cdot9}=6,\\quad A=\\frac{13\\cdot6}{2}=39\\text{ cm}^2$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_30",
+    "curso": "Competencias Matemáticas",
+    "tema": "Medianas y ángulos",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "En el triángulo ABC de la figura se traza la mediana BM. Halla x.",
+    "pregunta_b64": "",
+    "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2023/simulacro-03/pregunta-30.jpg",
+    "opciones": [
+      "A) 25°",
+      "B) 30°",
+      "C) 15°",
+      "D) 10°"
+    ],
+    "respuesta": "C) 15°",
+    "resolucion": "De la figura se obtiene α + x = 45°. Como BM es mediana, AM = MC; al comparar los dos triángulos formados y aplicar la ley de senos resulta α = 30°. Por tanto, x = 15°.",
+    "resolucion_latex": "$$\\alpha+x=45^\\circ,\\qquad \\frac{\\sin x}{\\sin\\alpha}=\\frac{\\sin\\alpha}{\\sin(135^\\circ-\\alpha)}\\Rightarrow\\alpha=30^\\circ\\Rightarrow x=15^\\circ$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_31",
+    "curso": "Competencia Lectora",
+    "tema": "Comprensión lectora",
+    "contexto": "TEXTO 1\n\nEl último informe elaborado por Oceana Perú y ProDelphinus, organizaciones dedicadas al cuidado y protección de los océanos y de la vida marina, evidencia el fraude y la sustitución en la venta de pescados a los consumidores. Se identificó que en 75 puntos de venta de Lima, Chiclayo y Piura —entre mercados distritales, supermercados y restaurantes— se vendió, por ejemplo, perico como si fuera corvina o lisa en lugar de lenguado, cobrando el precio de la especie ofrecida. Este fraude por sustitución en la costa peruana alcanzó el 72 %. La situación afecta la capacidad adquisitiva de los consumidores, pues pagan un precio que no corresponde al producto. Por ejemplo, un kilogramo vendido como lenguado puede costar S/ 135, aunque en realidad sea lisa, cuyo kilogramo cuesta S/ 5.\n\nProDelphinus indica que el problema impacta en la economía del consumidor y también atenta contra la sostenibilidad del mar, pues permitiría el lavado de la pesca ilegal. El estudio concluyó que los mercados distritales y los restaurantes presentan mayor sustitución, especialmente al comprar filetes, porque resulta más difícil diferenciar las especies en ese estado, salvo algunas como el salmón y la trucha, que tienen un color particular. De 159 muestras de platos de restaurantes, 118 no contenían el pescado indicado en la carta; las cevicherías fueron los establecimientos con mayor sustitución.\n\nLa infografía adjunta presenta los porcentajes de sustitución en ceviche y tiradito, las diferencias entre el precio cobrado y el precio real de distintas especies, y los resultados obtenidos en Piura, Chiclayo y Lima.\n\nAdaptado de La República, 26 de diciembre de 2019.",
+    "contexto_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/beca18/2023/simulacro-03/contexto-texto-01.jpg",
+    "pregunta": "Según el texto, la diferencia entre el precio pagado por kilogramo entre el pescado real y el sustituido",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) evidencia un aprovechamiento de los pescadores.",
+      "B) reditúa al Estado con mayores impuestos.",
+      "C) afecta negativamente la economía del consumidor.",
+      "D) genera la necesidad de un control de precios."
+    ],
+    "respuesta": "C) afecta negativamente la economía del consumidor.",
+    "resolucion": "El texto afirma expresamente que el fraude afecta la capacidad adquisitiva: el consumidor paga el precio de una especie más cara, pero recibe otra de menor valor.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_32",
+    "curso": "Competencia Lectora",
+    "tema": "Inferencia",
+    "contexto": "Depende del Texto N.º 1 del id BECA18_2023_SIMULACRO_03_31",
+    "contexto_img": "",
+    "pregunta": "De acuerdo con la investigación, si el salmón y la trucha no tuvieran un color particular,",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) el precio de ambos, cortados y fileteados, se mantendría invariable.",
+      "B) se tendría que pagar, para ambos, el precio real que cuesta obtenerlos.",
+      "C) el informe de Oceana Perú y ProDelphinus debería variar totalmente.",
+      "D) probablemente podrían ser sustituidos por un pescado barato."
+    ],
+    "respuesta": "D) probablemente podrían ser sustituidos por un pescado barato.",
+    "resolucion": "El color particular permite reconocer esas especies aun cuando se venden como filetes. Sin ese rasgo distintivo, sería más fácil reemplazarlas por especies baratas sin que el consumidor lo advierta.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_33",
+    "curso": "Competencia Lectora",
+    "tema": "Lectura de gráficos",
+    "contexto": "Depende del Texto N.º 1 del id BECA18_2023_SIMULACRO_03_31",
+    "contexto_img": "",
+    "pregunta": "A partir de la gráfica titulada «Sustitución de pescado», se identifica que",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) el público consumidor es engañado en todas las cevicherías, porque paga por un producto que no es el solicitado.",
+      "B) la preparación del tiradito y del ceviche con pescados reales no supera el 30 % de las muestras examinadas, respectivamente.",
+      "C) el pescado sustituido adquiere importancia en los platos de las cevicherías por su bajo costo.",
+      "D) la crisis de las cevicherías está relacionada con los insumos usados en los platos marinos más populares."
+    ],
+    "respuesta": "B) la preparación del tiradito y del ceviche con pescados reales no supera el 30 % de las muestras examinadas, respectivamente.",
+    "resolucion": "La gráfica indica 19 % de pescado real en el tiradito y porcentajes de 23 % y 26 % en las muestras de ceviche; ninguno supera el 30 %.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_34",
+    "curso": "Competencia Lectora",
+    "tema": "Inferencia",
+    "contexto": "TEXTO 2\n\nEn el Perú, es recomendable incluir el quechua en la enseñanza de los estudiantes de medicina. La Organización Mundial de la Salud propuso revisar los planes de estudio de las carreras sanitarias para integrar capacidades útiles en la práctica rural e, incluso, considerar la admisión selectiva de estudiantes de origen rural, factor asociado a su permanencia en ese sector. También señala que conocer una lengua originaria influye en la decisión de trabajar en el interior del país.\n\nUn estudio boliviano encontró que el personal sanitario no conocía el quechua, lo que generaba una comunicación ineficiente e incluso irrespetuosa con la población monolingüe. Las demoras y obstáculos produjeron graves consecuencias: desde discriminación a pacientes obstétricas hasta muertes perinatales y maternas. Más allá de la falta de equipos o instalaciones, la brecha idiomática limitaba la atención. Asimismo, en un estudio peruano entre profesionales del Servicio Rural y Urbano Marginal de Salud (SERUMS), el 55 % señaló el desconocimiento del quechua como una de las principales dificultades de su trabajo.\n\nAdquirir las destrezas necesarias para comunicarse con los 4 102 405 habitantes que hablan lenguas originarias en el Perú permitiría mejorar la relación médico-paciente y asegurar el ejercicio pleno de sus derechos en salud. Hablar su idioma representa respeto por sus diferencias y una aproximación humanizada a su salud y cultura. Por ello, es urgente implementar al menos una lengua originaria en el currículo de los profesionales de la salud, especialmente en las facultades ubicadas en departamentos con mayor densidad de hablantes.\n\nAdaptado de Santos-Revilla, G. (2016). «Enseñanza de lenguas originarias en las facultades de medicina peruanas».",
+    "contexto_img": "",
+    "pregunta": "De la lectura se puede colegir que los estudios boliviano y peruano sobre el personal sanitario",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) muestran una problemática que solo se resolverá si ambos Estados promueven el quechua como lengua oficial.",
+      "B) evidencian la priorización de una atención que potencie las habilidades blandas de los médicos.",
+      "C) coinciden tanto en el desconocimiento de una lengua originaria como en la necesidad de aprenderla.",
+      "D) establecen un programa orgánico de soluciones a mediano plazo para mejorar el sistema de salud."
+    ],
+    "respuesta": "C) coinciden tanto en el desconocimiento de una lengua originaria como en la necesidad de aprenderla.",
+    "resolucion": "Ambos estudios muestran que el desconocimiento del quechua obstaculiza la atención. De esa coincidencia se desprende la necesidad de que el personal sanitario aprenda una lengua originaria.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_35",
+    "curso": "Competencia Lectora",
+    "tema": "Aplicación",
+    "contexto": "Depende del Texto N.º 2 del id BECA18_2023_SIMULACRO_03_34",
+    "contexto_img": "",
+    "pregunta": "De acuerdo con el texto, si en las facultades de medicina se enseñara la lengua aimara,",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) las enfermeras podrían hablar fluidamente quechua en la capital.",
+      "B) se daría una atención humanizada a los hablantes monolingües aimaras.",
+      "C) los aimaras podrían ser profesores de Biología, Química o ramas afines.",
+      "D) el personal sanitario dejaría de hablar castellano como lengua materna."
+    ],
+    "respuesta": "B) se daría una atención humanizada a los hablantes monolingües aimaras.",
+    "resolucion": "Según el texto, atender al paciente en su lengua expresa respeto por sus diferencias culturales y permite una atención humanizada. El mismo razonamiento se aplica a los hablantes de aimara.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_36",
+    "curso": "Competencia Lectora",
+    "tema": "Postura del autor",
+    "contexto": "Depende del Texto N.º 2 del id BECA18_2023_SIMULACRO_03_34",
+    "contexto_img": "",
+    "pregunta": "De acuerdo con el texto, se puede señalar que el autor",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) considera importante que los estudiantes de medicina en el Perú aprendan una lengua originaria.",
+      "B) fomenta la segregación lingüística en el país, pues impide adquirir lenguas indígenas.",
+      "C) condena la discriminación racial de las autoridades públicas peruanas en los colegios.",
+      "D) tiene un paciente que habla quechua con fluidez y explica su sintomatología."
+    ],
+    "respuesta": "A) considera importante que los estudiantes de medicina en el Perú aprendan una lengua originaria.",
+    "resolucion": "La tesis del texto es incorporar por lo menos una lengua originaria en el currículo de los profesionales de la salud, sobre todo en medicina.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_37",
+    "curso": "Competencia Lectora",
+    "tema": "Inferencia",
+    "contexto": "Depende del Texto N.º 2 del id BECA18_2023_SIMULACRO_03_34",
+    "contexto_img": "",
+    "pregunta": "En el texto se evidencia que los pacientes que viven en zonas donde predominan las lenguas originarias",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) reciben una atención médica deficiente.",
+      "B) han realizado una serie de reclamos públicos.",
+      "C) nunca han podido comunicarse con los médicos.",
+      "D) requieren una atención preferencial inmediata."
+    ],
+    "respuesta": "A) reciben una atención médica deficiente.",
+    "resolucion": "La brecha lingüística causa demoras, obstáculos, discriminación e incluso consecuencias mortales; por tanto, la atención que reciben resulta deficiente.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_38",
+    "curso": "Competencia Lectora",
+    "tema": "Inferencia",
+    "contexto": "TEXTO 3\n\nSer sociable, extrovertido y capaz de trabajar en grupo se ha convertido en una fórmula a la que educadores y empleadores apelan para lograr la máxima productividad. Por ello, se ha vuelto un requisito central del mundo laboral. Sin embargo, esta realidad favorece especialmente a los extrovertidos y perjudica a los introvertidos, quienes atraviesan el difícil trance de renunciar a su naturaleza. Se pierde de vista que muchos introvertidos tienen cualidades y talentos extraordinarios y que entre ellos se cuentan grandes innovadores y transformadores del mundo debido precisamente a su trabajo solitario. Albert Einstein, Sigmund Freud, Steve Jobs, Eleanor Roosevelt, Rosa Parks, Darwin y Gandhi se describían como introvertidos, tranquilos y tímidos. Cuando se trata de creatividad y liderazgo también se necesita de los introvertidos: no de quienes tienen miedo social, sino de quienes prefieren ambientes tranquilos y con poca estimulación externa.\n\nEs necesario buscar un mayor equilibrio entre introvertidos y extrovertidos, especialmente en creatividad y productividad. Sobran ejemplos de solitarios creativos: Darwin daba largas caminatas por el bosque y rechazaba las fiestas; Steve Wozniak, famoso por colaborar con Steve Jobs en la creación de Apple Computer, era solitario. En la mayoría de las religiones, líderes como Moisés, Jesús, Buda y Mahoma fueron solos al desierto, donde tuvieron profundas revelaciones que luego compartieron con la comunidad. La psicología moderna explica que, cuando están en grupo, las personas modifican su pensamiento para quedar bien, imitar o seguir a los más carismáticos y dominantes. Para los introvertidos sería mejor que cada uno pensara primero sus ideas y después se reuniera con el grupo para intercambiarlas. No se trata de despreciar las habilidades sociales o el trabajo en equipo, sino de dar a los introvertidos la libertad de ser ellos mismos.",
+    "contexto_img": "",
+    "pregunta": "Se deduce del texto que, para incorporarse al mundo laboral, una persona introvertida",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) tendrá que inscribirse en cursos para desarrollar habilidades extrovertidas.",
+      "B) buscará ofertas de empleo acordes con sus rasgos psicológicos y físicos.",
+      "C) deberá desarrollar características que no forman parte de su personalidad.",
+      "D) podrá solicitar al empleador la oportunidad de trabajar de manera solitaria."
+    ],
+    "respuesta": "C) deberá desarrollar características que no forman parte de su personalidad.",
+    "resolucion": "El mundo laboral impone como requisito la sociabilidad y el trabajo grupal. El introvertido se ve obligado a asumir esas características aun cuando no correspondan a su naturaleza.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_39",
+    "curso": "Competencia Lectora",
+    "tema": "Intención del autor",
+    "contexto": "Depende del Texto N.º 3 del id BECA18_2023_SIMULACRO_03_38",
+    "contexto_img": "",
+    "pregunta": "Al mencionar a Einstein, Freud, Jobs, Parks y otros, el objetivo del autor consiste en",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) subrayar la importancia de la timidez como factor de progreso científico.",
+      "B) ejemplificar personalidades introvertidas que se adaptaron a culturas sociables.",
+      "C) presentar el difícil camino de los introvertidos para sobresalir en la sociedad.",
+      "D) destacar que los introvertidos tienen cualidades y habilidades sobresalientes."
+    ],
+    "respuesta": "D) destacar que los introvertidos tienen cualidades y habilidades sobresalientes.",
+    "resolucion": "Los personajes funcionan como ejemplos de innovadores y líderes que, pese a ser introvertidos, desarrollaron talentos extraordinarios y transformaron el mundo.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_40",
+    "curso": "Competencia Lectora",
+    "tema": "Información explícita",
+    "contexto": "Depende del Texto N.º 3 del id BECA18_2023_SIMULACRO_03_38",
+    "contexto_img": "",
+    "pregunta": "Según el texto, los líderes religiosos se caracterizan por",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) buscar un tiempo para expresar libremente sus ideas.",
+      "B) explotar su potencial productivo en ambientes tranquilos.",
+      "C) interactuar con otros introvertidos en espacios laborales.",
+      "D) influir en las ideas de los demás para quedar bien con ellos."
+    ],
+    "respuesta": "B) explotar su potencial productivo en ambientes tranquilos.",
+    "resolucion": "El texto señala que líderes religiosos se retiraron solos al desierto y, en ese ambiente apartado y tranquilo, alcanzaron revelaciones que luego compartieron.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_41",
+    "curso": "Competencia Lectora",
+    "tema": "Causa y efecto",
+    "contexto": "TEXTO 4\n\nEl desarrollo de los países industrializados requiere energía abundante y barata, una energía que el ser humano siempre ha tenido a su alcance. La crisis energética actual no se asocia al agotamiento de las fuentes, sino a cómo utilizar una fuente energética de manera limpia y sin riesgos para la humanidad.\n\nLa crisis deriva de la incapacidad tecnológica y política para utilizar los recursos renovables y planificar su uso. La creciente demanda de energía —que se duplica cada diez años—, el uso intensivo de los pozos petrolíferos y las formas de obtención de alto riesgo, como las centrales nucleares, muestran una situación que debe cambiar.\n\nLos países avanzados orientan sus políticas al ahorro de combustibles, la optimización de los procesos de conversión y la búsqueda de fuentes que no atenten contra la ecología. El problema no es tanto obtener fuentes de energía como transportarlas y procesarlas. De ahí el interés por energías renovables y limpias como la solar, marina, geotérmica, eólica y nuclear. Esta última produce energía limpia y puede considerarse una alternativa, aunque presenta riesgos y problemas relacionados con la eliminación de residuos radiactivos.",
+    "contexto_img": "",
+    "pregunta": "La crisis energética mundial, que se acentúa en los países industrializados, es consecuencia",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) del agotamiento de los pozos petrolíferos y la ausencia de políticas de prospección energética.",
+      "B) del exagerado consumo de combustibles fósiles por las naciones industrializadas.",
+      "C) de la incapacidad tecnológica y política para aprovechar los recursos energéticos renovables.",
+      "D) de la retracción de la inversión de capitales para explorar yacimientos petrolíferos."
+    ],
+    "respuesta": "C) de la incapacidad tecnológica y política para aprovechar los recursos energéticos renovables.",
+    "resolucion": "El segundo párrafo identifica directamente como causa de la crisis la incapacidad tecnológica y política para utilizar y planificar los recursos renovables.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_42",
+    "curso": "Competencia Lectora",
+    "tema": "Inferencia",
+    "contexto": "Depende del Texto N.º 4 del id BECA18_2023_SIMULACRO_03_41",
+    "contexto_img": "",
+    "pregunta": "De la lectura del texto, se deduce que la energía nuclear",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) es la fuente de energía óptima para la vida humana.",
+      "B) entraña peligros que podrán superarse en pocas décadas.",
+      "C) requiere una supervisión adecuada para evitar riesgos.",
+      "D) constituye la única alternativa disponible en la actualidad."
+    ],
+    "respuesta": "C) requiere una supervisión adecuada para evitar riesgos.",
+    "resolucion": "Aunque la energía nuclear es limpia, el texto advierte riesgos en su utilización y en el manejo de sus residuos; por ello exige control y supervisión adecuados.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_43",
+    "curso": "Competencia Lectora",
+    "tema": "Inferencia",
+    "contexto": "Depende del Texto N.º 4 del id BECA18_2023_SIMULACRO_03_41",
+    "contexto_img": "",
+    "pregunta": "A partir del contenido desarrollado en el texto, es válido sostener que",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) el Perú contamina en escasa proporción frente a Bolivia.",
+      "B) la industrialización es una causa importante de la contaminación.",
+      "C) los países del sur deben modificar sus estilos de vida.",
+      "D) solo la tecnología podrá detener los problemas planetarios."
+    ],
+    "respuesta": "B) la industrialización es una causa importante de la contaminación.",
+    "resolucion": "El desarrollo industrial exige un consumo energético creciente y recurre intensivamente a fuentes contaminantes o riesgosas; de allí se infiere su papel importante en la contaminación.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_44",
+    "curso": "Competencia Lectora",
+    "tema": "Idea principal",
+    "contexto": "Depende del Texto N.º 4 del id BECA18_2023_SIMULACRO_03_41",
+    "contexto_img": "",
+    "pregunta": "Según el autor, el problema energético mundial es fundamentalmente",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) de manejo de fuentes energéticas.",
+      "B) geopolítico, entre el norte y el sur.",
+      "C) de escasez de recursos renovables.",
+      "D) de índole económica y financiera."
+    ],
+    "respuesta": "A) de manejo de fuentes energéticas.",
+    "resolucion": "El texto descarta el agotamiento de las fuentes y sitúa el problema en la forma de utilizar, planificar, transportar y procesar la energía.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_45",
+    "curso": "Competencia Lectora",
+    "tema": "Información explícita",
+    "contexto": "TEXTO 5\n\nEn los últimos años, la administración estatal de las cárceles no ha dado resultados positivos. Lo muestran el hacinamiento del penal de Lurigancho, considerado uno de los más peligrosos del mundo, y la fuga de diecisiete reos de alta peligrosidad de Challapalca. Esta crisis permite plantear la privatización de las cárceles peruanas, medida que se considera válida y necesaria.\n\nEn primer lugar, el Estado ha mostrado una gestión inadecuada, evidenciada en la escasa inversión en infraestructura. El Perú tiene una población penitenciaria cercana a 40 000 personas, lo que ha originado hacinamiento y proliferación de enfermedades. La privatización podría revertir el panorama, pues la empresa administradora invertiría en infraestructura, salubridad y seguridad.\n\nEn segundo lugar, la privatización haría posible disminuir los actos delictivos que ocurren en los penales: corrupción entre reos y oficiales, motines y planificación de delitos desde las cárceles. Una administración privada permitiría mayor control de la seguridad y disciplina mediante regímenes especiales de monitoreo. También podría capacitar a los oficiales y retirar a quienes estuvieran involucrados en corrupción.",
+    "contexto_img": "",
+    "pregunta": "En el texto se sostiene que el Estado",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) administra de forma deficiente los penales.",
+      "B) debe ceder la administración de los penales.",
+      "C) favorece un clima libre de corrupción en los penales.",
+      "D) brinda una nula capacitación a los oficiales."
+    ],
+    "respuesta": "A) administra de forma deficiente los penales.",
+    "resolucion": "El texto presenta el hacinamiento, la fuga de reos y la escasa inversión como pruebas de una administración estatal deficiente.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_46",
+    "curso": "Competencia Lectora",
+    "tema": "Inferencia",
+    "contexto": "Depende del Texto N.º 5 del id BECA18_2023_SIMULACRO_03_45",
+    "contexto_img": "",
+    "pregunta": "Según la lógica del autor, si las cárceles del Perú estuvieran privatizadas, entonces",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) los ciudadanos no tendrían miedo de salir a las calles.",
+      "B) existiría una disminución de motines.",
+      "C) la corrupción entre delincuentes dejaría de existir.",
+      "D) muchas personas podrían quedarse sin empleo."
+    ],
+    "respuesta": "B) existiría una disminución de motines.",
+    "resolucion": "El autor sostiene que el control, la disciplina y el monitoreo de una administración privada reducirían los actos delictivos dentro de las cárceles, entre ellos los motines.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_47",
+    "curso": "Competencia Lectora",
+    "tema": "Conclusión",
+    "contexto": "Depende del Texto N.º 5 del id BECA18_2023_SIMULACRO_03_45",
+    "contexto_img": "",
+    "pregunta": "A partir del dato sobre la fuga de diecisiete reos de alta peligrosidad del penal de Challapalca, se puede concluir que",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) en dicho penal impera la corrupción entre reos y oficiales.",
+      "B) existen razones para señalar que el Estado gestiona de forma deficiente los penales.",
+      "C) un sistema privado de cárceles es la única solución adecuada.",
+      "D) los penales no cumplen su rol de reinsertar a los reos en la sociedad."
+    ],
+    "respuesta": "B) existen razones para señalar que el Estado gestiona de forma deficiente los penales.",
+    "resolucion": "La fuga se ofrece como una prueba concreta de la crisis de la administración estatal. No demuestra por sí sola las afirmaciones más específicas de las otras alternativas.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_48",
+    "curso": "Competencia Lectora",
+    "tema": "Inferencia",
+    "contexto": "Depende del Texto N.º 5 del id BECA18_2023_SIMULACRO_03_45",
+    "contexto_img": "",
+    "pregunta": "A partir de la lectura del texto, se puede deducir que los reos",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) que se fugaron no han sido ubicados debido a la corrupción.",
+      "B) organizan, junto con oficiales corruptos, una serie de actos delictivos.",
+      "C) viven en condiciones que atentan contra su propia seguridad.",
+      "D) viven hacinados en algunos penales del país."
+    ],
+    "respuesta": "C) viven en condiciones que atentan contra su propia seguridad.",
+    "resolucion": "El hacinamiento, las enfermedades, los motines y la falta de infraestructura adecuada configuran condiciones que ponen en riesgo la integridad de los propios internos.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_49",
+    "curso": "Competencia Lectora",
+    "tema": "Postura del autor",
+    "contexto": "Depende del Texto N.º 5 del id BECA18_2023_SIMULACRO_03_45",
+    "contexto_img": "",
+    "pregunta": "De la lectura se puede deducir que el autor",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) considera que los intereses privados pueden producir buenos resultados en beneficio de la comunidad.",
+      "B) cree que solo los capitales privados pueden transformar el régimen carcelario de los países.",
+      "C) sostiene una posición avalada por todas las evidencias de pésima gestión estatal.",
+      "D) está empeñado en transformar las cárceles para beneficiar a los privados."
+    ],
+    "respuesta": "A) considera que los intereses privados pueden producir buenos resultados en beneficio de la comunidad.",
+    "resolucion": "Al defender la privatización, el autor asume que la inversión y gestión de una empresa pueden mejorar infraestructura, seguridad y salubridad, con beneficios sociales.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_50",
+    "curso": "Competencia Lectora",
+    "tema": "Inferencia",
+    "contexto": "TEXTO 6\n\nEl ministro de Salud informó que alrededor de un tercio de los jóvenes y adolescentes de hasta 18 años sufre tinnitus, un molesto zumbido que a menudo deriva en pérdida de audición. El problema crece por el uso cotidiano de audífonos para escuchar música y por la exposición prolongada a lugares muy ruidosos, como bares, discotecas o recitales. El tinnitus es causado por daño temporal o permanente en las células de los vellos cocleares del oído interno, que reaccionan a las vibraciones del sonido.\n\nTanit Ganz Sánchez, otorrinolaringóloga de la Universidad de São Paulo, advierte que, si esta generación continúa expuesta a niveles muy altos de ruido, probablemente perderá audición cuando tenga 30 o 40 años. En un estudio de 170 estudiantes brasileños de 11 a 17 años, el 54,7 % dijo haber sufrido tinnitus en los últimos doce meses y el 28 % reconoció que la molestia era constante. La Organización Mundial de la Salud advirtió que 1100 millones de adolescentes están en riesgo de sufrir problemas auditivos, sobre todo por dispositivos portátiles que alcanzan niveles más altos que los aparatos del pasado.\n\nPara reducir el riesgo, el Ministerio de Salud recomienda comprar audífonos supraauriculares, que cubren la oreja; evitar escuchar música por encima del 60 % del volumen máximo; usar protectores auditivos en lugares ruidosos; y descansar diez minutos por cada hora de exposición. Los intervalos aumentan la posibilidad de que los oídos se recuperen y evitan lesiones definitivas.\n\nAdaptado de González, C. (2016). «Adolescentes están en riesgo de sufrir sordera precoz».",
+    "contexto_img": "",
+    "pregunta": "Si el uso de audífonos supraauriculares respondiera más a una moda que a una prescripción médica, es posible inferir que",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) los jóvenes preferirían seguir usando audífonos intraauriculares.",
+      "B) habría indicios para predecir una pérdida auditiva a temprana edad.",
+      "C) los jóvenes dejarían de asistir a discotecas y conciertos al aire libre.",
+      "D) el riesgo de sufrir pérdida auditiva precoz entre los jóvenes disminuiría."
+    ],
+    "respuesta": "D) el riesgo de sufrir pérdida auditiva precoz entre los jóvenes disminuiría.",
+    "resolucion": "Los audífonos supraauriculares se recomiendan precisamente porque reducen el daño. Si se volvieran populares, más jóvenes los usarían y disminuiría el riesgo de pérdida auditiva precoz.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_51",
+    "curso": "Competencia Lectora",
+    "tema": "Información explícita",
+    "contexto": "Depende del Texto N.º 6 del id BECA18_2023_SIMULACRO_03_50",
+    "contexto_img": "",
+    "pregunta": "Según el ministro de Salud, el problema del tinnitus está relacionado con",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) una molestia que generalmente pasa desapercibida para los jóvenes.",
+      "B) los grandes peligros de la exposición prolongada a ruidos de alta intensidad.",
+      "C) la exposición a espacios ruidosos y el uso de audífonos.",
+      "D) el uso indiscriminado de cualquier tipo de audífono entre los jóvenes."
+    ],
+    "respuesta": "C) la exposición a espacios ruidosos y el uso de audífonos.",
+    "resolucion": "El primer párrafo vincula directamente el crecimiento del tinnitus con el uso cotidiano de audífonos y la exposición prolongada a lugares ruidosos.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_52",
+    "curso": "Competencia Lectora",
+    "tema": "Causa principal",
+    "contexto": "Depende del Texto N.º 6 del id BECA18_2023_SIMULACRO_03_50",
+    "contexto_img": "",
+    "pregunta": "Según el texto, el riesgo de sufrir pérdida de audición precoz entre los jóvenes de hoy se ha incrementado, principalmente, por",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) usar constantemente audífonos.",
+      "B) asistir a discotecas, recitales y bares ruidosos.",
+      "C) acudir con frecuencia a conciertos de música rock.",
+      "D) escuchar música a más del 60 % del volumen máximo."
+    ],
+    "respuesta": "A) usar constantemente audífonos.",
+    "resolucion": "La OMS destaca sobre todo el uso de dispositivos portátiles para escuchar música, capaces de alcanzar niveles sonoros muy altos; por ello, el uso constante de audífonos es la causa principal señalada.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_53",
+    "curso": "Competencia Lectora",
+    "tema": "Compatibilidad textual",
+    "contexto": "Depende del Texto N.º 6 del id BECA18_2023_SIMULACRO_03_50",
+    "contexto_img": "",
+    "pregunta": "Un enunciado incompatible con lo expresado en el texto es afirmar que los jóvenes de hoy",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) gustan de utilizar audífonos para escuchar música.",
+      "B) presentan en un alto porcentaje pérdida de audición.",
+      "C) tienden a experimentar un molesto zumbido en los oídos.",
+      "D) se exponen continuamente a niveles altos de ruido."
+    ],
+    "respuesta": "B) presentan en un alto porcentaje pérdida de audición.",
+    "resolucion": "El texto señala un alto porcentaje de tinnitus y un riesgo futuro de pérdida auditiva, pero no afirma que un alto porcentaje ya haya perdido la audición.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_54",
+    "curso": "Competencia Lectora",
+    "tema": "Idea principal",
+    "contexto": "TEXTO 7\n\nEn contraste con la cultura de consumo, las comunidades étnicas de la Amazonía son frecuentemente percibidas como poco relevantes. Esto ocurre en gran parte del Perú, aunque no necesariamente en el resto del mundo. La desinformación sobre las culturas indígenas amazónicas es inmensa: se desconocen sus aportes históricos y actuales; no se las reconoce como agentes sociales y económicos tan válidos como los occidentales, ni como agentes de cambio con perspectiva de futuro, sino como una imagen viva del retraso. Tampoco imaginamos que dependemos de ellas y que sus conceptos y recursos pueden ser claves para la supervivencia futura del país y de la humanidad.\n\nContrariamente a la imagen de pueblos desvalidos e incapaces de afrontar la modernidad y la globalización, los indígenas amazónicos han realizado enormes esfuerzos para organizarse, abrirse, mantener un diálogo largo y fructífero con la ciencia y establecer importantes alianzas con organizaciones y entidades de cooperación internacional.\n\nAdaptado de Helberg, H. (2001). Pedagogía de la interculturalidad.",
+    "contexto_img": "",
+    "pregunta": "Señala la idea principal del texto.",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) A diferencia de las culturas de consumo, las culturas amazónicas son percibidas como insignificantes y retrasadas.",
+      "B) Debido a la desinformación, los indígenas amazónicos no son percibidos como agentes sociales, económicos y de cambio.",
+      "C) Los conceptos y recursos indígenas amazónicos pueden ser claves para la supervivencia futura.",
+      "D) Hay avances importantes ignorados por la propaganda política y los medios de comunicación."
+    ],
+    "respuesta": "B) Debido a la desinformación, los indígenas amazónicos no son percibidos como agentes sociales, económicos y de cambio.",
+    "resolucion": "La idea que organiza todo el texto es que la desinformación impide reconocer a los pueblos amazónicos como actores válidos y capaces de aportar al presente y al futuro.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_55",
+    "curso": "Competencia Lectora",
+    "tema": "Inferencia",
+    "contexto": "Depende del Texto N.º 7 del id BECA18_2023_SIMULACRO_03_54",
+    "contexto_img": "",
+    "pregunta": "Se puede inferir que la falta de reconocimiento de las culturas indígenas amazónicas impide",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) replantear las relaciones existentes entre Occidente y Oriente.",
+      "B) pensar que sus avances son más importantes que los occidentales.",
+      "C) acatar las recomendaciones de organismos internacionales.",
+      "D) aceptar como válidas sus formas de resolver determinados problemas."
+    ],
+    "respuesta": "D) aceptar como válidas sus formas de resolver determinados problemas.",
+    "resolucion": "Si no se las reconoce como agentes sociales, económicos y de cambio válidos, tampoco se valoran sus conceptos, recursos ni soluciones como alternativas legítimas.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_56",
+    "curso": "Competencia Lectora",
+    "tema": "Contraste",
+    "contexto": "Depende del Texto N.º 7 del id BECA18_2023_SIMULACRO_03_54",
+    "contexto_img": "",
+    "pregunta": "Contra lo que se piensa, el autor sostiene que las culturas indígenas de la Amazonía",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) son capaces de asumir la modernidad y la globalización.",
+      "B) se quedarán como insignificantes y ajenas al consumo.",
+      "C) permanecerán como imagen viva del pasado y del atraso.",
+      "D) se mantendrán recluidas y sin vínculos con otros países."
+    ],
+    "respuesta": "A) son capaces de asumir la modernidad y la globalización.",
+    "resolucion": "El segundo párrafo contradice la imagen de incapacidad y muestra que esos pueblos se organizan, dialogan con la ciencia y establecen alianzas internacionales.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_57",
+    "curso": "Competencia Lectora",
+    "tema": "Información explícita",
+    "contexto": "Depende del Texto N.º 7 del id BECA18_2023_SIMULACRO_03_54",
+    "contexto_img": "",
+    "pregunta": "Según el texto, algunos conceptos y recursos de las culturas indígenas amazónicas pueden ser claves para",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) ser una sociedad de consumo.",
+      "B) desarrollar la economía regional.",
+      "C) la supervivencia futura.",
+      "D) obtener reconocimiento social."
+    ],
+    "respuesta": "C) la supervivencia futura.",
+    "resolucion": "El primer párrafo afirma de manera explícita que los conceptos y recursos indígenas pueden ser claves para la supervivencia futura del país y de la humanidad.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_58",
+    "curso": "Competencia Lectora",
+    "tema": "Vocabulario contextual",
+    "contexto": "TEXTO 8\n\nTodavía hay muchas personas que creen que leer consiste en oralizar la grafía, es decir, devolver la voz a la letra callada. Es una visión mecánica que pone el acento en la capacidad de decodificar la prosa de modo literal, pero deja en segundo plano lo más importante: la comprensión.\n\nPara comprender es necesario desarrollar varias destrezas mentales o procesos cognitivos: anticipar lo que dirá un escrito, aportar conocimientos previos, formular y verificar hipótesis, elaborar inferencias para comprender lo que solo se sugiere y construir un significado. Se llama alfabetización funcional a este conjunto de destrezas y a la capacidad de comprender un texto; un analfabeto funcional no comprende, aunque pueda leer en voz alta.\n\nEsta concepción destaca la universalidad y la igualdad de la lectura. Los procesos cognitivos son biológicos y universales, de modo que todos podemos aprender a leer de la misma manera si desarrollamos estas destrezas. Así, la lectura nos igualaría a todos. Es una idea hermosa, pero la realidad es más compleja.\n\nAdaptado de Cassany, D. (2006). Tras las líneas. Sobre la lectura contemporánea.",
+    "contexto_img": "",
+    "pregunta": "Decodificar la prosa de modo literal consiste en",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) explicar resumidamente y en prosa el contenido de un texto.",
+      "B) enunciar bien los códigos de un texto con palabras diferentes.",
+      "C) diferenciar los distintos códigos empleados en un texto.",
+      "D) pronunciar correctamente las palabras escritas de un texto."
+    ],
+    "respuesta": "D) pronunciar correctamente las palabras escritas de un texto.",
+    "resolucion": "El texto equipara la decodificación literal con oralizar la grafía o devolver la voz a la letra; es decir, pronunciar correctamente lo escrito sin que ello garantice comprensión.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_59",
+    "curso": "Competencia Lectora",
+    "tema": "Alfabetización funcional",
+    "contexto": "Depende del Texto N.º 8 del id BECA18_2023_SIMULACRO_03_58",
+    "contexto_img": "",
+    "pregunta": "Una de las capacidades que desarrolla un lector considerado alfabeto funcional es",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) comprender la universalidad e igualdad de la lectura.",
+      "B) entonar con propiedad todos los signos de puntuación.",
+      "C) inferir el significado que está escondido en un texto.",
+      "D) formular hipótesis sobre el origen de las palabras de un texto."
+    ],
+    "respuesta": "C) inferir el significado que está escondido en un texto.",
+    "resolucion": "Entre los procesos cognitivos de la alfabetización funcional, el texto menciona elaborar inferencias para comprender lo que solo está sugerido.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_2023_SIMULACRO_03_60",
+    "curso": "Competencia Lectora",
+    "tema": "Procesos cognitivos",
+    "contexto": "Depende del Texto N.º 8 del id BECA18_2023_SIMULACRO_03_58",
+    "contexto_img": "",
+    "pregunta": "¿Cuál de las siguientes acciones de lectura muestra un proceso cognitivo?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Una estudiante lee el título de un texto y, a partir de él, supone su contenido.",
+      "B) Un lector repite con propiedad algunas frases que acaba de leer.",
+      "C) Un estudiante evoca su infancia a partir del título de una obra.",
+      "D) Un lector decide leer un libro completo y no dejarlo por la mitad."
+    ],
+    "respuesta": "A) Una estudiante lee el título de un texto y, a partir de él, supone su contenido.",
+    "resolucion": "Suponer el contenido a partir del título es anticipar lo que dirá el escrito y formular una hipótesis, procesos cognitivos mencionados expresamente en el texto.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  }
+]
+
