@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "BECA18_SIMULACRO_04_1",
+    "curso": "Competencias Matemáticas",
+    "tema": "Mínimo común múltiplo",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Tres válvulas de riego se activan automáticamente cada 18, 24 y 30 minutos. Si las tres se activaron juntas a las 6:00 a. m., ¿a qué hora volverán a activarse simultáneamente?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 12:00 m.",
+      "B) 6:00 p. m.",
+      "C) 9:00 a. m.",
+      "D) 10:00 a. m."
+    ],
+    "respuesta": "A) 12:00 m.",
+    "resolucion": "El mínimo común múltiplo de 18, 24 y 30 es 360 minutos, equivalentes a 6 horas. Seis horas después de las 6:00 a. m. serán las 12:00 m.",
+    "resolucion_latex": "$$18=2\\cdot3^2,\\quad24=2^3\\cdot3,\\quad30=2\\cdot3\\cdot5\\qquad\\operatorname{mcm}(18,24,30)=2^3\\cdot3^2\\cdot5=360\\text{ min}=6\\text{ h}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_2",
+    "curso": "Competencias Matemáticas",
+    "tema": "Operaciones con fracciones",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Lucía destina \\(\\frac{3}{8}\\) de su presupuesto mensual al transporte y \\(\\frac{2}{5}\\) de lo que queda a la alimentación. Si después de ambos gastos conserva S/ 465, ¿cuál era su presupuesto mensual?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) S/ 1 550",
+      "B) S/ 1 160",
+      "C) S/ 1 240",
+      "D) S/ 930"
+    ],
+    "respuesta": "C) S/ 1 240",
+    "resolucion": "Tras el primer gasto queda 5/8 del presupuesto. Luego conserva 3/5 de ese resto, es decir, 3/8 del monto inicial. Si 3/8 equivale a S/ 465, el presupuesto era S/ 1 240.",
+    "resolucion_latex": "$$\\left(1-\\frac38\\right)\\left(1-\\frac25\\right)x=\\frac58\\cdot\\frac35x=\\frac38x=465\\Rightarrow x=1240$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_3",
+    "curso": "Competencias Matemáticas",
+    "tema": "Descuentos sucesivos",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Una laptop cuesta S/ 1 800. La tienda A ofrece descuentos sucesivos de 20 % y 15 %, mientras que la tienda B ofrece un único descuento de 32 %. ¿Cuál afirmación es correcta?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Conviene la tienda B porque se pagan S/ 36 menos.",
+      "B) Conviene la tienda A porque se pagan S/ 1 188.",
+      "C) Conviene la tienda A porque el descuento total es 35 %.",
+      "D) En ambas tiendas se pagan S/ 1 224."
+    ],
+    "respuesta": "D) En ambas tiendas se pagan S/ 1 224.",
+    "resolucion": "En A, los descuentos se aplican uno después de otro: queda el 80 % y luego el 85 % de ese precio. El factor final es 0,68, igual al de descontar 32 % en B.",
+    "resolucion_latex": "$$P_A=1800(0.80)(0.85)=1224\\qquad P_B=1800(0.68)=1224$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_4",
+    "curso": "Competencias Matemáticas",
+    "tema": "Interés compuesto",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Rosa deposita S/ 4 800 en una cuenta que paga 5 % de interés compuesto trimestral. Si no realiza retiros, ¿qué monto tendrá al cabo de 6 meses?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) S/ 5 292",
+      "B) S/ 5 040",
+      "C) S/ 5 280",
+      "D) S/ 5 520"
+    ],
+    "respuesta": "A) S/ 5 292",
+    "resolucion": "Seis meses contienen dos trimestres. El capital se multiplica dos veces por 1,05, por lo que el monto final es S/ 5 292.",
+    "resolucion_latex": "$$M=4800(1+0.05)^2=4800(1.1025)=5292$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_5",
+    "curso": "Competencias Matemáticas",
+    "tema": "Notación científica",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Un sensor transmite \\(7,2\\times10^8\\) bits de información cada día. Si funciona durante 25 días, ¿cuántos bits transmite en total, expresados en notación científica?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\(1,8\\times10^{10}\\) bits",
+      "B) \\(18\\times10^8\\) bits",
+      "C) \\(1,8\\times10^{11}\\) bits",
+      "D) \\(1,8\\times10^8\\) bits"
+    ],
+    "respuesta": "A) \\(1,8\\times10^{10}\\) bits",
+    "resolucion": "Se multiplica la transmisión diaria por 25. El producto 180 debe escribirse con un coeficiente entre 1 y 10, lo que aumenta el exponente en dos unidades.",
+    "resolucion_latex": "$$25(7.2\\times10^8)=180\\times10^8=1.8\\times10^{10}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_6",
+    "curso": "Competencias Matemáticas",
+    "tema": "Razones y proporciones",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "En un recipiente hay 24 litros de refresco preparado con concentrado y agua en la razón 3 a 5. ¿Cuántos litros de agua deben agregarse para que la razón entre concentrado y agua sea 1 a 2?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 9 litros",
+      "B) 8 litros",
+      "C) 3 litros",
+      "D) 6 litros"
+    ],
+    "respuesta": "C) 3 litros",
+    "resolucion": "De los 24 litros, 9 son de concentrado y 15 son de agua. Para que 9 represente la mitad del agua, debe haber 18 litros de agua; por tanto, se agregan 3 litros.",
+    "resolucion_latex": "$$C=24\\left(\\frac38\\right)=9,\\quad A=24\\left(\\frac58\\right)=15\\qquad\\frac9{15+x}=\\frac12\\Rightarrow x=3$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_7",
+    "curso": "Competencias Matemáticas",
+    "tema": "Proporcionalidad inversa",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Seis impresoras idénticas imprimen 4 500 volantes en 5 horas. Si se emplean 10 impresoras iguales y todas trabajan al mismo ritmo, ¿cuántas horas tardarán en imprimir la misma cantidad?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 3 horas",
+      "B) 2 horas",
+      "C) 6 horas",
+      "D) 4 horas"
+    ],
+    "respuesta": "A) 3 horas",
+    "resolucion": "Para una cantidad fija de volantes, el número de impresoras y el tiempo son inversamente proporcionales. El producto impresoras por horas permanece constante.",
+    "resolucion_latex": "$$6(5)=10t\\Rightarrow t=3\\text{ horas}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_8",
+    "curso": "Competencias Matemáticas",
+    "tema": "Divisibilidad",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "El código de un lote es el número de cuatro cifras \\(\\overline{47a2}\\). ¿Qué cifra debe reemplazar a \\(a\\) para que dicho número sea divisible por 6 y por 9?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 3",
+      "B) 7",
+      "C) 4",
+      "D) 5"
+    ],
+    "respuesta": "D) 5",
+    "resolucion": "Para que el número sea divisible por 9, la suma de sus cifras debe ser múltiplo de 9: 4 + 7 + a + 2 = 13 + a. La única cifra que completa 18 es 5. Además, el número termina en 2, por lo que también es divisible por 2; en consecuencia, es divisible por 6.",
+    "resolucion_latex": "$$4+7+a+2=13+a=18\\Rightarrow a=5\\qquad \\overline{4752}\\text{ es par}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_9",
+    "curso": "Competencias Matemáticas",
+    "tema": "Progresión aritmética",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Durante 12 semanas, Mateo ahorra una cantidad que aumenta S/ 8 cada semana. Si la primera semana ahorra S/ 35, ¿cuánto ahorra en total durante las 12 semanas?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) S/ 984",
+      "B) S/ 861",
+      "C) S/ 896",
+      "D) S/ 948"
+    ],
+    "respuesta": "D) S/ 948",
+    "resolucion": "Los ahorros forman una progresión aritmética de primer término 35 y diferencia 8. El término 12 es 123 y la suma de los 12 términos es S/ 948.",
+    "resolucion_latex": "$$a_{12}=35+11(8)=123,\\qquad S_{12}=\\frac{12(35+123)}2=948$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_10",
+    "curso": "Competencias Matemáticas",
+    "tema": "Operadores matemáticos",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Se define la operación \\(a\\#b=2a+b^2\\). ¿Cuál es el valor de \\((3\\#2)\\#1\\)?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 17",
+      "B) 11",
+      "C) 21",
+      "D) 25"
+    ],
+    "respuesta": "C) 21",
+    "resolucion": "Primero se evalúa la operación entre paréntesis: 3#2 es 10. Luego se usa ese resultado como primer elemento de la segunda operación.",
+    "resolucion_latex": "$$3\\#2=2(3)+2^2=10,\\qquad10\\#1=2(10)+1^2=21$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_11",
+    "curso": "Competencias Matemáticas",
+    "tema": "Función afín",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Un servicio de taxi cobra S/ 6 por iniciar el recorrido y S/ 2,80 por cada kilómetro recorrido. Si \\(x\\) es la cantidad de kilómetros e \\(y\\) el costo total, ¿qué función representa la tarifa?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\(y=8,80x\\)",
+      "B) \\(y=6-2,80x\\)",
+      "C) \\(y=2,80x+6\\)",
+      "D) \\(y=6x+2,80\\)"
+    ],
+    "respuesta": "C) \\(y=2,80x+6\\)",
+    "resolucion": "El costo variable es S/ 2,80 por cada kilómetro y el cobro inicial de S/ 6 es fijo, incluso antes de recorrer distancia.",
+    "resolucion_latex": "$$y=2.80x+6$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_12",
+    "curso": "Competencias Matemáticas",
+    "tema": "Sistema de ecuaciones",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "En una feria se vendieron 46 entradas: las de adulto costaban S/ 18 y las de estudiante, S/ 12. Si la recaudación total fue S/ 672, ¿cuántas entradas de estudiante se vendieron?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 20",
+      "B) 26",
+      "C) 28",
+      "D) 24"
+    ],
+    "respuesta": "B) 26",
+    "resolucion": "Si a es el número de entradas de adulto y e el de estudiante, se forma un sistema con el total de entradas y la recaudación. Al resolverlo, se obtiene a = 20 y e = 26.",
+    "resolucion_latex": "$$a+e=46,\\quad18a+12e=672\\qquad e=46-a\\Rightarrow6a=120\\Rightarrow a=20,\\quad e=26$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_13",
+    "curso": "Competencias Matemáticas",
+    "tema": "Ecuaciones cuadráticas",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Un biohuerto rectangular tiene 84 m² de área. Su largo mide 5 m más que su ancho. ¿Cuál es el perímetro del biohuerto?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 34 m",
+      "B) 36 m",
+      "C) 42 m",
+      "D) 38 m"
+    ],
+    "respuesta": "D) 38 m",
+    "resolucion": "Si el ancho es x, el largo es x + 5. La ecuación de área tiene como solución positiva x = 7; las dimensiones son 7 m y 12 m.",
+    "resolucion_latex": "$$x(x+5)=84\\Rightarrow x^2+5x-84=0\\Rightarrow(x-7)(x+12)=0\\qquad P=2(7+12)=38\\text{ m}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_14",
+    "curso": "Competencias Matemáticas",
+    "tema": "Inecuaciones lineales",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Una empresa de mensajería cobra S/ 35 por recojo y S/ 9 por cada paquete. Si una tienda dispone como máximo de S/ 170, ¿cuántos paquetes como máximo puede enviar?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 16",
+      "B) 18",
+      "C) 14",
+      "D) 15"
+    ],
+    "respuesta": "D) 15",
+    "resolucion": "El costo no debe superar S/ 170. Al restar el costo fijo quedan S/ 135, suficientes para 15 paquetes de S/ 9 cada uno.",
+    "resolucion_latex": "$$35+9n\\le170\\Rightarrow9n\\le135\\Rightarrow n\\le15$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_15",
+    "curso": "Competencias Matemáticas",
+    "tema": "Función exponencial",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Un cultivo inicia con 150 microorganismos y triplica su cantidad cada 4 horas. Si el patrón se mantiene, ¿cuántos microorganismos habrá después de 12 horas?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 2 700",
+      "B) 4 050",
+      "C) 3 600",
+      "D) 1 350"
+    ],
+    "respuesta": "B) 4 050",
+    "resolucion": "En 12 horas transcurren tres periodos de 4 horas. La cantidad inicial se multiplica por 3 en cada periodo, es decir, por 3³ = 27.",
+    "resolucion_latex": "$$n=\\frac{12}{4}=3,\\qquad N=150\\cdot3^3=150\\cdot27=4050$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_16",
+    "curso": "Competencias Matemáticas",
+    "tema": "Función cuadrática",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "La altura de una pelota, en metros, está dada por \\(h(t)=-5t^2+20t+1\\), donde \\(t\\) es el tiempo en segundos. ¿Cuál es la altura máxima que alcanza?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 21 m",
+      "B) 20 m",
+      "C) 26 m",
+      "D) 16 m"
+    ],
+    "respuesta": "A) 21 m",
+    "resolucion": "Como la parábola abre hacia abajo, su vértice representa la altura máxima. Este ocurre a los 2 segundos y la altura correspondiente es 21 m.",
+    "resolucion_latex": "$$t_v=-\\frac{b}{2a}=-\\frac{20}{2(-5)}=2,\\qquad h(2)=-5(4)+20(2)+1=21$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_17",
+    "curso": "Competencias Matemáticas",
+    "tema": "Progresión geométrica",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "En un auditorio, una disposición experimental coloca 6 asientos en la primera fila y el doble que en la fila anterior en cada una de las cuatro filas siguientes. ¿Cuántos asientos hay en total en las cinco filas?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 96",
+      "B) 186",
+      "C) 180",
+      "D) 192"
+    ],
+    "respuesta": "B) 186",
+    "resolucion": "Las cantidades 6, 12, 24, 48 y 96 forman una progresión geométrica de razón 2. La suma de los cinco términos es 186.",
+    "resolucion_latex": "$$S_5=6\\left(\\frac{2^5-1}{2-1}\\right)=6(31)=186$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_18",
+    "curso": "Competencias Matemáticas",
+    "tema": "Intervalos reales",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Sean los intervalos \\(A=[-3;4[\\) y \\(B=]1;6]\\). ¿Cuál es la intersección \\(A\\cap B\\)?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\(]-3;1]\\cup[4;6]\\)",
+      "B) \\([1;4]\\)",
+      "C) \\([-3;6]\\)",
+      "D) \\(]1;4[\\)"
+    ],
+    "respuesta": "D) \\(]1;4[\\)",
+    "resolucion": "La intersección contiene los números que pertenecen a ambos intervalos. Deben ser mayores que 1 y menores que 4; ninguno de esos extremos está incluido.",
+    "resolucion_latex": "$$[-3,4)\\cap(1,6]=(1,4)$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_19",
+    "curso": "Competencias Matemáticas",
+    "tema": "Áreas de figuras planas",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Una plaza cuadrada de 20 m de lado estará rodeada exteriormente por una vereda uniforme de 2 m de ancho. ¿Cuál será el área de la vereda?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 160 m²",
+      "B) 168 m²",
+      "C) 96 m²",
+      "D) 176 m²"
+    ],
+    "respuesta": "D) 176 m²",
+    "resolucion": "La vereda aumenta 2 m a cada lado, de modo que el cuadrado exterior mide 24 m de lado. Se resta el área de la plaza al área total.",
+    "resolucion_latex": "$$A=(20+2+2)^2-20^2=24^2-20^2=576-400=176\\text{ m}^2$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_20",
+    "curso": "Competencias Matemáticas",
+    "tema": "Volumen de cilindro",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Un tanque cilíndrico de 1,5 m de radio y 2 m de altura está lleno al 80 % de su capacidad. ¿Qué volumen de agua contiene?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\(2,4\\pi\\text{ m}^3\\)",
+      "B) \\(7,2\\pi\\text{ m}^3\\)",
+      "C) \\(3,6\\pi\\text{ m}^3\\)",
+      "D) \\(4,5\\pi\\text{ m}^3\\)"
+    ],
+    "respuesta": "C) \\(3,6\\pi\\text{ m}^3\\)",
+    "resolucion": "La capacidad del cilindro es 4,5π m³. Como contiene el 80 % de esa capacidad, el volumen de agua es 3,6π m³.",
+    "resolucion_latex": "$$V=\\pi(1.5)^2(2)=4.5\\pi,\\qquad V_{agua}=0.80(4.5\\pi)=3.6\\pi\\text{ m}^3$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_21",
+    "curso": "Competencias Matemáticas",
+    "tema": "Razones trigonométricas",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "A cierta hora, la sombra de una torre mide \\(12\\sqrt{3}\\) m y el ángulo de elevación del Sol es 30°. Si el terreno es horizontal, ¿cuál es la altura de la torre?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\(6\\sqrt{3}\\) m",
+      "B) 36 m",
+      "C) 12 m",
+      "D) 18 m"
+    ],
+    "respuesta": "C) 12 m",
+    "resolucion": "La altura y la sombra son los catetos opuesto y adyacente al ángulo de 30°. Se aplica la tangente de dicho ángulo.",
+    "resolucion_latex": "$$\\tan30^\\circ=\\frac{h}{12\\sqrt3}\\Rightarrow\\frac1{\\sqrt3}=\\frac{h}{12\\sqrt3}\\Rightarrow h=12\\text{ m}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_22",
+    "curso": "Competencias Matemáticas",
+    "tema": "Teorema de Pitágoras",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Una escalera de 13 m se apoya contra una pared vertical. Si su base está a 5 m de la pared, ¿a qué altura llega su extremo superior?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 8 m",
+      "B) 18 m",
+      "C) 13 m",
+      "D) 12 m"
+    ],
+    "respuesta": "D) 12 m",
+    "resolucion": "La pared, el suelo y la escalera forman un triángulo rectángulo cuya hipotenusa mide 13 m y uno de sus catetos mide 5 m.",
+    "resolucion_latex": "$$h^2+5^2=13^2\\Rightarrow h^2=144\\Rightarrow h=12\\text{ m}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_23",
+    "curso": "Competencias Matemáticas",
+    "tema": "Circunferencia circunscrita",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Los puntos \\(A\\), \\(B\\) y \\(C\\) son tres estaciones y forman un triángulo rectángulo en \\(C\\). Una antena ubicada en el circuncentro está a 8,5 m de cada estación. Si \\(AC=8\\) m, ¿cuánto mide \\(BC\\)?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 15 m",
+      "B) 12 m",
+      "C) 17 m",
+      "D) 9 m"
+    ],
+    "respuesta": "A) 15 m",
+    "resolucion": "En un triángulo rectángulo, el circuncentro es el punto medio de la hipotenusa, por lo que esta mide el doble del radio: 17 m. Al aplicar el teorema de Pitágoras con un cateto de 8 m, el otro cateto mide 15 m.",
+    "resolucion_latex": "$$AB=2R=17\\qquad BC=\\sqrt{17^2-8^2}=\\sqrt{225}=15\\text{ m}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_24",
+    "curso": "Competencias Matemáticas",
+    "tema": "Geometría analítica",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "En un plano cartesiano, un terreno triangular tiene vértices en \\(A(0;0)\\), \\(B(8;0)\\) y \\(C(2;6)\\). ¿Cuál es su área, si cada unidad representa un metro?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 32 m²",
+      "B) 24 m²",
+      "C) 48 m²",
+      "D) 16 m²"
+    ],
+    "respuesta": "B) 24 m²",
+    "resolucion": "El segmento AB es una base horizontal de 8 m. La distancia vertical de C a la recta AB es 6 m, que corresponde a la altura.",
+    "resolucion_latex": "$$A=\\frac{bh}{2}=\\frac{8(6)}2=24\\text{ m}^2$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_25",
+    "curso": "Competencias Matemáticas",
+    "tema": "Polígonos regulares",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Una plaza tiene forma de hexágono regular y su perímetro mide 72 m. ¿Cuál es el área de la plaza?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\(216\\sqrt{3}\\text{ m}^2\\)",
+      "B) \\(864\\text{ m}^2\\)",
+      "C) \\(144\\sqrt{3}\\text{ m}^2\\)",
+      "D) \\(432\\sqrt{3}\\text{ m}^2\\)"
+    ],
+    "respuesta": "A) \\(216\\sqrt{3}\\text{ m}^2\\)",
+    "resolucion": "Cada lado mide 12 m. El hexágono se divide en seis triángulos equiláteros de lado 12, cada uno con área 36√3 m².",
+    "resolucion_latex": "$$s=\\frac{72}{6}=12,\\qquad A=6\\left(\\frac{\\sqrt3}{4}12^2\\right)=216\\sqrt3\\text{ m}^2$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_26",
+    "curso": "Competencias Matemáticas",
+    "tema": "Media ponderada",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "En una evaluación, 12 estudiantes obtuvieron 14 puntos, 18 estudiantes obtuvieron 16 puntos y 10 estudiantes obtuvieron 18 puntos. ¿Cuál fue el promedio del grupo?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 16,2",
+      "B) 15,6",
+      "C) 16,0",
+      "D) 15,9"
+    ],
+    "respuesta": "D) 15,9",
+    "resolucion": "Se suma el producto de cada puntaje por su frecuencia y se divide entre los 40 estudiantes. El total ponderado es 636 puntos.",
+    "resolucion_latex": "$$\\bar x=\\frac{12(14)+18(16)+10(18)}{12+18+10}=\\frac{636}{40}=15.9$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_27",
+    "curso": "Competencias Matemáticas",
+    "tema": "Mediana",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "La tabla muestra las horas diarias de estudio de 20 estudiantes.\n\n<table border=\"1\" cellpadding=\"6\" style=\"width:100%;border-collapse:collapse;text-align:center\"><thead><tr><th>Horas</th><th>1</th><th>2</th><th>3</th><th>4</th></tr></thead><tbody><tr><th>Frecuencia</th><td>4</td><td>7</td><td>6</td><td>3</td></tr></tbody></table>\n\n¿Cuál es la mediana de las horas de estudio?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 2,5 horas",
+      "B) 3 horas",
+      "C) 1,5 horas",
+      "D) 2 horas"
+    ],
+    "respuesta": "D) 2 horas",
+    "resolucion": "Como hay 20 datos, la mediana corresponde al promedio de las posiciones 10 y 11. La frecuencia acumulada hasta 1 hora es 4 y hasta 2 horas es 11; ambas posiciones tienen valor 2.",
+    "resolucion_latex": "$$F(1)=4,\\quad F(2)=4+7=11\\Rightarrow x_{10}=x_{11}=2\\Rightarrow Me=2$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_28",
+    "curso": "Competencias Matemáticas",
+    "tema": "Probabilidad",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Se elige al azar un número entero del 1 al 20. ¿Cuál es la probabilidad de que sea divisible por 3 o por 5?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\(\\frac12\\)",
+      "B) \\(\\frac{9}{20}\\)",
+      "C) \\(\\frac{7}{20}\\)",
+      "D) \\(\\frac{11}{20}\\)"
+    ],
+    "respuesta": "B) \\(\\frac{9}{20}\\)",
+    "resolucion": "Hay 6 múltiplos de 3 y 4 múltiplos de 5. El número 15 aparece en ambos grupos, por lo que se cuenta una sola vez: hay 9 casos favorables de 20.",
+    "resolucion_latex": "$$n(A\\cup B)=6+4-1=9\\Rightarrow P(A\\cup B)=\\frac9{20}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_29",
+    "curso": "Competencias Matemáticas",
+    "tema": "Probabilidad total",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "El 60 % de los estudiantes llega al colegio en bus y el resto caminando. Llega tarde el 10 % de quienes usan bus y el 5 % de quienes caminan. Si se elige un estudiante al azar, ¿cuál es la probabilidad de que llegue tarde?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 0,10",
+      "B) 0,15",
+      "C) 0,08",
+      "D) 0,06"
+    ],
+    "respuesta": "C) 0,08",
+    "resolucion": "Se suman las probabilidades de llegar tarde por cada medio de transporte: 6 % corresponde a quienes usan bus y 2 % a quienes caminan.",
+    "resolucion_latex": "$$P(T)=0.60(0.10)+0.40(0.05)=0.06+0.02=0.08$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_30",
+    "curso": "Competencias Matemáticas",
+    "tema": "Interpretación de datos",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "La tabla muestra las ventas diarias de dos quioscos durante cinco días.\n\n<table border=\"1\" cellpadding=\"6\" style=\"width:100%;border-collapse:collapse;text-align:center\"><thead><tr><th>Quiosco</th><th>L</th><th>M</th><th>X</th><th>J</th><th>V</th></tr></thead><tbody><tr><th>A</th><td>12</td><td>16</td><td>14</td><td>18</td><td>20</td></tr><tr><th>B</th><td>15</td><td>15</td><td>17</td><td>17</td><td>16</td></tr></tbody></table>\n\n¿Cuál afirmación es correcta?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) El quiosco A tiene menor rango que el quiosco B.",
+      "B) Cada quiosco vendió 84 productos en total.",
+      "C) El quiosco B tiene una media mayor que el quiosco A.",
+      "D) Ambos quioscos tienen media y mediana iguales a 16."
+    ],
+    "respuesta": "D) Ambos quioscos tienen media y mediana iguales a 16.",
+    "resolucion": "Cada fila suma 80, por lo que ambas medias son 16. Al ordenar los cinco datos de cada quiosco, el valor central también es 16. El rango de A es 8 y el de B es 2.",
+    "resolucion_latex": "$$\\bar x_A=\\bar x_B=\\frac{80}{5}=16,\\qquad Me_A=Me_B=16$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_31",
+    "curso": "Competencia Lectora",
+    "tema": "Comprensión literal",
+    "contexto": "Texto N.º 1\nTeléfonos en el aula: ¿prohibirlos o aprender a usarlos?\n\nArtículo 1: Una pausa necesaria\n\nMarina Quiroz, docente de secundaria, sostiene que las notificaciones interrumpen la atención incluso cuando el estudiante decide no responderlas. Por ello, propone que, durante las explicaciones y los trabajos individuales, los teléfonos permanezcan guardados en una caja del aula. Si una actividad requiere grabar un experimento o consultar una fuente, el docente puede autorizar su uso durante un tiempo definido. Para Quiroz, este acuerdo disminuye las distracciones y evita que la calidad de una tarea dependa de que cada familia pueda comprar un equipo moderno; cuando se necesita tecnología, la escuela debe ofrecer dispositivos compartidos.\n\nArtículo 2: Regular para aprender\n\nLuis Arce, especialista en ciudadanía digital, considera que una prohibición permanente desaprovecha una oportunidad educativa. Los estudiantes deberán decidir fuera de la escuela cuándo una alerta merece atención, cómo contrastar una publicación y por qué no deben difundir una fotografía sin permiso. Según Arce, esas capacidades no se desarrollan si el dispositivo desaparece de toda experiencia escolar. Propone un protocolo gradual: establecer momentos sin pantalla, explicar el propósito de cada uso, pedir consentimiento antes de registrar imágenes y evaluar si la herramienta ayudó realmente a aprender. También reconoce que poner límites es indispensable y que el teléfono no debe utilizarse solo porque está disponible.\n\nAmbas posturas buscan proteger el aprendizaje, pero difieren en el lugar que conceden al teléfono: Quiroz prioriza retirarlo durante la mayor parte de la clase; Arce prefiere incorporarlo de manera planificada para enseñar autorregulación.",
+    "contexto_img": "",
+    "pregunta": "¿Qué propone Marina Quiroz durante las explicaciones y los trabajos individuales?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Que la escuela entregue un teléfono moderno a cada familia.",
+      "B) Que los teléfonos permanezcan guardados en una caja del aula.",
+      "C) Que cada estudiante silencie únicamente las aplicaciones de entretenimiento.",
+      "D) Que los estudiantes decidan libremente cuándo consultar sus alertas."
+    ],
+    "respuesta": "B) Que los teléfonos permanezcan guardados en una caja del aula.",
+    "resolucion": "El primer artículo señala de manera explícita que, durante las explicaciones y el trabajo individual, los teléfonos deben permanecer guardados en una caja. La autorización temporal se reserva para actividades que realmente los necesiten.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_32",
+    "curso": "Competencia Lectora",
+    "tema": "Comparación de posturas",
+    "contexto": "Depende del Texto N.º 1 del id BECA18_SIMULACRO_04_31",
+    "contexto_img": "",
+    "pregunta": "¿En qué coinciden Marina Quiroz y Luis Arce?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) En que todos los estudiantes deben disponer del mismo modelo de teléfono.",
+      "B) En que la escuela debe excluir los dispositivos de toda actividad académica.",
+      "C) En que el uso libre del teléfono fortalece por sí solo la autonomía.",
+      "D) En que el teléfono requiere límites para no perjudicar el aprendizaje."
+    ],
+    "respuesta": "D) En que el teléfono requiere límites para no perjudicar el aprendizaje.",
+    "resolucion": "Quiroz busca reducir las interrupciones mediante momentos en que el equipo queda guardado. Arce también afirma que los límites son indispensables y propone momentos sin pantalla. La coincidencia es la necesidad de regular el uso, aunque difieran en el grado de integración del dispositivo.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_33",
+    "curso": "Competencia Lectora",
+    "tema": "Contraste de argumentos",
+    "contexto": "Depende del Texto N.º 1 del id BECA18_SIMULACRO_04_31",
+    "contexto_img": "",
+    "pregunta": "¿Qué idea de Luis Arce se opone más directamente a una prohibición permanente?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Apartar siempre el dispositivo impide practicar la autorregulación y la ciudadanía digital.",
+      "B) Las familias deberían comprar equipos con características semejantes.",
+      "C) La escuela debe ofrecer dispositivos compartidos en todas las clases.",
+      "D) Las alertas interrumpen la atención aun cuando no son respondidas."
+    ],
+    "respuesta": "A) Apartar siempre el dispositivo impide practicar la autorregulación y la ciudadanía digital.",
+    "resolucion": "Arce rechaza la prohibición permanente porque considera que elimina oportunidades para aprender a decidir cuándo atender una alerta, contrastar publicaciones y respetar la privacidad. Esa es la objeción directa a retirar siempre los teléfonos.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_34",
+    "curso": "Competencia Lectora",
+    "tema": "Evaluación de argumentos",
+    "contexto": "Depende del Texto N.º 1 del id BECA18_SIMULACRO_04_31",
+    "contexto_img": "",
+    "pregunta": "¿Qué evidencia fortalecería mejor la afirmación de Quiroz de que guardar los teléfonos mejora el aprendizaje?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Un estudio con clases comparables que mida atención y desempeño con y sin ese acuerdo.",
+      "B) Una encuesta sobre los colores de teléfono preferidos por los docentes.",
+      "C) El relato de un estudiante que olvidó su equipo durante una mañana.",
+      "D) La opinión de una empresa que vende cajas para almacenar teléfonos."
+    ],
+    "respuesta": "A) Un estudio con clases comparables que mida atención y desempeño con y sin ese acuerdo.",
+    "resolucion": "La afirmación plantea un efecto sobre atención y aprendizaje. La evidencia más sólida sería comparar grupos semejantes y medir esas variables bajo las dos condiciones. Las demás opciones son testimonios, intereses comerciales o datos que no evalúan el efecto propuesto.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_35",
+    "curso": "Competencia Lectora",
+    "tema": "Aplicación de información",
+    "contexto": "Depende del Texto N.º 1 del id BECA18_SIMULACRO_04_31",
+    "contexto_img": "",
+    "pregunta": "Un profesor autoriza diez minutos para contrastar una noticia en dos fuentes y luego pide guardar los teléfonos. ¿Qué principio compartido por ambos autores aplica?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Toda consulta digital debe realizarse fuera del horario escolar.",
+      "B) El uso del teléfono debe responder a reglas y a un propósito de aprendizaje.",
+      "C) Cada estudiante debe fijar por sí mismo la duración de la actividad.",
+      "D) La tecnología debe reemplazar los materiales proporcionados por la escuela."
+    ],
+    "respuesta": "B) El uso del teléfono debe responder a reglas y a un propósito de aprendizaje.",
+    "resolucion": "El profesor define una finalidad concreta, un tiempo limitado y el momento de guardar los equipos. Esa práctica combina la autorización puntual de Quiroz con el uso planificado que defiende Arce.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_36",
+    "curso": "Competencia Lectora",
+    "tema": "Lectura de tablas",
+    "contexto": "Texto N.º 2\nHuertos escolares: cosechar y reducir residuos\n\nUn municipio realizó un proyecto piloto de huertos durante doce semanas. Las cuatro escuelas registraron el número de participantes, el tiempo semanal de trabajo, la cosecha obtenida y los residuos orgánicos convertidos en compost.\n\n<table border=\"1\" cellpadding=\"6\" style=\"width:100%;border-collapse:collapse;text-align:center\"><thead><tr><th>Escuela</th><th>Estudiantes</th><th>Horas por semana</th><th>Cosecha (kg)</th><th>Residuos compostados (kg)</th></tr></thead><tbody><tr><td>Amanecer</td><td>40</td><td>3</td><td>58</td><td>74</td></tr><tr><td>Río Claro</td><td>40</td><td>2</td><td>41</td><td>52</td></tr><tr><td>Valle Verde</td><td>60</td><td>3</td><td>72</td><td>90</td></tr><tr><td>Pukara</td><td>60</td><td>2</td><td>55</td><td>66</td></tr></tbody></table>\n\nLa cosecha fue pesada al finalizar cada jornada y los residuos procedieron de los comedores escolares. En total, se obtuvieron 226 kg de alimentos y se desviaron 282 kg de residuos del tacho común. Los coordinadores observaron que las escuelas con tres horas semanales registraron mayores cosechas que las escuelas con igual número de participantes y dos horas de trabajo. Sin embargo, el proyecto no midió el tamaño de cada parcela ni las condiciones iniciales del suelo. Tampoco contó con registros anteriores y cada escuela recibió distinta cantidad de lluvia.\n\nPor estas razones, la tabla permite describir y comparar lo ocurrido, pero no demuestra por sí sola que una hora adicional haya causado toda la diferencia. Los responsables recomiendan repetir el proyecto, igualar las áreas de cultivo y registrar el clima antes de decidir qué organización produce mejores resultados.",
+    "contexto_img": "",
+    "pregunta": "¿Qué escuela convirtió en compost la mayor cantidad de residuos orgánicos?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Amanecer",
+      "B) Río Claro",
+      "C) Valle Verde",
+      "D) Pukara"
+    ],
+    "respuesta": "C) Valle Verde",
+    "resolucion": "En la columna «Residuos compostados», Valle Verde registra 90 kg, cantidad superior a los 74 kg de Amanecer, 52 kg de Río Claro y 66 kg de Pukara.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_37",
+    "curso": "Competencia Lectora",
+    "tema": "Relación entre datos",
+    "contexto": "Depende del Texto N.º 2 del id BECA18_SIMULACRO_04_36",
+    "contexto_img": "",
+    "pregunta": "Al comparar las escuelas que tuvieron 40 estudiantes, ¿qué afirmación es correcta?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Amanecer trabajó una hora semanal más y cosechó 17 kg más que Río Claro.",
+      "B) Río Claro trabajó una hora semanal más y compostó 22 kg más que Amanecer.",
+      "C) Amanecer cosechó 22 kg más y compostó 17 kg más que Río Claro.",
+      "D) Ambas escuelas dedicaron el mismo tiempo y obtuvieron cosechas distintas."
+    ],
+    "respuesta": "A) Amanecer trabajó una hora semanal más y cosechó 17 kg más que Río Claro.",
+    "resolucion": "Amanecer y Río Claro tuvieron 40 estudiantes. Amanecer trabajó 3 horas frente a 2 y obtuvo 58 kg frente a 41 kg; la diferencia de cosecha es 58 - 41 = 17 kg.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_38",
+    "curso": "Competencia Lectora",
+    "tema": "Inferencia crítica",
+    "contexto": "Depende del Texto N.º 2 del id BECA18_SIMULACRO_04_36",
+    "contexto_img": "",
+    "pregunta": "¿Por qué no se puede afirmar que la hora adicional de trabajo causó toda la diferencia de cosecha?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Porque la tabla no indica cuántos estudiantes participaron en cada escuela.",
+      "B) Porque los residuos del comedor nunca pueden utilizarse como compost.",
+      "C) Porque todas las escuelas obtuvieron exactamente la misma cantidad de lluvia.",
+      "D) Porque también variaron factores como el área, el suelo y el clima."
+    ],
+    "respuesta": "D) Porque también variaron factores como el área, el suelo y el clima.",
+    "resolucion": "El texto advierte que no se controlaron el tamaño de las parcelas, las condiciones del suelo ni la lluvia. Esas variables también pueden explicar la cosecha; por eso, la asociación observada no basta para establecer causalidad.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_39",
+    "curso": "Competencia Lectora",
+    "tema": "Función de elementos gráficos",
+    "contexto": "Depende del Texto N.º 2 del id BECA18_SIMULACRO_04_36",
+    "contexto_img": "",
+    "pregunta": "¿Cuál es la función principal de la tabla en el texto?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Reemplazar las advertencias sobre las limitaciones del proyecto.",
+      "B) Organizar mediciones de las escuelas para facilitar su comparación.",
+      "C) Demostrar que cualquier huerto con más horas siempre produce más.",
+      "D) Explicar paso a paso cómo construir una compostera escolar."
+    ],
+    "respuesta": "B) Organizar mediciones de las escuelas para facilitar su comparación.",
+    "resolucion": "La tabla distribuye en filas y columnas los participantes, las horas, la cosecha y el compost de cada escuela. Así permite localizar y comparar los datos, pero no prueba causalidad ni ofrece instrucciones de construcción.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_40",
+    "curso": "Competencia Lectora",
+    "tema": "Credibilidad de información",
+    "contexto": "Depende del Texto N.º 2 del id BECA18_SIMULACRO_04_36",
+    "contexto_img": "",
+    "pregunta": "¿Qué información adicional sería más útil para comparar con mayor rigor la productividad de los huertos?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) El área cultivada y las condiciones iniciales del suelo en cada escuela.",
+      "B) La verdura favorita de los coordinadores del proyecto.",
+      "C) El nombre de la empresa que fabricó las balanzas.",
+      "D) El color elegido para los carteles de cada huerto."
+    ],
+    "respuesta": "A) El área cultivada y las condiciones iniciales del suelo en cada escuela.",
+    "resolucion": "El propio texto identifica el área y el suelo como variables no medidas que podrían influir en la cosecha. Incorporarlas permitiría hacer comparaciones más equivalentes. Los otros datos no ayudan a estimar la productividad.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_41",
+    "curso": "Competencia Lectora",
+    "tema": "Comprensión literal",
+    "contexto": "Texto N.º 3\nLíquenes como alerta, no como sentencia\n\nLos líquenes son asociaciones entre un hongo y un organismo capaz de realizar fotosíntesis. Como absorben agua y sustancias directamente de la atmósfera, algunas especies responden con rapidez a cambios en la calidad del aire. Por ello, distintos equipos escolares los utilizan como bioindicadores: registran qué especies aparecen y cuánto espacio ocupan sobre los troncos.\n\nEn una ciudad, estudiantes recorrieron veinte puntos con la misma ficha de observación. Encontraron menor diversidad de líquenes en avenidas de tránsito intenso que en parques periféricos. El resultado permitió señalar lugares que merecían una medición instrumental más detallada. No obstante, los estudiantes evitaron afirmar que habían calculado la concentración exacta de un contaminante. La sombra, la humedad, el tipo de corteza y la poda también modifican la presencia de líquenes.\n\nPara interpretar mejor el registro, el equipo debe calibrar sus observaciones: contrastarlas con sensores de calidad del aire, repetir el muestreo en distintas estaciones y mantener constante el método. El bajo costo de la actividad permite cubrir muchos puntos, pero su utilidad consiste en orientar preguntas y priorizar zonas; no en sustituir por completo a los instrumentos.",
+    "contexto_img": "",
+    "pregunta": "¿Qué encontraron los estudiantes en las avenidas de tránsito intenso?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Menor diversidad de líquenes que en los parques periféricos.",
+      "B) Mayor humedad y más sombra que en todos los parques.",
+      "C) La concentración exacta de cada contaminante atmosférico.",
+      "D) La misma cantidad de especies en los veinte puntos."
+    ],
+    "respuesta": "A) Menor diversidad de líquenes que en los parques periféricos.",
+    "resolucion": "El segundo párrafo indica expresamente que la diversidad de líquenes fue menor en las avenidas con tránsito intenso que en los parques periféricos.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_42",
+    "curso": "Competencia Lectora",
+    "tema": "Relación causal",
+    "contexto": "Depende del Texto N.º 3 del id BECA18_SIMULACRO_04_41",
+    "contexto_img": "",
+    "pregunta": "¿Por qué algunas especies de líquenes pueden funcionar como bioindicadores?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Porque producen instrumentos capaces de medir gases.",
+      "B) Porque crecen únicamente en avenidas con tránsito intenso.",
+      "C) Porque absorben sustancias de la atmósfera y responden a sus cambios.",
+      "D) Porque eliminan todos los contaminantes presentes en la corteza."
+    ],
+    "respuesta": "C) Porque absorben sustancias de la atmósfera y responden a sus cambios.",
+    "resolucion": "El primer párrafo relaciona la absorción directa de agua y sustancias atmosféricas con la respuesta de ciertas especies a los cambios del aire. Esa sensibilidad fundamenta su uso como bioindicadores.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_43",
+    "curso": "Competencia Lectora",
+    "tema": "Vocabulario contextual",
+    "contexto": "Depende del Texto N.º 3 del id BECA18_SIMULACRO_04_41",
+    "contexto_img": "",
+    "pregunta": "En el texto, ¿qué significa «calibrar sus observaciones»?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Contar únicamente los datos obtenidos durante una estación.",
+      "B) Contrastarlas y ajustarlas mediante mediciones y procedimientos constantes.",
+      "C) Sustituir los líquenes por árboles de una sola especie.",
+      "D) Ocultar los registros que no coinciden con la hipótesis inicial."
+    ],
+    "respuesta": "B) Contrastarlas y ajustarlas mediante mediciones y procedimientos constantes.",
+    "resolucion": "El contexto explica el término inmediatamente después de usarlo: se deben contrastar las observaciones con sensores, repetirlas y conservar el método. Por tanto, «calibrar» equivale a comprobar y ajustar el registro con referencias consistentes.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_44",
+    "curso": "Competencia Lectora",
+    "tema": "Inferencia",
+    "contexto": "Depende del Texto N.º 3 del id BECA18_SIMULACRO_04_41",
+    "contexto_img": "",
+    "pregunta": "Si un parque húmedo presenta abundantes líquenes, ¿qué conclusión es más prudente según el texto?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) El aire del parque carece por completo de contaminantes.",
+      "B) La humedad no influye de ninguna forma en los líquenes.",
+      "C) La presencia de líquenes permite conocer la concentración exacta de cada gas.",
+      "D) El dato es una señal que debe evaluarse junto con el microclima y mediciones instrumentales."
+    ],
+    "respuesta": "D) El dato es una señal que debe evaluarse junto con el microclima y mediciones instrumentales.",
+    "resolucion": "El texto advierte que humedad, sombra, corteza y poda también influyen. Por ello, la abundancia de líquenes orienta la investigación, pero no autoriza a declarar que el aire está libre de contaminantes sin más controles.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_45",
+    "curso": "Competencia Lectora",
+    "tema": "Compatibilidad textual",
+    "contexto": "Depende del Texto N.º 3 del id BECA18_SIMULACRO_04_41",
+    "contexto_img": "",
+    "pregunta": "¿Qué afirmación es incompatible con el texto?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Factores distintos de la contaminación alteran la presencia de líquenes.",
+      "B) Los sensores ayudan a interpretar las observaciones biológicas.",
+      "C) Los líquenes sustituyen totalmente a los instrumentos y dan concentraciones exactas.",
+      "D) El muestreo con líquenes puede abarcar numerosos puntos a bajo costo."
+    ],
+    "respuesta": "C) Los líquenes sustituyen totalmente a los instrumentos y dan concentraciones exactas.",
+    "resolucion": "El texto sostiene precisamente lo contrario: los líquenes sirven para orientar preguntas y priorizar zonas, pero no sustituyen a los instrumentos ni calculan por sí solos concentraciones exactas.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_46",
+    "curso": "Competencia Lectora",
+    "tema": "Comprensión literal",
+    "contexto": "Texto N.º 4\nEl cuaderno azul\n\n(1) Después de una noche de lluvia, Amalia llegó temprano a la biblioteca comunal. Había colocado baldes bajo las goteras y ahora revisaba que ningún libro estuviera húmedo. En el estante de geografía encontró un espacio vacío.\n\n(2) Consultó el cuaderno azul de préstamos y leyó: «Atlas de la cuenca - Eusebio Rojas - devolución: hace tres semanas». Amalia sintió fastidio. Pensó que las reglas perdían valor si empezaba a conceder excepciones y buscó el sello rojo que decía ATRASADO.\n\n(3) Antes de usarlo, vio entrar a don Eusebio con el atlas envuelto en una manta y un mapa hecho a mano. El anciano explicó que había recorrido los manantiales con el comité de agua. En los márgenes del libro había anotado nombres antiguos de quebradas; en el mapa, había señalado cuáles seguían activas y cuáles se habían secado. Quería que ambos documentos sirvieran en la próxima asamblea.\n\n(4) Amalia comparó las notas con el mapa. Comprendió que el libro no había quedado olvidado en una mesa: había acompañado una investigación que regresaba enriquecida a la comunidad. También entendió que prestar un bien común exigía informar a tiempo, aun cuando el motivo fuera valioso.\n\n(5) En el cuaderno no borró la fecha vencida. Al costado escribió: «Devuelto con registro de campo; se acordará una ampliación para investigaciones». Luego guardó el sello rojo y abrió una página nueva para anotar las quebradas. Desde entonces, el cuaderno azul dejó de ser solo una lista de deudas y se convirtió en la memoria de lo que los libros ayudaban a descubrir.",
+    "contexto_img": "",
+    "pregunta": "¿Por qué don Eusebio conservó el atlas más tiempo del acordado?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Porque quiso ocultar que el techo de la biblioteca tenía goteras.",
+      "B) Porque lo utilizó para registrar manantiales junto con el comité de agua.",
+      "C) Porque deseaba vender el mapa durante la siguiente asamblea.",
+      "D) Porque no encontró el cuaderno azul para anotar la devolución."
+    ],
+    "respuesta": "B) Porque lo utilizó para registrar manantiales junto con el comité de agua.",
+    "resolucion": "Don Eusebio explica que recorrió los manantiales con el comité de agua, anotó nombres de quebradas en el atlas y preparó un mapa para la asamblea. Ese trabajo explica la demora.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_47",
+    "curso": "Competencia Lectora",
+    "tema": "Tema central",
+    "contexto": "Depende del Texto N.º 4 del id BECA18_SIMULACRO_04_46",
+    "contexto_img": "",
+    "pregunta": "¿Cuál es el tema central del relato?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) La competencia entre un comité de agua y una biblioteca comunal.",
+      "B) La necesidad de aplicar las normas con responsabilidad y atendiendo al bien común.",
+      "C) La conveniencia de eliminar toda fecha de devolución de las bibliotecas.",
+      "D) La inutilidad de los atlas antiguos para reconocer un territorio."
+    ],
+    "respuesta": "B) La necesidad de aplicar las normas con responsabilidad y atendiendo al bien común.",
+    "resolucion": "Amalia no elimina la regla ni ignora la demora: conserva la fecha, reconoce el valor comunitario de la investigación y propone una ampliación formal. El relato muestra una aplicación reflexiva de las normas orientada al bien común.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_48",
+    "curso": "Competencia Lectora",
+    "tema": "Interpretación simbólica",
+    "contexto": "Depende del Texto N.º 4 del id BECA18_SIMULACRO_04_46",
+    "contexto_img": "",
+    "pregunta": "Al final del relato, ¿qué simboliza principalmente el cuaderno azul?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) El temor de los lectores a recibir una sanción.",
+      "B) La fragilidad de los libros durante la temporada de lluvias.",
+      "C) Una memoria compartida de los aprendizajes producidos con los libros.",
+      "D) La sustitución definitiva de los mapas por listas de préstamos."
+    ],
+    "respuesta": "C) Una memoria compartida de los aprendizajes producidos con los libros.",
+    "resolucion": "La última oración indica que el cuaderno deja de ser solo una lista de deudas y registra lo que los libros permiten descubrir. Por eso representa la memoria colectiva del conocimiento generado.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_49",
+    "curso": "Competencia Lectora",
+    "tema": "Caracterización de personajes",
+    "contexto": "Depende del Texto N.º 4 del id BECA18_SIMULACRO_04_46",
+    "contexto_img": "",
+    "pregunta": "¿Qué rasgo define mejor a Amalia?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Es indiferente, porque no se preocupa por los libros mojados.",
+      "B) Es desordenada, porque borra del cuaderno la fecha de devolución.",
+      "C) Es reflexiva, porque revisa los hechos y ajusta la norma sin anularla.",
+      "D) Es impulsiva, porque sanciona a don Eusebio sin escucharlo."
+    ],
+    "respuesta": "C) Es reflexiva, porque revisa los hechos y ajusta la norma sin anularla.",
+    "resolucion": "Aunque inicialmente se irrita, Amalia escucha, compara los documentos y adopta una solución que reconoce tanto la demora como el beneficio de la investigación. Esa conducta evidencia reflexión y sentido de responsabilidad.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_50",
+    "curso": "Competencia Lectora",
+    "tema": "Coherencia textual",
+    "contexto": "Depende del Texto N.º 4 del id BECA18_SIMULACRO_04_46",
+    "contexto_img": "",
+    "pregunta": "¿Después de qué párrafo sería más apropiado insertar la oración «Por primera vez, Amalia dudó de que el retraso significara descuido»?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Después del párrafo 1.",
+      "B) Después del párrafo 3.",
+      "C) Después del párrafo 5.",
+      "D) Después del párrafo 4."
+    ],
+    "respuesta": "B) Después del párrafo 3.",
+    "resolucion": "La duda surge después de que don Eusebio explica en el párrafo 3 el uso comunitario del atlas. Esa reacción prepara la revisión y la comprensión del párrafo 4; antes de escuchar al anciano, Amalia todavía atribuía el retraso a una falta de responsabilidad.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_51",
+    "curso": "Competencia Lectora",
+    "tema": "Comprensión literal",
+    "contexto": "Texto N.º 5\nCapturar niebla sin vaciar el cielo\n\nEn una localidad costera situada en las lomas, el agua llega en camiones durante varios meses del año. Un grupo vecinal instaló diez atrapanieblas: paneles de malla que interceptan las diminutas gotas transportadas por el viento. Las gotas se unen, descienden hacia una canaleta y llegan a un tanque cerrado. El sistema no crea agua ni extrae humedad de las nubes a distancia; aprovecha la niebla que atraviesa físicamente la malla.\n\nDurante un piloto de ocho semanas, cada panel recolectó en promedio 18 litros diarios. Sin embargo, el rendimiento varió entre 4 y 35 litros según la humedad, la velocidad del viento y la limpieza de la malla. Los vecinos registraron diariamente el volumen, limpiaron los paneles una vez por semana y enviaron muestras al laboratorio. Como el agua no recibió tratamiento permanente, se destinó al vivero de plantas nativas y a labores de limpieza, no al consumo humano.\n\nLos promotores presentan los atrapanieblas como una fuente complementaria, especialmente útil para el vivero y durante días favorables. No afirman que puedan reemplazar la red pública o los camiones en todas las estaciones. Para ampliar el proyecto recomiendan estudiar el viento durante un año, calcular las necesidades de cada uso, proteger los tanques y mantener controles de calidad. El valor de la experiencia reside tanto en el agua obtenida como en haber identificado sus condiciones y límites.",
+    "contexto_img": "",
+    "pregunta": "¿Cómo llega el agua capturada hasta el tanque?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Las gotas se unen en la malla y descienden por una canaleta.",
+      "B) El agua subterránea asciende por la malla mediante bombeo.",
+      "C) Las nubes son aspiradas hacia el interior de un depósito.",
+      "D) El laboratorio transporta diariamente las muestras recolectadas."
+    ],
+    "respuesta": "A) Las gotas se unen en la malla y descienden por una canaleta.",
+    "resolucion": "El primer párrafo explica la secuencia: la malla intercepta las gotas, estas se unen y descienden hacia una canaleta que conduce al tanque.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_52",
+    "curso": "Competencia Lectora",
+    "tema": "Idea principal",
+    "contexto": "Depende del Texto N.º 5 del id BECA18_SIMULACRO_04_51",
+    "contexto_img": "",
+    "pregunta": "¿Cuál es la idea principal del texto?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Los atrapanieblas pueden complementar el abastecimiento si se conocen y controlan sus límites.",
+      "B) La malla produce la misma cantidad de agua en cualquier clima.",
+      "C) Los camiones de agua deben ser prohibidos en todas las localidades costeras.",
+      "D) El agua de niebla puede beberse siempre sin tratamiento ni análisis."
+    ],
+    "respuesta": "A) Los atrapanieblas pueden complementar el abastecimiento si se conocen y controlan sus límites.",
+    "resolucion": "Todo el texto explica el funcionamiento, los resultados variables, el uso no potable y las condiciones necesarias para ampliar el sistema. La síntesis adecuada es su utilidad complementaria y condicionada, no una sustitución universal.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_53",
+    "curso": "Competencia Lectora",
+    "tema": "Inferencia",
+    "contexto": "Depende del Texto N.º 5 del id BECA18_SIMULACRO_04_51",
+    "contexto_img": "",
+    "pregunta": "Si durante varios días disminuyen la humedad y el viento, ¿qué es razonable prever?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Que el agua obtenida se volverá potable sin tratamiento.",
+      "B) Que cada panel producirá necesariamente más de 35 litros diarios.",
+      "C) Que el volumen recolectado podría ubicarse por debajo del promedio.",
+      "D) Que la malla empezará a extraer agua subterránea."
+    ],
+    "respuesta": "C) Que el volumen recolectado podría ubicarse por debajo del promedio.",
+    "resolucion": "El rendimiento depende, entre otros factores, de la humedad y la velocidad del viento. Si ambos disminuyen, es razonable esperar una captación menor; el texto no permite afirmar una cifra exacta.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_54",
+    "curso": "Competencia Lectora",
+    "tema": "Uso de datos",
+    "contexto": "Depende del Texto N.º 5 del id BECA18_SIMULACRO_04_51",
+    "contexto_img": "",
+    "pregunta": "¿Para qué se incluyen el promedio de 18 litros y el rango de 4 a 35 litros?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Para mostrar tanto el rendimiento observado como su variación.",
+      "B) Para demostrar que diez paneles reemplazan siempre a la red pública.",
+      "C) Para probar que el agua es apta para beber sin análisis.",
+      "D) Para garantizar que todos los días se obtiene exactamente el promedio."
+    ],
+    "respuesta": "A) Para mostrar tanto el rendimiento observado como su variación.",
+    "resolucion": "El promedio resume el rendimiento del periodo, mientras que el rango evidencia que la captación cambió mucho según las condiciones. Juntos evitan interpretar el promedio como una producción fija.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_55",
+    "curso": "Competencia Lectora",
+    "tema": "Aplicación de información",
+    "contexto": "Depende del Texto N.º 5 del id BECA18_SIMULACRO_04_51",
+    "contexto_img": "",
+    "pregunta": "¿Qué propuesta respeta mejor las conclusiones del piloto?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Instalar paneles sin estudiar el viento porque todas las lomas son iguales.",
+      "B) Retirar los demás sistemas de abastecimiento tras una semana húmeda.",
+      "C) Usarla en actividades no potables, mantener controles y evaluar un periodo más largo.",
+      "D) Distribuir de inmediato el agua para beber porque proviene de la niebla."
+    ],
+    "respuesta": "C) Usarla en actividades no potables, mantener controles y evaluar un periodo más largo.",
+    "resolucion": "El proyecto destina el agua a usos no potables, reconoce la variabilidad y recomienda monitoreo anual y control de calidad. La alternativa C conserva esas precauciones y el carácter complementario del sistema.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_56",
+    "curso": "Competencia Lectora",
+    "tema": "Comprensión literal",
+    "contexto": "Texto N.º 6\nCómo verificar una convocatoria antes de postular\n\nUna imagen reenviada puede anunciar una beca real y, al mismo tiempo, contener una fecha antigua o un enlace falso. Antes de entregar datos personales, sigue esta ruta de verificación:\n\n1. Localiza la fuente oficial. Escribe tú mismo la dirección de la institución o búscala en un portal estatal reconocido. Revisa con cuidado el dominio; un logotipo copiado no demuestra autenticidad.\n\n2. Compara la versión. Confirma el año, la fecha de actualización, el cronograma y el número de las bases. Si una captura contradice el documento vigente, prevalece la publicación oficial más reciente.\n\n3. Distingue requisitos de recomendaciones. Un requisito aparece en las bases y puede impedir la postulación; una recomendación orienta, pero no crea una obligación nueva.\n\n4. Verifica los mensajes sospechosos. Una convocatoria legítima no se vuelve confiable solo por prometer urgencia. Si te piden una contraseña, un código de acceso o un depósito en una cuenta personal, interrumpe el trámite y consulta por los canales publicados en el sitio oficial.\n\n5. Guarda evidencia. Conserva el PDF de las bases, la dirección web y la fecha de consulta. Así podrás revisar cambios y formular una pregunta precisa.\n\nVerificar no significa desconfiar de todo, sino conceder confianza después de contrastar la información. Un mensaje puede usar el logotipo oficial; sin embargo, si solicita un pago a una cuenta personal, esa contradicción obliga a detenerse y consultar.",
+    "contexto_img": "",
+    "pregunta": "Según la ruta propuesta, ¿qué debe hacerse primero?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Realizar el depósito antes de que termine la supuesta oferta.",
+      "B) Localizar la fuente oficial y revisar su dominio.",
+      "C) Enviar una contraseña para confirmar la identidad.",
+      "D) Guardar únicamente la imagen recibida por mensajería."
+    ],
+    "respuesta": "B) Localizar la fuente oficial y revisar su dominio.",
+    "resolucion": "El paso 1 indica localizar la fuente oficial escribiendo la dirección o usando un portal reconocido, y comprobar el dominio. Las otras conductas son insuficientes o expresamente riesgosas.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_57",
+    "curso": "Competencia Lectora",
+    "tema": "Propósito comunicativo",
+    "contexto": "Depende del Texto N.º 6 del id BECA18_SIMULACRO_04_56",
+    "contexto_img": "",
+    "pregunta": "¿Cuál es el propósito principal del texto?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Promocionar un servicio privado de almacenamiento de documentos.",
+      "B) Narrar el origen histórico de las convocatorias de becas.",
+      "C) Convencer de que ninguna información digital merece confianza.",
+      "D) Orientar al postulante para comprobar una convocatoria de forma segura."
+    ],
+    "respuesta": "D) Orientar al postulante para comprobar una convocatoria de forma segura.",
+    "resolucion": "El texto presenta una secuencia de acciones para localizar la fuente, comparar versiones, interpretar requisitos, detectar riesgos y guardar evidencia. Su finalidad es instructiva y preventiva.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_58",
+    "curso": "Competencia Lectora",
+    "tema": "Inferencia",
+    "contexto": "Depende del Texto N.º 6 del id BECA18_SIMULACRO_04_56",
+    "contexto_img": "",
+    "pregunta": "¿Por qué una captura de pantalla no basta para confirmar una convocatoria?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Porque todas las capturas eliminan automáticamente los logotipos.",
+      "B) Porque puede estar desactualizada o haber sido modificada fuera de la fuente oficial.",
+      "C) Porque los documentos oficiales nunca incluyen fechas ni cronogramas.",
+      "D) Porque una institución solo comunica información mediante llamadas."
+    ],
+    "respuesta": "B) Porque puede estar desactualizada o haber sido modificada fuera de la fuente oficial.",
+    "resolucion": "La introducción advierte que una imagen reenviada puede contener datos antiguos o enlaces falsos. De allí se infiere que debe contrastarse con la versión vigente en el sitio oficial.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_59",
+    "curso": "Competencia Lectora",
+    "tema": "Conectores textuales",
+    "contexto": "Depende del Texto N.º 6 del id BECA18_SIMULACRO_04_56",
+    "contexto_img": "",
+    "pregunta": "En la oración final, ¿qué relación establece el conector «sin embargo» entre el uso del logotipo y la solicitud de pago?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Causa, porque el logotipo produce la solicitud de pago.",
+      "B) Contraste, porque una señal de apariencia oficial se opone a un indicio de fraude.",
+      "C) Finalidad, porque el pago se realiza para obtener el logotipo.",
+      "D) Adición, porque ambos hechos confirman por igual la autenticidad."
+    ],
+    "respuesta": "B) Contraste, porque una señal de apariencia oficial se opone a un indicio de fraude.",
+    "resolucion": "«Sin embargo» es un conector adversativo. Enfrenta la apariencia de autenticidad creada por el logotipo con la petición sospechosa de enviar dinero a una cuenta personal.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_04_60",
+    "curso": "Competencia Lectora",
+    "tema": "Plan de redacción",
+    "contexto": "Depende del Texto N.º 6 del id BECA18_SIMULACRO_04_56",
+    "contexto_img": "",
+    "pregunta": "¿Qué secuencia reproduce correctamente el plan de verificación del texto?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Guardar evidencia - enviar datos - localizar la fuente - pagar - comparar la versión.",
+      "B) Verificar mensajes - borrar las bases - confiar en el logotipo - localizar la fuente - pagar.",
+      "C) Localizar la fuente - comparar la versión - distinguir requisitos - verificar mensajes - guardar evidencia.",
+      "D) Distinguir requisitos - guardar una captura - compartirla - localizar la fuente - comparar la versión."
+    ],
+    "respuesta": "C) Localizar la fuente - comparar la versión - distinguir requisitos - verificar mensajes - guardar evidencia.",
+    "resolucion": "La alternativa C mantiene el orden de los cinco pasos del texto. Las demás secuencias alteran el procedimiento e incluyen acciones que la guía desaconseja.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  }
+]
