@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "BECA18_SIMULACRO_05_1",
+    "curso": "Competencias Matemáticas",
+    "tema": "Máximo común divisor",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Una distribuidora debe guardar 756 cuadernos y 630 fólderes en cajas que contengan la mayor cantidad posible de artículos. Todas las cajas deben contener la misma cantidad y no se pueden mezclar productos. ¿Cuántas cajas se necesitan como mínimo?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 63",
+      "B) 126",
+      "C) 11",
+      "D) 9"
+    ],
+    "respuesta": "C) 11",
+    "resolucion": "La mayor cantidad que puede colocarse en cada caja es el MCD de 756 y 630, que es 126. Se llenan 6 cajas de cuadernos y 5 de fólderes: 11 en total.",
+    "resolucion_latex": "$$\\operatorname{MCD}(756,630)=126,\\qquad\\frac{756}{126}+\\frac{630}{126}=6+5=11$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_2",
+    "curso": "Competencias Matemáticas",
+    "tema": "Operaciones con fracciones",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Diego gasta \\(\\frac{1}{3}\\) de su dinero en materiales y luego \\(\\frac{1}{4}\\) de lo que le queda en transporte. Si conserva S/ 360, ¿cuánto dinero tenía al inicio?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) S/ 540",
+      "B) S/ 600",
+      "C) S/ 640",
+      "D) S/ 720"
+    ],
+    "respuesta": "D) S/ 720",
+    "resolucion": "Después del primer gasto queda 2/3 del dinero y, tras el segundo, conserva 3/4 de ese resto. Por tanto, los S/ 360 representan la mitad del monto inicial.",
+    "resolucion_latex": "$$\\left(1-\\frac13\\right)\\left(1-\\frac14\\right)x=\\frac23\\cdot\\frac34x=\\frac12x=360\\Rightarrow x=720$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_3",
+    "curso": "Competencias Matemáticas",
+    "tema": "Porcentajes",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Un centro de formación registró 400 inscripciones en marzo. En abril, la cantidad aumentó 15 % respecto de marzo y, en mayo, disminuyó 20 % respecto de abril. ¿Cuántas inscripciones se registraron en mayo?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 368",
+      "B) 380",
+      "C) 480",
+      "D) 320"
+    ],
+    "respuesta": "A) 368",
+    "resolucion": "El aumento de abril se representa multiplicando por 1,15. La disminución de mayo se aplica sobre ese nuevo valor y se representa multiplicando por 0,80. Así se obtienen 368 inscripciones.",
+    "resolucion_latex": "$$400(1.15)=460\\qquad460(0.80)=368$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_4",
+    "curso": "Competencias Matemáticas",
+    "tema": "Interés simple",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Un ahorro produjo S/ 360 de interés simple en 10 meses, a una tasa de 12 % anual. ¿Cuál fue el capital depositado?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) S/ 3 600",
+      "B) S/ 4 320",
+      "C) S/ 3 300",
+      "D) S/ 3 000"
+    ],
+    "respuesta": "A) S/ 3 600",
+    "resolucion": "Diez meses equivalen a 10/12 de año. En la fórmula del interés simple, la tasa y el tiempo producen el factor 0,10. Por ello, el capital es S/ 3 600.",
+    "resolucion_latex": "$$360=C(0.12)\\left(\\frac{10}{12}\\right)=0.10C\\Rightarrow C=3600$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_5",
+    "curso": "Competencias Matemáticas",
+    "tema": "Interés simple y compuesto",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Dos personas depositan S/ 5 000 durante 2 años a una tasa anual de 10 %. Una cuenta aplica interés simple y la otra, interés compuesto con capitalización anual. ¿Cuánto más produce la cuenta de interés compuesto?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) S/ 100",
+      "B) S/ 500",
+      "C) S/ 50",
+      "D) S/ 25"
+    ],
+    "respuesta": "C) S/ 50",
+    "resolucion": "Con interés simple, el monto es S/ 6 000. Con capitalización anual, el monto es S/ 6 050. La diferencia entre ambos es S/ 50.",
+    "resolucion_latex": "$$M_s=5000[1+0.10(2)]=6000,\\quad M_c=5000(1.10)^2=6050\\\\M_c-M_s=50$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_6",
+    "curso": "Competencias Matemáticas",
+    "tema": "Notación científica",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "En un experimento se multiplica \\(4,8\\times10^{-6}\\) por \\(3\\times10^4\\). ¿Cuál es el resultado expresado en notación científica?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\(14,4\\times10^{-1}\\)",
+      "B) \\(1,44\\times10^{-2}\\)",
+      "C) \\(1,44\\times10^2\\)",
+      "D) \\(1,44\\times10^{-1}\\)"
+    ],
+    "respuesta": "D) \\(1,44\\times10^{-1}\\)",
+    "resolucion": "Se multiplican los coeficientes y se suman los exponentes. Como 14,4 no es un coeficiente normalizado, se mueve la coma un lugar y aumenta el exponente.",
+    "resolucion_latex": "$$(4.8\\times10^{-6})(3\\times10^4)=14.4\\times10^{-2}=1.44\\times10^{-1}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_7",
+    "curso": "Competencias Matemáticas",
+    "tema": "Proporcionalidad directa",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Una panadería emplea 750 g de harina para preparar 12 panes iguales. ¿Cuántos kilogramos de harina necesita para preparar 30 panes con la misma receta?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 1,875 kg",
+      "B) 2,250 kg",
+      "C) 1,800 kg",
+      "D) 3,125 kg"
+    ],
+    "respuesta": "A) 1,875 kg",
+    "resolucion": "La harina es directamente proporcional a la cantidad de panes. Para 30 panes se requieren 1 875 g, equivalentes a 1,875 kg.",
+    "resolucion_latex": "$$\\frac{750}{12}=\\frac{x}{30}\\Rightarrow x=1875\\text{ g}=1.875\\text{ kg}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_8",
+    "curso": "Competencias Matemáticas",
+    "tema": "Proporcionalidad inversa",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Ocho bombas idénticas vacían un reservorio en 15 horas. Si funcionan 12 bombas al mismo ritmo, ¿en cuánto tiempo vaciarán el mismo reservorio?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 12 horas",
+      "B) 8 horas",
+      "C) 10 horas",
+      "D) 9 horas"
+    ],
+    "respuesta": "C) 10 horas",
+    "resolucion": "Para un volumen fijo, el número de bombas y el tiempo son inversamente proporcionales. El producto de ambas magnitudes permanece constante.",
+    "resolucion_latex": "$$8(15)=12t\\Rightarrow t=10\\text{ horas}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_9",
+    "curso": "Competencias Matemáticas",
+    "tema": "Aproximación decimal",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "¿Cuál es el valor de \\(\\frac{7}{13}\\) aproximado a las milésimas?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 0,538",
+      "B) 0,540",
+      "C) 0,53",
+      "D) 0,539"
+    ],
+    "respuesta": "A) 0,538",
+    "resolucion": "La división produce 0,538461… Para aproximar a las milésimas se conservan tres decimales; como la siguiente cifra es 4, el 8 no aumenta.",
+    "resolucion_latex": "$$\\frac7{13}=0.538461\\ldots\\approx0.538$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_10",
+    "curso": "Competencias Matemáticas",
+    "tema": "Sucesiones",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Observa la sucesión: 3; 8; 15; 24; 35; … ¿Cuál es el siguiente término?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 46",
+      "B) 48",
+      "C) 45",
+      "D) 42"
+    ],
+    "respuesta": "B) 48",
+    "resolucion": "Las diferencias entre términos son los números impares consecutivos 5, 7, 9 y 11. La siguiente diferencia es 13, por lo que el nuevo término es 35 + 13.",
+    "resolucion_latex": "$$8-3=5,\\ 15-8=7,\\ 24-15=9,\\ 35-24=11\\Rightarrow a_6=35+13=48$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_11",
+    "curso": "Competencias Matemáticas",
+    "tema": "Expresiones algebraicas",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Para \\(x\\ne3\\), se define \\(E=\\frac{x^2-9}{x-3}\\). ¿Cuál es el valor de \\(E\\) cuando \\(x=7\\)?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 4",
+      "B) 7",
+      "C) 10",
+      "D) 16"
+    ],
+    "respuesta": "C) 10",
+    "resolucion": "El numerador es una diferencia de cuadrados. Se factoriza y se cancela el factor x − 3, permitido porque x es distinto de 3; luego se reemplaza x = 7.",
+    "resolucion_latex": "$$E=\\frac{(x-3)(x+3)}{x-3}=x+3,\\qquad E(7)=10$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_12",
+    "curso": "Competencias Matemáticas",
+    "tema": "Ecuaciones lineales",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Un centro de copiado cobra S/ 18 por preparar un archivo y S/ 0,35 por cada página impresa. Si una persona pagó S/ 88 en total, ¿cuántas páginas imprimió?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 200",
+      "B) 180",
+      "C) 220",
+      "D) 250"
+    ],
+    "respuesta": "A) 200",
+    "resolucion": "Al descontar el costo fijo de preparación, quedan S/ 70 correspondientes a las páginas. Al dividir ese importe entre S/ 0,35 por página, se obtienen 200 páginas.",
+    "resolucion_latex": "$$18+0.35x=88\\Rightarrow0.35x=70\\Rightarrow x=200$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_13",
+    "curso": "Competencias Matemáticas",
+    "tema": "Sistema de ecuaciones",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Una tienda vendió 22 botellas de jugo: las de mango costaban S/ 5 y las de naranja, S/ 3. Si recaudó S/ 86, ¿cuántas botellas de mango vendió?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 10",
+      "B) 8",
+      "C) 14",
+      "D) 12"
+    ],
+    "respuesta": "A) 10",
+    "resolucion": "Si m y n son las cantidades de botellas de mango y naranja, su suma es 22 y el ingreso es 5m + 3n = 86. Al resolver, m = 10.",
+    "resolucion_latex": "$$m+n=22,\\quad5m+3n=86\\\\n=22-m\\Rightarrow5m+3(22-m)=86\\Rightarrow m=10$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_14",
+    "curso": "Competencias Matemáticas",
+    "tema": "Ecuaciones cuadráticas",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Un terreno rectangular tiene 96 m² de área y su largo mide 4 m más que su ancho. ¿Cuál es la suma de sus dimensiones?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 16 m",
+      "B) 28 m",
+      "C) 20 m",
+      "D) 24 m"
+    ],
+    "respuesta": "C) 20 m",
+    "resolucion": "Si el ancho es x, el largo es x + 4. La solución positiva de la ecuación de área es x = 8; por tanto, el largo mide 12 m y la suma es 20 m.",
+    "resolucion_latex": "$$x(x+4)=96\\Rightarrow x^2+4x-96=0\\Rightarrow(x-8)(x+12)=0\\\\x=8,\\quad x+4=12,\\quad8+12=20$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_15",
+    "curso": "Competencias Matemáticas",
+    "tema": "Inecuaciones lineales",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Un plan de almacenamiento cobra S/ 25 mensuales más S/ 4 por cada gigabyte adicional. Si Elena puede pagar como máximo S/ 73, ¿cuántos gigabytes adicionales puede contratar como máximo?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 10",
+      "B) 18",
+      "C) 11",
+      "D) 12"
+    ],
+    "respuesta": "D) 12",
+    "resolucion": "El costo total no puede exceder S/ 73. Después del cobro fijo quedan S/ 48, que permiten contratar como máximo 12 gigabytes adicionales.",
+    "resolucion_latex": "$$25+4x\\le73\\Rightarrow4x\\le48\\Rightarrow x\\le12$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_16",
+    "curso": "Competencias Matemáticas",
+    "tema": "Función lineal",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Un tanque contiene 600 litros y pierde agua a razón constante de 35 litros por minuto. ¿Después de cuántos minutos contendrá 250 litros?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 17 minutos",
+      "B) 10 minutos",
+      "C) 8 minutos",
+      "D) 12 minutos"
+    ],
+    "respuesta": "B) 10 minutos",
+    "resolucion": "La cantidad de agua después de t minutos es 600 − 35t. Al igualar esta expresión a 250, se obtiene que deben transcurrir 10 minutos.",
+    "resolucion_latex": "$$A(t)=600-35t,\\qquad600-35t=250\\Rightarrow35t=350\\Rightarrow t=10$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_17",
+    "curso": "Competencias Matemáticas",
+    "tema": "Decaimiento exponencial",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Una sustancia contiene inicialmente 320 mg de un componente activo y su cantidad se reduce a la mitad cada 3 horas. ¿Cuántos miligramos quedarán después de 12 horas?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 40 mg",
+      "B) 10 mg",
+      "C) 80 mg",
+      "D) 20 mg"
+    ],
+    "respuesta": "D) 20 mg",
+    "resolucion": "En 12 horas transcurren cuatro periodos de 3 horas. La cantidad se multiplica cuatro veces por 1/2, por lo que queda la dieciseisava parte del valor inicial.",
+    "resolucion_latex": "$$n=\\frac{12}{3}=4,\\qquad320\\left(\\frac12\\right)^4=\\frac{320}{16}=20\\text{ mg}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_18",
+    "curso": "Competencias Matemáticas",
+    "tema": "Identidades algebraicas",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Si \\(x+\\frac1x=5\\), con \\(x\\ne0\\), ¿cuál es el valor de \\(x^2+\\frac1{x^2}\\)?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 27",
+      "B) 21",
+      "C) 25",
+      "D) 23"
+    ],
+    "respuesta": "D) 23",
+    "resolucion": "Se eleva al cuadrado la igualdad dada. El término doble es 2 porque x multiplicado por 1/x es 1; al restarlo de 25 se obtiene 23.",
+    "resolucion_latex": "$$\\left(x+\\frac1x\\right)^2=x^2+2+\\frac1{x^2}=25\\Rightarrow x^2+\\frac1{x^2}=23$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_19",
+    "curso": "Competencias Matemáticas",
+    "tema": "Volumen de prismas",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Un depósito con forma de prisma rectangular mide 2,4 m de largo, 1,5 m de ancho y 0,8 m de alto. Si está lleno al 75 % de su capacidad, ¿qué volumen de agua contiene?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 1,80 m³",
+      "B) 2,88 m³",
+      "C) 2,16 m³",
+      "D) 1,44 m³"
+    ],
+    "respuesta": "C) 2,16 m³",
+    "resolucion": "La capacidad total es el producto de las tres dimensiones: 2,88 m³. El 75 % de dicha capacidad equivale a 2,16 m³.",
+    "resolucion_latex": "$$V=2.4(1.5)(0.8)=2.88\\text{ m}^3,\\qquad V_{agua}=0.75(2.88)=2.16\\text{ m}^3$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_20",
+    "curso": "Competencias Matemáticas",
+    "tema": "Áreas de figuras compuestas",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Una zona recreativa está formada por un rectángulo de 14 m por 8 m unido, por uno de sus lados de 8 m, a un semicírculo cuyo diámetro mide 8 m. ¿Cuál es el área total?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\((56+8\\pi)\\text{ m}^2\\)",
+      "B) \\((112+8\\pi)\\text{ m}^2\\)",
+      "C) \\(120\\pi\\text{ m}^2\\)",
+      "D) \\((112+16\\pi)\\text{ m}^2\\)"
+    ],
+    "respuesta": "B) \\((112+8\\pi)\\text{ m}^2\\)",
+    "resolucion": "El rectángulo tiene 112 m². El semicírculo tiene radio 4 m y área 8π m². Al sumar ambas regiones se obtiene el área total.",
+    "resolucion_latex": "$$A=14(8)+\\frac12\\pi(4)^2=112+8\\pi\\text{ m}^2$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_21",
+    "curso": "Competencias Matemáticas",
+    "tema": "Diagonal de un rectángulo",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Una pantalla rectangular mide 18 m de alto y 24 m de ancho. Se coloca un sensor en su centro. ¿Qué distancia hay desde una esquina de la pantalla hasta el sensor?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 12 m",
+      "B) 15 m",
+      "C) 18 m",
+      "D) 30 m"
+    ],
+    "respuesta": "B) 15 m",
+    "resolucion": "La diagonal del rectángulo mide 30 m por el teorema de Pitágoras. Como las diagonales de un rectángulo se bisecan, el centro está a la mitad de la diagonal, es decir, a 15 m de cada esquina.",
+    "resolucion_latex": "$$d=\\sqrt{18^2+24^2}=30\\qquad \\frac d2=15\\text{ m}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_22",
+    "curso": "Competencias Matemáticas",
+    "tema": "Circunferencias concéntricas",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Una pista circular ocupa la región comprendida entre dos circunferencias concéntricas de radios 10 m y 6 m. ¿Cuál es el área de la pista?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\(16\\pi\\text{ m}^2\\)",
+      "B) \\(136\\pi\\text{ m}^2\\)",
+      "C) \\(64\\pi\\text{ m}^2\\)",
+      "D) \\(100\\pi\\text{ m}^2\\)"
+    ],
+    "respuesta": "C) \\(64\\pi\\text{ m}^2\\)",
+    "resolucion": "El área de la pista es la diferencia entre las áreas del círculo mayor y del menor. Se restan los cuadrados de sus radios y se multiplica por π.",
+    "resolucion_latex": "$$A=\\pi(10^2-6^2)=\\pi(100-36)=64\\pi\\text{ m}^2$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_23",
+    "curso": "Competencias Matemáticas",
+    "tema": "Razones trigonométricas",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Una persona observa la cima de una torre con un ángulo de elevación de 45° desde un punto situado a 50 m de la base. Si sus ojos están a 1,6 m del suelo, ¿cuál es la altura de la torre?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 48,4 m",
+      "B) 50 m",
+      "C) 80 m",
+      "D) 51,6 m"
+    ],
+    "respuesta": "D) 51,6 m",
+    "resolucion": "Con un ángulo de 45°, la diferencia de altura entre los ojos y la cima es igual a la distancia horizontal: 50 m. Se agrega la altura de los ojos.",
+    "resolucion_latex": "$$\\tan45^\\circ=\\frac{H-1.6}{50}=1\\Rightarrow H-1.6=50\\Rightarrow H=51.6\\text{ m}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_24",
+    "curso": "Competencias Matemáticas",
+    "tema": "Polígonos regulares",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Cada ángulo interior de un polígono regular mide 150°. ¿Cuántos lados tiene el polígono?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 10",
+      "B) 15",
+      "C) 12",
+      "D) 18"
+    ],
+    "respuesta": "C) 12",
+    "resolucion": "El ángulo exterior mide 180° − 150° = 30°. La suma de los ángulos exteriores de cualquier polígono convexo es 360°, por lo que hay 12 lados.",
+    "resolucion_latex": "$$\\alpha_e=180^\\circ-150^\\circ=30^\\circ,\\qquad n=\\frac{360^\\circ}{30^\\circ}=12$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_25",
+    "curso": "Competencias Matemáticas",
+    "tema": "Geometría analítica",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Dos vértices opuestos de un rectángulo cuyos lados son paralelos a los ejes están en \\((-2;1)\\) y \\((5;6)\\). ¿Cuál es el perímetro del rectángulo?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 12 unidades",
+      "B) 35 unidades",
+      "C) 20 unidades",
+      "D) 24 unidades"
+    ],
+    "respuesta": "D) 24 unidades",
+    "resolucion": "La longitud horizontal es 5 − (−2) = 7 y la vertical es 6 − 1 = 5. El perímetro es dos veces la suma de ambas longitudes.",
+    "resolucion_latex": "$$b=5-(-2)=7,\\quad h=6-1=5,\\quad P=2(7+5)=24$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_26",
+    "curso": "Competencias Matemáticas",
+    "tema": "Frecuencia acumulada",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "La tabla resume las edades de 30 participantes.\n\n<table border=\"1\" cellpadding=\"6\" style=\"width:100%;border-collapse:collapse;text-align:center\"><thead><tr><th>Edad</th><th>Frecuencia</th><th>Frecuencia acumulada</th></tr></thead><tbody><tr><td>[10;12[</td><td>5</td><td>5</td></tr><tr><td>[12;14[</td><td>x</td><td>13</td></tr><tr><td>[14;16[</td><td>12</td><td>25</td></tr><tr><td>[16;18]</td><td>5</td><td>30</td></tr></tbody></table>\n\n¿Cuál es el valor de \\(x\\)?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 8",
+      "B) 12",
+      "C) 5",
+      "D) 13"
+    ],
+    "respuesta": "A) 8",
+    "resolucion": "La frecuencia acumulada del segundo intervalo se obtiene sumando la frecuencia del primero y la del segundo. Por tanto, 5 + x = 13.",
+    "resolucion_latex": "$$5+x=13\\Rightarrow x=8$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_27",
+    "curso": "Competencias Matemáticas",
+    "tema": "Promedio ponderado",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Una estudiante obtuvo 15 en Matemática, 17 en Comunicación y 14 en Ciencia. Los cursos tienen pesos 4, 3 y 2, respectivamente. ¿Cuál es su promedio ponderado, aproximado a las centésimas?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 15,67",
+      "B) 15,00",
+      "C) 15,44",
+      "D) 15,33"
+    ],
+    "respuesta": "C) 15,44",
+    "resolucion": "Se multiplica cada nota por su peso, se suman los productos y se divide entre la suma de los pesos. El cociente 139/9 se aproxima a 15,44.",
+    "resolucion_latex": "$$\\bar x=\\frac{15(4)+17(3)+14(2)}{4+3+2}=\\frac{139}{9}=15.444\\ldots\\approx15.44$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_28",
+    "curso": "Competencias Matemáticas",
+    "tema": "Probabilidad",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Se lanzan dos dados equilibrados de seis caras. ¿Cuál es la probabilidad de que la suma de los resultados sea 9?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\(\\frac14\\)",
+      "B) \\(\\frac5{36}\\)",
+      "C) \\(\\frac16\\)",
+      "D) \\(\\frac19\\)"
+    ],
+    "respuesta": "D) \\(\\frac19\\)",
+    "resolucion": "Hay 36 pares ordenados equiprobables. Suman 9 los pares (3,6), (4,5), (5,4) y (6,3), de modo que existen cuatro casos favorables.",
+    "resolucion_latex": "$$P=\\frac4{36}=\\frac19$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_29",
+    "curso": "Competencias Matemáticas",
+    "tema": "Probabilidad sin reemplazo",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Una bolsa contiene 5 fichas rojas, 4 azules y 3 verdes. Se extraen dos fichas sucesivamente sin reemplazo. ¿Cuál es la probabilidad de obtener primero una roja y luego una azul?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) \\(\\frac5{33}\\)",
+      "B) \\(\\frac5{36}\\)",
+      "C) \\(\\frac3{11}\\)",
+      "D) \\(\\frac5{22}\\)"
+    ],
+    "respuesta": "A) \\(\\frac5{33}\\)",
+    "resolucion": "La probabilidad de extraer primero una ficha roja es 5/12. Sin reemplazarla quedan 11 fichas, de las cuales 4 son azules. Se multiplican ambas probabilidades.",
+    "resolucion_latex": "$$P(R\\text{ y luego }A)=\\frac5{12}\\cdot\\frac4{11}=\\frac{20}{132}=\\frac5{33}$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_30",
+    "curso": "Competencias Matemáticas",
+    "tema": "Medidas estadísticas",
+    "contexto": "",
+    "contexto_img": "",
+    "pregunta": "Se registraron los puntajes de dos equipos.\n\nEquipo A: 12; 12; 14; 16; 16.\nEquipo B: 10; 13; 14; 15; 18.\n\n¿Cuál afirmación es correcta?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) El equipo B tiene media 15 y rango 8.",
+      "B) El equipo A tiene mayor media que el equipo B.",
+      "C) Ambos tienen el mismo rango, pero distintas medianas.",
+      "D) Ambos tienen media y mediana 14, pero el rango de B duplica al de A."
+    ],
+    "respuesta": "D) Ambos tienen media y mediana 14, pero el rango de B duplica al de A.",
+    "resolucion": "Cada conjunto suma 70, así que ambas medias son 14, y el tercer dato de ambos es 14. El rango de A es 4 y el de B es 8.",
+    "resolucion_latex": "$$\\bar x_A=\\bar x_B=\\frac{70}{5}=14,\\quad Me_A=Me_B=14,\\quad R_A=4,\\ R_B=8$$",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_31",
+    "curso": "Competencia Lectora",
+    "tema": "Comprensión literal",
+    "contexto": "Texto N.º 1\nTutor de inteligencia artificial: apoyo con condiciones\n\nArtículo 1: Practicar con retroalimentación\n\nElena Salas, coordinadora académica, propone probar un tutor de inteligencia artificial fuera del horario de clase. La herramienta trabajaría solo con un banco de contenidos seleccionado por los docentes y ofrecería pistas, no la respuesta final. Cada estudiante podría practicar a su ritmo y pedir una explicación adicional cuando no comprenda un procedimiento. El profesor revisaría los registros, identificaría errores frecuentes y decidiría qué contenidos retomar; el sistema no asignaría calificaciones. Para Salas, su utilidad depende de que amplíe las oportunidades de práctica sin desplazar el acompañamiento humano.\n\nArtículo 2: La fluidez no garantiza exactitud\n\nRafael Medina, investigador en tecnología educativa, advierte que una explicación bien redactada puede contener un error y parecer convincente. También pregunta quién almacena las consultas, durante cuánto tiempo y con qué propósito. Si la herramienta se vuelve la única vía de apoyo, los estudiantes con menor conectividad quedarían en desventaja y otros podrían depender de respuestas inmediatas. Medina no descarta un piloto limitado, pero exige una evaluación independiente, consentimiento informado, una alternativa no automatizada y reglas que impidan usar los datos para decisiones ajenas al aprendizaje.\n\nAmbos autores consideran que la herramienta debe permanecer subordinada a una decisión pedagógica. Salas destaca la práctica personalizada; Medina insiste en controlar la exactitud, la privacidad y la equidad antes de ampliar su uso.",
+    "contexto_img": "",
+    "pregunta": "Según Elena Salas, ¿qué función cumpliría el profesor?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Dejar que la herramienta seleccione contenidos sin supervisión.",
+      "B) Revisar los registros y decidir qué contenidos necesitan retomarse.",
+      "C) Sustituir las clases por sesiones exclusivamente automatizadas.",
+      "D) Entregar todas las calificaciones calculadas por el sistema."
+    ],
+    "respuesta": "B) Revisar los registros y decidir qué contenidos necesitan retomarse.",
+    "resolucion": "El primer artículo señala explícitamente que el docente revisaría los registros, detectaría errores frecuentes y decidiría qué volver a enseñar. Además, precisa que el sistema no asignaría calificaciones.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_32",
+    "curso": "Competencia Lectora",
+    "tema": "Comparación de posturas",
+    "contexto": "Depende del Texto N.º 1 del id BECA18_SIMULACRO_05_31",
+    "contexto_img": "",
+    "pregunta": "¿En qué coinciden Salas y Medina?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) En que los riesgos de privacidad desaparecen si las respuestas son rápidas.",
+      "B) En que la tecnología debe estar supervisada y no reemplazar la decisión pedagógica.",
+      "C) En que el tutor debe decidir por sí solo las calificaciones finales.",
+      "D) En que todo estudiante debe usar obligatoriamente la herramienta."
+    ],
+    "respuesta": "B) En que la tecnología debe estar supervisada y no reemplazar la decisión pedagógica.",
+    "resolucion": "Salas mantiene al docente a cargo de los contenidos y las decisiones; Medina acepta solo un piloto limitado con evaluación y alternativas. El cierre sintetiza la coincidencia: la herramienta debe subordinarse a una decisión pedagógica.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_33",
+    "curso": "Competencia Lectora",
+    "tema": "Contraste de argumentos",
+    "contexto": "Depende del Texto N.º 1 del id BECA18_SIMULACRO_05_31",
+    "contexto_img": "",
+    "pregunta": "¿Cuál es la diferencia principal entre las posturas?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Salas exige una alternativa humana y Medina elimina toda supervisión.",
+      "B) Salas se ocupa de la privacidad y Medina únicamente del horario escolar.",
+      "C) Salas rechaza cualquier piloto y Medina propone reemplazar al profesor.",
+      "D) Salas resalta la práctica personalizada y Medina enfatiza riesgos de exactitud, datos y equidad."
+    ],
+    "respuesta": "D) Salas resalta la práctica personalizada y Medina enfatiza riesgos de exactitud, datos y equidad.",
+    "resolucion": "El primer artículo desarrolla los beneficios de practicar al propio ritmo con pistas. El segundo concentra su advertencia en respuestas erróneas convincentes, tratamiento de datos, conectividad y dependencia. Esa diferencia está recogida en la alternativa D.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_34",
+    "curso": "Competencia Lectora",
+    "tema": "Evaluación de argumentos",
+    "contexto": "Depende del Texto N.º 1 del id BECA18_SIMULACRO_05_31",
+    "contexto_img": "",
+    "pregunta": "¿Qué evidencia sería más útil para decidir si se amplía el piloto?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Un anuncio del fabricante que califique su producto como innovador.",
+      "B) El testimonio aislado de una persona que usó la herramienta una vez.",
+      "C) La cantidad de colores disponibles en la interfaz del tutor.",
+      "D) Una evaluación independiente que compare aprendizaje, errores, acceso y protección de datos."
+    ],
+    "respuesta": "D) Una evaluación independiente que compare aprendizaje, errores, acceso y protección de datos.",
+    "resolucion": "La decisión requiere comprobar beneficios y riesgos señalados por ambos autores. Una evaluación independiente que mida aprendizaje, exactitud, equidad y privacidad ofrece evidencia pertinente y menos sesgada que publicidad o testimonios aislados.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_35",
+    "curso": "Competencia Lectora",
+    "tema": "Aplicación de información",
+    "contexto": "Depende del Texto N.º 1 del id BECA18_SIMULACRO_05_31",
+    "contexto_img": "",
+    "pregunta": "¿Qué plan recoge mejor las preocupaciones compartidas por los dos autores?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Un sistema obligatorio que califique y almacene datos sin informar a las familias.",
+      "B) Un piloto voluntario, con contenidos revisados, supervisión docente y alternativa humana.",
+      "C) El reemplazo inmediato de las tutorías presenciales en todos los grados.",
+      "D) El acceso libre a cualquier contenido generado, sin registrar errores."
+    ],
+    "respuesta": "B) Un piloto voluntario, con contenidos revisados, supervisión docente y alternativa humana.",
+    "resolucion": "La alternativa B conserva el banco revisado y el papel docente propuestos por Salas, e incorpora el consentimiento y la alternativa no automatizada exigidos por Medina. Las demás eliminan controles esenciales.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_36",
+    "curso": "Competencia Lectora",
+    "tema": "Lectura de tablas",
+    "contexto": "Texto N.º 2\nBiblioteca de barrio: cuatro meses de actividad\n\nLa biblioteca registró movimientos mensuales para conocer cómo cambiaba el uso de sus servicios. En marzo amplió el horario de atención e inició dos clubes de lectura. Ese mismo mes también comenzó el año escolar.\n\n<table border=\"1\" cellpadding=\"6\" style=\"width:100%;border-collapse:collapse;text-align:center\"><thead><tr><th>Mes</th><th>Préstamos</th><th>Renovaciones</th><th>Devoluciones tardías</th><th>Asistentes a clubes</th></tr></thead><tbody><tr><td>Enero</td><td>320</td><td>48</td><td>64</td><td>35</td></tr><tr><td>Febrero</td><td>280</td><td>56</td><td>70</td><td>30</td></tr><tr><td>Marzo</td><td>410</td><td>62</td><td>41</td><td>68</td></tr><tr><td>Abril</td><td>450</td><td>71</td><td>36</td><td>82</td></tr></tbody></table>\n\nLa tabla muestra un aumento de préstamos y asistentes desde marzo, junto con una reducción del número de devoluciones tardías. Sin embargo, estos conteos no identifican si participaron las mismas personas ni indican cuántos libros debían devolverse cada mes. Por ello, no basta con comparar cantidades absolutas para afirmar que mejoró la puntualidad.\n\nTampoco puede atribuirse todo el cambio a los clubes o al nuevo horario: el inicio de clases pudo aumentar la demanda. La biblioteca decidió conservar los registros, calcular en adelante el porcentaje de retrasos sobre el total de devoluciones esperadas y comparar los mismos meses del año siguiente.",
+    "contexto_img": "",
+    "pregunta": "¿En qué mes se registró la mayor cantidad de préstamos?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Marzo",
+      "B) Abril",
+      "C) Enero",
+      "D) Febrero"
+    ],
+    "respuesta": "B) Abril",
+    "resolucion": "La columna «Préstamos» presenta 320 en enero, 280 en febrero, 410 en marzo y 450 en abril. El valor mayor corresponde a abril.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_37",
+    "curso": "Competencia Lectora",
+    "tema": "Relación entre datos",
+    "contexto": "Depende del Texto N.º 2 del id BECA18_SIMULACRO_05_36",
+    "contexto_img": "",
+    "pregunta": "¿Qué cambio se observa de marzo a abril?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Los préstamos y asistentes aumentaron, mientras las devoluciones tardías disminuyeron.",
+      "B) Las renovaciones se mantuvieron y los asistentes disminuyeron.",
+      "C) Todos los indicadores conservaron exactamente el mismo valor.",
+      "D) Los préstamos disminuyeron y las devoluciones tardías aumentaron."
+    ],
+    "respuesta": "A) Los préstamos y asistentes aumentaron, mientras las devoluciones tardías disminuyeron.",
+    "resolucion": "De marzo a abril, los préstamos suben de 410 a 450 y los asistentes de 68 a 82; las devoluciones tardías bajan de 41 a 36. La alternativa A integra correctamente los tres cambios.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_38",
+    "curso": "Competencia Lectora",
+    "tema": "Inferencia crítica",
+    "contexto": "Depende del Texto N.º 2 del id BECA18_SIMULACRO_05_36",
+    "contexto_img": "",
+    "pregunta": "¿Por qué no se puede concluir que los clubes causaron todo el aumento de préstamos desde marzo?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Porque los clubes comenzaron recién después de abril.",
+      "B) Porque también cambiaron el horario y la demanda asociada al inicio de clases.",
+      "C) Porque el número de préstamos fue menor en marzo que en febrero.",
+      "D) Porque la tabla demuestra que en marzo se cerró la biblioteca."
+    ],
+    "respuesta": "B) Porque también cambiaron el horario y la demanda asociada al inicio de clases.",
+    "resolucion": "En marzo ocurrieron al mismo tiempo la ampliación del horario, el inicio de los clubes y el comienzo de clases. Como hay varias explicaciones posibles, la coincidencia temporal no demuestra que los clubes sean la única causa.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_39",
+    "curso": "Competencia Lectora",
+    "tema": "Función de elementos gráficos",
+    "contexto": "Depende del Texto N.º 2 del id BECA18_SIMULACRO_05_36",
+    "contexto_img": "",
+    "pregunta": "¿Para qué se incorporó la tabla?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Para presentar de forma ordenada la evolución mensual de varios indicadores.",
+      "B) Para explicar las reglas de participación en los clubes.",
+      "C) Para identificar por nombre a cada persona que tomó un libro.",
+      "D) Para probar que el nuevo horario fue la única causa de los cambios."
+    ],
+    "respuesta": "A) Para presentar de forma ordenada la evolución mensual de varios indicadores.",
+    "resolucion": "La tabla organiza los datos por mes y por tipo de actividad, lo que facilita comparar su evolución. No contiene nombres, reglas ni evidencia suficiente para aislar una causa.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_40",
+    "curso": "Competencia Lectora",
+    "tema": "Credibilidad de información",
+    "contexto": "Depende del Texto N.º 2 del id BECA18_SIMULACRO_05_36",
+    "contexto_img": "",
+    "pregunta": "¿Qué dato adicional permitiría evaluar mejor si mejoró la puntualidad de las devoluciones?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) El género literario preferido por el personal de la biblioteca.",
+      "B) El tamaño de la mesa utilizada en cada club.",
+      "C) El total de libros cuya devolución vencía en cada mes.",
+      "D) El color de los carnés emitidos durante esos meses."
+    ],
+    "respuesta": "C) El total de libros cuya devolución vencía en cada mes.",
+    "resolucion": "Para calcular la proporción de retrasos se necesita comparar las devoluciones tardías con el total que debía devolverse. Los números absolutos pueden cambiar solo porque también cambia la cantidad de préstamos vencidos.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_41",
+    "curso": "Competencia Lectora",
+    "tema": "Comprensión literal",
+    "contexto": "Texto N.º 3\nEl humedal que frena la avenida\n\nUn humedal ribereño no es solo una zona cubierta de plantas. Cuando el río crece, sus depresiones reciben parte del agua, los tallos reducen la velocidad de la corriente y el suelo saturable la almacena temporalmente. Horas o días después, una parte vuelve lentamente al cauce y otra se infiltra. Este funcionamiento puede amortiguar una crecida aguas abajo.\n\nEn un proyecto piloto se retiraron ocho camiones de desmonte, se reabrió un canal secundario bloqueado y se plantaron especies nativas en tres hectáreas. Sensores instalados antes y después de la zona restaurada registraron tres lluvias moderadas de intensidad comparable. En esos eventos, el punto máximo de la crecida llegó 28 minutos más tarde y fue 12 % menor aguas abajo.\n\nLos investigadores consideran que el resultado es prometedor, pero recuerdan que se observaron pocos eventos y ninguno fue extremo. Una lluvia extraordinaria podría superar la capacidad de almacenamiento. Además, el humedal no reemplaza la limpieza de drenajes, las alertas ni un plan de evacuación. Restaurarlo forma parte de una estrategia que combina infraestructura natural, mantenimiento urbano y preparación comunitaria.",
+    "contexto_img": "",
+    "pregunta": "¿Qué acciones se realizaron en el proyecto piloto?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Se canalizó todo el río con concreto y se retiraron las plantas nativas.",
+      "B) Se cerraron los drenajes urbanos durante tres lluvias extremas.",
+      "C) Se retiró desmonte, se reabrió un canal y se plantaron especies nativas.",
+      "D) Se construyó una represa que reemplazó el plan de evacuación."
+    ],
+    "respuesta": "C) Se retiró desmonte, se reabrió un canal y se plantaron especies nativas.",
+    "resolucion": "El segundo párrafo enumera esas tres intervenciones: retiro de desmonte, reapertura de un canal secundario y plantación de especies nativas.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_42",
+    "curso": "Competencia Lectora",
+    "tema": "Relación causal",
+    "contexto": "Depende del Texto N.º 3 del id BECA18_SIMULACRO_05_41",
+    "contexto_img": "",
+    "pregunta": "¿Cómo puede el humedal reducir el impacto de una crecida aguas abajo?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Elimina la necesidad de alertas y rutas de evacuación.",
+      "B) Recibe, desacelera y almacena temporalmente parte del agua.",
+      "C) Aumenta la velocidad de toda la corriente hacia la ciudad.",
+      "D) Impide de manera permanente que el agua regrese al cauce."
+    ],
+    "respuesta": "B) Recibe, desacelera y almacena temporalmente parte del agua.",
+    "resolucion": "El primer párrafo describe el mecanismo: las depresiones reciben agua, los tallos reducen la velocidad y el suelo la guarda para liberarla o infiltrarla después. Así disminuye y retrasa el pico de la crecida.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_43",
+    "curso": "Competencia Lectora",
+    "tema": "Vocabulario contextual",
+    "contexto": "Depende del Texto N.º 3 del id BECA18_SIMULACRO_05_41",
+    "contexto_img": "",
+    "pregunta": "En el texto, el verbo «amortiguar» significa...",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) disminuir o suavizar la intensidad de un efecto.",
+      "B) impedir que el suelo absorba parte del agua.",
+      "C) anunciar con exactitud la fecha de todas las lluvias.",
+      "D) trasladar el problema sin modificar la corriente."
+    ],
+    "respuesta": "A) disminuir o suavizar la intensidad de un efecto.",
+    "resolucion": "El contexto asocia «amortiguar» con retrasar la llegada del pico y reducir su magnitud aguas abajo. Por ello, el significado pertinente es disminuir o suavizar un impacto.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_44",
+    "curso": "Competencia Lectora",
+    "tema": "Inferencia",
+    "contexto": "Depende del Texto N.º 3 del id BECA18_SIMULACRO_05_41",
+    "contexto_img": "",
+    "pregunta": "¿Qué se puede inferir de las mediciones del piloto?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) La zona restaurada pudo retrasar y reducir el pico en las lluvias moderadas observadas.",
+      "B) La restauración impide cualquier inundación sin importar su magnitud.",
+      "C) Los sensores demostraron que los drenajes ya no son necesarios.",
+      "D) Los tres eventos observados fueron lluvias extraordinarias."
+    ],
+    "respuesta": "A) La zona restaurada pudo retrasar y reducir el pico en las lluvias moderadas observadas.",
+    "resolucion": "Los sensores registraron un pico 28 minutos más tardío y 12 % menor en tres lluvias moderadas comparables. Esa conclusión se limita correctamente a los eventos observados y no se extiende a cualquier inundación.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_45",
+    "curso": "Competencia Lectora",
+    "tema": "Evaluación de conclusiones",
+    "contexto": "Depende del Texto N.º 3 del id BECA18_SIMULACRO_05_41",
+    "contexto_img": "",
+    "pregunta": "¿Qué afirmación excede la evidencia presentada?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Las tres lluvias moderadas mostraron una reducción del pico aguas abajo.",
+      "B) Es conveniente mantener la observación durante más eventos.",
+      "C) El humedal evitará por sí solo toda inundación, incluso ante lluvias extremas.",
+      "D) La infraestructura natural puede combinarse con drenajes y preparación."
+    ],
+    "respuesta": "C) El humedal evitará por sí solo toda inundación, incluso ante lluvias extremas.",
+    "resolucion": "El estudio incluyó solo tres lluvias moderadas y advierte que un evento extremo puede superar la capacidad del humedal. Afirmar protección total y autónoma generaliza más allá de la evidencia.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_46",
+    "curso": "Competencia Lectora",
+    "tema": "Comprensión literal",
+    "contexto": "Texto N.º 4\nLa taza de la línea ocre\n\n(1) Dos días antes de la feria, Naira ordenó las piezas que había modelado durante meses. Su favorita era una taza de paredes delgadas, cocida con el último lote de arcilla que su abuela le había enseñado a preparar. Al tirar de una manta, rozó el estante y la taza cayó.\n\n(2) Naira recogió los fragmentos y los escondió en un saco. Intentó modelar otra taza, pero apuró tanto el torno que la nueva pieza quedó torcida. Cada vez que su abuela entraba al taller, Naira hablaba más fuerte para que no preguntara por el espacio vacío.\n\n(3) La abuela encontró los fragmentos al buscar el saco. No levantó la voz. Le dijo que una reparación no borraría la caída, pero podía mostrar qué hizo la artesana después de equivocarse. Puso resina y polvo de arcilla sobre la mesa, y dejó que Naira decidiera.\n\n(4) Naira unió las piezas lentamente. En vez de pintar toda la superficie, dejó visible una línea ocre sobre la grieta y escribió para la feria: «Pieza reparada después de una caída que no quise contar». La confesión le pareció más difícil que el trabajo con la resina.\n\n(5) En la feria, una visitante eligió la taza. Dijo que la línea no escondía su historia y que, por eso, la pieza invitaba a cuidarla. Al volver, Naira contó a su abuela cómo había ocurrido el accidente y reforzó el estante. La taza vendida ya no era la prueba de una torpeza, sino el recuerdo de una responsabilidad asumida.",
+    "contexto_img": "",
+    "pregunta": "¿Por qué Naira escondió los fragmentos?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Porque la abuela le ordenó guardar todas las piezas rotas.",
+      "B) Porque temía reconocer que había provocado la caída.",
+      "C) Porque quería vender por separado cada pedazo.",
+      "D) Porque necesitaba secar la arcilla dentro del saco."
+    ],
+    "respuesta": "B) Porque temía reconocer que había provocado la caída.",
+    "resolucion": "Naira oculta los fragmentos, evita que la abuela pregunte por el espacio vacío y luego reconoce que no quiso contar la caída. Esas acciones muestran temor a admitir su responsabilidad.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_47",
+    "curso": "Competencia Lectora",
+    "tema": "Tema central",
+    "contexto": "Depende del Texto N.º 4 del id BECA18_SIMULACRO_05_46",
+    "contexto_img": "",
+    "pregunta": "¿Qué aprendizaje articula principalmente los hechos del relato?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Asumir un error permite repararlo y aprender de él.",
+      "B) Una obra reparada pierde necesariamente todo su valor.",
+      "C) Las piezas imperfectas deben ocultarse antes de una feria.",
+      "D) La rapidez es la cualidad más importante de una artesana."
+    ],
+    "respuesta": "A) Asumir un error permite repararlo y aprender de él.",
+    "resolucion": "El conflicto comienza con el ocultamiento del accidente y se resuelve cuando Naira repara la taza, cuenta la verdad y refuerza el estante. El aprendizaje principal es hacerse responsable del error.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_48",
+    "curso": "Competencia Lectora",
+    "tema": "Interpretación simbólica",
+    "contexto": "Depende del Texto N.º 4 del id BECA18_SIMULACRO_05_46",
+    "contexto_img": "",
+    "pregunta": "¿Qué simboliza principalmente la línea ocre?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) El fracaso definitivo de Naira como artesana.",
+      "B) La superioridad de la resina frente a la arcilla.",
+      "C) La intención de hacer pasar la taza por una pieza nueva.",
+      "D) La huella visible de un error que fue reconocido y reparado."
+    ],
+    "respuesta": "D) La huella visible de un error que fue reconocido y reparado.",
+    "resolucion": "Naira decide no ocultar la grieta y acompaña la pieza con una confesión. La línea conserva la memoria del accidente y, a la vez, muestra la reparación y la responsabilidad asumida.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_49",
+    "curso": "Competencia Lectora",
+    "tema": "Caracterización de personajes",
+    "contexto": "Depende del Texto N.º 4 del id BECA18_SIMULACRO_05_46",
+    "contexto_img": "",
+    "pregunta": "¿Cómo se caracteriza mejor a la abuela?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Temerosa, porque decide esconder nuevamente los fragmentos.",
+      "B) Autoritaria, porque obliga a vender la taza sin explicar su origen.",
+      "C) Indiferente, porque no observa lo que ocurre en el taller.",
+      "D) Serena y formativa, porque guía a Naira sin resolver el problema por ella."
+    ],
+    "respuesta": "D) Serena y formativa, porque guía a Naira sin resolver el problema por ella.",
+    "resolucion": "La abuela no grita ni ejecuta la reparación. Explica una posibilidad, coloca los materiales y deja que Naira decida. Su actitud combina serenidad con una enseñanza que promueve autonomía y responsabilidad.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_50",
+    "curso": "Competencia Lectora",
+    "tema": "Coherencia textual",
+    "contexto": "Depende del Texto N.º 4 del id BECA18_SIMULACRO_05_46",
+    "contexto_img": "",
+    "pregunta": "¿Después de qué párrafo encajaría mejor la oración «A la mañana siguiente, Naira llevó la taza a la feria y la colocó al frente de las demás piezas»?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Entre los párrafos 2 y 3.",
+      "B) Entre los párrafos 4 y 5.",
+      "C) Al finalizar el párrafo 5.",
+      "D) Entre los párrafos 1 y 2."
+    ],
+    "respuesta": "B) Entre los párrafos 4 y 5.",
+    "resolucion": "Al finalizar el párrafo 4, la taza ya está reparada y cuenta con su tarjeta explicativa. La oración propuesta traslada la acción a la feria y enlaza directamente con la visita narrada al inicio del párrafo 5.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_51",
+    "curso": "Competencia Lectora",
+    "tema": "Comprensión literal",
+    "contexto": "Texto N.º 5\nSemillas que guardan decisiones\n\nEn una casa comunitaria de semillas, cada muestra llega acompañada por un registro al que los agricultores llaman «pasaporte». Allí anotan el lugar de origen, el año de cosecha, las características del terreno, el nombre de quien la cultivó y los cuidados que dieron buen resultado. Luego secan las semillas hasta un nivel seguro de humedad y las guardan en recipientes identificados.\n\nUna prueba anual permite saber cuántas semillas germinan. De las 120 variedades conservadas este año, 96 superaron el 80 % de germinación y continuaron almacenadas; 18 quedaron entre 60 % y 79 % y serán vigiladas; las 6 que quedaron por debajo del 60 % se sembraron con prioridad para obtener semilla nueva. Así, la colección se renueva en lugar de convertirse en un depósito inmóvil.\n\nLas familias pueden pedir una cantidad para la campaña y, después de la cosecha, devuelven semilla de la misma variedad junto con información sobre lluvias, plagas y rendimiento. Este intercambio ayuda a conservar diversidad y conocimiento local. No obstante, exige evitar mezclas accidentales entre variedades y mantener registros cuidadosos. Un banco de semillas sin agricultores que las cultiven preservaría recipientes, pero perdería parte de la experiencia necesaria para adaptarlas a condiciones cambiantes.",
+    "contexto_img": "",
+    "pregunta": "¿Qué se hizo con las seis variedades que tuvieron menos de 60 % de germinación?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Se conservaron indefinidamente sin volver a evaluarlas.",
+      "B) Se mezclaron con las variedades de mayor germinación.",
+      "C) Se sembraron con prioridad para producir semilla nueva.",
+      "D) Se entregaron sin registro a cualquier visitante."
+    ],
+    "respuesta": "C) Se sembraron con prioridad para producir semilla nueva.",
+    "resolucion": "El segundo párrafo indica explícitamente que las seis variedades por debajo del 60 % fueron sembradas con prioridad para renovar sus semillas.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_52",
+    "curso": "Competencia Lectora",
+    "tema": "Idea principal",
+    "contexto": "Depende del Texto N.º 5 del id BECA18_SIMULACRO_05_51",
+    "contexto_img": "",
+    "pregunta": "¿Qué enunciado sintetiza mejor el contenido del texto?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) La conservación requiere almacenar, evaluar, renovar y compartir semillas con información.",
+      "B) Los registros escritos pueden reemplazar toda experiencia de los agricultores.",
+      "C) Las semillas deben permanecer guardadas y no volver a cultivarse.",
+      "D) El porcentaje de germinación depende únicamente del recipiente."
+    ],
+    "respuesta": "A) La conservación requiere almacenar, evaluar, renovar y compartir semillas con información.",
+    "resolucion": "El texto presenta un sistema activo: registro del origen, almacenamiento, pruebas de germinación, renovación y préstamos con devolución de semillas e información. Esa combinación sostiene la conservación.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_53",
+    "curso": "Competencia Lectora",
+    "tema": "Integración de datos",
+    "contexto": "Depende del Texto N.º 5 del id BECA18_SIMULACRO_05_51",
+    "contexto_img": "",
+    "pregunta": "¿Cuántas variedades quedaron por debajo del 80 % de germinación y requirieron vigilancia o renovación?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) 96 variedades",
+      "B) 6 variedades",
+      "C) 18 variedades",
+      "D) 24 variedades"
+    ],
+    "respuesta": "D) 24 variedades",
+    "resolucion": "Se suman las 18 variedades ubicadas entre 60 % y 79 % y las 6 que quedaron por debajo de 60 %. En total, 18 + 6 = 24 variedades estuvieron por debajo de 80 %.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_54",
+    "curso": "Competencia Lectora",
+    "tema": "Vocabulario contextual",
+    "contexto": "Depende del Texto N.º 5 del id BECA18_SIMULACRO_05_51",
+    "contexto_img": "",
+    "pregunta": "En el texto, la palabra «pasaporte» se refiere a...",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) un recipiente que controla automáticamente la humedad.",
+      "B) una prueba que garantiza que todas las semillas germinarán.",
+      "C) un registro con la procedencia y características de la muestra.",
+      "D) un permiso para transportar semillas fuera del país."
+    ],
+    "respuesta": "C) un registro con la procedencia y características de la muestra.",
+    "resolucion": "El primer párrafo define el uso figurado: el «pasaporte» contiene origen, fecha, terreno, responsable y cuidados. Es la ficha de identidad y trayectoria de la muestra, no un documento de viaje.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_55",
+    "curso": "Competencia Lectora",
+    "tema": "Aplicación de información",
+    "contexto": "Depende del Texto N.º 5 del id BECA18_SIMULACRO_05_51",
+    "contexto_img": "",
+    "pregunta": "Una familia recibe semillas de una variedad y obtiene una nueva cosecha. ¿Qué acción coincide con el sistema descrito?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Mezclarla con otras variedades y omitir su procedencia.",
+      "B) Guardar toda la cosecha sin comunicar sus resultados.",
+      "C) Cambiar el nombre de la variedad para evitar comparaciones.",
+      "D) Devolver semilla de la misma variedad y registrar las condiciones de cultivo."
+    ],
+    "respuesta": "D) Devolver semilla de la misma variedad y registrar las condiciones de cultivo.",
+    "resolucion": "El tercer párrafo establece que, después de la campaña, las familias devuelven semilla de la misma variedad e información sobre lluvia, plagas y rendimiento. Esa práctica mantiene tanto el material como el conocimiento asociado.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_56",
+    "curso": "Competencia Lectora",
+    "tema": "Comprensión literal",
+    "contexto": "Texto N.º 6\nUn plan de estudio que aprende de los errores\n\nRepetir muchas horas no garantiza que una estrategia funcione. Un plan útil produce información y cambia a partir de ella. Sigue estos pasos:\n\n1. Diagnostica. Resuelve una prueba breve sin apuntes y, al corregirla, clasifica cada error: comprensión del concepto, procedimiento, lectura de la consigna o descuido.\n\n2. Prioriza. Elige como máximo dos temas para la semana y formula una meta observable, por ejemplo: «resolver ocho problemas de proporciones y explicar por qué funciona cada procedimiento».\n\n3. Practica activamente. Alterna intentos sin mirar la solución, explicación en voz alta y repasos separados por varios días. Una respuesta acertada por imitación no demuestra todavía comprensión.\n\n4. Comprueba. Al final de la semana, realiza una prueba breve en condiciones semejantes a las del diagnóstico. Compara el tiempo y los tipos de error, no solo el puntaje total.\n\n5. Ajusta. Conserva lo que mejoró, cambia la actividad que no produjo avance y asigna más atención al error que ahora sea frecuente.\n\nPor ejemplo, una estudiante obtuvo 14 de 20 puntos tanto al inicio como al final. Sus errores conceptuales bajaron de cuatro a uno; sin embargo, sus errores de lectura aumentaron de uno a cuatro. El puntaje global no cambió, pero el diagnóstico muestra que la comprensión conceptual avanzó y que la siguiente semana debe incluir lectura cuidadosa de consignas.",
+    "contexto_img": "",
+    "pregunta": "¿Qué debe hacerse al corregir la prueba de diagnóstico?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Elegir de inmediato todos los temas del curso.",
+      "B) Clasificar los errores según su tipo.",
+      "C) Contar solo los aciertos y desechar las preguntas incorrectas.",
+      "D) Copiar las soluciones antes de revisar cada respuesta."
+    ],
+    "respuesta": "B) Clasificar los errores según su tipo.",
+    "resolucion": "El paso 1 indica que cada error debe clasificarse como conceptual, de procedimiento, de lectura o de descuido. Esa información permite decidir después qué conviene priorizar.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_57",
+    "curso": "Competencia Lectora",
+    "tema": "Propósito comunicativo",
+    "contexto": "Depende del Texto N.º 6 del id BECA18_SIMULACRO_05_56",
+    "contexto_img": "",
+    "pregunta": "¿Para qué fue escrito principalmente el texto?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Enseñar a organizar y ajustar el estudio a partir de evidencias de desempeño.",
+      "B) Demostrar que el puntaje total nunca sirve para evaluar el aprendizaje.",
+      "C) Narrar la historia de una estudiante que siempre obtiene 14 puntos.",
+      "D) Recomendar que se practiquen todos los temas al mismo tiempo."
+    ],
+    "respuesta": "A) Enseñar a organizar y ajustar el estudio a partir de evidencias de desempeño.",
+    "resolucion": "El texto ofrece una secuencia de diagnóstico, priorización, práctica, comprobación y ajuste. Su finalidad es instruir al lector para construir un plan flexible basado en sus resultados.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_58",
+    "curso": "Competencia Lectora",
+    "tema": "Inferencia",
+    "contexto": "Depende del Texto N.º 6 del id BECA18_SIMULACRO_05_56",
+    "contexto_img": "",
+    "pregunta": "¿Qué se concluye del caso de la estudiante?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) No aprendió nada porque mantuvo el mismo puntaje.",
+      "B) Mejoró en lo conceptual, pero debe atender ahora la lectura de consignas.",
+      "C) Debe abandonar los temas practicados y estudiar sin diagnóstico.",
+      "D) Sus errores de lectura disminuyeron en la misma proporción que los conceptuales."
+    ],
+    "respuesta": "B) Mejoró en lo conceptual, pero debe atender ahora la lectura de consignas.",
+    "resolucion": "Aunque el total permaneció en 14, los errores conceptuales bajaron de cuatro a uno y los de lectura aumentaron de uno a cuatro. El análisis por categorías revela una mejora y una nueva prioridad que el puntaje global oculta.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_59",
+    "curso": "Competencia Lectora",
+    "tema": "Conectores textuales",
+    "contexto": "Depende del Texto N.º 6 del id BECA18_SIMULACRO_05_56",
+    "contexto_img": "",
+    "pregunta": "Completa de manera coherente: «El puntaje global se mantuvo; _____, la distribución de los errores cambió».",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) es decir",
+      "B) sin embargo",
+      "C) además",
+      "D) por eso"
+    ],
+    "respuesta": "B) sin embargo",
+    "resolucion": "La primera proposición indica permanencia y la segunda introduce un cambio que contrasta con ella. Se necesita un conector adversativo; «sin embargo» expresa correctamente esa oposición.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  },
+  {
+    "id": "BECA18_SIMULACRO_05_60",
+    "curso": "Competencia Lectora",
+    "tema": "Plan de redacción",
+    "contexto": "Depende del Texto N.º 6 del id BECA18_SIMULACRO_05_56",
+    "contexto_img": "",
+    "pregunta": "¿Cuál es el orden correcto del plan propuesto?",
+    "pregunta_b64": "",
+    "pregunta_img": "",
+    "opciones": [
+      "A) Priorizar - comprobar - diagnosticar - ajustar - practicar.",
+      "B) Practicar - ajustar - diagnosticar - priorizar - comprobar.",
+      "C) Diagnosticar - priorizar - practicar - comprobar - ajustar.",
+      "D) Comprobar - practicar - ajustar - priorizar - diagnosticar."
+    ],
+    "respuesta": "C) Diagnosticar - priorizar - practicar - comprobar - ajustar.",
+    "resolucion": "La alternativa C reproduce el orden numerado del texto: primero se obtiene información, luego se eligen objetivos, se practica, se comprueba el desempeño y finalmente se ajusta el plan.",
+    "resolucion_latex": "",
+    "resolucion_img": ""
+  }
+]
