@@ -1,0 +1,1889 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+    <title>Cachimboz - Historia</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    
+    <script>
+      window.MathJax = {
+        tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+      };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+    <style>
+        :root {
+            /* TEMA HISTORIA: Tonos Violeta / Morado */
+            --bg: #1a0b2e; 
+            --surface: #2d1b4e; 
+            --surface-hover: #432c7a;
+            --primary: #7011f5; 
+            --gradient-btn: linear-gradient(90deg, #ff00cc 0%, #333399 100%); 
+            --gradient-pro: linear-gradient(135deg, #fbbf24, #d97706);
+            --success: #00e676; 
+            --warning: #ffb700;
+            --danger: #ff1744;
+            --energy: #00e676;
+            --text: #ffffff;
+            --text-sec: #bcaaa4; 
+            --border: rgba(255, 255, 255, 0.1); 
+            --glass: rgba(45, 27, 78, 0.95); 
+            --favorite: #ff4081;
+            --radius-btn: 50px; 
+            --radius-card: 16px;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Inter', sans-serif; -webkit-tap-highlight-color: transparent; }
+        body { background: var(--bg); color: var(--text); min-height: 100vh; overflow-x: hidden; }
+
+        /* HEADER & NAV */
+        .header { background: var(--glass); position: sticky; top: 0; z-index: 1000; border-bottom: 1px solid var(--border); padding: 12px 15px; backdrop-filter: blur(10px); }
+        .nav-container { display: flex; align-items: center; justify-content: space-between; max-width: 1200px; margin: 0 auto; }
+        .left-nav { display: flex; align-items: center; gap: 15px; }
+        .right-nav { display: flex; align-items: center; gap: 10px; }
+        
+        .menu-toggle { display: flex; align-items: center; gap: 8px; background: rgba(255, 255, 255, 0.1); border: none; border-radius: var(--radius-btn); padding: 8px 16px; color: var(--text); font-weight: 700; font-size: 13px; cursor: pointer; }
+        .logo { font-weight: 900; font-size: 20px; letter-spacing: -0.5px; color: white; }
+        .logo .pro { background: var(--gradient-pro); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 0.8em; margin-left: 3px; }
+        
+        /* BOTÓN DE AUDIO EXCLUSIVO DE HISTORIA */
+        .audio-btn { position: relative; background: rgba(112, 17, 245, 0.2); border: none; border-radius: 50%; width: 32px; height: 32px; display: flex; align-items: center; justify-content: center; color: #c4b5fd; cursor: pointer; transition: transform 0.2s; text-decoration: none; }
+        .audio-btn:active { transform: scale(0.9); }
+
+        /* ENERGY BADGE */
+        .energy-badge { background: rgba(0, 230, 118, 0.1); border: 1px solid rgba(0, 230, 118, 0.4); border-radius: 20px; padding: 4px 12px; display: flex; align-items: center; gap: 6px; font-weight: 800; font-size: 13px; color: white; cursor: pointer; box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: transform 0.2s; }
+        .energy-badge:active { transform: scale(0.95); }
+        .energy-badge i { color: var(--energy); filter: drop-shadow(0 0 5px rgba(0, 230, 118, 0.6)); }
+
+        /* SIDEBAR */
+        .sidebar { position: fixed; top: 0; left: 0; height: 100vh; width: 85%; max-width: 320px; background: var(--surface); border-right: 1px solid var(--border); transform: translateX(-100%); transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1); z-index: 1001; display: flex; flex-direction: column; box-shadow: 10px 0 30px rgba(0,0,0,0.5); }
+        .sidebar.open { transform: translateX(0); }
+        .sidebar-header { padding: 20px; border-bottom: 1px solid var(--border); background: rgba(0,0,0,0.2); }
+        .sidebar-title-row { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; font-weight: 800; font-size: 18px; }
+        
+        .progress-container { display: flex; align-items: center; gap: 10px; margin-bottom: 20px; }
+        .progress-bar { flex: 1; height: 8px; background: rgba(255,255,255,0.1); border-radius: 10px; overflow: hidden; position: relative; }
+        .progress-fill { height: 100%; background: var(--success); border-radius: 10px; transition: width 0.5s cubic-bezier(0.4, 0, 0.2, 1); box-shadow: 0 0 10px rgba(0, 230, 118, 0.4); width: 0%; }
+        .progress-text { font-size: 12px; font-weight: 800; color: var(--success); min-width: 35px; text-align: right; }
+
+        .tabs { display: flex; gap: 10px; padding: 4px; background: rgba(0,0,0,0.3); border-radius: var(--radius-btn); }
+        .tab-btn { flex: 1; padding: 10px; border: none; background: transparent; color: var(--text-sec); font-size: 12px; font-weight: 700; border-radius: var(--radius-btn); cursor: pointer; transition: all 0.2s; }
+        .tab-btn.active { background: var(--primary); color: white; box-shadow: 0 2px 10px rgba(112, 17, 245, 0.4); }
+        .module-list { flex: 1; overflow-y: auto; padding: 15px; }
+
+        .module-block { margin-bottom: 30px; }
+        .module-header { font-size: 11px; font-weight: 900; color: #a78bfa; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px; padding-left: 8px; border-left: 3px solid #a78bfa; display: flex; justify-content: space-between; }
+        .lesson-item { padding: 12px; margin-bottom: 6px; border-radius: 12px; cursor: pointer; display: flex; align-items: center; gap: 12px; transition: background 0.2s; border: 1px solid transparent; background: rgba(255,255,255,0.02); }
+        .lesson-item:hover { background: rgba(255,255,255,0.05); }
+        .lesson-item.active { background: rgba(112, 17, 245, 0.2); border-color: rgba(112, 17, 245, 0.5); }
+        .lesson-status { width: 24px; height: 24px; border-radius: 50%; background: rgba(255,255,255,0.1); display: flex; align-items: center; justify-content: center; font-size: 10px; color: var(--text-sec); flex-shrink: 0; }
+        .lesson-item.completed .lesson-status { background: var(--success); color: black; }
+        .lesson-item.active .lesson-status { background: var(--primary); color: white; box-shadow: 0 0 10px var(--primary); }
+        .lesson-info { flex: 1; overflow: hidden; }
+        .lesson-title { font-size: 14px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-bottom: 2px; }
+        .lesson-sub { font-size: 11px; color: var(--text-sec); }
+
+        /* VIDEO CONTAINER INTELIGENTE */
+        .main-container { max-width: 800px; margin: 0 auto; padding-bottom: 40px; }
+        .video-wrapper { position: relative; width: 100%; background: black; box-shadow: 0 10px 50px rgba(0,0,0,0.5); border-bottom: 1px solid var(--border); display: flex; justify-content: center; align-items: center; }
+        .video-container { position: relative; width: 100%; transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1); }
+        .video-container.horizontal { aspect-ratio: 16 / 9; width: 100%; }
+        .video-container.vertical { aspect-ratio: 9 / 16; height: 65vh; width: auto; max-width: 100%; }
+        .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
+        
+        .content-area { padding: 25px 20px; }
+        
+        /* BANNER INLINE PROMO */
+        .inline-promo-banner { background: var(--gradient-pro); border-radius: 12px; padding: 12px 15px; display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px; text-decoration: none; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.2); animation: pulse 2s infinite; cursor: pointer; }
+        @keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(0.98); } 100% { transform: scale(1); } }
+        .inline-promo-text { color: black; font-weight: 800; font-size: 13px; display: flex; align-items: center; gap: 8px; }
+        .inline-promo-btn { background: black; color: white; font-weight: 800; font-size: 11px; padding: 6px 12px; border-radius: 20px; text-transform: uppercase; }
+
+        /* ECONOMY INFO BANNER */
+        .economy-info { background: rgba(0, 230, 118, 0.1); border: 1px solid rgba(0, 230, 118, 0.3); border-radius: 12px; padding: 12px; margin-bottom: 20px; display: flex; align-items: center; gap: 12px; font-size: 12px; }
+        .economy-info i { color: var(--energy); font-size: 24px; flex-shrink: 0; }
+
+        /* ALERTA DE HISTORIA EN QUIZ */
+        .history-banner { background: rgba(112, 17, 245, 0.15); border: 1px solid rgba(112, 17, 245, 0.3); border-radius: 12px; padding: 12px 15px; margin-bottom: 20px; display: flex; align-items: flex-start; gap: 12px; font-size: 13px; line-height: 1.5; color: #c4b5fd; }
+        .history-banner i { color: #a78bfa; font-size: 16px; margin-top: 2px; }
+
+        .video-header-row { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 15px; gap: 15px; }
+        .video-title { font-size: 22px; font-weight: 800; line-height: 1.3; flex: 1; color: white; }
+        
+        .main-fav-btn { background: rgba(255,255,255,0.05); border: 1px solid var(--border); width: 44px; height: 44px; border-radius: 12px; display: flex; align-items: center; justify-content: center; color: var(--text-sec); cursor: pointer; transition: all 0.2s; flex-shrink: 0; }
+        .main-fav-btn.active { color: var(--favorite); background: rgba(255, 64, 129, 0.1); border-color: var(--favorite); box-shadow: 0 0 15px rgba(255, 64, 129, 0.2); }
+        
+        .video-meta { display: flex; gap: 15px; font-size: 13px; color: var(--text-sec); padding-bottom: 25px; border-bottom: 1px solid var(--border); margin-bottom: 25px; align-items: center; }
+        .module-pill { background: rgba(112, 17, 245, 0.2); color: #c4b5fd; padding: 4px 10px; border-radius: 6px; font-weight: 700; font-size: 11px; text-transform: uppercase; }
+
+        /* BARRA DE HERRAMIENTAS DE LA CLASE */
+        .actions-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); border-bottom: 1px solid var(--border); margin: 0 -4px 28px; }
+        .action-card { min-width: 0; min-height: 88px; padding: 10px 4px 13px; background: transparent; color: var(--text-sec); border: 0; border-bottom: 3px solid transparent; text-align: center; position: relative; cursor: pointer; transition: color .2s, border-color .2s, background .2s; }
+        .action-card:active:not(:disabled) { background: rgba(255,255,255,.04); }
+        .action-card.active { color: white; border-bottom-color: var(--primary); }
+        .action-card:disabled { opacity: .46; cursor: default; }
+        .action-icon { height: 32px; display: flex; align-items: center; justify-content: center; font-size: 25px; margin-bottom: 5px; }
+        .action-label { display: block; overflow: hidden; text-overflow: ellipsis; font-size: 12px; font-weight: 700; white-space: nowrap; }
+        .action-status { display: block; min-height: 13px; margin-top: 3px; overflow: hidden; text-overflow: ellipsis; color: var(--text-sec); font-size: 9px; font-weight: 700; white-space: nowrap; }
+        .action-coming { position: absolute; top: 2px; left: 50%; transform: translateX(-50%); padding: 2px 5px; border-radius: 8px; background: var(--gradient-pro); color: #241005; font-size: 8px; font-weight: 900; text-transform: uppercase; }
+        .t-quiz { color: var(--warning); filter: drop-shadow(0 0 10px rgba(255, 183, 0, 0.3)); }
+        .t-summary { color: #38bdf8; filter: drop-shadow(0 0 10px rgba(56, 189, 248, .3)); }
+        .t-ai { color: #c084fc; filter: drop-shadow(0 0 10px rgba(192, 132, 252, .3)); }
+        .t-pdf { color: var(--danger); filter: drop-shadow(0 0 10px rgba(255, 23, 68, 0.3)); }
+
+        .summary-copy { color: #e9e1f7; font-size: 14px; line-height: 1.7; white-space: pre-line; }
+        .summary-empty { color: var(--text-sec); font-size: 14px; line-height: 1.6; text-align: center; padding: 22px 8px; }
+        .key-points { display: grid; gap: 10px; margin-top: 20px; }
+        .key-point { display: flex; align-items: flex-start; gap: 10px; padding: 12px 14px; border: 1px solid rgba(56,189,248,.2); border-radius: 12px; background: rgba(56,189,248,.07); color: #e9e1f7; font-size: 13px; line-height: 1.5; }
+        .key-point i { color: #38bdf8; margin-top: 3px; }
+
+        /* TUTOR CACHIMBOZ: CONVERSACIÓN INTEGRADA EN LA CLASE */
+        .tutor-section { border-color: rgba(192,132,252,.34); background: linear-gradient(160deg,#322052,#23123e); }
+        .tutor-head { display:flex; align-items:center; gap:12px; padding:17px 16px; background:rgba(112,17,245,.16); border-bottom:1px solid var(--border); }
+        .tutor-avatar { flex-shrink:0; width:55px; height:55px; display:flex; align-items:center; justify-content:center; border-radius:18px; background:white; border:1px solid rgba(192,132,252,.24); overflow:hidden; color:#7011f5; font-size:26px; }
+        .tutor-avatar img { width:100%; height:100%; object-fit:contain; }
+        .tutor-head-copy { flex:1; min-width:0; }
+        .tutor-head-copy h2 { font-size:17px; font-weight:800; }
+        .tutor-head-copy p { margin-top:4px; color:#d6c2ef; font-size:11px; line-height:1.4; }
+        .tutor-close { width:36px; height:36px; flex-shrink:0; border:0; border-radius:50%; background:rgba(255,255,255,.08); color:white; cursor:pointer; }
+        .tutor-context { display:flex; align-items:flex-start; gap:8px; margin:14px 16px 0; color:#d8c9ec; font-size:11px; line-height:1.5; }
+        .tutor-context i { margin-top:3px; color:#c084fc; }
+        .tutor-context span { min-width:0; overflow-wrap:anywhere; }
+        .tutor-welcome { padding:22px 18px 9px; }
+        .tutor-welcome h3 { font-size:20px; font-weight:800; margin-bottom:8px; }
+        .tutor-welcome p { color:#d8c9ec; font-size:13px; line-height:1.65; }
+        .tutor-chips { display:flex; gap:8px; overflow-x:auto; padding:12px 16px 16px; scrollbar-width:none; }
+        .tutor-chip { flex-shrink:0; padding:9px 12px; border:1px solid rgba(192,132,252,.3); border-radius:20px; background:rgba(192,132,252,.08); color:#eee4ff; font-size:11px; font-weight:700; cursor:pointer; }
+        .tutor-chip:disabled { opacity:.45; cursor:wait; }
+        .tutor-log { max-height:min(470px,58vh); max-height:min(470px,calc(var(--tutor-viewport-height,100vh) * .56)); overflow-y:auto; overscroll-behavior:contain; padding:0 16px; scroll-behavior:smooth; }
+        .tutor-turn { display:flex; gap:8px; align-items:flex-start; margin:0 0 15px; }
+        .tutor-turn.is-user { justify-content:flex-end; }
+        .tutor-turn-avatar { flex-shrink:0; width:28px; height:28px; border-radius:9px; overflow:hidden; display:flex; align-items:center; justify-content:center; background:white; color:#7011f5; }
+        .tutor-turn-avatar img { width:100%; height:100%; object-fit:contain; }
+        .tutor-bubble { min-width:0; max-width:calc(100% - 38px); padding:13px 14px; border-radius:4px 16px 16px; background:rgba(255,255,255,.055); border:1px solid rgba(255,255,255,.07); }
+        .is-user .tutor-bubble { max-width:88%; border-radius:16px 4px 16px 16px; background:rgba(112,17,245,.32); border-color:rgba(192,132,252,.22); }
+        .tutor-message-text { color:#f5efff; font-size:13px; line-height:1.75; white-space:pre-wrap; overflow-wrap:anywhere; }
+        .tutor-message-text p + p { margin-top:10px; }
+        .tutor-message-text ul, .tutor-message-text ol { margin:10px 0; padding-left:20px; white-space:normal; }
+        .tutor-message-text li + li { margin-top:5px; }
+        .tutor-message-text strong { color:white; font-weight:800; }
+        .tutor-source-list { display:flex; flex-wrap:wrap; gap:7px; margin-top:11px; padding-top:10px; border-top:1px solid var(--border); }
+        .tutor-source { border:0; padding:0; background:none; color:#cbb3ed; font-size:10px; text-align:left; cursor:pointer; line-height:1.5; }
+        .tutor-source:hover { color:white; }
+        .tutor-followups { display:flex; flex-wrap:wrap; gap:7px; margin-top:12px; }
+        .tutor-followups .tutor-chip { white-space:normal; text-align:left; font-size:10px; padding:7px 10px; }
+        .tutor-thinking { display:flex; align-items:center; gap:9px; padding:0 18px 14px; color:#d6c2ef; font-size:12px; }
+        .tutor-thinking-dots { display:flex; gap:4px; }
+        .tutor-thinking-dots span { width:5px; height:5px; border-radius:50%; background:#c084fc; animation:tutorBounce 1.2s infinite; }
+        .tutor-thinking-dots span:nth-child(2) { animation-delay:.15s; }
+        .tutor-thinking-dots span:nth-child(3) { animation-delay:.3s; }
+        @keyframes tutorBounce { 0%,80%,100% { transform:translateY(0); opacity:.45; } 40% { transform:translateY(-4px); opacity:1; } }
+        .tutor-notice { margin:0 16px 14px; padding:12px; border-radius:12px; background:rgba(251,191,36,.08); border:1px solid rgba(251,191,36,.24); color:#f1dec1; font-size:12px; line-height:1.55; }
+        .tutor-notice-actions { display:flex; gap:8px; margin-top:10px; flex-wrap:wrap; }
+        .tutor-small-btn { border:1px solid rgba(255,255,255,.18); border-radius:15px; padding:7px 11px; background:rgba(255,255,255,.06); color:white; font-weight:700; font-size:11px; cursor:pointer; }
+        .tutor-composer-wrap { padding:12px 14px max(14px,env(safe-area-inset-bottom)); background:rgba(0,0,0,.13); border-top:1px solid var(--border); }
+        .tutor-composer { display:flex; align-items:flex-end; gap:8px; }
+        .tutor-input { display:block; width:100%; min-height:46px; max-height:135px; resize:none; padding:12px 13px; border:1px solid rgba(192,132,252,.26); border-radius:16px; outline:none; background:rgba(0,0,0,.15); color:white; font-size:16px; line-height:1.4; }
+        .tutor-input:focus { border-color:#c084fc; box-shadow:0 0 0 3px rgba(192,132,252,.12); }
+        .tutor-send { width:46px; height:46px; flex-shrink:0; border:0; border-radius:15px; background:var(--gradient-btn); color:white; cursor:pointer; font-size:17px; }
+        .tutor-send:disabled { opacity:.4; cursor:default; }
+        .tutor-footer { display:flex; justify-content:space-between; align-items:center; gap:10px; padding:9px 2px 0; }
+        .tutor-counter { color:#bda8d7; font-size:10px; line-height:1.4; }
+        .tutor-privacy { color:#bda8d7; font-size:10px; line-height:1.5; margin:9px 2px 0; }
+        .tutor-reset { border:0; background:none; color:#cbb3ed; font-size:10px; cursor:pointer; padding:3px 0; }
+        .tutor-access { margin:5px 16px 16px; padding:16px; border-radius:15px; border:1px solid rgba(251,191,36,.25); background:rgba(251,191,36,.07); }
+        .tutor-access p { color:#e8d8c0; font-size:12px; line-height:1.6; }
+        .tutor-access button { margin-top:12px; }
+        .tutor-section [hidden] { display:none !important; }
+        .t-ai .tutor-toolbar-mascot { width:34px; height:34px; object-fit:contain; border-radius:10px; background:white; }
+        @media (max-width:410px) { .tutor-head { padding:14px; gap:10px; } .tutor-avatar { width:48px; height:48px; } .tutor-head-copy h2 { font-size:15px; } .tutor-log { padding:0 12px; } .tutor-bubble { padding:11px 12px; } }
+        @media (prefers-reduced-motion:reduce) { .tutor-thinking-dots span { animation:none; } .tutor-log { scroll-behavior:auto; } }
+        
+        .nav-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; padding-bottom: 20px; }
+        .nav-btn { background: rgba(255,255,255,0.05); border: none; padding: 15px; border-radius: var(--radius-btn); color: white; font-weight: 700; font-size: 14px; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 10px; text-decoration: none; transition: background 0.2s; }
+        .nav-btn:hover { background: rgba(255,255,255,0.1); }
+        .nav-btn:disabled { opacity: 0.3; cursor: not-allowed; }
+
+        /* QUIZ INLINE CONTAINER */
+        .inline-content-container { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-card); margin-top: 10px; overflow: hidden; display: none; animation: slideDown 0.4s ease; box-shadow: 0 10px 30px rgba(0,0,0,0.3); }
+        @keyframes slideDown { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }
+        .inline-nav { padding: 15px 20px; border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center; background: rgba(0,0,0,0.2); }
+        .inline-body { padding: 20px; width: 100%; }
+
+        .question-card { background: rgba(255,255,255,0.02); padding: 25px; border-radius: 20px; border: 1px solid var(--border); margin-bottom: 25px; }
+        .quiz-opt { background: rgba(255,255,255,0.03); padding: 18px; border-radius: 16px; margin-bottom: 12px; cursor: pointer; border: 2px solid transparent; display: flex; align-items: center; gap: 15px; transition: all 0.2s; }
+        .quiz-opt.selected { border-color: var(--primary); background: rgba(112, 17, 245, 0.1); }
+        .quiz-opt.correct { border-color: var(--success); background: rgba(0, 230, 118, 0.1); color: var(--success); font-weight: 700; }
+        .quiz-opt.wrong { border-color: var(--danger); background: rgba(255, 23, 68, 0.1); }
+        .opt-circle { width: 24px; height: 24px; border-radius: 50%; border: 2px solid var(--text-sec); display: flex; align-items: center; justify-content: center; font-size: 11px; opacity: 0.7; font-weight: 700; }
+        .quiz-opt.correct .opt-circle { border-color: var(--success); background: var(--success); color: black; border: none; opacity: 1; }
+        .quiz-opt.wrong .opt-circle { border-color: var(--danger); background: var(--danger); color: white; border: none; opacity: 1; }
+        
+        mjx-container { font-size: 115% !important; margin: 5px 0 !important; }
+
+        .result-card { text-align: center; animation: popIn 0.5s ease; padding: 10px 0; }
+        .score-big { font-size: 60px; font-weight: 900; line-height: 1; margin-bottom: 10px; background: linear-gradient(to right, #fff, #bcaaa4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+
+        .resolution-box { position: relative; margin-top: 15px; padding: 20px; background: rgba(112, 17, 245, 0.1); border: 1px solid var(--primary); border-radius: 16px; font-size: 14px; color: #c4b5fd; animation: fadeIn 0.5s ease; line-height: 1.6; overflow: hidden;}
+        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+        .blur-text { filter: blur(6px); user-select: none; pointer-events: none; opacity: 0.6; }
+        .lock-overlay { position: absolute; inset: 0; background: rgba(26, 11, 46, 0.85); display: flex; flex-direction: column; align-items: center; justify-content: center; z-index: 10; backdrop-filter: blur(2px); }
+        .btn-upgrade-mini { margin-top: 10px; background: var(--gradient-pro); color: black; font-weight: 800; padding: 8px 16px; border-radius: 20px; text-decoration: none; font-size: 13px; box-shadow: 0 4px 15px rgba(245, 158, 11, 0.4); cursor: pointer; border: none; }
+
+        .btn-next-q { width: 100%; padding: 16px; margin-top: 20px; background: var(--gradient-btn); color: white; border: none; border-radius: var(--radius-btn); font-weight: 800; font-size: 16px; cursor: pointer; display: none; animation: fadeIn 0.5s ease; box-shadow: 0 4px 15px rgba(112, 17, 245, 0.4); }
+
+        /* VISOR PDF INLINE */
+        .pdf-viewer-section { display: none; margin-top: 20px; padding-top: 20px; border-top: 1px solid var(--border); animation: fadeIn 0.4s ease; }
+        .pdf-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; }
+        .pdf-iframe-container { width: 100%; height: 80vh; border-radius: 16px; overflow: hidden; background: #fff; box-shadow: 0 10px 30px rgba(0,0,0,0.4); border: 1px solid var(--border); }
+        .pdf-iframe-container iframe { width: 100%; height: 100%; border: none; }
+        .btn-close-pdf { background: rgba(255,255,255,0.1); border: none; padding: 8px 15px; border-radius: 8px; color: white; cursor: pointer; font-weight: 600; font-size: 12px; display: flex; align-items: center; gap: 6px; }
+
+        /* ESTADO FREE / PRO Y VALIDACIÓN */
+        .pro-access-btn { min-width: 34px; height: 34px; padding: 0 10px; border-radius: 18px; border: 1px solid rgba(251,191,36,.35); background: rgba(251,191,36,.12); color: #fbbf24; display: inline-flex; align-items: center; justify-content: center; gap: 6px; font-size: 10px; font-weight: 900; cursor: pointer; }
+        .pro-access-btn.is-pro { color: #241005; background: var(--gradient-pro); border-color: transparent; }
+        .access-modal { position: fixed; top: 50%; left: 50%; transform: translate(-50%, -46%) scale(.96); width: 90%; max-width: 390px; padding: 0; border: 1px solid var(--border); border-radius: 22px; background: var(--surface); z-index: 2200; box-shadow: 0 25px 80px rgba(0,0,0,.9); display: none; opacity: 0; overflow: hidden; transition: transform .25s, opacity .25s; }
+        .access-modal.show { display: block; opacity: 1; transform: translate(-50%, -50%) scale(1); }
+        .access-modal-header { padding: 24px 22px 18px; background: linear-gradient(135deg, rgba(112,17,245,.9), rgba(255,0,204,.7)); text-align: center; }
+        .access-modal-body { padding: 22px; }
+        .access-close { position: absolute; top: 12px; right: 12px; width: 34px; height: 34px; border: 0; border-radius: 50%; background: rgba(0,0,0,.22); color: white; cursor: pointer; }
+        .verify-input { width: 100%; padding: 13px 14px; border: 1px solid rgba(255,255,255,.18); border-radius: 12px; outline: none; background: rgba(0,0,0,.22); color: white; font-size: 14px; }
+        .verify-input:focus { border-color: var(--primary); box-shadow: 0 0 0 3px rgba(112,17,245,.18); }
+        .verify-action { width: 100%; margin-top: 12px; padding: 13px; border: 0; border-radius: var(--radius-btn); background: var(--gradient-btn); color: white; font-size: 14px; font-weight: 800; cursor: pointer; }
+        .verify-action:disabled { opacity: .55; cursor: wait; }
+        .verify-message { min-height: 18px; margin-top: 11px; color: var(--text-sec); font-size: 12px; line-height: 1.45; text-align: center; }
+        .btn-verify { width: 100%; padding: 11px 14px; border: 1px solid rgba(255,255,255,.18); border-radius: var(--radius-btn); background: transparent; color: white; display: flex; align-items: center; justify-content: center; gap: 7px; font-size: 12px; font-weight: 800; cursor: pointer; }
+        .pro-only { display: none; }
+        body.is-pro .free-only { display: none !important; }
+        body.is-pro .pro-only { display: flex; }
+        body.is-pro .content-area { padding-top: 18px; }
+
+        @media (max-width: 410px) {
+            .right-nav { gap: 6px; }
+            .pro-access-btn { width: 34px; padding: 0; }
+            .pro-access-btn span { display: none; }
+            .action-label { font-size: 11px; }
+            .action-status { font-size: 8px; }
+        }
+
+        /* MODALES OVERLAY */
+        .overlay { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(15, 5, 28, 0.95); z-index: 999; opacity: 0; pointer-events: none; transition: opacity 0.3s; backdrop-filter: blur(8px); }
+        .overlay.show { opacity: 1; pointer-events: all; }
+
+        /* MODAL TINDER-PROMO */
+        .promo-modal { position: fixed; top: 50%; left: 50%; transform: translate(-50%, -45%) scale(0.9); width: 90%; max-width: 360px; background: #1a0b2e; border-radius: 24px; border: 1px solid rgba(255,255,255,0.1); z-index: 2000; overflow: hidden; display: none; box-shadow: 0 25px 80px rgba(0,0,0,0.9); text-align: center; padding: 30px 20px; transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); opacity: 0; }
+        .promo-modal.show { display: block; opacity: 1; transform: translate(-50%, -50%) scale(1); }
+        .close-promo { position: absolute; top: 15px; right: 15px; background: transparent; border: none; color: var(--text-sec); font-size: 20px; cursor: pointer; z-index: 10; }
+        .promo-avatar { position: relative; width: 100px; height: 100px; margin: 0 auto 20px; }
+        .promo-avatar img { width: 100%; height: 100%; object-fit: cover; border-radius: 50%; border: 4px solid var(--success); }
+        .promo-crown { position: absolute; bottom: 0; right: 0; background: var(--success); width: 32px; height: 32px; border-radius: 50%; display: flex; align-items: center; justify-content: center; border: 3px solid #1a0b2e; color: white; font-size: 14px; box-shadow: 0 2px 10px rgba(0,0,0,0.5); }
+        .promo-title { font-size: 22px; font-weight: 900; color: var(--warning); margin-bottom: 10px; line-height: 1.2; }
+        .promo-desc { font-size: 14px; color: #cbd5e1; margin-bottom: 20px; line-height: 1.5; padding: 0 10px; }
+        .promo-timer { display: flex; justify-content: center; align-items: center; gap: 8px; font-size: 24px; font-weight: 900; color: var(--success); margin-bottom: 25px; }
+        .promo-timer span { background: rgba(16, 185, 129, 0.15); padding: 8px 12px; border-radius: 8px; }
+        .promo-price-box { margin-bottom: 20px; position: relative; display: inline-block; }
+        .promo-badge { position: absolute; top: -15px; right: -25px; background: var(--gradient-pro); color: black; font-weight: 900; font-size: 12px; padding: 5px 10px; border-radius: 12px; transform: rotate(10deg); box-shadow: 0 4px 10px rgba(245, 158, 11, 0.4); }
+        .promo-price { font-size: 18px; font-weight: 800; color: white; }
+        .promo-old-price { font-size: 13px; color: var(--text-sec); text-decoration: line-through; margin-top: 2px; }
+        .btn-continue-promo { width: 100%; padding: 16px; background: var(--success); color: white; border: none; border-radius: var(--radius-btn); font-weight: 900; font-size: 16px; cursor: pointer; text-decoration: none; display: block; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4); }
+        .promo-footer { font-size: 11px; color: var(--text-sec); margin-top: 15px; }
+
+        /* MODAL ENERGÍA (RECARGA) */
+        .energy-modal { position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 90%; max-width: 320px; background: var(--surface); border-radius: 20px; border: 1px solid var(--border); z-index: 2000; display: none; box-shadow: 0 25px 80px rgba(0,0,0,0.9); text-align: center; }
+        .energy-modal.show { display: block; animation: popIn 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275); }
+        .sales-body { padding: 30px 20px; }
+        
+        /* TOAST */
+        .premium-toast { position: fixed; top: 20px; left: 50%; transform: translateX(-50%) translateY(-100px); background: white; color: black; border: none; padding: 12px 25px; border-radius: 50px; display: flex; align-items: center; justify-content: center; gap: 10px; box-shadow: 0 10px 40px rgba(0,0,0,0.6); z-index: 3000; opacity: 0; pointer-events: none; transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); width: max-content; font-weight: 700; font-size: 13px; text-align: center; }
+        .premium-toast.show { opacity: 1; transform: translateX(-50%) translateY(0); pointer-events: all; }
+        .premium-toast i { color: var(--success); font-size: 18px; }
+    </style>
+</head>
+<body>
+
+    <header class="header">
+        <div class="nav-container">
+            <div class="left-nav">
+                <button class="menu-toggle" onclick="toggleSidebar()">
+                    <i class="fas fa-bars"></i>
+                    <span>Temas</span>
+                </button>
+                <div class="logo">CBZ<span class="pro" id="header-pro-badge"></span></div>
+            </div>
+            <div class="right-nav">
+                <a href="go:haudio" class="audio-btn" style="margin-right: 5px;">
+                    <i class="fas fa-headphones"></i>
+                </a>
+                <button class="pro-access-btn" id="pro-access-btn" type="button" onclick="openAccessModal()" aria-label="Verificar acceso PRO">
+                    <i class="fas fa-crown"></i><span id="pro-access-label">PRO</span>
+                </button>
+                <div class="energy-badge free-only" id="energy-badge" onclick="checkEnergyUI()">
+                    <i class="fas fa-bolt"></i>
+                    <span id="energy-count">20</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="overlay" id="sidebar-overlay" onclick="toggleSidebar()"></div>
+    <div class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <div class="sidebar-title-row">
+                <span>Historia</span>
+                <i class="fas fa-times" onclick="toggleSidebar()" style="cursor:pointer; padding:5px;"></i>
+            </div>
+            
+            <div class="progress-container">
+                <div class="progress-bar">
+                    <div class="progress-fill" id="sidebar-progress-fill"></div>
+                </div>
+                <span class="progress-text" id="sidebar-progress-text">0%</span>
+            </div>
+
+            <div class="tabs">
+                <button class="tab-btn active" onclick="switchTab('temario')" id="tab-temario">Temario</button>
+                <button class="tab-btn" onclick="switchTab('favoritos')" id="tab-favoritos">Favoritos</button>
+            </div>
+        </div>
+        <div class="module-list" id="sidebar-content"></div>
+    </div>
+
+    <div class="main-container">
+        <div class="video-wrapper">
+            <div class="video-container horizontal" id="vid-container">
+                <iframe id="main-player" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="content-area">
+            
+            <a href="go:PROCA" class="inline-promo-banner free-only" id="inline-promo-banner">
+                <div class="inline-promo-text"><i class="fas fa-fire"></i> Pásate a PRO: clases y ejercicios sin límites</div>
+                <div class="inline-promo-btn">Ver Plan</div>
+            </a>
+
+            <div class="economy-info free-only" id="economy-info">
+                <i class="fas fa-info-circle"></i>
+                <div style="color: var(--text-sec);">
+                    <strong style="color:white; display:block; margin-bottom:2px;">Reglas de Energía ⚡</strong>
+                    Ver Clase (-5), Ver PDF (-2), Pregunta (-1).<br>¡Si te quedas sin energía, recarga gratis en el menú!
+                </div>
+            </div>
+
+            <div class="video-header-row">
+                <h1 class="video-title" id="video-title">Cargando clase...</h1>
+                <button class="main-fav-btn" id="current-fav-btn" onclick="toggleCurrentFavorite()" disabled aria-disabled="true">
+                    <i class="far fa-heart"></i>
+                </button>
+            </div>
+            <div class="video-meta">
+                <span class="module-pill" id="module-name">Módulo 1</span>
+                <span><i class="far fa-check-circle"></i> Lección <span id="lesson-index">1</span></span>
+            </div>
+            
+            <div class="actions-grid" id="actions-grid" role="tablist" aria-label="Herramientas de la clase">
+                <button class="action-card" id="action-quiz" type="button" onclick="startQuiz()" role="tab" aria-controls="inline-quiz-container" disabled aria-disabled="true">
+                    <span class="action-icon t-quiz"><i class="fas fa-list-check"></i></span>
+                    <span class="action-label">Ejercicios</span>
+                    <span class="action-status" id="quiz-cost-label">-1 ⚡ / pregunta</span>
+                </button>
+                <button class="action-card" id="action-summary" type="button" onclick="viewSummary()" role="tab" aria-controls="summary-section" disabled aria-disabled="true">
+                    <span class="action-icon t-summary"><i class="fas fa-book-open"></i></span>
+                    <span class="action-label">Resumen</span>
+                    <span class="action-status">Puntos clave</span>
+                </button>
+                <button class="action-card" id="action-ai" type="button" onclick="openTutor()" role="tab" aria-controls="tutor-section" disabled aria-disabled="true">
+                    <span class="action-icon t-ai" id="tutor-toolbar-avatar"><i class="fas fa-sparkles" aria-hidden="true"></i></span>
+                    <span class="action-label">Tutor IA</span>
+                    <span class="action-status" id="tutor-action-status">Tu compañero PRO</span>
+                </button>
+                <button class="action-card" id="action-pdf" type="button" onclick="viewPDF()" role="tab" aria-controls="pdf-viewer-section" disabled aria-disabled="true">
+                    <span class="action-icon t-pdf"><i class="fas fa-file-pdf"></i></span>
+                    <span class="action-label">PDF</span>
+                    <span class="action-status" id="pdf-cost-label">-2 ⚡</span>
+                </button>
+            </div>
+
+            <div id="inline-quiz-container" class="inline-content-container">
+                <div class="inline-nav">
+                    <span style="font-weight:800; font-size:16px; color:white;"><i class="fas fa-brain" style="color:var(--primary)"></i> Banco de Preguntas</span>
+                    <button onclick="closeQuiz()" style="background:rgba(255,255,255,0.1); border:none; color:white; width:32px; height:32px; border-radius:50%; cursor:pointer;"><i class="fas fa-times"></i></button>
+                </div>
+                <div class="inline-body" id="quiz-container"></div>
+            </div>
+
+            <div id="summary-section" class="inline-content-container" role="tabpanel" aria-labelledby="action-summary">
+                <div class="inline-nav">
+                    <span style="font-weight:800; font-size:16px; color:white;"><i class="fas fa-book-open" style="color:#38bdf8"></i> Resumen de la clase</span>
+                    <button onclick="closeSummary()" aria-label="Ocultar resumen" style="background:rgba(255,255,255,0.1); border:none; color:white; width:32px; height:32px; border-radius:50%; cursor:pointer;"><i class="fas fa-times"></i></button>
+                </div>
+                <div class="inline-body">
+                    <p class="summary-copy" id="summary-copy"></p>
+                    <div class="key-points" id="summary-key-points"></div>
+                    <div class="summary-empty" id="summary-empty" hidden></div>
+                </div>
+            </div>
+
+            <section id="tutor-section" class="inline-content-container tutor-section" role="tabpanel" aria-labelledby="action-ai">
+                <div class="tutor-head">
+                    <div class="tutor-avatar" id="tutor-main-avatar" aria-hidden="true"><i class="fas fa-star"></i></div>
+                    <div class="tutor-head-copy"><h2>Tu compañero Cachimboz</h2><p>Una duda a la vez. Un paso más cerca de ingresar.</p></div>
+                    <button class="tutor-close" type="button" onclick="closeTutor()" aria-label="Ocultar tutor"><i class="fas fa-times" aria-hidden="true"></i></button>
+                </div>
+                <div class="tutor-context"><i class="fas fa-book-open" aria-hidden="true"></i><span id="tutor-lesson-context"></span></div>
+                <div class="tutor-welcome" id="tutor-welcome"><h3>¡Vamos juntos! ✨</h3><p>Pregúntame lo que te cuesta de esta clase. Lo explicamos paso a paso, con ejemplos que te ayuden a entender.</p></div>
+                <div class="tutor-chips" id="tutor-starter-chips">
+                    <button class="tutor-chip" type="button" onclick="sendTutorPrompt('Explícame esta clase de forma sencilla, con un ejemplo y una pregunta al final para comprobar que entendí.')">Explícame fácil</button>
+                    <button class="tutor-chip" type="button" onclick="sendTutorPrompt('Dame un ejemplo sencillo y concreto para entender la idea principal de esta clase.')">Dame un ejemplo</button>
+                    <button class="tutor-chip" type="button" onclick="focusTutorDoubt()">Tengo una duda</button>
+                </div>
+                <div class="tutor-access" id="tutor-access" hidden><p>Tu compañero de Historia está incluido en Cachimboz PRO. Valida el correo de tu plan y seguimos juntos.</p><button class="btn-verify" type="button" onclick="openAccessModal()">Ya soy PRO: validar mi correo</button><a href="go:PROCA" class="btn-verify" style="margin-top:8px;text-decoration:none">Conocer PRO</a></div>
+                <div class="tutor-log" id="tutor-log" role="log" aria-label="Conversación con el tutor" aria-live="off" tabindex="0"></div>
+                <div class="tutor-thinking" id="tutor-thinking" hidden><div class="tutor-thinking-dots" aria-hidden="true"><span></span><span></span><span></span></div><span>Estoy preparando tu explicación…</span></div>
+                <div class="tutor-notice" id="tutor-notice" hidden><p id="tutor-notice-text"></p><div class="tutor-notice-actions"><button class="tutor-small-btn" id="tutor-retry" type="button" onclick="retryTutor()" hidden>Volver a intentar</button><button class="tutor-small-btn" id="tutor-verify-again" type="button" onclick="openAccessModal()" hidden>Validar mi correo</button></div></div>
+                <div class="tutor-composer-wrap">
+                    <form class="tutor-composer" id="tutor-form" onsubmit="event.preventDefault(); sendTutorMessage();">
+                        <label for="tutor-input" class="tutor-sr-only" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)">Tu pregunta para el tutor</label>
+                        <textarea class="tutor-input" id="tutor-input" rows="1" maxlength="2000" placeholder="¿Qué parte te cuesta?" oninput="updateTutorComposer()" aria-describedby="tutor-status"></textarea>
+                        <button class="tutor-send" id="tutor-send" type="submit" aria-label="Enviar pregunta" disabled><i class="fas fa-arrow-up" aria-hidden="true"></i></button>
+                        <button class="tutor-send" id="tutor-cancel" type="button" onclick="cancelTutorRequest()" aria-label="Detener respuesta" hidden><i class="fas fa-stop" aria-hidden="true"></i></button>
+                    </form>
+                    <div class="tutor-footer"><span class="tutor-counter" id="tutor-status" role="status" aria-live="polite">PRO: 20 consultas/día · 200/mes.</span><button class="tutor-reset" type="button" id="tutor-reset" onclick="resetTutorConversation()">Empezar de nuevo</button></div>
+                    <p class="tutor-privacy" id="tutor-privacy">El tutor puede equivocarse. No compartas datos personales.</p>
+                </div>
+            </section>
+
+            <div class="pdf-viewer-section" id="pdf-viewer-section">
+                <div class="pdf-header">
+                    <h3 style="font-size:16px; font-weight:800; color:white;"><i class="fas fa-file-pdf" style="color:var(--danger)"></i> Documento de Clase</h3>
+                    <button class="btn-close-pdf" onclick="closePdfInline()"><i class="fas fa-times"></i> Ocultar</button>
+                </div>
+                <div class="pdf-iframe-container">
+                    <iframe id="pdf-iframe" src=""></iframe>
+                </div>
+                <a href="go:PROCA" id="pdf-upgrade-link" class="btn-share-main free-only" style="background:var(--gradient-pro); color:black; margin-top:15px; display:flex; padding:14px; border-radius:var(--radius-btn); font-weight:800; text-decoration:none; justify-content:center;">
+                    <i class="fas fa-download"></i> Descargar con Plan PRO
+                </a>
+            </div>
+
+            <div class="nav-grid">
+                <button class="nav-btn" id="btn-prev" onclick="prevLesson()" disabled><i class="fas fa-arrow-left"></i> Anterior</button>
+                <button class="nav-btn" id="btn-next" onclick="nextLesson()" disabled>Siguiente <i class="fas fa-arrow-right"></i></button>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="overlay" id="promo-overlay" onclick="closePromoModal()"></div>
+    <div class="promo-modal" id="promo-modal">
+        <button class="close-promo" onclick="closePromoModal()"><i class="fas fa-times"></i></button>
+        <div class="promo-avatar">
+            <img src="https://i.pravatar.cc/150?img=11" alt="Cachimbo"> 
+            <div class="promo-crown"><i class="fas fa-crown"></i></div>
+        </div>
+        <h2 class="promo-title" id="promo-title">¡Oferta por tiempo limitado!</h2>
+        <p class="promo-desc" id="promo-desc">Obtén Premium con <b style="color:var(--success);">50% DE DESCUENTO</b> para desbloquear acceso ilimitado a todo el material.</p>
+        
+        <div class="promo-timer" id="promo-timer">
+            <span>0</span><span>4</span>:<span>5</span><span>1</span>
+        </div>
+        
+        <div class="promo-price-box">
+            <div class="promo-badge">-50%</div>
+            <div class="promo-price">Acceso Total por 19,90 PEN</div>
+            <div class="promo-old-price">Precio regular: 39,90 PEN</div>
+        </div>
+        
+        <a href="go:PROCA" class="btn-continue-promo">Obtener Oferta</a>
+        <button type="button" onclick="closePromoModal(); openAccessModal();" class="btn-verify" style="margin-top:12px;">Ya soy PRO: verificar acceso</button>
+        <div class="promo-footer">Sin suscripciones automáticas. Pago único.</div>
+    </div>
+
+    <div class="overlay" id="energy-overlay"></div>
+    <div class="energy-modal" id="energy-modal">
+        <div class="sales-body">
+            <i class="fas fa-battery-empty" style="font-size:50px; color:var(--danger); margin-bottom:15px;"></i>
+            <h3 style="font-size:22px; font-weight:900; margin-bottom:10px; color:white;">¡Sin Energía! ⚡</h3>
+            <p style="font-size:14px; color:var(--text-sec); margin-bottom:20px; line-height:1.4;">
+                Tu energía se agotó. Regresa al menú principal para recargar al 100% gratis, o sé PRO y quita todos los límites.
+            </p>
+            <button onclick="rechargeAndGoMenu('homepro1')" style="width:100%; padding:14px; background:var(--surface-hover); color:white; border:1px solid var(--primary); border-radius:var(--radius-btn); font-weight:800; margin-bottom:12px; cursor:pointer; font-size:15px;">
+                <i class="fas fa-sync-alt"></i> Recargar Gratis
+            </button>
+            <a href="go:PROCA" class="btn-continue-promo" style="background:var(--gradient-pro); color:black; margin-bottom:0;">
+                <i class="fas fa-crown"></i> Ser PRO Ilimitado
+            </a>
+            <button type="button" onclick="openAccessModal()" class="btn-verify">Ya soy PRO: verificar acceso</button>
+        </div>
+    </div>
+
+    <div class="overlay" id="access-overlay" onclick="closeAccessModal()"></div>
+    <section class="access-modal" id="access-modal" role="dialog" aria-modal="true" aria-labelledby="access-title">
+        <button class="access-close" type="button" onclick="closeAccessModal()" aria-label="Cerrar"><i class="fas fa-times"></i></button>
+        <div class="access-modal-header">
+            <i class="fas fa-crown" style="font-size:34px; color:#fbbf24; margin-bottom:10px;"></i>
+            <h2 id="access-title" style="font-size:21px; font-weight:900;">Verificar acceso PRO</h2>
+            <p style="margin-top:6px; font-size:12px; opacity:.88;">Usa el correo registrado en tu compra.</p>
+        </div>
+        <div class="access-modal-body">
+            <label for="v-email" style="display:block; margin-bottom:7px; color:#e9e1f7; font-size:12px; font-weight:700;">Correo electrónico</label>
+            <input class="verify-input" type="email" id="v-email" inputmode="email" autocomplete="email" placeholder="tu@correo.com">
+            <button class="verify-action" type="button" onclick="verifySub()" id="btn-verify-action">Validar ahora</button>
+            <div class="verify-message" id="v-msg" role="status" aria-live="polite"></div>
+            <a href="go:PROCA" class="btn-verify free-only" style="margin-top:16px; text-decoration:none;">Conocer el Plan PRO</a>
+        </div>
+    </section>
+
+    <div class="premium-toast" id="premium-toast">
+        <i class="fas fa-check-circle"></i>
+        <span id="toast-text">Notificación</span>
+    </div>
+
+    <script>
+        // --- VARIABLES DE HISTORIA ---
+        const COURSE_ID = 'historia_1'; 
+        const URL_DATA = "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/refs/heads/main/historia.json"; 
+        const TUTOR_API_URL = 'https://us-central1-cachimboz-pro.cloudfunctions.net/historiaTutor';
+        const TUTOR_MASCOTS = {
+            hello:'https://firebasestorage.googleapis.com/v0/b/cachimboz-pro.firebasestorage.app/o/Mascota%20Cachimboz%2F01_saludo.png?alt=media&token=6ce4853c-8a71-44f9-821a-f8b7de9f6f4c',
+            correct:'https://firebasestorage.googleapis.com/v0/b/cachimboz-pro.firebasestorage.app/o/Mascota%20Cachimboz%2F02_respuesta_correcta.png?alt=media&token=53e565ab-84f3-4d2d-8349-30f9610bcc59',
+            support:'https://firebasestorage.googleapis.com/v0/b/cachimboz-pro.firebasestorage.app/o/Mascota%20Cachimboz%2F04_resultado_dificil.png?alt=media&token=55918c05-895a-43ff-bae3-e3d4eb6f7f87',
+            thinking:'https://firebasestorage.googleapis.com/v0/b/cachimboz-pro.firebasestorage.app/o/Mascota%20Cachimboz%2F05_estudiando.png?alt=media&token=5704eb00-a9df-4952-b511-6cec32497097',
+            challenge:'https://firebasestorage.googleapis.com/v0/b/cachimboz-pro.firebasestorage.app/o/Mascota%20Cachimboz%2F07_reto.png?alt=media&token=3b4048ae-c2ff-46fc-ad8f-ed8a9c63dbb1'
+        };
+        const TUTOR_MASCOT_URL = TUTOR_MASCOTS.hello;
+        
+        const CK = n => `cachimboz_${n}@${COURSE_ID}`; 
+        const GK = n => `cachimboz_${n}`;
+
+        // --- ACCESO FREE / PRO (COMPATIBLE CON LAS CLAVES EXISTENTES) ---
+        function validFutureDate(rawValue) {
+            if (!rawValue) return null;
+            const value = String(rawValue).trim();
+            let date;
+            const isoDay = value.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+            const localDay = value.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
+            if (isoDay) {
+                const year = Number(isoDay[1]);
+                const month = Number(isoDay[2]);
+                const day = Number(isoDay[3]);
+                const calendarDate = new Date(Date.UTC(year, month - 1, day));
+                if (calendarDate.getUTCFullYear() !== year || calendarDate.getUTCMonth() !== month - 1 || calendarDate.getUTCDate() !== day) return null;
+                date = new Date(Date.UTC(year, month - 1, day + 1, 4, 59, 59, 999));
+            } else if (localDay) {
+                const year = Number(localDay[3]);
+                const month = Number(localDay[2]);
+                const day = Number(localDay[1]);
+                const calendarDate = new Date(Date.UTC(year, month - 1, day));
+                if (calendarDate.getUTCFullYear() !== year || calendarDate.getUTCMonth() !== month - 1 || calendarDate.getUTCDate() !== day) return null;
+                date = new Date(Date.UTC(year, month - 1, day + 1, 4, 59, 59, 999));
+            } else {
+                date = new Date(rawValue);
+            }
+            return Number.isFinite(date.getTime()) && date.getTime() >= Date.now() ? date : null;
+        }
+
+        function getPremiumGlobal() {
+            return validFutureDate(localStorage.getItem(GK('premium_exp')));
+        }
+
+        function getCourseAccess() {
+            return validFutureDate(localStorage.getItem(CK('access_exp')));
+        }
+
+        function hasAccess() {
+            return Boolean(getPremiumGlobal() || getCourseAccess());
+        }
+
+        function setPremiumGlobal({ email, plan, start, vencimiento }) {
+            if (!validFutureDate(vencimiento)) return false;
+            localStorage.setItem(GK('premium_email'), String(email || ''));
+            localStorage.setItem(GK('premium_plan'), Array.isArray(plan) ? plan.join(',') : String(plan || ''));
+            localStorage.setItem(GK('premium_start'), String(start || ''));
+            localStorage.setItem(GK('premium_exp'), String(vencimiento));
+            return true;
+        }
+
+        function setCourseAccess({ email, vencimiento }) {
+            if (!validFutureDate(vencimiento)) return false;
+            localStorage.setItem(CK('access_email'), String(email || ''));
+            localStorage.setItem(CK('access_exp'), String(vencimiento));
+            return true;
+        }
+
+        function escapeHTML(value) {
+            return String(value ?? '')
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#039;');
+        }
+
+        function safeRemoteUrl(value) {
+            try {
+                const url = new URL(String(value || ''));
+                return url.protocol === 'https:' ? url.href : '';
+            } catch (_) {
+                return '';
+            }
+        }
+
+        function setActiveAction(actionName) {
+            ['quiz', 'summary', 'ai', 'pdf'].forEach(name => {
+                const button = document.getElementById(`action-${name}`);
+                if (button) {
+                    const active = name === actionName;
+                    button.classList.toggle('active', active);
+                    button.setAttribute('aria-selected', active ? 'true' : 'false');
+                }
+            });
+        }
+
+
+        // --- ANALÍTICAS COMPARTIDAS CON EL MENÚ FREE ---
+        const CACHIMBOZ_ANALYTICS_KEY = 'cachimboz_analytics_v1';
+        const ANALYTICS_COURSE_ID = 'historia';
+        const ANALYTICS_COURSE_NAME = 'Historia';
+        const ANALYTICS_MAX_ATTEMPTS = 1500;
+
+        function createQuizSessionId() {
+            return `${ANALYTICS_COURSE_ID}_${Date.now()}_${Math.random().toString(36).slice(2, 9)}`;
+        }
+
+        function recordQuizAttempt(isCorrect, selectedIndex, correctIndex) {
+            const lesson = app.flatList[app.currentIdx] || {};
+            const question = (app.quiz.q && app.quiz.q[app.quiz.current]) || {};
+            const timestamp = Date.now();
+            let stored = null;
+
+            try {
+                stored = JSON.parse(localStorage.getItem(CACHIMBOZ_ANALYTICS_KEY) || '[]');
+            } catch (_) {
+                stored = [];
+            }
+
+            const wrapped = stored && !Array.isArray(stored) && Array.isArray(stored.attempts);
+            const attempts = wrapped ? stored.attempts : (Array.isArray(stored) ? stored : []);
+            attempts.push({
+                id: `${ANALYTICS_COURSE_ID}_${timestamp}_${app.quiz.current}`,
+                correct: Boolean(isCorrect),
+                timestamp: timestamp,
+                courseId: ANALYTICS_COURSE_ID,
+                courseName: ANALYTICS_COURSE_NAME,
+                topic: String(lesson.tema || lesson.topic || lesson.categoria || 'Tema general'),
+                lesson: String(lesson.titulo || lesson.title || lesson.nombre || 'Banco de preguntas'),
+                lessonId: Number.isFinite(Number(lesson.globalId)) ? Number(lesson.globalId) : null,
+                questionId: String(question.id || question._id || `${lesson.globalId ?? 'lesson'}_${app.quiz.current}`),
+                question: String(question.pregunta || question.question || '').slice(0, 240),
+                selectedIndex: Number(selectedIndex),
+                correctIndex: Number(correctIndex),
+                sessionId: app.quiz.sessionId || (app.quiz.sessionId = createQuizSessionId()),
+                source: 'curso_oficial_free',
+                version: 1
+            });
+
+            const recentAttempts = attempts.slice(-ANALYTICS_MAX_ATTEMPTS);
+            const valueToSave = wrapped
+                ? { ...stored, attempts: recentAttempts, updatedAt: timestamp, version: 1 }
+                : recentAttempts;
+
+            try {
+                localStorage.setItem(CACHIMBOZ_ANALYTICS_KEY, JSON.stringify(valueToSave));
+            } catch (_) {
+                // Segundo intento más compacto si el dispositivo alcanzó su cuota local.
+                const compactAttempts = recentAttempts.slice(-400);
+                const compactValue = wrapped
+                    ? { ...stored, attempts: compactAttempts, updatedAt: timestamp, version: 1 }
+                    : compactAttempts;
+                try { localStorage.setItem(CACHIMBOZ_ANALYTICS_KEY, JSON.stringify(compactValue)); } catch (_) {}
+            }
+        }
+
+        let app = {
+            data: null, flatList: [], currentIdx: 0,
+            completed: new Set(), favorites: new Set(),
+            tab: 'temario',
+            quiz: { q: [], current: 0, score: 0 }
+        };
+
+        // --- SISTEMA DE ENERGÍA GAMIFICADO ---
+        const LS_ENERGY_COUNT = 'cbz_energy_count';
+        const DAILY_MAX = 20; 
+
+        function getEnergy() {
+            let count = parseInt(localStorage.getItem(LS_ENERGY_COUNT));
+            if (isNaN(count) || count < 0) {
+                localStorage.setItem(LS_ENERGY_COUNT, DAILY_MAX.toString());
+                return DAILY_MAX;
+            }
+            return count;
+        }
+
+        function consumeEnergy(amount, callback) {
+            if (hasAccess()) {
+                callback();
+                return;
+            }
+            let current = getEnergy();
+            if (current >= amount) {
+                localStorage.setItem(LS_ENERGY_COUNT, (current - amount).toString());
+                updateEnergyUI();
+                callback();
+            } else {
+                openEnergyModal();
+            }
+        }
+
+        function updateEnergyUI() {
+            const el = document.getElementById('energy-count');
+            if(el) el.innerText = getEnergy();
+        }
+
+        function checkEnergyUI() {
+            if (hasAccess()) {
+                showToast('Tu Plan PRO está activo: clases, ejercicios y PDF desbloqueados.');
+                return;
+            }
+            let current = getEnergy();
+            showToast(`Tienes ${current} ⚡. Úsala estratégicamente.`);
+        }
+
+        function openEnergyModal() {
+            if (hasAccess()) return;
+            document.getElementById('energy-overlay').classList.add('show');
+            document.getElementById('energy-modal').classList.add('show');
+        }
+
+        function closeEnergyModal() {
+            document.getElementById('energy-overlay').classList.remove('show');
+            document.getElementById('energy-modal').classList.remove('show');
+        }
+
+        function rechargeAndGoMenu(nombreMenuAC24) {
+            localStorage.setItem(LS_ENERGY_COUNT, DAILY_MAX.toString());
+            window.location.href = `go:${nombreMenuAC24}`;
+        }
+
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+            return array;
+        }
+
+        // --- INICIALIZACIÓN ---
+        document.addEventListener('DOMContentLoaded', async () => { 
+            loadStorage(); 
+            updateEnergyUI();
+            applyAccessState();
+            await fetchData(); 
+            renderSidebar(); 
+            loadLesson(app.currentIdx, false); 
+            updateEnergyUI();
+            const savedEmail = localStorage.getItem(GK('premium_email')) || localStorage.getItem(CK('access_email')) || '';
+            const emailInput = document.getElementById('v-email');
+            if (emailInput) {
+                if (savedEmail) emailInput.value = savedEmail;
+                emailInput.addEventListener('keydown', event => {
+                    if (event.key === 'Enter') verifySub();
+                });
+            }
+            startPromoTimer();
+            initializeTutorUI();
+        });
+
+        function loadStorage() {
+            try {
+                const comp = localStorage.getItem(CK('comp'));
+                if (comp) app.completed = new Set(JSON.parse(comp));
+            } catch (_) { app.completed = new Set(); }
+            try {
+                const favs = localStorage.getItem(CK('favs'));
+                if (favs) app.favorites = new Set(JSON.parse(favs));
+            } catch (_) { app.favorites = new Set(); }
+            const last = parseInt(localStorage.getItem(CK('last')), 10);
+            if (Number.isInteger(last) && last >= 0) app.currentIdx = last;
+        }
+
+        async function fetchData() {
+            try {
+                const res = await fetch(URL_DATA);
+                if (!res.ok) throw new Error('No se pudo descargar el curso.');
+                const json = await res.json();
+                app.data = Array.isArray(json.temas) ? json.temas : [];
+                app.flatList = [];
+                let globalIndex = 0;
+                app.data.forEach((tema, tIdx) => {
+                    const preguntasTema = tema.preguntas || [];
+                    const videos = tema.videos || [];
+                    videos.forEach((vid, vIdx) => {
+                        const preguntasFinales = (vid.preguntas && vid.preguntas.length > 0) ? vid.preguntas : preguntasTema;
+                        app.flatList.push({ ...vid, tema: tema.titulo, preguntas: preguntasFinales, globalId: globalIndex, tIdx, vIdx });
+                        globalIndex++;
+                    });
+                });
+            } catch(e) { 
+                document.getElementById('video-title').textContent = "Error al conectar con la base de datos.";
+            }
+        }
+
+        function renderSidebar() {
+            const container = document.getElementById('sidebar-content'); container.innerHTML = '';
+            if (app.tab === 'favoritos') { renderFavoritesList(container); return; }
+            if(!app.data) return;
+            app.data.forEach((tema) => {
+                const block = document.createElement('div'); block.className = 'module-block';
+                let doneCount = 0; const temaVideos = app.flatList.filter(v => v.tema === tema.titulo);
+                temaVideos.forEach(v => { if(app.completed.has(v.globalId)) doneCount++; });
+                
+                block.innerHTML = `<div class="module-header">${escapeHTML(tema.titulo)} <span class="module-count">${doneCount}/${Array.isArray(tema.videos) ? tema.videos.length : 0}</span></div>`;
+                temaVideos.forEach(vid => { block.appendChild(createLessonItem(vid)); });
+                container.appendChild(block);
+            });
+        }
+
+        function createLessonItem(vid) {
+            const el = document.createElement('div');
+            const isDone = app.completed.has(vid.globalId); const isActive = vid.globalId === app.currentIdx; const isFav = app.favorites.has(vid.globalId);
+            el.className = `lesson-item ${isActive ? 'active' : ''} ${isDone ? 'completed' : ''}`;
+            
+            el.onclick = () => { 
+                if (app.currentIdx === vid.globalId) return;
+                consumeEnergy(5, () => {
+                    loadLesson(vid.globalId, true);
+                    if(window.innerWidth < 768) toggleSidebar();
+                });
+            }; 
+            
+            el.innerHTML = `<div class="lesson-status"><i class="fas ${isDone ? 'fa-check' : 'fa-play'}"></i></div><div class="lesson-info"><div class="lesson-title">${escapeHTML(vid.titulo)}</div><div class="lesson-sub">Lección ${vid.globalId + 1}</div></div>${isFav ? '<i class="fas fa-heart" style="color:var(--favorite); font-size:10px;"></i>' : ''}`;
+            return el;
+        }
+
+        // --- SISTEMA DE REPRODUCTOR ADAPTABLE (HORIZONTAL/VERTICAL) ---
+        function applyVideoFormat(lesson) {
+            const container = document.getElementById('vid-container');
+            if (lesson.formato === 'vertical' || lesson.vertical === true) {
+                container.className = 'video-container vertical';
+            } else {
+                container.className = 'video-container horizontal';
+            }
+        }
+
+        function loadLesson(idx, countClick) {
+            if (app.flatList.length === 0) return;
+            if (idx < 0 || idx >= app.flatList.length) idx = 0;
+
+            closeTutor(true);
+
+            app.currentIdx = idx; const lesson = app.flatList[idx]; localStorage.setItem(CK('last'), idx);
+            if(!app.completed.has(idx)) { app.completed.add(idx); localStorage.setItem(CK('comp'), JSON.stringify([...app.completed])); }
+            
+            applyVideoFormat(lesson);
+
+            const youtubeId = String(lesson.youtube_id || '').trim();
+            const safeYoutubeId = /^[a-zA-Z0-9_-]{6,20}$/.test(youtubeId) ? youtubeId : '';
+            document.getElementById('main-player').src = safeYoutubeId
+                ? `https://www.youtube.com/embed/${safeYoutubeId}?modestbranding=1&rel=0&showinfo=0`
+                : '';
+            document.getElementById('video-title').textContent = lesson.titulo; document.getElementById('module-name').textContent = lesson.tema; document.getElementById('lesson-index').textContent = idx + 1;
+            
+            closeQuiz(); 
+            closeSummary();
+            closePdfInline(); 
+            updateUIState(); renderSidebar();
+        }
+
+        function updateUIState() {
+            const isFav = app.favorites.has(app.currentIdx); 
+            const btn = document.getElementById('current-fav-btn'); btn.innerHTML = isFav ? '<i class="fas fa-heart"></i>' : '<i class="far fa-heart"></i>'; btn.className = `main-fav-btn ${isFav ? 'active' : ''}`; btn.disabled = false; btn.setAttribute('aria-disabled', 'false');
+            document.getElementById('btn-prev').disabled = app.currentIdx === 0; document.getElementById('btn-next').disabled = app.currentIdx === app.flatList.length - 1;
+
+            ['action-quiz', 'action-summary', 'action-ai'].forEach(id => {
+                const action = document.getElementById(id);
+                if (action) {
+                    action.disabled = false;
+                    action.setAttribute('aria-disabled', 'false');
+                }
+            });
+
+            const total = app.flatList.length;
+            if(total > 0) {
+                const done = app.completed.size;
+                const pct = Math.round((done / total) * 100);
+                document.getElementById('sidebar-progress-fill').style.width = `${pct}%`;
+                document.getElementById('sidebar-progress-text').textContent = `${pct}%`;
+            }
+
+            applyAccessState();
+        }
+
+        function applyAccessState() {
+            const isPro = hasAccess();
+            const lesson = app.flatList[app.currentIdx] || {};
+            document.body.classList.toggle('is-pro', isPro);
+
+            const headerBadge = document.getElementById('header-pro-badge');
+            if (headerBadge) headerBadge.textContent = isPro ? 'PRO' : '';
+
+            const accessButton = document.getElementById('pro-access-btn');
+            const accessLabel = document.getElementById('pro-access-label');
+            if (accessButton) accessButton.classList.toggle('is-pro', isPro);
+            if (accessLabel) accessLabel.textContent = isPro ? 'ACTIVO' : 'PRO';
+
+            const quizCost = document.getElementById('quiz-cost-label');
+            const pdfCost = document.getElementById('pdf-cost-label');
+            if (quizCost) quizCost.textContent = isPro ? 'Ilimitado' : '-1 ⚡ / pregunta';
+            if (pdfCost) pdfCost.textContent = isPro ? 'Incluido' : '-2 ⚡';
+
+            const pdfAction = document.getElementById('action-pdf');
+            const hasPdf = Boolean(safeRemoteUrl(lesson.pdf_link || lesson.pdf || lesson.url_pdf));
+            if (pdfAction) {
+                pdfAction.disabled = !hasPdf;
+                pdfAction.setAttribute('aria-disabled', hasPdf ? 'false' : 'true');
+                pdfAction.title = hasPdf ? 'Abrir documento de clase' : 'Esta clase no tiene PDF';
+            }
+
+            if (isPro) closeEnergyModal();
+            updateTutorAccess();
+        }
+
+        function toggleCurrentFavorite() { if (!app.flatList.length) { showToast('El contenido todavía se está cargando.'); return; } if (app.favorites.has(app.currentIdx)) { app.favorites.delete(app.currentIdx); } else { app.favorites.add(app.currentIdx); } localStorage.setItem(CK('favs'), JSON.stringify([...app.favorites])); updateUIState(); if(app.tab === 'favoritos') renderSidebar(); }
+        function switchTab(t) { app.tab = t; document.getElementById('tab-temario').className = `tab-btn ${t === 'temario' ? 'active' : ''}`; document.getElementById('tab-favoritos').className = `tab-btn ${t === 'favoritos' ? 'active' : ''}`; renderSidebar(); }
+        
+        function nextLesson() { if (!app.flatList.length) { showToast('El contenido todavía se está cargando.'); return; } consumeEnergy(5, () => { loadLesson(app.currentIdx + 1, true); }); }
+        function prevLesson() { if (!app.flatList.length) { showToast('El contenido todavía se está cargando.'); return; } consumeEnergy(5, () => { loadLesson(app.currentIdx - 1, true); }); }
+        
+        function toggleSidebar() { document.getElementById('sidebar').classList.toggle('open'); document.getElementById('sidebar-overlay').classList.toggle('show'); }
+        function openFavorites() { switchTab('favoritos'); toggleSidebar(); }
+        function renderFavoritesList(container) { const favs = app.flatList.filter(v => app.favorites.has(v.globalId)); if (favs.length === 0) { container.innerHTML = '<div style="text-align:center; opacity:0.5; margin-top:50px;">No tienes favoritos aún</div>'; return; } favs.forEach(vid => { container.appendChild(createLessonItem(vid)); }); }
+        
+        // --- RESUMEN INLINE (TEXTO REMOTO INSERTADO SOLO CON textContent) ---
+        function viewSummary() {
+            const lesson = app.flatList[app.currentIdx];
+            if (!lesson) {
+                showToast('El contenido todavía se está cargando. Inténtalo nuevamente en unos segundos.');
+                return;
+            }
+            const summary = String(lesson.resumen || '').trim();
+            const rawPoints = Array.isArray(lesson.puntos_clave) ? lesson.puntos_clave : [];
+            const points = rawPoints.map(point => String(point || '').trim()).filter(Boolean);
+            const copy = document.getElementById('summary-copy');
+            const pointsContainer = document.getElementById('summary-key-points');
+            const empty = document.getElementById('summary-empty');
+
+            copy.textContent = summary;
+            pointsContainer.textContent = '';
+
+            points.forEach(point => {
+                const item = document.createElement('div');
+                item.className = 'key-point';
+                const icon = document.createElement('i');
+                icon.className = 'fas fa-circle-check';
+                const text = document.createElement('span');
+                text.textContent = point;
+                item.append(icon, text);
+                pointsContainer.appendChild(item);
+            });
+
+            const hasContent = Boolean(summary || points.length);
+            empty.hidden = hasContent;
+            empty.textContent = hasContent ? '' : 'El resumen de esta clase se está preparando. El video y sus ejercicios siguen disponibles.';
+
+            closeQuiz();
+            closePdfInline();
+            closeTutor();
+            document.getElementById('summary-section').style.display = 'block';
+            setActiveAction('summary');
+            setTimeout(() => document.getElementById('summary-section').scrollIntoView({ behavior: 'smooth', block: 'start' }), 100);
+        }
+
+        function closeSummary() {
+            const section = document.getElementById('summary-section');
+            if (section) section.style.display = 'none';
+            const action = document.getElementById('action-summary');
+            if (action && action.classList.contains('active')) setActiveAction(null);
+        }
+
+        // --- VISOR DE PDF INLINE ---
+        function viewPDF() {
+            const lesson = app.flatList[app.currentIdx];
+            if (!lesson) {
+                showToast('El contenido todavía se está cargando. Inténtalo nuevamente en unos segundos.');
+                return;
+            }
+            // Intentar extraer el link con las variables posibles en la base de datos de historia
+            const pdfUrl = safeRemoteUrl(lesson.pdf_link || lesson.pdf || lesson.url_pdf); 
+            
+            if (!pdfUrl) {
+                showToast('No hay documento en PDF disponible para esta clase.');
+                return;
+            }
+
+            consumeEnergy(2, () => {
+                closeQuiz(); 
+                closeSummary();
+                closeTutor();
+                
+                let embedUrl = pdfUrl;
+                if (pdfUrl.includes("drive.google.com") && pdfUrl.includes("/view")) {
+                    embedUrl = pdfUrl.replace("/view", "/preview");
+                }
+                
+                const viewer = document.getElementById('pdf-viewer-section');
+                document.getElementById('pdf-iframe').src = embedUrl;
+                viewer.style.display = 'block';
+                setActiveAction('pdf');
+                
+                setTimeout(() => { 
+                    viewer.scrollIntoView({ behavior: 'smooth', block: 'start' }); 
+                }, 100);
+            });
+        }
+        
+        function closePdfInline() {
+            document.getElementById('pdf-viewer-section').style.display = 'none';
+            document.getElementById('pdf-iframe').src = "";
+            const action = document.getElementById('action-pdf');
+            if (action && action.classList.contains('active')) setActiveAction(null);
+        }
+
+        // --- QUIZ INTEGRADO ---
+        function startQuiz() {
+            const lesson = app.flatList[app.currentIdx];
+            if (!lesson) {
+                showToast('El contenido todavía se está cargando. Inténtalo nuevamente en unos segundos.');
+                return;
+            }
+            if (!lesson.preguntas || lesson.preguntas.length === 0) { 
+                showToast('No hay preguntas disponibles para este tema.'); return; 
+            }
+            
+            let pool = [...lesson.preguntas]; 
+            pool = shuffleArray(pool); 
+            
+            app.quiz.q = pool.slice(0, 10); app.quiz.current = 0; app.quiz.score = 0;
+            app.quiz.sessionId = createQuizSessionId();
+            renderQuizQ(); 
+            
+            closeSummary();
+            closePdfInline(); 
+            closeTutor();
+            const quizContainer = document.getElementById('inline-quiz-container');
+            quizContainer.style.display = 'block';
+            setActiveAction('quiz');
+            setTimeout(() => { quizContainer.scrollIntoView({ behavior: 'smooth', block: 'start' }); }, 100);
+        }
+
+        function renderQuizQ() {
+            const container = document.getElementById('quiz-container');
+            const q = app.quiz.q[app.quiz.current];
+            if (!q || !Array.isArray(q.opciones) || q.opciones.length === 0) {
+                container.textContent = 'No se pudo cargar esta pregunta.';
+                return;
+            }
+            const qNum = app.quiz.current + 1;
+            const correctIndex = Number(q.correcta);
+            
+            let mixedOpts = q.opciones.map((txt, i) => { return { txt: txt, originalIdx: i }; });
+            mixedOpts = shuffleArray(mixedOpts);
+
+            let bannerHTML = `
+            <div class="history-banner">
+                <i class="fas fa-info-circle"></i>
+                <span><b>Nota:</b> Todos los ejercicios fueron formulados o recopilados de exámenes pasados por el docente especializado.</span>
+            </div>`;
+
+            const costText = hasAccess() ? 'Plan PRO · ilimitado' : '-1 ⚡';
+            let html = bannerHTML + `<div style="font-size:12px; color:var(--text-sec); margin-bottom:10px;">Pregunta ${qNum} de ${app.quiz.q.length} (${costText})</div>
+                        <div class="question-card"><div style="font-size:18px; font-weight:700; line-height:1.4; color:white;">${escapeHTML(q.pregunta)}</div></div>
+                        <div style="display:flex; flex-direction:column; gap:8px;">`;
+            
+            mixedOpts.forEach((optObj, idx) => {
+                html += `<div class="quiz-opt" data-idx="${optObj.originalIdx}" onclick="checkAnswer(this, ${optObj.originalIdx}, ${correctIndex}, ${Boolean(q.resolucion)})">
+                            <div class="opt-circle">${String.fromCharCode(65+idx)}</div><div style="font-size:15px; color:white;">${escapeHTML(optObj.txt)}</div>
+                        </div>`;
+            });
+            html += '</div>';
+
+            if (q.resolucion) {
+                html += `<div id="res-box" class="resolution-box" style="display:none;">
+                            <strong><i class="fas fa-lightbulb"></i> Aporte Histórico:</strong><br><br>
+                            <div id="resol-content">${escapeHTML(q.resolucion)}</div>
+                            <div id="resol-lock" class="lock-overlay" style="display:none;">
+                                <i class="fas fa-lock" style="font-size:24px; color:var(--warning); margin-bottom:5px;"></i>
+                                <span style="font-weight:700; font-size:12px;">Dato Oculto</span>
+                                <button onclick="openPromoModal('Desbloquea todos los datos históricos y explicaciones con el Plan PRO.')" class="btn-upgrade-mini">Ver Dato PRO</button>
+                            </div>
+                         </div>`;
+            }
+            
+            html += `<button id="btn-next-q" class="btn-next-q" onclick="nextQuestionManual()">Siguiente Pregunta <i class="fas fa-arrow-right"></i></button>`;
+
+            container.innerHTML = html;
+            if (window.MathJax && typeof window.MathJax.typesetPromise === 'function') {
+                window.MathJax.typesetPromise([container]).catch(() => {});
+            }
+        }
+
+        function checkAnswer(el, idx, correct, hasResol) {
+            if (el.classList.contains('checked')) return;
+
+            consumeEnergy(1, () => {
+                const parent = el.parentElement; const opts = parent.querySelectorAll('.quiz-opt');
+                recordQuizAttempt(idx === correct, idx, correct);
+                opts.forEach(o => { o.classList.add('checked'); o.onclick = null; });
+                
+                const resBox = document.getElementById('res-box');
+                const resolContent = document.getElementById('resol-content');
+                const resolLock = document.getElementById('resol-lock');
+
+                if (idx === correct) { 
+                    el.classList.add('correct'); el.querySelector('.opt-circle').innerHTML = '<i class="fas fa-check"></i>'; 
+                    app.quiz.score++; 
+                    if (resBox) resBox.style.display = 'block';
+                } 
+                else { 
+                    el.classList.add('wrong'); el.querySelector('.opt-circle').innerHTML = '<i class="fas fa-times"></i>'; 
+                    opts.forEach(o => { if(parseInt(o.dataset.idx) === correct) { o.classList.add('correct'); o.querySelector('.opt-circle').innerHTML = '<i class="fas fa-check"></i>'; } }); 
+                    
+                    if (resBox && resolContent && resolLock) {
+                        resBox.style.display = 'block'; resolContent.classList.add('blur-text'); resolLock.style.display = 'flex';
+                        if (hasAccess()) {
+                            resolContent.classList.remove('blur-text');
+                            resolLock.style.display = 'none';
+                        }
+                    }
+                }
+
+                const btnNext = document.getElementById('btn-next-q'); if(btnNext) btnNext.style.display = 'block';
+            });
+        }
+
+        function nextQuestionManual() {
+            app.quiz.current++;
+            if(app.quiz.current < app.quiz.q.length) { renderQuizQ(); } else { showQuizResults(); }
+        }
+
+        function showQuizResults() {
+            const container = document.getElementById('quiz-container');
+            const percent = Math.round((app.quiz.score / app.quiz.q.length) * 100);
+            
+            container.innerHTML = `
+                <div class="result-card">
+                    <div style="margin-top:20px; margin-bottom:10px;"><i class="fas fa-crown" style="font-size:60px; color:var(--primary); margin-bottom:15px;"></i></div>
+                    <div class="score-big">${percent}%</div>
+                    <p style="opacity:0.8; font-size:15px; margin-bottom:30px; color:#ddd;">Respondiste correctamente <b>${app.quiz.score}</b> de <b>${app.quiz.q.length}</b> preguntas.</p>
+                    <button class="nav-btn" onclick="startQuiz()" style="width:100%; background:var(--surface); border:2px solid var(--primary); color:white; margin-bottom:12px; border-radius:var(--radius-btn);"><i class="fas fa-redo"></i> Reintentar</button>
+                    <button class="nav-btn" onclick="closeQuiz()" style="width:100%; background:var(--gradient-btn); border-radius:var(--radius-btn);">Cerrar banco</button>
+                </div>`;
+        }
+
+        // --- MANEJO DE MODALES TINDER-STYLE ---
+        function openPromoModal(descText) { 
+            if(descText) document.getElementById('promo-desc').textContent = descText;
+            document.getElementById('promo-overlay').classList.add('show'); 
+            document.getElementById('promo-modal').classList.add('show'); 
+        }
+        
+        function closePromoModal() { 
+            document.getElementById('promo-overlay').classList.remove('show'); 
+            document.getElementById('promo-modal').classList.remove('show'); 
+        }
+        
+        function closeQuiz() {
+            document.getElementById('inline-quiz-container').style.display = 'none';
+            const action = document.getElementById('action-quiz');
+            if (action && action.classList.contains('active')) setActiveAction(null);
+        }
+        function showToast(text) { const t = document.getElementById('premium-toast'); document.getElementById('toast-text').innerText = text; t.classList.add('show'); setTimeout(() => t.classList.remove('show'), 3000); }
+
+        // --- MODAL Y VALIDACIÓN PRO ---
+        function openAccessModal() {
+            closePromoModal();
+            const message = document.getElementById('v-msg');
+            if (message) {
+                message.textContent = hasAccess() ? 'Tu acceso PRO ya está activo en este dispositivo.' : '';
+                message.style.color = hasAccess() ? 'var(--success)' : 'var(--text-sec)';
+            }
+            document.getElementById('access-overlay').classList.add('show');
+            document.getElementById('access-modal').classList.add('show');
+            setTimeout(() => document.getElementById('v-email').focus(), 100);
+        }
+
+        function closeAccessModal() {
+            document.getElementById('access-overlay').classList.remove('show');
+            document.getElementById('access-modal').classList.remove('show');
+        }
+
+        async function verifySub() {
+            const emailInput = document.getElementById('v-email');
+            const email = emailInput.value.trim().toLowerCase();
+            const message = document.getElementById('v-msg');
+            const button = document.getElementById('btn-verify-action');
+            if (button.disabled) return;
+
+            if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+                message.style.color = 'var(--danger)';
+                message.textContent = 'Ingresa un correo válido.';
+                emailInput.focus();
+                return;
+            }
+
+            message.style.color = 'var(--text-sec)';
+            message.textContent = 'Verificando tu acceso...';
+            button.disabled = true;
+            button.textContent = 'Verificando...';
+            const controller = new AbortController();
+            const timeout = setTimeout(() => controller.abort(),20000);
+
+            try {
+                const response = await fetch(TUTOR_API_URL, {
+                    method:'POST', headers:{'Content-Type':'application/json'}, cache:'no-store', signal:controller.signal,
+                    body:JSON.stringify({action:'verify',courseId:COURSE_ID,email})
+                });
+                const data = await response.json();
+                if (!response.ok || !data || data.ok !== true) {
+                    const error = new Error(String((data && data.message) || 'No pudimos comprobar tu acceso. Inténtalo nuevamente.').slice(0,220));
+                    error.code = String((data && data.code) || 'VERIFICATION_UNAVAILABLE').toUpperCase();
+                    error.reason = String((data && data.reason) || '').toLowerCase();
+                    throw error;
+                }
+
+                const accessValue = String((data && data.access) ?? '').trim().toLowerCase();
+                const access = Boolean(data && (data.access === true || data.access === 1 || ['true', '1', 'yes', 'si', 'sí'].includes(accessValue)));
+                const expiry = data && (data.end || data.exp || data.vencimiento || '');
+                const rawPlan = data && data.plan;
+                const plan = Array.isArray(rawPlan) ? rawPlan.map(String) : (rawPlan ? [String(rawPlan)] : ['PRO_PLAN']);
+
+                if (access) {
+                    // Cachimboz no vende cursos sueltos: cualquier acceso aprobado se registra como PRO global.
+                    const saved = setPremiumGlobal({
+                        email,
+                        plan,
+                        start: data.start || '',
+                        vencimiento: expiry
+                    });
+                    // Se conserva además la clave histórica del curso para compatibilidad con HTML anteriores.
+                    if (saved) setCourseAccess({ email, vencimiento: expiry });
+
+                    if (!saved) {
+                        message.style.color = 'var(--danger)';
+                        message.textContent = 'Tu acceso fue reconocido, pero la fecha de vigencia no es válida. Escríbenos para revisarlo.';
+                        return;
+                    }
+
+                    message.style.color = 'var(--success)';
+                    message.textContent = '¡PRO activo en todos los cursos!';
+                    successAction();
+                    return;
+                }
+
+                const reason = String((data && data.reason) || '').toLowerCase();
+                message.style.color = 'var(--danger)';
+                if (reason === 'expired') {
+                    message.textContent = 'Tu acceso PRO ha vencido.';
+                } else if (reason === 'beforestart') {
+                    message.textContent = 'Tu acceso PRO todavía no inicia.';
+                } else {
+                    message.textContent = 'No encontramos un Plan PRO activo con ese correo.';
+                }
+            } catch (error) {
+                console.error('No se pudo verificar PRO:', error);
+                message.style.color = 'var(--danger)';
+                if (error.code === 'PRO_REQUIRED') {
+                    message.textContent = error.reason === 'expired' ? 'Tu acceso PRO ha vencido.'
+                        : error.reason === 'beforestart' ? 'Tu acceso PRO todavía no inicia.'
+                        : error.message || 'No encontramos un Plan PRO activo con ese correo.';
+                } else if (['VERIFICATION_UNAVAILABLE','VERIFICATION_FAILURE','VERIFY_FAILURE'].includes(error.code)) {
+                    message.textContent = error.message;
+                } else if (error.name === 'AbortError') {
+                    message.textContent = 'La verificación está tardando. Inténtalo nuevamente.';
+                } else message.textContent = 'No pudimos conectar con la verificación. Revisa tu conexión e inténtalo nuevamente.';
+            } finally {
+                clearTimeout(timeout);
+                button.disabled = false;
+                button.textContent = 'Validar ahora';
+            }
+        }
+
+        function successAction() {
+            applyAccessState();
+            const resolution = document.getElementById('resol-content');
+            const lock = document.getElementById('resol-lock');
+            if (resolution) resolution.classList.remove('blur-text');
+            if (lock) lock.style.display = 'none';
+            closeEnergyModal();
+            setTimeout(() => {
+                closeAccessModal();
+                showToast('¡Bienvenido a PRO! Clases, ejercicios y PDF desbloqueados.');
+            }, 700);
+        }
+
+        // --- TUTOR: EL SERVIDOR VALIDA PRO Y CONSERVA LA CLAVE DEL MODELO ---
+        const tutor = {
+            open: false, busy: false, epoch: 0, controller: null,
+            account: '', lessonId: '', messages: [], pending: '', retryMessage: '',
+            session: null, remaining: null, monthlyRemaining: null, deviceId: '', mascotState: 'hello'
+        };
+
+        function tutorEmail() {
+            try {
+                return String(localStorage.getItem(GK('premium_email')) || localStorage.getItem(CK('access_email')) || '').trim().toLowerCase();
+            } catch (_) { return ''; }
+        }
+
+        function tutorAccountKey(email) {
+            let hash = 2166136261;
+            for (const char of String(email)) hash = Math.imul(hash ^ char.charCodeAt(0), 16777619);
+            return (hash >>> 0).toString(36);
+        }
+
+        function tutorStorageKey(email, lessonId) {
+            return `cachimboz_tutor_v1_${tutorAccountKey(email)}_${COURSE_ID}_${lessonId}`;
+        }
+
+        function getTutorDeviceId() {
+            if (tutor.deviceId) return tutor.deviceId;
+            let stored = '';
+            try { stored = localStorage.getItem('cachimboz_tutor_device_v1') || ''; } catch (_) {}
+            if (/^[a-zA-Z0-9_-]{16,90}$/.test(stored)) return tutor.deviceId = stored;
+            const cryptoAPI = window.crypto;
+            let value;
+            if (cryptoAPI && typeof cryptoAPI.randomUUID === 'function') value = cryptoAPI.randomUUID();
+            else if (cryptoAPI && typeof cryptoAPI.getRandomValues === 'function') {
+                const bytes = new Uint8Array(16);
+                cryptoAPI.getRandomValues(bytes);
+                value = Array.from(bytes, byte => byte.toString(16).padStart(2, '0')).join('');
+            } else value = `cbz_${Date.now().toString(36)}_${Math.random().toString(36).slice(2)}_${Math.random().toString(36).slice(2)}`;
+            tutor.deviceId = value;
+            try { localStorage.setItem('cachimboz_tutor_device_v1', value); } catch (_) {}
+            return value;
+        }
+
+        function tutorSafeMessages(value) {
+            if (!Array.isArray(value)) return [];
+            return value.filter(item => item && ['user','assistant'].includes(item.role) && typeof item.content === 'string')
+                .slice(-12).map(item => ({
+                    role: item.role, content: item.content.slice(0, item.role === 'user' ? 2000 : 12000),
+                    sources: item.role === 'assistant' && Array.isArray(item.sources) ? item.sources.slice(0,4).map(source => ({
+                        lessonId: String(source.lessonId || '').slice(0,70), title: String(source.title || '').slice(0,160),
+                        excerpt: String(source.excerpt || '').slice(0,700)
+                    })) : [],
+                    followUps: item.role === 'assistant' && Array.isArray(item.followUps) ? item.followUps.filter(text => typeof text === 'string').slice(0,3).map(text => text.slice(0,180)) : []
+                }));
+        }
+
+        function syncTutorContext() {
+            const lesson = app.flatList[app.currentIdx] || {};
+            const email = tutorEmail();
+            const lessonId = String(lesson.lesson_id || '');
+            if (email === tutor.account && lessonId === tutor.lessonId) return;
+            stopTutorRequest(false);
+            tutor.account = email;
+            tutor.lessonId = lessonId;
+            tutor.messages = [];
+            tutor.retryMessage = '';
+            tutor.remaining = null;
+            tutor.monthlyRemaining = null;
+            if (tutor.session && tutor.session.account !== email) tutor.session = null;
+            if (email && lessonId) {
+                try {
+                    const saved = JSON.parse(localStorage.getItem(tutorStorageKey(email, lessonId)) || 'null');
+                    if (saved && saved.account === email) tutor.messages = tutorSafeMessages(saved.messages);
+                } catch (_) {}
+            }
+            const input = document.getElementById('tutor-input');
+            if (input) input.value = '';
+            hideTutorNotice();
+            renderTutorMessages();
+        }
+
+        function persistTutorMessages() {
+            if (!tutor.account || !tutor.lessonId) return;
+            const key = tutorStorageKey(tutor.account, tutor.lessonId);
+            const indexKey = `cachimboz_tutor_index_${tutorAccountKey(tutor.account)}`;
+            try {
+                localStorage.setItem(key, JSON.stringify({account:tutor.account,messages:tutorSafeMessages(tutor.messages)}));
+                const raw = JSON.parse(localStorage.getItem(indexKey) || '[]');
+                const entries = (Array.isArray(raw) ? raw : []).filter(item => typeof item === 'string' && item !== key);
+                entries.push(key);
+                while (entries.length > 12) {
+                    const expiredKey = entries.shift();
+                    if (expiredKey.startsWith(`cachimboz_tutor_v1_${tutorAccountKey(tutor.account)}_`)) localStorage.removeItem(expiredKey);
+                }
+                localStorage.setItem(indexKey, JSON.stringify(entries));
+            } catch (_) { /* La conversación sigue disponible aunque el dispositivo no pueda guardarla. */ }
+        }
+
+        function appendTutorMascot(container, className) {
+            const avatar = document.createElement('div');
+            avatar.className = className;
+            avatar.setAttribute('aria-hidden', 'true');
+            if (safeRemoteUrl(TUTOR_MASCOT_URL)) {
+                const image = document.createElement('img');
+                image.src = TUTOR_MASCOTS[tutor.mascotState] || TUTOR_MASCOT_URL;
+                image.alt = '';
+                image.loading = 'lazy';
+                image.onerror = () => { image.remove(); avatar.textContent = '✦'; };
+                avatar.appendChild(image);
+            } else avatar.textContent = '✦';
+            container.appendChild(avatar);
+            return avatar;
+        }
+
+        function initializeTutorUI() {
+            const mainAvatar = document.getElementById('tutor-main-avatar');
+            const toolbarAvatar = document.getElementById('tutor-toolbar-avatar');
+            if (safeRemoteUrl(TUTOR_MASCOT_URL)) {
+                [mainAvatar, toolbarAvatar].forEach(container => {
+                    if (!container) return;
+                    container.textContent = '';
+                    const image = document.createElement('img');
+                    image.src = TUTOR_MASCOT_URL;
+                    image.alt = '';
+                    image.className = container === toolbarAvatar ? 'tutor-toolbar-mascot' : '';
+                    image.onerror = () => { image.remove(); container.textContent = '✦'; };
+                    container.appendChild(image);
+                });
+            }
+            const input = document.getElementById('tutor-input');
+            input.addEventListener('keydown', event => {
+                if (event.key === 'Enter' && !event.shiftKey && !event.isComposing) {
+                    event.preventDefault();
+                    sendTutorMessage();
+                }
+            });
+            const updateViewport = () => {
+                const viewportHeight = window.visualViewport ? window.visualViewport.height : window.innerHeight;
+                document.documentElement.style.setProperty('--tutor-viewport-height', `${viewportHeight}px`);
+                if (tutor.open && document.activeElement === input) requestAnimationFrame(() => input.scrollIntoView({block:'nearest'}));
+            };
+            updateViewport();
+            if (window.visualViewport) window.visualViewport.addEventListener('resize', updateViewport);
+            else window.addEventListener('resize', updateViewport);
+            updateTutorAccess();
+            updateTutorComposer();
+        }
+
+        function setTutorMascot(state) {
+            tutor.mascotState = Object.prototype.hasOwnProperty.call(TUTOR_MASCOTS,state) ? state : 'hello';
+            const main = document.querySelector('#tutor-main-avatar img');
+            if (main) main.src = TUTOR_MASCOTS[tutor.mascotState];
+        }
+
+        function openTutor() {
+            const lesson = app.flatList[app.currentIdx];
+            if (!lesson) { showToast('La clase se está cargando. Inténtalo en unos segundos.'); return; }
+            syncTutorContext();
+            tutor.open = true;
+            setTutorMascot('hello');
+            closeQuiz();
+            closeSummary();
+            closePdfInline();
+            document.getElementById('tutor-section').style.display = 'block';
+            document.getElementById('tutor-lesson-context').textContent = lesson.titulo;
+            setActiveAction('ai');
+            updateTutorAccess();
+            renderTutorMessages();
+            setTimeout(() => document.getElementById('tutor-section').scrollIntoView({behavior:'smooth',block:'start'}), 80);
+        }
+
+        function closeTutor(resetContext) {
+            if (!document.getElementById('tutor-section')) return;
+            stopTutorRequest(false);
+            tutor.open = false;
+            document.getElementById('tutor-section').style.display = 'none';
+            const action = document.getElementById('action-ai');
+            if (action && action.classList.contains('active')) setActiveAction(null);
+            if (resetContext) {
+                tutor.lessonId = '';
+                tutor.messages = [];
+                tutor.retryMessage = '';
+            }
+        }
+
+        function updateTutorAccess() {
+            if (!document.getElementById('tutor-access')) return;
+            if (tutor.open && tutorEmail() !== tutor.account) syncTutorContext();
+            const email = tutorEmail();
+            document.getElementById('tutor-access').hidden = Boolean(email);
+            document.getElementById('tutor-action-status').textContent = hasAccess() ? 'Pregúntame' : 'Incluido en PRO';
+            updateTutorComposer();
+        }
+
+        function updateTutorComposer() {
+            const input = document.getElementById('tutor-input');
+            if (!input) return;
+            document.getElementById('tutor-send').disabled = tutor.busy || !input.value.trim() || !tutorEmail();
+            document.getElementById('tutor-send').hidden = tutor.busy;
+            document.getElementById('tutor-cancel').hidden = !tutor.busy;
+            document.getElementById('tutor-thinking').hidden = !tutor.busy;
+            input.readOnly = tutor.busy;
+            document.getElementById('tutor-reset').disabled = tutor.busy;
+            document.querySelectorAll('#tutor-starter-chips .tutor-chip, #tutor-log .tutor-chip').forEach(button => button.disabled = tutor.busy);
+            input.style.height = 'auto';
+            input.style.height = `${Math.min(input.scrollHeight,135)}px`;
+            if (!tutor.busy) {
+                const remaining = Number.isFinite(tutor.remaining)
+                    ? `${Math.max(0,tutor.remaining)} consultas hoy${Number.isFinite(tutor.monthlyRemaining) ? ` · ${Math.max(0,tutor.monthlyRemaining)} este mes` : ''}`
+                    : 'PRO: 20 consultas/día · 200/mes.';
+                document.getElementById('tutor-status').textContent = remaining;
+            }
+        }
+
+        function focusTutorDoubt() {
+            if (!tutor.open) openTutor();
+            const input = document.getElementById('tutor-input');
+            input.placeholder = 'Cuéntame tu duda. La resolvemos paso a paso.';
+            input.focus();
+            input.scrollIntoView({block:'nearest'});
+        }
+
+        function appendTutorInlineText(container, value) {
+            const content = String(value || '');
+            const bold = /\*\*([^*\n]+)\*\*/g;
+            let previous = 0;
+            let match;
+            while ((match = bold.exec(content))) {
+                if (match.index > previous) {
+                    const plain = document.createElement('span');
+                    plain.textContent = content.slice(previous,match.index);
+                    container.appendChild(plain);
+                }
+                const strong = document.createElement('strong');
+                strong.textContent = match[1];
+                container.appendChild(strong);
+                previous = match.index + match[0].length;
+            }
+            if (previous < content.length || !container.children.length) {
+                const plain = document.createElement('span');
+                plain.textContent = content.slice(previous);
+                container.appendChild(plain);
+            }
+        }
+
+        function renderTutorFormattedText(container, value) {
+            let paragraph = null;
+            let list = null;
+            let listType = '';
+            String(value || '').split(/\r?\n/).forEach(line => {
+                if (!line.trim()) { paragraph = null; list = null; listType = ''; return; }
+                const unordered = line.match(/^\s*[-*]\s+(.+)$/);
+                const ordered = line.match(/^\s*(\d{1,3})[.)]\s+(.+)$/);
+                if (unordered || ordered) {
+                    const type = unordered ? 'ul' : 'ol';
+                    if (!list || listType !== type) {
+                        list = document.createElement(type);
+                        if (ordered) list.start = Number(ordered[1]);
+                        listType = type;
+                        container.appendChild(list);
+                    }
+                    const item = document.createElement('li');
+                    appendTutorInlineText(item,unordered ? unordered[1] : ordered[2]);
+                    list.appendChild(item);
+                    paragraph = null;
+                    return;
+                }
+                list = null;
+                listType = '';
+                if (!paragraph) {
+                    paragraph = document.createElement('p');
+                    container.appendChild(paragraph);
+                } else paragraph.appendChild(document.createElement('br'));
+                appendTutorInlineText(paragraph,line);
+            });
+        }
+
+        function renderTutorTurn(message, pending) {
+            const turn = document.createElement('div');
+            turn.className = `tutor-turn ${message.role === 'user' ? 'is-user' : 'is-assistant'}`;
+            if (message.role === 'assistant') appendTutorMascot(turn,'tutor-turn-avatar');
+            const bubble = document.createElement('div');
+            bubble.className = 'tutor-bubble';
+            const text = document.createElement('div');
+            text.className = 'tutor-message-text';
+            if (message.role === 'assistant') renderTutorFormattedText(text,message.content);
+            else text.textContent = message.content;
+            bubble.appendChild(text);
+            if (pending) bubble.style.opacity = '.7';
+            if (Array.isArray(message.sources) && message.sources.length) {
+                const sources = document.createElement('div');
+                sources.className = 'tutor-source-list';
+                message.sources.slice(0,4).forEach(source => {
+                    if (!source || !source.title) return;
+                    const sourceNode = document.createElement('details');
+                    sourceNode.className = 'tutor-source';
+                    const summary = document.createElement('summary');
+                    summary.textContent = `Clase: ${String(source.title).slice(0,160)}`;
+                    sourceNode.appendChild(summary);
+                    const excerpt = document.createElement('p');
+                    excerpt.style.marginTop = '6px';
+                    excerpt.textContent = source.excerpt ? String(source.excerpt).slice(0,700) : 'Esta explicación se apoya en el material de la clase.';
+                    sourceNode.appendChild(excerpt);
+                    sources.appendChild(sourceNode);
+                });
+                bubble.appendChild(sources);
+            }
+            if (Array.isArray(message.followUps) && message.followUps.length) {
+                const followups = document.createElement('div');
+                followups.className = 'tutor-followups';
+                message.followUps.slice(0,3).forEach(prompt => {
+                    if (typeof prompt !== 'string' || !prompt.trim()) return;
+                    const button = document.createElement('button');
+                    button.className = 'tutor-chip'; button.type = 'button'; button.textContent = prompt.slice(0,180);
+                    button.disabled = tutor.busy;
+                    button.onclick = () => sendTutorPrompt(prompt.slice(0,180));
+                    followups.appendChild(button);
+                });
+                bubble.appendChild(followups);
+            }
+            turn.appendChild(bubble);
+            return turn;
+        }
+
+        function renderTutorMessages() {
+            const log = document.getElementById('tutor-log');
+            if (!log) return;
+            log.textContent = '';
+            tutor.messages.forEach(message => log.appendChild(renderTutorTurn(message,false)));
+            if (tutor.pending) log.appendChild(renderTutorTurn({role:'user',content:tutor.pending},true));
+            document.getElementById('tutor-welcome').hidden = tutor.messages.length > 0 || Boolean(tutor.pending);
+            document.getElementById('tutor-starter-chips').hidden = tutor.messages.length > 0 || Boolean(tutor.pending);
+            requestAnimationFrame(() => { log.scrollTop = log.scrollHeight; });
+        }
+
+        function hideTutorNotice() {
+            const notice = document.getElementById('tutor-notice');
+            if (notice) notice.hidden = true;
+        }
+
+        function showTutorError(error) {
+            let code = String(error.code || '').toUpperCase();
+            if (code === 'RATE_LIMITED' || code === 'BUSY') code = 'RATE_LIMIT';
+            if (code === 'SOURCE_UNAVAILABLE') code = 'NO_SOURCE';
+            if (code === 'PROVIDER_UNAVAILABLE') code = 'UNAVAILABLE';
+            setTutorMascot('support');
+            const messages = {
+                PRO_REQUIRED: 'No encontramos un plan PRO activo con este correo. Valídalo y volvemos a intentarlo.',
+                SESSION_EXPIRED: 'Necesitamos volver a comprobar tu acceso. Inténtalo una vez más.',
+                DEVICE_LIMIT: 'Tu cuenta alcanzó el límite de dispositivos del tutor. Usa uno de tus dispositivos habituales.',
+                RATE_LIMIT: 'Vamos un paso a la vez. Espera unos segundos antes de volver a preguntar.',
+                DAILY_LIMIT: 'Hoy aprovechaste todas las consultas de tu cuenta. Mañana seguimos; por ahora puedes repasar los resúmenes y ejercicios.',
+                MONTHLY_LIMIT: 'Este mes aprovechaste todas las consultas de tu cuenta. El próximo mes seguimos; puedes continuar con los resúmenes y ejercicios.',
+                NOT_READY: 'El tutor se está preparando. Inténtalo nuevamente en un momento.',
+                NO_SOURCE: 'Todavía estamos preparando el material de esta clase para el tutor. Puedes seguir con su resumen y ejercicios.',
+                TIMEOUT: 'La respuesta está tardando más de lo habitual. Vuelve a intentarlo.',
+                NETWORK: 'No pudimos conectar. Revisa tu conexión y vuelve a intentarlo.'
+            };
+            const notice = document.getElementById('tutor-notice');
+            document.getElementById('tutor-notice-text').textContent = messages[code] || 'No pudimos completar tu respuesta. Vuelve a intentarlo en un momento.';
+            document.getElementById('tutor-retry').hidden = ['PRO_REQUIRED','DEVICE_LIMIT','DAILY_LIMIT','MONTHLY_LIMIT','NO_SOURCE','NOT_READY'].includes(code) || !tutor.retryMessage;
+            document.getElementById('tutor-verify-again').hidden = code !== 'PRO_REQUIRED';
+            notice.hidden = false;
+            document.getElementById('tutor-status').textContent = 'Tu pregunta quedó lista para volver a intentarlo.';
+        }
+
+        function tutorError(code, status) {
+            const error = new Error(code);
+            error.code = code;
+            error.status = status;
+            return error;
+        }
+
+        function applyTutorQuota(data) {
+            const quota = data && data.quota;
+            const daily = data && (data.remaining ?? (quota && (quota.remaining ?? (quota.daily && quota.daily.remaining))));
+            const monthly = data && (data.monthlyRemaining ?? (quota && (quota.monthlyRemaining ?? (quota.monthly && quota.monthly.remaining))));
+            if (daily != null && Number.isFinite(Number(daily))) tutor.remaining = Number(daily);
+            if (monthly != null && Number.isFinite(Number(monthly))) tutor.monthlyRemaining = Number(monthly);
+        }
+
+        async function postTutor(payload, signal) {
+            if (!safeRemoteUrl(TUTOR_API_URL)) throw tutorError('NOT_READY');
+            let response;
+            try {
+                response = await fetch(TUTOR_API_URL,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(payload),signal,cache:'no-store'});
+            } catch (error) {
+                if (error.name === 'AbortError') throw error;
+                throw tutorError('NETWORK');
+            }
+            let data;
+            try { data = await response.json(); } catch (_) { throw tutorError('NETWORK',response.status); }
+            if (!response.ok || data.error || data.ok === false) {
+                const code = data.code || (data.error && data.error.code) || (response.status === 429 ? 'RATE_LIMIT' : response.status === 401 ? 'SESSION_EXPIRED' : 'UNAVAILABLE');
+                const error = tutorError(String(code).toUpperCase(),response.status);
+                error.quotaData = data;
+                throw error;
+            }
+            return data;
+        }
+
+        async function getTutorSession(email, signal, force) {
+            const deviceId = getTutorDeviceId();
+            const key = `cachimboz_tutor_session_${tutorAccountKey(email)}_${deviceId}`;
+            if (force) {
+                tutor.session = null;
+                try { sessionStorage.removeItem(key); } catch (_) {}
+            }
+            if (!tutor.session) {
+                try {
+                    const saved = JSON.parse(sessionStorage.getItem(key) || 'null');
+                    if (saved && saved.account === email && typeof saved.token === 'string' && saved.expiresAt > Date.now() + 30000) tutor.session = saved;
+                } catch (_) {}
+            }
+            if (tutor.session && tutor.session.account === email && tutor.session.expiresAt > Date.now() + 30000) return tutor.session.token;
+            const data = await postTutor({action:'session',courseId:COURSE_ID,email,deviceId},signal);
+            if (!data.sessionToken || typeof data.sessionToken !== 'string') throw tutorError('SESSION_EXPIRED');
+            const numericExpiry = Number(data.expiresAt);
+            let expiresAt = Number.isFinite(numericExpiry) && numericExpiry > 0 ? (numericExpiry < 1e12 ? numericExpiry * 1000 : numericExpiry) : new Date(data.expiresAt).getTime();
+            if (!Number.isFinite(expiresAt) || expiresAt <= Date.now()) expiresAt = Date.now() + 5 * 60 * 1000;
+            const session = {account:email,token:data.sessionToken,expiresAt};
+            if (tutorEmail() === email) {
+                tutor.session = session;
+                applyTutorQuota(data);
+                try { sessionStorage.setItem(key,JSON.stringify(session)); } catch (_) {}
+            }
+            return session.token;
+        }
+
+        async function sendTutorMessage(messageOverride) {
+            if (tutor.busy) return;
+            if (!tutor.open) openTutor();
+            if (!tutor.open) return;
+            syncTutorContext();
+            const input = document.getElementById('tutor-input');
+            const message = String(typeof messageOverride === 'string' ? messageOverride : input.value).trim().slice(0,2000);
+            if (!message) { input.focus(); return; }
+            const email = tutorEmail();
+            if (!email) { document.getElementById('tutor-access').hidden = false; openAccessModal(); return; }
+            if (!tutor.lessonId) { showTutorError(tutorError('NO_SOURCE')); return; }
+            const lessonId = tutor.lessonId;
+            const epoch = ++tutor.epoch;
+            const controller = new AbortController();
+            tutor.controller = controller;
+            tutor.busy = true;
+            setTutorMascot('thinking');
+            tutor.pending = message;
+            tutor.retryMessage = message;
+            input.value = '';
+            hideTutorNotice();
+            renderTutorMessages();
+            updateTutorComposer();
+            document.getElementById('tutor-status').textContent = 'Preparando tu respuesta…';
+            let timedOut = false;
+            const timer = setTimeout(() => { timedOut = true; controller.abort(); },75000);
+            const isCurrent = () => tutor.epoch === epoch && tutor.open && tutor.lessonId === lessonId && tutorEmail() === email;
+            try {
+                let sessionToken = await getTutorSession(email,controller.signal,false);
+                if (!isCurrent()) return;
+                const history = tutor.messages.slice(-6).map(item => ({role:item.role,content:item.content.slice(0,item.role === 'user' ? 1000 : 1800)}));
+                while (history.reduce((total,item) => total + item.content.length,0) > 6000) history.shift();
+                const payload = {action:'chat',courseId:COURSE_ID,lessonId,message,
+                    history,
+                    deviceId:getTutorDeviceId(),sessionToken};
+                let data;
+                try { data = await postTutor(payload,controller.signal); }
+                catch (error) {
+                    if (error.code !== 'SESSION_EXPIRED' || !isCurrent()) throw error;
+                    sessionToken = await getTutorSession(email,controller.signal,true);
+                    if (!isCurrent()) return;
+                    data = await postTutor({...payload,sessionToken},controller.signal);
+                }
+                if (!isCurrent()) return;
+                if (typeof data.answer !== 'string' || !data.answer.trim()) throw tutorError('UNAVAILABLE');
+                setTutorMascot('correct');
+                tutor.messages.push({role:'user',content:message},{role:'assistant',content:data.answer.slice(0,12000),sources:data.sources || data.citations,followUps:data.followUps});
+                tutor.messages = tutorSafeMessages(tutor.messages);
+                tutor.pending = '';
+                tutor.retryMessage = '';
+                applyTutorQuota(data);
+                persistTutorMessages();
+                renderTutorMessages();
+                document.getElementById('tutor-status').textContent = 'Tu explicación está lista.';
+            } catch (error) {
+                if (!isCurrent()) return;
+                if (error.quotaData) applyTutorQuota(error.quotaData);
+                tutor.pending = '';
+                input.value = message;
+                renderTutorMessages();
+                if (error.name === 'AbortError' && !timedOut) return;
+                showTutorError(timedOut ? tutorError('TIMEOUT') : error);
+            } finally {
+                clearTimeout(timer);
+                if (tutor.epoch === epoch) {
+                    tutor.busy = false;
+                    tutor.controller = null;
+                    updateTutorComposer();
+                    if (!document.getElementById('tutor-notice').hidden) document.getElementById('tutor-status').textContent = 'Tu pregunta quedó lista para volver a intentarlo.';
+                }
+            }
+        }
+
+        function sendTutorPrompt(message) {
+            if (!tutor.open) openTutor();
+            return sendTutorMessage(message);
+        }
+
+        function retryTutor() {
+            if (tutor.retryMessage) sendTutorMessage(tutor.retryMessage);
+        }
+
+        function stopTutorRequest(restoreInput) {
+            tutor.epoch++;
+            if (tutor.controller) tutor.controller.abort();
+            tutor.controller = null;
+            tutor.busy = false;
+            if (restoreInput && tutor.pending) document.getElementById('tutor-input').value = tutor.pending;
+            tutor.pending = '';
+            setTutorMascot('hello');
+            updateTutorComposer();
+        }
+
+        function cancelTutorRequest() {
+            stopTutorRequest(true);
+            renderTutorMessages();
+            hideTutorNotice();
+            document.getElementById('tutor-status').textContent = 'Respuesta detenida. Puedes ajustar tu pregunta.';
+            document.getElementById('tutor-input').focus();
+        }
+
+        function resetTutorConversation() {
+            stopTutorRequest(false);
+            tutor.messages = [];
+            tutor.pending = '';
+            tutor.retryMessage = '';
+            hideTutorNotice();
+            document.getElementById('tutor-input').value = '';
+            persistTutorMessages();
+            renderTutorMessages();
+            updateTutorComposer();
+            document.getElementById('tutor-input').focus();
+        }
+
+        // --- TEMPORIZADOR FALSO PARA OFERTA ---
+        function startPromoTimer() {
+            let totalSeconds = (4 * 60) + 51; 
+            setInterval(() => {
+                if(totalSeconds <= 0) totalSeconds = (4 * 60) + 51; 
+                totalSeconds--;
+                
+                let m = Math.floor(totalSeconds / 60);
+                let s = totalSeconds % 60;
+                
+                let mStr = m < 10 ? "0" + m : m.toString();
+                let sStr = s < 10 ? "0" + s : s.toString();
+                
+                const timerEl = document.getElementById('promo-timer');
+                if(timerEl) {
+                    timerEl.innerHTML = `<span>${mStr[0]}</span><span>${mStr[1]}</span>:<span>${sStr[0]}</span><span>${sStr[1]}</span>`;
+                }
+            }, 1000);
+        }
+    </script>
+</body>
+</html>
