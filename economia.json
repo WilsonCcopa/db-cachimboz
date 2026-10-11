@@ -851,10 +851,669 @@
       ],
       "videos": [
         {
-          "titulo": "1.1 Video",
+          "titulo": "1.1 Concepto y Etimología",
+          "youtube_id": "1QqSSgTA_r4",
+          "pdf_link": "https://drive.google.com/file/d/1rPRzcbXV5uZpfWWa530DPuwT0urVFx21/view",
+          "gratis": true,
+          "lesson_id": "economia_1_t01_v02",
+          "resumen": "La clase introduce la economía como una ciencia social que estudia las elecciones frente a recursos escasos y explica su origen etimológico en la administración del hogar. Luego recorre siete escuelas económicas: mercantilismo, fisiocracia, clásica, marxista, neoclásica, keynesiana y monetarista. Compara sus ideas sobre riqueza, trabajo, mercado e intervención estatal, y relaciona cada corriente con sus representantes y conceptos característicos. El cierre repasa asociaciones frecuentes en preguntas de admisión, como acumulación de metales y mercantilismo, marginalismo y escuela neoclásica, o control monetario y monetarismo.",
+          "puntos_clave": [
+            "La economía analiza elecciones y administración de recursos escasos; oikos y nomos remiten a la casa y su administración.",
+            "El mercantilismo vincula la riqueza con acumular metales preciosos y presenta políticas de protección de la producción nacional.",
+            "La fisiocracia propone un orden natural y el principio de dejar hacer y dejar pasar, con menor intervención estatal.",
+            "La escuela clásica defiende libre competencia y mano invisible; la marxista destaca lucha de clases y teoría del valor trabajo.",
+            "La escuela neoclásica introduce el marginalismo: examinar decisiones y satisfacción asociadas a una unidad adicional.",
+            "La corriente keynesiana destaca la intervención estatal ante fallos del mercado y el papel del gasto público.",
+            "El monetarismo estudia la oferta monetaria y su relación con la inflación; se vincula con Milton Friedman."
+          ],
+          "momentos_clave": [
+            {
+              "titulo": "Etimología y concepto de economía",
+              "texto": "Se explica el origen del término y la relación entre decisiones, recursos limitados y escasez.",
+              "segundos": 50,
+              "youtube_id": "1QqSSgTA_r4",
+              "evidencia": {
+                "segmento_inicio": "s000024",
+                "segmento_fin": "s000047",
+                "cita": "¿Qué es exactamente la economía? Bueno, si nos fijamos en el origen de la palabra en pantalla, el término viene de la antigua Grecia. Resulta que oiconomía se forma de oicos, que significa casa, y nomos, que es reglas o administración. O sea, al principio era simplemente la buena administración del hogar. Y aquí aplicamos nuestro famoso traductor de Jerga. Piensen en cómo se organizan las tareas de limpieza en una casa y cómo se estira el presupuesto para las compras de la semana. Eso llevado a gran escala es exactamente la economía formal, es administrar recursos escasos. Y no lo digo yo, eh, autores importantísimos como Dornbush, Samuelson y Parkin coinciden en esto. De hecho, Parkin dice que es la ciencia social que estudia las elecciones que hacemos para encarar la escasez. Y Raymond Barre nos recuerda que es justamente esa tensión entre nuestros deseos ilimitados y los medios",
+                "inicio_segundos": 50.48,
+                "fin_segundos": 99.03999999999999,
+                "segundos": 50,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Mercantilismo y fisiocracia",
+              "texto": "Se contrastan acumulación de metales, protección económica y el principio del orden natural.",
+              "segundos": 150,
+              "youtube_id": "1QqSSgTA_r4",
+              "evidencia": {
+                "segmento_inicio": "s000075",
+                "segmento_fin": "s000109",
+                "cita": "Arrancamos a principios de la Edad Moderna con el mercantilismo. La idea de esta gente era superd. Un país es más rico y más poderoso cuanta más cantidad de metales preciosos logra acumular. Hablamos de oro, plata, riquezas físicas. Su máxima expresión se dio en Francia con Jan Batis, que era el ministro del rey Luis XIV. Colbert protegió a las empresas francesas a muerte usando subsidios y poniendo unas restricciones fuerquísimas a las importaciones. Traductor de Herga. Imagínense un videojuego donde el único objetivo es acumular la mayor cantidad de monedas de oro posible en su base y cerrar las puertas para que nadie se las quite. Eso, mis amigos, era el mercantilismo. Pero claro, alrededor de 1750, también en Francia, surgió una respuesta directa contra esa intervención tan pesada del estado, la fisiocracia. Esta fue fundada por Francois Kené, acompañado por Turgot. Y ojo acá, la",
+                "inicio_segundos": 150.319,
+                "fin_segundos": 219.07999999999998,
+                "segundos": 150,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Clásicos y marxistas",
+              "texto": "Se comparan libre competencia y mano invisible con lucha de clases y valor trabajo.",
+              "segundos": 222,
+              "youtube_id": "1QqSSgTA_r4",
+              "evidencia": {
+                "segmento_inicio": "s000112",
+                "segmento_fin": "s000145",
+                "cita": "Ahí nace la escuela clásica con la famosísima publicación de La riqueza de las naciones de Adam Smith. Anoten estos nombres porque son oro para el examen. Adam Smith, David Ricardo, Thomas Maltus, Jen Batisse y John Stuart Mill. Ellos son los verdaderos precursores del liberalismo económico. Defendían a capa y espada que la economía tiende al equilibrio por sí sola mediante la libre competencia. Creían que cuando las personas buscan su propio beneficio privado son guiadas por una especie de mano invisible que sin querer queriendo termina incrementando el bien común. Ahora bien, toda gran teoría siempre genera una respuesta. Con el paso de los años surgió una corriente que fue muy crítica con este liberalismo clásico, la escuela marxista centrada en Carl Marx y su hiperconocida obra El Capital. Si lo vemos de forma superobjetiva, el texto nos explica que para Marx la historia es",
+                "inicio_segundos": 222.519,
+                "fin_segundos": 288.6,
+                "segundos": 222,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Keynesianismo y monetarismo",
+              "texto": "Se revisan intervención estatal, gasto público, oferta monetaria e inflación.",
+              "segundos": 330,
+              "youtube_id": "1QqSSgTA_r4",
+              "evidencia": {
+                "segmento_inicio": "s000170",
+                "segmento_fin": "s000209",
+                "cita": "crisis mundiales y en 1936 aparece John Minar Kanes con su teoría general de la ocupación, el interés y el dinero. Kines llega y rompe con los clásicos y neoclásicos. Él dice, \"A ver, el mercado no es perfecto, tiene fallos graves, por lo tanto, la intervención del Estado en la economía es absolutamente imprescindible para arreglar esos fallos.\" Esta doctrina es super importante porque sentó las bases para el sistema de economía mixta y el estado de bienestar después de la Segunda Guerra Mundial. Básicamente, el gobierno toma un rol protagónico, manejando el gasto público para estabilizar las cosas. Y para cerrar este viaje histórico, llegamos a la escuela monetarista. Esta escuela está fuertemente vinculada a la famosa escuela de Chicago y a su líder, el Premio Nobel Milton Friedman. Ellos se enfocan en estudiar cómo las variaciones en la oferta monetaria, que es el total de dinero en",
+                "inicio_segundos": 330.24,
+                "fin_segundos": 405.35999999999996,
+                "segundos": 330,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            }
+          ],
+          "duracion_segundos": 493,
+          "summary_provenance": {
+            "model": "Codex",
+            "prompt_version": "cachimboz-economia-additions-20261011",
+            "generated_at": "2026-10-11T23:36:17.218Z",
+            "source_sha256": "21831a8dd3adbd0e62afeb72784817a2cfa3e6ee525e78461212ea27a6981a62",
+            "transcript_segments_sha256": "d6c81495521c60541a335fe5d90433eff58069e06dd0c1fcb85b56b811ffd10c",
+            "key_point_evidence": [
+              {
+                "segmento_inicio": "s000024",
+                "segmento_fin": "s000047",
+                "cita": "¿Qué es exactamente la economía? Bueno, si nos fijamos en el origen de la palabra en pantalla, el término viene de la antigua Grecia. Resulta que oiconomía se forma de oicos, que significa casa, y nomos, que es reglas o administración. O sea, al principio era simplemente la buena administración del hogar. Y aquí aplicamos nuestro famoso traductor de Jerga. Piensen en cómo se organizan las tareas de limpieza en una casa y cómo se estira el presupuesto para las compras de la semana. Eso llevado a gran escala es exactamente la economía formal, es administrar recursos escasos. Y no lo digo yo, eh, autores importantísimos como Dornbush, Samuelson y Parkin coinciden en esto. De hecho, Parkin dice que es la ciencia social que estudia las elecciones que hacemos para encarar la escasez. Y Raymond Barre nos recuerda que es justamente esa tensión entre nuestros deseos ilimitados y los medios",
+                "inicio_segundos": 50.48,
+                "fin_segundos": 99.03999999999999,
+                "segundos": 50,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000075",
+                "segmento_fin": "s000092",
+                "cita": "Arrancamos a principios de la Edad Moderna con el mercantilismo. La idea de esta gente era superd. Un país es más rico y más poderoso cuanta más cantidad de metales preciosos logra acumular. Hablamos de oro, plata, riquezas físicas. Su máxima expresión se dio en Francia con Jan Batis, que era el ministro del rey Luis XIV. Colbert protegió a las empresas francesas a muerte usando subsidios y poniendo unas restricciones fuerquísimas a las importaciones. Traductor de Herga. Imagínense un videojuego donde el único objetivo es acumular la mayor cantidad de monedas de oro posible en su base y cerrar las puertas para que nadie se las quite. Eso, mis amigos, era el",
+                "inicio_segundos": 150.319,
+                "fin_segundos": 185.31900000000002,
+                "segundos": 150,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000094",
+                "segmento_fin": "s000109",
+                "cita": "1750, también en Francia, surgió una respuesta directa contra esa intervención tan pesada del estado, la fisiocracia. Esta fue fundada por Francois Kené, acompañado por Turgot. Y ojo acá, la palabra clave es fisis, que en griego significa naturaleza. Ellos creían que la economía tenía un fenómeno natural que regulaba el mercado por sí solo, sin ayuda de nadie. Su lema, que es fundamental que lo memoricen para los exámenes, es lefer faer, le sepé pasea, que básicamente significa dejar hacer, dejar pasar. En resumen, el estado no debe meter las narices. La naturaleza del mercado se encarga de todo el",
+                "inicio_segundos": 185.319,
+                "fin_segundos": 219.07999999999998,
+                "segundos": 185,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000112",
+                "segmento_fin": "s000145",
+                "cita": "Ahí nace la escuela clásica con la famosísima publicación de La riqueza de las naciones de Adam Smith. Anoten estos nombres porque son oro para el examen. Adam Smith, David Ricardo, Thomas Maltus, Jen Batisse y John Stuart Mill. Ellos son los verdaderos precursores del liberalismo económico. Defendían a capa y espada que la economía tiende al equilibrio por sí sola mediante la libre competencia. Creían que cuando las personas buscan su propio beneficio privado son guiadas por una especie de mano invisible que sin querer queriendo termina incrementando el bien común. Ahora bien, toda gran teoría siempre genera una respuesta. Con el paso de los años surgió una corriente que fue muy crítica con este liberalismo clásico, la escuela marxista centrada en Carl Marx y su hiperconocida obra El Capital. Si lo vemos de forma superobjetiva, el texto nos explica que para Marx la historia es",
+                "inicio_segundos": 222.519,
+                "fin_segundos": 288.6,
+                "segundos": 222,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000147",
+                "segmento_fin": "s000168",
+                "cita": "a mediados del siglo XIX y la ciencia económica da un giro super matemático y abstracto. Llega a la escuela neoclásica. Su gran revolución fue introducir la microeconomía y un concepto llamado marginalismo. Momento del traductor de Herga. El marginalismo es tomar decisiones basadas en la última unidad que se consume. Piensen en la diferencia entre la satisfacción tremenda que da el primer vaso de agua cuando tienen muchísima sed frente a lo que sienten con el quinto vaso cuando ya no quieren más. Esa medición del margen es lo que explica los fenómenos económicos para ellos. Para el examen, recuerden a los pioneros Curnod y Dupui, y a los que llevaron esto a la madurez, Jebons, Marshall y Walras. Ellos estudiaron la economía asumiendo una competencia pura y perfecta, totalmente libre de monopolios y sin que el Estado",
+                "inicio_segundos": 288.6,
+                "fin_segundos": 330.24,
+                "segundos": 288,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000170",
+                "segmento_fin": "s000185",
+                "cita": "crisis mundiales y en 1936 aparece John Minar Kanes con su teoría general de la ocupación, el interés y el dinero. Kines llega y rompe con los clásicos y neoclásicos. Él dice, \"A ver, el mercado no es perfecto, tiene fallos graves, por lo tanto, la intervención del Estado en la economía es absolutamente imprescindible para arreglar esos fallos.\" Esta doctrina es super importante porque sentó las bases para el sistema de economía mixta y el estado de bienestar después de la Segunda Guerra Mundial. Básicamente, el gobierno toma un rol protagónico, manejando el gasto público para estabilizar las",
+                "inicio_segundos": 330.24,
+                "fin_segundos": 363.36,
+                "segundos": 330,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000187",
+                "segmento_fin": "s000209",
+                "cita": "histórico, llegamos a la escuela monetarista. Esta escuela está fuertemente vinculada a la famosa escuela de Chicago y a su líder, el Premio Nobel Milton Friedman. Ellos se enfocan en estudiar cómo las variaciones en la oferta monetaria, que es el total de dinero en efectivo y cheques que hay circulando por ahí, afectan a la economía. Traducción de Herga. Si el Banco Central de pronto imprime demasiado dinero y hay mucho efectivo en la calle, a corto plazo la gente se emociona y compra más, pero a largo plazo ese dinero pierde su valor y todo se vuelve mucho más caro. A esto le llamamos inflación. El monetarismo señala que la inflación es un proceso meramente monetario. ¿Y cuál es su solución? Pues que el Banco Central controle la inflación manejando la tasa de interés, o sea, encareciendo el precio del dinero si hay miedo de que",
+                "inicio_segundos": 363.36,
+                "fin_segundos": 405.35999999999996,
+                "segundos": 363,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              }
+            ],
+            "source_integrity": "exact_lesson_course_and_youtube_id",
+            "validation": "plain_text_and_literal_segment_evidence",
+            "factual_review": "source_reviewed_not_human_verified",
+            "playback": "not_verified"
+          }
+        },
+        {
+          "titulo": "1.2 Objetos y Fines",
+          "youtube_id": "7L2sxJWL9Ps",
+          "pdf_link": "https://drive.google.com/file/d/1rPRzcbXV5uZpfWWa530DPuwT0urVFx21/view",
+          "gratis": true,
+          "lesson_id": "economia_1_t01_v03",
+          "resumen": "La clase explica que el objeto de la economía surge de la tensión entre necesidades múltiples y recursos escasos. Desarrolla las preguntas qué producir, cómo producir y para quién producir, asociándolas con decisiones económicas, técnicas y sociales. Distingue el fin teórico, orientado a conocer y explicar fenómenos mediante categorías, leyes, modelos e hipótesis, del fin práctico, que busca bienestar general y una distribución justa. También compara economía positiva y normativa: la primera describe y explica hechos contrastables; la segunda incorpora criterios y juicios de valor sobre lo que debería hacerse.",
+          "puntos_clave": [
+            "El problema económico aparece por la relación entre múltiples necesidades y recursos escasos que tienen usos alternativos.",
+            "Qué producir es una decisión económica sobre los bienes que se elaborarán; cómo producir aborda tecnología, factores y costos.",
+            "Para quién producir corresponde a la distribución y al carácter social de la actividad económica.",
+            "El fin teórico conecta categorías, leyes, modelos y teorías, que se contrastan con la realidad y permiten nuevas hipótesis.",
+            "La economía positiva estudia lo que es; la normativa plantea lo que debería ser e incorpora juicios de valor.",
+            "El fin práctico consiste en aplicar el conocimiento para buscar bienestar general y una distribución justa de la riqueza."
+          ],
+          "momentos_clave": [
+            {
+              "titulo": "Objeto de estudio y escasez",
+              "texto": "Se presenta la dicotomía entre necesidades múltiples y recursos limitados.",
+              "segundos": 80,
+              "youtube_id": "7L2sxJWL9Ps",
+              "evidencia": {
+                "segmento_inicio": "s000035",
+                "segmento_fin": "s000050",
+                "cita": "famosa dicotomía. Pero ojo aquí, para el examen de admisión hay que dominar el término formal. Anoten esto. El objeto de estudio de la economía son los fenómenos económicos generados por la dicotomía entre tener múltiples necesidades por satisfacer y contar únicamente con recursos escasos. Entonces, el punto crucial a entender es este. Absolutamente todo sistema económico en el mundo, ya sea el de una casa, el de una ciudad o el de un país entero, tiene que enfrentar exactamente este mismo problema. La escasez de recursos es la fuente suprema y es el cimiento innegable de todo lo que",
+                "inicio_segundos": 80.119,
+                "fin_segundos": 119.56,
+                "segundos": 80,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Qué, cómo y para quién producir",
+              "texto": "Se explican las decisiones económicas, técnicas y sociales con ejemplos de producción y distribución.",
+              "segundos": 163,
+              "youtube_id": "7L2sxJWL9Ps",
+              "evidencia": {
+                "segmento_inicio": "s000072",
+                "segmento_fin": "s000117",
+                "cita": "¿Qué producir? Esta es una pregunta de carácter netamente económico. Como nos dice Valencia Sandoval, los recursos tienen usos alternativos. Por ejemplo, un bloque de madera puede convertirse en una silla para el comedor o puede procesarse para hacer papel. Alguien tiene que tomar la decisión. Se enfoca en la naturaleza de los bienes para el consumo. Y aplicando de nuevo el traductor de Gerga, el empresario no se pone a fabricar productos solo por ser una buena persona o por caridad. Claro que busca satisfacer una necesidad, pero asegurándose de que el precio le deje ganancias, es decir, que el negocio sea rentable. Muy bien. Una vez que ya sabemos el qué, pasamos a la siguiente gran duda, ¿cómo producirlo? Y esto ilustra de manera brillante una pregunta de carácter técnico. Aquí ya estamos hablando de tecnología, de las máquinas y de la mano de obra. Existen muchísimas formas de",
+                "inicio_segundos": 163.56,
+                "fin_segundos": 266.84,
+                "segundos": 163,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Fines teóricos de la economía",
+              "texto": "Se desarrolla la secuencia de categorías, leyes, modelos, teorías e hipótesis.",
+              "segundos": 278,
+              "youtube_id": "7L2sxJWL9Ps",
+              "evidencia": {
+                "segmento_inicio": "s000124",
+                "segmento_fin": "s000149",
+                "cita": "teóricos. El primer fin teórico es, en esencia la pura observación. Se trata de conocer y entender a fondo cómo actuamos los seres humanos con nuestros recursos y esto aplica tanto si estamos analizando a una sola persona comprando el pan temprano en la mañana como si hablamos de millones de personas reaccionando en pánico ante una crisis mundial. En resumen, es el estudio puro del comportamiento humano y para lograr alcanzar ese nivel de conocimiento, la economía utiliza una progresión científica muy rigurosa. Es absolutamente vital memorizar esta cadena exacta porque les va a servir muchísimo. Primero, se conocen y se relacionan las categorías económicas. Al relacionarlas se descubren las leyes económicas. Con esas leyes ya claras se construyen modelos para explicar la conducta. Luego se juntan esos modelos y se formula una teoría económica general. Y finalmente se contrasta esa",
+                "inicio_segundos": 278.28,
+                "fin_segundos": 339.88,
+                "segundos": 278,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Economía positiva, normativa y fin práctico",
+              "texto": "Se diferencia describir hechos de formular criterios y se conecta el conocimiento con el bienestar social.",
+              "segundos": 339,
+              "youtube_id": "7L2sxJWL9Ps",
+              "evidencia": {
+                "segmento_inicio": "s000151",
+                "segmento_fin": "s000179",
+                "cita": "Ahora, dentro de esa teoría existe una división clásica que tienen que dominar sí o sí. Esta diapositiva ilustra la diferencia crítica entre dos mundos. Por un lado, tenemos la economía positiva. Esta se encarga solo de describir lo que es. observa la realidad, la evalúa y hace predicciones, pero sin juzgar si está bien o está mal. Por otro lado, tenemos la economía normativa. Esta nos dice lo que debe ser o qué es lo que debería hacerse. La normativa sirve para guiar las decisiones económicas, establece los criterios y sí emite juicios de valor sobre lo que consideramos justo o injusto. Pero seamos sinceros, toda esa teoría maravillosa no sirve de absolutamente nada si no mejora nuestras vidas reales, ¿verdad? Por eso pasamos al fin práctico. El objetivo real, el que se juega en la cancha de la economía es buscar el bienestar general de todos nosotros. Trata de solucionar nuestro",
+                "inicio_segundos": 339.88,
+                "fin_segundos": 407.96,
+                "segundos": 339,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            }
+          ],
+          "duracion_segundos": 530,
+          "summary_provenance": {
+            "model": "Codex",
+            "prompt_version": "cachimboz-economia-additions-20261011",
+            "generated_at": "2026-10-11T23:36:17.221Z",
+            "source_sha256": "db135bcea42ab41062044f3a5da62f7e9221009d06340e7fb31645e8c884f08d",
+            "transcript_segments_sha256": "fa0e05a145cb87d643580cbaa3c17b76d695edb46d8a411a82bdf845db32ac0e",
+            "key_point_evidence": [
+              {
+                "segmento_inicio": "s000035",
+                "segmento_fin": "s000050",
+                "cita": "famosa dicotomía. Pero ojo aquí, para el examen de admisión hay que dominar el término formal. Anoten esto. El objeto de estudio de la economía son los fenómenos económicos generados por la dicotomía entre tener múltiples necesidades por satisfacer y contar únicamente con recursos escasos. Entonces, el punto crucial a entender es este. Absolutamente todo sistema económico en el mundo, ya sea el de una casa, el de una ciudad o el de un país entero, tiene que enfrentar exactamente este mismo problema. La escasez de recursos es la fuente suprema y es el cimiento innegable de todo lo que",
+                "inicio_segundos": 80.119,
+                "fin_segundos": 119.56,
+                "segundos": 80,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000072",
+                "segmento_fin": "s000104",
+                "cita": "¿Qué producir? Esta es una pregunta de carácter netamente económico. Como nos dice Valencia Sandoval, los recursos tienen usos alternativos. Por ejemplo, un bloque de madera puede convertirse en una silla para el comedor o puede procesarse para hacer papel. Alguien tiene que tomar la decisión. Se enfoca en la naturaleza de los bienes para el consumo. Y aplicando de nuevo el traductor de Gerga, el empresario no se pone a fabricar productos solo por ser una buena persona o por caridad. Claro que busca satisfacer una necesidad, pero asegurándose de que el precio le deje ganancias, es decir, que el negocio sea rentable. Muy bien. Una vez que ya sabemos el qué, pasamos a la siguiente gran duda, ¿cómo producirlo? Y esto ilustra de manera brillante una pregunta de carácter técnico. Aquí ya estamos hablando de tecnología, de las máquinas y de la mano de obra. Existen muchísimas formas de",
+                "inicio_segundos": 163.56,
+                "fin_segundos": 239.599,
+                "segundos": 163,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000106",
+                "segmento_fin": "s000117",
+                "cita": "quién producirlo y muchísima atención porque esta es una pregunta de carácter social. Este es el famosísimo problema de la distribución. A ver, ya tenemos los productos listos en el almacén. Ahora, ¿quién se los lleva a su casa? La respuesta a esto depende totalmente del modelo económico que siga la nación o la sociedad para satisfacer las necesidades de su población. Básicamente, esta etapa define quiénes van a disfrutar realmente de esos bienes y servicios que tanto",
+                "inicio_segundos": 239.599,
+                "fin_segundos": 266.84,
+                "segundos": 239,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000124",
+                "segmento_fin": "s000149",
+                "cita": "teóricos. El primer fin teórico es, en esencia la pura observación. Se trata de conocer y entender a fondo cómo actuamos los seres humanos con nuestros recursos y esto aplica tanto si estamos analizando a una sola persona comprando el pan temprano en la mañana como si hablamos de millones de personas reaccionando en pánico ante una crisis mundial. En resumen, es el estudio puro del comportamiento humano y para lograr alcanzar ese nivel de conocimiento, la economía utiliza una progresión científica muy rigurosa. Es absolutamente vital memorizar esta cadena exacta porque les va a servir muchísimo. Primero, se conocen y se relacionan las categorías económicas. Al relacionarlas se descubren las leyes económicas. Con esas leyes ya claras se construyen modelos para explicar la conducta. Luego se juntan esos modelos y se formula una teoría económica general. Y finalmente se contrasta esa",
+                "inicio_segundos": 278.28,
+                "fin_segundos": 339.88,
+                "segundos": 278,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000151",
+                "segmento_fin": "s000165",
+                "cita": "Ahora, dentro de esa teoría existe una división clásica que tienen que dominar sí o sí. Esta diapositiva ilustra la diferencia crítica entre dos mundos. Por un lado, tenemos la economía positiva. Esta se encarga solo de describir lo que es. observa la realidad, la evalúa y hace predicciones, pero sin juzgar si está bien o está mal. Por otro lado, tenemos la economía normativa. Esta nos dice lo que debe ser o qué es lo que debería hacerse. La normativa sirve para guiar las decisiones económicas, establece los criterios y sí emite juicios de valor sobre lo que",
+                "inicio_segundos": 339.88,
+                "fin_segundos": 377.16,
+                "segundos": 339,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000167",
+                "segmento_fin": "s000179",
+                "cita": "seamos sinceros, toda esa teoría maravillosa no sirve de absolutamente nada si no mejora nuestras vidas reales, ¿verdad? Por eso pasamos al fin práctico. El objetivo real, el que se juega en la cancha de la economía es buscar el bienestar general de todos nosotros. Trata de solucionar nuestro problema diario de escasez de recursos, pero, y esto es clave, buscando al mismo tiempo una justa distribución de la riqueza. Es sencillamente la teoría puesta en acción para mejorar a la",
+                "inicio_segundos": 377.16,
+                "fin_segundos": 407.96,
+                "segundos": 377,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              }
+            ],
+            "source_integrity": "exact_lesson_course_and_youtube_id",
+            "validation": "plain_text_and_literal_segment_evidence",
+            "factual_review": "source_reviewed_not_human_verified",
+            "playback": "not_verified"
+          }
+        },
+        {
+          "titulo": "1.3 Escasez y Costo de Oportunidad",
+          "youtube_id": "risuMhFuRBY",
+          "pdf_link": "https://drive.google.com/file/d/1rPRzcbXV5uZpfWWa530DPuwT0urVFx21/view",
+          "gratis": true,
+          "lesson_id": "economia_1_t01_v04",
+          "resumen": "La clase desarrolla la secuencia escasez, elección y costo de oportunidad. Explica que la limitación de recursos afecta tanto a bienes básicos como a bienes no indispensables y obliga a priorizar necesidades. Mediante ejemplos de decisiones personales y empresariales, distingue el precio pagado del beneficio al que se renuncia al elegir una alternativa. Después compara economía positiva, basada en hechos y afirmaciones contrastables, con economía normativa, que utiliza juicios de valor y criterios sobre lo que debería hacerse. El cierre relaciona estas distinciones con enunciados habituales de examen.",
+          "puntos_clave": [
+            "La escasez consiste en la insuficiencia de recursos para satisfacer necesidades y también alcanza a bienes no indispensables.",
+            "Los recursos limitados obligan a elegir qué necesidades atender; toda elección implica renunciar a otra posibilidad.",
+            "El costo de oportunidad se relaciona con el beneficio de la alternativa descartada y no se identifica simplemente con el precio monetario.",
+            "El costo de oportunidad también interviene en decisiones de las empresas, como asignar recursos entre publicidad y mejoras del producto.",
+            "La economía positiva describe y explica hechos mediante afirmaciones que pueden contrastarse con la realidad.",
+            "La economía normativa incorpora criterios, opiniones y juicios de valor sobre lo que debería hacerse."
+          ],
+          "momentos_clave": [
+            {
+              "titulo": "Escasez y necesidad de elegir",
+              "texto": "Se explica por qué la limitación de recursos obliga a priorizar alternativas.",
+              "segundos": 92,
+              "youtube_id": "risuMhFuRBY",
+              "evidencia": {
+                "segmento_inicio": "s000038",
+                "segmento_fin": "s000073",
+                "cita": "Bueno, eso es la escasez. Ya en términos formales, la escasez es simplemente la falta de recursos necesarios para satisfacer una o más necesidades. O sea, nunca hay suficiente de todo para complacer a todos. Y aquí entramos al desarrollo magistral. Fíjense bien en esta cita textual de la plataforma académica Economipedia del año 2022, porque aclara un punto fundamental. A veces pensamos que la escasez es solo no tener para comer, pero para nada. El concepto aplica a bienes básicos para sobrevivir como los alimentos, pero también a productos o servicios que no son indispensables. Un reloj carísimo es escaso, un yate de lujo es escaso. Básicamente, si no se puede producir de forma infinita, entonces sufre de escasez. Entonces esto genera una especie de efecto dominó, una reacción encadena que mueve a toda la sociedad. Paso uno, tenemos la escasez. Como no podemos producir absolutamente",
+                "inicio_segundos": 92.119,
+                "fin_segundos": 177.79999999999998,
+                "segundos": 92,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Costo de oportunidad",
+              "texto": "El ejemplo del libro y la hamburguesa distingue el pago monetario del beneficio al que se renuncia.",
+              "segundos": 183,
+              "youtube_id": "risuMhFuRBY",
+              "evidencia": {
+                "segmento_inicio": "s000077",
+                "segmento_fin": "s000090",
+                "cita": "Volvamos al dilema del inicio, el libro contra la hamburguesa. Si al final se deciden por la hamburguesa, ¿cuál es el costo real? Ojo, no me refiero al precio en monedas que pagan en la caja. El verdadero costo de oportunidad es, por ejemplo, esa excelente nota que hubieran sacado si se ponían a estudiar con el libro. El costo de oportunidad se entiende como ese costo en el que incurrimos al tomar una decisión y descartar otra. Tomar un camino significa inevitablemente renunciar al beneficio que nos daba el camino que",
+                "inicio_segundos": 183.12,
+                "fin_segundos": 216.08,
+                "segundos": 183,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Decisiones empresariales",
+              "texto": "Se aplica el costo de oportunidad a publicidad y mejoras de un producto.",
+              "segundos": 218,
+              "youtube_id": "risuMhFuRBY",
+              "evidencia": {
+                "segmento_inicio": "s000093",
+                "segmento_fin": "s000109",
+                "cita": "alternativa B. Y esto no pasa solo a nivel personal. Es super importante que entiendan que el costo de oportunidad es vital para las empresas. Imagínense el entorno tan exigente de los negocios hoy en día. A diario tienen múltiples posibilidades. Invierten en más publicidad o en mejorar el producto estrella. Lo que desprecian, ese valor o utilidad que sacrifican, ese es su costo de oportunidad. Y para tener un blindaje académico total frente al examen, aquí les dejo la definición formal de los autores Case y Fair del año 1997. Dicen que el costo de oportunidad, cito, se refiere a aquello de lo que un agente se priva o renuncia cuando hace una",
+                "inicio_segundos": 218.36,
+                "fin_segundos": 258.479,
+                "segundos": 218,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Economía positiva y normativa",
+              "texto": "Se comparan hechos contrastables con criterios y juicios de valor.",
+              "segundos": 283,
+              "youtube_id": "risuMhFuRBY",
+              "evidencia": {
+                "segmento_inicio": "s000122",
+                "segmento_fin": "s000135",
+                "cita": "Pues se dividen en dos grandes bandos. Y presten atención porque esta es la distinción más crucial que deben recordar. Por un lado, tenemos la economía positiva que se enfoca puramente en lo que es. Describe el mundo real, los hechos tal cual funcionan. Por el otro lado está la economía normativa que se enfoca en lo que debe ser. nos dice cómo deberían funcionar las cosas según ciertos ideales. O sea, una es como un científico mirando por un microscopio y la otra es como un político debatiendo",
+                "inicio_segundos": 283.12,
+                "fin_segundos": 315.24,
+                "segundos": 283,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            }
+          ],
+          "duracion_segundos": 510,
+          "summary_provenance": {
+            "model": "Codex",
+            "prompt_version": "cachimboz-economia-additions-20261011",
+            "generated_at": "2026-10-11T23:36:17.222Z",
+            "source_sha256": "82a06e30c94833fef8efaccaa799171a357ec951e678e8f0142c72af9a3aa3fd",
+            "transcript_segments_sha256": "483845f74385d735dfb9fb86568127f428b152d10f99332c3a03b5cf57ba9cca",
+            "key_point_evidence": [
+              {
+                "segmento_inicio": "s000038",
+                "segmento_fin": "s000057",
+                "cita": "Bueno, eso es la escasez. Ya en términos formales, la escasez es simplemente la falta de recursos necesarios para satisfacer una o más necesidades. O sea, nunca hay suficiente de todo para complacer a todos. Y aquí entramos al desarrollo magistral. Fíjense bien en esta cita textual de la plataforma académica Economipedia del año 2022, porque aclara un punto fundamental. A veces pensamos que la escasez es solo no tener para comer, pero para nada. El concepto aplica a bienes básicos para sobrevivir como los alimentos, pero también a productos o servicios que no son indispensables. Un reloj carísimo es escaso, un yate de lujo es escaso. Básicamente, si no se puede producir de forma infinita, entonces sufre de",
+                "inicio_segundos": 92.119,
+                "fin_segundos": 139.67999999999998,
+                "segundos": 92,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000059",
+                "segmento_fin": "s000073",
+                "cita": "especie de efecto dominó, una reacción encadena que mueve a toda la sociedad. Paso uno, tenemos la escasez. Como no podemos producir absolutamente todo lo que queremos porque los recursos son limitados, pasamos al paso dos. Surge la elección. La sociedad entera y nosotros mismos en el día a día tenemos que decidir qué necesidades satisfacer y qué recursos usar. Y ahí es donde está ya todo, porque toda elección trae consigo un costo, lo que nos empuja inevitablemente al paso tres, el costo de oportunidad. Es simple, no se puede tener todo al mismo tiempo, así que",
+                "inicio_segundos": 139.68,
+                "fin_segundos": 177.79999999999998,
+                "segundos": 139,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000077",
+                "segmento_fin": "s000090",
+                "cita": "Volvamos al dilema del inicio, el libro contra la hamburguesa. Si al final se deciden por la hamburguesa, ¿cuál es el costo real? Ojo, no me refiero al precio en monedas que pagan en la caja. El verdadero costo de oportunidad es, por ejemplo, esa excelente nota que hubieran sacado si se ponían a estudiar con el libro. El costo de oportunidad se entiende como ese costo en el que incurrimos al tomar una decisión y descartar otra. Tomar un camino significa inevitablemente renunciar al beneficio que nos daba el camino que",
+                "inicio_segundos": 183.12,
+                "fin_segundos": 216.08,
+                "segundos": 183,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000093",
+                "segmento_fin": "s000109",
+                "cita": "alternativa B. Y esto no pasa solo a nivel personal. Es super importante que entiendan que el costo de oportunidad es vital para las empresas. Imagínense el entorno tan exigente de los negocios hoy en día. A diario tienen múltiples posibilidades. Invierten en más publicidad o en mejorar el producto estrella. Lo que desprecian, ese valor o utilidad que sacrifican, ese es su costo de oportunidad. Y para tener un blindaje académico total frente al examen, aquí les dejo la definición formal de los autores Case y Fair del año 1997. Dicen que el costo de oportunidad, cito, se refiere a aquello de lo que un agente se priva o renuncia cuando hace una",
+                "inicio_segundos": 218.36,
+                "fin_segundos": 258.479,
+                "segundos": 218,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000126",
+                "segmento_fin": "s000150",
+                "cita": "economía positiva que se enfoca puramente en lo que es. Describe el mundo real, los hechos tal cual funcionan. Por el otro lado está la economía normativa que se enfoca en lo que debe ser. nos dice cómo deberían funcionar las cosas según ciertos ideales. O sea, una es como un científico mirando por un microscopio y la otra es como un político debatiendo sobre qué es lo justo. Desglosemos un poquito la economía positiva. Como les decía, esta es una rama totalmente objetiva y científica. Se basa 100% en la realidad y en hechos empíricos. Su gran trabajo es describir cómo actúan los fenómenos económicos y las fuerzas que los mueven. Y aquí viene lo más importante de cualquier ciencia. Busca explicar la actividad comercial usando afirmaciones que pueden ser testeadas, aprobadas o en su defecto rechazadas. Si alguien dice subir el precio del pan hará que la gente compre menos pan. Bueno, eso",
+                "inicio_segundos": 290.84,
+                "fin_segundos": 349.56,
+                "segundos": 290,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000152",
+                "segmento_fin": "s000168",
+                "cita": "en total contraste, veamos la economía normativa. Aquí cruzamos la línea hacia el terreno de lo subjetivo. Esta rama define criterios para guiar decisiones, sobre todo cuando los gobiernos hacen política económica, como su objetivo es responder a qué debe hacerse, obviamente está llena de juicios de valor y opiniones personales. Por esto mismo, y mucho ojo aquí, porque es una trampa clásica de examen, la economía normativa deja de ser científica. Sus bases son morales o éticas, por lo que no son absolutamente ni falsas. Decir, el PAN debería ser gratis para todo el mundo es una opinión superválida, claro, pero no se puede comprobar como un hecho",
+                "inicio_segundos": 349.56,
+                "fin_segundos": 391.59900000000005,
+                "segundos": 349,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              }
+            ],
+            "source_integrity": "exact_lesson_course_and_youtube_id",
+            "validation": "plain_text_and_literal_segment_evidence",
+            "factual_review": "source_reviewed_not_human_verified",
+            "playback": "not_verified"
+          }
+        },
+        {
+          "titulo": "1.4 Teoría Económica",
+          "youtube_id": "rIB6N5ipUX4",
+          "pdf_link": "https://drive.google.com/file/d/1rPRzcbXV5uZpfWWa530DPuwT0urVFx21/view",
+          "gratis": true,
+          "lesson_id": "economia_1_t01_v05",
+          "resumen": "La clase presenta la teoría económica como un conjunto de explicaciones sobre los fenómenos económicos y distingue sus dos grandes ámbitos: microeconomía y macroeconomía. Compara el análisis de consumidores, hogares, empresas y precios individuales con el estudio de producción, renta, desempleo y niveles generales de precios. Revisa las preguntas qué, cómo, cuánto y para quién producir. Luego repasa ideas históricas sobre división del trabajo, mercantilismo, capitalismo y socialismo, y presenta el enfoque histórico, inductivo y deductivo para construir principios, leyes y modelos económicos.",
+          "puntos_clave": [
+            "La teoría económica explica fenómenos y se relaciona con la escasez de recursos y el bienestar de la sociedad.",
+            "La microeconomía estudia agentes individuales, como personas, familias y empresas, y decisiones sobre precios, oferta y consumo.",
+            "La macroeconomía analiza variables agregadas como PBI, renta nacional, desempleo y nivel general de precios.",
+            "Los sistemas económicos deben decidir qué, cómo, cuánto y para quién producir; qué producir se vincula con asignar recursos escasos.",
+            "La revisión histórica conecta división del trabajo, acumulación de metales, relaciones entre burguesía y proletariado y surgimiento del socialismo.",
+            "La clase presenta la combinación de enfoques histórico, inductivo y deductivo para formular principios, leyes y modelos."
+          ],
+          "momentos_clave": [
+            {
+              "titulo": "Microeconomía y macroeconomía",
+              "texto": "Se contrastan agentes individuales y variables agregadas con ejemplos cotidianos y nacionales.",
+              "segundos": 168,
+              "youtube_id": "rIB6N5ipUX4",
+              "evidencia": {
+                "segmento_inicio": "s000076",
+                "segmento_fin": "s000096",
+                "cita": "microeconomía estudia el comportamiento de los agentes últimos o entidades individuales. O sea, ¿quiénes son esos famosos agentes? Pues somos nosotros, los individuos, las familias, los hogares y, claro, empresas como la bodega de la esquina o esa fábrica local de zapatos. Estudia cosas superespecíficas como, ¿qué pasa con la demanda si sube el precio del pollo? O cómo afectan los sueldos a nuestras compras diarias. Literalmente es la economía vista con un microscopio. Por el contrario, la macroeconomía estudia la cosa a nivel global, a nivel agregado. Ya no le importa solo una bodega, no, señor, le importa la nación entera. estudia variables enormes como el producto bruto interno, el famosísimo PBI, la tasa de desempleo y el nivel general de precios de todo un país. Esto",
+                "inicio_segundos": 168.8,
+                "fin_segundos": 219.159,
+                "segundos": 168,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Problemas centrales de producción",
+              "texto": "Se presentan las decisiones qué, cómo, cuánto y para quién producir.",
+              "segundos": 275,
+              "youtube_id": "rIB6N5ipUX4",
+              "evidencia": {
+                "segmento_inicio": "s000122",
+                "segmento_fin": "s000140",
+                "cita": "que hablemos de micro o de macro, todo sistema económico en el mundo se enfrenta a problemas centrales que tiene que resolver sí o sí. Y esto ilustra de manera brillante de qué trata realmente la economía en la práctica. Son cuatro preguntas fundamentales. Uno, ¿qué producir? Dos, cómo producir. Tres, cuánto producir. Y cuatro, para quién producir. Ojo aquí, presten muchísima atención a este dato clave. Si en el examen les preguntan específicamente sobre la interrogante qué producir, tienen que marcar de inmediato que esta es una pregunta de carácter estrictamente económico. ¿Por qué? Porque implica tomar la difícil decisión de en qué vamos a gastar nuestros recursos, que como ya vimos son bastante",
+                "inicio_segundos": 275.759,
+                "fin_segundos": 317.479,
+                "segundos": 275,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Doctrinas y sistemas económicos",
+              "texto": "Se revisan ideas históricas sobre división del trabajo, riqueza, capitalismo y socialismo.",
+              "segundos": 331,
+              "youtube_id": "rIB6N5ipUX4",
+              "evidencia": {
+                "segmento_inicio": "s000149",
+                "segmento_fin": "s000176",
+                "cita": "A ver, tenemos siglos de historia resumidos de una forma infalible para el examen. Primero, viajamos a la antigüedad. Si en la prueba le sueltan la afirmación, \"La existencia de las ciudades se origina por la división del trabajo, la respuesta automática debe ser un solo nombre, Platón\". Él fue el genio que conectó estos dos conceptos. Luego avanzamos en el tiempo hasta la doctrina mercantilista. Su creencia principal era facilísima de recordar. Esta gente quería conservar la riqueza monetaria acumulando metales preciosos, o sea, puro oro y plata. Nada más les importaba. Después entramos de lleno a la era industrial con el modo de producción capitalista. Su rasgo principal, según la teoría que viene en el examen, es la existencia y la dinámica entre dos clases sociales, la burguesía y el proletariado. Finalmente, en el siglo XIX, como respuesta a la opresión de esa clase trabajadora y",
+                "inicio_segundos": 331.56,
+                "fin_segundos": 393.88,
+                "segundos": 331,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Enfoques para estudiar la economía",
+              "texto": "Se expone la combinación de análisis histórico, inductivo y deductivo.",
+              "segundos": 396,
+              "youtube_id": "rIB6N5ipUX4",
+              "evidencia": {
+                "segmento_inicio": "s000179",
+                "segmento_fin": "s000191",
+                "cita": "Ahora, antes de saltar a los trucos finales, hay un detalle técnico metodológico que se nos podría escapar y suele ser una trampa. ¿Cómo hace exactamente la economía para establecer todos estos principios, leyes o modelos de los que hemos estado hablando? Bueno, no usa solo la deducción o solo la inducción. La economía emplea un modelo combinado de tres partes. Anótenlo bien en la mente. Emplea el modelo histórico, inductivo, deductivo. Esa tríada exacta es la respuesta que deben marcar en",
+                "inicio_segundos": 396.4,
+                "fin_segundos": 429.36,
+                "segundos": 396,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            }
+          ],
+          "duracion_segundos": 489,
+          "summary_provenance": {
+            "model": "Codex",
+            "prompt_version": "cachimboz-economia-additions-20261011",
+            "generated_at": "2026-10-11T23:36:17.222Z",
+            "source_sha256": "6271c1b6ade44b62d23c404183bcaed730f7e192346281cdd4a124f811331cea",
+            "transcript_segments_sha256": "49499c11051f468cd0bd8dead674c38be3122499ae7488ba9f1cc217a1e45666",
+            "key_point_evidence": [
+              {
+                "segmento_inicio": "s000039",
+                "segmento_fin": "s000060",
+                "cita": "simples, ¿qué es la teoría económica? Básicamente es todo ese cuerpo teórico que usan los economistas para explicar los fenómenos que vemos todos los días a nuestro alrededor. Y aquí viene nuestro primer traductor de Jerga. En el examen siempre, pero siempre preguntan qué tipo de ciencia es la economía. La respuesta segura, la que tienen que marcar a ojos cerrados es una ciencia social. ¿Y cuál es su gran dolor de cabeza o su problema principal? La escasez de recursos. Traducido a la vida real, escasez significa que nuestros bolsillos y los recursos del planeta no son infinitos, lamentablemente, pero nuestros deseos humanos, uf, eso sí que no tienen fin. Entonces, la economía busca resolver este tremendo problema de escasez con un objetivo práctico clarísimo, que es el bienestar general de la sociedad, o sea, busca que todos estemos lo mejor",
+                "inicio_segundos": 87.119,
+                "fin_segundos": 136.519,
+                "segundos": 87,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000076",
+                "segmento_fin": "s000087",
+                "cita": "microeconomía estudia el comportamiento de los agentes últimos o entidades individuales. O sea, ¿quiénes son esos famosos agentes? Pues somos nosotros, los individuos, las familias, los hogares y, claro, empresas como la bodega de la esquina o esa fábrica local de zapatos. Estudia cosas superespecíficas como, ¿qué pasa con la demanda si sube el precio del pollo? O cómo afectan los sueldos a nuestras compras diarias. Literalmente es la",
+                "inicio_segundos": 168.8,
+                "fin_segundos": 197.48000000000002,
+                "segundos": 168,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000089",
+                "segmento_fin": "s000120",
+                "cita": "el contrario, la macroeconomía estudia la cosa a nivel global, a nivel agregado. Ya no le importa solo una bodega, no, señor, le importa la nación entera. estudia variables enormes como el producto bruto interno, el famosísimo PBI, la tasa de desempleo y el nivel general de precios de todo un país. Esto es como ver la economía desde un satélite. Veamos las diferencias exactas que los evaluadores de admisión aman poner en las opciones múltiples. Así que mucha atención a esto. En microeconomía se trabaja con variables individuales como el precio de un solo producto, la oferta de una empresa o los salarios. Su análisis se hace de abajo hacia arriba y es superútil para determinar el precio de una mercancía y de factores como la tierra, la mano de obra y el capital. Ahora, en la otra esquina, la macroeconomía trabaja con variables agregadas. Su alcance es masivo, incluye la renta nacional y",
+                "inicio_segundos": 197.48,
+                "fin_segundos": 275.759,
+                "segundos": 197,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000122",
+                "segmento_fin": "s000140",
+                "cita": "que hablemos de micro o de macro, todo sistema económico en el mundo se enfrenta a problemas centrales que tiene que resolver sí o sí. Y esto ilustra de manera brillante de qué trata realmente la economía en la práctica. Son cuatro preguntas fundamentales. Uno, ¿qué producir? Dos, cómo producir. Tres, cuánto producir. Y cuatro, para quién producir. Ojo aquí, presten muchísima atención a este dato clave. Si en el examen les preguntan específicamente sobre la interrogante qué producir, tienen que marcar de inmediato que esta es una pregunta de carácter estrictamente económico. ¿Por qué? Porque implica tomar la difícil decisión de en qué vamos a gastar nuestros recursos, que como ya vimos son bastante",
+                "inicio_segundos": 275.759,
+                "fin_segundos": 317.479,
+                "segundos": 275,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000149",
+                "segmento_fin": "s000176",
+                "cita": "A ver, tenemos siglos de historia resumidos de una forma infalible para el examen. Primero, viajamos a la antigüedad. Si en la prueba le sueltan la afirmación, \"La existencia de las ciudades se origina por la división del trabajo, la respuesta automática debe ser un solo nombre, Platón\". Él fue el genio que conectó estos dos conceptos. Luego avanzamos en el tiempo hasta la doctrina mercantilista. Su creencia principal era facilísima de recordar. Esta gente quería conservar la riqueza monetaria acumulando metales preciosos, o sea, puro oro y plata. Nada más les importaba. Después entramos de lleno a la era industrial con el modo de producción capitalista. Su rasgo principal, según la teoría que viene en el examen, es la existencia y la dinámica entre dos clases sociales, la burguesía y el proletariado. Finalmente, en el siglo XIX, como respuesta a la opresión de esa clase trabajadora y",
+                "inicio_segundos": 331.56,
+                "fin_segundos": 393.88,
+                "segundos": 331,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000179",
+                "segmento_fin": "s000191",
+                "cita": "Ahora, antes de saltar a los trucos finales, hay un detalle técnico metodológico que se nos podría escapar y suele ser una trampa. ¿Cómo hace exactamente la economía para establecer todos estos principios, leyes o modelos de los que hemos estado hablando? Bueno, no usa solo la deducción o solo la inducción. La economía emplea un modelo combinado de tres partes. Anótenlo bien en la mente. Emplea el modelo histórico, inductivo, deductivo. Esa tríada exacta es la respuesta que deben marcar en",
+                "inicio_segundos": 396.4,
+                "fin_segundos": 429.36,
+                "segundos": 396,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              }
+            ],
+            "source_integrity": "exact_lesson_course_and_youtube_id",
+            "validation": "plain_text_and_literal_segment_evidence",
+            "factual_review": "source_reviewed_not_human_verified",
+            "playback": "not_verified"
+          }
+        },
+        {
+          "titulo": "1.5 Síntesis del tema",
           "youtube_id": "Qd7vzyrVLOc",
           "pdf_link": "https://drive.google.com/file/d/1rPRzcbXV5uZpfWWa530DPuwT0urVFx21/view",
-          "gratis": true
+          "gratis": true,
+          "lesson_id": "economia_1_t01_v01"
         }
       ]
     },
@@ -1644,10 +2303,497 @@
       ],
       "videos": [
         {
-          "titulo": "2.1 Video",
+          "titulo": "2.1 Concepto y Origen",
+          "youtube_id": "QTPv2x6qj5A",
+          "pdf_link": "https://drive.google.com/file/d/1rqMpa1T1IEqr-Cmqp6ux3BDbdgH_7Lvo/view",
+          "gratis": true,
+          "lesson_id": "economia_1_t02_v02",
+          "resumen": "La clase define una necesidad como una sensación de carencia acompañada del deseo de satisfacerla mediante bienes o servicios y señala que el bienestar es relativo entre personas. Explica tres orígenes de las necesidades: exigencias biológicas, desarrollo de la sociedad y desequilibrios en la generación de riqueza. Después presenta la jerarquía de Maslow en cinco niveles: fisiología, seguridad, pertenencia social, estima y autorrealización. Dentro de la estima distingue la valoración interna, como confianza e independencia, de la búsqueda externa de reconocimiento, estatus y atención.",
+          "puntos_clave": [
+            "Una necesidad combina sensación de carencia y deseo de satisfacerla mediante un bien o servicio; el bienestar es relativo.",
+            "La aparición de nuevas necesidades y la disponibilidad limitada de recursos forman parte del problema económico.",
+            "Las necesidades pueden originarse en exigencias biológicas, desarrollo social y desequilibrios en la generación de riqueza.",
+            "El modelo de Maslow organiza necesidades fisiológicas, de seguridad, sociales, de estima y de autorrealización.",
+            "La estima alta se vincula con confianza, independencia y valoración interna; la baja, con atención, estatus y reconocimiento externo."
+          ],
+          "momentos_clave": [
+            {
+              "titulo": "Concepto de necesidad",
+              "texto": "Se relacionan carencia, deseo de satisfacción y carácter relativo del bienestar.",
+              "segundos": 59,
+              "youtube_id": "QTPv2x6qj5A",
+              "evidencia": {
+                "segmento_inicio": "s000031",
+                "segmento_fin": "s000045",
+                "cita": "En palabras sers simples, ¿qué es exactamente una necesidad? Básicamente es la combinación de dos cosas. Primero, sentir una sensación muy desagradable de que nos falta algo, ya sea algo físico o algo más espiritual. Y segundo, tener ese deseo activo de solucionarlo consiguiendo un bien o un servicio. O sea, el cuerpo o la mente piden algo para sobrevivir o desarrollarse y buscamos cómo apagar esa urgencia. Y un dato clave aquí, las necesidades son superrelativas. Lo que para una persona representa un bienestar absoluto, para otra puede no significar nada. No todos",
+                "inicio_segundos": 59.12,
+                "fin_segundos": 89,
+                "segundos": 59,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Orígenes de las necesidades",
+              "texto": "Se explican exigencia biológica, desarrollo social y desigualdad económica.",
+              "segundos": 125,
+              "youtube_id": "QTPv2x6qj5A",
+              "evidencia": {
+                "segmento_inicio": "s000066",
+                "segmento_fin": "s000106",
+                "cita": "Para el examen de admisión hay que tener clarísimos tres orígenes formales. El primero es facilísimo, la exigencia biológica. Nuestro cuerpo es una máquina y necesita combustible. Si pasamos horas estudiando a tope, el cuerpo gasta energía y boom, aparece el hambre. es pura supervivencia básica. Pero los otros dos motivos requieren un análisis un poco más profundo, así que vamos a traducirlos. El segundo origen se llama desarrollo permanente de la sociedad. Usemos nuestro traductor de Herga para entender esto. En el mundo real significa que cuando la sociedad avanza y la gente empieza a ganar un poquito más, ya no se conforma con lo básico. Antes la familia se reunía a ver las noticias en una caja enorme en blanco y negro. Luego la sociedad se desarrolló y quisieron una televisión a color. Luego el control remoto. Hoy si no es una pantalla plana gigante y con internet, simplemente no",
+                "inicio_segundos": 125.96,
+                "fin_segundos": 203.319,
+                "segundos": 125,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Los cinco niveles de Maslow",
+              "texto": "Se recorre la jerarquía desde necesidades fisiológicas hasta autorrealización.",
+              "segundos": 203,
+              "youtube_id": "QTPv2x6qj5A",
+              "evidencia": {
+                "segmento_inicio": "s000108",
+                "segmento_fin": "s000145",
+                "cita": "Okay, ya sabemos que es una necesidad y de dónde sale, pero ¿cómo organizamos todo este caos de deseos en nuestra mente? Aquí es donde entra un peso pesado. El psicólogo estadounidense Abraham Maslow. En el año 1943 él publicó un libro clave llamado Una teoría sobre la motivación humana. Su idea fue brillante. Dijo que nuestras necesidades funcionan literalmente como una pirámide. Abajo en la base están las más urgentes y arriba en la punta las más opcionales. Y la regla de oro, la que no pueden olvidar, es esta. No te va a importar en absoluto lo que está en la cima si no has cubierto y asegurado primero lo que está en la base. Lógica pura. Vamos a escalar esta famosa pirámide nivel por nivel. Mucha atención acá. Nivel uno, necesidades fisiológicas. Respirar, comer, dormir. Sin esto no hay historia. es supervivencia primaria. Nivel dos, seguridad. Una vez que tienes la panza llena,",
+                "inicio_segundos": 203.319,
+                "fin_segundos": 282.44,
+                "segundos": 203,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Estima alta y baja",
+              "texto": "Se diferencia autoestima y confianza de reconocimiento externo y estatus.",
+              "segundos": 282,
+              "youtube_id": "QTPv2x6qj5A",
+              "evidencia": {
+                "segmento_inicio": "s000147",
+                "segmento_fin": "s000160",
+                "cita": "en alerta porque aquí está la clásica trampa de los exámenes de admisión. El nivel cuatro, el de la estima, Maslow lo dividió en dos categorías completamente distintas. Por un lado, tenemos la estima alta, que es un proceso 100% interno. Se trata de tu amor propio, de tener confianza en ti mismo y de sentirte independiente y libre. Pero por otro lado está la estima baja y esto es puramente externo. Tiene que ver con lo que el resto opina. Buscar estatus, tener sed de atención, que te respeten los demás y que te aplaudan. Son polos",
+                "inicio_segundos": 282.44,
+                "fin_segundos": 312.36,
+                "segundos": 282,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            }
+          ],
+          "duracion_segundos": 387,
+          "summary_provenance": {
+            "model": "Codex",
+            "prompt_version": "cachimboz-economia-additions-20261011",
+            "generated_at": "2026-10-11T23:36:17.223Z",
+            "source_sha256": "d699a4bb15a379f1245c5b0ce5156658da2ad812a0760d83967aa8236096feb8",
+            "transcript_segments_sha256": "6749b96fcde347144beb3cec7d2ebde6157da42f143a463559323b45d1fabd4d",
+            "key_point_evidence": [
+              {
+                "segmento_inicio": "s000031",
+                "segmento_fin": "s000045",
+                "cita": "En palabras sers simples, ¿qué es exactamente una necesidad? Básicamente es la combinación de dos cosas. Primero, sentir una sensación muy desagradable de que nos falta algo, ya sea algo físico o algo más espiritual. Y segundo, tener ese deseo activo de solucionarlo consiguiendo un bien o un servicio. O sea, el cuerpo o la mente piden algo para sobrevivir o desarrollarse y buscamos cómo apagar esa urgencia. Y un dato clave aquí, las necesidades son superrelativas. Lo que para una persona representa un bienestar absoluto, para otra puede no significar nada. No todos",
+                "inicio_segundos": 59.12,
+                "fin_segundos": 89,
+                "segundos": 59,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000047",
+                "segmento_fin": "s000062",
+                "cita": "Y aquí es donde la cosa se pone interesante, porque chocamos contra una pared gigante, el problema económico central. Por un lado, resulta que las necesidades humanas son infinitas, jamás dejan de aparecer. Solucionamos un problema y automáticamente salta otro nuevo. Pero por otro lado, los recursos que tiene el planeta para satisfacer esos antojos, así como los billetes en nuestra billetera, son finitos. Hay un límite concreto y de esto se trata la economía. Es la ciencia que se rompe la cabeza tratando de resolver esta relación casi imposible entre unos deseos que no tienen fin y unos recursos",
+                "inicio_segundos": 89,
+                "fin_segundos": 121.71900000000001,
+                "segundos": 89,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000066",
+                "segmento_fin": "s000106",
+                "cita": "Para el examen de admisión hay que tener clarísimos tres orígenes formales. El primero es facilísimo, la exigencia biológica. Nuestro cuerpo es una máquina y necesita combustible. Si pasamos horas estudiando a tope, el cuerpo gasta energía y boom, aparece el hambre. es pura supervivencia básica. Pero los otros dos motivos requieren un análisis un poco más profundo, así que vamos a traducirlos. El segundo origen se llama desarrollo permanente de la sociedad. Usemos nuestro traductor de Herga para entender esto. En el mundo real significa que cuando la sociedad avanza y la gente empieza a ganar un poquito más, ya no se conforma con lo básico. Antes la familia se reunía a ver las noticias en una caja enorme en blanco y negro. Luego la sociedad se desarrolló y quisieron una televisión a color. Luego el control remoto. Hoy si no es una pantalla plana gigante y con internet, simplemente no",
+                "inicio_segundos": 125.96,
+                "fin_segundos": 203.319,
+                "segundos": 125,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000108",
+                "segmento_fin": "s000145",
+                "cita": "Okay, ya sabemos que es una necesidad y de dónde sale, pero ¿cómo organizamos todo este caos de deseos en nuestra mente? Aquí es donde entra un peso pesado. El psicólogo estadounidense Abraham Maslow. En el año 1943 él publicó un libro clave llamado Una teoría sobre la motivación humana. Su idea fue brillante. Dijo que nuestras necesidades funcionan literalmente como una pirámide. Abajo en la base están las más urgentes y arriba en la punta las más opcionales. Y la regla de oro, la que no pueden olvidar, es esta. No te va a importar en absoluto lo que está en la cima si no has cubierto y asegurado primero lo que está en la base. Lógica pura. Vamos a escalar esta famosa pirámide nivel por nivel. Mucha atención acá. Nivel uno, necesidades fisiológicas. Respirar, comer, dormir. Sin esto no hay historia. es supervivencia primaria. Nivel dos, seguridad. Una vez que tienes la panza llena,",
+                "inicio_segundos": 203.319,
+                "fin_segundos": 282.44,
+                "segundos": 203,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000147",
+                "segmento_fin": "s000160",
+                "cita": "en alerta porque aquí está la clásica trampa de los exámenes de admisión. El nivel cuatro, el de la estima, Maslow lo dividió en dos categorías completamente distintas. Por un lado, tenemos la estima alta, que es un proceso 100% interno. Se trata de tu amor propio, de tener confianza en ti mismo y de sentirte independiente y libre. Pero por otro lado está la estima baja y esto es puramente externo. Tiene que ver con lo que el resto opina. Buscar estatus, tener sed de atención, que te respeten los demás y que te aplaudan. Son polos",
+                "inicio_segundos": 282.44,
+                "fin_segundos": 312.36,
+                "segundos": 282,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              }
+            ],
+            "source_integrity": "exact_lesson_course_and_youtube_id",
+            "validation": "plain_text_and_literal_segment_evidence",
+            "factual_review": "source_reviewed_not_human_verified",
+            "playback": "not_verified"
+          }
+        },
+        {
+          "titulo": "2.2 Leyes de Necesidades",
+          "youtube_id": "I8Hb8Je4j64",
+          "pdf_link": "https://drive.google.com/file/d/1rqMpa1T1IEqr-Cmqp6ux3BDbdgH_7Lvo/view",
+          "gratis": true,
+          "lesson_id": "economia_1_t02_v03",
+          "resumen": "La clase presenta siete leyes de las necesidades como patrones económicos relativos, no como reglas que se cumplen de forma idéntica en todos los casos. Explica la infinidad en número, la saturación o capacidad limitada, la variación de intensidad, la concurrencia, la complementariedad, la equivalencia o sustitución y la fijación. Utiliza ejemplos de alimentación, presupuesto familiar, estudio, bebidas y uso de electricidad para distinguirlas. Relaciona la saturación con Gossen y con la disminución del deseo conforme se satisface una necesidad, y muestra cómo la repetición de una forma de satisfacción puede convertirse en hábito.",
+          "puntos_clave": [
+            "Las leyes de las necesidades describen patrones relativos del comportamiento humano y no reglas matemáticas universales.",
+            "La infinidad en número se relaciona con nuevas necesidades que aparecen por el desarrollo técnico y científico.",
+            "La saturación expresa una capacidad limitada de satisfacción; la primera ley de Gossen relaciona satisfacción y disminución del deseo.",
+            "La intensidad distingue urgencias; la concurrencia describe necesidades simultáneas que obligan a priorizar un presupuesto limitado.",
+            "La complementariedad significa que satisfacer una necesidad puede requerir varios bienes o condiciones que se utilizan juntos.",
+            "La equivalencia o sustitución permite satisfacer una misma necesidad mediante bienes alternativos.",
+            "La fijación describe cómo la repetición de una forma de satisfacción puede convertirse en hábito o costumbre."
+          ],
+          "momentos_clave": [
+            {
+              "titulo": "Infinidad y saturación",
+              "texto": "Se diferencia la aparición de nuevas necesidades del límite de satisfacción de una necesidad concreta.",
+              "segundos": 121,
+              "youtube_id": "I8Hb8Je4j64",
+              "evidencia": {
+                "segmento_inicio": "s000062",
+                "segmento_fin": "s000108",
+                "cita": "traductor de Jerga, pensemos en esto. Hace 50 años absolutamente nadie sentía la urgencia o la necesidad de tener un smartphone o una laptop. Hoy la verdad es que parece imposible vivir sin ellos. ¿Por qué pasa esto? Por el descubrimiento continuo de nuevos recursos y por el arrollador progreso técnico y científico. A esto, la economía formalmente lo llama la ley de la infinidad de las necesidades o ilimitadas en número. El ser humano nunca tiene un solo deseo estático, están en constante aumento. Básicamente, a medida que cubrimos nuestras necesidades inmediatas, la tecnología nos crea unas nuevas. Ahora, cambiemos de escenario y visualicen a un obrero después de una jornada larguísima de construcción bajo el sol. tiene muchísima hambre y muchísima sed. Se come un pan, luego otro y se toma un vaso de agua. La pregunta es, ¿podría comerse 100 panes de una sola sentada? Obviamente no,",
+                "inicio_segundos": 121.36,
+                "fin_segundos": 212.599,
+                "segundos": 121,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Intensidad y concurrencia",
+              "texto": "Se explican urgencia, necesidades simultáneas y prioridades de gasto.",
+              "segundos": 212,
+              "youtube_id": "I8Hb8Je4j64",
+              "evidencia": {
+                "segmento_inicio": "s000110",
+                "segmento_fin": "s000145",
+                "cita": "con nuestro desarrollo, nos topamos con la ley de la variación en intensidad. Imaginen esto. Les ofrecen ir a la fiesta más exclusiva del año, pero llevan 3 días sin probar bocado. La elección es obvia, ¿verdad? Y es que no todas las necesidades se presentan con la misma urgencia. Las de orden biológico, como alimentarse o abrigarse, son abrumadoramente más urgentes. Solo después de aplacar esa emergencia de supervivencia, el individuo va a decidir si dedica su tiempo a leer un buen libro, comprar ropa de moda o irse de fiesta. La intensidad de lo que necesitamos varía enormemente. Entramos a la sección tres. Continuamos con el desarrollo magistral, esta vez enfocándonos en las últimas leyes y el control del presupuesto. Mantengamos esa energía a tope. Vamos a ver cómo se administra un presupuesto limitado en la cruda realidad. Pensemos en cualquier fin de mes. Llega el recibo de la",
+                "inicio_segundos": 212.599,
+                "fin_segundos": 281.19899999999996,
+                "segundos": 212,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Complementariedad y sustitución",
+              "texto": "Se contrastan bienes que se necesitan conjuntamente y alternativas para una misma necesidad.",
+              "segundos": 279,
+              "youtube_id": "I8Hb8Je4j64",
+              "evidencia": {
+                "segmento_inicio": "s000146",
+                "segmento_fin": "s000175",
+                "cita": "El punto clave aquí es entender que las necesidades casi nunca viajan solas, viajan en combo. Para tomarse una sopa, sí o sí necesitan la cuchara y el plato. Para sentarse a estudiar y realmente concentrarse para un examen, no es suficiente contener aulas modernas o la computadora más cara. Se precisan alimentos, buena iluminación en casa, tranquilidad, libros. A esto formalmente se le conoce como la ley de la complementariedad en la satisfacción. Básicamente, cumplir un solo objetivo requiere juntar y armar múltiples piezas. Y esto nos ilustra brillantemente la regla número seis. conocida como la ley de la equivalencia económica o también ley de la sustitución. Si tienen muchísima sed y abren la refrigeradora, pero no hay agua, el ser humano no se tire al piso a rendirse. Inmediatamente buscamos sustituir la forma de satisfacer esa misma necesidad, ya sea tomando una gaseosa, un té,",
+                "inicio_segundos": 279.52,
+                "fin_segundos": 336.44,
+                "segundos": 279,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Fijación de las necesidades",
+              "texto": "El uso repetido de nuevas formas de satisfacción se relaciona con hábitos.",
+              "segundos": 336,
+              "youtube_id": "I8Hb8Je4j64",
+              "evidencia": {
+                "segmento_inicio": "s000177",
+                "segmento_fin": "s000193",
+                "cita": "Finalmente llegamos a la séptima, la ley de la fijación, explicada de forma magistral desde el enfoque de la economía subjetiva. Fíjense en esta línea de tiempo. Un pequeño pueblo rural instala energía eléctrica por primerísima vez. De pronto, como novedad, prenden la televisión, leen por las noches, se quedan despiertos hasta tarde. Lo que empezó simplemente como una curiosidad nueva, con el tiempo y la repetición constante se convierte en un hábito de vida, en una costumbre que luego es superdfícil de quitar. Es decir, la forma en cómo satisfacemos una necesidad tiende a fijarse permanentemente en nuestro",
+                "inicio_segundos": 336.44,
+                "fin_segundos": 368.599,
+                "segundos": 336,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            }
+          ],
+          "duracion_segundos": 463,
+          "summary_provenance": {
+            "model": "Codex",
+            "prompt_version": "cachimboz-economia-additions-20261011",
+            "generated_at": "2026-10-11T23:36:17.224Z",
+            "source_sha256": "9f24a0d9ab426f010b1c5a652fb149fc8c931421a13a2952f7bab87652e064c9",
+            "transcript_segments_sha256": "8b20ed1f57df262d2770cc1c9f9ce8034a083eef7d43a980587ac6dafcd5e3b7",
+            "key_point_evidence": [
+              {
+                "segmento_inicio": "s000043",
+                "segmento_fin": "s000056",
+                "cita": "eso, entramos a nuestra nivelación de 0 a 100. En palabras simples, esto significa que el comportamiento humano no es para nada aleatorio. Lo que llamamos leyes de las necesidades son en realidad patrones. Son relaciones económicas regulares que nos muestran cómo las personas intentan saciar sus deseos. Pero ojo aquí un detalle importantísimo. Estas leyes son relativas, no son como una regla matemática exacta que se cumple siempre para cada necesidad del universo, sino que marcan la tendencia general del ser",
+                "inicio_segundos": 84.56,
+                "fin_segundos": 112.719,
+                "segundos": 84,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000062",
+                "segmento_fin": "s000077",
+                "cita": "traductor de Jerga, pensemos en esto. Hace 50 años absolutamente nadie sentía la urgencia o la necesidad de tener un smartphone o una laptop. Hoy la verdad es que parece imposible vivir sin ellos. ¿Por qué pasa esto? Por el descubrimiento continuo de nuevos recursos y por el arrollador progreso técnico y científico. A esto, la economía formalmente lo llama la ley de la infinidad de las necesidades o ilimitadas en número. El ser humano nunca tiene un solo deseo estático, están en constante aumento. Básicamente, a medida que cubrimos nuestras necesidades inmediatas, la tecnología",
+                "inicio_segundos": 121.36,
+                "fin_segundos": 152.2,
+                "segundos": 121,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000079",
+                "segmento_fin": "s000108",
+                "cita": "de escenario y visualicen a un obrero después de una jornada larguísima de construcción bajo el sol. tiene muchísima hambre y muchísima sed. Se come un pan, luego otro y se toma un vaso de agua. La pregunta es, ¿podría comerse 100 panes de una sola sentada? Obviamente no, porque el cuerpo humano tiene un tope biológico y justo ahí entra la ley de saturación de las necesidades o limitadas en capacidad. Esto significa sencillamente que para satisfacer un deseo basta con una cantidad determinada de ese bien, hasta que nuestro organismo físico simplemente dice, \"Basta, no entra más.\" Y lo que me parece fascinante aquí es el peso histórico detrás de algo tan cotidiano. Esta idea es tan pero tan fundamental que lleva el nombre de un tremendo economista, Herman Heinrich Gosen, quien vivió entre 1810 y 1858. En cualquier manual de historia económica que revisen, esto se conoce como la primera",
+                "inicio_segundos": 152.2,
+                "fin_segundos": 212.599,
+                "segundos": 152,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000110",
+                "segmento_fin": "s000145",
+                "cita": "con nuestro desarrollo, nos topamos con la ley de la variación en intensidad. Imaginen esto. Les ofrecen ir a la fiesta más exclusiva del año, pero llevan 3 días sin probar bocado. La elección es obvia, ¿verdad? Y es que no todas las necesidades se presentan con la misma urgencia. Las de orden biológico, como alimentarse o abrigarse, son abrumadoramente más urgentes. Solo después de aplacar esa emergencia de supervivencia, el individuo va a decidir si dedica su tiempo a leer un buen libro, comprar ropa de moda o irse de fiesta. La intensidad de lo que necesitamos varía enormemente. Entramos a la sección tres. Continuamos con el desarrollo magistral, esta vez enfocándonos en las últimas leyes y el control del presupuesto. Mantengamos esa energía a tope. Vamos a ver cómo se administra un presupuesto limitado en la cruda realidad. Pensemos en cualquier fin de mes. Llega el recibo de la",
+                "inicio_segundos": 212.599,
+                "fin_segundos": 281.19899999999996,
+                "segundos": 212,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000146",
+                "segmento_fin": "s000159",
+                "cita": "El punto clave aquí es entender que las necesidades casi nunca viajan solas, viajan en combo. Para tomarse una sopa, sí o sí necesitan la cuchara y el plato. Para sentarse a estudiar y realmente concentrarse para un examen, no es suficiente contener aulas modernas o la computadora más cara. Se precisan alimentos, buena iluminación en casa, tranquilidad, libros. A esto formalmente se le conoce como la ley de la complementariedad en la satisfacción. Básicamente, cumplir un solo objetivo requiere juntar y armar múltiples",
+                "inicio_segundos": 279.52,
+                "fin_segundos": 307.03900000000004,
+                "segundos": 279,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000161",
+                "segmento_fin": "s000175",
+                "cita": "brillantemente la regla número seis. conocida como la ley de la equivalencia económica o también ley de la sustitución. Si tienen muchísima sed y abren la refrigeradora, pero no hay agua, el ser humano no se tire al piso a rendirse. Inmediatamente buscamos sustituir la forma de satisfacer esa misma necesidad, ya sea tomando una gaseosa, un té, café o hasta leche. Tenemos una tendencia natural a buscar bienes sustitutos todo el tiempo. Si el precio del pollo se dispara, los mercados mágicamente se llenan de pescado. La necesidad es la misma, pero",
+                "inicio_segundos": 307.039,
+                "fin_segundos": 336.44,
+                "segundos": 307,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000177",
+                "segmento_fin": "s000193",
+                "cita": "Finalmente llegamos a la séptima, la ley de la fijación, explicada de forma magistral desde el enfoque de la economía subjetiva. Fíjense en esta línea de tiempo. Un pequeño pueblo rural instala energía eléctrica por primerísima vez. De pronto, como novedad, prenden la televisión, leen por las noches, se quedan despiertos hasta tarde. Lo que empezó simplemente como una curiosidad nueva, con el tiempo y la repetición constante se convierte en un hábito de vida, en una costumbre que luego es superdfícil de quitar. Es decir, la forma en cómo satisfacemos una necesidad tiende a fijarse permanentemente en nuestro",
+                "inicio_segundos": 336.44,
+                "fin_segundos": 368.599,
+                "segundos": 336,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              }
+            ],
+            "source_integrity": "exact_lesson_course_and_youtube_id",
+            "validation": "plain_text_and_literal_segment_evidence",
+            "factual_review": "source_reviewed_not_human_verified",
+            "playback": "not_verified"
+          }
+        },
+        {
+          "titulo": "2.3 Clasificación y Procesos",
+          "youtube_id": "8rvSYBpoGNw",
+          "pdf_link": "https://drive.google.com/file/d/1rqMpa1T1IEqr-Cmqp6ux3BDbdgH_7Lvo/view",
+          "gratis": true,
+          "lesson_id": "economia_1_t02_v04",
+          "resumen": "La clase distingue necesidad, entendida como carencia, de deseo, entendido como representación mental del bien que permitiría satisfacerla. Clasifica necesidades por intensidad en primarias, secundarias y terciarias; por naturaleza en materiales y espirituales; por satisfacción en individuales y colectivas; y por tiempo en presentes y futuras. Señala la importancia del contexto y del ingreso al evaluar necesidades de lujo. Finalmente desarrolla cuatro fases del proceso de satisfacción: sensación de carencia, deseo, exigencia o esfuerzo físico y mental, y satisfacción, con ejemplos de alimentación, estudio y servicios colectivos.",
+          "puntos_clave": [
+            "La necesidad es una carencia física o psicológica; el deseo es la representación mental del objeto que permitiría satisfacerla.",
+            "Por intensidad, la clase distingue necesidades primarias, secundarias y terciarias; la consideración del lujo depende del contexto y del ingreso.",
+            "Por naturaleza, se distinguen necesidades materiales o biológicas de necesidades espirituales o psicológicas.",
+            "Las necesidades individuales afectan a una persona; las colectivas corresponden a grupos o a la sociedad y pueden atenderse mediante actividad estatal.",
+            "Las necesidades presentes requieren atención inmediata; las futuras implican previsión, ahorro y planificación.",
+            "El proceso de satisfacción se organiza en carencia, deseo, exigencia o esfuerzo, y satisfacción."
+          ],
+          "momentos_clave": [
+            {
+              "titulo": "Necesidad y deseo",
+              "texto": "Se diferencia sensación de carencia de la imagen del bien que podría resolverla.",
+              "segundos": 40,
+              "youtube_id": "8rvSYBpoGNw",
+              "evidencia": {
+                "segmento_inicio": "s000019",
+                "segmento_fin": "s000036",
+                "cita": "día a día, usamos necesidad y deseo como si fueran exactamente lo mismo. Pero cuidado, porque en un examen de admisión esto es una trampa mortal. La necesidad es la carencia, es esa alarma, esa sensación física o psicológica de que algo nos falta. El desequilibrio total. En cambio, el deseo es la imagen, la representación mental del objeto que va a pagar esa alarma. Imagínense caminando bajo un sol tremendo al mediodía. La garganta seca. Esa es la carencia, la necesidad biológica. Pero de repente el cerebro se imagina una gaseosa helada o un vaso gigante de chicha morada. Esa imagen mental específica, eso es el deseo. Es vital grabar esta dupla en la memoria. La carencia es la necesidad y",
+                "inicio_segundos": 40.76,
+                "fin_segundos": 90.03999999999999,
+                "segundos": 40,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Clasificación por intensidad",
+              "texto": "Se describen necesidades primarias, secundarias y terciarias con ejemplos y contexto económico.",
+              "segundos": 93,
+              "youtube_id": "8rvSYBpoGNw",
+              "evidencia": {
+                "segmento_inicio": "s000040",
+                "segmento_fin": "s000072",
+                "cita": "Si hablamos de intensidad, entramos a tres grandes ligas. Primero, las necesidades primarias, en palabras simples, son de vida o muerte. Su satisfacción es totalmente indispensable para la conservación de la vida. Se deben saciar de forma obligatoria y prioritaria. Aquí hablamos de cosas como la alimentación, el vestido, la vivienda y el descanso. Luego, bajando un escalón, tenemos las necesidades secundarias. Ojo aquí al traductor de Gerga. Estas necesidades no mantienen viva la persona, pero sí le permiten vivir bien. Son de carácter más social y psicológico. En los textos académicos las van a encontrar como facultativas. ¿Por qué? Porque de ellas no depende nuestra supervivencia, pero sí mejoran muchísimo nuestro nivel de vida. Aquí entran la educación, tener teléfono, la electricidad, profesar una religión y mucha atención con esta trampa clásica porque siempre hacen caer a la",
+                "inicio_segundos": 93.68,
+                "fin_segundos": 173.159,
+                "segundos": 93,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Satisfacción y tiempo",
+              "texto": "Se comparan necesidades individuales y colectivas, así como presentes y futuras.",
+              "segundos": 240,
+              "youtube_id": "8rvSYBpoGNw",
+              "evidencia": {
+                "segmento_inicio": "s000103",
+                "segmento_fin": "s000143",
+                "cita": "según satisfacción y tiempo. Dependiendo de cómo vamos a satisfacer estas necesidades, las separamos en individuales y colectivas. Las individuales afectan a una sola persona de forma independiente. Si alguien tiene ganas de leer un libro o echarse a descansar, pues lo hace por su cuenta y lo resuelve de manera personal. Sin embargo, ¿qué pasa cuando la necesidad golpea a un grupo enorme o a toda la sociedad al mismo tiempo? Ahí entramos a las necesidades colectivas. Y aquí viene un dato clave donde se mezclan economía y educación cívica. Actualmente se considera que le corresponde al Estado satisfacer estas necesidades a través de la actividad colectiva. Ejemplos de manual que hay que tener clarísimos: la seguridad social, la defensa nacional, la administración de justicia, la salud y el orden público. Siguiendo con la clasificación, ahora veamos el tiempo. Tenemos las necesidades",
+                "inicio_segundos": 240.68,
+                "fin_segundos": 330.28000000000003,
+                "segundos": 240,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Fases de satisfacción",
+              "texto": "Se explica la secuencia carencia, deseo, esfuerzo y satisfacción.",
+              "segundos": 330,
+              "youtube_id": "8rvSYBpoGNw",
+              "evidencia": {
+                "segmento_inicio": "s000145",
+                "segmento_fin": "s000167",
+                "cita": "las fases del proceso de satisfacción. Como venimos viendo, las necesidades humanas aparecen de forma individual, pero normalmente la solucionamos haciendo cosas en sociedad. Y todo este conjunto de actividades tiene cuatro fases cronológicas que son inamovibles. Es fundamental memorizar el orden. Fase uno, la sensación o carencia. Es la alerta roja del cuerpo. Por ejemplo, el hambre cruda. Fase dos, el deseo. ¿Qué es cuando en nuestra mente aparece la imagen de ese plato de comida espectacular? Fase tres, la exigencia. Y aquí aplico el traductor de Gerga. De nuevo, en los exámenes a la exigencia casi siempre le llaman esfuerzo físico o mental. Es básicamente el trabajo, la acción de pararse, ir a comprar o cocinar los alimentos. Y por último, la fase cuatro, la satisfacción plena, que es el acto mismo de comer y apagar esa carencia inicial. Resumiendo, carencia,",
+                "inicio_segundos": 330.28,
+                "fin_segundos": 388.24,
+                "segundos": 330,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            }
+          ],
+          "duracion_segundos": 515,
+          "summary_provenance": {
+            "model": "Codex",
+            "prompt_version": "cachimboz-economia-additions-20261011",
+            "generated_at": "2026-10-11T23:36:17.224Z",
+            "source_sha256": "93dbd002cdbbbd28c06c9e6a543a4bb210debbd492cefefb5dc536e6217a1c9c",
+            "transcript_segments_sha256": "e8f7e6d314ddc67efb40d18eb89952daccb53354000cfbf4b90a2708541745fc",
+            "key_point_evidence": [
+              {
+                "segmento_inicio": "s000019",
+                "segmento_fin": "s000036",
+                "cita": "día a día, usamos necesidad y deseo como si fueran exactamente lo mismo. Pero cuidado, porque en un examen de admisión esto es una trampa mortal. La necesidad es la carencia, es esa alarma, esa sensación física o psicológica de que algo nos falta. El desequilibrio total. En cambio, el deseo es la imagen, la representación mental del objeto que va a pagar esa alarma. Imagínense caminando bajo un sol tremendo al mediodía. La garganta seca. Esa es la carencia, la necesidad biológica. Pero de repente el cerebro se imagina una gaseosa helada o un vaso gigante de chicha morada. Esa imagen mental específica, eso es el deseo. Es vital grabar esta dupla en la memoria. La carencia es la necesidad y",
+                "inicio_segundos": 40.76,
+                "fin_segundos": 90.03999999999999,
+                "segundos": 40,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000040",
+                "segmento_fin": "s000083",
+                "cita": "Si hablamos de intensidad, entramos a tres grandes ligas. Primero, las necesidades primarias, en palabras simples, son de vida o muerte. Su satisfacción es totalmente indispensable para la conservación de la vida. Se deben saciar de forma obligatoria y prioritaria. Aquí hablamos de cosas como la alimentación, el vestido, la vivienda y el descanso. Luego, bajando un escalón, tenemos las necesidades secundarias. Ojo aquí al traductor de Gerga. Estas necesidades no mantienen viva la persona, pero sí le permiten vivir bien. Son de carácter más social y psicológico. En los textos académicos las van a encontrar como facultativas. ¿Por qué? Porque de ellas no depende nuestra supervivencia, pero sí mejoran muchísimo nuestro nivel de vida. Aquí entran la educación, tener teléfono, la electricidad, profesar una religión y mucha atención con esta trampa clásica porque siempre hacen caer a la",
+                "inicio_segundos": 93.68,
+                "fin_segundos": 199.04,
+                "segundos": 93,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000085",
+                "segmento_fin": "s000101",
+                "cita": "clasificamos las necesidades por su naturaleza, básicamente dividimos al ser humano en dos partes. Por un lado, las necesidades materiales, corporales o biológicas. Estas surgen un reclamo físico puro y duro de nuestra anatomía. Necesitamos comer, necesitamos beber agua, necesitamos reproducirnos. Es el cuerpo pidiendo auxilio. Pero por otro lado tenemos las necesidades espirituales. Estas ocurren netamente en nuestra cabeza, en nuestro aspecto psicológico interno. Son cosas que no se pueden tocar. Aquí es donde agrupamos la necesidad de sentir afecto, de buscar el aprecio de los demás o nuestras creencias personales, el cuerpo versus",
+                "inicio_segundos": 199.04,
+                "fin_segundos": 240.68,
+                "segundos": 199,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000103",
+                "segmento_fin": "s000123",
+                "cita": "según satisfacción y tiempo. Dependiendo de cómo vamos a satisfacer estas necesidades, las separamos en individuales y colectivas. Las individuales afectan a una sola persona de forma independiente. Si alguien tiene ganas de leer un libro o echarse a descansar, pues lo hace por su cuenta y lo resuelve de manera personal. Sin embargo, ¿qué pasa cuando la necesidad golpea a un grupo enorme o a toda la sociedad al mismo tiempo? Ahí entramos a las necesidades colectivas. Y aquí viene un dato clave donde se mezclan economía y educación cívica. Actualmente se considera que le corresponde al Estado satisfacer estas necesidades a través de la actividad colectiva. Ejemplos de manual que hay que tener clarísimos: la seguridad social, la defensa nacional, la administración de justicia, la salud",
+                "inicio_segundos": 240.68,
+                "fin_segundos": 286.68,
+                "segundos": 240,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000125",
+                "segmento_fin": "s000143",
+                "cita": "clasificación, ahora veamos el tiempo. Tenemos las necesidades presentes, que son las que exigen una solución ya mismo de forma inmediata. Los ejemplos clásicos que suelen venir literal en los exámenes son la necesidad que tiene un estudiante por conseguir un lapicero en este preciso instante para dar su prueba o la necesidad de unas tizas para que un profesor pueda dictar su clase hoy. Por el contrario, las necesidades futuras son mediatas, es decir, requieren paciencia, requieren ahorro y requieren planificación a largo plazo. ejemplos directos, el esfuerzo de lograr una profesión en los próximos 5 años o si lo vemos a nivel macroeconómico, la necesidad de que un país construya una central electronuclear para asegurar su",
+                "inicio_segundos": 286.68,
+                "fin_segundos": 330.28000000000003,
+                "segundos": 286,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000145",
+                "segmento_fin": "s000167",
+                "cita": "las fases del proceso de satisfacción. Como venimos viendo, las necesidades humanas aparecen de forma individual, pero normalmente la solucionamos haciendo cosas en sociedad. Y todo este conjunto de actividades tiene cuatro fases cronológicas que son inamovibles. Es fundamental memorizar el orden. Fase uno, la sensación o carencia. Es la alerta roja del cuerpo. Por ejemplo, el hambre cruda. Fase dos, el deseo. ¿Qué es cuando en nuestra mente aparece la imagen de ese plato de comida espectacular? Fase tres, la exigencia. Y aquí aplico el traductor de Gerga. De nuevo, en los exámenes a la exigencia casi siempre le llaman esfuerzo físico o mental. Es básicamente el trabajo, la acción de pararse, ir a comprar o cocinar los alimentos. Y por último, la fase cuatro, la satisfacción plena, que es el acto mismo de comer y apagar esa carencia inicial. Resumiendo, carencia,",
+                "inicio_segundos": 330.28,
+                "fin_segundos": 388.24,
+                "segundos": 330,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              }
+            ],
+            "source_integrity": "exact_lesson_course_and_youtube_id",
+            "validation": "plain_text_and_literal_segment_evidence",
+            "factual_review": "source_reviewed_not_human_verified",
+            "playback": "not_verified"
+          }
+        },
+        {
+          "titulo": "2.4 Síntesis del tema",
           "youtube_id": "49Ws2ZYUUlc",
           "pdf_link": "https://drive.google.com/file/d/1rqMpa1T1IEqr-Cmqp6ux3BDbdgH_7Lvo/view",
-          "gratis": true
+          "gratis": true,
+          "lesson_id": "economia_1_t02_v01"
         }
       ]
     },
