@@ -3505,10 +3505,555 @@
       ],
       "videos": [
         {
-          "titulo": "3.1 Video",
+          "titulo": "3.1 Concepto y clases de bienes",
+          "youtube_id": "wO2CI2deH-A",
+          "pdf_link": "https://drive.google.com/file/d/1GTKERmYpOjBGiwvJTnELdxDx7IMzGq6n/view",
+          "gratis": true,
+          "lesson_id": "economia_1_t03_v02",
+          "resumen": "La clase introduce los bienes como satisfactores de necesidades y distingue su sentido jurídico de su concepto económico. Explica que la utilidad es la capacidad de satisfacer una necesidad y compara los bienes libres con los económicos a partir de la abundancia o escasez, el esfuerzo humano, la propiedad y el precio. Usa el aire, el agua de los océanos y la energía solar como ejemplos de bienes libres, y el petróleo extraído y transformado como ejemplo de bien económico. También diferencia valor de uso y valor de cambio: ambos tipos de bienes tienen utilidad, aunque la clase atribuye intercambio comercial a los económicos. El cierre plantea cómo la escasez y la necesidad de tratamiento pueden cambiar el análisis del agua de un río.",
+          "puntos_clave": [
+            "La clase presenta los bienes como objetos de derecho y, en su sentido económico, como recursos materiales o inmateriales escasos con valor monetario.",
+            "Los bienes reciben el nombre de satisfactores porque generan utilidad al satisfacer necesidades humanas.",
+            "Los bienes libres se explican mediante su abundancia natural y el acceso sin trabajo de transformación ni pago, con ejemplos como aire y energía solar.",
+            "Los bienes económicos requieren intervención humana y extracción o transformación; el petróleo ilustra ese proceso antes de su venta en el mercado.",
+            "La comparación central contrapone abundancia, gratuidad y ausencia de propietario con escasez, precio y propiedad de los bienes económicos.",
+            "La clase distingue el valor de cambio comercial del valor de uso y subraya que tanto los bienes libres como los económicos tienen utilidad."
+          ],
+          "momentos_clave": [
+            {
+              "titulo": "Concepto de bien y satisfactores",
+              "texto": "Se relacionan los bienes con propiedad, escasez, utilidad y satisfacción de necesidades.",
+              "segundos": 82,
+              "youtube_id": "wO2CI2deH-A",
+              "evidencia": {
+                "segmento_inicio": "s000042",
+                "segmento_fin": "s000070",
+                "cita": "Legalmente los bienes son objetos de derecho. ¿Y eso qué significa? pues que alguien puede ser su dueño legal. Así de simple. Y económicamente son cosas materiales o inmateriales que son escasas, limitadas y por ende tienen un valor monetario. Traduciendo la jerga, si es limitado y cuesta dinero, entonces estamos hablando del concepto económico de un bien. Pasamos a la sección dos, la función de los satisfactores. Acá les voy a revelar un código de trampa pero gigantesco para los exámenes. Presten mucha atención a la raíz de la palabra. viene de latín bene, que literalmente significa bien. La función fundamental, o sea, el propósito de cualquier bien en este planeta es generar utilidad al ser humano al satisfacer sus necesidades. Por lo tanto, y esto quiero que se lo graben a fuego en la mente, el gran sinónimo de examen para la palabra bienes satisfactores. Así que ya saben, si en el",
+                "inicio_segundos": 82.28,
+                "fin_segundos": 140.4,
+                "segundos": 82,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Bienes libres y abundancia natural",
+              "texto": "El aire, el agua de los océanos y la energía solar sirven para explicar el acceso a bienes libres.",
+              "segundos": 146,
+              "youtube_id": "wO2CI2deH-A",
+              "evidencia": {
+                "segmento_inicio": "s000075",
+                "segmento_fin": "s000098",
+                "cita": "un lado, los bienes libres son de acceso ilimitado. Y cuando digo ilimitado es literal, todo el mundo, absolutamente todo el mundo puede acceder a ellos porque son básicamente regalos de la naturaleza. Pero por el otro lado tenemos la otra cara de la moneda, los bienes económicos. Estos para nada son ilimitados, de hecho fueron creados específicamente para intercambiarse en un mercado y el acceso a ellos está restringido, no cualquiera los tiene. Y para que esto quede pero 100% claro y no haya dudas, pensemos en los ejemplos clásicos de bienes libres que siempre vienen en las pruebas. El aire que respiramos, el agua de los océanos, la energía solar que nos calienta por las mañanas. ¿Qué es lo que realmente hace que estos sean bienes libres? Pues que la naturaleza nos los da en abundancia. O sea, requieren cero esfuerzo humano, cero procesos de mercado y lo mejor de todo, cero dinero",
+                "inicio_segundos": 146.36,
+                "fin_segundos": 194.4,
+                "segundos": 146,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Esfuerzo humano y bienes económicos",
+              "texto": "Se describe la intervención humana que extrae y transforma recursos, usando el petróleo como ejemplo.",
+              "segundos": 214,
+              "youtube_id": "wO2CI2deH-A",
+              "evidencia": {
+                "segmento_inicio": "s000111",
+                "segmento_fin": "s000138",
+                "cita": "Para obtener esos bienes económicos se tienen que cumplir tres pasos clave. Paso uno, tiene que haber una intervención directa del ser humano. Paso dos, tiene que existir un proceso de extracción o de transformación de esa materia. Y paso tres, recién ahí, solo después de todo ese trabajo, el bien está listo para brindar satisfacción. Esa es la verdadera magia de la economía, el esfuerzo humano transformando las materias primas. Un ejemplo espectacular, de verdad espectacular para ilustrar esto es el petróleo. A ver, sí, viene de la naturaleza y está ahí guardadito bajo tierra. Estamos de acuerdo. Pero para poder usarlo como combustible en un auto requiere una intervención humana bestial. Hablamos de máquinas gigantes para extraerlo, refinerías ultra complejas para transformarlo, buques inmensos para distribuirlo, o sea, ha sido modificado y creado específicamente para venderse en el",
+                "inicio_segundos": 214.799,
+                "fin_segundos": 266.84000000000003,
+                "segundos": 214,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Valor de uso y valor de cambio",
+              "texto": "Se comparan propiedad y precio, y se destaca que ambos tipos de bienes tienen utilidad.",
+              "segundos": 279,
+              "youtube_id": "wO2CI2deH-A",
+              "evidencia": {
+                "segmento_inicio": "s000146",
+                "segmento_fin": "s000181",
+                "cita": "los bienes libres o no económicos. Estos son creados por la naturaleza, son totalmente abundantes, no tienen un propietario legal porque nadie es dueño del viento, obviamente, y son completamente gratuitos. Ahora, en contraste absoluto, tenemos a los bienes económicos. Estos son creados por el hombre, son fundamentalmente escasos, o sea, que se pueden acabar. Sí, tienen un propietario legal y por lógica siempre van a tener un precio. Necesito que se grabe esta columna vertebral de las diferencias, sobre todo lo de la escasez y la propiedad. Siguiendo con esta batalla, quiero hacer un énfasis gigantesco acá, un énfasis nivel cachimbóz total, porque justo en estos siguientes puntos es donde esconden las famosas preguntas trampa. Atentos. Los bienes libres son intransferibles legalmente y no tienen valor de cambio comercial, o sea, no los puedes vender. En cambio, los bienes económicos sí",
+                "inicio_segundos": 279.919,
+                "fin_segundos": 351.35999999999996,
+                "segundos": 279,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            }
+          ],
+          "duracion_segundos": 389,
+          "summary_provenance": {
+            "model": "Codex",
+            "prompt_version": "cachimboz-economia-additions-20261020",
+            "generated_at": "2026-10-20T18:04:58.904Z",
+            "source_sha256": "ad6b2347bcad1de3be9279c9883da195fc0b41f73b32a5269202167586cdc403",
+            "transcript_segments_sha256": "3861a7a425873beaa9dd5f6373cf9af5c540bc117307323ed9366bb17f02e923",
+            "key_point_evidence": [
+              {
+                "segmento_inicio": "s000042",
+                "segmento_fin": "s000051",
+                "cita": "Legalmente los bienes son objetos de derecho. ¿Y eso qué significa? pues que alguien puede ser su dueño legal. Así de simple. Y económicamente son cosas materiales o inmateriales que son escasas, limitadas y por ende tienen un valor monetario. Traduciendo la jerga, si es limitado y cuesta dinero, entonces estamos hablando del concepto económico de un bien. Pasamos a la sección dos, la",
+                "inicio_segundos": 82.28,
+                "fin_segundos": 104.04,
+                "segundos": 82,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000056",
+                "segmento_fin": "s000070",
+                "cita": "raíz de la palabra. viene de latín bene, que literalmente significa bien. La función fundamental, o sea, el propósito de cualquier bien en este planeta es generar utilidad al ser humano al satisfacer sus necesidades. Por lo tanto, y esto quiero que se lo graben a fuego en la mente, el gran sinónimo de examen para la palabra bienes satisfactores. Así que ya saben, si en el examen ven una pregunta kilométrica que habla sobre los satisfactores en el mercado, cero pánico. Simplemente les están hablando de los bienes. Y con eso llegamos a la",
+                "inicio_segundos": 109.079,
+                "fin_segundos": 140.4,
+                "segundos": 109,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000075",
+                "segmento_fin": "s000098",
+                "cita": "un lado, los bienes libres son de acceso ilimitado. Y cuando digo ilimitado es literal, todo el mundo, absolutamente todo el mundo puede acceder a ellos porque son básicamente regalos de la naturaleza. Pero por el otro lado tenemos la otra cara de la moneda, los bienes económicos. Estos para nada son ilimitados, de hecho fueron creados específicamente para intercambiarse en un mercado y el acceso a ellos está restringido, no cualquiera los tiene. Y para que esto quede pero 100% claro y no haya dudas, pensemos en los ejemplos clásicos de bienes libres que siempre vienen en las pruebas. El aire que respiramos, el agua de los océanos, la energía solar que nos calienta por las mañanas. ¿Qué es lo que realmente hace que estos sean bienes libres? Pues que la naturaleza nos los da en abundancia. O sea, requieren cero esfuerzo humano, cero procesos de mercado y lo mejor de todo, cero dinero",
+                "inicio_segundos": 146.36,
+                "fin_segundos": 194.4,
+                "segundos": 146,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000111",
+                "segmento_fin": "s000138",
+                "cita": "Para obtener esos bienes económicos se tienen que cumplir tres pasos clave. Paso uno, tiene que haber una intervención directa del ser humano. Paso dos, tiene que existir un proceso de extracción o de transformación de esa materia. Y paso tres, recién ahí, solo después de todo ese trabajo, el bien está listo para brindar satisfacción. Esa es la verdadera magia de la economía, el esfuerzo humano transformando las materias primas. Un ejemplo espectacular, de verdad espectacular para ilustrar esto es el petróleo. A ver, sí, viene de la naturaleza y está ahí guardadito bajo tierra. Estamos de acuerdo. Pero para poder usarlo como combustible en un auto requiere una intervención humana bestial. Hablamos de máquinas gigantes para extraerlo, refinerías ultra complejas para transformarlo, buques inmensos para distribuirlo, o sea, ha sido modificado y creado específicamente para venderse en el",
+                "inicio_segundos": 214.799,
+                "fin_segundos": 266.84000000000003,
+                "segundos": 214,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000146",
+                "segmento_fin": "s000160",
+                "cita": "los bienes libres o no económicos. Estos son creados por la naturaleza, son totalmente abundantes, no tienen un propietario legal porque nadie es dueño del viento, obviamente, y son completamente gratuitos. Ahora, en contraste absoluto, tenemos a los bienes económicos. Estos son creados por el hombre, son fundamentalmente escasos, o sea, que se pueden acabar. Sí, tienen un propietario legal y por lógica siempre van a tener un precio. Necesito que se grabe esta columna vertebral de las diferencias, sobre todo lo de la escasez y la propiedad. Siguiendo con esta",
+                "inicio_segundos": 279.919,
+                "fin_segundos": 309.24,
+                "segundos": 279,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000166",
+                "segmento_fin": "s000181",
+                "cita": "bienes libres son intransferibles legalmente y no tienen valor de cambio comercial, o sea, no los puedes vender. En cambio, los bienes económicos sí son transferibles y sí tienen valor de cambio. Pero un momento, alto ahí hay algo que comparten y aquí caen muchísimos postulantes. Ambos tienen valor de uso y ambos tienen utilidad. En el examen siempre intentan confundirlos diciéndoles, \"Solamente los bienes económicos tienen utilidad.\" Falsísimo. Piensen en el aire. Es un bien libre y es inmensamente útil. Simplemente no podríamos vivir sin él. La utilidad, recuerden bien, esto es el superperer de",
+                "inicio_segundos": 317.24,
+                "fin_segundos": 351.35999999999996,
+                "segundos": 317,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              }
+            ],
+            "source_integrity": "exact_lesson_course_and_youtube_id",
+            "validation": "plain_text_and_literal_segment_evidence",
+            "factual_review": "source_reviewed_not_human_verified",
+            "playback": "not_verified"
+          }
+        },
+        {
+          "titulo": "3.2 Clasificación de bienes",
+          "youtube_id": "5YcsHPmfIyI",
+          "pdf_link": "https://drive.google.com/file/d/1GTKERmYpOjBGiwvJTnELdxDx7IMzGq6n/view",
+          "gratis": true,
+          "lesson_id": "economia_1_t03_v03",
+          "resumen": "La clase organiza las principales clasificaciones de los bienes mediante ejemplos cotidianos. Distingue materiales e inmateriales, intermedios y finales, y consumo final e industrial según su naturaleza, función y destino. Luego explica la duración con bienes fungibles e infungibles, y revisa las categorías jurídicas de muebles, inmuebles y semovientes. En las relaciones de uso compara complementarios, como impresora y tóner, con sustitutos, como café y té. Finalmente estudia cómo cambia la demanda de bienes normales e inferiores cuando varía el ingreso, y diferencia transables y no transables según su posibilidad de intercambio internacional. El repaso insiste en identificar el criterio de clasificación antes de elegir una respuesta de examen.",
+          "puntos_clave": [
+            "Los materiales tienen existencia física y los inmateriales incluyen patentes o marcas; los intermedios requieren transformación y los finales están listos para satisfacer necesidades.",
+            "El destino distingue el consumo final de los hogares del consumo industrial, en el que las empresas usan bienes para producir otros.",
+            "La clase llama fungibles a los bienes agotados en el primer uso e infungibles o no fungibles a los que permiten usos repetidos.",
+            "La clasificación jurídica revisa bienes muebles, inmuebles y semovientes; el ganado se usa como ejemplo de traslado por movimiento propio.",
+            "Los complementarios se utilizan conjuntamente; los sustitutos permiten elegir alternativas para satisfacer una misma necesidad.",
+            "Al aumentar el ingreso, la demanda de un bien inferior disminuye, mientras que la de un bien normal aumenta, según los ejemplos desarrollados.",
+            "Los bienes transables pueden intercambiarse internacionalmente; los no transables se consumen en la economía donde se producen por su naturaleza o los costos de traslado."
+          ],
+          "momentos_clave": [
+            {
+              "titulo": "Naturaleza, función y destino",
+              "texto": "Se comparan bienes materiales e inmateriales, intermedios y finales, y consumo de hogares y empresas.",
+              "segundos": 15,
+              "youtube_id": "5YcsHPmfIyI",
+              "evidencia": {
+                "segmento_inicio": "s000007",
+                "segmento_fin": "s000055",
+                "cita": "ver, en la vida diaria sabemos perfectamente la diferencia entre tener una laptop física en las manos y ser los dueños de una patente invisible, ¿verdad? Bueno, para efectos del examen esa al laptop, la ropa que traen puesta, el auto, se llaman bienes materiales o tangibles. Tienen existencia física, los puedes ver, tocar, basta oler. Por otro lado, imagínense una patente, un derecho de autor o una marca registrada. Esos son los bienes inmateriales o intangibles. O sea, no los puedes pesar ni medir porque no tienen contenido físico, pero existen. Son superútiles y seamos sinceros, valen muchísimo dinero en el mercado. Ahora, pasemos a cómo clasificamos las cosas por su función o mejor dicho por su relación con la producción. Imagínense que van a comprar harina cruda, pues no se la pueden comer así nada más, ¿cierto? Necesitan hornearla, pasarla por un proceso. A estos insumos que",
+                "inicio_segundos": 15.799,
+                "fin_segundos": 115.799,
+                "segundos": 15,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Duración de los bienes",
+              "texto": "La manzana, los zapatos y los libros permiten explicar la distinción entre fungibles e infungibles presentada en clase.",
+              "segundos": 127,
+              "youtube_id": "5YcsHPmfIyI",
+              "evidencia": {
+                "segmento_inicio": "s000063",
+                "segmento_fin": "s000083",
+                "cita": "comen o se lo ponen? Piensen en una manzana, le dan una mordida, se la terminan y desaparece en ese mismísimo instante. Ahora piensen en cuando estrenan un par de zapatos. Obviamente no desaparecen al dar el primer paso, ¿verdad? Les van a durar meses o hasta años. Nuestro traductor de Herga entra al rescate para decirnos cómo va a venir esto en el examen. Esa manzana o esa bebida que se agotan por completo en el primer uso son los bienes fungibles, o sea, de un solo uso. Mientras que esos zapatos o sus libros de estudio que aguantan muchísimos usos antes de malograrse son los bienes no fungibles. Y mucho ojo acá, porque también les pueden llamar infungibles. Fungible desaparece, infungible perdura. Aseguran ese dato. Entramos a la sección tres.",
+                "inicio_segundos": 127.68,
+                "fin_segundos": 170.04,
+                "segundos": 127,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Clasificación jurídica",
+              "texto": "Se revisan semovientes, muebles e inmuebles dentro del esquema jurídico utilizado en la explicación.",
+              "segundos": 179,
+              "youtube_id": "5YcsHPmfIyI",
+              "evidencia": {
+                "segmento_inicio": "s000090",
+                "segmento_fin": "s000138",
+                "cita": "Para empezar, les lanzo esta pregunta que es una trampa clásica de admisión. La cosa se mueve por sí sola. Imaginen una vaca en medio de un campo ganadero. ¿Alguien le está empujando o está caminando sola? camina sola. Obvio, esto nos lleva a una subcategoría super específica que hace tropezar a muchísimos postulantes. Estamos hablando de los bienes se movientes. La palabra se moviente significa literalmente eso, que se mueve por sí mismo. El ganado es el ejemplo perfecto de algo de lo que te puedes adueñar y que se traslada solito para una actividad económica. Pero cuidado con la trampa. El texto es clarísimo con las excepciones. Las mascotas de casa, como el perrito o el gato, no entran como bienes movientes en el sentido económico productivo del que habla el examen. Anoten esta excepción porque les puede salvar puntos valiosos. Ahora sí, vamos directo a la vena del artículo 88. ¿Qué",
+                "inicio_segundos": 179.8,
+                "fin_segundos": 279.6,
+                "segundos": 179,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Complementarios y sustitutos",
+              "texto": "Se contrastan impresora y tóner con café y té para reconocer demanda conjunta y alternativas de consumo.",
+              "segundos": 287,
+              "youtube_id": "5YcsHPmfIyI",
+              "evidencia": {
+                "segmento_inicio": "s000144",
+                "segmento_fin": "s000171",
+                "cita": "A ver, imagínense dos escenarios cotidianos. Escenario uno, se compran una impresora carísima de última generación, llegan a casa, la instalan y pum, no hay tinta ni toner. Es super frustrante, ¿no? Simplemente no sirve de nada. Escenario dos, se despiertan temprano, quieren tomar algo caliente y tienen que elegir café o té. Obviamente no van a mezclar los dos en la misma taza, si eligen uno, descartan el otro. Esta es la tabla visual que tienen que dominar. En el primer escenario donde comprar una cosa te obliga a tener la otra para que funcione, estamos hablando de bienes complementarios o de demanda conjunta. Ejemplo clásico de examen, impresora y toner, el auto y la gasolina o literalmente el zapato derecho y el izquierdo. Y en el segundo escenario donde eliges uno u otro porque hacen lo mismo, se llaman bienes sustitutos o de demanda rival. Café o té, pescado o pollo, ir en micro o",
+                "inicio_segundos": 287.88,
+                "fin_segundos": 347,
+                "segundos": 287,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Ingresos y comercio internacional",
+              "texto": "Se explican bienes inferiores y normales, y luego transables y no transables.",
+              "segundos": 370,
+              "youtube_id": "5YcsHPmfIyI",
+              "evidencia": {
+                "segmento_inicio": "s000185",
+                "segmento_fin": "s000222",
+                "cita": "Funciona así. Cuando el presupuesto está superajustado, solemos comprar bienes básicos. Compramos más arroz, fideos, papas. Son cosas que llenan y son muy baratas. Pero si de repente nuestros ingresos se disparan, empezamos a dejar esos fideos básicos a un lado y los cambiamos por cortes de carne premium, pescados caros o productos gourmet. Traduzcamos eso al lenguaje de examen. Esos alimentos básicos que dejamos de comprar cuando ganamos más plata se llaman bienes inferiores. Y la regla aquí suena rara, pero es clave. Si sube tu ingreso, la demanda de ese bien disminuye. Por el contrario, los bienes que siguen la regla normal del mercado se llaman bienes normales. O sea, ganas más dinero, entonces compras más cantidad de ese bien, como ropa de marca o la carne premium. A mayor ingreso, mayor consumo. Esa es la diferencia fundamental. Y para cerrar nuestro marco teórico, un toque rápido",
+                "inicio_segundos": 370.72,
+                "fin_segundos": 446.479,
+                "segundos": 370,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            }
+          ],
+          "duracion_segundos": 480,
+          "summary_provenance": {
+            "model": "Codex",
+            "prompt_version": "cachimboz-economia-additions-20261020",
+            "generated_at": "2026-10-20T18:04:58.907Z",
+            "source_sha256": "a4a67f8e41be7e3ce05ff3cdf4f011a536cfc6ee18d6b2fdb8e3940e6f5abce3",
+            "transcript_segments_sha256": "c240f126410cbb50248ba2afefb7bc6ba51556ef9e6e399b530d9759beda024b",
+            "key_point_evidence": [
+              {
+                "segmento_inicio": "s000007",
+                "segmento_fin": "s000038",
+                "cita": "ver, en la vida diaria sabemos perfectamente la diferencia entre tener una laptop física en las manos y ser los dueños de una patente invisible, ¿verdad? Bueno, para efectos del examen esa al laptop, la ropa que traen puesta, el auto, se llaman bienes materiales o tangibles. Tienen existencia física, los puedes ver, tocar, basta oler. Por otro lado, imagínense una patente, un derecho de autor o una marca registrada. Esos son los bienes inmateriales o intangibles. O sea, no los puedes pesar ni medir porque no tienen contenido físico, pero existen. Son superútiles y seamos sinceros, valen muchísimo dinero en el mercado. Ahora, pasemos a cómo clasificamos las cosas por su función o mejor dicho por su relación con la producción. Imagínense que van a comprar harina cruda, pues no se la pueden comer así nada más, ¿cierto? Necesitan hornearla, pasarla por un proceso. A estos insumos que",
+                "inicio_segundos": 15.799,
+                "fin_segundos": 81.84,
+                "segundos": 15,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000041",
+                "segmento_fin": "s000055",
+                "cita": "clasificamos por su destino? Imaginen comprar una botella de agua para tomar en la casa con la familia frente a una gigantesca fábrica que compra miles de galones de agua para producir, no sé, gaseosas. Cuando el bien va para la casa y satisface una necesidad inmediata, lo llamamos bien de consumo final. Así de simple. Pero si esos bienes los compran las empresas para producir otras cosas, ya sea maquinaria, envases o energía eléctrica, entonces estamos hablando de bienes de consumo industrial. Como ven, el destino final de la compra lo cambia absolutamente todo. Muy bien, pasemos a",
+                "inicio_segundos": 83.36,
+                "fin_segundos": 115.799,
+                "segundos": 83,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000063",
+                "segmento_fin": "s000083",
+                "cita": "comen o se lo ponen? Piensen en una manzana, le dan una mordida, se la terminan y desaparece en ese mismísimo instante. Ahora piensen en cuando estrenan un par de zapatos. Obviamente no desaparecen al dar el primer paso, ¿verdad? Les van a durar meses o hasta años. Nuestro traductor de Herga entra al rescate para decirnos cómo va a venir esto en el examen. Esa manzana o esa bebida que se agotan por completo en el primer uso son los bienes fungibles, o sea, de un solo uso. Mientras que esos zapatos o sus libros de estudio que aguantan muchísimos usos antes de malograrse son los bienes no fungibles. Y mucho ojo acá, porque también les pueden llamar infungibles. Fungible desaparece, infungible perdura. Aseguran ese dato. Entramos a la sección tres.",
+                "inicio_segundos": 127.68,
+                "fin_segundos": 170.04,
+                "segundos": 127,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000090",
+                "segmento_fin": "s000138",
+                "cita": "Para empezar, les lanzo esta pregunta que es una trampa clásica de admisión. La cosa se mueve por sí sola. Imaginen una vaca en medio de un campo ganadero. ¿Alguien le está empujando o está caminando sola? camina sola. Obvio, esto nos lleva a una subcategoría super específica que hace tropezar a muchísimos postulantes. Estamos hablando de los bienes se movientes. La palabra se moviente significa literalmente eso, que se mueve por sí mismo. El ganado es el ejemplo perfecto de algo de lo que te puedes adueñar y que se traslada solito para una actividad económica. Pero cuidado con la trampa. El texto es clarísimo con las excepciones. Las mascotas de casa, como el perrito o el gato, no entran como bienes movientes en el sentido económico productivo del que habla el examen. Anoten esta excepción porque les puede salvar puntos valiosos. Ahora sí, vamos directo a la vena del artículo 88. ¿Qué",
+                "inicio_segundos": 179.8,
+                "fin_segundos": 279.6,
+                "segundos": 179,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000144",
+                "segmento_fin": "s000171",
+                "cita": "A ver, imagínense dos escenarios cotidianos. Escenario uno, se compran una impresora carísima de última generación, llegan a casa, la instalan y pum, no hay tinta ni toner. Es super frustrante, ¿no? Simplemente no sirve de nada. Escenario dos, se despiertan temprano, quieren tomar algo caliente y tienen que elegir café o té. Obviamente no van a mezclar los dos en la misma taza, si eligen uno, descartan el otro. Esta es la tabla visual que tienen que dominar. En el primer escenario donde comprar una cosa te obliga a tener la otra para que funcione, estamos hablando de bienes complementarios o de demanda conjunta. Ejemplo clásico de examen, impresora y toner, el auto y la gasolina o literalmente el zapato derecho y el izquierdo. Y en el segundo escenario donde eliges uno u otro porque hacen lo mismo, se llaman bienes sustitutos o de demanda rival. Café o té, pescado o pollo, ir en micro o",
+                "inicio_segundos": 287.88,
+                "fin_segundos": 347,
+                "segundos": 287,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000185",
+                "segmento_fin": "s000207",
+                "cita": "Funciona así. Cuando el presupuesto está superajustado, solemos comprar bienes básicos. Compramos más arroz, fideos, papas. Son cosas que llenan y son muy baratas. Pero si de repente nuestros ingresos se disparan, empezamos a dejar esos fideos básicos a un lado y los cambiamos por cortes de carne premium, pescados caros o productos gourmet. Traduzcamos eso al lenguaje de examen. Esos alimentos básicos que dejamos de comprar cuando ganamos más plata se llaman bienes inferiores. Y la regla aquí suena rara, pero es clave. Si sube tu ingreso, la demanda de ese bien disminuye. Por el contrario, los bienes que siguen la regla normal del mercado se llaman bienes normales. O sea, ganas más dinero, entonces compras más cantidad de ese bien, como ropa de marca o la carne premium. A mayor ingreso, mayor consumo. Esa es la diferencia fundamental. Y para cerrar nuestro marco",
+                "inicio_segundos": 370.72,
+                "fin_segundos": 417.52,
+                "segundos": 370,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000208",
+                "segmento_fin": "s000222",
+                "cita": "teórico, un toque rápido de comercio internacional. Si una fábrica produce miles de zapatos, los mete a un contenedor y los vende a Europa sin drama. A estos bienes que se pueden importar o exportar fácilmente los llamamos bienes transables. Pero si construimos un edificio de departamentos en Lima, no podemos mandarlo por correo a China, ¿verdad? Por su naturaleza física o por los altísimos costos y aranceles, no se puede exportar. A estos bienes que obligatoriamente se consumen en la misma economía donde se producen, los llamamos bienes no transables. Y con",
+                "inicio_segundos": 415.72,
+                "fin_segundos": 446.479,
+                "segundos": 415,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              }
+            ],
+            "source_integrity": "exact_lesson_course_and_youtube_id",
+            "validation": "plain_text_and_literal_segment_evidence",
+            "factual_review": "source_reviewed_not_human_verified",
+            "playback": "not_verified"
+          }
+        },
+        {
+          "titulo": "3.3 Bienes públicos",
+          "youtube_id": "L0bm8qrlw2w",
+          "pdf_link": "https://drive.google.com/file/d/1GTKERmYpOjBGiwvJTnELdxDx7IMzGq6n/view",
+          "gratis": true,
+          "lesson_id": "economia_1_t03_v04",
+          "resumen": "La clase compara bienes y servicios y profundiza en los bienes públicos compartidos por una comunidad. Explica consumo conjunto, no exclusión y no rivalidad; después distingue bienes públicos puros e impuros mediante ejemplos de defensa nacional, alumbrado y congestión vial. También contrasta acceso no excluyente con mecanismos de exclusión como un peaje. En la segunda parte describe los servicios como actividades intangibles que satisfacen necesidades y desarrolla sus características: indivisibilidad, heterogeneidad, uso de bienes materiales y dificultad de conservación. Clasifica los servicios por su oferta, privada o pública, y por una demanda individual o colectiva. El cierre resuelve preguntas de repaso sobre bienes, ingresos, insumos, capital y prestación simultánea de servicios.",
+          "puntos_clave": [
+            "Los bienes públicos se presentan como compartidos por la comunidad y asociados con consumo conjunto, no exclusión y ausencia de rivalidad.",
+            "Los bienes públicos puros cumplen las condiciones explicadas; en los impuros puede aparecer rivalidad parcial, como cuando se congestiona una vía.",
+            "La exclusión consiste en poder impedir el acceso; una autopista con peaje ilustra el control físico y económico del uso.",
+            "La clase explica la expresión trabajo no productivo aplicada a servicios como ausencia de un objeto físico resultante, sin equipararla con falta de utilidad.",
+            "Los servicios se describen como intangibles, indivisibles y heterogéneos, y requieren bienes materiales para poder prestarse.",
+            "La imposibilidad de conservar una prestación se ilustra con el asiento perdido de un vuelo; producción y consumo del servicio se relacionan temporalmente.",
+            "Por la oferta se distinguen servicios privados y públicos; por la demanda, individuales y colectivos."
+          ],
+          "momentos_clave": [
+            {
+              "titulo": "Propiedades de los bienes públicos",
+              "texto": "Se explican consumo conjunto, no exclusión y no rivalidad con ejemplos de uso comunitario.",
+              "segundos": 60,
+              "youtube_id": "L0bm8qrlw2w",
+              "evidencia": {
+                "segmento_inicio": "s000030",
+                "segmento_fin": "s000065",
+                "cita": "memorizar la definición formal del autor cabello del año 2016. Él nos dice que un bien público es aquel cuyo consumo es indivisible y que puede ser compartido por todos los miembros de una comunidad sin exclusión. Suena bastante formal, pero en la práctica significa que el estado suele ser el administrador de estos bienes. Pensemos en el alumbrado de nuestras calles por las noches, los parques gigantes para salir a pasear o las playas. De esa definición oficial vamos a armar un checklist sagrado para las pruebas. Para que algo sea genuinamente un bien público tiene que cumplir tres propiedades super estrictas. Primero, se consumen conjuntamente, o sea, muchas personas le sacan provecho a la vez. Segundo, no se puede excluir a nadie de su uso. Y tercero, y acá quiero toda su atención, no hay rivalidad. Y aquí activamos nuestro traductor de Jerga. ¿Qué diablos significa ausencia de",
+                "inicio_segundos": 60.239,
+                "fin_segundos": 133.84,
+                "segundos": 60,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Bienes puros, impuros y exclusión",
+              "texto": "La congestión de una vía y el peaje sirven para distinguir rivalidad parcial y control del acceso.",
+              "segundos": 138,
+              "youtube_id": "L0bm8qrlw2w",
+              "evidencia": {
+                "segmento_inicio": "s000070",
+                "segmento_fin": "s000099",
+                "cita": "Resulta que no todos los bienes públicos son iguales. Existen los bienes puros, que son los que cumplen las tres reglas anteriores a la perfección, como la defensa nacional de un país o los postes de luz. Pero por otro lado están los bienes públicos impuros. Estos son engañosos, son compartidos y no excluyen a nadie, pero fallan en la regla de la no rivalidad. Imagínense una vía expresa en plena hora punta. Si entran miles de autos, se genera un tráfico insoportable. Un vehículo adicional hace que todos los demás vayan más lento, o sea, se vuelven parcialmente rivales. Clásica trampa. Siguiendo con el traductor de Herga, desmenucemos la exclusión. Un bien no excluyente es aquel donde físicamente es imposible impedirle el acceso a alguien que no quiere pagar. Por ejemplo, si pasamos caminando por fuera de una panadería en la calle, nadie nos puede cobrar por oler ese pancito recién",
+                "inicio_segundos": 138.599,
+                "fin_segundos": 198.159,
+                "segundos": 138,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Concepto y características de los servicios",
+              "texto": "Se describe por qué una actividad útil puede no generar un objeto físico y qué rasgos tienen los servicios.",
+              "segundos": 200,
+              "youtube_id": "L0bm8qrlw2w",
+              "evidencia": {
+                "segmento_inicio": "s000102",
+                "segmento_fin": "s000136",
+                "cita": "Cambiamos de marcha y entramos al mundo de los servicios. Ojo con este término que hace caer a muchos en los textos. A los servicios a veces se les clasifica bajo el nombre de trabajo no productivo. El sentido común nos diría, \"Ah, significa que son inútiles.\" Totalmente falso. En el vocabulario económico, trabajo no productivo única y exclusivamente significa que esa actividad no genera un objeto físico. Una clase magistral o la asesoría de un experto legal son invaluables, pero no te dan un ladrillo o un zapato en la mano. Por eso reciben esa etiqueta técnica. Sección cinco, la clasificación de los servicios, características y categorías. Según el economista Sánchez Galán, en 2016, los servicios tienen cinco características que debemos tatuarnos. Son intangibles, porque obvio no se pueden tocar. Son indivisibles porque pagas por una unidad mínima completa, como un corte de pelo. Nadie",
+                "inicio_segundos": 200.84,
+                "fin_segundos": 268.84000000000003,
+                "segundos": 200,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Conservación y clasificación de servicios",
+              "texto": "Se analiza una prestación que no puede almacenarse y se separan oferta privada o pública y demanda individual o colectiva.",
+              "segundos": 266,
+              "youtube_id": "L0bm8qrlw2w",
+              "evidencia": {
+                "segmento_inicio": "s000137",
+                "segmento_fin": "s000159",
+                "cita": "característica brutalmente importante es que los servicios no se pueden conservar. La prestación y el consumo ocurren en el mismo milisegundo. Pensémoslo así. Compramos un pasaje de avión para las 5 de la tarde de hoy. Si no llegamos a la puerta de embarque, el avión despega. Ese asiento vacío en ese vuelo exacto se perdió para siempre. No lo podemos meter en una caja fuerte para usarlo la próxima semana. Ese es el principio de no conservación. Para cerrar la teoría como capos, chequeemos esta matriz. Por la oferta, los servicios son privados si los organiza una empresa como un cine o públicos si los administra el Estado, como los colegios estatales. Por el lado de la demanda, son individuales si el beneficio va directo a una sola persona, como una consulta legal, o colectivos si lo recibe todo un grupo en simultáneo, como subirse al transporte público. Y un",
+                "inicio_segundos": 266.919,
+                "fin_segundos": 312.15999999999997,
+                "segundos": 266,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Preguntas de repaso",
+              "texto": "Se aplican las clasificaciones de bienes y servicios a preguntas sobre propiedad, ingresos, insumos y capital.",
+              "segundos": 326,
+              "youtube_id": "L0bm8qrlw2w",
+              "evidencia": {
+                "segmento_inicio": "s000168",
+                "segmento_fin": "s000205",
+                "cita": "fuego rápido. Pregunta uno. A los bienes económicos también se les conoce como satisfactores, porque claro, no soluciona la vida. Pregunta dos. ¿Qué característica separa a un bien económico de uno libre que el bien económico siempre tiene propietario? Pregunta tres. Según nuestra capacidad de ingreso, los bienes se clasifican en bienes inferiores y bienes normales. Pregunta cuatro. Y cuidado que esto es derecho puro. Los semovientes, que es como la ley le dice a los animales y al ganado, son bienes muebles porque se trasladan por sí solos. Pregunta cinco. Las frutas y la harina que usa una panadería para hacer panetones son bienes insumos porque se transformarán en el producto final. Seguimos con la ráfaga. Pregunta seis. Al requerir trabajo humano y ser escaso, ¿todo bien económico obligatoriamente tiene precio? Pregunta siete. Si alguien compra una camioneta no para ir a la playa,",
+                "inicio_segundos": 326.28,
+                "fin_segundos": 402.639,
+                "segundos": 326,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            }
+          ],
+          "duracion_segundos": 427,
+          "summary_provenance": {
+            "model": "Codex",
+            "prompt_version": "cachimboz-economia-additions-20261020",
+            "generated_at": "2026-10-20T18:04:58.907Z",
+            "source_sha256": "5dc24f8b0446a6b733b10514c8c1b514da1781d729e944c17fe4857222129be8",
+            "transcript_segments_sha256": "ebbad4e12d76121ac9c41a44329b65138fa9590a38d4600fcf7e399f03ebf194",
+            "key_point_evidence": [
+              {
+                "segmento_inicio": "s000030",
+                "segmento_fin": "s000065",
+                "cita": "memorizar la definición formal del autor cabello del año 2016. Él nos dice que un bien público es aquel cuyo consumo es indivisible y que puede ser compartido por todos los miembros de una comunidad sin exclusión. Suena bastante formal, pero en la práctica significa que el estado suele ser el administrador de estos bienes. Pensemos en el alumbrado de nuestras calles por las noches, los parques gigantes para salir a pasear o las playas. De esa definición oficial vamos a armar un checklist sagrado para las pruebas. Para que algo sea genuinamente un bien público tiene que cumplir tres propiedades super estrictas. Primero, se consumen conjuntamente, o sea, muchas personas le sacan provecho a la vez. Segundo, no se puede excluir a nadie de su uso. Y tercero, y acá quiero toda su atención, no hay rivalidad. Y aquí activamos nuestro traductor de Jerga. ¿Qué diablos significa ausencia de",
+                "inicio_segundos": 60.239,
+                "fin_segundos": 133.84,
+                "segundos": 60,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000070",
+                "segmento_fin": "s000084",
+                "cita": "Resulta que no todos los bienes públicos son iguales. Existen los bienes puros, que son los que cumplen las tres reglas anteriores a la perfección, como la defensa nacional de un país o los postes de luz. Pero por otro lado están los bienes públicos impuros. Estos son engañosos, son compartidos y no excluyen a nadie, pero fallan en la regla de la no rivalidad. Imagínense una vía expresa en plena hora punta. Si entran miles de autos, se genera un tráfico insoportable. Un vehículo adicional hace que todos los demás vayan más lento, o sea, se vuelven parcialmente rivales.",
+                "inicio_segundos": 138.599,
+                "fin_segundos": 168.519,
+                "segundos": 138,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000086",
+                "segmento_fin": "s000099",
+                "cita": "traductor de Herga, desmenucemos la exclusión. Un bien no excluyente es aquel donde físicamente es imposible impedirle el acceso a alguien que no quiere pagar. Por ejemplo, si pasamos caminando por fuera de una panadería en la calle, nadie nos puede cobrar por oler ese pancito recién horneado. Imposible. En cambio, un bien excluyente ocurre cuando sí hay controles físicos y económicos para obligar a un pago. El mejor ejemplo, una autopista con peaje. O pagas tu tarifa en la caseta o simplemente la barrera de metal no sube.",
+                "inicio_segundos": 168.519,
+                "fin_segundos": 198.159,
+                "segundos": 168,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000102",
+                "segmento_fin": "s000117",
+                "cita": "Cambiamos de marcha y entramos al mundo de los servicios. Ojo con este término que hace caer a muchos en los textos. A los servicios a veces se les clasifica bajo el nombre de trabajo no productivo. El sentido común nos diría, \"Ah, significa que son inútiles.\" Totalmente falso. En el vocabulario económico, trabajo no productivo única y exclusivamente significa que esa actividad no genera un objeto físico. Una clase magistral o la asesoría de un experto legal son invaluables, pero no te dan un ladrillo o un zapato en la mano. Por eso reciben esa etiqueta técnica. Sección cinco, la clasificación",
+                "inicio_segundos": 200.84,
+                "fin_segundos": 232.67999999999998,
+                "segundos": 200,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000120",
+                "segmento_fin": "s000136",
+                "cita": "Según el economista Sánchez Galán, en 2016, los servicios tienen cinco características que debemos tatuarnos. Son intangibles, porque obvio no se pueden tocar. Son indivisibles porque pagas por una unidad mínima completa, como un corte de pelo. Nadie te cobra por medio corte de pelo. Son heterogéneos, variando desde un banco hasta un cine. Pero detengámonos en este punto crucial. Para brindarse los servicios siempre requieren el uso de bienes. Para dar un servicio de comercio se necesitan tiendas, carritos o almacenes tangibles. Todo servicio, por más intangible que sea, requiere bienes materiales para funcionar. La otra",
+                "inicio_segundos": 234.239,
+                "fin_segundos": 268.84000000000003,
+                "segundos": 234,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000137",
+                "segmento_fin": "s000148",
+                "cita": "característica brutalmente importante es que los servicios no se pueden conservar. La prestación y el consumo ocurren en el mismo milisegundo. Pensémoslo así. Compramos un pasaje de avión para las 5 de la tarde de hoy. Si no llegamos a la puerta de embarque, el avión despega. Ese asiento vacío en ese vuelo exacto se perdió para siempre. No lo podemos meter en una caja fuerte para usarlo la próxima semana. Ese es el principio de no conservación. Para",
+                "inicio_segundos": 266.919,
+                "fin_segundos": 291.919,
+                "segundos": 266,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000149",
+                "segmento_fin": "s000159",
+                "cita": "cerrar la teoría como capos, chequeemos esta matriz. Por la oferta, los servicios son privados si los organiza una empresa como un cine o públicos si los administra el Estado, como los colegios estatales. Por el lado de la demanda, son individuales si el beneficio va directo a una sola persona, como una consulta legal, o colectivos si lo recibe todo un grupo en simultáneo, como subirse al transporte público. Y un",
+                "inicio_segundos": 290.12,
+                "fin_segundos": 312.15999999999997,
+                "segundos": 290,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              }
+            ],
+            "source_integrity": "exact_lesson_course_and_youtube_id",
+            "validation": "plain_text_and_literal_segment_evidence",
+            "factual_review": "source_reviewed_not_human_verified",
+            "playback": "not_verified"
+          }
+        },
+        {
+          "titulo": "3.4 Síntesis del tema",
           "youtube_id": "64BhvnWrqGU",
           "pdf_link": "https://drive.google.com/file/d/1GTKERmYpOjBGiwvJTnELdxDx7IMzGq6n/view",
-          "gratis": true
+          "gratis": true,
+          "lesson_id": "economia_1_t03_v01"
         }
       ]
     },
@@ -4389,10 +4934,793 @@
       ],
       "videos": [
         {
-          "titulo": "4.1 Video",
+          "titulo": "4.1 Concepto y Fases",
+          "youtube_id": "BqK2lsx3CTU",
+          "pdf_link": "https://drive.google.com/file/d/1w3dJcYuDeEk4GsYGE-6O-ryS2BRQksuv/view",
+          "gratis": true,
+          "lesson_id": "economia_1_t04_v02",
+          "resumen": "La clase explica el proceso económico como una secuencia de actividades sociales orientadas a producir bienes y satisfacer necesidades. Recorre sus cinco fases con el ejemplo de un bolígrafo: producción, circulación, distribución, consumo e inversión. La producción transforma factores productivos y exige usar recursos escasos con eficiencia; la circulación conecta compradores y vendedores mediante el mercado y el dinero. La distribución retribuye a los factores con renta, salario, interés, ganancia e impuestos. El consumo satisface necesidades y permite distinguir bienes sustitutos, complementarios e indiferentes. Finalmente, la inversión utiliza el ahorro para adquirir bienes de capital y financiar un nuevo proceso productivo.",
+          "puntos_clave": [
+            "El proceso económico reúne actividades sociales secuenciales para crear bienes y satisfacer necesidades: producción, circulación, distribución, consumo e inversión.",
+            "La producción transforma factores productivos para obtener bienes y servicios, utilizando de manera eficiente recursos escasos.",
+            "La circulación comprende traslado e intercambio en el mercado, donde participan demandantes, ofertantes y comerciantes.",
+            "El dinero facilita los intercambios como medio de pago generalmente aceptado.",
+            "La distribución retribuye a naturaleza, trabajo, capital, empresa y Estado mediante renta, salario, interés, ganancia e impuestos, respectivamente.",
+            "El consumo satisface necesidades; la clase distingue bienes sustitutos, complementarios e indiferentes y presenta a la familia como unidad de consumo.",
+            "La inversión emplea el ahorro para comprar bienes de capital y financiar un nuevo proceso productivo, manteniendo o ampliando la capacidad de producción."
+          ],
+          "momentos_clave": [
+            {
+              "titulo": "Concepto y cinco fases",
+              "texto": "El ejemplo del bolígrafo muestra la secuencia desde su fabricación hasta la inversión para producir nuevamente.",
+              "segundos": 78,
+              "youtube_id": "BqK2lsx3CTU",
+              "evidencia": {
+                "segmento_inicio": "s000038",
+                "segmento_fin": "s000064",
+                "cita": "elegantes. Según la definición formal del 2021, que citan un montón, el proceso económico es exactamente este conjunto de actividades que los seres humanos realizan en sociedad de manera secuencial. Ojo con esa palabra, secuencial. Es un paso a paso superestructurado, con el único fin de crear bienes para satisfacer esas necesidades. Nadalará aquí. Y esa secuencia perfecta tiene cinco pasos cronológicos. Imagínense un bolígrafo, algo tan simple que seguro tienen en la mano ahorita. Ese bolígrafo no aparece mágicamente en su escritorio, ¿no? Primero se fabrica, o sea, entra en la producción, luego viaja a las librerías durante la circulación, después la gente que ayudó a crearlo recibe su pago, a eso le llamamos distribución. Luego van ustedes, lo compran y escriben con él. Eso es el consumo. Y finalmente, con las ganancias que guardó, la fábrica compra más plástico y más tinta para",
+                "inicio_segundos": 78.479,
+                "fin_segundos": 135.11999999999998,
+                "segundos": 78,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Producción y recursos escasos",
+              "texto": "Se explica la transformación de factores productivos y la necesidad de utilizarlos con eficiencia.",
+              "segundos": 144,
+              "youtube_id": "BqK2lsx3CTU",
+              "evidencia": {
+                "segmento_inicio": "s000070",
+                "segmento_fin": "s000088",
+                "cita": "producción es esa fase donde transformamos los factores productivos para obtener bienes y servicios. Pero mucha atención acá porque a los exámenes de admisión les fascina preguntar por las escuelas económicas. Nuestro traductor de Jerga nos dice que esto es básicamente hacer magia con lo poquito que hay para que todos estemos mejor. Pero si vamos a la cita formal de la teoría neoclásica, ellos lo definen como la creación de riqueza que aumenta el bienestar de una sociedad. ¿Y cuál es el gran dolor de cabeza aquí? Que tenemos que usar de forma eficiente recursos que son por naturaleza escasos. Piénsenlo, si los recursos fueran infinitos, la economía ni siquiera existiría como ciencia. No habría nada que administrar.",
+                "inicio_segundos": 144.16,
+                "fin_segundos": 180.599,
+                "segundos": 144,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Circulación, mercado y dinero",
+              "texto": "Se conectan intercambio, compradores y vendedores con el dinero como medio de pago aceptado.",
+              "segundos": 213,
+              "youtube_id": "BqK2lsx3CTU",
+              "evidencia": {
+                "segmento_inicio": "s000106",
+                "segmento_fin": "s000140",
+                "cita": "traductor de jerga, la circulación es simplemente irse de compras o abrir tu tienda, pero a nivel académico es el proceso de traslado e intercambio de mercancías, ya sean bienes, servicios o factores productivos. Es ese puente vital que conecta la fábrica con tu casa. Y todo esto ocurre en el mercado. Pero ojo, en economía el mercado no es solo el centro de abastos de tu barrio, es cualquier espacio físico o virtual donde chocan dos grandes fuerzas. Por un lado, los compradores, que formalmente llamamos demandantes o unidades de consumo, como las familias. Por otro lado, los vendedores, que son los ofertantes o unidades de producción, como las empresas, y en medio están los comerciantes, que son los que le compran al productor para venderle a las familias. Ahora, en una economía moderna ya no andamos cambiando vacas por sacos de arroz, ¿verdad? Necesitamos un facilitador, un lubricante",
+                "inicio_segundos": 213.319,
+                "fin_segundos": 283.91900000000004,
+                "segundos": 213,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Retribución de los factores",
+              "texto": "Se relaciona cada factor productivo con renta, salario, interés, ganancia o impuestos.",
+              "segundos": 295,
+              "youtube_id": "BqK2lsx3CTU",
+              "evidencia": {
+                "segmento_inicio": "s000148",
+                "segmento_fin": "s000163",
+                "cita": "a esto. La distribución es la fase donde se le paga o retribuye a cada factor productivo por haber ayudado a generar riqueza. O sea, es el momento de repartir el pastel. Y cada factor tiene un nombre exacto para su tajada. Al factor naturaleza se le paga con renta, al factor trabajo con el salario, al capital se le retribuye con interés. A la empresa, por ser la que organiza todo el show, le toca la ganancia. Y al estado, por poner las leyes y las pistas, se le paga mediante el impuesto. Confundir renta con salario en el examen es un error fatal, así que esto tiene que quedar grabadísimo.",
+                "inicio_segundos": 295.88,
+                "fin_segundos": 332.479,
+                "segundos": 295,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Consumo y tipos de bienes",
+              "texto": "Se revisan satisfacción de necesidades, sustitutos, complementarios e indiferentes y unidades de consumo.",
+              "segundos": 339,
+              "youtube_id": "BqK2lsx3CTU",
+              "evidencia": {
+                "segmento_inicio": "s000169",
+                "segmento_fin": "s000190",
+                "cita": "consumo no es más que adquirir esos productos para satisfacer lo que necesitamos, ya sea comer, que es primario, o ir al cine, que es secundario. Y la academia nos pide clasificar esto al detalle. Primero, los tipos de bienes. Tenemos los bienes sustitutos, o sea, si el pollo está carísimo, pues compro pescado, se reemplazan. Luego están los complementarios, los que van siempre de la mano, como el zapato derecho y el izquierdo o tu café con azúcar y los indiferentes, que no tienen nada que ver uno con el otro. ¿Y quiénes consumen? pues las unidades de consumo puede ser un individuo aislado, pero lo más común en las preguntas es la familia, como la base de todo. A gran escala, las unidades pueden ser comunidades enteras y los textos siempre ponen como ejemplo a los hospitales o asilos. Pero lo",
+                "inicio_segundos": 339.96,
+                "fin_segundos": 382.59900000000005,
+                "segundos": 339,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Inversión y nuevo ciclo",
+              "texto": "El ahorro se destina a bienes de capital para financiar la continuación o ampliación de la producción.",
+              "segundos": 412,
+              "youtube_id": "BqK2lsx3CTU",
+              "evidencia": {
+                "segmento_inicio": "s000206",
+                "segmento_fin": "s000221",
+                "cita": "así llegamos a la inversión. Traductor de Herga al rescate. Esto es agarrar la plata que no te gastaste, tu ahorro, y en vez de esconderla bajo el colchón, pum, la usas para comprar máquinas nuevas o mejores herramientas. La definición formal es clave. Inversión es utilizar el ahorro en un periodo dado para financiar un nuevo proceso productivo. ¿Y cómo se hace? Comprando bienes de capital. Con esto mantienes o incluso disparas la capacidad productiva de una fábrica o de todo un país. Básicamente adquieres nuevos recursos y nuevo capital para dar el gran salto y arrancar un proceso totalmente renovado.",
+                "inicio_segundos": 412.08,
+                "fin_segundos": 445,
+                "segundos": 412,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            }
+          ],
+          "duracion_segundos": 475,
+          "summary_provenance": {
+            "model": "Codex",
+            "prompt_version": "cachimboz-economia-additions-20261020",
+            "generated_at": "2026-10-20T18:04:58.908Z",
+            "source_sha256": "ffa416cf1d72ee656973d8bb3fa10da35e709f178f05750c49a395b5cb99cded",
+            "transcript_segments_sha256": "aaf90fff386647280ebc3a72f6ef0d8c4079145dffa296bf37d0402f30119775",
+            "key_point_evidence": [
+              {
+                "segmento_inicio": "s000038",
+                "segmento_fin": "s000064",
+                "cita": "elegantes. Según la definición formal del 2021, que citan un montón, el proceso económico es exactamente este conjunto de actividades que los seres humanos realizan en sociedad de manera secuencial. Ojo con esa palabra, secuencial. Es un paso a paso superestructurado, con el único fin de crear bienes para satisfacer esas necesidades. Nadalará aquí. Y esa secuencia perfecta tiene cinco pasos cronológicos. Imagínense un bolígrafo, algo tan simple que seguro tienen en la mano ahorita. Ese bolígrafo no aparece mágicamente en su escritorio, ¿no? Primero se fabrica, o sea, entra en la producción, luego viaja a las librerías durante la circulación, después la gente que ayudó a crearlo recibe su pago, a eso le llamamos distribución. Luego van ustedes, lo compran y escriben con él. Eso es el consumo. Y finalmente, con las ganancias que guardó, la fábrica compra más plástico y más tinta para",
+                "inicio_segundos": 78.479,
+                "fin_segundos": 135.11999999999998,
+                "segundos": 78,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000070",
+                "segmento_fin": "s000088",
+                "cita": "producción es esa fase donde transformamos los factores productivos para obtener bienes y servicios. Pero mucha atención acá porque a los exámenes de admisión les fascina preguntar por las escuelas económicas. Nuestro traductor de Jerga nos dice que esto es básicamente hacer magia con lo poquito que hay para que todos estemos mejor. Pero si vamos a la cita formal de la teoría neoclásica, ellos lo definen como la creación de riqueza que aumenta el bienestar de una sociedad. ¿Y cuál es el gran dolor de cabeza aquí? Que tenemos que usar de forma eficiente recursos que son por naturaleza escasos. Piénsenlo, si los recursos fueran infinitos, la economía ni siquiera existiría como ciencia. No habría nada que administrar.",
+                "inicio_segundos": 144.16,
+                "fin_segundos": 180.599,
+                "segundos": 144,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000106",
+                "segmento_fin": "s000126",
+                "cita": "traductor de jerga, la circulación es simplemente irse de compras o abrir tu tienda, pero a nivel académico es el proceso de traslado e intercambio de mercancías, ya sean bienes, servicios o factores productivos. Es ese puente vital que conecta la fábrica con tu casa. Y todo esto ocurre en el mercado. Pero ojo, en economía el mercado no es solo el centro de abastos de tu barrio, es cualquier espacio físico o virtual donde chocan dos grandes fuerzas. Por un lado, los compradores, que formalmente llamamos demandantes o unidades de consumo, como las familias. Por otro lado, los vendedores, que son los ofertantes o unidades de producción, como las empresas, y en medio están los comerciantes, que son los que le compran al productor para venderle a las familias. Ahora, en una economía moderna",
+                "inicio_segundos": 213.319,
+                "fin_segundos": 256.28,
+                "segundos": 213,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000127",
+                "segmento_fin": "s000140",
+                "cita": "ya no andamos cambiando vacas por sacos de arroz, ¿verdad? Necesitamos un facilitador, un lubricante para que toda esta maquinaria ruede rápido y ese es el dinero. La definición de manual es super contundente y se la tienen que saber. Dinero es todo aquello que se constituye como medio de pago generalmente aceptado. Literalmente, no importa si son moneditas, un billete arrugado o un numerito en tu app del banco. Mientras toda la sociedad confíe en él y lo acepte para hacer intercambios, cumple su trabajo en la circulación. Llegamos a",
+                "inicio_segundos": 254.72,
+                "fin_segundos": 283.91900000000004,
+                "segundos": 254,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000148",
+                "segmento_fin": "s000163",
+                "cita": "a esto. La distribución es la fase donde se le paga o retribuye a cada factor productivo por haber ayudado a generar riqueza. O sea, es el momento de repartir el pastel. Y cada factor tiene un nombre exacto para su tajada. Al factor naturaleza se le paga con renta, al factor trabajo con el salario, al capital se le retribuye con interés. A la empresa, por ser la que organiza todo el show, le toca la ganancia. Y al estado, por poner las leyes y las pistas, se le paga mediante el impuesto. Confundir renta con salario en el examen es un error fatal, así que esto tiene que quedar grabadísimo.",
+                "inicio_segundos": 295.88,
+                "fin_segundos": 332.479,
+                "segundos": 295,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000169",
+                "segmento_fin": "s000190",
+                "cita": "consumo no es más que adquirir esos productos para satisfacer lo que necesitamos, ya sea comer, que es primario, o ir al cine, que es secundario. Y la academia nos pide clasificar esto al detalle. Primero, los tipos de bienes. Tenemos los bienes sustitutos, o sea, si el pollo está carísimo, pues compro pescado, se reemplazan. Luego están los complementarios, los que van siempre de la mano, como el zapato derecho y el izquierdo o tu café con azúcar y los indiferentes, que no tienen nada que ver uno con el otro. ¿Y quiénes consumen? pues las unidades de consumo puede ser un individuo aislado, pero lo más común en las preguntas es la familia, como la base de todo. A gran escala, las unidades pueden ser comunidades enteras y los textos siempre ponen como ejemplo a los hospitales o asilos. Pero lo",
+                "inicio_segundos": 339.96,
+                "fin_segundos": 382.59900000000005,
+                "segundos": 339,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000206",
+                "segmento_fin": "s000221",
+                "cita": "así llegamos a la inversión. Traductor de Herga al rescate. Esto es agarrar la plata que no te gastaste, tu ahorro, y en vez de esconderla bajo el colchón, pum, la usas para comprar máquinas nuevas o mejores herramientas. La definición formal es clave. Inversión es utilizar el ahorro en un periodo dado para financiar un nuevo proceso productivo. ¿Y cómo se hace? Comprando bienes de capital. Con esto mantienes o incluso disparas la capacidad productiva de una fábrica o de todo un país. Básicamente adquieres nuevos recursos y nuevo capital para dar el gran salto y arrancar un proceso totalmente renovado.",
+                "inicio_segundos": 412.08,
+                "fin_segundos": 445,
+                "segundos": 412,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              }
+            ],
+            "source_integrity": "exact_lesson_course_and_youtube_id",
+            "validation": "plain_text_and_literal_segment_evidence",
+            "factual_review": "source_reviewed_not_human_verified",
+            "playback": "not_verified"
+          }
+        },
+        {
+          "titulo": "4.2 Sectores Productivos",
+          "youtube_id": "xQLuP1ngQaw",
+          "pdf_link": "https://drive.google.com/file/d/1w3dJcYuDeEk4GsYGE-6O-ryS2BRQksuv/view",
+          "gratis": true,
+          "lesson_id": "economia_1_t04_v03",
+          "resumen": "La clase compara los sectores primario, secundario y terciario siguiendo la cadena extracción, transformación y servicios. El primario obtiene recursos directamente de la naturaleza y se ilustra con agricultura, ganadería, pesca, explotación forestal y minería. El secundario transforma materias primas e incluye tanto producción artesanal como industrial; para diferenciarlas se revisan escala, tecnología, bienes de capital y valor agregado. También explica las economías de escala como una reducción del costo por unidad al producir mayores cantidades. El terciario reúne actividades de servicios, como transporte, turismo, finanzas y administración pública. El cierre aplica la clasificación a la extracción de madera y su transformación industrial en muebles.",
+          "puntos_clave": [
+            "La secuencia general presentada es extracción de recursos en el primario, transformación en el secundario y prestación de servicios en el terciario.",
+            "El sector primario obtiene productos directamente de la naturaleza; incluye agricultura, ganadería, pesca, explotación forestal y minería.",
+            "Los bienes de capital facilitan la transformación industrial; el valor agregado expresa el valor adicional del producto y las economías de escala reducen el costo por unidad al aumentar la producción.",
+            "La producción artesanal y la industrial pertenecen al sector secundario; se diferencian por cantidades, tecnología y uso de bienes de capital.",
+            "El sector terciario presta servicios; sus ejemplos incluyen transporte, distribución, turismo, entretenimiento, finanzas y administraciones públicas."
+          ],
+          "momentos_clave": [
+            {
+              "titulo": "Sector primario y ejemplos",
+              "texto": "Se define la obtención directa de recursos naturales y se enumeran cinco actividades características.",
+              "segundos": 51,
+              "youtube_id": "xQLuP1ngQaw",
+              "evidencia": {
+                "segmento_inicio": "s000025",
+                "segmento_fin": "s000051",
+                "cita": "definición técnica dice que este sector aglutina las actividades para obtener productos directamente de la naturaleza. Y ojo, recursos que pueden ser renovables como los peces o los árboles o no renovables como los minerales. Todo esto para crear materias primas no elaboradas. A ver, activemos nuestro traductor de jerga. ¿Qué significa esto en la vida real? Imaginen un árbol recién talado en el bosque o el algodón que recién sacan del campo. Eso es una materia prima no elaborada. Todavía no es una silla de diseño, no es esa camiseta increíble que nos queremos comprar en el centro comercial, es la naturaleza en su estado más puro, lista para ser enviada a las fábricas. Ahora, para asegurar esos puntos en el examen de admisión, es regla de oro memorizar estos cinco ejemplos exactos. Anoten mentalmente: agricultura, ganadería, pesca, explotación forestal y minería. No hay pierde. Si en la",
+                "inicio_segundos": 51.879,
+                "fin_segundos": 109.52,
+                "segundos": 51,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Capital, valor agregado y escala",
+              "texto": "La explicación de la industria conecta máquinas e infraestructura con valor adicional y menores costos unitarios.",
+              "segundos": 144,
+              "youtube_id": "xQLuP1ngQaw",
+              "evidencia": {
+                "segmento_inicio": "s000071",
+                "segmento_fin": "s000086",
+                "cita": "atención. Primero, bienes de capital. Suena superclejo, pero son simplemente las máquinas pesadas, esos hornos inmensos, la infraestructura moderna. Segundo concepto, valor agregado. Esto significa que el producto final vale mucho más que lo que costaron sus partes sueltas. Una lámina de acero procesada cuesta muchísimo más que el simple hierro con tierra sacado de una mina. Y tercero, la joya de la corona, economía de escala. Esto significa producir cantidades tan pero tan bestiales que el costo de fabricar cada unidad solita se vuelve s super bajo. Esa es la verdadera magia de la industria. Cuidado aquí",
+                "inicio_segundos": 144.36,
+                "fin_segundos": 178.2,
+                "segundos": 144,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Artesanía e industria",
+              "texto": "Se comparan dos formas de transformación que pertenecen al sector secundario.",
+              "segundos": 176,
+              "youtube_id": "xQLuP1ngQaw",
+              "evidencia": {
+                "segmento_inicio": "s000087",
+                "segmento_fin": "s000110",
+                "cita": "porque esto es la clásica trampa de examen. Los evaluadores aman poner a competir a la producción artesanal contra la industrial. Y ojo, ambas pertenecen al sector secundario. La producción artesanal es sencilla, casi a mano, en poquitas cantidades, pero la transformación industrial, eso ya son palabras mayores, requiere esos bienes de capital de los que hablamos, técnicas supermernas, tienen un altísimo valor agregado y se hacen cantidades masivas. Prohibidísimo confundirlas el gran día. Y al igual que hicimos antes, necesitamos grabar en piedra estos siete ejemplos del sector secundario. Repasemos. Elaboración de metal y fundición, producción de automóviles, producción textil. la inmensa industria química, la manufactura o fabricación en general, el sector de energía y la ingeniería. Cada uno de estos campos toma esa materia prima cruda y la somete a un procesamiento superintenso.",
+                "inicio_segundos": 176.72,
+                "fin_segundos": 226.159,
+                "segundos": 176,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Sector terciario y servicios",
+              "texto": "Se presenta el sector de servicios y sus ejemplos de transporte, turismo, finanzas y administración pública.",
+              "segundos": 230,
+              "youtube_id": "xQLuP1ngQaw",
+              "evidencia": {
+                "segmento_inicio": "s000114",
+                "segmento_fin": "s000150",
+                "cita": "pone superinesante porque el sector terciario está formado por actividades que no fabrican absolutamente ningún objeto físico, cero mercancías tangibles. Se dedican puramente a abastecer al mercado con servicios y atención. Traductor rápido para que quede clarísimo. Ir a comprar las llantas o el motor de un auto es sector secundario, pero pagarle al mecánico experto para que use su conocimiento y nos ensamble el auto, eso es un servicio puro y duro del sector terciario. Y agárrense porque este dato es espectacular y muy preguntado. Hoy en día este sector ha crecido a un nivel tan explosivo que en algunos países muy desarrollados el sector terciario representa un aplastante 70% del producto interno bruto. Sí, 70% es una locura. ¿Qué nos dice esto? que a medida que una sociedad avanza y se vuelve tecnológicamente compleja, deja de depender tanto de sacar cosas de la Tierra y pasa a",
+                "inicio_segundos": 230.92,
+                "fin_segundos": 303.16,
+                "segundos": 230,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Aplicación: madera y muebles",
+              "texto": "El caso final distingue extraer madera de transformarla con maquinaria en muebles a gran escala.",
+              "segundos": 307,
+              "youtube_id": "xQLuP1ngQaw",
+              "evidencia": {
+                "segmento_inicio": "s000154",
+                "segmento_fin": "s000165",
+                "cita": "simulacro. Imagínense esto. Una empresa enorme usa maquinaria pesada para convertir madera de un bosque en miles de muebles de lujo. Sabemos que extraer la madera es sector primario, lógico. Pero atención acá, si están usando esos bienes de capital superpesados para crear productos con altísimo valor agregado y en cantidades masivas, estamos hablando sin lugar a dudas del sector secundario y más específicamente de su variante industrial. ¿Ven como",
+                "inicio_segundos": 307.16,
+                "fin_segundos": 333.12,
+                "segundos": 307,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            }
+          ],
+          "duracion_segundos": 349,
+          "summary_provenance": {
+            "model": "Codex",
+            "prompt_version": "cachimboz-economia-additions-20261020",
+            "generated_at": "2026-10-20T18:04:58.909Z",
+            "source_sha256": "b73d2322f0594c284469c91a7327b33e23e70cd179a2a5b5e68112a2d7b8ffc7",
+            "transcript_segments_sha256": "49590adfc018b8ffc647766973610973a6fddc12bf7417066b8c896d98ea6f2c",
+            "key_point_evidence": [
+              {
+                "segmento_inicio": "s000011",
+                "segmento_fin": "s000022",
+                "cita": "una regla de vida. Paso uno, extraemos los recursos de la naturaleza, ¿verdad? Ese es el eslabón primario. Paso dos, agarramos esas materias primas y las transformamos, las procesamos, lo que viene siendo el eslabón secundario. Y finalmente, el paso tres, ofrecemos servicios a la población, el eslabón terciario. Entender esta cadenita es vital porque cada sector alimenta el que le sigue, creando este ciclo infinito que mueve a toda la economía mundial.",
+                "inicio_segundos": 23.68,
+                "fin_segundos": 48.96,
+                "segundos": 23,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000025",
+                "segmento_fin": "s000051",
+                "cita": "definición técnica dice que este sector aglutina las actividades para obtener productos directamente de la naturaleza. Y ojo, recursos que pueden ser renovables como los peces o los árboles o no renovables como los minerales. Todo esto para crear materias primas no elaboradas. A ver, activemos nuestro traductor de jerga. ¿Qué significa esto en la vida real? Imaginen un árbol recién talado en el bosque o el algodón que recién sacan del campo. Eso es una materia prima no elaborada. Todavía no es una silla de diseño, no es esa camiseta increíble que nos queremos comprar en el centro comercial, es la naturaleza en su estado más puro, lista para ser enviada a las fábricas. Ahora, para asegurar esos puntos en el examen de admisión, es regla de oro memorizar estos cinco ejemplos exactos. Anoten mentalmente: agricultura, ganadería, pesca, explotación forestal y minería. No hay pierde. Si en la",
+                "inicio_segundos": 51.879,
+                "fin_segundos": 109.52,
+                "segundos": 51,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000071",
+                "segmento_fin": "s000086",
+                "cita": "atención. Primero, bienes de capital. Suena superclejo, pero son simplemente las máquinas pesadas, esos hornos inmensos, la infraestructura moderna. Segundo concepto, valor agregado. Esto significa que el producto final vale mucho más que lo que costaron sus partes sueltas. Una lámina de acero procesada cuesta muchísimo más que el simple hierro con tierra sacado de una mina. Y tercero, la joya de la corona, economía de escala. Esto significa producir cantidades tan pero tan bestiales que el costo de fabricar cada unidad solita se vuelve s super bajo. Esa es la verdadera magia de la industria. Cuidado aquí",
+                "inicio_segundos": 144.36,
+                "fin_segundos": 178.2,
+                "segundos": 144,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000087",
+                "segmento_fin": "s000099",
+                "cita": "porque esto es la clásica trampa de examen. Los evaluadores aman poner a competir a la producción artesanal contra la industrial. Y ojo, ambas pertenecen al sector secundario. La producción artesanal es sencilla, casi a mano, en poquitas cantidades, pero la transformación industrial, eso ya son palabras mayores, requiere esos bienes de capital de los que hablamos, técnicas supermernas, tienen un altísimo valor agregado y se hacen cantidades masivas. Prohibidísimo confundirlas el gran día.",
+                "inicio_segundos": 176.72,
+                "fin_segundos": 202.879,
+                "segundos": 176,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000114",
+                "segmento_fin": "s000150",
+                "cita": "pone superinesante porque el sector terciario está formado por actividades que no fabrican absolutamente ningún objeto físico, cero mercancías tangibles. Se dedican puramente a abastecer al mercado con servicios y atención. Traductor rápido para que quede clarísimo. Ir a comprar las llantas o el motor de un auto es sector secundario, pero pagarle al mecánico experto para que use su conocimiento y nos ensamble el auto, eso es un servicio puro y duro del sector terciario. Y agárrense porque este dato es espectacular y muy preguntado. Hoy en día este sector ha crecido a un nivel tan explosivo que en algunos países muy desarrollados el sector terciario representa un aplastante 70% del producto interno bruto. Sí, 70% es una locura. ¿Qué nos dice esto? que a medida que una sociedad avanza y se vuelve tecnológicamente compleja, deja de depender tanto de sacar cosas de la Tierra y pasa a",
+                "inicio_segundos": 230.92,
+                "fin_segundos": 303.16,
+                "segundos": 230,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              }
+            ],
+            "source_integrity": "exact_lesson_course_and_youtube_id",
+            "validation": "plain_text_and_literal_segment_evidence",
+            "factual_review": "source_reviewed_not_human_verified",
+            "playback": "not_verified"
+          }
+        },
+        {
+          "titulo": "4.3 Factores Productivos",
+          "youtube_id": "hYpLPRmv1sQ",
+          "pdf_link": "https://drive.google.com/file/d/1w3dJcYuDeEk4GsYGE-6O-ryS2BRQksuv/view",
+          "gratis": true,
+          "lesson_id": "economia_1_t04_v04",
+          "resumen": "La clase relaciona la transformación de insumos en bienes finales con el valor agregado y los factores productivos. Distingue los factores clásicos —naturaleza, trabajo y capital— de los modernos —empresa y Estado—. La naturaleza comprende los recursos naturales y se caracteriza como originaria, pasiva y condicionante. El trabajo incluye esfuerzo físico y mental; su calidad se vincula con conocimientos, formación y experiencia, es decir, capital humano. El capital productivo comprende herramientas, máquinas y edificios y se diferencia del capital financiero. La empresa organiza los factores para atender la demanda y obtener ganancias, mientras el Estado regula y fiscaliza mediante normas y políticas. El cuadro final relaciona cada factor con su retribución: renta, salario, interés, ganancia e impuestos.",
+          "puntos_clave": [
+            "Transformar insumos en bienes finales agrega valor; los factores clásicos son naturaleza, trabajo y capital, y los modernos son empresa y Estado.",
+            "La naturaleza comprende los recursos naturales; se presenta como originaria, pasiva y condicionante de las posibilidades de producción.",
+            "El trabajo incluye tiempo y esfuerzo físico o mental; el capital humano reúne conocimientos y habilidades adquiridos mediante estudio, capacitación y experiencia.",
+            "El capital productivo son herramientas, máquinas y edificios; se caracteriza como derivado y auxiliar y se distingue del capital financiero.",
+            "La empresa es el factor organizador: reúne naturaleza, trabajo y capital mediante planificación y estrategias para satisfacer la demanda y obtener ganancias.",
+            "El Estado es el factor regulador y fiscalizador: establece un marco jurídico e influye mediante políticas económicas.",
+            "Las retribuciones son renta para la naturaleza, salario para el trabajo, interés para el capital, ganancia o utilidad para la empresa e impuestos para el Estado."
+          ],
+          "momentos_clave": [
+            {
+              "titulo": "Valor agregado y factores",
+              "texto": "Se explica el valor adicional de la transformación y se distinguen factores clásicos y modernos.",
+              "segundos": 64,
+              "youtube_id": "hYpLPRmv1sQ",
+              "evidencia": {
+                "segmento_inicio": "s000027",
+                "segmento_fin": "s000055",
+                "cita": "Bueno, la respuesta es el famoso valor agregado. A medida que los insumos pasan por la transformación, van adquiriendo un valor adicional. Pero ojo, este valor extra no aparece por arte de magia. es el resultado directo de aplicar lo que llamamos factores productivos, que son literalmente todas esas herramientas y esfuerzos humanos que hacen que la transformación sea posible y sobre todo eficiente. Pasemos a la sección dos, los factores clásicos y modernos. Ya que sabemos qué es la producción, toca conocer a los verdaderos protagonistas. En la teoría económica hay una gran división histórica. Resulta que los economistas clásicos agruparon los elementos productivos en tres pesos pesados: la naturaleza, el trabajo y el capital. Estos son los factores básicos o clásicos, los que siempre han estado ahí desde el inicio de la civilización. Por otro lado, conforme las sociedades se volvieron",
+                "inicio_segundos": 64.08,
+                "fin_segundos": 131.64,
+                "segundos": 64,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Naturaleza: recursos y características",
+              "texto": "Se amplía el concepto de tierra a los recursos naturales y se desarrollan sus características productivas.",
+              "segundos": 151,
+              "youtube_id": "hYpLPRmv1sQ",
+              "evidencia": {
+                "segmento_inicio": "s000066",
+                "segmento_fin": "s000102",
+                "cita": "joya. En economía, cuando escuchamos la palabra tierra, no nos referimos solo al suelo que pisamos. Es un concepto inmenso que engloba absolutamente todos los recursos naturales, minerales, petróleo, gas, bosques, los peces en el mar, el agua y hasta el aire. Todos estos son literalmente los dones de la naturaleza. Y aquí hay que encender las alarmas porque es una típica trampa de examen. Parking detalla muy bien qué incluye esta naturaleza. Por un lado están los recursos renovables como el agua, la superficie terrestre o incluso minerales que podemos reciclar y volver a usar. Pero por otro lado están los recursos no renovables, como el gas, el carbón o el petróleo. ¿Por qué no renovables? porque tienen la terrible cualidad de que solo pueden emplearse una sola vez. Se queman, generan energía y desaparecen. Conocer esta diferencia es clave para asegurar esos puntos en las opciones",
+                "inicio_segundos": 151.4,
+                "fin_segundos": 240.72,
+                "segundos": 151,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Trabajo, capital humano y capital productivo",
+              "texto": "Se diferencian esfuerzo humano, conocimientos y habilidades de las herramientas, máquinas y edificios usados para producir.",
+              "segundos": 252,
+              "youtube_id": "hYpLPRmv1sQ",
+              "evidencia": {
+                "segmento_inicio": "s000109",
+                "segmento_fin": "s000151",
+                "cita": "Aquí entra en escena el factor trabajo, que en economía se representa con la letra L, por la palabra en inglés labor. El trabajo es todo el tiempo y esfuerzo dedicado a producir y ojo, no es solo sudar en una construcción. Abarca tanto el esfuerzo físico de obreros y fábricas como el esfuerzo mental en oficinas, comercio o diseño. A diferencia de la naturaleza, el trabajo es un factor activo y determinante porque es el humano quien decide y actúa, pero al igual que la naturaleza, también se le considera originario. Un detalle fascinante aquí es que la calidad del trabajo no es siempre la misma, depende del famoso capital humano. Y esto no es otra cosa que todo ese conocimiento y habilidad que la gente obtiene estudiando, capacitándose y ganando experiencia. De hecho, al estar repasando estos conceptos en esta explicación, quienes nos acompañan hoy están construyendo e incrementando",
+                "inicio_segundos": 252.159,
+                "fin_segundos": 354,
+                "segundos": 252,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Empresa y Estado",
+              "texto": "Se contrastan la organización empresarial con la regulación y fiscalización estatal.",
+              "segundos": 364,
+              "youtube_id": "hYpLPRmv1sQ",
+              "evidencia": {
+                "segmento_inicio": "s000158",
+                "segmento_fin": "s000182",
+                "cita": "El primer factor moderno es la empresa representada con la letra E. Según el portal Concepto.d en su publicación de 2013, la empresa es el factor organizador. Su rol es tomar esa naturaleza, el trabajo y el capital y unirlos usando planificaciones y estrategias. ¿Y por qué se toman toda esta molestia? Por un objetivo clarísimo, obtener una ganancia o rédito económico al satisfacer lo que la gente demanda. El segundo factor moderno es el Estado representado con las letras E, S o G por la palabra gobierno. Basándonos en concepto punto Del 2021, el Estado actúa como el gran árbitro del partido. Es el factor regulador y fiscalizador. Su trabajo es poner las reglas del juego mediante un marco jurídico para garantizar el orden social. Además, influye directamente aplicando políticas económicas. Sin el Estado, simplemente no habría reglas claras sobre cómo operan las empresas o cómo se",
+                "inicio_segundos": 364.639,
+                "fin_segundos": 426.96000000000004,
+                "segundos": 364,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Cuadro de retribuciones",
+              "texto": "El repaso final conecta los cinco factores con renta, salario, interés, ganancia e impuestos.",
+              "segundos": 456,
+              "youtube_id": "hYpLPRmv1sQ",
+              "evidencia": {
+                "segmento_inicio": "s000198",
+                "segmento_fin": "s000210",
+                "cita": "quirúrgica. Los clásicos arriba. La naturaleza, con la letra n, originaria y pasiva, recibe un pago llamado renta. Segunda fila, el trabajo o letra L, la fuerza activa, es retribuido con el salario. Tercera fila, el capital. Letra K. Nuestro auxiliar derivado recibe interés. Ahora los modernos abajo, la empresa, la e, el gran organizador, se lleva la ganancia o utilidad y en la base de la tabla, el estado, ES o G como regulador recibe su parte a través de la tributación o los impuestos. Si logramos",
+                "inicio_segundos": 456.039,
+                "fin_segundos": 493.159,
+                "segundos": 456,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            }
+          ],
+          "duracion_segundos": 499,
+          "summary_provenance": {
+            "model": "Codex",
+            "prompt_version": "cachimboz-economia-additions-20261020",
+            "generated_at": "2026-10-20T18:04:58.909Z",
+            "source_sha256": "e1197702ab053c669496dcf8ce595c50055739d4d52c7fa87bc35be06f46685a",
+            "transcript_segments_sha256": "bd4a0d1e799635473635e4527db7197490ba941b7e555a6d379908aa265c8c26",
+            "key_point_evidence": [
+              {
+                "segmento_inicio": "s000027",
+                "segmento_fin": "s000055",
+                "cita": "Bueno, la respuesta es el famoso valor agregado. A medida que los insumos pasan por la transformación, van adquiriendo un valor adicional. Pero ojo, este valor extra no aparece por arte de magia. es el resultado directo de aplicar lo que llamamos factores productivos, que son literalmente todas esas herramientas y esfuerzos humanos que hacen que la transformación sea posible y sobre todo eficiente. Pasemos a la sección dos, los factores clásicos y modernos. Ya que sabemos qué es la producción, toca conocer a los verdaderos protagonistas. En la teoría económica hay una gran división histórica. Resulta que los economistas clásicos agruparon los elementos productivos en tres pesos pesados: la naturaleza, el trabajo y el capital. Estos son los factores básicos o clásicos, los que siempre han estado ahí desde el inicio de la civilización. Por otro lado, conforme las sociedades se volvieron",
+                "inicio_segundos": 64.08,
+                "fin_segundos": 131.64,
+                "segundos": 64,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000066",
+                "segmento_fin": "s000102",
+                "cita": "joya. En economía, cuando escuchamos la palabra tierra, no nos referimos solo al suelo que pisamos. Es un concepto inmenso que engloba absolutamente todos los recursos naturales, minerales, petróleo, gas, bosques, los peces en el mar, el agua y hasta el aire. Todos estos son literalmente los dones de la naturaleza. Y aquí hay que encender las alarmas porque es una típica trampa de examen. Parking detalla muy bien qué incluye esta naturaleza. Por un lado están los recursos renovables como el agua, la superficie terrestre o incluso minerales que podemos reciclar y volver a usar. Pero por otro lado están los recursos no renovables, como el gas, el carbón o el petróleo. ¿Por qué no renovables? porque tienen la terrible cualidad de que solo pueden emplearse una sola vez. Se queman, generan energía y desaparecen. Conocer esta diferencia es clave para asegurar esos puntos en las opciones",
+                "inicio_segundos": 151.4,
+                "fin_segundos": 240.72,
+                "segundos": 151,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000109",
+                "segmento_fin": "s000133",
+                "cita": "Aquí entra en escena el factor trabajo, que en economía se representa con la letra L, por la palabra en inglés labor. El trabajo es todo el tiempo y esfuerzo dedicado a producir y ojo, no es solo sudar en una construcción. Abarca tanto el esfuerzo físico de obreros y fábricas como el esfuerzo mental en oficinas, comercio o diseño. A diferencia de la naturaleza, el trabajo es un factor activo y determinante porque es el humano quien decide y actúa, pero al igual que la naturaleza, también se le considera originario. Un detalle fascinante aquí es que la calidad del trabajo no es siempre la misma, depende del famoso capital humano. Y esto no es otra cosa que todo ese conocimiento y habilidad que la gente obtiene estudiando, capacitándose y ganando experiencia. De hecho, al estar repasando estos conceptos en esta explicación, quienes nos acompañan hoy están construyendo e incrementando",
+                "inicio_segundos": 252.159,
+                "fin_segundos": 310.16,
+                "segundos": 252,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000134",
+                "segmento_fin": "s000151",
+                "cita": "Ahora hablemos del tercer factor clásico, el capital representado con la letra K, alerta máxima de examen. Aquí mismo, normalmente al escuchar capital pensamos en fajos de billetes, ¿cierto? Pues resulta que el dinero, las acciones y los bonos son capital financiero. Sí, ayudan a pedir préstamos, pero el dinero en sí mismo no martilla clavos ni corta madera. Así que técnicamente el capital financiero no es un recurso productivo directo. Lo que sí es un factor productivo es el capital productivo, las herramientas, las máquinas, los edificios. A este factor se le llama derivado y auxiliar, simplemente porque fue creado por nosotros para facilitar la producción. Llegamos a la sección",
+                "inicio_segundos": 308.28,
+                "fin_segundos": 354,
+                "segundos": 308,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000158",
+                "segmento_fin": "s000169",
+                "cita": "El primer factor moderno es la empresa representada con la letra E. Según el portal Concepto.d en su publicación de 2013, la empresa es el factor organizador. Su rol es tomar esa naturaleza, el trabajo y el capital y unirlos usando planificaciones y estrategias. ¿Y por qué se toman toda esta molestia? Por un objetivo clarísimo, obtener una ganancia o rédito económico al satisfacer lo que la gente demanda. El segundo factor moderno es el",
+                "inicio_segundos": 364.639,
+                "fin_segundos": 396.08,
+                "segundos": 364,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000170",
+                "segmento_fin": "s000182",
+                "cita": "Estado representado con las letras E, S o G por la palabra gobierno. Basándonos en concepto punto Del 2021, el Estado actúa como el gran árbitro del partido. Es el factor regulador y fiscalizador. Su trabajo es poner las reglas del juego mediante un marco jurídico para garantizar el orden social. Además, influye directamente aplicando políticas económicas. Sin el Estado, simplemente no habría reglas claras sobre cómo operan las empresas o cómo se protegen nuestros recursos.",
+                "inicio_segundos": 393.319,
+                "fin_segundos": 426.96000000000004,
+                "segundos": 393,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000198",
+                "segmento_fin": "s000210",
+                "cita": "quirúrgica. Los clásicos arriba. La naturaleza, con la letra n, originaria y pasiva, recibe un pago llamado renta. Segunda fila, el trabajo o letra L, la fuerza activa, es retribuido con el salario. Tercera fila, el capital. Letra K. Nuestro auxiliar derivado recibe interés. Ahora los modernos abajo, la empresa, la e, el gran organizador, se lleva la ganancia o utilidad y en la base de la tabla, el estado, ES o G como regulador recibe su parte a través de la tributación o los impuestos. Si logramos",
+                "inicio_segundos": 456.039,
+                "fin_segundos": 493.159,
+                "segundos": 456,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              }
+            ],
+            "source_integrity": "exact_lesson_course_and_youtube_id",
+            "validation": "plain_text_and_literal_segment_evidence",
+            "factual_review": "source_reviewed_not_human_verified",
+            "playback": "not_verified"
+          }
+        },
+        {
+          "titulo": "4.4 Función y Fórmula de producción",
+          "youtube_id": "rIjiVPy2Z6o",
+          "pdf_link": "https://drive.google.com/file/d/1w3dJcYuDeEk4GsYGE-6O-ryS2BRQksuv/view",
+          "gratis": true,
+          "lesson_id": "economia_1_t04_v05",
+          "resumen": "La clase utiliza un negocio de hamburguesas para explicar la función de producción como relación entre nivel producido, naturaleza, trabajo y capital, dada una tecnología. Distingue corto plazo, con al menos un factor fijo, de largo plazo, cuando todos pueden variar. Define la productividad a partir de la relación entre producción e insumos y ejemplifica que cien hamburguesas por hora con dos cocineros equivalen a cincuenta por trabajador y hora. Compara productividad media con productividad marginal, entendida como el aporte adicional de un factor manteniendo los demás constantes, y presenta productividad laboral y total de los factores. El repaso final conecta estas ideas con las fases del proceso económico, el valor agregado, el capital productivo y la diferencia entre extracción primaria y transformación secundaria.",
+          "puntos_clave": [
+            "La función de producción relaciona el nivel producido con naturaleza, trabajo y capital, dada una tecnología; la clase la expresa como Qx = f(N, L, K).",
+            "En el corto plazo al menos un factor permanece fijo, habitualmente el capital; en el largo plazo todos los factores pueden variar.",
+            "La productividad vincula producción e insumos: cien hamburguesas en una hora con dos cocineros dan cincuenta hamburguesas por trabajador y hora.",
+            "La productividad media divide el producto total entre la cantidad del factor; la marginal mide el aporte de una unidad adicional manteniendo los demás factores constantes.",
+            "La clase distingue productividad laboral, marginal y total de los factores; esta última combina naturaleza, capital y trabajo para analizar la eficiencia global.",
+            "El repaso del proceso económico enlaza producción, circulación, distribución y consumo; el ahorro financia la inversión que permite iniciar un nuevo ciclo.",
+            "La extracción directa de recursos corresponde al sector primario, mientras su transformación industrial pertenece al secundario."
+          ],
+          "momentos_clave": [
+            {
+              "titulo": "Función de producción y variables",
+              "texto": "El negocio de hamburguesas permite interpretar Qx, naturaleza, trabajo, capital y la relación funcional.",
+              "segundos": 11,
+              "youtube_id": "rIjiVPy2Z6o",
+              "evidencia": {
+                "segmento_inicio": "s000005",
+                "segmento_fin": "s000035",
+                "cita": "Según la definición estricta que exigen las universidades y citando al experto Cervantes Liñán, la función de producción no es simplemente mezclar ingredientes al azar, no. Es una combinación matemática precisa para producir de la forma más eficiente posible, dada una tecnología específica. La regla de oro aquí es clarísima. Un negocio exitoso jamás, pero jamás despilfarra sus recursos. Cada combinación tiene que ser la más eficaz del mercado. Bueno, aquí es donde activamos nuestro traductor de Herga. Esta es la famosa fórmula que asusta a muchos, la de qx = a la función de n, L y K. Pero vamos a aterrizarla a la realidad. QX es el total de hamburguesas que vendemos en el examen. A eso le llaman nivel de producción. La letra L es nuestro cocinero estrella en la parrilla, es decir, el factor trabajo. La K es el carrito y la plancha misma, lo que conocemos como factor capital. La N",
+                "inicio_segundos": 11.08,
+                "fin_segundos": 83,
+                "segundos": 11,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Corto y largo plazo",
+              "texto": "Se compara la presencia de factores fijos con la posibilidad de variar todos los factores.",
+              "segundos": 90,
+              "youtube_id": "rIjiVPy2Z6o",
+              "evidencia": {
+                "segmento_inicio": "s000040",
+                "segmento_fin": "s000068",
+                "cita": "La diferencia clave entre ambos conceptos está en los límites físicos y de tiempo. Fíjense, en el corto plazo, el tamaño de nuestro carrito de hamburguesas es un límite fijo. No podemos construir un restaurante gigante de un día para otro, ¿cierto? Por eso, en el corto plazo asumimos que al menos un factor es fijo, que casi siempre es el capital. Pero atención, en el largo plazo, si el negocio explota y es un éxito total, absolutamente todo se puede expandir y modificar. Podemos alquilar un local inmenso, lo que significa que en el largo plazo todos los factores se vuelven variables. Y para que esto quede grabado en piedra, hagamos un contraste rápido. Los factores fijos, como el pago del alquiler del local o las licencias municipales, son totalmente independientes de cuántas hamburguesas vendamos. Hay que pagarlos sí o sí. Vendas una o 1000. En cambio, los factores variables dependen",
+                "inicio_segundos": 90.04,
+                "fin_segundos": 160.159,
+                "segundos": 90,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Productividad: ejemplo numérico",
+              "texto": "Se calcula la producción por trabajador y hora a partir de cien hamburguesas y dos cocineros.",
+              "segundos": 165,
+              "youtube_id": "rIjiVPy2Z6o",
+              "evidencia": {
+                "segmento_inicio": "s000072",
+                "segmento_fin": "s000091",
+                "cita": "Álvarez Moro da en el clavo con esta definición formal. Presten atención a estas palabras mágicas. Máximo rendimiento y mínimo de recursos. El objetivo final no es simplemente producir muchísimas hamburguesas y ya. El verdadero secreto es producir esa misma cantidad inmensa, pero gastando la menor cantidad de recursos posible en un tiempo determinado. Mientras menos recursos necesiten para crear el mismo producto, mayor será la eficiencia de su imperio. Y matemáticamente esto es sersencillo. Imaginen esto. Si nuestro carrito produce 100 hamburguesas en una hora usando a dos cocineros, aplicamos la fórmula. 100 unidades de producción entre dos unidades de insumo nos da una productividad exacta de 50 hamburguesas por trabajador. 50 por hora hombre. Así",
+                "inicio_segundos": 165.2,
+                "fin_segundos": 215.12,
+                "segundos": 165,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Productividad media y marginal",
+              "texto": "Se diferencia el promedio por trabajador del aporte de un trabajador adicional con los demás factores constantes.",
+              "segundos": 225,
+              "youtube_id": "rIjiVPy2Z6o",
+              "evidencia": {
+                "segmento_inicio": "s000098",
+                "segmento_fin": "s000112",
+                "cita": "Encendemos el traductor de Herga una vez más. La productividad media o PME es justo lo que acabamos de hacer, el total de hamburguesas dividido por el total de trabajadores. Sencillo, pero la productividad marginal es otra historia. Muchas veces la verán como la primera derivada del producto total. ¿Qué significa esto en la vida real? nos dice exactamente cuántas hamburguesas extra ganamos si contratamos a un solo cocinero adicional, manteniendo el tamaño del carrito y todo lo demás constante. Es decir, mide exclusivamente el aporte extra de ese nuevo integrante.",
+                "inicio_segundos": 225.599,
+                "fin_segundos": 264,
+                "segundos": 225,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Tipos de productividad",
+              "texto": "Se presentan productividad laboral, marginal y total de los factores.",
+              "segundos": 262,
+              "youtube_id": "rIjiVPy2Z6o",
+              "evidencia": {
+                "segmento_inicio": "s000113",
+                "segmento_fin": "s000128",
+                "cita": "Sección Cinco, tipos clave de productividad. Para asegurar ese nivel avanzado que necesitamos, revisemos las clasificaciones estrictas que piden las academias. Según el autor Sevilla Arias, hay tres tipos que deben tener en el radar. laboral, que solo se enfoca en medir el esfuerzo humano, la marginal, que acabamos de ver para el impacto de un factor extra, pero la más robusta es la productividad total de los factores. Esta métrica es poderosísima porque combina la tierra, el capital y el trabajo en una sola gran ecuación para darnos la eficiencia global de todo el imperio. Sección seis, simulacro final.",
+                "inicio_segundos": 262.32,
+                "fin_segundos": 301.44,
+                "segundos": 262,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Repaso del proceso y los sectores",
+              "texto": "Las preguntas finales conectan inversión y nuevo ciclo productivo con valor agregado, capital y sectores primario y secundario.",
+              "segundos": 306,
+              "youtube_id": "rIjiVPy2Z6o",
+              "evidencia": {
+                "segmento_inicio": "s000132",
+                "segmento_fin": "s000185",
+                "cita": "Primera prueba, repasen mentalmente la secuencia exacta del proceso económico desde que empezamos hasta el final. Piénsenlo un segundo. ¿Lo tienen? Esta es la secuencia perfecta. Todo arranca con la producción, la base material, donde hacemos las hamburguesas. Luego viene la circulación, que es cuando salimos al mercado y se forman los precios. El tercer paso es la distribución, donde generamos y repartimos los ingresos de esas ventas. Esos ingresos se destinan a dos cosas. fundamentales, el consumo inmediato y el ahorro. Y adivinen qué hace el ahorro exactamente, financia la quinta y última etapa, la inversión, para comprar un carrito más grande y empezar de nuevo. Siguiente reto. Las preguntas de relacionar conceptos son las más temidas, pero no para nosotros. ¿Cómo conectamos nuestro imperio de hamburguesas con estas definiciones superacadémicas? Aquí tienen el resumen definitivo,",
+                "inicio_segundos": 306.32,
+                "fin_segundos": 433.919,
+                "segundos": 306,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            }
+          ],
+          "duracion_segundos": 448,
+          "summary_provenance": {
+            "model": "Codex",
+            "prompt_version": "cachimboz-economia-additions-20261020",
+            "generated_at": "2026-10-20T18:04:58.910Z",
+            "source_sha256": "32cef53771b4afd2ea09b91344cefcfa3796d1dc98430aac3334bd0613eaeeb2",
+            "transcript_segments_sha256": "927df96182eb7e308ebe285ae5f1a61eecf92d767419f6ae460f3a11fd6929fc",
+            "key_point_evidence": [
+              {
+                "segmento_inicio": "s000005",
+                "segmento_fin": "s000035",
+                "cita": "Según la definición estricta que exigen las universidades y citando al experto Cervantes Liñán, la función de producción no es simplemente mezclar ingredientes al azar, no. Es una combinación matemática precisa para producir de la forma más eficiente posible, dada una tecnología específica. La regla de oro aquí es clarísima. Un negocio exitoso jamás, pero jamás despilfarra sus recursos. Cada combinación tiene que ser la más eficaz del mercado. Bueno, aquí es donde activamos nuestro traductor de Herga. Esta es la famosa fórmula que asusta a muchos, la de qx = a la función de n, L y K. Pero vamos a aterrizarla a la realidad. QX es el total de hamburguesas que vendemos en el examen. A eso le llaman nivel de producción. La letra L es nuestro cocinero estrella en la parrilla, es decir, el factor trabajo. La K es el carrito y la plancha misma, lo que conocemos como factor capital. La N",
+                "inicio_segundos": 11.08,
+                "fin_segundos": 83,
+                "segundos": 11,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000040",
+                "segmento_fin": "s000055",
+                "cita": "La diferencia clave entre ambos conceptos está en los límites físicos y de tiempo. Fíjense, en el corto plazo, el tamaño de nuestro carrito de hamburguesas es un límite fijo. No podemos construir un restaurante gigante de un día para otro, ¿cierto? Por eso, en el corto plazo asumimos que al menos un factor es fijo, que casi siempre es el capital. Pero atención, en el largo plazo, si el negocio explota y es un éxito total, absolutamente todo se puede expandir y modificar. Podemos alquilar un local inmenso, lo que significa que en el largo plazo todos los factores se vuelven variables. Y para que esto quede",
+                "inicio_segundos": 90.04,
+                "fin_segundos": 128.679,
+                "segundos": 90,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000072",
+                "segmento_fin": "s000091",
+                "cita": "Álvarez Moro da en el clavo con esta definición formal. Presten atención a estas palabras mágicas. Máximo rendimiento y mínimo de recursos. El objetivo final no es simplemente producir muchísimas hamburguesas y ya. El verdadero secreto es producir esa misma cantidad inmensa, pero gastando la menor cantidad de recursos posible en un tiempo determinado. Mientras menos recursos necesiten para crear el mismo producto, mayor será la eficiencia de su imperio. Y matemáticamente esto es sersencillo. Imaginen esto. Si nuestro carrito produce 100 hamburguesas en una hora usando a dos cocineros, aplicamos la fórmula. 100 unidades de producción entre dos unidades de insumo nos da una productividad exacta de 50 hamburguesas por trabajador. 50 por hora hombre. Así",
+                "inicio_segundos": 165.2,
+                "fin_segundos": 215.12,
+                "segundos": 165,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000098",
+                "segmento_fin": "s000112",
+                "cita": "Encendemos el traductor de Herga una vez más. La productividad media o PME es justo lo que acabamos de hacer, el total de hamburguesas dividido por el total de trabajadores. Sencillo, pero la productividad marginal es otra historia. Muchas veces la verán como la primera derivada del producto total. ¿Qué significa esto en la vida real? nos dice exactamente cuántas hamburguesas extra ganamos si contratamos a un solo cocinero adicional, manteniendo el tamaño del carrito y todo lo demás constante. Es decir, mide exclusivamente el aporte extra de ese nuevo integrante.",
+                "inicio_segundos": 225.599,
+                "fin_segundos": 264,
+                "segundos": 225,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000113",
+                "segmento_fin": "s000128",
+                "cita": "Sección Cinco, tipos clave de productividad. Para asegurar ese nivel avanzado que necesitamos, revisemos las clasificaciones estrictas que piden las academias. Según el autor Sevilla Arias, hay tres tipos que deben tener en el radar. laboral, que solo se enfoca en medir el esfuerzo humano, la marginal, que acabamos de ver para el impacto de un factor extra, pero la más robusta es la productividad total de los factores. Esta métrica es poderosísima porque combina la tierra, el capital y el trabajo en una sola gran ecuación para darnos la eficiencia global de todo el imperio. Sección seis, simulacro final.",
+                "inicio_segundos": 262.32,
+                "fin_segundos": 301.44,
+                "segundos": 262,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000132",
+                "segmento_fin": "s000149",
+                "cita": "Primera prueba, repasen mentalmente la secuencia exacta del proceso económico desde que empezamos hasta el final. Piénsenlo un segundo. ¿Lo tienen? Esta es la secuencia perfecta. Todo arranca con la producción, la base material, donde hacemos las hamburguesas. Luego viene la circulación, que es cuando salimos al mercado y se forman los precios. El tercer paso es la distribución, donde generamos y repartimos los ingresos de esas ventas. Esos ingresos se destinan a dos cosas. fundamentales, el consumo inmediato y el ahorro. Y adivinen qué hace el ahorro exactamente, financia la quinta y última etapa, la inversión, para comprar un carrito más grande y empezar de nuevo.",
+                "inicio_segundos": 306.32,
+                "fin_segundos": 350.919,
+                "segundos": 306,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000171",
+                "segmento_fin": "s000185",
+                "cita": "obstáculo de hoy. Esta es una clasificación en la que mucha gente resbala. Los famosos sectores económicos de producción. El sector primario se encarga de la extracción. Su función es explotar directamente los recursos naturales del suelo, subsuelo o el mar. Pero el sector secundario se encarga de la transformación industrial, es decir, es como ir al campo a sacar papas de la tierra en el sector primario y luego llevarlas a una fábrica llena de maquinaria para transformarlas en nuestras famosas papas fritas envasadas, que sería el sector secundario. Con este",
+                "inicio_segundos": 397.72,
+                "fin_segundos": 433.919,
+                "segundos": 397,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              }
+            ],
+            "source_integrity": "exact_lesson_course_and_youtube_id",
+            "validation": "plain_text_and_literal_segment_evidence",
+            "factual_review": "source_reviewed_not_human_verified",
+            "playback": "not_verified"
+          }
+        },
+        {
+          "titulo": "4.5 Síntesis del tema",
           "youtube_id": "FIq4Pz1D-Sk",
           "pdf_link": "https://drive.google.com/file/d/1w3dJcYuDeEk4GsYGE-6O-ryS2BRQksuv/view",
-          "gratis": true
+          "gratis": true,
+          "lesson_id": "economia_1_t04_v01"
         }
       ]
     },
