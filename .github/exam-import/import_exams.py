@@ -24,7 +24,7 @@ def get(url,raw=False):
 
 request=json.loads(get(SOURCE+'/.github/exam-import/request.json'))
 assert request['repository']==REPO
-assert [x['university'] for x in request['packages']]==['UNMSM','UNI','UNSA']
+assert [x['university'] for x in request['packages']] in [['UNMSM','UNI','UNSA'],['UNMSM','UNI','UNSA','CATALOG']]
 tmp=Path(tempfile.mkdtemp(prefix='exam-import-'));checkout=tmp/'repo'
 
 def git(*args,check=True,auth=False):
@@ -73,7 +73,7 @@ for package in request['packages']:
     archive.unlink()
 
 # One normal fast-forward push publishes the three ordered university commits.
-git('push','origin','HEAD:main',auth=True)
-print(json.dumps({'status':'published','commits':commits}),flush=True)
+if not request.get('dryRun',False):git('push','origin','HEAD:main',auth=True)
+print(json.dumps({'status':'dry-run-passed' if request.get('dryRun',False) else 'published','commits':commits}),flush=True)
 with open(os.environ['GITHUB_STEP_SUMMARY'],'a',encoding='utf8') as f:
     for c in commits:f.write('- '+c['university']+': https://github.com/'+REPO+'/commit/'+c['sha']+'\n')

@@ -1,0 +1,73 @@
+{
+  "repository": "WilsonCcopa/db-cachimboz",
+  "expectedMain": "8f66871d2c5ab40be6db3a00ff9929cdececd3cf",
+  "dryRun": true,
+  "packages": [
+    {
+      "university": "UNMSM",
+      "archiveSha256": "00ba40975fca1dbb4230f217e40c5aa8f7f5d40d34b5a6f9945a9fa3c2ff1f76",
+      "archiveBytes": 27899,
+      "files": 1,
+      "entries": [
+        {
+          "path": "assets/exams/unmsm/2027-i/a/011-question.png",
+          "bytes": 28407,
+          "sha256": "af5c46516d71f710b8e50cae592ffca4010bdc7bb31d554c3ed7d42a33b51919"
+        }
+      ],
+      "parts": [
+        {
+          "index": 0,
+          "bytes": 27899,
+          "sha": "2f579fa50e06df63118b646539e55eb08676e866",
+          "sha256": "00ba40975fca1dbb4230f217e40c5aa8f7f5d40d34b5a6f9945a9fa3c2ff1f76"
+        }
+      ],
+      "message": "Verifica transporte UNMSM"
+    },
+    {
+      "university": "UNI",
+      "archiveSha256": "66e79d63f0feeeaf37b4efbfcda5e213c78524622a75bb584ff8eb17a7278d59",
+      "archiveBytes": 51565,
+      "files": 1,
+      "entries": [
+        {
+          "path": "assets/exams/uni/2026-ii/test-1-q-001-question.webp",
+          "bytes": 84730,
+          "sha256": "97b41757af8e38dc6d8b95a84ac540c0c0dfd16529419190cae677db02a29ce7"
+        }
+      ],
+      "parts": [
+        {
+          "index": 0,
+          "bytes": 51565,
+          "sha": "6b8ce70452a3455b1b1f11dc9c3a329806d895a0",
+          "sha256": "66e79d63f0feeeaf37b4efbfcda5e213c78524622a75bb584ff8eb17a7278d59"
+        }
+      ],
+      "message": "Verifica transporte UNI"
+    },
+    {
+      "university": "UNSA",
+      "archiveSha256": "dc1548082f2946db282a805dbd0c3488d1ca289f9242b6fe69d64575c6ec431a",
+      "archiveBytes": 60937,
+      "files": 1,
+      "entries": [
+        {
+          "path": "assets/exams/unsa/2024-ii/soc-01-pregunta.png",
+          "bytes": 65654,
+          "sha256": "9694593793a18d110e8045c38b735a829209c9bebf81a33e622e78bd8e91bd54"
+        }
+      ],
+      "parts": [
+        {
+          "index": 0,
+          "bytes": 60937,
+          "sha": "8d221f4265291619b1b8a1f9e31e955d8c46f49d",
+          "sha256": "dc1548082f2946db282a805dbd0c3488d1ca289f9242b6fe69d64575c6ec431a"
+        }
+      ],
+      "message": "Verifica transporte UNSA"
+    }
+  ]
+}
