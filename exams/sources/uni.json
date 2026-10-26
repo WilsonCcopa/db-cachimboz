@@ -1,0 +1,535 @@
+{
+  "schemaVersion": 1,
+  "university": "UNI",
+  "universityName": "Universidad Nacional de Ingeniería",
+  "generatedAt": "2026-10-26T02:44:35+00:00",
+  "note": "Materiales editoriales y fuentes complementarias identificados por proceso. Una corrección o ausencia de clave editorial no equivale a una anulación oficial de la universidad.",
+  "processes": [
+    {
+      "process": "2026-II",
+      "sources": [
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1vKnQHZ6P2DyY0n0TkLrUWPWaUValYh_d/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2026-2/",
+          "pages": 23,
+          "bytes": 1918339,
+          "sha256": "98066620afa3f2ed359851e912220dabea454465980c1ada2cc6160a0d9c395d",
+          "role": "material_editorial",
+          "test": 1
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1lKLDsrLtF-L3VAfC1-wCb0VOjjBVSOaX/view?usp=drive_link",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2026-2/",
+          "pages": 6,
+          "bytes": 1272612,
+          "sha256": "05042c2c112ec6c9b5c140a18e6b0ccec13d0a05cb057f2a25d6b52720be0f78",
+          "role": "material_editorial",
+          "test": 1
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1zskhWMzuxm3DJk57xbbbDP7PM9MIT6W8/view?usp=drive_link",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2026-2/",
+          "pages": 24,
+          "bytes": 2367414,
+          "sha256": "a9ab9b35b37370d60c3352f7efd65b70e6f758896c1920154b097c8c4035736f",
+          "role": "material_editorial",
+          "test": 1
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1QBo1XNPaF9rz6pMNbUd3m9wj0ws79t_o/view?usp=drivesdk",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2026-2/",
+          "pages": 10,
+          "bytes": 1556947,
+          "sha256": "f1fdc92c8f4885dd0eec38fc511ec5d86ae520ed71a2bf8ffecfc27ee077457d",
+          "role": "material_editorial",
+          "test": 2
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1eJjkqgX6-9QzAREjlurn-LdEQOrHshCu/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2026-2/",
+          "pages": 4,
+          "bytes": 1243323,
+          "sha256": "86367de5f693531aa4b543a21fd894f0f22efc08b32a8efd3bee1dd7f25a18ff",
+          "role": "material_editorial",
+          "test": 2
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1JH4sjvoY2YXoYWLALxj-E3al_2lAdrTe/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2026-2/",
+          "pages": 16,
+          "bytes": 2008305,
+          "sha256": "ae03eb18cdc697ce110e8087cc85a76b08fe26db6e4587c1a3f4abe97891a078",
+          "role": "material_editorial",
+          "test": 2
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1e1Uz4NuhRDPmJ8GcOgA1C3_p2nwvOpik/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2026-2/",
+          "pages": 10,
+          "bytes": 1444300,
+          "sha256": "a7c278bf6756191504c02ee33b24a4eea4f383c282056e844174f9074f1e7017",
+          "role": "material_editorial",
+          "test": 3
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1QIeHS476G5o9puLMvo_yJOCm_qluO64j/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2026-2/",
+          "pages": 4,
+          "bytes": 1222784,
+          "sha256": "6fd95f867d174df7da8007e8a5cebee75acbe43f966379f4527cd1cb6ec545bf",
+          "role": "material_editorial",
+          "test": 3
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1XhRRluJqeOiWG6FHIwIhk_7NSXejXQeg/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2026-2/",
+          "pages": 13,
+          "bytes": 2187292,
+          "sha256": "bbe8742cb830c544c32d351182684167684034e008aadd06cd591a2a207b3c4a",
+          "role": "material_editorial",
+          "test": 3
+        }
+      ],
+      "supplementalContexts": []
+    },
+    {
+      "process": "2026-I",
+      "sources": [
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1bzFgVOGALUPggkD15b50p-6truPKOr-w/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2026-1/",
+          "pages": 21,
+          "bytes": 1781388,
+          "sha256": "2f098cdd8e4014a6e121d80b5fb091360de8d87761bce06491c891e00895f426",
+          "role": "material_editorial",
+          "test": 1
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1A8x-G-lhxqcpTbxjbUSKWJUFoNdvsl5q/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2026-1/",
+          "pages": 6,
+          "bytes": 1373241,
+          "sha256": "2fdcbccf8dd3a89bfca9a5da59a21e14f828af87ec2f5b05b04e86c16c4ec124",
+          "role": "material_editorial",
+          "test": 1
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1W9iXBS0QUcQOptV38cQwwH5g0PxFmDxQ/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2026-1/",
+          "pages": 28,
+          "bytes": 2949140,
+          "sha256": "b2e7cd6bdbd374c1e014ce504e8a10be1f0661983bdbbbaa1c7b6aa2a10c8354",
+          "role": "material_editorial",
+          "test": 1
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1rI7pzZv_FAhvBQguXH0PBP6bLji1DW1Y/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2026-1/",
+          "pages": 10,
+          "bytes": 1641218,
+          "sha256": "267248efe880c05c1a85e27db2378fe1429beb44286bc764c1cf5f2df4297a9a",
+          "role": "material_editorial",
+          "test": 2
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1LDd2wTn66dLpAYA9eR3g-43IeoRfT1TJ/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2026-1/",
+          "pages": 4,
+          "bytes": 1308367,
+          "sha256": "a235703c2ba4cb2ecebbed12334ddc3924e12255fc59b1216bd02251f22ff258",
+          "role": "material_editorial",
+          "test": 2
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1mk7ZiaVvbMjPvVh2KSQHYuhGvFXxBYSn/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2026-1/",
+          "pages": 18,
+          "bytes": 2608011,
+          "sha256": "8cd15f742aa51a9f064ab330fdfbc22742051bd5e75f3397c8becbace0af0d17",
+          "role": "material_editorial",
+          "test": 2
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1g9MjeU3dRDfXmSd1ZRZKsyY1y1usZwH2/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2026-1/",
+          "pages": 10,
+          "bytes": 1550193,
+          "sha256": "ecf4da46fbe5c49750d9995e442729404c38c8df8f33cb779642dba86d508d6a",
+          "role": "material_editorial",
+          "test": 3
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/195BsZlNyBk-_gXi2I01jNGwyJcos8mTl/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2026-1/",
+          "pages": 4,
+          "bytes": 1284410,
+          "sha256": "a8f665a7f911f88cd7b0da0fc8124e03b1502789b222971fd0666feee0103a51",
+          "role": "material_editorial",
+          "test": 3
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1eg_pXp4xyVLwOsxfZ_fiBpPcF32SAkkU/view?usp=drive_link",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2026-1/",
+          "pages": 17,
+          "bytes": 2584958,
+          "sha256": "ad375d672be969f9b0ac0ee4cb91ef45a667886a1c4da951aed1d8929aae22e6",
+          "role": "material_editorial",
+          "test": 3
+        }
+      ],
+      "supplementalContexts": []
+    },
+    {
+      "process": "2025-II",
+      "sources": [
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/14ModykUHVZrP1OwwW0bXOmopwf4cFpGf/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2025-2/",
+          "pages": 22,
+          "bytes": 1675032,
+          "sha256": "b71889a74121a3f06b9c61f3e5de95d40854048e5f9b688a2235b63f0403261c",
+          "role": "material_editorial",
+          "test": 1
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1cKJ4-nZXuoCoh_QU0JIpaYKuishGQOpy/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2025-2/",
+          "pages": 6,
+          "bytes": 1229220,
+          "sha256": "022d8eb8975a6ba7c98bbe9072db92d42d7f8ade4dcd9ae5adc4b2ac7f4d9db7",
+          "role": "material_editorial",
+          "test": 1
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1fblWkasXTwd94SQQlvlOUGZYV5U4ASgE/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2025-2/",
+          "pages": 46,
+          "bytes": 4113662,
+          "sha256": "eb1ede328aa5f2f1234fb7c8d72ade74bd1e2d5f21cb1c906e794fb1e736e13f",
+          "role": "material_editorial",
+          "test": 1
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1DAkkSWg0ijJSKgAdfdOi5msMt_wLk7mT/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2025-2/",
+          "pages": 11,
+          "bytes": 1502757,
+          "sha256": "4f4fc07f633f033a94d40ebb3a1a2494c7389d0d3a8bd217d5746e7256b15aea",
+          "role": "material_editorial",
+          "test": 2
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1F6X_y0sxNBa1zbOTmaJz5dvOktHZQO9O/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2025-2/",
+          "pages": 4,
+          "bytes": 1163649,
+          "sha256": "6a953960982dd4e8b1222b2e26d4336ccb76d70dacdf66eeb364c9e64debc1d9",
+          "role": "material_editorial",
+          "test": 2
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1QSsKfRP_S0q9ihwGa6ca-peANmWq-YH4/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2025-2/",
+          "pages": 26,
+          "bytes": 2585531,
+          "sha256": "752f739e4f8ee58d6a06cc3d82d718b0d3b8ea58e754d665f61f44c3c190c896",
+          "role": "material_editorial",
+          "test": 2
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1oK6Lvq_jljIkDJap4iw7By-3zI6GZXI6/view?usp=drive_link",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2025-2/",
+          "pages": 11,
+          "bytes": 1539836,
+          "sha256": "8894d2159ce34c5aeae6da9e3041f99889f0d7e328fbeea472bf2e5b3ffa638d",
+          "role": "material_editorial",
+          "test": 3
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1DRjP70hhF7C853RV7m7DXrtdcHfEnvaB/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2025-2/",
+          "pages": 4,
+          "bytes": 1173902,
+          "sha256": "b438d1c51e7c89b7920298376a9bac5e31ab52608ed507cbb7a4e816efd3594f",
+          "role": "material_editorial",
+          "test": 3
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/12Sq0AOJ8Mkzwea7lTrWHsZgGrUmaEANX/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2025-2/",
+          "pages": 25,
+          "bytes": 2946696,
+          "sha256": "dcd10d3ea9919e911d8e47779a40349be089bac2f0be4ce8e97ffcfb1de583cb",
+          "role": "material_editorial",
+          "test": 3
+        }
+      ],
+      "supplementalContexts": []
+    },
+    {
+      "process": "2025-I",
+      "sources": [
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1ZFNVjKh23MJXMztFdrNYbAxRQ2hSgoKn/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2025-1/",
+          "pages": 23,
+          "bytes": 1405772,
+          "sha256": "f3b9c7dfab96ef715a48d0d7c977c762a40d3a20241749942165e33a6090910b",
+          "role": "material_editorial",
+          "test": 1
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1HXA4hd_9TBr3cuH67txLBVn5C0Ol5doB/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2025-1/",
+          "pages": 6,
+          "bytes": 922058,
+          "sha256": "7f3fc1d2e27d05a3a7166a79aedef1fb33882031fbd5e5e13c2c7b7d18006896",
+          "role": "material_editorial",
+          "test": 1
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1_xz7M4FDCy9WAgSPR_zuMq7HVVXsShtG/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2025-1/",
+          "pages": 48,
+          "bytes": 3231357,
+          "sha256": "53819fbea022c51e24b592daa31305c20a1039e02e1570966e81e1b8b2231262",
+          "role": "material_editorial",
+          "test": 1
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1cboUs9SUiVAz3mGIFkCGhn3HyRCGh-U5/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2025-1/",
+          "pages": 10,
+          "bytes": 1089781,
+          "sha256": "e02dbe4e5993e58e3728e81f64fdbf4767991d56bf404d81459aabaf9d10f185",
+          "role": "material_editorial",
+          "test": 2
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1BSaFLx1WDNo7QT7cJVx2-97s29_QZxz7/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2025-1/",
+          "pages": 4,
+          "bytes": 845472,
+          "sha256": "79f8fd5bdb9667214e0d31facad6c216e1ed1700814bdabfaae69814e29f1a15",
+          "role": "material_editorial",
+          "test": 2
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1DCPNQjawo8D4cGUemCiGvlHpQ50MHCR6/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2025-1/",
+          "pages": 23,
+          "bytes": 2018165,
+          "sha256": "1b349097d58638e45c95f90fee30cf92ebabd3ca2ad50595470a3a7291341e16",
+          "role": "material_editorial",
+          "test": 2
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1LE2HQQZj1t0QWBlWps2-uOpx14iMbHAr/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2025-1/",
+          "pages": 10,
+          "bytes": 1128839,
+          "sha256": "cdcae1cfbfc053d60513eb721079893ce316ea7bf4bc63fa45a5c84acfb14204",
+          "role": "material_editorial",
+          "test": 3
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/14jZXb1ERuL7ccSDeUlQRaxLwj5hBAYdh/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2025-1/",
+          "pages": 4,
+          "bytes": 819369,
+          "sha256": "14556badbf0cba1d5c7b7aa56575772bf3388dd8309f3cea6c2728b921b2740a",
+          "role": "material_editorial",
+          "test": 3
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1bNB_-SYZ2y2H-FqRvmaRwaqfariyhOEb/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2025-1/",
+          "pages": 23,
+          "bytes": 2140846,
+          "sha256": "8a007481338571a1e32312bd1b8f82e6b8995f654ca1ab70a90fb1972795073d",
+          "role": "material_editorial",
+          "test": 3
+        }
+      ],
+      "supplementalContexts": []
+    },
+    {
+      "process": "2024-II",
+      "sources": [
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1GeRqDyYy6aZK2HhyrCkKVsQPeUwU3fVn/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2024-2/",
+          "pages": 24,
+          "bytes": 1618938,
+          "sha256": "f872952987111bbec235cf82be28ef521b407fdb4111120f105702f51b95a1ec",
+          "role": "material_editorial",
+          "test": 1
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1lznoi-QpAfPyA8iCdcCoemn1dvGsB0ai/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2024-2/",
+          "pages": 6,
+          "bytes": 1194357,
+          "sha256": "09a7dbf7fc81ff287e32678f9e988ed574c435540eeb4cbba7b706ce812a7328",
+          "role": "material_editorial",
+          "test": 1
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1eUvZzSXNMqQ-c__RH90jonsVhbDizIfK/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2024-2/",
+          "pages": 48,
+          "bytes": 3300882,
+          "sha256": "c3836456f3ce3f07e00bdc6835f2054968c2050f29ee946804f8453ff3c15957",
+          "role": "material_editorial",
+          "test": 1
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1939In0AJMUlWs-ZS6N8wjPpxCKTmWlJ3/view?usp=drive_link",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2024-2/",
+          "pages": 9,
+          "bytes": 1370807,
+          "sha256": "7df68c3afdcce1e3eb9f03bc06d6f70c868b303939f28e3aaac6f764493ab299",
+          "role": "material_editorial",
+          "test": 2
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1A2i3zaW8tq40ERKGKnKHF2MMOorVPHx2/view?usp=drive_link",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2024-2/",
+          "pages": 4,
+          "bytes": 1118093,
+          "sha256": "dd3a208101361708fb2a373f66b119a3ad9f6ed013bc935b3135ed0d6c28445e",
+          "role": "material_editorial",
+          "test": 2
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1BEH7W4BTzoXK1hbWhvbUAAmwnMpXThBu/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2024-2/",
+          "pages": 26,
+          "bytes": 2867597,
+          "sha256": "8071e438608da5b011780e660f424b849704fcf96acff3fc83513b81a1cc0e5a",
+          "role": "material_editorial",
+          "test": 2
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1Ew4KFVYd6X_AzyJegwpCgJJeCYe_fmRD/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2024-2/",
+          "pages": 10,
+          "bytes": 1301061,
+          "sha256": "c04372a5b61dad2fb9be70adb41a9ed76f5f07feaaa0a87051a0695e3b4ef901",
+          "role": "material_editorial",
+          "test": 3
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1GNUPoTDMplD1DM8HJMNffiFpsVyHJhPM/view?usp=drive_link",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2024-2/",
+          "pages": 4,
+          "bytes": 1118431,
+          "sha256": "cc6b065b34ab4546990ef6eadfddc4aa736849aac0e3a477c892b1fd270c08d3",
+          "role": "material_editorial",
+          "test": 3
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1J2Ph5Xcq7-Hp2VSFLEX6VzHa7JfDYSOz/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-uni-2024-2/",
+          "pages": 24,
+          "bytes": 2542598,
+          "sha256": "f54d98fd59ab2ee411b588113ffbcfdfbcf7a1a518ed420527ce4e20bc24fc16",
+          "role": "material_editorial",
+          "test": 3
+        }
+      ],
+      "supplementalContexts": []
+    }
+  ],
+  "sourceCount": 45
+}

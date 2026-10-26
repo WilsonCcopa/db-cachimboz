@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "university": "UNI",
+  "generatedAt": "2026-10-26T02:44:35+00:00",
+  "editorialCorrectionsPath": "exams/editorial-corrections.json",
+  "originalItemsPath": "exams/original-items.json",
+  "checks": [
+    "IDs únicos y número esperado por variante o prueba",
+    "Cinco alternativas por pregunta, con correcciones editoriales identificadas",
+    "Todas las respuestas validadas; versiones editoriales con respuesta única y resolución propia",
+    "Enunciado y resolución separados; fórmulas e imágenes preservadas",
+    "Contextos compartidos enlazados según el contenido de las preguntas",
+    "SHA-256 del banco y PDFs de procedencia"
+  ],
+  "processes": [
+    {
+      "process": "2026-II",
+      "bankPath": "UNI-2026-II.json",
+      "sha256": "80c706597037cf7d1ab9c9ee43fed4aae960b4676cfd70ce579fe2116152abb1",
+      "status": "passed",
+      "questions": 180,
+      "scored": 180,
+      "unscored": 0,
+      "unscoredIds": [],
+      "correctedEditorial": 0,
+      "editoriallyCorrectedIds": [],
+      "incidents": [],
+      "method": {
+        "ownHtmlEditorialQuestions": 0,
+        "ownHtmlEditorialSolutions": 0,
+        "editorialQuestionsWithSourceFigure": 0,
+        "remainingSourceImageQuestions": 180,
+        "note": "Las versiones editoriales usan enunciado y resolución didáctica propios en HTML, cinco opciones textuales y, cuando hace falta, una figura recortada de la fuente sin alternativas. El resto conserva la representación mediante imágenes; sus incidencias de procedencia se documentan por separado."
+      },
+      "answerVerificationCounts": {
+        "manual verified": 127,
+        "automatically verified": 53
+      },
+      "alternativeCoverage": "Se detectaron A–E en los 180 recortes de preguntas; la clave se cotejó con la respuesta editorial y la alternativa impresa.",
+      "incidenceCount": 0,
+      "tests": {
+        "1": 100,
+        "2": 40,
+        "3": 40
+      }
+    },
+    {
+      "process": "2026-I",
+      "bankPath": "UNI-2026-I.json",
+      "sha256": "2ccc955126db9bc55c65ebaa350d5f4def1988c1d9340b71bda4c89ee19d72e5",
+      "status": "passed",
+      "questions": 180,
+      "scored": 180,
+      "unscored": 0,
+      "unscoredIds": [],
+      "correctedEditorial": 0,
+      "editoriallyCorrectedIds": [],
+      "incidents": [],
+      "method": {
+        "ownHtmlEditorialQuestions": 0,
+        "ownHtmlEditorialSolutions": 0,
+        "editorialQuestionsWithSourceFigure": 0,
+        "remainingSourceImageQuestions": 180,
+        "note": "Las versiones editoriales usan enunciado y resolución didáctica propios en HTML, cinco opciones textuales y, cuando hace falta, una figura recortada de la fuente sin alternativas. El resto conserva la representación mediante imágenes; sus incidencias de procedencia se documentan por separado."
+      },
+      "answerVerificationCounts": {
+        "manual verified": 131,
+        "automatically verified": 49
+      },
+      "alternativeCoverage": "Se detectaron A–E en los 180 recortes de preguntas; la clave se cotejó con la respuesta editorial y la alternativa impresa.",
+      "incidenceCount": 0,
+      "tests": {
+        "1": 100,
+        "2": 40,
+        "3": 40
+      }
+    },
+    {
+      "process": "2025-II",
+      "bankPath": "UNI-2025-II.json",
+      "sha256": "ddee0ddf72ce6d4b8190741702b5fa7684549bd367ffc617ad9d0dfb8924d5ad",
+      "status": "passed",
+      "questions": 180,
+      "scored": 180,
+      "unscored": 0,
+      "unscoredIds": [],
+      "correctedEditorial": 0,
+      "editoriallyCorrectedIds": [],
+      "incidents": [],
+      "method": {
+        "ownHtmlEditorialQuestions": 0,
+        "ownHtmlEditorialSolutions": 0,
+        "editorialQuestionsWithSourceFigure": 0,
+        "remainingSourceImageQuestions": 180,
+        "note": "Las versiones editoriales usan enunciado y resolución didáctica propios en HTML, cinco opciones textuales y, cuando hace falta, una figura recortada de la fuente sin alternativas. El resto conserva la representación mediante imágenes; sus incidencias de procedencia se documentan por separado."
+      },
+      "answerVerificationCounts": {
+        "manual verified": 123,
+        "automatically verified": 57
+      },
+      "alternativeCoverage": "Se detectaron A–E en los 180 recortes de preguntas; la clave se cotejó con la respuesta editorial y la alternativa impresa.",
+      "incidenceCount": 0,
+      "tests": {
+        "1": 100,
+        "2": 40,
+        "3": 40
+      }
+    },
+    {
+      "process": "2025-I",
+      "bankPath": "UNI-2025-I.json",
+      "sha256": "349b3a76d9881416a0ba6d9cdac74141ad23e2b2b1c1cbdb14da8884c6d735af",
+      "status": "passed",
+      "questions": 180,
+      "scored": 180,
+      "unscored": 0,
+      "unscoredIds": [],
+      "correctedEditorial": 0,
+      "editoriallyCorrectedIds": [],
+      "incidents": [],
+      "method": {
+        "ownHtmlEditorialQuestions": 0,
+        "ownHtmlEditorialSolutions": 0,
+        "editorialQuestionsWithSourceFigure": 0,
+        "remainingSourceImageQuestions": 180,
+        "note": "Las versiones editoriales usan enunciado y resolución didáctica propios en HTML, cinco opciones textuales y, cuando hace falta, una figura recortada de la fuente sin alternativas. El resto conserva la representación mediante imágenes; sus incidencias de procedencia se documentan por separado."
+      },
+      "answerVerificationCounts": {
+        "manual verified": 139,
+        "automatically verified": 41
+      },
+      "alternativeCoverage": "Se detectaron A–E en los 180 recortes de preguntas; la clave se cotejó con la respuesta editorial y la alternativa impresa.",
+      "incidenceCount": 0,
+      "tests": {
+        "1": 100,
+        "2": 40,
+        "3": 40
+      }
+    },
+    {
+      "process": "2024-II",
+      "bankPath": "UNI-2024-II.json",
+      "sha256": "53ffbbc8a91d1a48bc0854656bb70d67769b18159a0f700b298249a61f7b7199",
+      "status": "passed",
+      "questions": 180,
+      "scored": 180,
+      "unscored": 0,
+      "unscoredIds": [],
+      "correctedEditorial": 0,
+      "editoriallyCorrectedIds": [],
+      "incidents": [],
+      "method": {
+        "ownHtmlEditorialQuestions": 0,
+        "ownHtmlEditorialSolutions": 0,
+        "editorialQuestionsWithSourceFigure": 0,
+        "remainingSourceImageQuestions": 180,
+        "note": "Las versiones editoriales usan enunciado y resolución didáctica propios en HTML, cinco opciones textuales y, cuando hace falta, una figura recortada de la fuente sin alternativas. El resto conserva la representación mediante imágenes; sus incidencias de procedencia se documentan por separado."
+      },
+      "answerVerificationCounts": {
+        "manual verified": 136,
+        "automatically verified": 44
+      },
+      "alternativeCoverage": "Se detectaron A–E en los 180 recortes de preguntas; la clave se cotejó con la respuesta editorial y la alternativa impresa.",
+      "incidenceCount": 0,
+      "tests": {
+        "1": 100,
+        "2": 40,
+        "3": 40
+      }
+    }
+  ],
+  "totals": {
+    "processes": 5,
+    "questions": 900,
+    "scored": 900,
+    "unscored": 0,
+    "correctedEditorial": 0
+  },
+  "method": {
+    "ownHtmlEditorialQuestions": 0,
+    "ownHtmlEditorialSolutions": 0,
+    "editorialSourceFigures": 0,
+    "remainingSourceImageQuestions": 900,
+    "originalsPreserved": true,
+    "note": "Las incidencias anidadas como sourceIncident son antecedentes del original. El estado editorial_correction_applied y la respuesta actual describen la versión activa para práctica."
+  }
+}

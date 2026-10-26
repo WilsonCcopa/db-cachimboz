@@ -1,0 +1,579 @@
+{
+  "schemaVersion": 1,
+  "university": "UNSA",
+  "universityName": "Universidad Nacional de San Agustín de Arequipa",
+  "generatedAt": "2026-10-26T02:44:35+00:00",
+  "note": "Materiales editoriales y fuentes complementarias identificados por proceso. Una corrección o ausencia de clave editorial no equivale a una anulación oficial de la universidad.",
+  "processes": [
+    {
+      "process": "2024-II",
+      "sources": [
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/19H2axuhFkFIcgQDHSGq_ogzoDbjXb31w/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2024/",
+          "pages": 6,
+          "bytes": 1055135,
+          "sha256": "a77704b75f74efeacb5cb360b890807dfe687f9a71adaf0bfc1be9cf7e604c4b",
+          "role": "material_editorial",
+          "area": "SOC"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/1Pvs7ShHJt7pmQljGlsDMRHvTDxruDYlz/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2024/",
+          "pages": 13,
+          "bytes": 1319414,
+          "sha256": "3589f9f2ecf166a2f9519f4e66e26659d387e1a7973764b3634a4c3f803a9e64",
+          "role": "material_editorial",
+          "area": "SOC"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/1ztHeKxMS2khBadnxmAAM4om7CVXChgPa/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2024/",
+          "pages": 31,
+          "bytes": 2925209,
+          "sha256": "59dfaee34d32ce1e81500b78976b4100319f073174f624d0e2c387449cf70958",
+          "role": "material_editorial",
+          "area": "SOC"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/1nOExo82TO1vMnmWRyk5YPBhIAfyoMtdS/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2024/",
+          "pages": 5,
+          "bytes": 1038115,
+          "sha256": "9ac220eeb829e132ccb9d96a7a849b1cb760b5f47223cf8ee7676faa6ec44522",
+          "role": "material_editorial",
+          "area": "BIO"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/1Zv9fRupchSImWYHXauPb0zS3SulsZU59/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2024/",
+          "pages": 12,
+          "bytes": 1223767,
+          "sha256": "2abe2cdf0d0f6bfbaeec423c244d0340ebe6b632f306b0e40dadecaf2206e696",
+          "role": "material_editorial",
+          "area": "BIO"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/1MPLtK-kWg4MCu1skOie6ilOla6Psi1HC/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2024/",
+          "pages": 30,
+          "bytes": 3451159,
+          "sha256": "db21a393d91c6d94bc67c4408b71f665d8b2d9e48922aab33ef4387b82ad35d6",
+          "role": "material_editorial",
+          "area": "BIO"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/1ItWkhKQafNfFz72AH9qbzNHrAbbK4-Qq/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2024/",
+          "pages": 5,
+          "bytes": 1116493,
+          "sha256": "afb86faa1812e410f68e34ebe3a5bbf30342bb2c6708df250f1496ba45968d09",
+          "role": "material_editorial",
+          "area": "ING"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/1Ub8W2Ft_e37DbTCnS-Grf8DxQDWMSAQv/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2024/",
+          "pages": 14,
+          "bytes": 1626303,
+          "sha256": "ffe28ad25e2c82056bc7e53b9879aa5a4fa89f193f30affa820eb47fae290cc0",
+          "role": "material_editorial",
+          "area": "ING"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/1bHHz_138Yu7_2HovPpKf8GGYz556nE69/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2024/",
+          "pages": 31,
+          "bytes": 3603999,
+          "sha256": "f2861c01923c9790aeb4cca4462c2efbf374d41b1e2c0f2a31e5f633cc4db8b5",
+          "role": "material_editorial",
+          "area": "ING"
+        }
+      ],
+      "supplementalContexts": [
+        {
+          "publisher": "Eduteka",
+          "url": "https://eduteka.pe/lecturas/lectura-unsa-1ef04fdc",
+          "examUrl": "https://eduteka.pe/examenes/examen-ordinario-unsa-ii-fase-2024",
+          "area": "BIO",
+          "questionNumbers": [
+            48,
+            49
+          ],
+          "sha256": "f8f59a0628f339849e098fa5e0582be0722b95de11f712116502b0b8eccf2cea",
+          "hashScope": "HTML público guardado como evidencia del contexto recuperado; no es una huella del PDF completo.",
+          "role": "contexto_compartido_omitido_en_fuente_principal",
+          "note": "Lectura original omitida por Lumbreras; las dos preguntas de la página coinciden con BIO48 y BIO49, aunque cambia el orden de alternativas."
+        }
+      ]
+    },
+    {
+      "process": "2024-I",
+      "sources": [
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/14wC17SC0Udiflt4KXoj_YMiPVuAxnfg2/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-i-fase-2024/",
+          "pages": 5,
+          "bytes": 1265600,
+          "sha256": "02f8ab07850496e47b5ee594d6221b21d0d7b681b3ef57be8ab14cbcee3c057c",
+          "role": "material_editorial",
+          "area": "SOC"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/1vXKQ7MXMA3FUxnH7aIdpaHQo1f_-HHnA/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-i-fase-2024/",
+          "pages": 12,
+          "bytes": 1477125,
+          "sha256": "351a3c943dff911d84fca0d21a0e7d4293ee36dbe088677830e7ee2d735ac7c9",
+          "role": "material_editorial",
+          "area": "SOC"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/1K3X4iIh2vOxCGoRFUSGLWNnY95D1tO-Y/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-i-fase-2024/",
+          "pages": 28,
+          "bytes": 3017972,
+          "sha256": "82bb73a771d7a0f4ee3fa013de32099951bc211da26ed51c57052bab5fb463ff",
+          "role": "material_editorial",
+          "area": "SOC"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/1-UvOPxKJo77tDzCHYDUZECToduXXunnb/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-i-fase-2024/",
+          "pages": 5,
+          "bytes": 1327340,
+          "sha256": "2ed039dca98c53eb7e381cb81c351817f863cdbc72df6c335ce3ab3e159539e1",
+          "role": "material_editorial",
+          "area": "BIO"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/1FZf1LaAvtHx2VqAJUNlEaa8PDlw_DEex/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-i-fase-2024/",
+          "pages": 12,
+          "bytes": 1414245,
+          "sha256": "f12f206456eb9b751180088d81efa83044a5da591fd439a2b78152f3e3100da5",
+          "role": "material_editorial",
+          "area": "BIO"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/1Yb4Oq6yy6WMB8ymym37xQNZVR31jX3SF/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-i-fase-2024/",
+          "pages": 28,
+          "bytes": 3420676,
+          "sha256": "b769d834fdd490d2eb210e8ed2ff49221db6405cd1ab588e017ae0b03cd39eff",
+          "role": "material_editorial",
+          "area": "BIO"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/1cM6EBjC3XeobC7fJM52cYwfFisat1eNY/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-i-fase-2024/",
+          "pages": 5,
+          "bytes": 1283754,
+          "sha256": "14e644e7fcd462bf5b2d54191a30c4dbad5562289200e1b89f98121db9c28878",
+          "role": "material_editorial",
+          "area": "ING"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/1xD_bLeqQm_eL0etpiygRullIJ0pL8KuS/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-i-fase-2024/",
+          "pages": 12,
+          "bytes": 1547926,
+          "sha256": "b71d0778bc7abcd07c9715ed80fa16a7ce4782c8368a4d48f42fd3c895f41e6d",
+          "role": "material_editorial",
+          "area": "ING"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/12Zp4bMo1SJnpeOAvvvOSmf4lsYra-ovZ/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-i-fase-2024/",
+          "pages": 28,
+          "bytes": 3241134,
+          "sha256": "5e1b23330d8056678797d52fa8b9000bae5ecfa476794c44591f62dc03074f8c",
+          "role": "material_editorial",
+          "area": "ING"
+        }
+      ],
+      "supplementalContexts": []
+    },
+    {
+      "process": "2023-II",
+      "sources": [
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/14wC17SC0Udiflt4KXoj_YMiPVuAxnfg2/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2023/",
+          "pages": 5,
+          "bytes": 1265600,
+          "sha256": "02f8ab07850496e47b5ee594d6221b21d0d7b681b3ef57be8ab14cbcee3c057c",
+          "role": "material_editorial",
+          "area": "SOC"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/1-IuNRwCAQCBd2vHLsDwT9df5qYmfbq2D/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2023/",
+          "pages": 14,
+          "bytes": 1243207,
+          "sha256": "4a49201d280ce0df83e7f4c064c1306e18ad5c586b9ef10526281a5bab19e6c2",
+          "role": "material_editorial",
+          "area": "SOC"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/1WkpwqnnC436B-KZZ0jhr9JJdV2pH3ROp/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2023/",
+          "pages": 32,
+          "bytes": 2668814,
+          "sha256": "800530a55edabd52ed0688a26167b494a410c618901c1ca7ea5f37689afbb1ec",
+          "role": "material_editorial",
+          "area": "SOC"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/1RywTJUsbC5H3Oa05vu6XWsdm_z9V_xHm/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2023/",
+          "pages": 3,
+          "bytes": 841569,
+          "sha256": "ff90d15e7868918a5b1bad86b5fe0b82db5641926a314afcdf50bb7834aa2904",
+          "role": "material_editorial",
+          "area": "BIO"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/1ruGbP3wVNCMX6wH1vVBKjx836mgYABbH/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2023/",
+          "pages": 13,
+          "bytes": 1290416,
+          "sha256": "c8040e7336d4bf749b498fc3617eef3548b5460b0621a0ebf0a2a47040e96e31",
+          "role": "material_editorial",
+          "area": "BIO"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/1JOfrjRMBfUlVaXAB7YDzMzk57H7dzPO2/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2023/",
+          "pages": 30,
+          "bytes": 3087252,
+          "sha256": "4e24dc4501fc6b31131145a48681237ac6455e23bedab3c21941baa0e461b2b1",
+          "role": "material_editorial",
+          "area": "BIO"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/1fa_sd4Ulugd9q4jXehgU_ADHtHGa0eA8/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2023/",
+          "pages": 4,
+          "bytes": 857259,
+          "sha256": "ad7a7bdc23662f1f0d1ada8d523dd10702d7a3a4d29c36a15d2c8250ce4af52a",
+          "role": "material_editorial",
+          "area": "ING"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/1_cw3xt7vQ5aoyfKArCSa0s01r-6-Rb6J/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2023/",
+          "pages": 13,
+          "bytes": 1233512,
+          "sha256": "4f8fc12cbe3dc6d92434298e6f43fd3cab433db581191e7682af62e7f14acd5b",
+          "role": "material_editorial",
+          "area": "ING"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/1UhsvzsZ5d0vDrVMvlYJm1wheG4S0zA7P/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2023/",
+          "pages": 31,
+          "bytes": 2614877,
+          "sha256": "d5bee1c297930b23c98fc9d7869fc641c2a77ad17f40d603317fabfadc6ded53",
+          "role": "material_editorial",
+          "area": "ING"
+        }
+      ],
+      "supplementalContexts": []
+    },
+    {
+      "process": "2023-I",
+      "sources": [
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/1PX_WFujvI2esIt8BE1hxjKMPnlQoCUbE/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-i-fase-2023/",
+          "pages": 2,
+          "bytes": 427977,
+          "sha256": "761d44269a9ff6d29313814d46beeba48db0ada2eeda7e06f5df3480686380f9",
+          "role": "material_editorial",
+          "area": "SOC"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/1FcQYaG11oryAHiO5PKEelYtm85-5hd9r/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-i-fase-2023/",
+          "pages": 13,
+          "bytes": 1553651,
+          "sha256": "709eba59ec617b224cc6a9478378b06fcb29651ad0f241d198da085a5b35b3fe",
+          "role": "material_editorial",
+          "area": "SOC"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/1-dN2bhLZlXVxLmjk6PbYp5_BV0fJoTal/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-i-fase-2023/",
+          "pages": 30,
+          "bytes": 3057760,
+          "sha256": "3a513ba872b3b83de563c02861b5668b3c3c2a72a6d7c679a81ba0a5821bbd07",
+          "role": "material_editorial",
+          "area": "SOC"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/1EKjLzAJBCKPfq4LmPlaRzJ_uxgGCFsl4/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-i-fase-2023/",
+          "pages": 2,
+          "bytes": 419516,
+          "sha256": "d1577ad16a85747a3d591da9771123387a225f2685d7859479217f0a435d6dcd",
+          "role": "material_editorial",
+          "area": "BIO"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/1HO00_gWIAjsyTV2BEUBhNgb1v0mhUTDm/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-i-fase-2023/",
+          "pages": 14,
+          "bytes": 1561611,
+          "sha256": "9dae9a12396f7f3e37d720e677e9f21eef6e9eb8c49f7aa3399a1974921faa5b",
+          "role": "material_editorial",
+          "area": "BIO"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/19HpyjF8X2tq_-_39s7nROW_FruEHUKXl/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-i-fase-2023/",
+          "pages": 32,
+          "bytes": 3430938,
+          "sha256": "70e72029642c1f4405e75ba38bf408a8c742ec0e5d17482e2953f2963dd0ec7b",
+          "role": "material_editorial",
+          "area": "BIO"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/1GQRHtP_uzO6EKEs1nMpq6Did8seOxyh1/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-i-fase-2023/",
+          "pages": 3,
+          "bytes": 448142,
+          "sha256": "198beca2481db4ab6e40c4de9f03187c8b8a152b7c5939b281a9c70de7f16397",
+          "role": "material_editorial",
+          "area": "ING"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/1NiRf_Op2b_KfQX2iqOHIj-8DYJQCByoW/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-i-fase-2023/",
+          "pages": 13,
+          "bytes": 1661384,
+          "sha256": "1d6d3c9c153b2bed082135188b0ec06ad00481a6c530dcc7e010e6bbc7cac775",
+          "role": "material_editorial",
+          "area": "ING"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/11oSLLiVJgI4NoX3BAWoZuu4ycLNUy3r2/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-i-fase-2023/",
+          "pages": 31,
+          "bytes": 3403399,
+          "sha256": "763eb3a77cd2da5fb87de0f58e0b8e2e5a78c03a7e1db60037bfde0f248ebae4",
+          "role": "material_editorial",
+          "area": "ING"
+        }
+      ],
+      "supplementalContexts": [
+        {
+          "publisher": "Academia Alexander Fleming (ejemplar público en Scribd)",
+          "url": "https://es.scribd.com/document/627802384/2-SOLUCIONARIO-BIOMEDICA-ORDINARIO",
+          "page": 4,
+          "area": "BIO",
+          "questionNumbers": [
+            14,
+            15
+          ],
+          "sha256": "1325ac55dd21ed7afac5bc5f1d5873925f8d1342dd447249840af1979aa83680",
+          "hashScope": "Texto de contexto recuperado y guardado como evidencia; no es una huella del PDF completo.",
+          "role": "contexto_compartido_omitido_en_fuente_principal",
+          "note": "Lectura recuperada del mismo proceso. El orden de preguntas y alternativas difiere respecto a Lumbreras; coincidencia comprobada por enunciados y opciones, no por número."
+        },
+        {
+          "publisher": "Academia Alexander Fleming (ejemplar público en Scribd)",
+          "url": "https://es.scribd.com/document/627802322/1-SOLUCIONARIO-INGENIERIAS-ORDINARIO",
+          "page": 5,
+          "area": "ING",
+          "questionNumbers": [
+            10,
+            11
+          ],
+          "sha256": "b6aaf3748cdb597d39771dd14b6a6671d0b54c2a1343c70c12ff29b4d5bb8639",
+          "hashScope": "Texto de contexto recuperado y guardado como evidencia; no es una huella del PDF completo.",
+          "role": "contexto_compartido_omitido_en_fuente_principal",
+          "note": "Lectura recuperada del mismo proceso. El orden de preguntas y alternativas difiere respecto a Lumbreras; coincidencia comprobada por enunciados y opciones, no por número."
+        }
+      ]
+    },
+    {
+      "process": "2022-II",
+      "sources": [
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/1dDeulxHbNX1Vad49foyXQCNwtkWKxnwT/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2022/",
+          "pages": 2,
+          "bytes": 507262,
+          "sha256": "c4bf284be457db8867d5852307404466a913eb87d43611a9f04a208d67c2fe38",
+          "role": "material_editorial",
+          "area": "SOC"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/199OfZNGe_Dt3dkysWTpYCZBOM9KzTWU9/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2022/",
+          "pages": 12,
+          "bytes": 1246008,
+          "sha256": "57235dbfd6ca0dac5d6cc3d55f9146fd3f20f517b82ff7e93140f4993da5609a",
+          "role": "material_editorial",
+          "area": "SOC"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/1oN_lj2cYUJeDyDmOayMZAU6oLcLZGzGM/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2022/",
+          "pages": 26,
+          "bytes": 2365576,
+          "sha256": "06263dcdb3adf799b96b5f769fe48545c483d013ad0b9968406ca766531d9eed",
+          "role": "material_editorial",
+          "area": "SOC"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/1F00DNncymu6f3Zd8F4WcW3_z9vRMvUnj/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2022/",
+          "pages": 2,
+          "bytes": 532219,
+          "sha256": "8382b18bd8486ba068e5ed1d0e2088b2ed00efc01162f0c13c3aec23142fa273",
+          "role": "material_editorial",
+          "area": "BIO"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/14tjNEkirnvYHkcfXuvRiH37GwhPR6X2t/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2022/",
+          "pages": 12,
+          "bytes": 1363240,
+          "sha256": "b223d995fe58e731e3a5322128b1714a635dea1205525c1aa5a0f87f58468cf8",
+          "role": "material_editorial",
+          "area": "BIO"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/1srrkvpdJn24Gj9cE57dAGhd_OSI4LRvB/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2022/",
+          "pages": 27,
+          "bytes": 2668551,
+          "sha256": "8c3cf8eab2a6643f22cd24d9dceed1db25239dbab81d19cd5a6d98884b5ef21d",
+          "role": "material_editorial",
+          "area": "BIO"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/14fWP8-V_gr8mL03YZkAmJf4zOJ8nFUMt/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2022/",
+          "pages": 2,
+          "bytes": 542165,
+          "sha256": "d08ce2f67df2493929b6270e3d910e9d8ed194ebcff32164c7ed472158dd066e",
+          "role": "material_editorial",
+          "area": "ING"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/1CB2AIkzWGD3sFoCfnPgapa_HRuzaw6ky/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2022/",
+          "pages": 12,
+          "bytes": 1285830,
+          "sha256": "e543d9de7fd287d63c86d125c2f9d39a74c2a972748c8c38628f83517a900e98",
+          "role": "material_editorial",
+          "area": "ING"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/1Ry69kjHLKNY6MOc-JohsSg2y4kz5FI1L/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unsa-ii-fase-2022/",
+          "pages": 28,
+          "bytes": 2640759,
+          "sha256": "c6798c0290932638bb95867ebe0265b357d4e9a30ef04d981e2a67de25911d0a",
+          "role": "material_editorial",
+          "area": "ING"
+        }
+      ],
+      "supplementalContexts": []
+    }
+  ],
+  "sourceCount": 45
+}

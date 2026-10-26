@@ -1,0 +1,455 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-26T02:44:35+00:00",
+  "repository": "WilsonCcopa/db-cachimboz",
+  "scope": "15 nuevos procesos; los dos procesos previos se enlazan por separado y no se cuentan como nuevos.",
+  "totals": {
+    "newProcesses": 15,
+    "questions": 4500,
+    "scored": 4500,
+    "unscored": 0,
+    "correctedEditorial": 14
+  },
+  "representation": "Enunciados y desarrollos conservados mediante recortes fieles, con contextos compartidos. Catorce preguntas tienen versiones corregidas para práctica con solución propia y nota editorial; sus originales se conservan para revisión. Las fuentes editoriales no se presentan como claves oficiales de las universidades.",
+  "scoringPolicy": "Las 4500 preguntas tienen respuesta única validada en la versión de práctica. En 14 casos se aplicaron las correcciones editoriales aprobadas, siempre identificadas y acompañadas por el original; no se atribuyen esas modificaciones a la universidad.",
+  "editorialCorrectionsPath": "exams/editorial-corrections.json",
+  "originalItemsPath": "exams/original-items.json",
+  "newExams": [
+    {
+      "id": "UNMSM-2027-I",
+      "university": "UNMSM",
+      "universityName": "Universidad Nacional Mayor de San Marcos",
+      "process": "2027-I",
+      "legacyPath": "UNMSM-2027-I.json",
+      "legacyUrl": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/UNMSM-2027-I.json",
+      "legacySha256": "f9adf66fe946a37913aab2aa97ce46888ab7c2ef81a8a80a74be5a66db433600",
+      "questions": 450,
+      "scored": 450,
+      "unscored": 0,
+      "coverage": "partial_B_pending_user_authorized",
+      "sourcesPath": "exams/sources/unmsm.json",
+      "validationPath": "exams/validation/unmsm.json",
+      "correctedEditorial": 2,
+      "editorialCorrectionsPath": "exams/editorial-corrections.json",
+      "originalItemsPath": "exams/original-items.json",
+      "areas": {
+        "A": 90,
+        "C": 90,
+        "D": 90,
+        "E": 90,
+        "MH": 90
+      },
+      "academicQuestionRange": "11–100 por área",
+      "structureNote": "90 académicas por área. Las preguntas actitudinales 1–10 no se presentan como resueltas ni se incluyen en estos bancos.",
+      "pendingAreas": [
+        "B"
+      ],
+      "coverageNote": "Inclusión parcial autorizada expresamente por el usuario: A/C/D/E/MH, 450 preguntas. El área B permanece pendiente; dos adicionales auténticos no constituyen un cuadernillo completo y se mantienen fuera del banco publicado."
+    },
+    {
+      "id": "UNMSM-2026-II",
+      "university": "UNMSM",
+      "universityName": "Universidad Nacional Mayor de San Marcos",
+      "process": "2026-II",
+      "legacyPath": "UNMSM-2026-II.json",
+      "legacyUrl": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/UNMSM-2026-II.json",
+      "legacySha256": "69d427e5917c6b32daa63a86ad93333b9c8cf5d6de92fb91d94e092bf02136ad",
+      "questions": 540,
+      "scored": 540,
+      "unscored": 0,
+      "coverage": "complete_selected_variants",
+      "sourcesPath": "exams/sources/unmsm.json",
+      "validationPath": "exams/validation/unmsm.json",
+      "correctedEditorial": 0,
+      "areas": {
+        "A": 90,
+        "B": 90,
+        "C": 90,
+        "D": 90,
+        "E": 90,
+        "MH": 90
+      },
+      "academicQuestionRange": "11–100 por área",
+      "structureNote": "90 académicas por área. Las preguntas actitudinales 1–10 no se presentan como resueltas ni se incluyen en estos bancos."
+    },
+    {
+      "id": "UNMSM-2025-I",
+      "university": "UNMSM",
+      "universityName": "Universidad Nacional Mayor de San Marcos",
+      "process": "2025-I",
+      "legacyPath": "UNMSM-2025-I.json",
+      "legacyUrl": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/UNMSM-2025-I.json",
+      "legacySha256": "221cede8f38e1c2bf13ba9637940a20eab612835da973fb923ae072a776d658f",
+      "questions": 540,
+      "scored": 540,
+      "unscored": 0,
+      "coverage": "complete_selected_variants",
+      "sourcesPath": "exams/sources/unmsm.json",
+      "validationPath": "exams/validation/unmsm.json",
+      "correctedEditorial": 0,
+      "areas": {
+        "A": 90,
+        "B": 90,
+        "C": 90,
+        "D": 90,
+        "E": 90,
+        "MH": 90
+      },
+      "academicQuestionRange": "11–100 por área",
+      "structureNote": "90 académicas por área. Las preguntas actitudinales 1–10 no se presentan como resueltas ni se incluyen en estos bancos."
+    },
+    {
+      "id": "UNMSM-2024-II",
+      "university": "UNMSM",
+      "universityName": "Universidad Nacional Mayor de San Marcos",
+      "process": "2024-II",
+      "legacyPath": "UNMSM-2024-II.json",
+      "legacyUrl": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/UNMSM-2024-II.json",
+      "legacySha256": "334c25f02c1e191e210dc71211dcb6cff647b4bcdc2220736338a0d95c0258eb",
+      "questions": 600,
+      "scored": 600,
+      "unscored": 0,
+      "coverage": "complete_selected_variants",
+      "sourcesPath": "exams/sources/unmsm.json",
+      "validationPath": "exams/validation/unmsm.json",
+      "correctedEditorial": 4,
+      "editorialCorrectionsPath": "exams/editorial-corrections.json",
+      "originalItemsPath": "exams/original-items.json",
+      "areas": {
+        "A": 100,
+        "B": 100,
+        "C": 100,
+        "D": 100,
+        "E": 100,
+        "MH": 100
+      },
+      "academicQuestionRange": "1–100 por área",
+      "structureNote": "100 académicas por área: 15 de Habilidad Verbal, 15 de Habilidad Lógico-Matemática y 70 de Conocimientos; las primeras diez no son actitudinales."
+    },
+    {
+      "id": "UNMSM-2024-I",
+      "university": "UNMSM",
+      "universityName": "Universidad Nacional Mayor de San Marcos",
+      "process": "2024-I",
+      "legacyPath": "UNMSM-2024-I.json",
+      "legacyUrl": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/UNMSM-2024-I.json",
+      "legacySha256": "e44879deadc714ecac68eefa32b5adab7ceb8986bd41751f1972938c5a5b4d9d",
+      "questions": 600,
+      "scored": 600,
+      "unscored": 0,
+      "coverage": "complete_selected_variants",
+      "sourcesPath": "exams/sources/unmsm.json",
+      "validationPath": "exams/validation/unmsm.json",
+      "correctedEditorial": 2,
+      "editorialCorrectionsPath": "exams/editorial-corrections.json",
+      "originalItemsPath": "exams/original-items.json",
+      "areas": {
+        "A": 100,
+        "B": 100,
+        "C": 100,
+        "D": 100,
+        "E": 100,
+        "MH": 100
+      },
+      "academicQuestionRange": "1–100 por área",
+      "structureNote": "100 académicas por área: 15 de Habilidad Verbal, 15 de Habilidad Lógico-Matemática y 70 de Conocimientos; las primeras diez no son actitudinales."
+    },
+    {
+      "id": "UNI-2026-II",
+      "university": "UNI",
+      "universityName": "Universidad Nacional de Ingeniería",
+      "process": "2026-II",
+      "legacyPath": "UNI-2026-II.json",
+      "legacyUrl": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/UNI-2026-II.json",
+      "legacySha256": "80c706597037cf7d1ab9c9ee43fed4aae960b4676cfd70ce579fe2116152abb1",
+      "questions": 180,
+      "scored": 180,
+      "unscored": 0,
+      "coverage": "complete_selected_variants",
+      "sourcesPath": "exams/sources/uni.json",
+      "validationPath": "exams/validation/uni.json",
+      "correctedEditorial": 0,
+      "tests": {
+        "1": 100,
+        "2": 40,
+        "3": 40
+      },
+      "structureNote": "Tres pruebas diferentes del mismo proceso: prueba 1 de 100 preguntas, prueba 2 de 40 y prueba 3 de 40; total 180."
+    },
+    {
+      "id": "UNI-2026-I",
+      "university": "UNI",
+      "universityName": "Universidad Nacional de Ingeniería",
+      "process": "2026-I",
+      "legacyPath": "UNI-2026-I.json",
+      "legacyUrl": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/UNI-2026-I.json",
+      "legacySha256": "2ccc955126db9bc55c65ebaa350d5f4def1988c1d9340b71bda4c89ee19d72e5",
+      "questions": 180,
+      "scored": 180,
+      "unscored": 0,
+      "coverage": "complete_selected_variants",
+      "sourcesPath": "exams/sources/uni.json",
+      "validationPath": "exams/validation/uni.json",
+      "correctedEditorial": 0,
+      "tests": {
+        "1": 100,
+        "2": 40,
+        "3": 40
+      },
+      "structureNote": "Tres pruebas diferentes del mismo proceso: prueba 1 de 100 preguntas, prueba 2 de 40 y prueba 3 de 40; total 180."
+    },
+    {
+      "id": "UNI-2025-II",
+      "university": "UNI",
+      "universityName": "Universidad Nacional de Ingeniería",
+      "process": "2025-II",
+      "legacyPath": "UNI-2025-II.json",
+      "legacyUrl": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/UNI-2025-II.json",
+      "legacySha256": "ddee0ddf72ce6d4b8190741702b5fa7684549bd367ffc617ad9d0dfb8924d5ad",
+      "questions": 180,
+      "scored": 180,
+      "unscored": 0,
+      "coverage": "complete_selected_variants",
+      "sourcesPath": "exams/sources/uni.json",
+      "validationPath": "exams/validation/uni.json",
+      "correctedEditorial": 0,
+      "tests": {
+        "1": 100,
+        "2": 40,
+        "3": 40
+      },
+      "structureNote": "Tres pruebas diferentes del mismo proceso: prueba 1 de 100 preguntas, prueba 2 de 40 y prueba 3 de 40; total 180."
+    },
+    {
+      "id": "UNI-2025-I",
+      "university": "UNI",
+      "universityName": "Universidad Nacional de Ingeniería",
+      "process": "2025-I",
+      "legacyPath": "UNI-2025-I.json",
+      "legacyUrl": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/UNI-2025-I.json",
+      "legacySha256": "349b3a76d9881416a0ba6d9cdac74141ad23e2b2b1c1cbdb14da8884c6d735af",
+      "questions": 180,
+      "scored": 180,
+      "unscored": 0,
+      "coverage": "complete_selected_variants",
+      "sourcesPath": "exams/sources/uni.json",
+      "validationPath": "exams/validation/uni.json",
+      "correctedEditorial": 0,
+      "tests": {
+        "1": 100,
+        "2": 40,
+        "3": 40
+      },
+      "structureNote": "Tres pruebas diferentes del mismo proceso: prueba 1 de 100 preguntas, prueba 2 de 40 y prueba 3 de 40; total 180."
+    },
+    {
+      "id": "UNI-2024-II",
+      "university": "UNI",
+      "universityName": "Universidad Nacional de Ingeniería",
+      "process": "2024-II",
+      "legacyPath": "UNI-2024-II.json",
+      "legacyUrl": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/UNI-2024-II.json",
+      "legacySha256": "53ffbbc8a91d1a48bc0854656bb70d67769b18159a0f700b298249a61f7b7199",
+      "questions": 180,
+      "scored": 180,
+      "unscored": 0,
+      "coverage": "complete_selected_variants",
+      "sourcesPath": "exams/sources/uni.json",
+      "validationPath": "exams/validation/uni.json",
+      "correctedEditorial": 0,
+      "tests": {
+        "1": 100,
+        "2": 40,
+        "3": 40
+      },
+      "structureNote": "Tres pruebas diferentes del mismo proceso: prueba 1 de 100 preguntas, prueba 2 de 40 y prueba 3 de 40; total 180."
+    },
+    {
+      "id": "UNSA-2024-II",
+      "university": "UNSA",
+      "universityName": "Universidad Nacional de San Agustín de Arequipa",
+      "process": "2024-II",
+      "legacyPath": "UNSA-2024-II.json",
+      "legacyUrl": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/UNSA-2024-II.json",
+      "legacySha256": "b2b9cd7cc112ad118c496468136ce4e0f5253f8b47467ed8b34e5984ac5049b0",
+      "questions": 180,
+      "scored": 180,
+      "unscored": 0,
+      "coverage": "complete_selected_variants",
+      "sourcesPath": "exams/sources/unsa.json",
+      "validationPath": "exams/validation/unsa.json",
+      "correctedEditorial": 4,
+      "editorialCorrectionsPath": "exams/editorial-corrections.json",
+      "originalItemsPath": "exams/original-items.json",
+      "areas": {
+        "SOC": {
+          "name": "Sociales",
+          "questions": 60
+        },
+        "BIO": {
+          "name": "Biomédicas",
+          "questions": 60
+        },
+        "ING": {
+          "name": "Ingenierías",
+          "questions": 60
+        }
+      },
+      "structureNote": "Tres áreas independientes: Sociales, Biomédicas e Ingenierías. Cada área contiene 60 preguntas del proceso."
+    },
+    {
+      "id": "UNSA-2024-I",
+      "university": "UNSA",
+      "universityName": "Universidad Nacional de San Agustín de Arequipa",
+      "process": "2024-I",
+      "legacyPath": "UNSA-2024-I.json",
+      "legacyUrl": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/UNSA-2024-I.json",
+      "legacySha256": "ec2beba62a255813ce06d48ee3185eaac9d5805a5c67f10208afc07ff4016f39",
+      "questions": 180,
+      "scored": 180,
+      "unscored": 0,
+      "coverage": "complete_selected_variants",
+      "sourcesPath": "exams/sources/unsa.json",
+      "validationPath": "exams/validation/unsa.json",
+      "correctedEditorial": 0,
+      "areas": {
+        "SOC": {
+          "name": "Sociales",
+          "questions": 60
+        },
+        "BIO": {
+          "name": "Biomédicas",
+          "questions": 60
+        },
+        "ING": {
+          "name": "Ingenierías",
+          "questions": 60
+        }
+      },
+      "structureNote": "Tres áreas independientes: Sociales, Biomédicas e Ingenierías. Cada área contiene 60 preguntas del proceso."
+    },
+    {
+      "id": "UNSA-2023-II",
+      "university": "UNSA",
+      "universityName": "Universidad Nacional de San Agustín de Arequipa",
+      "process": "2023-II",
+      "legacyPath": "UNSA-2023-II.json",
+      "legacyUrl": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/UNSA-2023-II.json",
+      "legacySha256": "eec7f52d0e36012449a1200d3337c167a07d4b013ded78ff5eb3e2b0d8f6760c",
+      "questions": 180,
+      "scored": 180,
+      "unscored": 0,
+      "coverage": "complete_selected_variants",
+      "sourcesPath": "exams/sources/unsa.json",
+      "validationPath": "exams/validation/unsa.json",
+      "correctedEditorial": 1,
+      "editorialCorrectionsPath": "exams/editorial-corrections.json",
+      "originalItemsPath": "exams/original-items.json",
+      "areas": {
+        "SOC": {
+          "name": "Sociales",
+          "questions": 60
+        },
+        "BIO": {
+          "name": "Biomédicas",
+          "questions": 60
+        },
+        "ING": {
+          "name": "Ingenierías",
+          "questions": 60
+        }
+      },
+      "structureNote": "Tres áreas independientes: Sociales, Biomédicas e Ingenierías. Cada área contiene 60 preguntas del proceso."
+    },
+    {
+      "id": "UNSA-2023-I",
+      "university": "UNSA",
+      "universityName": "Universidad Nacional de San Agustín de Arequipa",
+      "process": "2023-I",
+      "legacyPath": "UNSA-2023-I.json",
+      "legacyUrl": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/UNSA-2023-I.json",
+      "legacySha256": "a1aa1f74946095d64fd5d392f6dbda1117f97c22543cff1f22e8a3b8bdce363e",
+      "questions": 180,
+      "scored": 180,
+      "unscored": 0,
+      "coverage": "complete_selected_variants",
+      "sourcesPath": "exams/sources/unsa.json",
+      "validationPath": "exams/validation/unsa.json",
+      "correctedEditorial": 1,
+      "editorialCorrectionsPath": "exams/editorial-corrections.json",
+      "originalItemsPath": "exams/original-items.json",
+      "areas": {
+        "SOC": {
+          "name": "Sociales",
+          "questions": 60
+        },
+        "BIO": {
+          "name": "Biomédicas",
+          "questions": 60
+        },
+        "ING": {
+          "name": "Ingenierías",
+          "questions": 60
+        }
+      },
+      "structureNote": "Tres áreas independientes: Sociales, Biomédicas e Ingenierías. Cada área contiene 60 preguntas del proceso."
+    },
+    {
+      "id": "UNSA-2022-II",
+      "university": "UNSA",
+      "universityName": "Universidad Nacional de San Agustín de Arequipa",
+      "process": "2022-II",
+      "legacyPath": "UNSA-2022-II.json",
+      "legacyUrl": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/UNSA-2022-II.json",
+      "legacySha256": "62e793bc5398156f9f7fefa3ac8248e9d14f5ebd49228d69b7a09660005a1059",
+      "questions": 150,
+      "scored": 150,
+      "unscored": 0,
+      "coverage": "complete_selected_variants",
+      "sourcesPath": "exams/sources/unsa.json",
+      "validationPath": "exams/validation/unsa.json",
+      "correctedEditorial": 0,
+      "areas": {
+        "SOC": {
+          "name": "Sociales",
+          "questions": 50
+        },
+        "BIO": {
+          "name": "Biomédicas",
+          "questions": 50
+        },
+        "ING": {
+          "name": "Ingenierías",
+          "questions": 50
+        }
+      },
+      "structureNote": "Tres áreas independientes: Sociales, Biomédicas e Ingenierías. Cada área contiene 50 preguntas del proceso."
+    }
+  ],
+  "existingExams": [
+    {
+      "id": "UNMSM-2025-II",
+      "university": "UNMSM",
+      "process": "2025-II",
+      "legacyPath": "UNMSM-2025-II.json",
+      "legacyUrl": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/UNMSM-2025-II.json",
+      "includedInNewTotals": false
+    },
+    {
+      "id": "UNMSM-2026-I",
+      "university": "UNMSM",
+      "process": "2026-I",
+      "legacyPath": "simulacro UNMSM.json",
+      "legacyUrl": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/simulacro%20UNMSM.json",
+      "includedInNewTotals": false
+    }
+  ],
+  "method": {
+    "ownHtmlEditorialQuestions": 14,
+    "ownHtmlEditorialSolutions": 14,
+    "editorialSourceFigures": 3,
+    "remainingSourceImageQuestions": 4486,
+    "originalsPreserved": true,
+    "practiceImageAnnotationPolicy": "En las copias de práctica se omiten anotaciones ajenas que revelaban respuestas; se mantienen el impreso y los PDF originales como referencia."
+  }
+}

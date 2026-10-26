@@ -1,0 +1,907 @@
+{
+  "schemaVersion": 1,
+  "university": "UNMSM",
+  "generatedAt": "2026-10-26T02:44:35+00:00",
+  "editorialCorrectionsPath": "exams/editorial-corrections.json",
+  "originalItemsPath": "exams/original-items.json",
+  "checks": [
+    "IDs únicos y número esperado por variante o prueba",
+    "Cinco alternativas por pregunta, con correcciones editoriales identificadas",
+    "Todas las respuestas validadas; versiones editoriales con respuesta única y resolución propia",
+    "Enunciado y resolución separados; fórmulas e imágenes preservadas",
+    "Contextos compartidos enlazados según el contenido de las preguntas",
+    "SHA-256 del banco y PDFs de procedencia"
+  ],
+  "processes": [
+    {
+      "process": "2027-I",
+      "bankPath": "UNMSM-2027-I.json",
+      "sha256": "f9adf66fe946a37913aab2aa97ce46888ab7c2ef81a8a80a74be5a66db433600",
+      "status": "passed",
+      "questions": 450,
+      "scored": 450,
+      "unscored": 0,
+      "unscoredIds": [],
+      "correctedEditorial": 2,
+      "editoriallyCorrectedIds": [
+        "UNMSM_2027_I_C_90",
+        "UNMSM_2027_I_MH_36"
+      ],
+      "incidents": [
+        {
+          "id": "UNMSM_2027_I_A_21",
+          "reason": "Saco development shows4transitions but prints1. Its published key explicitly gives4, matching optionE.",
+          "source": "https://drive.google.com/file/d/1qnQ5_e3B2swAVXO6Crjjzl3GqW4cXXcI/view",
+          "page": 2
+        },
+        {
+          "id": "UNMSM_2027_I_MH_84",
+          "reason": "Energy dissipated is the positive magnitude64J. Lumbreras computes the energy change−64J; Saco development and key give64J. Replaced solution with Saco.",
+          "source": "https://drive.google.com/file/d/1FuXzC8Gf_d6R8NON_3v749x4HLgxOwEu/view"
+        },
+        {
+          "id": "UNMSM_2027_I_C_90",
+          "sourceIncident": {
+            "id": "UNMSM_2027_I_C_90",
+            "reason": "Saco obtains0.643atm and its key explicitly statesNo hay clave. No option matches.",
+            "source": "https://drive.google.com/file/d/1Rpid-KVcVYfCqkxTS8MLGUt4eV3PF2Hs/view",
+            "page": 4
+          },
+          "status": "editorial_correction_applied",
+          "resolutionType": "own_solution_with_unique_answer",
+          "scored": true,
+          "currentAnswer": "D) 0,64",
+          "currentAnswerText": "9/14 atm = 0,642857… atm; a dos decimales, 0,64 atm.",
+          "editorialCorrectionRef": "exams/editorial-corrections.json#UNMSM_2027_I_C_90",
+          "originalItemRef": "exams/original-items.json#UNMSM_2027_I_C_90",
+          "note": "Corrección editorial aprobada para práctica, con solución propia y respuesta única. El defecto citado corresponde al original, conservado por separado."
+        },
+        {
+          "id": "UNMSM_2027_I_MH_36",
+          "sourceIncident": {
+            "id": "UNMSM_2027_I_MH_36",
+            "reason": "Lumbreras development saysNo hay clave; Saco development saysSin respuesta. Saco key table lists1081 inconsistently, so no letter has been invented.",
+            "sources": [
+              "https://drive.google.com/file/d/1qhKx6IQsQ3ss87236nTO4zji7kdFWmmY/view?usp=sharing",
+              "https://drive.google.com/file/d/1FuXzC8Gf_d6R8NON_3v749x4HLgxOwEu/view"
+            ]
+          },
+          "status": "editorial_correction_applied",
+          "resolutionType": "own_solution_with_unique_answer",
+          "scored": true,
+          "currentAnswer": "E) 3322",
+          "currentAnswerText": "3322 cm² es el menor valor entero posible. El extremo real es 900 + 180√181 ≈ 3321,652328 cm².",
+          "editorialCorrectionRef": "exams/editorial-corrections.json#UNMSM_2027_I_MH_36",
+          "originalItemRef": "exams/original-items.json#UNMSM_2027_I_MH_36",
+          "note": "Corrección editorial aprobada para práctica, con solución propia y respuesta única. El defecto citado corresponde al original, conservado por separado."
+        }
+      ],
+      "method": {
+        "ownHtmlEditorialQuestions": 2,
+        "ownHtmlEditorialSolutions": 2,
+        "editorialQuestionsWithSourceFigure": 1,
+        "remainingSourceImageQuestions": 448,
+        "note": "Las versiones editoriales usan enunciado y resolución didáctica propios en HTML, cinco opciones textuales y, cuando hace falta, una figura recortada de la fuente sin alternativas. El resto conserva la representación mediante imágenes; sus incidencias de procedencia se documentan por separado."
+      },
+      "coveragePending": {
+        "area": "B",
+        "includedInBank": false,
+        "confirmedAdditionalNumbers": [
+          93,
+          100
+        ],
+        "reason": "No se comprobó el cuadernillo B completo ni su correspondencia exacta. No se reconstruyen preguntas por inferencia."
+      },
+      "incidenceCount": 4,
+      "areas": {
+        "A": 90,
+        "C": 90,
+        "D": 90,
+        "E": 90,
+        "MH": 90
+      }
+    },
+    {
+      "process": "2026-II",
+      "bankPath": "UNMSM-2026-II.json",
+      "sha256": "69d427e5917c6b32daa63a86ad93333b9c8cf5d6de92fb91d94e092bf02136ad",
+      "status": "passed",
+      "questions": 540,
+      "scored": 540,
+      "unscored": 0,
+      "unscoredIds": [],
+      "correctedEditorial": 0,
+      "editoriallyCorrectedIds": [],
+      "incidents": [
+        {
+          "id": "UNMSM_2026_II_B_32",
+          "reason": "Lumbreras EX prints79 tablets/1600soles but later says70 tablets; both developments use70/1000. Replaced question and solution with faithful Saco source70/1000. Saco optionA=1410; option order differs from Lumbreras.",
+          "source": "https://drive.google.com/file/d/1FPyyaM4BgMNwmzwT_IWx8OoON8p_K8Qm/view",
+          "pages": [
+            13
+          ]
+        },
+        {
+          "id": "UNMSM_2026_II_C_32",
+          "reason": "Lumbreras EX prints79 tablets/1600soles but later says70 tablets; both developments use70/1000. Replaced question and solution with faithful Saco source70/1000. Saco optionA=1410; option order differs from Lumbreras.",
+          "source": "https://drive.google.com/file/d/1FPyyaM4BgMNwmzwT_IWx8OoON8p_K8Qm/view",
+          "pages": [
+            13
+          ]
+        },
+        {
+          "id": "UNMSM_2026_II_B_82",
+          "reason": "Lumbreras development computes0.80m² but final line says1.80m². Saco development and key confirm0.80m²; use Saco resolution with the original Lumbreras question/options.",
+          "source": "https://drive.google.com/file/d/1FPyyaM4BgMNwmzwT_IWx8OoON8p_K8Qm/view"
+        },
+        {
+          "id": "UNMSM_2026_II_C_84",
+          "reason": "Lumbreras development computes0.80m² but final line says1.80m². Saco development and key confirm0.80m²; use Saco resolution with the original Lumbreras question/options.",
+          "source": "https://drive.google.com/file/d/1FPyyaM4BgMNwmzwT_IWx8OoON8p_K8Qm/view"
+        },
+        {
+          "id": "UNMSM_2026_II_MH_27",
+          "reason": "216cubes−9existing=207. Lumbreras prints209; Saco development and key give207.",
+          "source": "https://drive.google.com/file/d/1HdsZAX1cIStIvQYSZ_ex34qe2-s_VrN5/view"
+        }
+      ],
+      "method": {
+        "ownHtmlEditorialQuestions": 0,
+        "ownHtmlEditorialSolutions": 0,
+        "editorialQuestionsWithSourceFigure": 0,
+        "remainingSourceImageQuestions": 540,
+        "note": "Las versiones editoriales usan enunciado y resolución didáctica propios en HTML, cinco opciones textuales y, cuando hace falta, una figura recortada de la fuente sin alternativas. El resto conserva la representación mediante imágenes; sus incidencias de procedencia se documentan por separado."
+      },
+      "incidenceCount": 5,
+      "areas": {
+        "A": 90,
+        "B": 90,
+        "C": 90,
+        "D": 90,
+        "E": 90,
+        "MH": 90
+      }
+    },
+    {
+      "process": "2025-I",
+      "bankPath": "UNMSM-2025-I.json",
+      "sha256": "221cede8f38e1c2bf13ba9637940a20eab612835da973fb923ae072a776d658f",
+      "status": "passed",
+      "questions": 540,
+      "scored": 540,
+      "unscored": 0,
+      "unscoredIds": [],
+      "correctedEditorial": 0,
+      "editoriallyCorrectedIds": [],
+      "incidents": [
+        {
+          "id": "UNMSM_2025_I_D_20",
+          "key": "A",
+          "note": "La hoja de respuestas imprime E, pero el desarrollo responde A. Se conserva A tras cotejar la lectura original.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2025_I_D_39",
+          "key": "B",
+          "note": "Errata de la hoja de respuestas: imprime 2ab (C). El desarrollo y el cálculo algebraico dan ab (B).",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2025_I_D_63",
+          "key": "D",
+          "note": "La hoja de respuestas imprime A, mientras que el desarrollo señala D. Se valida D con la organización jurisdiccional del Poder Judicial.",
+          "sources": [
+            "https://www.pj.gob.pe/wps/wcm/connect/e21bc2804b13bd95b41af5e931a10afc/web-poder-judicial-comprimido.pdf?CACHEID=e21bc2804b13bd95b41af5e931a10afc&MOD=AJPERES"
+          ]
+        },
+        {
+          "id": "UNMSM_2025_I_D_65",
+          "key": "B",
+          "note": "Errata en la línea final del solucionario: imprime VVFV (C). La secuencia correcta es VFFV (B), como publica la hoja de respuestas.",
+          "sources": [
+            "https://www2.congreso.gob.pe/sicr/cendocbib/con5_uibd.nsf/680A556D39C8914A052586C5000D3CC2/$FILE/LEY-26300.pdf"
+          ]
+        },
+        {
+          "id": "UNMSM_2025_I_E_20",
+          "key": "A",
+          "note": "La hoja de respuestas imprime E, pero el desarrollo responde A. Se conserva A tras cotejar la lectura original.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2025_I_E_35",
+          "key": "B",
+          "note": "Errata de la hoja de respuestas: imprime 2ab (C). El desarrollo y el cálculo algebraico dan ab (B).",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2025_I_E_59",
+          "key": "D",
+          "note": "La hoja de respuestas imprime A, mientras que el desarrollo señala D. Se valida D con la organización jurisdiccional del Poder Judicial.",
+          "sources": [
+            "https://www.pj.gob.pe/wps/wcm/connect/e21bc2804b13bd95b41af5e931a10afc/web-poder-judicial-comprimido.pdf?CACHEID=e21bc2804b13bd95b41af5e931a10afc&MOD=AJPERES"
+          ]
+        },
+        {
+          "id": "UNMSM_2025_I_E_61",
+          "key": "B",
+          "note": "Errata en la línea final del solucionario: imprime VVFV (C). La secuencia correcta es VFFV (B), como publica la hoja de respuestas.",
+          "sources": [
+            "https://www2.congreso.gob.pe/sicr/cendocbib/con5_uibd.nsf/680A556D39C8914A052586C5000D3CC2/$FILE/LEY-26300.pdf"
+          ]
+        },
+        {
+          "id": "UNMSM_2025_I_MH_55",
+          "key": "D",
+          "note": "Discrepancia corregida mediante material institucional: el desarrollo de Lumbreras responde B y su hoja de respuestas C. El boletín del CEPREUNMSM identifica contacto corporal y familiaridad, que corresponden a D.",
+          "sources": [
+            "https://pdfpresanmarcos.com/wp-content/uploads/2024/02/Boletin-Semana-3-Pre-San-Marcos-2023-II-UNMSM-PDF-1.pdf"
+          ]
+        },
+        {
+          "id": "UNMSM_2025_I_MH_95",
+          "key": "B",
+          "note": "Corrección conceptual de ambas piezas de Lumbreras: publican D, pero el enunciado especifica dos aurículas y dos ventrículos. La alternativa compatible es B.",
+          "sources": [
+            "https://openstax.org/books/biology/pages/40-1-overview-of-the-circulatory-system"
+          ]
+        }
+      ],
+      "method": {
+        "ownHtmlEditorialQuestions": 0,
+        "ownHtmlEditorialSolutions": 0,
+        "editorialQuestionsWithSourceFigure": 0,
+        "remainingSourceImageQuestions": 540,
+        "note": "Las versiones editoriales usan enunciado y resolución didáctica propios en HTML, cinco opciones textuales y, cuando hace falta, una figura recortada de la fuente sin alternativas. El resto conserva la representación mediante imágenes; sus incidencias de procedencia se documentan por separado."
+      },
+      "sharedContextReview": {
+        "status": "passed",
+        "passagesAdded": 5,
+        "questionsWithAddedContext": 10,
+        "affectedQuestionImages": [
+          "a-contexto-4.png",
+          "b-contexto-4.png",
+          "b-077-pregunta.png",
+          "b-contexto-5.png",
+          "c-contexto-4.png",
+          "c-079-pregunta.png",
+          "c-contexto-5.png"
+        ],
+        "note": "Lecturas de Filosofía originales EX para dos preguntas consecutivas; no reconstruidas desde SOL. La búsqueda nativa de Lea/responda/preguntas se revisó en las seis variantes. Los textos individuales de MH77–80 ya están dentro de sus enunciados."
+      },
+      "sourceValidationStatus": "passed",
+      "incidenceCount": 10,
+      "areas": {
+        "A": 90,
+        "B": 90,
+        "C": 90,
+        "D": 90,
+        "E": 90,
+        "MH": 90
+      }
+    },
+    {
+      "process": "2024-II",
+      "bankPath": "UNMSM-2024-II.json",
+      "sha256": "334c25f02c1e191e210dc71211dcb6cff647b4bcdc2220736338a0d95c0258eb",
+      "status": "passed",
+      "questions": 600,
+      "scored": 600,
+      "unscored": 0,
+      "unscoredIds": [],
+      "correctedEditorial": 4,
+      "editoriallyCorrectedIds": [
+        "UNMSM_2024_II_A_29",
+        "UNMSM_2024_II_A_58",
+        "UNMSM_2024_II_A_61",
+        "UNMSM_2024_II_D_81"
+      ],
+      "incidents": [
+        {
+          "id": "UNMSM_2024_II_A_11",
+          "key": "D",
+          "scored": true,
+          "note": "Se conserva D del desarrollo: la lectura presenta significado, origen, valor cultural y propiedades del mango. C reduce la idea central a su sabor.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_II_A_12",
+          "key": "D",
+          "scored": true,
+          "note": "Wholly equivale a totally, alternativa D del desarrollo. La hoja de respuestas imprime exactly, que corresponde a C.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_II_A_14",
+          "key": "E",
+          "scored": true,
+          "note": "Se conserva E: el texto recomienda la bañera para evitar ensuciarse por el jugo. La alternativa C de la hoja de respuestas menciona heridas al pelar, que el pasaje no sustenta.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_II_A_29",
+          "sourceIncident": {
+            "id": "UNMSM_2024_II_A_29",
+            "key": "E) 71",
+            "scored": true,
+            "note": "Edición editorial para práctica resuelta y puntuable; el material original queda conservado como referencia. Cambios: Alternativa E: se reemplaza «72» por «71»; ninguna otra cifra ni parte del enunciado se altera.",
+            "sources": []
+          },
+          "status": "editorial_correction_applied",
+          "resolutionType": "own_solution_with_unique_answer",
+          "scored": true,
+          "currentAnswer": "E) 71",
+          "currentAnswerText": "71 fichas.",
+          "editorialCorrectionRef": "exams/editorial-corrections.json#UNMSM_2024_II_A_29",
+          "originalItemRef": "exams/original-items.json#UNMSM_2024_II_A_29",
+          "note": "Corrección editorial aprobada para práctica, con solución propia y respuesta única. El defecto citado corresponde al original, conservado por separado."
+        },
+        {
+          "id": "UNMSM_2024_II_A_56",
+          "key": "B",
+          "scored": true,
+          "note": "Se conserva B, organización. Coordinar y combinar estructuras simples en otras más eficaces caracteriza la organización de esquemas en Piaget. Se contrastó con su explicación original de organización y adaptación.",
+          "sources": [
+            "https://www.unige.ch/piaget/piaget1936NIE_02"
+          ]
+        },
+        {
+          "id": "UNMSM_2024_II_A_58",
+          "sourceIncident": {
+            "id": "UNMSM_2024_II_A_58",
+            "key": "E) preparar y mantener actualizado el padrón electoral.",
+            "scored": true,
+            "note": "Edición editorial para práctica resuelta y puntuable; el material original queda conservado como referencia. Cambios: Alternativa A: «organizar y ejecutar los diversos procesos electorales» se sustituye por la fiscalización de la legalidad del sufragio y los procesos electorales (Constitución, art.178.1). Alternativa B: «organizar y ejecutar referéndum y otras consultas populares» se sustituye por la proclamación de candidatos elegidos y resultados de referéndums y consultas (Constitución, art.178.5). Se conservan el enunciado de atribución incorrecta al JNE y las alternativas C, D y E.",
+            "sources": [
+              "https://www3.congreso.gob.pe/Docs/biblioteca/Constitucion/CP-ED-Nov2022/files/basic-html/page106.html",
+              "https://www3.congreso.gob.pe/Docs/biblioteca/Constitucion/CP-ED-Nov2022/files/basic-html/page109.html"
+            ]
+          },
+          "status": "editorial_correction_applied",
+          "resolutionType": "own_solution_with_unique_answer",
+          "scored": true,
+          "currentAnswer": "E) preparar y mantener actualizado el padrón electoral.",
+          "currentAnswerText": "Preparar y mantener actualizado el padrón electoral corresponde al Reniec.",
+          "editorialCorrectionRef": "exams/editorial-corrections.json#UNMSM_2024_II_A_58",
+          "originalItemRef": "exams/original-items.json#UNMSM_2024_II_A_58",
+          "note": "Corrección editorial aprobada para práctica, con solución propia y respuesta única. El defecto citado corresponde al original, conservado por separado."
+        },
+        {
+          "id": "UNMSM_2024_II_A_61",
+          "sourceIncident": {
+            "id": "UNMSM_2024_II_A_61",
+            "key": "D) VVVV",
+            "scored": true,
+            "note": "Edición editorial para práctica resuelta y puntuable; el material original queda conservado como referencia. Cambios: Proposición III: «Se acepta la creencia de todas las religiones» se precisa como respeto a la libertad de conciencia y a las distintas creencias del alumnado, sin discriminación. Alternativa D: «FVVV» se reemplaza por «VVVV». Se conservan I, II, IV y las otras cuatro alternativas.",
+            "sources": [
+              "https://www.minedu.gob.pe/normatividad/reglamentos/EducacionCalidadyEquidad.pdf"
+            ]
+          },
+          "status": "editorial_correction_applied",
+          "resolutionType": "own_solution_with_unique_answer",
+          "scored": true,
+          "currentAnswer": "D) VVVV",
+          "currentAnswerText": "VVVV.",
+          "editorialCorrectionRef": "exams/editorial-corrections.json#UNMSM_2024_II_A_61",
+          "originalItemRef": "exams/original-items.json#UNMSM_2024_II_A_61",
+          "note": "Corrección editorial aprobada para práctica, con solución propia y respuesta única. El defecto citado corresponde al original, conservado por separado."
+        },
+        {
+          "id": "UNMSM_2024_II_A_77",
+          "key": "C",
+          "scored": true,
+          "note": "Se conserva C de la hoja de respuestas: que la ciencia sea proposicional significa que se expresa mediante enunciados o juicios. El pasaje no permite concluir que utilice solamente un tipo, como afirma D en el desarrollo.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_II_B_1",
+          "key": "E",
+          "scored": true,
+          "note": "Se conserva E del desarrollo: la infografía y los párrafos abarcan la vulnerabilidad bancaria digital en América Latina. La introducción de software malicioso es solo una de las modalidades mencionadas.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_II_B_90",
+          "key": "D",
+          "scored": true,
+          "note": "Se conserva D, FVV. El balance del desarrollo es 2 HNO3 + 3 H2S → 2 NO + 3 S + 4 H2O: los coeficientes del oxidante y reductor son 2 y 3, no 3 y 2; se transfieren dos electrones por mol de H2S y ocho moles de agua corresponden a cuatro de NO.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_II_B_91",
+          "key": "C",
+          "scored": true,
+          "note": "Se conserva C, VFF. El cloro está en posición meta; en la esterificación se sustituye el grupo hidroxilo del ácido y el alcohol dibujado es fenol. El producto es un éster de fenilo, no de bencilo, como afirma III.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_II_C_1",
+          "key": "E",
+          "scored": true,
+          "note": "Se conserva E del desarrollo: la infografía y los párrafos abarcan la vulnerabilidad bancaria digital en América Latina. La introducción de software malicioso es solo una de las modalidades mencionadas.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_II_C_92",
+          "key": "D",
+          "scored": true,
+          "note": "Se conserva D, FVV. El balance del desarrollo es 2 HNO3 + 3 H2S → 2 NO + 3 S + 4 H2O: los coeficientes del oxidante y reductor son 2 y 3, no 3 y 2; se transfieren dos electrones por mol de H2S y ocho moles de agua corresponden a cuatro de NO.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_II_D_81",
+          "sourceIncident": {
+            "id": "UNMSM_2024_II_D_81",
+            "key": "A) I Etapa: PMgL > PMeL; II Etapa: PMgL < PMeL; III Etapa: PMeL > PMgL.",
+            "scored": true,
+            "note": "Edición editorial para práctica resuelta y puntuable; el material original queda conservado como referencia. Cambios: Alternativa A, tercera etapa: «PMgL > PMgL» se corrige a «PMeL > PMgL» cambiando únicamente el primer término. Se precisa en el enunciado la comparación dentro de cada etapa, sin incluir los puntos fronterizos. Se conserva el gráfico original.",
+            "sources": []
+          },
+          "status": "editorial_correction_applied",
+          "resolutionType": "own_solution_with_unique_answer",
+          "scored": true,
+          "currentAnswer": "A) I Etapa: PMgL > PMeL; II Etapa: PMgL < PMeL; III Etapa: PMeL > PMgL.",
+          "currentAnswerText": "I: PMgL > PMeL; II: PMgL < PMeL; III: PMeL > PMgL.",
+          "editorialCorrectionRef": "exams/editorial-corrections.json#UNMSM_2024_II_D_81",
+          "originalItemRef": "exams/original-items.json#UNMSM_2024_II_D_81",
+          "note": "Corrección editorial aprobada para práctica, con solución propia y respuesta única. El defecto citado corresponde al original, conservado por separado."
+        },
+        {
+          "id": "UNMSM_2024_II_MH_37",
+          "key": "E",
+          "scored": true,
+          "note": "Se conserva E, 1800, del desarrollo. I(x)=(50−x)(20+2x)=−2x²+80x+1000 alcanza su máximo en x=20; I(20)=1800. El 1880 de la hoja de respuestas es una errata.",
+          "sources": []
+        }
+      ],
+      "method": {
+        "ownHtmlEditorialQuestions": 4,
+        "ownHtmlEditorialSolutions": 4,
+        "editorialQuestionsWithSourceFigure": 1,
+        "remainingSourceImageQuestions": 596,
+        "note": "Las versiones editoriales usan enunciado y resolución didáctica propios en HTML, cinco opciones textuales y, cuando hace falta, una figura recortada de la fuente sin alternativas. El resto conserva la representación mediante imágenes; sus incidencias de procedencia se documentan por separado."
+      },
+      "printedOptionLabelTypos": [
+        {
+          "id": "UNMSM_2024_II_D_28",
+          "printedLabels": "ABCDC",
+          "note": "La quinta alternativa está impresa con una letra repetida en el PDF. Se preservan los cinco enunciados y sus rótulos originales en la imagen; los botones A–E se corresponden por posición. La clave C corresponde inequívocamente a la tercera alternativa."
+        },
+        {
+          "id": "UNMSM_2024_II_E_28",
+          "printedLabels": "ABCDC",
+          "note": "La quinta alternativa está impresa con una letra repetida en el PDF. Se preservan los cinco enunciados y sus rótulos originales en la imagen; los botones A–E se corresponden por posición. La clave C corresponde inequívocamente a la tercera alternativa."
+        },
+        {
+          "id": "UNMSM_2024_II_D_45",
+          "printedLabels": "ABCDD",
+          "note": "La quinta alternativa está impresa con una letra repetida en el PDF. Se preservan los cinco enunciados y sus rótulos originales en la imagen; los botones A–E se corresponden por posición. La clave C corresponde inequívocamente a la tercera alternativa."
+        },
+        {
+          "id": "UNMSM_2024_II_E_39",
+          "printedLabels": "ABCDD",
+          "note": "La quinta alternativa está impresa con una letra repetida en el PDF. Se preservan los cinco enunciados y sus rótulos originales en la imagen; los botones A–E se corresponden por posición. La clave C corresponde inequívocamente a la tercera alternativa."
+        }
+      ],
+      "sourceCaveats": [
+        {
+          "area": "C",
+          "note": "El enlace publicado como EX contiene un solucionario combinado de 56 páginas. Se recorta cada enunciado y sus cinco alternativas antes de su primera RESOLUCIÓN; se validó que no incluyen desarrollo ni Respuesta."
+        }
+      ],
+      "sharedContexts": [
+        {
+          "areas": [
+            "B"
+          ],
+          "questions": [
+            78,
+            79
+          ],
+          "printedTargetQuestions": [
+            80,
+            81
+          ]
+        },
+        {
+          "areas": [
+            "C"
+          ],
+          "questions": [
+            80,
+            81
+          ]
+        },
+        {
+          "areas": [
+            "E"
+          ],
+          "questions": [
+            86,
+            87
+          ],
+          "printedTargetQuestions": [
+            97,
+            98
+          ]
+        }
+      ],
+      "sourceValidationStatus": "passed",
+      "incidenceCount": 15,
+      "areas": {
+        "A": 100,
+        "B": 100,
+        "C": 100,
+        "D": 100,
+        "E": 100,
+        "MH": 100
+      }
+    },
+    {
+      "process": "2024-I",
+      "bankPath": "UNMSM-2024-I.json",
+      "sha256": "e44879deadc714ecac68eefa32b5adab7ceb8986bd41751f1972938c5a5b4d9d",
+      "status": "passed",
+      "questions": 600,
+      "scored": 600,
+      "unscored": 0,
+      "unscoredIds": [],
+      "correctedEditorial": 2,
+      "editoriallyCorrectedIds": [
+        "UNMSM_2024_I_A_35",
+        "UNMSM_2024_I_MH_52"
+      ],
+      "incidents": [
+        {
+          "id": "UNMSM_2024_I_A_35",
+          "sourceIncident": {
+            "id": "UNMSM_2024_I_A_35",
+            "key": "",
+            "scored": false,
+            "note": "Las dos piezas editoriales indican que no hay clave. La observación propone cambiar el dato angular; no se altera el enunciado original.",
+            "sources": []
+          },
+          "status": "editorial_correction_applied",
+          "resolutionType": "own_solution_with_unique_answer",
+          "scored": true,
+          "currentAnswer": "A) 1218",
+          "currentAnswerText": "S/ 1218",
+          "editorialCorrectionRef": "exams/editorial-corrections.json#UNMSM_2024_I_A_35",
+          "originalItemRef": "exams/original-items.json#UNMSM_2024_I_A_35",
+          "note": "Corrección editorial aprobada para práctica, con solución propia y respuesta única. El defecto citado corresponde al original, conservado por separado."
+        },
+        {
+          "id": "UNMSM_2024_I_A_80",
+          "key": "E",
+          "scored": true,
+          "note": "El EX imprime c=3×10^-8 m/s. Corrigiendo ese signo tipográfico a c≈3×10^8 m/s, el cálculo da 3,3V, como RES, y no3,5V del SOL.",
+          "sources": [
+            "https://physics.nist.gov/cgi-bin/cuu/Value?c%7Csearch_for=c"
+          ]
+        },
+        {
+          "id": "UNMSM_2024_I_A_89",
+          "key": "E",
+          "scored": true,
+          "note": "La proposiciónIII es falsa: la combustión libera energía y la fotosíntesis la requiere. RES=FVFV; el SOL explica el carácter endotérmico pero rotulaIII verdadera.",
+          "sources": [
+            "https://openstax.org/books/concepts-biology/pages/4-1-energy-and-metabolism"
+          ]
+        },
+        {
+          "id": "UNMSM_2024_I_B_38",
+          "key": "B",
+          "scored": true,
+          "note": "La congruencia y el ángulo de80° dan2x+80°=180°, luego x=50°(B), como SOL; RES imprime74°.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_B_87",
+          "key": "C",
+          "scored": true,
+          "note": "VVV: coeficientes1,2,1,1,1,2 suman8; diez moles deO3 requieren3kg deNaI; NaI es yoduro de sodio. Coincide con SOL y refuta FFV de RES.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_B_88",
+          "key": "A",
+          "scored": true,
+          "note": "H2SO4 y NaOH tienen igual normalidad0,2N; para neutralizar500mL se requieren500mL de ácido. SOL=A; RES publica100mL.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_B_89",
+          "key": "E",
+          "scored": true,
+          "note": "El yodo Z53 pertenece al grupo17 y periodo5. Se verifica la configuración5s2 4d10 5p5 del desarrollo. SOL=E; RES publica16 y4.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_B_90",
+          "key": "D",
+          "scored": true,
+          "note": "PV=nRT: n=(4,1×3)/(0,082×300)=0,5mol; m=0,5×44=22g. SOL=D; RES publica18g.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_B_91",
+          "key": "E",
+          "scored": true,
+          "note": "La figura tiene seis carbonos del anillo aromático sp2 y tres carbonos saturados sp3. SOL=6y3(E); RES imprime4y5.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_B_92",
+          "key": "C",
+          "scored": true,
+          "note": "Se cuentan12carbonos en el cicloalcano con un anillo y enlaces simples; fórmula C12H24. SOL=C; RES imprime C12H23.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_B_94",
+          "key": "B",
+          "scored": true,
+          "note": "ACTH→liberación de cortisol, timosina→maduración de linfocitosT, PTH→calcio: Ic,IIa,IIIb(B), como SOL. RES intercambia las dos últimas funciones.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_B_95",
+          "key": "A",
+          "scored": true,
+          "note": "La red de fibrina atrapa elementos sanguíneos; el fibrinógeno es convertido por trombina, no por linfocitos. SOL=A; RES=E es incompatible con la coagulación descrita.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_B_96",
+          "key": "D",
+          "scored": true,
+          "note": "VVVV: rumiantes con cámaras fermentativas, estómago humano glandular, proventrículo/molleja en aves y estómago distensible en serpientes. SOL=D; RES publica FVVF.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_B_97",
+          "key": "E",
+          "scored": true,
+          "note": "Al contraerse el diafragma desciende y aumenta el volumen torácico; corresponde E, como SOL. RES=C atribuye ese efecto a la relajación.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_B_98",
+          "key": "B",
+          "scored": true,
+          "note": "En la clasificación sensorial tradicional empleada por el examen, la asociación prevista es Krause–frío(B), como SOL. Paccini–calor de RES no corresponde.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_B_99",
+          "key": "C",
+          "scored": true,
+          "note": "Litolítico designa la disolución de cálculos: es la propiedad que describe el enunciado(C), como SOL. Hipertensor de RES significa aumento de presión arterial.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_C_38",
+          "key": "B",
+          "scored": true,
+          "note": "La congruencia y el ángulo de80° dan2x+80°=180°, luego x=50°(B), como SOL; RES imprime74°.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_C_89",
+          "key": "C",
+          "scored": true,
+          "note": "VVV: coeficientes1,2,1,1,1,2 suman8; diez moles deO3 requieren3kg deNaI; NaI es yoduro de sodio. Coincide con SOL y refuta FFV de RES.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_C_90",
+          "key": "A",
+          "scored": true,
+          "note": "H2SO4 y NaOH tienen igual normalidad0,2N; para neutralizar500mL se requieren500mL de ácido. SOL=A; RES publica100mL.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_C_91",
+          "key": "E",
+          "scored": true,
+          "note": "El yodo Z53 pertenece al grupo17 y periodo5. Se verifica la configuración5s2 4d10 5p5 del desarrollo. SOL=E; RES publica16 y4.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_C_92",
+          "key": "D",
+          "scored": true,
+          "note": "PV=nRT: n=(4,1×3)/(0,082×300)=0,5mol; m=0,5×44=22g. SOL=D; RES publica18g.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_C_93",
+          "key": "C",
+          "scored": true,
+          "note": "El EX93 es el cicloalcano C12H24; su desarrollo está rotulado94 en SOL. Se reasigna por contenido y no por número. RES93 corresponde a otra pregunta.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_C_94",
+          "key": "B",
+          "scored": true,
+          "note": "No hay desarrollo correspondiente en las piezas SOL/RES consultadas. Se calcula sobre EX94: níquel ánodo, diagrama correcto y potencial0,62V; las tres proposiciones son verdaderas.",
+          "sources": [
+            "https://openstax.org/books/chemistry-2e/pages/17-3-electrode-and-cell-potentials"
+          ]
+        },
+        {
+          "id": "UNMSM_2024_I_C_95",
+          "key": "B",
+          "scored": true,
+          "note": "ACTH→liberación de cortisol, timosina→maduración de linfocitosT, PTH→calcio: Ic,IIa,IIIb(B), como SOL. RES intercambia las dos últimas funciones.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_C_96",
+          "key": "A",
+          "scored": true,
+          "note": "La red de fibrina atrapa elementos sanguíneos; el fibrinógeno es convertido por trombina, no por linfocitos. SOL=A; RES=E es incompatible con la coagulación descrita.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_C_97",
+          "key": "D",
+          "scored": true,
+          "note": "VVVV: rumiantes con cámaras fermentativas, estómago humano glandular, proventrículo/molleja en aves y estómago distensible en serpientes. SOL=D; RES publica FVVF.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_C_98",
+          "key": "E",
+          "scored": true,
+          "note": "Al contraerse el diafragma desciende y aumenta el volumen torácico; corresponde E, como SOL. RES=C atribuye ese efecto a la relajación.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_C_99",
+          "key": "B",
+          "scored": true,
+          "note": "En la clasificación sensorial tradicional empleada por el examen, la asociación prevista es Krause–frío(B), como SOL. Paccini–calor de RES no corresponde.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_C_100",
+          "key": "C",
+          "scored": true,
+          "note": "Litolítico designa la disolución de cálculos: es la propiedad que describe el enunciado(C), como SOL. Hipertensor de RES significa aumento de presión arterial.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_D_67",
+          "key": "E",
+          "scored": true,
+          "note": "La investigación histórica de Toledo buscaba legitimar la conquista frente a la defensa lascasiana del señorío inca, no conservar la sucesión ni reducir la tesis de tiranía. Se corrigen ambas piezas editoriales.",
+          "sources": [
+            "https://revistas.pucp.edu.pe/index.php/historica/article/view/3794",
+            "https://revistas.pucp.edu.pe/index.php/historica/article/download/3794/3771/14486"
+          ]
+        },
+        {
+          "id": "UNMSM_2024_I_D_86",
+          "key": "B",
+          "scored": true,
+          "note": "La lectura critica la reducción cientificista del ser humano y reivindica la filosofía del hombre; se infiere su papel central en análisis antropológico(B), como SOL. RES=A no se deduce del pasaje.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_E_63",
+          "key": "E",
+          "scored": true,
+          "note": "La investigación histórica de Toledo buscaba legitimar la conquista frente a la defensa lascasiana del señorío inca, no conservar la sucesión ni reducir la tesis de tiranía. Se corrigen ambas piezas editoriales.",
+          "sources": [
+            "https://revistas.pucp.edu.pe/index.php/historica/article/view/3794",
+            "https://revistas.pucp.edu.pe/index.php/historica/article/download/3794/3771/14486"
+          ]
+        },
+        {
+          "id": "UNMSM_2024_I_E_82",
+          "key": "B",
+          "scored": true,
+          "note": "La lectura critica la reducción cientificista del ser humano y reivindica la filosofía del hombre; se infiere su papel central en análisis antropológico(B), como SOL. RES=A no se deduce del pasaje.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_E_85",
+          "key": "D",
+          "scored": true,
+          "note": "El principio indeterminado evita privilegiar un elemento determinado que destruiría a sus contrarios. Esa razón específica esD; SOL=C solo enuncia oposición y RES=B invierte la derivación.",
+          "sources": [
+            "https://classics.mit.edu/Aristotle/physics.3.iii.html"
+          ]
+        },
+        {
+          "id": "UNMSM_2024_I_E_86",
+          "key": "C",
+          "scored": true,
+          "note": "El caso trata de descripción científica dependiente del observador y sus perspectivas de conocimiento: problema epistemológico(C), como SOL; no es una cuestión sobre naturaleza humana(D de RES).",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_E_87",
+          "key": "A",
+          "scored": true,
+          "note": "La autonomía del pensamiento y el desarrollo libre de la ciencia fomentan la investigación personal de la naturaleza(A), como SOL; no el carácter decorativo de las técnicas de RES.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_E_88",
+          "key": "B",
+          "scored": true,
+          "note": "Del texto se infieren reconocimiento de la experiencia femenina e igualdad de género(IyIV). IIyIII no se deducen. SOL=B; RES=E añade afirmaciones ajenas y contradictorias.",
+          "sources": []
+        },
+        {
+          "id": "UNMSM_2024_I_MH_52",
+          "sourceIncident": {
+            "id": "UNMSM_2024_I_MH_52",
+            "key": "",
+            "scored": false,
+            "note": "El desarrollo obtiene FFV y señala expresamente que no hay clave; RES también dice sin clave. Ninguna alternativa se sustituye ni inventa.",
+            "sources": []
+          },
+          "status": "editorial_correction_applied",
+          "resolutionType": "own_solution_with_unique_answer",
+          "scored": true,
+          "currentAnswer": "A) FFF",
+          "currentAnswerText": "FFF",
+          "editorialCorrectionRef": "exams/editorial-corrections.json#UNMSM_2024_I_MH_52",
+          "originalItemRef": "exams/original-items.json#UNMSM_2024_I_MH_52",
+          "note": "Corrección editorial aprobada para práctica, con solución propia y respuesta única. El defecto citado corresponde al original, conservado por separado."
+        }
+      ],
+      "method": {
+        "ownHtmlEditorialQuestions": 2,
+        "ownHtmlEditorialSolutions": 2,
+        "editorialQuestionsWithSourceFigure": 0,
+        "remainingSourceImageQuestions": 598,
+        "note": "Las versiones editoriales usan enunciado y resolución didáctica propios en HTML, cinco opciones textuales y, cuando hace falta, una figura recortada de la fuente sin alternativas. El resto conserva la representación mediante imágenes; sus incidencias de procedencia se documentan por separado."
+      },
+      "contextAudit": {
+        "numberedVerbalContexts": 18,
+        "additionalSharedContexts": 3,
+        "sourceInstructionErrata": [
+          "D85–86 and E81–82 are printed as92–93 in the shared passage instruction"
+        ]
+      },
+      "sourceStemAudit": {
+        "exactOrHighSimilarity": 598,
+        "contentMismatchesCorrected": [
+          "C93 reassigned to SOL94 by matching question content",
+          "C94 verified original derivation; no corresponding source solution"
+        ]
+      },
+      "sourceValidationStatus": "passed",
+      "incidenceCount": 38,
+      "areas": {
+        "A": 100,
+        "B": 100,
+        "C": 100,
+        "D": 100,
+        "E": 100,
+        "MH": 100
+      }
+    }
+  ],
+  "totals": {
+    "processes": 5,
+    "questions": 2730,
+    "scored": 2730,
+    "unscored": 0,
+    "correctedEditorial": 8
+  },
+  "method": {
+    "ownHtmlEditorialQuestions": 8,
+    "ownHtmlEditorialSolutions": 8,
+    "editorialSourceFigures": 2,
+    "remainingSourceImageQuestions": 2722,
+    "originalsPreserved": true,
+    "note": "Las incidencias anidadas como sourceIncident son antecedentes del original. El estado editorial_correction_applied y la respuesta actual describen la versión activa para práctica.",
+    "practiceImageAnnotationPolicy": "Las copias de práctica omiten anotaciones ajenas añadidas al PDF, incluidas marcas que revelaban respuestas. Se conserva el contenido impreso y los PDF originales con sus huellas de procedencia."
+  }
+}

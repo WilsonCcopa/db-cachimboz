@@ -1,0 +1,498 @@
+{
+  "schemaVersion": 1,
+  "note": "Registros previos a las catorce correcciones editoriales aprobadas. Las imágenes y alternativas impresas se conservan como referencia; las versiones activas corregidas están en los bancos principales.",
+  "items": [
+    {
+      "sourceFile": "UNMSM-2027-I.json",
+      "sourceBankSha256Before": "8a10d44ac9328bb17e7d23466101acb1c492d98ae1a52dc2ac3fca3dc8b3d137",
+      "record": {
+        "id": "UNMSM_2027_I_C_90",
+        "curso": "Química",
+        "tema": "",
+        "contexto": "",
+        "contexto_img": "",
+        "pregunta": "Pregunta 90",
+        "pregunta_b64": "",
+        "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2027-i/c/090-question.png",
+        "opciones": [
+          "A)",
+          "B)",
+          "C)",
+          "D)",
+          "E)"
+        ],
+        "respuesta": "",
+        "resolucion": "Pregunta no puntuable. El desarrollo obtiene 0,643 atm y la hoja de claves indica «No hay clave»: ninguna alternativa coincide.",
+        "resolucion_latex": "",
+        "resolucion_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2027-i/c/090-solution.png",
+        "puntuable": false,
+        "estado_pregunta": "sin_clave_validada"
+      },
+      "printedOptionTexts": {
+        "A": "0,14",
+        "B": "0,72",
+        "C": "3,24",
+        "D": "0,63",
+        "E": "0,25"
+      }
+    },
+    {
+      "sourceFile": "UNMSM-2027-I.json",
+      "sourceBankSha256Before": "8a10d44ac9328bb17e7d23466101acb1c492d98ae1a52dc2ac3fca3dc8b3d137",
+      "record": {
+        "id": "UNMSM_2027_I_MH_36",
+        "curso": "Geometría",
+        "tema": "Prisma",
+        "contexto": "",
+        "contexto_img": "",
+        "pregunta": "Pregunta 36",
+        "pregunta_b64": "",
+        "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2027-i/mh/036-question.png",
+        "opciones": [
+          "A)",
+          "B)",
+          "C)",
+          "D)",
+          "E)"
+        ],
+        "respuesta": "",
+        "resolucion": "Pregunta no puntuable. El desarrollo de Lumbreras indica «No hay clave» y el de Saco Oliveros indica «Sin respuesta».",
+        "resolucion_latex": "",
+        "resolucion_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2027-i/mh/036-solution.png",
+        "puntuable": false,
+        "estado_pregunta": "sin_clave_validada"
+      },
+      "printedOptionTexts": {
+        "A": "1084",
+        "B": "1082",
+        "C": "1083",
+        "D": "1081",
+        "E": "1085"
+      }
+    },
+    {
+      "sourceFile": "UNMSM-2024-I.json",
+      "sourceBankSha256Before": "4b0f5f928375adbc8e2d7f5697cfe6f3a431d989b722b0e2eea87a4766f6717a",
+      "record": {
+        "id": "UNMSM_2024_I_A_35",
+        "curso": "Geometría",
+        "tema": "Triángulos",
+        "contexto": "",
+        "contexto_img": "",
+        "pregunta": "Pregunta 35. Lee el enunciado y sus alternativas en la imagen.",
+        "pregunta_b64": "",
+        "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-i/a-035-pregunta.png",
+        "opciones": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "respuesta": "",
+        "resolucion": "Las dos piezas editoriales indican que no hay clave. La observación propone cambiar el dato angular; no se altera el enunciado original.",
+        "resolucion_latex": "",
+        "resolucion_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-i/a-035-solucion.png",
+        "area": "A",
+        "observacion": "Las dos piezas editoriales indican que no hay clave. La observación propone cambiar el dato angular; no se altera el enunciado original.",
+        "puntuable": false,
+        "estado_pregunta": "sin_clave_validada"
+      },
+      "printedOptionTexts": {
+        "A": "1596",
+        "B": "3726",
+        "C": "1566",
+        "D": "3276",
+        "E": "1590"
+      }
+    },
+    {
+      "sourceFile": "UNMSM-2024-I.json",
+      "sourceBankSha256Before": "4b0f5f928375adbc8e2d7f5697cfe6f3a431d989b722b0e2eea87a4766f6717a",
+      "record": {
+        "id": "UNMSM_2024_I_MH_52",
+        "curso": "Psicología",
+        "tema": "Desarrollo humano - lenguaje",
+        "contexto": "",
+        "contexto_img": "",
+        "pregunta": "Pregunta 52. Lee el enunciado y sus alternativas en la imagen.",
+        "pregunta_b64": "",
+        "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-i/mh-052-pregunta.png",
+        "opciones": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "respuesta": "",
+        "resolucion": "El desarrollo obtiene FFV y señala expresamente que no hay clave; RES también dice sin clave. Ninguna alternativa se sustituye ni inventa.",
+        "resolucion_latex": "",
+        "resolucion_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-i/mh-052-solucion.png",
+        "area": "MH",
+        "observacion": "El desarrollo obtiene FFV y señala expresamente que no hay clave; RES también dice sin clave. Ninguna alternativa se sustituye ni inventa.",
+        "puntuable": false,
+        "estado_pregunta": "sin_clave_validada"
+      },
+      "printedOptionTexts": {
+        "A": "VVF",
+        "B": "FVV",
+        "C": "VVV",
+        "D": "FVF",
+        "E": "VFV"
+      }
+    },
+    {
+      "sourceFile": "UNMSM-2024-II.json",
+      "sourceBankSha256Before": "d636fdde5a1cb487b40aa37c46dfd97d5fa01b689f5d1d621dd165318148c9b3",
+      "record": {
+        "id": "UNMSM_2024_II_A_29",
+        "curso": "Habilidad Lógico-Matemática",
+        "tema": "Problemas sobre certezas",
+        "contexto": "",
+        "contexto_img": "",
+        "pregunta": "Pregunta 29. Lee el enunciado y sus alternativas en la imagen.",
+        "pregunta_b64": "",
+        "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/a-029-pregunta.png",
+        "opciones": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "respuesta": "",
+        "resolucion": "Pregunta no puntuable. La resolución y la hoja de respuestas indican que el resultado es 71 y no aparece entre las alternativas.",
+        "resolucion_latex": "",
+        "resolucion_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/a-029-solucion.png",
+        "puntuable": false,
+        "estado_pregunta": "sin_clave_validada"
+      },
+      "printedOptionTexts": {
+        "A": "73",
+        "B": "75",
+        "C": "68",
+        "D": "50",
+        "E": "72"
+      }
+    },
+    {
+      "sourceFile": "UNMSM-2024-II.json",
+      "sourceBankSha256Before": "d636fdde5a1cb487b40aa37c46dfd97d5fa01b689f5d1d621dd165318148c9b3",
+      "record": {
+        "id": "UNMSM_2024_II_A_58",
+        "curso": "Educación Cívica",
+        "tema": "Sistema electoral",
+        "contexto": "",
+        "contexto_img": "",
+        "pregunta": "Pregunta 58. Lee el enunciado y sus alternativas en la imagen.",
+        "pregunta_b64": "",
+        "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/a-058-pregunta.png",
+        "opciones": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "respuesta": "",
+        "resolucion": "Pregunta no puntuable. Hay varias alternativas incorrectas: organizar procesos electorales y referéndum corresponde a la ONPE, y mantener el padrón electoral corresponde al Reniec. C y D sí son atribuciones del JNE; A, B y E responden a lo solicitado. La hoja de respuestas imprime C, contradiciendo el enunciado y el propio desarrollo sin clave. Fuentes: https://www3.congreso.gob.pe/Docs/biblioteca/Constitucion/CP-ED-Nov2022/files/basic-html/page106.html ; https://www3.congreso.gob.pe/Docs/biblioteca/Constitucion/CP-ED-Nov2022/files/basic-html/page109.html",
+        "resolucion_latex": "",
+        "resolucion_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/a-058-solucion.png",
+        "puntuable": false,
+        "estado_pregunta": "sin_clave_validada"
+      },
+      "printedOptionTexts": {
+        "A": "organizar y ejecutar los diversos procesos electorales.",
+        "B": "organizar y ejecutar referéndum y otras consultas populares.",
+        "C": "mantener y custodiar el registro de organizaciones políticas.",
+        "D": "administrar y disponer justicia en materia electoral.",
+        "E": "preparar y mantener actualizado el padrón electoral."
+      }
+    },
+    {
+      "sourceFile": "UNMSM-2024-II.json",
+      "sourceBankSha256Before": "d636fdde5a1cb487b40aa37c46dfd97d5fa01b689f5d1d621dd165318148c9b3",
+      "record": {
+        "id": "UNMSM_2024_II_A_61",
+        "curso": "Educación Cívica",
+        "tema": "Interculturalidad",
+        "contexto": "",
+        "contexto_img": "",
+        "pregunta": "Pregunta 61. Lee el enunciado y sus alternativas en la imagen.",
+        "pregunta_b64": "",
+        "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/a-061-pregunta.png",
+        "opciones": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "respuesta": "",
+        "resolucion": "Pregunta no puntuable. Las piezas de Lumbreras discrepan: el desarrollo imprime FFVV y la hoja de respuestas FVVV. La gratuidad e inclusión de la educación estatal están reconocidas por la Ley 28044. La inclusión del aprendizaje de una lengua extranjera tiene respaldo en su artículo 20.b y el artículo 27 del Reglamento de Educación Básica Regular. Por ello no se fuerza ninguna de las secuencias publicadas. Fuentes: https://www.minedu.gob.pe/normatividad/reglamentos/EducacionCalidadyEquidad.pdf",
+        "resolucion_latex": "",
+        "resolucion_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/a-061-solucion.png",
+        "puntuable": false,
+        "estado_pregunta": "sin_clave_validada"
+      },
+      "printedOptionTexts": {
+        "A": "VFVF",
+        "B": "FFVV",
+        "C": "VFFV",
+        "D": "FVVV",
+        "E": "FFFV"
+      }
+    },
+    {
+      "sourceFile": "UNMSM-2024-II.json",
+      "sourceBankSha256Before": "d636fdde5a1cb487b40aa37c46dfd97d5fa01b689f5d1d621dd165318148c9b3",
+      "record": {
+        "id": "UNMSM_2024_II_D_81",
+        "curso": "Economía",
+        "tema": "Producción",
+        "contexto": "",
+        "contexto_img": "",
+        "pregunta": "Pregunta 81. Lee el enunciado y sus alternativas en la imagen.",
+        "pregunta_b64": "",
+        "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/d-081-pregunta.png",
+        "opciones": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "respuesta": "",
+        "resolucion": "Pregunta no puntuable. Ninguna alternativa reproduce correctamente las tres relaciones del desarrollo. La opción A contiene la errata «PMgL > PMgL» en la tercera etapa; el desarrollo y la hoja de respuestas indican «PMeL > PMgL». Se conserva la pregunta original sin asignar una alternativa inexistente.",
+        "resolucion_latex": "",
+        "resolucion_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/d-081-solucion.png",
+        "puntuable": false,
+        "estado_pregunta": "sin_clave_validada"
+      },
+      "printedOptionTexts": {
+        "A": "I Etapa: PMgL > PMeL; II Etapa: PMgL < PMeL; III Etapa: PMgL > PMgL.",
+        "B": "I Etapa: PMgL > PMeL; II Etapa: PMgL = PMeL; III Etapa: PMgL > PMeL.",
+        "C": "I Etapa: PMgL < PMeL; II Etapa: PMgL < PMeL; III Etapa: PMgL = PMeL.",
+        "D": "I Etapa: PMgL > PMeL; II Etapa: PMgL > PMeL; III Etapa: PMgL > PMeL.",
+        "E": "I Etapa: PMgL = PMeL; II Etapa: PMgL < PMeL; III Etapa: PMgL ≥ PMeL."
+      }
+    },
+    {
+      "sourceFile": "UNSA-2023-I.json",
+      "sourceBankSha256Before": "23635ba52c221b5c8ed2f6cb77fe1d6eec215dc1717d21b9836442b465e46c14",
+      "record": {
+        "id": "UNSA_2023_I_ING_22",
+        "curso": "Química",
+        "tema": "Propiedades químicas de carbono",
+        "contexto": "",
+        "contexto_img": "",
+        "pregunta": "Pregunta 22 — Ingenierías. Lee el enunciado y sus alternativas en la imagen.",
+        "pregunta_b64": "",
+        "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2023-i/ing-22-pregunta.png",
+        "opciones": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "respuesta": "",
+        "resolucion": "El solucionario de Lumbreras indica «17\n3\n (no hay clave).». No se atribuye anulación oficial. La imagen conserva el desarrollo de la fuente.",
+        "resolucion_latex": "",
+        "resolucion_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2023-i/ing-22-solucion.png",
+        "area": "Ingenierías",
+        "observacion": "El solucionario de Lumbreras indica «17\n3\n (no hay clave).». No se atribuye anulación oficial.",
+        "estado_pregunta": "sin_clave_validada",
+        "puntuable": false
+      },
+      "printedOptionTexts": {
+        "A": "2",
+        "B": "3",
+        "C": "9",
+        "D": "4",
+        "E": "5"
+      }
+    },
+    {
+      "sourceFile": "UNSA-2023-II.json",
+      "sourceBankSha256Before": "9fc57a5693f14717bb5f678e5d0754b6aca0427c619c385f472ff87c897441a7",
+      "record": {
+        "id": "UNSA_2023_II_BIO_51",
+        "curso": "Razonamiento Matemático",
+        "tema": "Problemas sobre parentescos",
+        "contexto": "",
+        "contexto_img": "",
+        "pregunta": "Pregunta 51 — Biomédicas. Lee el enunciado y sus alternativas en la imagen.",
+        "pregunta_b64": "",
+        "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2023-ii/bio-51-pregunta.png",
+        "opciones": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "respuesta": "",
+        "resolucion": "La fuente repite la alternativa abuelo en B y E. El desarrollo responde abuelo, por lo que no permite distinguir una única letra. Se conservan las alternativas originales sin puntuar. La imagen conserva el desarrollo de la fuente.",
+        "resolucion_latex": "",
+        "resolucion_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2023-ii/bio-51-solucion.png",
+        "area": "Biomédicas",
+        "observacion": "La fuente repite la alternativa abuelo en B y E. El desarrollo responde abuelo, por lo que no permite distinguir una única letra. Se conservan las alternativas originales sin puntuar.",
+        "estado_pregunta": "alternativas_duplicadas",
+        "puntuable": false
+      },
+      "printedOptionTexts": {
+        "A": "padre",
+        "B": "abuelo",
+        "C": "bisabuelo",
+        "D": "tío",
+        "E": "abuelo"
+      }
+    },
+    {
+      "sourceFile": "UNSA-2024-II.json",
+      "sourceBankSha256Before": "861ef7acd62ab3540b84ba25bf28ada7c0c19e7b8d8caa4b832ea687d20f35f3",
+      "record": {
+        "id": "UNSA_2024_II_SOC_2",
+        "curso": "Inglés",
+        "tema": "Reading comprehension",
+        "contexto": "",
+        "contexto_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/soc-contexto-01-02.png",
+        "pregunta": "Pregunta 2 — Sociales. Lee el enunciado y sus alternativas en la imagen.",
+        "pregunta_b64": "",
+        "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/soc-02-pregunta.png",
+        "opciones": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "respuesta": "",
+        "resolucion": "El solucionario de Lumbreras indica «No hay clave». No se atribuye anulación oficial. La imagen conserva el desarrollo de la fuente.",
+        "resolucion_latex": "",
+        "resolucion_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/soc-02-solucion.png",
+        "area": "Sociales",
+        "observacion": "El solucionario de Lumbreras indica «No hay clave». No se atribuye anulación oficial.",
+        "estado_pregunta": "sin_clave_validada",
+        "puntuable": false
+      },
+      "printedOptionTexts": {
+        "A": "They love writing your name on the cups.",
+        "B": "Prefer the Starbucks in Britain.",
+        "C": "They are patient with drivers.",
+        "D": "They don’t use first name.",
+        "E": "They are nice, friendly with people."
+      }
+    },
+    {
+      "sourceFile": "UNSA-2024-II.json",
+      "sourceBankSha256Before": "861ef7acd62ab3540b84ba25bf28ada7c0c19e7b8d8caa4b832ea687d20f35f3",
+      "record": {
+        "id": "UNSA_2024_II_ING_2",
+        "curso": "Inglés",
+        "tema": "Reading comprehension",
+        "contexto": "",
+        "contexto_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/ing-contexto-01-02.png",
+        "pregunta": "Pregunta 2 — Ingenierías. Lee el enunciado y sus alternativas en la imagen.",
+        "pregunta_b64": "",
+        "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/ing-02-pregunta.png",
+        "opciones": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "respuesta": "",
+        "resolucion": "El solucionario de Lumbreras indica «No hay clave». No se atribuye anulación oficial. La imagen conserva el desarrollo de la fuente.",
+        "resolucion_latex": "",
+        "resolucion_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/ing-02-solucion.png",
+        "area": "Ingenierías",
+        "observacion": "El solucionario de Lumbreras indica «No hay clave». No se atribuye anulación oficial.",
+        "estado_pregunta": "sin_clave_validada",
+        "puntuable": false
+      },
+      "printedOptionTexts": {
+        "A": "FFT",
+        "B": "TFF",
+        "C": "TTT",
+        "D": "TFT",
+        "E": "FTF"
+      }
+    },
+    {
+      "sourceFile": "UNSA-2024-II.json",
+      "sourceBankSha256Before": "861ef7acd62ab3540b84ba25bf28ada7c0c19e7b8d8caa4b832ea687d20f35f3",
+      "record": {
+        "id": "UNSA_2024_II_BIO_20",
+        "curso": "Economía",
+        "tema": "Equilibrio de mercado",
+        "contexto": "",
+        "contexto_img": "",
+        "pregunta": "Pregunta 20 — Biomédicas. Lee el enunciado y sus alternativas en la imagen.",
+        "pregunta_b64": "",
+        "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/bio-20-pregunta.png",
+        "opciones": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "respuesta": "",
+        "resolucion": "El solucionario de Lumbreras indica «No hay clave.». No se atribuye anulación oficial. La imagen conserva el desarrollo de la fuente.",
+        "resolucion_latex": "",
+        "resolucion_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/bio-20-solucion.png",
+        "area": "Biomédicas",
+        "observacion": "El solucionario de Lumbreras indica «No hay clave.». No se atribuye anulación oficial.",
+        "estado_pregunta": "sin_clave_validada",
+        "puntuable": false
+      },
+      "printedOptionTexts": {
+        "A": "VVV",
+        "B": "FVF",
+        "C": "VVF",
+        "D": "FVV",
+        "E": "VFV"
+      }
+    },
+    {
+      "sourceFile": "UNSA-2024-II.json",
+      "sourceBankSha256Before": "861ef7acd62ab3540b84ba25bf28ada7c0c19e7b8d8caa4b832ea687d20f35f3",
+      "record": {
+        "id": "UNSA_2024_II_BIO_13",
+        "curso": "Historia Universal",
+        "tema": "Comunidad primitiva en el mundo",
+        "contexto": "",
+        "contexto_img": "",
+        "pregunta": "Pregunta 13 — Biomédicas. Lee el enunciado y sus alternativas en la imagen.",
+        "pregunta_b64": "",
+        "pregunta_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/bio-13-pregunta.png",
+        "opciones": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "respuesta": "",
+        "resolucion": "El solucionario de Lumbreras indica «VFVF (No hay clave.)». No se atribuye anulación oficial. La imagen conserva el desarrollo de la fuente.",
+        "resolucion_latex": "",
+        "resolucion_img": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/bio-13-solucion.png",
+        "area": "Biomédicas",
+        "observacion": "El solucionario de Lumbreras indica «VFVF (No hay clave.)». No se atribuye anulación oficial.",
+        "estado_pregunta": "sin_clave_validada",
+        "puntuable": false
+      },
+      "printedOptionTexts": {
+        "A": "FVFV",
+        "B": "VFVV",
+        "C": "VVFF",
+        "D": "VVVV",
+        "E": "VFFV"
+      }
+    }
+  ]
+}

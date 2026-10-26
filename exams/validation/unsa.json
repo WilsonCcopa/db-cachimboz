@@ -1,0 +1,468 @@
+{
+  "schemaVersion": 1,
+  "university": "UNSA",
+  "generatedAt": "2026-10-26T02:44:35+00:00",
+  "editorialCorrectionsPath": "exams/editorial-corrections.json",
+  "originalItemsPath": "exams/original-items.json",
+  "checks": [
+    "IDs únicos y número esperado por variante o prueba",
+    "Cinco alternativas por pregunta, con correcciones editoriales identificadas",
+    "Todas las respuestas validadas; versiones editoriales con respuesta única y resolución propia",
+    "Enunciado y resolución separados; fórmulas e imágenes preservadas",
+    "Contextos compartidos enlazados según el contenido de las preguntas",
+    "SHA-256 del banco y PDFs de procedencia"
+  ],
+  "processes": [
+    {
+      "process": "2024-II",
+      "bankPath": "UNSA-2024-II.json",
+      "sha256": "b2b9cd7cc112ad118c496468136ce4e0f5253f8b47467ed8b34e5984ac5049b0",
+      "status": "passed",
+      "questions": 180,
+      "scored": 180,
+      "unscored": 0,
+      "unscoredIds": [],
+      "correctedEditorial": 4,
+      "editoriallyCorrectedIds": [
+        "UNSA_2024_II_SOC_2",
+        "UNSA_2024_II_BIO_13",
+        "UNSA_2024_II_BIO_20",
+        "UNSA_2024_II_ING_2"
+      ],
+      "incidents": [
+        {
+          "id": "UNSA_2024_II_SOC_2",
+          "sourceIncident": {
+            "id": "UNSA_2024_II_SOC_2",
+            "key": "",
+            "scored": false,
+            "state": "sin_clave_validada",
+            "note": "El solucionario de Lumbreras indica «No hay clave». No se atribuye anulación oficial."
+          },
+          "status": "editorial_correction_applied",
+          "resolutionType": "own_solution_with_unique_answer",
+          "scored": true,
+          "currentAnswer": "D) In Britain, they don’t write customers’ names on the cups.",
+          "currentAnswerText": "In Britain, they don’t write customers’ names on the cups.",
+          "editorialCorrectionRef": "exams/editorial-corrections.json#UNSA_2024_II_SOC_2",
+          "originalItemRef": "exams/original-items.json#UNSA_2024_II_SOC_2",
+          "note": "Corrección editorial aprobada para práctica, con solución propia y respuesta única. El defecto citado corresponde al original, conservado por separado."
+        },
+        {
+          "id": "UNSA_2024_II_BIO_13",
+          "sourceIncident": {
+            "id": "UNSA_2024_II_BIO_13",
+            "key": "",
+            "scored": false,
+            "state": "sin_clave_validada",
+            "note": "El solucionario de Lumbreras indica «VFVF (No hay clave.)». No se atribuye anulación oficial."
+          },
+          "status": "editorial_correction_applied",
+          "resolutionType": "own_solution_with_unique_answer",
+          "scored": true,
+          "currentAnswer": "B) VFVV",
+          "currentAnswerText": "VFVV",
+          "editorialCorrectionRef": "exams/editorial-corrections.json#UNSA_2024_II_BIO_13",
+          "originalItemRef": "exams/original-items.json#UNSA_2024_II_BIO_13",
+          "note": "Corrección editorial aprobada para práctica, con solución propia y respuesta única. El defecto citado corresponde al original, conservado por separado."
+        },
+        {
+          "id": "UNSA_2024_II_BIO_20",
+          "sourceIncident": {
+            "id": "UNSA_2024_II_BIO_20",
+            "key": "",
+            "scored": false,
+            "state": "sin_clave_validada",
+            "note": "El solucionario de Lumbreras indica «No hay clave.». No se atribuye anulación oficial."
+          },
+          "status": "editorial_correction_applied",
+          "resolutionType": "own_solution_with_unique_answer",
+          "scored": true,
+          "currentAnswer": "C) VFF",
+          "currentAnswerText": "VFF",
+          "editorialCorrectionRef": "exams/editorial-corrections.json#UNSA_2024_II_BIO_20",
+          "originalItemRef": "exams/original-items.json#UNSA_2024_II_BIO_20",
+          "note": "Corrección editorial aprobada para práctica, con solución propia y respuesta única. El defecto citado corresponde al original, conservado por separado."
+        },
+        {
+          "id": "UNSA_2024_II_BIO_24",
+          "key": "A",
+          "scored": true,
+          "state": "",
+          "note": "El desarrollo y la respuesta final del solucionario identifican 2-metilpropan-2-ol (A). La hoja de respuestas publica propan-2-ol (D); se conserva A por concordancia con la clasificación de alcohol terciario."
+        },
+        {
+          "id": "UNSA_2024_II_BIO_48",
+          "key": "B",
+          "scored": true,
+          "state": "",
+          "note": "Lectura original recuperada de Eduteka (mismo proceso y mismas dos preguntas), pues Lumbreras la omite. Fuente: https://eduteka.pe/lecturas/lectura-unsa-1ef04fdc"
+        },
+        {
+          "id": "UNSA_2024_II_BIO_49",
+          "key": "B",
+          "scored": true,
+          "state": "",
+          "note": "Lectura original recuperada de Eduteka (mismo proceso y mismas dos preguntas), pues Lumbreras la omite. Fuente: https://eduteka.pe/lecturas/lectura-unsa-1ef04fdc"
+        },
+        {
+          "id": "UNSA_2024_II_ING_2",
+          "sourceIncident": {
+            "id": "UNSA_2024_II_ING_2",
+            "key": "",
+            "scored": false,
+            "state": "sin_clave_validada",
+            "note": "El solucionario de Lumbreras indica «No hay clave». No se atribuye anulación oficial."
+          },
+          "status": "editorial_correction_applied",
+          "resolutionType": "own_solution_with_unique_answer",
+          "scored": true,
+          "currentAnswer": "A) FFT",
+          "currentAnswerText": "FFT",
+          "editorialCorrectionRef": "exams/editorial-corrections.json#UNSA_2024_II_ING_2",
+          "originalItemRef": "exams/original-items.json#UNSA_2024_II_ING_2",
+          "note": "Corrección editorial aprobada para práctica, con solución propia y respuesta única. El defecto citado corresponde al original, conservado por separado."
+        },
+        {
+          "id": "UNSA_2024_II_ING_36",
+          "key": "E",
+          "scored": true,
+          "state": "",
+          "note": "El desarrollo y la respuesta final del solucionario dan 7/24 (E). La hoja de respuestas publica 24/25 (A). Se conserva E de acuerdo con el desarrollo."
+        }
+      ],
+      "method": {
+        "ownHtmlEditorialQuestions": 4,
+        "ownHtmlEditorialSolutions": 4,
+        "editorialQuestionsWithSourceFigure": 0,
+        "remainingSourceImageQuestions": 176,
+        "note": "Las versiones editoriales usan enunciado y resolución didáctica propios en HTML, cinco opciones textuales y, cuando hace falta, una figura recortada de la fuente sin alternativas. El resto conserva la representación mediante imágenes; sus incidencias de procedencia se documentan por separado."
+      },
+      "contextPending": 0,
+      "ownDerivations": [],
+      "incidenceCount": 8,
+      "areas": {
+        "SOC": {
+          "name": "Sociales",
+          "questions": 60
+        },
+        "BIO": {
+          "name": "Biomédicas",
+          "questions": 60
+        },
+        "ING": {
+          "name": "Ingenierías",
+          "questions": 60
+        }
+      }
+    },
+    {
+      "process": "2024-I",
+      "bankPath": "UNSA-2024-I.json",
+      "sha256": "ec2beba62a255813ce06d48ee3185eaac9d5805a5c67f10208afc07ff4016f39",
+      "status": "passed",
+      "questions": 180,
+      "scored": 180,
+      "unscored": 0,
+      "unscoredIds": [],
+      "correctedEditorial": 0,
+      "editoriallyCorrectedIds": [],
+      "incidents": [
+        {
+          "id": "UNSA_2024_I_SOC_22",
+          "key": "D",
+          "scored": true,
+          "state": "clave_corregida",
+          "note": "Errata del desarrollo de Lumbreras: imprime A) Ortodoxo. Se valida D) Ecléctico mediante lectura del párrafo completo, concordancia con la hoja de respuestas y significado lexicográfico. Referencia: https://www.fundeu.es/consulta/eclectico-1408/ . La imagen original se conserva como evidencia de la errata."
+        },
+        {
+          "id": "UNSA_2024_I_BIO_6",
+          "key": "C",
+          "scored": true,
+          "state": "",
+          "note": "Corrección editorial comprobada: fluidez, flexibilidad y originalidad corresponden al pensamiento creativo (C), como describe el propio desarrollo y confirma la hoja de respuestas. La línea final del solucionario imprime pensamiento crítico."
+        },
+        {
+          "id": "UNSA_2024_I_BIO_11",
+          "key": "E",
+          "scored": true,
+          "state": "",
+          "note": "Corrección editorial comprobada: la lectura y el desarrollo indican que la falta de ejercicio es una causa de obesidad (E), también confirmada por la hoja de respuestas. La línea final del solucionario imprime por error la opción C."
+        }
+      ],
+      "method": {
+        "ownHtmlEditorialQuestions": 0,
+        "ownHtmlEditorialSolutions": 0,
+        "editorialQuestionsWithSourceFigure": 0,
+        "remainingSourceImageQuestions": 180,
+        "note": "Las versiones editoriales usan enunciado y resolución didáctica propios en HTML, cinco opciones textuales y, cuando hace falta, una figura recortada de la fuente sin alternativas. El resto conserva la representación mediante imágenes; sus incidencias de procedencia se documentan por separado."
+      },
+      "contextPending": 0,
+      "ownDerivations": [],
+      "incidenceCount": 3,
+      "areas": {
+        "SOC": {
+          "name": "Sociales",
+          "questions": 60
+        },
+        "BIO": {
+          "name": "Biomédicas",
+          "questions": 60
+        },
+        "ING": {
+          "name": "Ingenierías",
+          "questions": 60
+        }
+      }
+    },
+    {
+      "process": "2023-II",
+      "bankPath": "UNSA-2023-II.json",
+      "sha256": "eec7f52d0e36012449a1200d3337c167a07d4b013ded78ff5eb3e2b0d8f6760c",
+      "status": "passed",
+      "questions": 180,
+      "scored": 180,
+      "unscored": 0,
+      "unscoredIds": [],
+      "correctedEditorial": 1,
+      "editoriallyCorrectedIds": [
+        "UNSA_2023_II_BIO_51"
+      ],
+      "incidents": [
+        {
+          "id": "UNSA_2023_II_BIO_51",
+          "sourceIncident": {
+            "id": "UNSA_2023_II_BIO_51",
+            "key": "",
+            "scored": false,
+            "state": "alternativas_duplicadas",
+            "note": "La fuente repite la alternativa abuelo en B y E. El desarrollo responde abuelo, por lo que no permite distinguir una única letra. Se conservan las alternativas originales sin puntuar."
+          },
+          "status": "editorial_correction_applied",
+          "resolutionType": "own_solution_with_unique_answer",
+          "scored": true,
+          "currentAnswer": "B) abuelo",
+          "currentAnswerText": "abuelo",
+          "editorialCorrectionRef": "exams/editorial-corrections.json#UNSA_2023_II_BIO_51",
+          "originalItemRef": "exams/original-items.json#UNSA_2023_II_BIO_51",
+          "note": "Corrección editorial aprobada para práctica, con solución propia y respuesta única. El defecto citado corresponde al original, conservado por separado."
+        }
+      ],
+      "method": {
+        "ownHtmlEditorialQuestions": 1,
+        "ownHtmlEditorialSolutions": 1,
+        "editorialQuestionsWithSourceFigure": 0,
+        "remainingSourceImageQuestions": 179,
+        "note": "Las versiones editoriales usan enunciado y resolución didáctica propios en HTML, cinco opciones textuales y, cuando hace falta, una figura recortada de la fuente sin alternativas. El resto conserva la representación mediante imágenes; sus incidencias de procedencia se documentan por separado."
+      },
+      "contextPending": 0,
+      "ownDerivations": [],
+      "incidenceCount": 1,
+      "areas": {
+        "SOC": {
+          "name": "Sociales",
+          "questions": 60
+        },
+        "BIO": {
+          "name": "Biomédicas",
+          "questions": 60
+        },
+        "ING": {
+          "name": "Ingenierías",
+          "questions": 60
+        }
+      }
+    },
+    {
+      "process": "2023-I",
+      "bankPath": "UNSA-2023-I.json",
+      "sha256": "a1aa1f74946095d64fd5d392f6dbda1117f97c22543cff1f22e8a3b8bdce363e",
+      "status": "passed",
+      "questions": 180,
+      "scored": 180,
+      "unscored": 0,
+      "unscoredIds": [],
+      "correctedEditorial": 1,
+      "editoriallyCorrectedIds": [
+        "UNSA_2023_I_ING_22"
+      ],
+      "incidents": [
+        {
+          "id": "UNSA_2023_I_BIO_14",
+          "key": "E",
+          "scored": true,
+          "state": "",
+          "note": "Lectura original recuperada del ejemplar de Academia Alexander Fleming del mismo proceso (25-09-2022), omitida en Lumbreras. Se conserva su texto, incluidas particularidades tipográficas. Fuente: https://es.scribd.com/document/627802384/2-SOLUCIONARIO-BIOMEDICA-ORDINARIO (página 4)."
+        },
+        {
+          "id": "UNSA_2023_I_BIO_15",
+          "key": "C",
+          "scored": true,
+          "state": "",
+          "note": "Lectura original recuperada del ejemplar de Academia Alexander Fleming del mismo proceso (25-09-2022), omitida en Lumbreras. Se conserva su texto, incluidas particularidades tipográficas. Fuente: https://es.scribd.com/document/627802384/2-SOLUCIONARIO-BIOMEDICA-ORDINARIO (página 4)."
+        },
+        {
+          "id": "UNSA_2023_I_ING_10",
+          "key": "E",
+          "scored": true,
+          "state": "",
+          "note": "Lectura original recuperada del ejemplar de Academia Alexander Fleming del mismo proceso (25-09-2022), omitida en Lumbreras. Se conserva su texto, incluidas particularidades tipográficas. Fuente: https://es.scribd.com/document/627802322/1-SOLUCIONARIO-INGENIERIAS-ORDINARIO (página 5)."
+        },
+        {
+          "id": "UNSA_2023_I_ING_11",
+          "key": "C",
+          "scored": true,
+          "state": "",
+          "note": "Lectura original recuperada del ejemplar de Academia Alexander Fleming del mismo proceso (25-09-2022), omitida en Lumbreras. Se conserva su texto, incluidas particularidades tipográficas. Fuente: https://es.scribd.com/document/627802322/1-SOLUCIONARIO-INGENIERIAS-ORDINARIO (página 5)."
+        },
+        {
+          "id": "UNSA_2023_I_ING_14",
+          "key": "D",
+          "scored": true,
+          "state": "rotulos_normalizados",
+          "note": "La fuente imprime A, B, C, C, D. Se normalizan los rótulos según su posición a A, B, C, D, E; el colesterol es la cuarta opción, D. La imagen original mantiene los rótulos impresos."
+        },
+        {
+          "id": "UNSA_2023_I_ING_20",
+          "key": "D",
+          "scored": true,
+          "state": "",
+          "note": "El PDF desarrollado reproduce la pregunta pero omite su resolución. Se incorpora resolución propia, calculada a partir del circuito original y cotejada con la hoja de respuestas (7 µF, D)."
+        },
+        {
+          "id": "UNSA_2023_I_ING_22",
+          "sourceIncident": {
+            "id": "UNSA_2023_I_ING_22",
+            "key": "",
+            "scored": false,
+            "state": "sin_clave_validada",
+            "note": "El solucionario de Lumbreras indica «17\n3\n (no hay clave).». No se atribuye anulación oficial."
+          },
+          "status": "editorial_correction_applied",
+          "resolutionType": "own_solution_with_unique_answer",
+          "scored": true,
+          "currentAnswer": "A) √(17/3)",
+          "currentAnswerText": "√(17/3) = √51/3 ≈ 2.380476",
+          "editorialCorrectionRef": "exams/editorial-corrections.json#UNSA_2023_I_ING_22",
+          "originalItemRef": "exams/original-items.json#UNSA_2023_I_ING_22",
+          "note": "Corrección editorial aprobada para práctica, con solución propia y respuesta única. El defecto citado corresponde al original, conservado por separado."
+        },
+        {
+          "id": "UNSA_2023_I_ING_46",
+          "key": "C",
+          "scored": true,
+          "state": "",
+          "note": "El desarrollo de Lumbreras dice Estela Raimondi (A), pero la hoja de respuestas dice Lanzón Monolítico (C). Se valida C con fuentes primarias: https://museos.cultura.pe/sites/default/files/publicaciones/pdf/expoicpp.pdf y https://www.peru.travel/es/inspirate/chavin-de-huantar-uno-de-los-complejos-arqueologicos-mas-importantes-del-peru . La imagen del desarrollo se conserva como evidencia de la errata."
+        },
+        {
+          "id": "UNSA_2023_I_ING_54",
+          "key": "A",
+          "scored": true,
+          "state": "",
+          "note": "El desarrollo y la respuesta final del solucionario identifican estereotipos (A). La hoja de respuestas dice obligaciones (C); se conserva A según la explicación de la fuente."
+        },
+        {
+          "id": "UNSA_2023_I_ING_55",
+          "key": "C",
+          "scored": true,
+          "state": "",
+          "note": "El desarrollo y la respuesta final del solucionario identifican asertivo (C). La hoja de respuestas dice paternal (A); se conserva C según la explicación de la fuente."
+        }
+      ],
+      "method": {
+        "ownHtmlEditorialQuestions": 1,
+        "ownHtmlEditorialSolutions": 1,
+        "editorialQuestionsWithSourceFigure": 1,
+        "remainingSourceImageQuestions": 179,
+        "note": "Las versiones editoriales usan enunciado y resolución didáctica propios en HTML, cinco opciones textuales y, cuando hace falta, una figura recortada de la fuente sin alternativas. El resto conserva la representación mediante imágenes; sus incidencias de procedencia se documentan por separado."
+      },
+      "contextPending": 0,
+      "ownDerivations": [
+        "UNSA_2023_I_ING_20"
+      ],
+      "incidenceCount": 10,
+      "areas": {
+        "SOC": {
+          "name": "Sociales",
+          "questions": 60
+        },
+        "BIO": {
+          "name": "Biomédicas",
+          "questions": 60
+        },
+        "ING": {
+          "name": "Ingenierías",
+          "questions": 60
+        }
+      }
+    },
+    {
+      "process": "2022-II",
+      "bankPath": "UNSA-2022-II.json",
+      "sha256": "62e793bc5398156f9f7fefa3ac8248e9d14f5ebd49228d69b7a09660005a1059",
+      "status": "passed",
+      "questions": 150,
+      "scored": 150,
+      "unscored": 0,
+      "unscoredIds": [],
+      "correctedEditorial": 0,
+      "editoriallyCorrectedIds": [],
+      "incidents": [
+        {
+          "id": "UNSA_2022_II_BIO_23",
+          "key": "C",
+          "scored": true,
+          "state": "",
+          "note": "Corrección editorial comprobada: los enunciados tienen valores V, F, V (C), como indica la hoja de respuestas. El desarrollo sustenta esos valores, pero su línea final imprime FVF (E)."
+        },
+        {
+          "id": "UNSA_2022_II_ING_27",
+          "key": "A",
+          "scored": true,
+          "state": "",
+          "note": "Corrección editorial comprobada: el gráfico y el desarrollo identifican, en orden, isobárico, isométrico, adiabático e isotérmico (A), también confirmado por la hoja de respuestas. La línea final del solucionario invierte el orden."
+        }
+      ],
+      "method": {
+        "ownHtmlEditorialQuestions": 0,
+        "ownHtmlEditorialSolutions": 0,
+        "editorialQuestionsWithSourceFigure": 0,
+        "remainingSourceImageQuestions": 150,
+        "note": "Las versiones editoriales usan enunciado y resolución didáctica propios en HTML, cinco opciones textuales y, cuando hace falta, una figura recortada de la fuente sin alternativas. El resto conserva la representación mediante imágenes; sus incidencias de procedencia se documentan por separado."
+      },
+      "contextPending": 0,
+      "ownDerivations": [],
+      "incidenceCount": 2,
+      "areas": {
+        "SOC": {
+          "name": "Sociales",
+          "questions": 50
+        },
+        "BIO": {
+          "name": "Biomédicas",
+          "questions": 50
+        },
+        "ING": {
+          "name": "Ingenierías",
+          "questions": 50
+        }
+      }
+    }
+  ],
+  "totals": {
+    "processes": 5,
+    "questions": 870,
+    "scored": 870,
+    "unscored": 0,
+    "correctedEditorial": 6
+  },
+  "method": {
+    "ownHtmlEditorialQuestions": 6,
+    "ownHtmlEditorialSolutions": 6,
+    "editorialSourceFigures": 1,
+    "remainingSourceImageQuestions": 864,
+    "originalsPreserved": true,
+    "note": "Las incidencias anidadas como sourceIncident son antecedentes del original. El estado editorial_correction_applied y la respuesta actual describen la versión activa para práctica.",
+    "practiceImageAnnotationPolicy": "Las copias de práctica omiten anotaciones ajenas añadidas al PDF, incluidas marcas que revelaban respuestas. Se conserva el contenido impreso y los PDF originales con sus huellas de procedencia."
+  }
+}

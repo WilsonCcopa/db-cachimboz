@@ -1,0 +1,1006 @@
+{
+  "schemaVersion": 1,
+  "university": "UNMSM",
+  "universityName": "Universidad Nacional Mayor de San Marcos",
+  "generatedAt": "2026-10-26T02:44:35+00:00",
+  "note": "Materiales editoriales y fuentes complementarias identificados por proceso. Una corrección o ausencia de clave editorial no equivale a una anulación oficial de la universidad.",
+  "processes": [
+    {
+      "process": "2027-I",
+      "sources": [
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/1YJPLzMrbmFzuj7KQ8yhN6p78Lb8WrpD7/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2027-i/",
+          "pages": 26,
+          "bytes": 2098997,
+          "sha256": "35cf49128eed67b08af3f39ee2c46c9897f91a561566bc3b2f757f0e7808f360",
+          "role": "material_editorial",
+          "area": "MH"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/1qhKx6IQsQ3ss87236nTO4zji7kdFWmmY/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2027-i/",
+          "pages": 31,
+          "bytes": 2173374,
+          "sha256": "060c05dd54ec869a9032348a97ce5c700e748fe4a4af2958df0126b9ee1203f7",
+          "role": "material_editorial",
+          "area": "MH"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/1FrO0Q4uDUNDJHht78jV4FIjuIAYwF61u/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2027-i/",
+          "pages": 6,
+          "bytes": 1342112,
+          "sha256": "2052dd141191efe9869656d1b295a1e815a00dcaae0d8de3c78de35b34aac9d3",
+          "role": "material_editorial",
+          "area": "MH"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/1EOxX-7nbJD2xx5yCKGjuOMSngIT8JI5J/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2027-i/",
+          "pages": 23,
+          "bytes": 2338569,
+          "sha256": "8363e6bbf2cf4877a2faf6c8e7c5cbf777e4ca33ac1ea7640a1914b761c16741",
+          "role": "material_editorial",
+          "area": "D"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/1MRfzELOQcpVDQHT0VmaLkyM9sdDIuQ7O/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2027-i/",
+          "pages": 26,
+          "bytes": 2034605,
+          "sha256": "496808b718c8f2af03769f6bef3da56b32838dddd19cdd9384a54629bab4fda3",
+          "role": "material_editorial",
+          "area": "D"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/1Tm4Fl0q7S5JxgPW_TnRsAmmkY3hEnSKq/view?usp=drive_link",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2027-i/",
+          "pages": 6,
+          "bytes": 1343169,
+          "sha256": "4ac4390ab7d3f8ad707120bb4eb87ffefa719a2f9ca582b53313145538e991d4",
+          "role": "material_editorial",
+          "area": "D"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/1RdSZDhDHggD5l8YZQ9glQlTZ_lHV_-VL/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2027-i/",
+          "pages": 25,
+          "bytes": 2314498,
+          "sha256": "8f269393c274c89949562012196e4917bb5929b1d054f6cad73064781a21212a",
+          "role": "material_editorial",
+          "area": "E"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/1MikeK0moCeCfAOXj7VMlFK4ZvfRTX3Ud/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2027-i/",
+          "pages": 26,
+          "bytes": 1918640,
+          "sha256": "8036352ca72f6ac49c597f122cf461953a1505e42a8b66b979e92c6fa8fa223a",
+          "role": "material_editorial",
+          "area": "E"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/1k-PTpV9G3O-R62YfMmIRVXacM8F6jIMg/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2027-i/",
+          "pages": 6,
+          "bytes": 1340999,
+          "sha256": "42ed9ba9e7d658c51945661700a9f2037587d3e5ea92ddbb2b53f5171414d1e9",
+          "role": "material_editorial",
+          "area": "E"
+        },
+        {
+          "publisher": "Saco Oliveros",
+          "kind": "Question+solution",
+          "pdfUrl": "https://drive.google.com/file/d/1ArDsf2mkcWQsgIKVtr2yrip0mk-Rmz7r/view",
+          "sourcePage": "https://www.sacooliveros.edu.pe/academias/solucionarios/san-marcos",
+          "pages": 45,
+          "bytes": 4617963,
+          "sha256": "05c5050d2b4e7b1f59a485d83e690c01ab3cf95736e11a82ebf3e671efa08c35",
+          "role": "material_editorial",
+          "area": "A"
+        },
+        {
+          "publisher": "Saco Oliveros",
+          "kind": "Question+solution",
+          "pdfUrl": "https://drive.google.com/file/d/1IaEU5qz_ytC-bSN0cOX03xTfVrXUcJZY/view",
+          "sourcePage": "https://www.sacooliveros.edu.pe/academias/solucionarios/san-marcos",
+          "pages": 47,
+          "bytes": 5078109,
+          "sha256": "96e9a6828834b4c4763c54429d77cac7423d0011ed2dd465a955b076cfe938ad",
+          "role": "material_editorial",
+          "area": "C"
+        },
+        {
+          "publisher": "Saco Oliveros",
+          "kind": "Question+solution",
+          "pdfUrl": "https://drive.google.com/file/d/1FuXzC8Gf_d6R8NON_3v749x4HLgxOwEu/view",
+          "sourcePage": "https://www.sacooliveros.edu.pe/academias/solucionarios/san-marcos",
+          "pages": 46,
+          "bytes": 4532614,
+          "sha256": "e44bbc1f4e2b90b843bf467c12162618f70989bb241c51c988a22684d7f4ff0d",
+          "role": "material_editorial",
+          "area": "MH"
+        },
+        {
+          "publisher": "Saco Oliveros",
+          "kind": "answer_verification",
+          "pdfUrl": "https://drive.google.com/file/d/1qnQ5_e3B2swAVXO6Crjjzl3GqW4cXXcI/view",
+          "sourcePage": "https://www.sacooliveros.edu.pe/academias/solucionarios/san-marcos",
+          "pages": 4,
+          "bytes": 7898255,
+          "sha256": "c174803a3917212d87a18988dd039838e44257ab9b3645521e34301aa631f51e",
+          "role": "cotejo_de_claves"
+        },
+        {
+          "publisher": "Saco Oliveros",
+          "kind": "answer_verification",
+          "pdfUrl": "https://drive.google.com/file/d/1Rpid-KVcVYfCqkxTS8MLGUt4eV3PF2Hs/view",
+          "sourcePage": "https://www.sacooliveros.edu.pe/academias/solucionarios/san-marcos",
+          "pages": 4,
+          "bytes": 3521229,
+          "sha256": "b7598839972c4bfe16c56022446c1cb4b41cd3c1d29a067cef05ae3cbfd0c171",
+          "role": "cotejo_de_claves"
+        }
+      ],
+      "supplementalContexts": []
+    },
+    {
+      "process": "2026-II",
+      "sources": [
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/1iFXc5xP6lpFa20TGeoDpeQWlkTDa-Rcl/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2026-ii/",
+          "pages": 28,
+          "bytes": 2881287,
+          "sha256": "58eb3a54d42d821e1c9ed6f66e5e471a17f0a53e6c2aafabbf6f71d239cc42a7",
+          "role": "material_editorial",
+          "area": "A"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/1FFNahckR-1BSwAC9Ts4R__fVo3OBL9JC/view?usp=drive_link",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2026-ii/",
+          "pages": 27,
+          "bytes": 2449026,
+          "sha256": "a554bb66ccb36aeb53b9cec6391d6fd21b3a5953573ee2df3861fd490920f5a3",
+          "role": "material_editorial",
+          "area": "MH"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/1qbIhavxF-94GDgo9WnZ9ZRSolIvBKNmU/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2026-ii/",
+          "pages": 31,
+          "bytes": 3658718,
+          "sha256": "6a9eeae8216d311afa3a46f1f1c462fc76bdf3e8903e5c79c54c785b1d14d25d",
+          "role": "material_editorial",
+          "area": "A"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/1cQdpjr2YV9F-wWKkhFDYZ9KBfU0p_99P/view?usp=drive_link",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2026-ii/",
+          "pages": 36,
+          "bytes": 3707061,
+          "sha256": "d492ea5347793f6af371f57d41ef4167323109984645b5602fa9da61d19f77a9",
+          "role": "material_editorial",
+          "area": "MH"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/1Av7e2Yo-5YOuh3XW_XQ_QC7y466gPcnk/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2026-ii/",
+          "pages": 6,
+          "bytes": 1412806,
+          "sha256": "5079ccd297e406e5287583778cff625137d5fd089edf5bac986d1b079797ee7a",
+          "role": "material_editorial",
+          "area": "A"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/1HTocCYg1EljTRw70vdSqQz7CjAdYCLZR/view?usp=drive_link",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2026-ii/",
+          "pages": 6,
+          "bytes": 1413655,
+          "sha256": "78345f6b4f8f7a22264c6211fd200f767ac4ec1baff361264f1635386c1eebe8",
+          "role": "material_editorial",
+          "area": "MH"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/1QDla-8pTMPhSU8VVIEBUkCV9x97UnruN/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2026-ii/",
+          "pages": 26,
+          "bytes": 3429452,
+          "sha256": "67ad5b604e9f8ac5e366b3f54d72a1462c75532565460385e9a6cfabb147daa4",
+          "role": "material_editorial",
+          "area": "B"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/1xjjc-eYGi6fJl9oBao_OhKLoSTzD6iHs/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2026-ii/",
+          "pages": 34,
+          "bytes": 3792881,
+          "sha256": "109600c4655601cd3ad14c431399f5c751199288fe1f6c28f415ec5de4b14122",
+          "role": "material_editorial",
+          "area": "B"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/1kCtzr-4CKhuvvQWckNvVmMSMsNZd5Mu1/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2026-ii/",
+          "pages": 6,
+          "bytes": 1456119,
+          "sha256": "423760b16b50e6a5cbc2a9683bc9d4d292de9957e9583adf895ddb1ee36402a3",
+          "role": "material_editorial",
+          "area": "B"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/1Wc8k6ge4nzYQHJnp2V2wtD-BDxQvlOVw/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2026-ii/",
+          "pages": 26,
+          "bytes": 3425104,
+          "sha256": "c5c2a53dc65e74eec50894c557b9241e2902eb7a2563ad84193b18b465d26412",
+          "role": "material_editorial",
+          "area": "C"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/1lEA1-oZPI9WO8TDFdRN3S_Rrr7g2SGIj/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2026-ii/",
+          "pages": 34,
+          "bytes": 3762597,
+          "sha256": "3d3b9a7030d9f2de0067a5c3f8f99de28b5505167607a0bf38261587352ae419",
+          "role": "material_editorial",
+          "area": "C"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/1L9dCVknSM4xcYtKcMZgGoUWuSkdTd7Og/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2026-ii/",
+          "pages": 6,
+          "bytes": 1455197,
+          "sha256": "8b12aa71aa4cf3cdeef8af77383c2d5079f9cfe5e253ce1681716fe8fd9a778f",
+          "role": "material_editorial",
+          "area": "C"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/14PdhjFsHCNw5O7e71NTujg7LKFxeyamB/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2026-ii/",
+          "pages": 25,
+          "bytes": 2471788,
+          "sha256": "e52d96d9dd5a93f35cb2c3a396667d61e09eced30e98747e18e696c1b3112e19",
+          "role": "material_editorial",
+          "area": "D"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/1ijaEqoN0OqXCrn4C9UPjEd1KZ6x6gwPm/view?usp=drive_link",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2026-ii/",
+          "pages": 33,
+          "bytes": 3585823,
+          "sha256": "bcc7273094472f11c9f10a1f98637b39bedec93e05246a2f1209112bc71a9333",
+          "role": "material_editorial",
+          "area": "D"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/1nV3fyjJ-SOQz5qiQhFikNzyPEZG_kETi/view?usp=drive_link",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2026-ii/",
+          "pages": 6,
+          "bytes": 1454195,
+          "sha256": "7fd30f0b2a087f1f71920b17046aade9b77b0c5a398e7515e4ff2614c66f777b",
+          "role": "material_editorial",
+          "area": "D"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "EX",
+          "pdfUrl": "https://drive.google.com/file/d/1xuUZmR-HKN6y7zf-X_wvgUk6FQjp0Pe_/view?usp=drive_link",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2026-ii/",
+          "pages": 25,
+          "bytes": 2420368,
+          "sha256": "2bf4f7b8f80d6f66ab91a9e98ffdfcbb6defdeb88fce94d10ed63ab6d0634641",
+          "role": "material_editorial",
+          "area": "E"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "SOL",
+          "pdfUrl": "https://drive.google.com/file/d/1hXPvhav52XHU_y9i00MEe1uzXJWRHcGL/view?usp=drive_link",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2026-ii/",
+          "pages": 34,
+          "bytes": 3479008,
+          "sha256": "e059710d9031bd32ae5ca3d5970931128dae002c236bb1d9f74b85c6fbe8ce0a",
+          "role": "material_editorial",
+          "area": "E"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "RES",
+          "pdfUrl": "https://drive.google.com/file/d/1n7XexM4VwkyfnoXaL-OyxtyaLtKBjL-K/view?usp=drive_link",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2026-ii/",
+          "pages": 6,
+          "bytes": 1453990,
+          "sha256": "4bee160fd892bd9eb6139ce1e089811290a19341163d9c5dcb7dbf5f9ffa2684",
+          "role": "material_editorial",
+          "area": "E"
+        },
+        {
+          "publisher": "Saco Oliveros",
+          "kind": "Question+solution",
+          "pdfUrl": "https://drive.google.com/file/d/1FPyyaM4BgMNwmzwT_IWx8OoON8p_K8Qm/view",
+          "sourcePage": "https://www.sacooliveros.edu.pe/academias/solucionarios/san-marcos",
+          "pages": 47,
+          "bytes": 6964448,
+          "sha256": "4a2631af891ee850660bb0bced3918d4398d8cd8af063253762306226be01bef",
+          "role": "material_editorial",
+          "area": "C"
+        },
+        {
+          "publisher": "Saco Oliveros",
+          "kind": "Question+solution",
+          "pdfUrl": "https://drive.google.com/file/d/1HdsZAX1cIStIvQYSZ_ex34qe2-s_VrN5/view",
+          "sourcePage": "https://www.sacooliveros.edu.pe/academias/solucionarios/san-marcos",
+          "pages": 48,
+          "bytes": 6667350,
+          "sha256": "e4fc6a8d3bb7af59ecf66c9d2e63405dda5c99093ea8d61b7c40564c66ab60e4",
+          "role": "material_editorial",
+          "area": "MH"
+        }
+      ],
+      "supplementalContexts": []
+    },
+    {
+      "process": "2025-I",
+      "sources": [
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1wEqRu_3pxSTPKF3LLuIQYyslBFazJAcq/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2025-i/",
+          "pages": 25,
+          "bytes": 2588466,
+          "sha256": "2a6316788f82bc5ac4b1d65d64229cdd5fee7192e827d8dca65b4715f8618636",
+          "role": "material_editorial",
+          "area": "A"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1e2qgXp_Gx5UiXbfYKsCYDvMxdVNlB5_d/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2025-i/",
+          "pages": 27,
+          "bytes": 4851391,
+          "sha256": "9d8dc1b1024ebea7b2c6b81d5341ed443461535cd9d9de420525f9d91d30a7f4",
+          "role": "material_editorial",
+          "area": "MH"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1D9Q5Hq-QAW32m3yIRNLXQWCLcsBvoSHs/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2025-i/",
+          "pages": 52,
+          "bytes": 4876711,
+          "sha256": "168af6e05a14d80b4d67d992f1798bf104a4d43281ad9eb40c9696234f4c97db",
+          "role": "material_editorial",
+          "area": "A"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1g7FCt-iJCExJhw6emmex5OCHoHtmcdQp/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2025-i/",
+          "pages": 54,
+          "bytes": 12773797,
+          "sha256": "2486e512876f40ec54d80d298aa3b6365386b55edce4b10fae1f5f2ca0c8410e",
+          "role": "material_editorial",
+          "area": "MH"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1IMiuHsiVvna_iN7vdZBMZy8DviFnrvYY/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2025-i/",
+          "pages": 6,
+          "bytes": 1339774,
+          "sha256": "c3d0dbda2c7532fffcb5a8661d2287a6a76b6b3b6515fb536ed3259d610e8c5e",
+          "role": "material_editorial",
+          "area": "A"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1d1l3lT93V0wmgBNciZAiRg6pD_sI1Brs/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2025-i/",
+          "pages": 6,
+          "bytes": 1304906,
+          "sha256": "21a2d14edc57fb8c6a50732d0860fd44b2b5056bd1bbbf88ed8ee4153dc7e374",
+          "role": "material_editorial",
+          "area": "MH"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/18FS2Ckp47a-wSuj_hakkLrmklXv-qaFN/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2025-i/",
+          "pages": 25,
+          "bytes": 1801455,
+          "sha256": "fd764630a5fd46cdd0961fd7fff0e4d80d98270e8e59f71c0d4be9454edd97a0",
+          "role": "material_editorial",
+          "area": "B"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/17Yl4XRqey9P2uQRpsrthyGUNrmSFlM4L/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2025-i/",
+          "pages": 53,
+          "bytes": 3952046,
+          "sha256": "01c474c51f2b7177a349108c8d911ca8d7f7ee23cbc9590e7884859a2fb3ab05",
+          "role": "material_editorial",
+          "area": "B"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1FWCzRsbJ-5xi3KZ8Jrma-KRA6wqmqT9q/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2025-i/",
+          "pages": 6,
+          "bytes": 1274578,
+          "sha256": "9507439bc2a49b8748fb9602d7f283cc6ef95ee4a02b2c9fbeba36e5575a65dd",
+          "role": "material_editorial",
+          "area": "B"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1HL_lRdnzxH49CNRknj2-rwbMgKNYI5FG/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2025-i/",
+          "pages": 22,
+          "bytes": 1695572,
+          "sha256": "13285f67353f336082b0064431361c222fab19bd9063b75993e5d936136e2feb",
+          "role": "material_editorial",
+          "area": "C"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/15uwxa77Tf1Ava2JDMA7K4-25f18PVvg3/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2025-i/",
+          "pages": 52,
+          "bytes": 5001509,
+          "sha256": "af0fe5dfb77db48b5a79f6cdbb4c9ac53907b7f77e0e60c3625caddbc5af6c44",
+          "role": "material_editorial",
+          "area": "C"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1NvG1whxhhZMHNMVQjokOJpLtbL0Lp2vL/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2025-i/",
+          "pages": 6,
+          "bytes": 1306286,
+          "sha256": "b5fb049d132c8ebb5c7e5f92b52250e9a72019b04ce46049d9a02a2d00782ead",
+          "role": "material_editorial",
+          "area": "C"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1QlYFVuz9dTHIsFtYOH0vFHqMZ_mTftF8/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2025-i/",
+          "pages": 26,
+          "bytes": 1954098,
+          "sha256": "29fc50623e69df5ddd76650e5853a6268e50ab0b8ec7067d31fcf01c3ca1e64a",
+          "role": "material_editorial",
+          "area": "D"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1RcNyoZPNudfiHCg-yxj6SkjbJtElre2W/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2025-i/",
+          "pages": 53,
+          "bytes": 4636343,
+          "sha256": "c4046e8a55dd1136befea955f29ce3b9e682f699cdcd3272d6fb83fd31eeb11b",
+          "role": "material_editorial",
+          "area": "D"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1rEuM_Pntrsc27Qu5TKjTPCbRsi1SRxiB/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2025-i/",
+          "pages": 6,
+          "bytes": 1314302,
+          "sha256": "093f0716f3b86e9b779623e901067ddfa3707990fc356c8f8137985c2a5cbd54",
+          "role": "material_editorial",
+          "area": "D"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1WylgAbopXO9Pu_CqFw9tEvVASzUcQVjg/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2025-i/",
+          "pages": 26,
+          "bytes": 1746027,
+          "sha256": "86298495d099fdc60428936f9ce976e979e8ea0424faa576de02f3ea15c8ad19",
+          "role": "material_editorial",
+          "area": "E"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1wE3BZnygT2xXjf1mJBJSqzlM18tWmfsc/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2025-i/",
+          "pages": 53,
+          "bytes": 4447551,
+          "sha256": "fd441c0fa203027756c1cbfabf518e7bac3368874979f67d329d92d50b010199",
+          "role": "material_editorial",
+          "area": "E"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1NLEiOvImrP2HVKq5DzBm9mJMm1t-jvO8/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2025-i/",
+          "pages": 6,
+          "bytes": 1293764,
+          "sha256": "b45bd271269000cdc0da37e9021f580bf6c1974a64875c29459c69242a2a8881",
+          "role": "material_editorial",
+          "area": "E"
+        }
+      ],
+      "supplementalContexts": []
+    },
+    {
+      "process": "2024-II",
+      "sources": [
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1_qxjXlz787uX4zuHK29J53iie5eMiXY_/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-ii/",
+          "pages": 7,
+          "bytes": 1528104,
+          "sha256": "6a1eeba0809b276337f4721b8d0f0378c6701ae468d03cf28980838bb9ba1d70",
+          "role": "material_editorial",
+          "area": "A"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/13VWApWyl6QeJm2yOkoNy9-e8KgaDDYZd/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-ii/",
+          "pages": 25,
+          "bytes": 2275370,
+          "sha256": "3fc08f23c50079813e7571593ff172dd8bf89a78168e52ca7796030d2faf6743",
+          "role": "material_editorial",
+          "area": "A"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1uhfENTqhKK38nOOR8myWxDiyYIyG5g2z/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-ii/",
+          "pages": 60,
+          "bytes": 8353193,
+          "sha256": "9db0c99ef56d82b2edf714e4c39bb564237891b56e3eb18f53fa73244aa69cd4",
+          "role": "material_editorial",
+          "area": "A"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1vJ1K_zd7jzCNWno8X6finGs7ZDfYNsur/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-ii/",
+          "pages": 7,
+          "bytes": 1515803,
+          "sha256": "42698ff6bf51eae1fa71b40105897c869b0ddb5a46beadd98c82105f84772480",
+          "role": "material_editorial",
+          "area": "MH"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1_W4LgS82DoN7m2l70JCcoQ9T1LO8VJQt/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-ii/",
+          "pages": 28,
+          "bytes": 2392316,
+          "sha256": "42e0a3c5d91e429daf08bde5261c40e66a056597aaf0a609e423d6f2b2bb52b2",
+          "role": "material_editorial",
+          "area": "MH"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1IhUboEpNw9RG1ApD954l3UghSGO-LYfI/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-ii/",
+          "pages": 61,
+          "bytes": 8469269,
+          "sha256": "09ea7c6354424637dc3cb82ed4e9d0ce77e429088e2e365a048b0a66c250c166",
+          "role": "material_editorial",
+          "area": "MH"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1Rd5exarijU1QIvfMWwm8bUNMRhwMpmLg/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-ii/",
+          "pages": 7,
+          "bytes": 1532178,
+          "sha256": "7b5b9ce376c5e3f4d034b78358ca4d5ca547b78bf576e950c5dbc2ed547a7de9",
+          "role": "material_editorial",
+          "area": "B"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1qxHz8IYQPaUD1dBkHio4Fs8fxHsorkRa/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-ii/",
+          "pages": 27,
+          "bytes": 2047685,
+          "sha256": "36f442b3fcedd97574ca077d7deaa701f276d853f9ab42df1c86ee902c70eba0",
+          "role": "material_editorial",
+          "area": "B"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1tfHSbRuofsik0QXzpMXTK43O_kg4VFEO/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-ii/",
+          "pages": 56,
+          "bytes": 6946792,
+          "sha256": "bb123521f6de5c75748c5a12b9f880f8622a36cac40f4ed009ce5b116120ff7e",
+          "role": "material_editorial",
+          "area": "B"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/16aC6-59bPCdy-UsgDyeEfWmtoYjnxn8F/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-ii/",
+          "pages": 7,
+          "bytes": 1532963,
+          "sha256": "74d936ca91d1980842805bb390fe3d6bd50b05d05323698768b9509c5ba4deba",
+          "role": "material_editorial",
+          "area": "C"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1cXWccpq3TFg1T0jq674OPqbTrc5jMDBe/view?usp=sharing",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-ii/",
+          "pages": 56,
+          "bytes": 6916770,
+          "sha256": "e999e1542f19ac1705122044127ad297cc32b292c3e7451ecb2bef93baedba2a",
+          "role": "material_editorial",
+          "area": "C"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1pc-Ox6SUtFwQfN89rNautmYOkUmbBQsz/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-ii/",
+          "pages": 56,
+          "bytes": 6595994,
+          "sha256": "ba4a35f9476b26219e477448c9230b5ef91af51086c39d8c78d008f6a1bdd775",
+          "role": "material_editorial",
+          "area": "C"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1JSe7nXGgwF4nvsG5O-3Ejd8AJ7-nqkXE/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-ii/",
+          "pages": 7,
+          "bytes": 1544672,
+          "sha256": "3bfa4c5c614a4c1d6fc2732c8aaa9df1f0c7d7f30d383291f0d7205991c3ed10",
+          "role": "material_editorial",
+          "area": "D"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1Lax_ghKfC691QZQCLnAIBBC-_CUrj4Ln/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-ii/",
+          "pages": 27,
+          "bytes": 2016135,
+          "sha256": "902f1ccc3183a50877699a8c24cb102ee066622b61ce2dd4131bf3531d7a1e89",
+          "role": "material_editorial",
+          "area": "D"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1Oh3dJBlQLLNasVoZLvqYzhYESwZNj9Qj/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-ii/",
+          "pages": 54,
+          "bytes": 6356772,
+          "sha256": "2306fb2f8269903490d05e17ab62c8272579bcacc18f1f92358ae6ac0cd6e48f",
+          "role": "material_editorial",
+          "area": "D"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1jvtzd5WrbuNLMz87X-qioI25vBX7B47s/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-ii/",
+          "pages": 7,
+          "bytes": 1514335,
+          "sha256": "414262b8b77248a00fdce32a65fc36da874dc3f022aea4d15b5a0125fe8e4202",
+          "role": "material_editorial",
+          "area": "E"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1oOG7QGlxz8AVkT_OBI_pNpnYko27rY1k/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-ii/",
+          "pages": 28,
+          "bytes": 2007823,
+          "sha256": "5c496273edf6eedbb8af137fa631da1ae05e83bcbbd5f843bd7ff266eceb2957",
+          "role": "material_editorial",
+          "area": "E"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1tN2LYOCtMcDsJGTdh8Hbtf8AFQywuRcd/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-ii/",
+          "pages": 54,
+          "bytes": 5963452,
+          "sha256": "0d40ef4a13468cc3d776a52187d3db1bc59ba0c4d2c31de80111d06697c00b3b",
+          "role": "material_editorial",
+          "area": "E"
+        }
+      ],
+      "supplementalContexts": []
+    },
+    {
+      "process": "2024-I",
+      "sources": [
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1f6PpNV7pIorqHHEcJTJ68L2azrEzBd6M/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-i/",
+          "pages": 6,
+          "bytes": 1118860,
+          "sha256": "6d5cc6c769f5aa6f63303be59dc61fbea33e72247e20ae569d0a2b94523d7444",
+          "role": "material_editorial",
+          "area": "A"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/17kA6cLPiuzIUOeeaR7SY_rNwLadR_ROp/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-i/",
+          "pages": 26,
+          "bytes": 2457165,
+          "sha256": "badce470bee02963d7e8a0526304aeb475dcc4a025f466a09d5f374064ac1e0d",
+          "role": "material_editorial",
+          "area": "A"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1SsZxgqRP4fYUvblc5S0ZMhTLaJXwZ14e/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-i/",
+          "pages": 56,
+          "bytes": 5155103,
+          "sha256": "a687f3b452edaf687aa37821009568cd2732c03868a604656237177bedf166f3",
+          "role": "material_editorial",
+          "area": "A"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1ZtegbmZuvsMWj9zcAw53NXB7CBGaoBdF/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-i/",
+          "pages": 6,
+          "bytes": 1087372,
+          "sha256": "c38ea1ae69fb68ba507d243f3f59f7d8f1b3a18d36561b344ba6f00efae72669",
+          "role": "material_editorial",
+          "area": "MH"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1ulnsOhSonKfJRax82m_ej_DTzIfYV8AT/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-i/",
+          "pages": 26,
+          "bytes": 1662061,
+          "sha256": "8145335ec7927796706c1ef0cc39f6efa69f29f3fe3a986e277dde1ac54750c2",
+          "role": "material_editorial",
+          "area": "MH"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1czdTmwQC2-0pD9uknkkpMkJTiktedRfU/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-i/",
+          "pages": 58,
+          "bytes": 4194183,
+          "sha256": "1de20579115f73b7a1594a7b4fd87efd3abff1923c253f130a2e0a7005c4c1c7",
+          "role": "material_editorial",
+          "area": "MH"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1IWs30i03QfSvKYrKWSyVDvHhFHv5PwxF/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-i/",
+          "pages": 6,
+          "bytes": 1109944,
+          "sha256": "27d6f377ba2f0625b920abfc72afcea81b0d74975aa28f866fe3cbfd456196e0",
+          "role": "material_editorial",
+          "area": "B"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1SvVyWb83qFaWEChapXwiwgg-SkmPzv8P/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-i/",
+          "pages": 26,
+          "bytes": 2528730,
+          "sha256": "0d2a4db2df1c936630490687d205a33e28afe71163fe46c49146443a0bdcef21",
+          "role": "material_editorial",
+          "area": "B"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/12ulGvMo0ZivpATmWu_l3OfneOVCHXVFX/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-i/",
+          "pages": 55,
+          "bytes": 4743973,
+          "sha256": "d6b3276d0aa1e6227da48a7eae7b8e75e9767eaedd08e1d92caa594b29872294",
+          "role": "material_editorial",
+          "area": "B"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/12G9kH4i04ao22yQY_8R8xryq8CLpNmoA/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-i/",
+          "pages": 6,
+          "bytes": 1127084,
+          "sha256": "e2a1d6dd4b6c74eec90b3a6cd828f9a2e977b260f0ded52bbdaba1525da00f54",
+          "role": "material_editorial",
+          "area": "D"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1zejjmqVef4PD_2r9kXJ_1k1cOUefD3Tn/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-i/",
+          "pages": 25,
+          "bytes": 1604712,
+          "sha256": "e9db3b25e8d59d841a0840ee4a012a662f142223618601c7857490d8a3fbcd62",
+          "role": "material_editorial",
+          "area": "D"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1nIDjDMxGpbQEEN1k5YdpzlQvLhRZN6xu/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-i/",
+          "pages": 54,
+          "bytes": 4003742,
+          "sha256": "71c2988873f61ace02072ad52c3d0b6a04db8598494d949c1930b5c24ea5e7bb",
+          "role": "material_editorial",
+          "area": "D"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/1OkamoAlHtFm2HRWJybVx3EeSkNa40flW/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-i/",
+          "pages": 6,
+          "bytes": 1100624,
+          "sha256": "b8ee517ae2fecb30897401f8edbfaee7c423e47faf551aea8c77c45755349bcc",
+          "role": "material_editorial",
+          "area": "C"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1IXZ5bB8ZXLt84w5JnO1bjN_mRNkPv2q8/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-i/",
+          "pages": 25,
+          "bytes": 2507564,
+          "sha256": "4d1ce470b4e3482d93a8fdda3008db5bd35cb47b413055057036464c35186d9b",
+          "role": "material_editorial",
+          "area": "C"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1ZUSCEzlKSURRKIrckY0tAfx07FYml8yk/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-i/",
+          "pages": 54,
+          "bytes": 4704064,
+          "sha256": "a2b26f0943a03a4c635c2c09ddb7090809c841280c1f6f96a2a3ad9d8f9db6fb",
+          "role": "material_editorial",
+          "area": "C"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "answers",
+          "pdfUrl": "https://drive.google.com/file/d/13Prm3PE7cMzBdstdt5Yso0aTLH2P1ued/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-i/",
+          "pages": 6,
+          "bytes": 1117112,
+          "sha256": "d2a6539d3c37eb1497f2e98bd8708509e0e3e3f7ecf928ce55de2b913407920f",
+          "role": "material_editorial",
+          "area": "E"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "exam",
+          "pdfUrl": "https://drive.google.com/file/d/1NyfR924roFvNGe8nyng_yp5ii14ro-6c/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-i/",
+          "pages": 26,
+          "bytes": 1583142,
+          "sha256": "313ceba17f6d7caccf2a49e5aa7ed20b9d06a6d889dc90c8808320de44c3d500",
+          "role": "material_editorial",
+          "area": "E"
+        },
+        {
+          "publisher": "Editorial Lumbreras",
+          "kind": "solution",
+          "pdfUrl": "https://drive.google.com/file/d/1ya7lszLYWqM-Nh3amDwUbDYUotBtpPZv/view",
+          "sourcePage": "https://www.elumbreras.com.pe/admision-unmsm-2024-i/",
+          "pages": 53,
+          "bytes": 3863189,
+          "sha256": "8248759df63eedbfaf01bf8fccb8c691bdaf05cd3ee13c94639a0646c641d0b1",
+          "role": "material_editorial",
+          "area": "E"
+        }
+      ],
+      "supplementalContexts": []
+    }
+  ],
+  "sourceCount": 88
+}

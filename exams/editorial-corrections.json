@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "status": "applied_user_approved",
+  "count": 14,
+  "note": "Correcciones propias para práctica, identificadas expresamente; no se atribuyen al examen original ni a una clave oficial.",
+  "items": [
+    {
+      "id": "UNMSM_2027_I_C_90",
+      "sourceFile": "UNMSM-2027-I.json",
+      "correctedAnswer": "D) 0,64",
+      "answerText": "9/14 atm = 0,642857… atm; a dos decimales, 0,64 atm.",
+      "changes": [
+        "D) 0,63 se sustituye por D) 0,64.",
+        "Se explicita el redondeo a dos decimales.",
+        "Se presenta una resolución propia con 2,2 g de propano, corrigiendo el numerador erróneo del solucionario."
+      ],
+      "originalQuestionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2027-i/c/090-question.png",
+      "originalSolutionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2027-i/c/090-solution.png",
+      "resolution": "<p><strong>Solución propia. Respuesta: D) 0,64 atm.</strong></p><p>Las fórmulas son CH₄, C₂H₆ y C₃H₈; sus masas molares son 16, 30 y 44 g/mol, respectivamente.</p><ol><li>Metano: n = 4/16 = 0,25 mol.</li><li>Etano: n = 1,5/30 = 0,05 mol.</li><li>Propano: n = 2,2/44 = 0,05 mol.</li></ol><p>Por tanto, n total = 0,35 mol. Según la ley de Dalton, la presión parcial de un gas es su fracción molar multiplicada por la presión total. Para el etano: P = (0,05/0,35) × 4,50 = 9/14 = 0,642857… atm. Redondeando a dos decimales resulta 0,64 atm.</p><p><strong>Nota editorial:</strong> la alternativa D original decía 0,63, que no es un redondeo correcto de este resultado. Se sustituyó por 0,64 y se precisó el redondeo. El desarrollo de la fuente también imprime 1,5 g en el numerador del propano; el dato correcto del enunciado es 2,2 g. La solución presentada aquí usa ese dato y fue recalculada.</p><p>Fundamento: <a href=\"https://openstax.org/books/chemistry-2e/pages/9-3-stoichiometry-of-gaseous-substances-mixtures-and-reactions\">OpenStax, mezclas gaseosas y presiones parciales</a>.</p><p><strong>Referencias conservadas:</strong> <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2027-i/c/090-question.png\">ver pregunta original</a> · <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2027-i/c/090-solution.png\">ver desarrollo editorial original</a>.</p>",
+      "sourceBankSha256Before": "8a10d44ac9328bb17e7d23466101acb1c492d98ae1a52dc2ac3fca3dc8b3d137",
+      "sourceBankSha256After": "f9adf66fe946a37913aab2aa97ce46888ab7c2ef81a8a80a74be5a66db433600"
+    },
+    {
+      "id": "UNMSM_2027_I_MH_36",
+      "sourceFile": "UNMSM-2027-I.json",
+      "correctedAnswer": "E) 3322",
+      "answerText": "3322 cm² es el menor valor entero posible. El extremo real es 900 + 180√181 ≈ 3321,652328 cm².",
+      "changes": [
+        "E) 1085 se sustituye por E) 3322.",
+        "Se precisa el objetivo como menor valor entero posible, evitando confundirlo con el mínimo real o el ínfimo.",
+        "Se añade una solución propia con prueba de factibilidad del valor entero."
+      ],
+      "originalQuestionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2027-i/mh/036-question.png",
+      "originalSolutionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2027-i/mh/036-solution.png",
+      "resolution": "<p><strong>Solución propia. Respuesta: E) 3322 cm².</strong></p><p>Sea l el lado de la base equilátera y sean a = EB, b = DA y c = FC. Las tres caras laterales son trapecios de bases verticales; al sumar sus áreas se obtiene A lateral = l(a+b)/2 + l(b+c)/2 + l(c+a)/2 = l(a+b+c) = 120l.</p><p>Como M pertenece a la base equilátera, el ángulo α = MAC no supera 60°. En el triángulo AMC, la ley de cosenos da cos α = (15² + l² − 24²)/(2·15l) = (l²−351)/(30l). Entonces cos α ≥ 1/2 implica l²−15l−351 ≥ 0, y por ello l ≥ (15 + 3√181)/2 ≈ 27,680436 cm.</p><p>Así, A lateral ≥ 900 + 180√181 ≈ 3321,652328 cm². El primer entero que satisface esta cota es 3322, pero hay que comprobar que es alcanzable.</p><p>Tome l = 3322/120 = 27,683333…; A = (0,0), C = (l,0), B = (l/2, √3l/2) y M = ((l²−351)/(2l), √(225−((l²−351)/(2l))²)). Se obtiene M ≈ (7,502112; 12,989161), con AM = 15, CM = 24 y M estrictamente dentro del triángulo. Las alturas 30, 40 y 50 cm suman 120 y producen área lateral 120l = 3322 cm². Por tanto, el entero sí se alcanza.</p><p><strong>Nota editorial:</strong> el original ofrecía 1081–1085, valores imposibles incluso por la cota elemental l ≥ CM = 24, que exige área ≥ 2880. Se cambió E) 1085 por E) 3322. También se precisó «menor valor entero que puede tomar»: el mínimo real sobre la base cerrada es el número irracional calculado; si M se exige interior, esa cota es un ínfimo. Ninguno de esos dos conceptos equivale al menor valor entero posible.</p><p><strong>Referencias conservadas:</strong> <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2027-i/mh/036-question.png\">ver pregunta original</a> · <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2027-i/mh/036-solution.png\">ver desarrollo editorial original</a>.</p>",
+      "sourceBankSha256Before": "8a10d44ac9328bb17e7d23466101acb1c492d98ae1a52dc2ac3fca3dc8b3d137",
+      "sourceBankSha256After": "f9adf66fe946a37913aab2aa97ce46888ab7c2ef81a8a80a74be5a66db433600"
+    },
+    {
+      "id": "UNMSM_2024_I_A_35",
+      "sourceFile": "UNMSM-2024-I.json",
+      "correctedAnswer": "A) 1218",
+      "answerText": "S/ 1218",
+      "changes": [
+        "Alternativa A: sustituir el texto original «1596» por «1218»; conservar B=3726, C=1566, D=3276 y E=1590.",
+        "Mostrar el enunciado completo en HTML sin las alternativas incorporadas en la imagen; dejar pregunta_img vacío y usar opciones textuales.",
+        "Omitir únicamente la referencia «como se muestra en la figura»; conservar el triángulo ABC, AB=40 m, BC=x m, AC=90 m, ∠ABC>90°, x entero, S/42 por metro y la diferencia de costos solicitada. El texto contiene todas las relaciones geométricas necesarias.",
+        "Sustituir el aviso de ausencia de clave por una solución didáctica propia que obtiene S/1218; incluir los cambios editoriales después de la solución y conservar el original como referencia."
+      ],
+      "originalQuestionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-i/a-035-pregunta.png",
+      "originalSolutionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-i/a-035-solucion.png",
+      "resolution": "<p><strong>1. Determinamos qué valores puede tomar el lado x.</strong></p><p>Para que los tres lados formen un triángulo, uno de ellos debe ser mayor que la diferencia y menor que la suma de los otros dos:</p><p>90 − 40 &lt; x &lt; 90 + 40, es decir, <strong>50 &lt; x &lt; 130</strong>.</p><p>Además, el ángulo ABC es obtuso y su lado opuesto mide 90 m. Por la ley de cosenos, 90² = 40² + x² − 2·40·x·cos(∠ABC). Como cos(∠ABC) &lt; 0, resulta 90² &gt; 40² + x². Por tanto, x² &lt; 6500 y <strong>x &lt; √6500 ≈ 80,6226</strong>.</p><p>Al combinar las dos condiciones, 50 &lt; x &lt; 80,6226. Puesto que x es entero, sus valores posibles son 51, 52, …, 80. Así, <strong>x<sub>mín</sub> = 51</strong> y <strong>x<sub>máx</sub> = 80</strong>.</p><p><strong>2. Calculamos los perímetros extremos.</strong></p><p>El perímetro es P = 40 + 90 + x = 130 + x. Aumenta cuando aumenta x, de modo que P<sub>mín</sub> = 130 + 51 = <strong>181 m</strong> y P<sub>máx</sub> = 130 + 80 = <strong>210 m</strong>.</p><p><strong>3. Convertimos la diferencia de perímetros en una diferencia de costos.</strong></p><p>El costo de cada cerco es su perímetro multiplicado por S/ 42 por metro. Los costos extremos son 181·42 = S/ 7602 y 210·42 = S/ 8820. Su diferencia es:</p><p><strong>ΔC = (210 − 181)·42 = 29·42 = S/ 1218.</strong></p><p>Respuesta: <strong>A) 1218</strong>.</p><hr><p><strong>Nota editorial.</strong> Esta versión para práctica sustituye únicamente el valor de la alternativa A: donde el material de referencia presenta «A) 1596», aquí aparece «A) 1218», resultado que corresponde a los datos impresos. Las alternativas B, C, D y E se conservan. En el enunciado se omite la frase «como se muestra en la figura»: los tres lados y el ángulo ya quedan identificados de forma completa en el texto, por lo que no hace falta un dibujo para resolverlo. No se cambia ninguna longitud, condición angular, precio ni pregunta solicitada. El enunciado y las alternativas originales se conservan como referencia en la revisión. La observación del solucionario que obtiene 1596 modifica la condición angular; resuelve una variante y no se aplica a este enunciado.</p><p><strong>Fuentes.</strong> <a href=\"https://drive.google.com/file/d/17kA6cLPiuzIUOeeaR7SY_rNwLadR_ROp/view\">Lumbreras: examen UNMSM 2024-I, Área A, pregunta 35, páginas 10–11 del PDF</a>; <a href=\"https://drive.google.com/file/d/1SsZxgqRP4fYUvblc5S0ZMhTLaJXwZ14e/view\">solucionario, páginas 21–22 del PDF</a>. El desarrollo anterior se ha rehecho y comprobado independientemente.</p><p><strong>Referencias conservadas:</strong> <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-i/a-035-pregunta.png\">ver pregunta original</a> · <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-i/a-035-solucion.png\">ver desarrollo editorial original</a>.</p>",
+      "sourceBankSha256Before": "4b0f5f928375adbc8e2d7f5697cfe6f3a431d989b722b0e2eea87a4766f6717a",
+      "sourceBankSha256After": "e44879deadc714ecac68eefa32b5adab7ceb8986bd41751f1972938c5a5b4d9d"
+    },
+    {
+      "id": "UNMSM_2024_I_MH_52",
+      "sourceFile": "UNMSM-2024-I.json",
+      "correctedAnswer": "A) FFF",
+      "answerText": "FFF",
+      "changes": [
+        "Alternativa A: sustituir el texto original «VVF» por «FFF»; conservar B=FVV, C=VVV, D=FVF y E=VFV.",
+        "Transcribir en HTML el enunciado completo y sus tres proposiciones originales, sin modificar su contenido; retirar la imagen del flujo de práctica y mostrar las alternativas como opciones textuales.",
+        "Rectificar la proposición III del desarrollo de referencia: V→F por evidencia de variaciones de entonación en el periodo prelingüístico; rectificar la secuencia final FFV→FFF.",
+        "Añadir desarrollo didáctico propio, fuentes y nota precisa de cambios después de la resolución; conservar el material original como referencia."
+      ],
+      "originalQuestionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-i/mh-052-pregunta.png",
+      "originalSolutionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-i/mh-052-solucion.png",
+      "resolution": "<p>Evaluamos por separado las tres proposiciones. Una afirmación no se vuelve verdadera porque una parte de ella sea correcta: también deben sostenerse sus restricciones, como «independiente» o «recién aparecen».</p><p><strong>I. Falsa.</strong> El componente fonológico comprende la organización y el uso de los sonidos del lenguaje. Su adquisición combina experiencia con desarrollo perceptivo, cerebral y del control de la producción vocal; no es independiente de la maduración. Por ejemplo, disponer de capacidades para oír o vocalizar desde temprano no significa que todas las habilidades para distinguir y producir los sonidos estén ya plenamente desarrolladas. El NIDCD relaciona expresamente el desarrollo y la maduración cerebral de los primeros años con la adquisición del habla y del lenguaje.</p><p><strong>II. Falsa.</strong> Aprender que cierto sonido o palabra se relaciona con un objeto requiere una correspondencia aprendida a través de la experiencia. No equivale a un simple acto reflejo innato, es decir, una reacción automática ante un estímulo. Por ejemplo, reconocer que la palabra «pelota» designa ese objeto depende del contacto con palabras y situaciones comunicativas; no se trata de que el nombre y el referente estén unidos de manera refleja desde el nacimiento. Esto no niega que intervengan mecanismos de asociación o aprendizaje. Precisamente distingue el aprendizaje de una relación objeto-palabra de un mero acto reflejo. En un estudio experimental, Bergelson y Swingley comprobaron que bebés de 6–9 meses ya reconocían algunas palabras comunes aprendidas mediante su experiencia cotidiana.</p><p><strong>III. Falsa.</strong> La expresión «recién aparecen en la etapa lingüística» es incorrecta. Las variaciones de entonación ya se producen antes del habla con palabras. Whalen, Levitt y Wang analizaron el balbuceo prelingüístico de bebés y midieron contornos de entonación ascendentes, descendentes y complejos. Como evidencia todavía más temprana, Mampe y colaboradores encontraron diferencias en los contornos melódicos del llanto de recién nacidos franceses y alemanes. Por tanto, las variaciones tonales no comienzan recién en la etapa lingüística. Que los modelos del entorno y la experiencia influyan en su desarrollo no salva esa afirmación temporal; incluso la exposición prenatal puede influir antes de las primeras palabras.</p><p>En consecuencia: <strong>I = F, II = F y III = F</strong>. La secuencia correcta es <strong>FFF</strong>.</p><p>Respuesta: <strong>A) FFF</strong>.</p><hr><p><strong>Nota editorial.</strong> Esta versión para práctica mantiene completas y sin cambios las tres proposiciones del enunciado y sustituye la alternativa A original «VVF» por «FFF»; conserva B=FVV, C=VVV, D=FVF y E=VFV. El desarrollo de referencia marca III como verdadera y concluye FFV. Aquí se rectifica III a falsa y la secuencia final a FFF, por la evidencia de entonación prelingüística. El enunciado, las opciones y el desarrollo originales se conservan como referencia en la revisión. En II se entiende «acto reflejo» como una respuesta automática innata; no se identifica este concepto con todos los mecanismos de aprendizaje asociativo ni con el término histórico «reflejo condicionado». La corrección y su justificación son editoriales propias.</p><p><strong>Fuentes.</strong> <a href=\"https://drive.google.com/file/d/1ulnsOhSonKfJRax82m_ej_DTzIfYV8AT/view\">Lumbreras: examen UNMSM 2024-I, Medicina Humana, pregunta 52, páginas 14–15 del PDF</a>; <a href=\"https://drive.google.com/file/d/1czdTmwQC2-0pD9uknkkpMkJTiktedRfU/view\">desarrollo de referencia, páginas 32–33 del PDF</a>. Para la valoración independiente: <a href=\"https://www.nidcd.nih.gov/health/speech-and-language\">NIDCD/NIH: Speech and Language Developmental Milestones</a>; <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC3295309/\">Bergelson y Swingley, 2012, PNAS, doi:10.1073/pnas.1113380109</a>; <a href=\"https://pubmed.ncbi.nlm.nih.gov/1761611/\">Whalen, Levitt y Wang, 1991, Journal of Child Language, doi:10.1017/S0305000900011223</a>; <a href=\"https://pubmed.ncbi.nlm.nih.gov/19896378/\">Mampe et al., 2009, Current Biology, doi:10.1016/j.cub.2009.09.064</a>.</p><p><strong>Referencias conservadas:</strong> <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-i/mh-052-pregunta.png\">ver pregunta original</a> · <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-i/mh-052-solucion.png\">ver desarrollo editorial original</a>.</p>",
+      "sourceBankSha256Before": "4b0f5f928375adbc8e2d7f5697cfe6f3a431d989b722b0e2eea87a4766f6717a",
+      "sourceBankSha256After": "e44879deadc714ecac68eefa32b5adab7ceb8986bd41751f1972938c5a5b4d9d"
+    },
+    {
+      "id": "UNMSM_2024_II_A_29",
+      "sourceFile": "UNMSM-2024-II.json",
+      "correctedAnswer": "E) 71",
+      "answerText": "71 fichas.",
+      "changes": [
+        "Alternativa E: se reemplaza «72» por «71»; ninguna otra cifra ni parte del enunciado se altera."
+      ],
+      "originalQuestionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/a-029-pregunta.png",
+      "originalSolutionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/a-029-solucion.png",
+      "resolution": "<p><strong>Resolución propia.</strong> Clasificamos las fichas según la suma de sus cuatro dígitos. La menor suma es 1, que solo aparece en 1000; la mayor es 36, que solo aparece en 9999. Hay 36 sumas posibles.</p><p>Para retrasar al máximo la aparición de tres fichas con la misma suma, podemos tomar dos de cada suma intermedia: 2, 3, …, 35. Son 34 grupos, todos con al menos dos fichas. De los grupos extremos solo podemos tomar una ficha de cada uno.</p><p>Así, todavía es posible no tener ninguna terna después de <strong>34 × 2 + 1 + 1 = 70</strong> extracciones. Ese caso se realiza eligiendo dos fichas distintas de cada grupo intermedio y las fichas 1000 y 9999.</p><p>Al extraer una ficha más, los grupos extremos ya están agotados y algún grupo intermedio tendrá tres fichas. Por el principio del palomar, el mínimo garantizado es <strong>70 + 1 = 71 fichas</strong>. Por tanto, en esta versión corregida corresponde la alternativa <strong>E</strong>.</p><p>No basta elegir 72 por ser un valor suficiente: el problema pide el mínimo exacto. 73 y 75 también serían suficientes, pero tampoco son mínimos.</p><p><strong>Nota editorial:</strong> la fuente no ofrecía el resultado 71. Se cambió únicamente el valor de la alternativa E, de 72 a 71. El enunciado y las otras cuatro alternativas se conservaron; el impreso original queda como referencia.</p><p><strong>Referencias:</strong> <a href=\"https://drive.google.com/file/d/13VWApWyl6QeJm2yOkoNy9-e8KgaDDYZd/view\">Examen original de Lumbreras</a>; <a href=\"https://www.elumbreras.com.pe/admision-unmsm-2024-ii/\">Página del proceso</a>.</p><p><strong>Referencias conservadas:</strong> <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/a-029-pregunta.png\">ver pregunta original</a> · <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/a-029-solucion.png\">ver desarrollo editorial original</a>.</p>",
+      "sourceBankSha256Before": "d636fdde5a1cb487b40aa37c46dfd97d5fa01b689f5d1d621dd165318148c9b3",
+      "sourceBankSha256After": "334c25f02c1e191e210dc71211dcb6cff647b4bcdc2220736338a0d95c0258eb"
+    },
+    {
+      "id": "UNMSM_2024_II_A_58",
+      "sourceFile": "UNMSM-2024-II.json",
+      "correctedAnswer": "E) preparar y mantener actualizado el padrón electoral.",
+      "answerText": "Preparar y mantener actualizado el padrón electoral corresponde al Reniec.",
+      "changes": [
+        "Alternativa A: «organizar y ejecutar los diversos procesos electorales» se sustituye por la fiscalización de la legalidad del sufragio y los procesos electorales (Constitución, art.178.1).",
+        "Alternativa B: «organizar y ejecutar referéndum y otras consultas populares» se sustituye por la proclamación de candidatos elegidos y resultados de referéndums y consultas (Constitución, art.178.5).",
+        "Se conservan el enunciado de atribución incorrecta al JNE y las alternativas C, D y E."
+      ],
+      "originalQuestionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/a-058-pregunta.png",
+      "originalSolutionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/a-058-solucion.png",
+      "resolution": "<p><strong>Resolución propia.</strong> La pregunta pide una función que <strong>no</strong> corresponda al JNE. Conviene distinguir entre fiscalizar los procesos, organizarlos y preparar el padrón.</p><ul><li><strong>A:</strong> fiscalizar la legalidad del sufragio y de los procesos sí es competencia del JNE, según el artículo 178.1 de la Constitución.</li><li><strong>B:</strong> proclamar candidatos elegidos y resultados de consultas sí es competencia del JNE, conforme al artículo 178.5.</li><li><strong>C:</strong> custodiar el registro de organizaciones políticas sí corresponde al JNE, según el artículo 178.2.</li><li><strong>D:</strong> administrar justicia electoral sí corresponde al JNE, según el artículo 178.4.</li><li><strong>E:</strong> preparar y actualizar el padrón corresponde al <strong>Reniec</strong>, según el artículo 183. Que el JNE lo fiscalice y apruebe no lo convierte en el organismo que lo prepara.</li></ul><p>Por tanto, la única atribución incorrectamente asignada al JNE en esta versión es <strong>E: preparar y mantener actualizado el padrón electoral</strong>.</p><p><strong>Nota editorial:</strong> las alternativas originales A y B atribuían al JNE la organización y ejecución de elecciones y consultas, funciones de la ONPE. Junto con E, eran tres respuestas posibles. Para convertir la pregunta en selección única, A se sustituyó por la fiscalización electoral y B por la proclamación de resultados, ambas competencias constitucionales del JNE. Se conservaron el enunciado y C, D y E.</p><p><strong>Referencias:</strong> <a href=\"https://www3.congreso.gob.pe/Docs/biblioteca/Constitucion/CP-ED-Nov2022/files/basic-html/page106.html\">Constitución: artículo 178</a>; <a href=\"https://www3.congreso.gob.pe/Docs/biblioteca/Constitucion/CP-ED-Nov2022/files/basic-html/page109.html\">Constitución: artículos 182 y 183</a>; <a href=\"https://drive.google.com/file/d/13VWApWyl6QeJm2yOkoNy9-e8KgaDDYZd/view\">Examen original de Lumbreras</a>.</p><p><strong>Referencias conservadas:</strong> <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/a-058-pregunta.png\">ver pregunta original</a> · <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/a-058-solucion.png\">ver desarrollo editorial original</a>.</p>",
+      "sourceBankSha256Before": "d636fdde5a1cb487b40aa37c46dfd97d5fa01b689f5d1d621dd165318148c9b3",
+      "sourceBankSha256After": "334c25f02c1e191e210dc71211dcb6cff647b4bcdc2220736338a0d95c0258eb"
+    },
+    {
+      "id": "UNMSM_2024_II_A_61",
+      "sourceFile": "UNMSM-2024-II.json",
+      "correctedAnswer": "D) VVVV",
+      "answerText": "VVVV.",
+      "changes": [
+        "Proposición III: «Se acepta la creencia de todas las religiones» se precisa como respeto a la libertad de conciencia y a las distintas creencias del alumnado, sin discriminación.",
+        "Alternativa D: «FVVV» se reemplaza por «VVVV». Se conservan I, II, IV y las otras cuatro alternativas."
+      ],
+      "originalQuestionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/a-061-pregunta.png",
+      "originalSolutionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/a-061-solucion.png",
+      "resolution": "<p><strong>Resolución propia.</strong> Evaluamos cada proposición a la luz del derecho a una educación pública intercultural:</p><ul><li><strong>I, verdadera:</strong> el artículo 20.b de la Ley 28044 prevé también el aprendizaje posterior de lenguas extranjeras en la educación bilingüe intercultural. Este enfoque no implica excluirlas.</li><li><strong>II, verdadera:</strong> el artículo 4 reconoce la gratuidad de la educación estatal y el artículo 8.c establece la inclusión. Ambos principios alcanzan a esta educación pública.</li><li><strong>III, verdadera:</strong> respetar la libertad de conciencia significa no discriminar por creencias. El enfoque intercultural del Currículo Nacional exige esa acogida respetuosa; no obliga a adoptar como verdaderas todas las doctrinas.</li><li><strong>IV, verdadera:</strong> la enseñanza considera las características socioculturales y necesidades del estudiante. Los artículos 32 a 34 sustentan esa adecuación mediante la diversificación curricular.</li></ul><p>La secuencia es <strong>V–V–V–V</strong>; corresponde la alternativa <strong>D</strong> de esta versión corregida.</p><p><strong>Nota editorial:</strong> se precisó III: la frase original «Se acepta la creencia de todas las religiones» podía confundirse con adoptar todas las doctrinas. Ahora expresa el respeto a la libertad de conciencia sin discriminación. Además, se cambió D de FVVV a VVVV: la negación de I carecía de sustento en el artículo 20.b. Las demás proposiciones y alternativas se conservaron.</p><p><strong>Referencias:</strong> <a href=\"https://www2.congreso.gob.pe/sicr/cendocbib/con3_uibd.nsf/39784DE1B079D1890525792E005A2069/$FILE/Ley_28044_LeyGeneraldeEducaci%C3%B3n.pdf\">Ley General de Educación, artículos 4, 8.c, 20.b y 32–34</a>; <a href=\"https://minedu.gob.pe/curriculo/pdf/curriculo-nacional-2017.pdf\">Currículo Nacional, enfoque intercultural</a>; <a href=\"https://drive.google.com/file/d/13VWApWyl6QeJm2yOkoNy9-e8KgaDDYZd/view\">Examen original de Lumbreras</a>.</p><p><strong>Referencias conservadas:</strong> <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/a-061-pregunta.png\">ver pregunta original</a> · <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/a-061-solucion.png\">ver desarrollo editorial original</a>.</p>",
+      "sourceBankSha256Before": "d636fdde5a1cb487b40aa37c46dfd97d5fa01b689f5d1d621dd165318148c9b3",
+      "sourceBankSha256After": "334c25f02c1e191e210dc71211dcb6cff647b4bcdc2220736338a0d95c0258eb"
+    },
+    {
+      "id": "UNMSM_2024_II_D_81",
+      "sourceFile": "UNMSM-2024-II.json",
+      "correctedAnswer": "A) I Etapa: PMgL > PMeL; II Etapa: PMgL < PMeL; III Etapa: PMeL > PMgL.",
+      "answerText": "I: PMgL > PMeL; II: PMgL < PMeL; III: PMeL > PMgL.",
+      "changes": [
+        "Alternativa A, tercera etapa: «PMgL > PMgL» se corrige a «PMeL > PMgL» cambiando únicamente el primer término.",
+        "Se precisa en el enunciado la comparación dentro de cada etapa, sin incluir los puntos fronterizos. Se conserva el gráfico original."
+      ],
+      "originalQuestionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/d-081-pregunta.png",
+      "originalSolutionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/d-081-solucion.png",
+      "resolution": "<p><strong>Resolución propia.</strong> El producto medio es <strong>PMeL = PT/L</strong>; el marginal es <strong>PMgL = d(PT)/dL</strong>. La relación entre ambos se obtiene de <strong>d(PMeL)/dL = (PMgL − PMeL)/L</strong>.</p><ul><li><strong>Etapa I:</strong> el producto medio aumenta. Su derivada es positiva, de modo que <strong>PMgL &gt; PMeL</strong>.</li><li><strong>Etapa II:</strong> el producto medio disminuye, aunque el total todavía crece. Por eso <strong>0 &lt; PMgL &lt; PMeL</strong>.</li><li><strong>Etapa III:</strong> el producto total cae al añadir trabajo: el marginal es negativo. El promedio sigue siendo positivo, por lo que <strong>PMeL &gt; PMgL</strong>.</li></ul><p>Estas tres relaciones están reunidas en <strong>A</strong>. En la frontera I–II, marginal y medio se igualan; en la frontera II–III, el marginal es cero. Esas igualdades puntuales no describen el interior de cada etapa.</p><p><strong>Nota editorial:</strong> en la tercera relación de A, la fuente imprimía «PMgL &gt; PMgL», una comparación imposible de una cantidad consigo misma. Se corrigió solo el primer término a «PMeL &gt; PMgL». El gráfico y las otras cuatro opciones se conservaron; el enunciado precisa que se comparan los interiores de las etapas.</p><p><strong>Referencias:</strong> <a href=\"https://open.oregonstate.education/intermediatemicroeconomics/chapter/module-6/\">Oregon State University: producto total, medio y marginal</a>; <a href=\"https://drive.google.com/file/d/1Lax_ghKfC691QZQCLnAIBBC-_CUrj4Ln/view\">Examen original de Lumbreras</a>.</p><p><strong>Referencias conservadas:</strong> <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/d-081-pregunta.png\">ver pregunta original</a> · <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unmsm/2024-ii/d-081-solucion.png\">ver desarrollo editorial original</a>.</p>",
+      "sourceBankSha256Before": "d636fdde5a1cb487b40aa37c46dfd97d5fa01b689f5d1d621dd165318148c9b3",
+      "sourceBankSha256After": "334c25f02c1e191e210dc71211dcb6cff647b4bcdc2220736338a0d95c0258eb"
+    },
+    {
+      "id": "UNSA_2023_I_ING_22",
+      "sourceFile": "UNSA-2023-I.json",
+      "correctedAnswer": "A) √(17/3)",
+      "answerText": "√(17/3) = √51/3 ≈ 2.380476",
+      "changes": [
+        {
+          "field": "opciones",
+          "label": "A",
+          "before": "2",
+          "after": "√(17/3)",
+          "reason": "Incluir el resultado exacto obtenido del enunciado original; no es válido redondearlo a2."
+        }
+      ],
+      "originalQuestionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2023-i/ing-22-pregunta.png",
+      "originalSolutionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2023-i/ing-22-solucion.png",
+      "resolution": "<h3>1. Clasifica los carbonos según sus vecinos</h3>\n<p>Cuenta únicamente a cuántos carbonos está unido cada carbono. Un extremo CH₃ tiene un vecino y es primario; un CH₂ tiene dos vecinos y es secundario; un CH tiene tres y es terciario. Un carbono unido a otros cuatro carbonos es cuaternario.</p>\n<p>En la estructura se cuentan <strong>8 primarios, 9 secundarios, 2 terciarios y 2 cuaternarios</strong>. Por tanto, P=8, S=9, T=2 y C=2.</p>\n<h3>2. Comprueba el recuento</h3><p>Hay 21 carbonos y la cadena no tiene ciclos. Sus 20 enlaces C–C aportan una suma de grados de 40. Nuestro recuento cumple \\(8+2(9)+3(2)+4(2)=40\\), lo que permite detectar un carbono omitido o contado dos veces.</p>\n<h3>3. Sustituye en la expresión</h3><p>La C pequeña indica el índice de la raíz. Como C=2, corresponde una raíz cuadrada:</p>\n<p>\\[Q=\\sqrt[2]{\\frac{9+8}{2+1}}=\\sqrt{\\frac{17}{3}}=\\frac{\\sqrt{51}}{3}.\\]</p>\n<p>Así, la respuesta de la versión corregida es <strong>A) √(17/3)</strong>. No corresponde redondear el resultado a 2, porque no se solicita una aproximación entera.</p>\n<h3>Nota editorial</h3><p>La opción A original decía <strong>2</strong>; se reemplazó por <strong>√(17/3)</strong>. La molécula, la expresión y las otras cuatro alternativas se conservaron. El resultado exacto no figuraba en las opciones originales. Esta es una corrección editorial para práctica, no una clave oficial del examen.</p><p><a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2023-i/ing-22-pregunta.png\">Ver el enunciado y las alternativas originales</a>. El contexto compartido, cuando corresponde, conserva el pasaje original.</p><p><strong>Referencias conservadas:</strong> <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2023-i/ing-22-pregunta.png\">ver pregunta original</a> · <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2023-i/ing-22-solucion.png\">ver desarrollo editorial original</a>.</p>",
+      "sourceBankSha256Before": "23635ba52c221b5c8ed2f6cb77fe1d6eec215dc1717d21b9836442b465e46c14",
+      "sourceBankSha256After": "a1aa1f74946095d64fd5d392f6dbda1117f97c22543cff1f22e8a3b8bdce363e"
+    },
+    {
+      "id": "UNSA_2023_II_BIO_51",
+      "sourceFile": "UNSA-2023-II.json",
+      "correctedAnswer": "B) abuelo",
+      "answerText": "abuelo",
+      "changes": [
+        {
+          "field": "opciones",
+          "label": "E",
+          "before": "abuelo",
+          "after": "nieto",
+          "reason": "Eliminar la duplicación de la respuesta correcta y mantener B como única opción válida."
+        }
+      ],
+      "originalQuestionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2023-ii/bio-51-pregunta.png",
+      "originalSolutionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2023-ii/bio-51-solucion.png",
+      "resolution": "<h3>Resuelve el parentesco desde el centro</h3><p>Mi hermana y mi hermano pertenecen a mi misma generación. En la convención usual del ejercicio, su tío consanguíneo es hermano de uno de nuestros padres.</p>\n<p>Si llamamos P a ese progenitor y T a su hermano, el padre de T también es el padre de P. Ese padre es, por tanto, <strong>el abuelo de mi hermano</strong>.</p>\n<p>Cadena de parentescos: <strong>mi hermana → su tío → el padre del tío = nuestro abuelo</strong>. La respuesta de la versión corregida es <strong>B) abuelo</strong>.</p>\n<h3>Nota editorial</h3><p>En el examen reproducido, B y E decían ambas <strong>abuelo</strong>, por lo que las dos letras correspondían al mismo resultado. Se cambió solamente E por <strong>nieto</strong> para dejar una única alternativa correcta. La opción E nueva es una intervención editorial; no estaba impresa en el examen real.</p><p><a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2023-ii/bio-51-pregunta.png\">Ver el enunciado y las alternativas originales</a>. El contexto compartido, cuando corresponde, conserva el pasaje original.</p><p><strong>Referencias conservadas:</strong> <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2023-ii/bio-51-pregunta.png\">ver pregunta original</a> · <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2023-ii/bio-51-solucion.png\">ver desarrollo editorial original</a>.</p>",
+      "sourceBankSha256Before": "9fc57a5693f14717bb5f678e5d0754b6aca0427c619c385f472ff87c897441a7",
+      "sourceBankSha256After": "eec7f52d0e36012449a1200d3337c167a07d4b013ded78ff5eb3e2b0d8f6760c"
+    },
+    {
+      "id": "UNSA_2024_II_SOC_2",
+      "sourceFile": "UNSA-2024-II.json",
+      "correctedAnswer": "D) In Britain, they don’t write customers’ names on the cups.",
+      "answerText": "In Britain, they don’t write customers’ names on the cups.",
+      "changes": [
+        {
+          "field": "opciones",
+          "label": "D",
+          "before": "They don’t use first name.",
+          "after": "In Britain, they don’t write customers’ names on the cups.",
+          "reason": "Expresar la acción y el ámbito que sí respalda literalmente la lectura."
+        }
+      ],
+      "originalQuestionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/soc-02-pregunta.png",
+      "originalSolutionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/soc-02-solucion.png",
+      "resolution": "<h3>Identifica exactamente de quién habla el texto</h3><p>La lectura compara la experiencia del autor en Starbucks de Gran Bretaña con la de Estados Unidos. Cuando habla de los camareros británicos, indica que <strong>no escriben el nombre del cliente en el vaso</strong>.</p>\n<p>Por ello, la versión corregida tiene como respuesta <strong>D) In Britain, they don’t write customers’ names on the cups.</strong></p>\n<h3>Por qué no corresponden las otras opciones</h3><ul><li>A contradice la acción descrita: no escriben el nombre en los vasos.</li><li>B atribuye a los camareros una preferencia que expresa el autor.</li><li>C confunde este apartado con el comportamiento de los conductores ante los peatones.</li><li>E traslada a los camareros la cordialidad con que se describen los locales.</li></ul>\n<h3>Nota editorial</h3><p>D originalmente decía <strong>They don’t use first name.</strong> Se sustituyó por una afirmación precisa sobre <strong>escribir nombres en los vasos de los locales británicos</strong>. No escribir un nombre en un vaso no equivale, por sí solo, a no usarlo oralmente en ninguna situación. La aclaración evita esa generalización y se basa en el pasaje original, conservado como referencia.</p><p><a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/soc-02-pregunta.png\">Ver el enunciado y las alternativas originales</a>. El contexto compartido, cuando corresponde, conserva el pasaje original.</p><p><strong>Referencias conservadas:</strong> <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/soc-02-pregunta.png\">ver pregunta original</a> · <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/soc-02-solucion.png\">ver desarrollo editorial original</a>.</p>",
+      "sourceBankSha256Before": "861ef7acd62ab3540b84ba25bf28ada7c0c19e7b8d8caa4b832ea687d20f35f3",
+      "sourceBankSha256After": "b2b9cd7cc112ad118c496468136ce4e0f5253f8b47467ed8b34e5984ac5049b0"
+    },
+    {
+      "id": "UNSA_2024_II_ING_2",
+      "sourceFile": "UNSA-2024-II.json",
+      "correctedAnswer": "A) FFT",
+      "answerText": "FFT",
+      "changes": [
+        {
+          "field": "pregunta",
+          "location": "proposición III",
+          "before": "When we finished shopping it was late to the concert.",
+          "after": "When Debbie and Mark finished shopping, it was nearly 6 p.m.",
+          "reason": "Preguntar por un dato expresamente dado en vez de inferir una llegada tarde sin hora de inicio."
+        }
+      ],
+      "originalQuestionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/ing-02-pregunta.png",
+      "originalSolutionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/ing-02-solucion.png",
+      "resolution": "<h3>Busca la información de cada proposición en el relato</h3><ol type=\"I\"><li><strong>Falsa.</strong> Debbie entregó las entradas en el <em>car park</em> del auditorio, es decir, su aparcamiento. La proposición dice <em>in the park</em>, un parque, y cambia el lugar.</li><li><strong>Falsa.</strong> Debbie entregó las entradas y Mark las recibió. No fue Mark quien las entregó en la escena narrada.</li><li><strong>Verdadera.</strong> El relato señala expresamente que eran casi las seis cuando terminaron de comprar.</li></ol>\n<p>La secuencia es <strong>F–F–T</strong>, que corresponde a <strong>A) FFT</strong>.</p>\n<h3>Nota editorial</h3><p>La III original decía <strong>When we finished shopping it was late to the concert.</strong> La lectura no proporciona la hora de inicio del concierto ni afirma que llegaran tarde; por eso no permitía decidir esa proposición. Se reemplazó III por <strong>When Debbie and Mark finished shopping, it was nearly 6 p.m.</strong>, un dato explícito. Las otras dos proposiciones y las cinco secuencias de respuesta se conservaron. La nueva III es una reformulación editorial para práctica.</p><p><a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/ing-02-pregunta.png\">Ver el enunciado y las alternativas originales</a>. El contexto compartido, cuando corresponde, conserva el pasaje original.</p><p><strong>Referencias conservadas:</strong> <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/ing-02-pregunta.png\">ver pregunta original</a> · <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/ing-02-solucion.png\">ver desarrollo editorial original</a>.</p>",
+      "sourceBankSha256Before": "861ef7acd62ab3540b84ba25bf28ada7c0c19e7b8d8caa4b832ea687d20f35f3",
+      "sourceBankSha256After": "b2b9cd7cc112ad118c496468136ce4e0f5253f8b47467ed8b34e5984ac5049b0"
+    },
+    {
+      "id": "UNSA_2024_II_BIO_20",
+      "sourceFile": "UNSA-2024-II.json",
+      "correctedAnswer": "C) VFF",
+      "answerText": "VFF",
+      "changes": [
+        {
+          "field": "opciones",
+          "label": "C",
+          "before": "VVF",
+          "after": "VFF",
+          "reason": "Incluir la secuencia que resulta al evaluar las proposiciones sin añadir una subida de demanda inexistente en II."
+        },
+        {
+          "field": "pregunta",
+          "location": "proposición I",
+          "before": "Los precios varían en relación directa a la demanda y en relación inversa a la oferta.",
+          "after": "Manteniendo constantes los demás factores, un aumento de la demanda eleva el precio de equilibrio y un aumento de la oferta lo reduce.",
+          "reason": "Hacer explícita la condición ceteris paribus y que se comparan desplazamientos de curvas."
+        }
+      ],
+      "originalQuestionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/bio-20-pregunta.png",
+      "originalSolutionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/bio-20-solucion.png",
+      "resolution": "<h3>Evalúa cada afirmación con los demás factores constantes</h3><ol type=\"I\"><li><strong>Verdadera.</strong> Si aumenta la demanda mientras la oferta no cambia, el nuevo equilibrio tiene un precio mayor. Si aumenta la oferta mientras la demanda no cambia, el precio de equilibrio baja.</li><li><strong>Falsa.</strong> Mantener constante la oferta no determina por sí solo una subida. Falta saber qué ocurre con la demanda: puede subir, bajar o permanecer igual.</li><li><strong>Falsa.</strong> Si la demanda disminuye con la oferta fija, el precio de equilibrio tiende a bajar.</li></ol>\n<h3>Un contraejemplo para comprobar II</h3><p>Supongamos \\(Q_d=a-P\\) y \\(Q_s=P\\). En equilibrio, \\(a-P=P\\), de donde \\(P=a/2\\). La curva de oferta no cambia. Si a pasa de 20 a 16, el precio baja de 10 a 8. Así se demuestra que oferta constante no implica precio creciente.</p>\n<p>La secuencia es <strong>V–F–F</strong>. En la versión corregida corresponde a <strong>C) VFF</strong>.</p>\n<h3>Nota editorial</h3><p>La opción C original era <strong>VVF</strong>; se reemplazó por <strong>VFF</strong>, que faltaba entre las alternativas. En I, la frase original sobre relación directa con demanda e inversa con oferta se precisó como cambios del <strong>precio de equilibrio</strong> ante aumentos de demanda u oferta, con los demás factores constantes. Esto evita confundir desplazamientos de curvas con movimientos sobre una curva fija. II y III se conservaron. Estas aclaraciones no se atribuyen al examen original.</p>\n<h3>Fuentes de apoyo</h3><ul><li><a href=\"https://openstax.org/books/principles-economics-3e/pages/3-2-shifts-in-demand-and-supply-for-goods-and-services\">3 2 shifts in demand and supply for goods and services</a>: Diferencia entre movimiento sobre una curva y desplazamiento, y necesidad de mantener constantes los demás factores. El contraejemplo algebraico es elaboración propia.</li></ul><p><a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/bio-20-pregunta.png\">Ver el enunciado y las alternativas originales</a>. El contexto compartido, cuando corresponde, conserva el pasaje original.</p><p><strong>Referencias conservadas:</strong> <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/bio-20-pregunta.png\">ver pregunta original</a> · <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/bio-20-solucion.png\">ver desarrollo editorial original</a>.</p>",
+      "sourceBankSha256Before": "861ef7acd62ab3540b84ba25bf28ada7c0c19e7b8d8caa4b832ea687d20f35f3",
+      "sourceBankSha256After": "b2b9cd7cc112ad118c496468136ce4e0f5253f8b47467ed8b34e5984ac5049b0"
+    },
+    {
+      "id": "UNSA_2024_II_BIO_13",
+      "sourceFile": "UNSA-2024-II.json",
+      "correctedAnswer": "B) VFVV",
+      "answerText": "VFVV",
+      "changes": [
+        {
+          "field": "pregunta",
+          "location": "proposición II",
+          "before": "El Homo habilis fue capaz de enterrar a sus muertos.",
+          "after": "Hay evidencia aceptada de enterramientos intencionales realizados por Homo habilis.",
+          "reason": "Evaluar una atribución arqueológica documentada y no una capacidad hipotética absoluta."
+        },
+        {
+          "field": "pregunta",
+          "location": "proposición IV",
+          "before": "El hombre de Neanderthal es el más parecido al hombre actual.",
+          "after": "Los neandertales son uno de los parientes humanos extintos más próximos de Homo sapiens.",
+          "reason": "Precisar el grupo de comparación y el parentesco evolutivo que respalda la fuente científica."
+        }
+      ],
+      "originalQuestionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/bio-13-pregunta.png",
+      "originalSolutionImage": "https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/bio-13-solucion.png",
+      "resolution": "<h3>Evalúa las proposiciones con su alcance aclarado</h3><ol type=\"I\"><li><strong>Verdadera en la clasificación del ejercicio.</strong> Los seres humanos actuales pertenecemos a Homo sapiens. La afirmación se entiende como reconocimiento de nuestra especie; no significa que todos los individuos posean rasgos físicos o capacidades idénticos.</li><li><strong>Falsa.</strong> La práctica de enterramientos intencionales no es una conducta documentada y aceptada para Homo habilis. La nueva redacción pregunta por evidencia, no por una incapacidad absoluta que sería difícil demostrar.</li><li><strong>Verdadera según el registro conocido.</strong> Los australopitecos se documentan en África. Por ejemplo, afarensis se registra en África oriental y africanus en África austral.</li><li><strong>Verdadera.</strong> Los neandertales se encuentran entre nuestros parientes humanos extintos más próximos. El Smithsonian los presenta como parientes extintos cercanos de los humanos modernos.</li></ol>\n<p>La secuencia es <strong>V–F–V–V</strong>, que corresponde a <strong>B) VFVV</strong>.</p>\n<h3>Nota editorial</h3><p>II originalmente decía <strong>El Homo habilis fue capaz de enterrar a sus muertos.</strong> Se precisó como una afirmación sobre evidencia aceptada. IV originalmente decía <strong>El hombre de Neanderthal es el más parecido al hombre actual.</strong> Se sustituyó por una afirmación explícita de parentesco entre especies extintas, evitando la ambigüedad de “más parecido”. Las cinco alternativas se conservaron.</p>\n<p>El desarrollo editorial original marcaba IV falsa y obtenía VFVF, ausente de las opciones. La versión para práctica usa el alcance científico aclarado y una explicación propia; no presenta B como clave oficial del examen ni reproduce sin advertencia el desarrollo discrepante.</p>\n<h3>Fuentes de apoyo</h3><ul><li><a href=\"https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis\">homo neanderthalensis</a>: El Smithsonian presenta a los neandertales como nuestros parientes humanos extintos más próximos y describe evidencia funeraria.</li><li><a href=\"https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens\">homo sapiens</a>: Los seres humanos actuales pertenecen a Homo sapiens.</li><li><a href=\"https://humanorigins.si.edu/evidence/human-fossils/species/homo-habilis\">homo habilis</a>: Contexto taxonómico y temporal de Homo habilis; no se usa la omisión de entierros como prueba de incapacidad absoluta.</li><li><a href=\"https://humanorigins.si.edu/evidence/human-fossils/species/australopithecus-afarensis\">australopithecus afarensis</a>: Registro de afarensis en África oriental.</li><li><a href=\"https://humanorigins.si.edu/evidence/human-fossils/species/australopithecus-africanus\">australopithecus africanus</a>: Registro de africanus en África austral.</li></ul><p><a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/bio-13-pregunta.png\">Ver el enunciado y las alternativas originales</a>. El contexto compartido, cuando corresponde, conserva el pasaje original.</p><p><strong>Referencias conservadas:</strong> <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/bio-13-pregunta.png\">ver pregunta original</a> · <a href=\"https://raw.githubusercontent.com/WilsonCcopa/db-cachimboz/main/assets/exams/unsa/2024-ii/bio-13-solucion.png\">ver desarrollo editorial original</a>.</p>",
+      "sourceBankSha256Before": "861ef7acd62ab3540b84ba25bf28ada7c0c19e7b8d8caa4b832ea687d20f35f3",
+      "sourceBankSha256After": "b2b9cd7cc112ad118c496468136ce4e0f5253f8b47467ed8b34e5984ac5049b0"
+    }
+  ]
+}
