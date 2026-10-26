@@ -24,6 +24,7 @@ def get(url,raw=False):
 
 request=json.loads(get(SOURCE+'/.github/exam-import/request.json'))
 assert request['repository']==REPO
+assert isinstance(request.get('dryRun'),bool),'request must explicitly choose dryRun'
 assert [x['university'] for x in request['packages']] in [['UNMSM','UNI','UNSA'],['UNMSM','UNI','UNSA','CATALOG']]
 tmp=Path(tempfile.mkdtemp(prefix='exam-import-'));checkout=tmp/'repo'
 
@@ -36,6 +37,7 @@ def git(*args,check=True,auth=False):
 git('clone','--quiet','--single-branch','--branch','main','https://github.com/'+REPO+'.git',str(checkout))
 assert git('rev-parse','HEAD')==request['expectedMain'],'main changed; prepare a fresh request after review'
 git('config','user.name','github-actions[bot]');git('config','user.email','41898282+github-actions[bot]@users.noreply.github.com')
+git('config','core.autocrlf','false')
 commits=[]
 for package in request['packages']:
     archive=tmp/(package['university']+'.zip')
@@ -67,6 +69,13 @@ for package in request['packages']:
     # Add only the reviewed package paths; no unrelated work can enter the commit.
     for start in range(0,len(allowed),200):git('add','--',*list(allowed)[start:start+200])
     assert set(git('diff','--cached','--name-only').splitlines())<=set(allowed)
+    # Verify the staged bytes, including any repository attribute filters.
+    staged=git('ls-files','--stage').splitlines()
+    staged_hashes={line.split('\t',1)[1]:line.split()[1] for line in staged}
+    for name in allowed:
+        data=(checkout/name).read_bytes()
+        expected_blob=hashlib.sha1(b'blob '+str(len(data)).encode()+b'\0'+data).hexdigest()
+        assert staged_hashes[name]==expected_blob,('staged bytes changed',name)
     git('commit','--quiet','-m',package['message'])
     commits.append({'university':package['university'],'sha':git('rev-parse','HEAD')})
     print(package['university']+': '+str(package['files'])+' verified files prepared',flush=True)
