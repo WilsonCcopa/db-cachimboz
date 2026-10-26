@@ -1,0 +1,22 @@
+name: Import reviewed admission exams
+on:
+  push:
+    branches: [codex/import-exams-20261025]
+    paths: [.github/exam-import/request.json]
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Validate and publish reviewed packages
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import os, urllib.request
+          url = 'https://raw.githubusercontent.com/' + os.environ['GITHUB_REPOSITORY'] + '/' + os.environ['GITHUB_SHA'] + '/.github/exam-import/import_exams.py'
+          source = urllib.request.urlopen(url, timeout=60).read()
+          exec(compile(source, 'import_exams.py', 'exec'))
+          PY
