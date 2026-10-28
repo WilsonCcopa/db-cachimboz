@@ -1278,7 +1278,7 @@
         {
           "titulo": "2.1 Polinomios A - Teoría",
           "youtube_id": "ie00jUSUDN0",
-          "pdf_link": "https://drive.google.com/file/d/1qmfyAxNvn63OTZN85rgtcM2LP4NLfcrD/view",
+          "pdf_link": "https://drive.google.com/file/d/1krdRiz_N3ng2jPiWY8bDqJb8Dw8D8XQu/view",
           "gratis": true
         },
         {
@@ -1290,7 +1290,7 @@
         {
           "titulo": "2.3 Polinomios B - Teoría",
           "youtube_id": "7SAhEiNOO6c",
-          "pdf_link": "https://drive.google.com/file/d/1wmKtIhMJponYWa2vu2egEpxfpwM3o7HD/view",
+          "pdf_link": "https://drive.google.com/file/d/1IwDep2jrQAmDaAEDE2uDdBl4zssz18wb/view",
           "gratis": true
         },
         {
@@ -2617,7 +2617,7 @@
         {
           "titulo": "4.1 División - Teoría",
           "youtube_id": "4o_Gq9bilEE",
-          "pdf_link": "https://drive.google.com/file/d/1Ysd3c-Gnf6XXt-t27fWACgLSiMCcMDBt/view",
+          "pdf_link": "https://drive.google.com/file/d/14Hz33JRmp8-U8ndsjXIXBylQ1o8nsRl9/view",
           "gratis": true
         },
         {
@@ -2630,7 +2630,7 @@
     },
     {
       "titulo": "Tema 5: Cocientes Notables",
-      "pdf_resuelto": "https://drive.google.com/file/d/1_QfkYZhiGBQxl_5AYEWbH65mEtxLca_1/view",
+      "pdf_resuelto": "https://drive.google.com/file/d/1TIJ6xsNtS61ls6BVxupLoCMsf3rOdDZV/view",
       "preguntas": [
         {
           "pregunta": "Simplificar la siguiente expresión: $$ E = \\frac{a^{5}-b^{5}}{a-b} \\cdot \\frac{a^{5}+b^{5}}{a+b} $$ Considera $$a\\ne\\pm b$$.",
