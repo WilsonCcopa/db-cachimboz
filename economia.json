@@ -11286,7 +11286,7 @@
           "pdf_link": "https://drive.google.com/file/d/16u6ELgtlJ11N4wi-M1V3DnduVRQYhxNb/view",
           "gratis": true,
           "lesson_id": "economia_1_t08_v05",
-          "resumen": "La clase explica la clasificación empresarial por tamaño mediante ventas anuales expresadas en UIT. Define la Unidad Impositiva Tributaria como referencia que se actualiza y utiliza valores históricos, especialmente el de 2024, para ilustrar su evolución. Revisa sus aplicaciones en bases imponibles, deducciones, límites, multas y obligaciones contables. Después presenta las categorías del material: microempresa hasta 150 UIT, pequeña por encima de 150 y hasta 1700 UIT, y mediana por encima de 1700 y hasta 2300 UIT. El cierre contrasta el criterio de ventas con el antiguo límite de trabajadores y desarrolla la lógica de incentivar contratación formal en lugar de favorecer únicamente la adquisición de maquinaria.",
+          "resumen": "Aclaración verificada — UIT y año del ejercicio: el libro indica UIT 2024 = S/5.150, pero sus montos en soles usan S/4.950 (2023). Con el valor de 2024, 150 UIT = S/772.500; 1.700 UIT = S/8.755.000; 2.300 UIT = S/11.845.000. Las equivalencias dependen del año y no son montos fijos para todos los exámenes. Fuente: manual CEPRU, p.94 (PDF 95), y tabla UIT de SUNAT.\n\nLa clase explica la clasificación empresarial por tamaño mediante ventas anuales expresadas en UIT. Define la Unidad Impositiva Tributaria como referencia que se actualiza y utiliza valores históricos, especialmente el de 2024, para ilustrar su evolución. Revisa sus aplicaciones en bases imponibles, deducciones, límites, multas y obligaciones contables. Después presenta las categorías del material: microempresa hasta 150 UIT, pequeña por encima de 150 y hasta 1700 UIT, y mediana por encima de 1700 y hasta 2300 UIT. El cierre contrasta el criterio de ventas con el antiguo límite de trabajadores y desarrolla la lógica de incentivar contratación formal en lugar de favorecer únicamente la adquisición de maquinaria.",
           "puntos_clave": [
             "La UIT se presenta como valor de referencia tributario que puede actualizarse, no como una cantidad permanente en soles.",
             "El repaso histórico compara valores de la UIT de distintos años, incluido el de 2024 utilizado por el material.",
@@ -11439,7 +11439,22 @@
             "source_integrity": "exact_lesson_course_and_youtube_id",
             "validation": "plain_text_and_literal_segment_evidence",
             "factual_review": "source_reviewed_not_human_verified",
-            "playback": "not_verified"
+            "playback": "not_verified",
+            "editorial_review": {
+              "reviewed_at": "2026-11-04T18:05:31.968Z",
+              "correction_ids": [
+                "economia_8_4_uit"
+              ],
+              "manual_document_sha256": "fb4ad1f0fddf768d70a247d263e22706626f558ee932c2ce0a727980e4587360",
+              "audio_check": "independent_local_audio_recognition_and_caption_agreement",
+              "manual_check": "complete_relevant_pages_visually_reviewed",
+              "official_sources": [
+                {
+                  "title": "SUNAT — Valores de la UIT por año",
+                  "url": "https://www.sunat.gob.pe/indicestasas/uit.html"
+                }
+              ]
+            }
           }
         },
         {
@@ -23419,7 +23434,7 @@
           "pdf_link": "https://drive.google.com/file/d/1__GDY20xhp0m_Fj_2d44thETSD7GAxG-/view",
           "gratis": true,
           "lesson_id": "economia_1_t16_v04",
-          "resumen": "La clase conecta las divisas, las reservas internacionales y los regímenes cambiarios con la balanza de pagos. Define las reservas internacionales netas y presenta los derechos especiales de giro como un activo de reserva. Distingue tipo de cambio fijo y flexible, así como flotación limpia y administrada. Después explica el registro de transacciones entre residentes y no residentes mediante el criterio del devengado. En la estructura presentada en clase, la cuenta corriente agrupa balanza comercial, servicios, renta de factores y transferencias corrientes. La cuenta financiera se divide en sector privado, sector público y capitales de corto plazo, con ejemplos de inversión directa, préstamos, desembolsos, amortizaciones y fondos volátiles.",
+          "resumen": "Aclaración verificada — composición del DEG: las cuatro monedas del libro corresponden a una referencia BCRP de 2011. Desde el 1 de octubre de 2016 son cinco: dólar estadounidense, euro, renminbi chino, yen japonés y libra esterlina. Fuente: manual CEPRU, p.236 (PDF 237), y FMI.\n\nLa clase conecta las divisas, las reservas internacionales y los regímenes cambiarios con la balanza de pagos. Define las reservas internacionales netas y presenta los derechos especiales de giro como un activo de reserva. Distingue tipo de cambio fijo y flexible, así como flotación limpia y administrada. Después explica el registro de transacciones entre residentes y no residentes mediante el criterio del devengado. En la estructura presentada en clase, la cuenta corriente agrupa balanza comercial, servicios, renta de factores y transferencias corrientes. La cuenta financiera se divide en sector privado, sector público y capitales de corto plazo, con ejemplos de inversión directa, préstamos, desembolsos, amortizaciones y fondos volátiles.",
           "puntos_clave": [
             "Las divisas permiten pagos internacionales; las reservas internacionales netas se presentan como activos de reserva menos pasivos internacionales del banco central.",
             "El tipo de cambio fijo se sostiene mediante decisiones de la autoridad; el flexible responde al mercado y puede tener flotación limpia o administrada.",
@@ -23562,7 +23577,26 @@
             "source_integrity": "exact_lesson_course_and_youtube_id",
             "validation": "plain_text_and_literal_segment_evidence",
             "factual_review": "source_reviewed_not_human_verified",
-            "playback": "not_verified"
+            "playback": "not_verified",
+            "editorial_review": {
+              "reviewed_at": "2026-11-04T18:05:31.968Z",
+              "correction_ids": [
+                "economia_16_3_deg"
+              ],
+              "manual_document_sha256": "fb4ad1f0fddf768d70a247d263e22706626f558ee932c2ce0a727980e4587360",
+              "audio_check": "independent_local_audio_recognition_and_caption_agreement",
+              "manual_check": "complete_relevant_pages_visually_reviewed",
+              "official_sources": [
+                {
+                  "title": "FMI — Canasta de cinco monedas, vigente desde el 1 de octubre de 2016",
+                  "url": "https://www.imf.org/en/news/articles/2016/09/30/am16-pr16440-imf-launches-new-sdr-basket-including-chinese-renminbi"
+                },
+                {
+                  "title": "FMI — Qué es el DEG",
+                  "url": "https://www.imf.org/en/about/factsheets/sheets/2023/special-drawing-rights-sdr"
+                }
+              ]
+            }
           }
         },
         {
@@ -26660,7 +26694,7 @@
           "pdf_link": "https://drive.google.com/file/d/1XbxrnfcnXxVdtj-JTDsBCuZ-iImQySvz/view",
           "gratis": true,
           "lesson_id": "economia_1_t18_v05",
-          "resumen": "La clase introduce la economía social de mercado como una combinación de libertad de mercado y equidad social. Vincula el modelo con Alfred Müller-Armack y contrasta mercados eficientes con la necesidad de condiciones institucionales que atiendan desequilibrios. Desarrolla tres principios: responsabilidad individual, solidaridad y subsidiariedad, usando ejemplos de esfuerzo personal y apoyo institucional. La segunda mitad repasa crecimiento y desarrollo económico y relaciona inversión, educación, tecnología y productividad con la producción. Después vuelve sobre el índice de desarrollo humano y sobre los hitos de sostenibilidad del material. Su eje de repaso es diferenciar el aumento de bienes y servicios de las mejoras de calidad de vida.",
+          "resumen": "Aclaración verificada — ODM y ODS: son 8 Objetivos de Desarrollo del Milenio y 17 Objetivos de Desarrollo Sostenible. La pregunta 4 del libro dice «Milenio», marca 17 y no ofrece 8: es una inconsistencia del cuestionario. La teoría del manual desarrolla los 17 ODS. Esa marca no permite anticipar la clave de un examen futuro. Fuentes: manual CEPRU, p.290 y pp.284–285 (PDF 291 y 285–286), ONU y PNUD.\n\nLa clase introduce la economía social de mercado como una combinación de libertad de mercado y equidad social. Vincula el modelo con Alfred Müller-Armack y contrasta mercados eficientes con la necesidad de condiciones institucionales que atiendan desequilibrios. Desarrolla tres principios: responsabilidad individual, solidaridad y subsidiariedad, usando ejemplos de esfuerzo personal y apoyo institucional. La segunda mitad repasa crecimiento y desarrollo económico y relaciona inversión, educación, tecnología y productividad con la producción. Después vuelve sobre el índice de desarrollo humano y sobre los hitos de sostenibilidad del material. Su eje de repaso es diferenciar el aumento de bienes y servicios de las mejoras de calidad de vida.",
           "puntos_clave": [
             "La economía social de mercado combina iniciativa de mercado con condiciones institucionales orientadas a la equidad y se distingue de la planificación central.",
             "La explicación vincula a Alfred Müller-Armack con la combinación de libertad de mercado y equidad social.",
@@ -26822,7 +26856,26 @@
             "source_integrity": "exact_lesson_course_and_youtube_id",
             "validation": "plain_text_and_literal_segment_evidence",
             "factual_review": "source_reviewed_not_human_verified",
-            "playback": "not_verified"
+            "playback": "not_verified",
+            "editorial_review": {
+              "reviewed_at": "2026-11-04T18:05:31.968Z",
+              "correction_ids": [
+                "economia_18_4_odm_ods"
+              ],
+              "manual_document_sha256": "fb4ad1f0fddf768d70a247d263e22706626f558ee932c2ce0a727980e4587360",
+              "audio_check": "independent_local_audio_recognition_and_caption_agreement",
+              "manual_check": "complete_relevant_pages_visually_reviewed",
+              "official_sources": [
+                {
+                  "title": "ONU — Ocho ODM y transición a los 17 ODS",
+                  "url": "https://www.un.org/millenniumgoals/"
+                },
+                {
+                  "title": "PNUD — Los 17 Objetivos de Desarrollo Sostenible",
+                  "url": "https://www.undp.org/sustainable-development-goals"
+                }
+              ]
+            }
           }
         },
         {
