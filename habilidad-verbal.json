@@ -1,0 +1,2246 @@
+{
+  "curso": "Habilidad Verbal",
+  "temas": [
+    {
+      "titulo": "Temario General",
+      "videos": [
+        {
+          "titulo": "1.1 Comprensión de Lectura: El Tema",
+          "youtube_id": "JUcl3Wah9Jo",
+          "pdf_link": "https://drive.google.com/file/d/1S_ZxHzEg3WeuYHnULpLTDGgZ7mbG_7ig/view",
+          "gratis": true,
+          "preguntas": [
+            {
+              "pregunta": "Muchos estudiantes, al ser consultados por el tema de un texto, suelen responder con un resumen detallado o una síntesis de las acciones. Según la explicación del profesor Pepe Ríos, ¿por qué esta es una respuesta inapropiada para un examen de admisión?",
+              "opciones": [
+                "Porque el resumen es demasiado corto para ser considerado un tema.",
+                "Porque el tema no debe contar la historia ni resumirla, sino simplemente nombrar al sujeto principal.",
+                "Porque el resumen requiere el uso de verbos conjugados obligatoriamente.",
+                "Porque los exámenes de admisión prohíben el uso de sinónimos en las respuestas."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Al analizar la estructura de una oración para hallar el tema, el profesor sugiere enfocarse en el sujeto y dejar de lado el predicado. Si en un texto leemos: 'El racionalismo acentúa el papel de la razón en la adquisición del conocimiento', ¿qué parte de la oración nos aporta la información clave para identificar el tema?",
+              "opciones": [
+                "El predicado, porque explica qué hace el racionalismo.",
+                "El sujeto 'El racionalismo', porque es de quien se habla en la oración.",
+                "El verbo conjugado 'acentúa', porque indica la acción principal.",
+                "Los complementos circunstanciales de tiempo y modo."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Una de las características del tema es que debe ser una 'frase nominal'. Si en una pregunta de examen de admisión te presentan las siguientes opciones para el tema de un texto sobre la fotosíntesis, ¿cuál deberías descartar inmediatamente por NO cumplir con esta característica?",
+              "opciones": [
+                "La importancia de la fotosíntesis.",
+                "El proceso de la fotosíntesis en las plantas.",
+                "La fotosíntesis transforma la energía solar.",
+                "Fases de la fotosíntesis vegetal."
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "El video menciona que el tema debe ser 'genérico'. Si un texto describe la vida de Julio Ramón Ribeyro, sus cuentos más famosos y su estilo literario, ¿cuál de los siguientes enunciados cumple mejor con la característica de generalidad sin desbordar el contenido?",
+              "opciones": [
+                "La literatura peruana del siglo XX.",
+                "Julio Ramón Ribeyro.",
+                "Los personajes marginados en los cuentos de Ribeyro.",
+                "La biografía de los escritores peruanos de la generación del 50."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué procedimiento recomienda seguir el profesor cuando en un texto aparecen dos o más sujetos con la misma jerarquía de importancia?",
+              "opciones": [
+                "Elegir al azar uno de los sujetos y descartar los demás.",
+                "Unir los sujetos en una sola frase nominal que configure el tema.",
+                "Cambiar el tema por la idea principal del primer párrafo.",
+                "Buscar un tercer sujeto que no aparezca en el texto para generalizar."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "En el análisis del texto sobre el racionalismo, el profesor identifica un 'sujeto tácito' en la segunda oración: '(El racionalismo) contrasta con el empirismo...'. ¿Cómo ayuda este reconocimiento a la determinación del tema central del texto completo?",
+              "opciones": [
+                "Confirma que el empirismo es el sujeto más importante.",
+                "Demuestra la persistencia del sujeto 'racionalismo' a lo largo de la lectura.",
+                "Indica que el autor ha cambiado de tema repentinamente.",
+                "Sugiere que el tema debe ser una oración completa con verbo."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "El profesor advierte que las respuestas en los exámenes a menudo no son directas, sino que utilizan la 'paráfrasis'. Si el sujeto principal es 'César Vallejo', pero la opción correcta dice 'Un poeta vanguardista peruano', ¿qué habilidad está evaluando el examen según el video?",
+              "opciones": [
+                "La capacidad de memorizar fechas biográficas.",
+                "La habilidad para reconocer equivalentes o sinónimos del sujeto principal.",
+                "La destreza para redactar poemas similares al autor.",
+                "La velocidad de lectura por encima de la comprensión."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Si un estudiante aplica la técnica de leer todo el texto y luego preguntarse '¿de qué me ha hablado el autor?', y se siente frustrado por la cantidad de información acumulada, ¿qué alternativa técnica propone el video para evitar esta confusión?",
+              "opciones": [
+                "Leer solo el título y el último párrafo del texto.",
+                "Reconocer el sujeto oración por oración de manera secuencial.",
+                "Contar cuántas palabras tiene el texto antes de empezar.",
+                "Subrayar únicamente los adjetivos y adverbios."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "El video establece que el tema es el 'punto de partida para la comprensión'. Si un alumno no logra identificar correctamente el tema, ¿qué otras preguntas frecuentes del examen de admisión se verían afectadas directamente?",
+              "opciones": [
+                "Solo las preguntas sobre ortografía y puntuación.",
+                "Preguntas sobre la idea principal, el título, la síntesis y la tesis del texto.",
+                "Preguntas sobre el número de páginas del libro original.",
+                "Preguntas sobre la biografía del evaluador del examen."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Al analizar un texto, se observa que un sujeto aparece brevemente en un párrafo y luego desaparece, mientras que otro se mantiene en toda la lectura. Según la técnica del video, ¿cuál de estos sujetos debe ser considerado como el tema?",
+              "opciones": [
+                "El que apareció y desapareció, por ser una novedad informativa.",
+                "El sujeto que se mantiene constante a lo largo de todo el texto.",
+                "Ambos deben unirse obligatoriamente en una frase nominal.",
+                "Ninguno, se debe buscar un sujeto externo al texto."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cómo define el profesor el 'tema' para que sea un concepto práctico y útil?",
+              "opciones": [
+                "Como el resumen de la obra.",
+                "Como el sujeto principal del texto.",
+                "Como la moraleja de la historia.",
+                "Como la biografía del autor."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué tipo de estructura gramatical debe tener siempre el tema de un texto?",
+              "opciones": [
+                "Una oración bimembre.",
+                "Una frase nominal.",
+                "Un párrafo completo.",
+                "Una pregunta retórica."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cuál es la principal característica del tema respecto a los verbos conjugados?",
+              "opciones": [
+                "Debe tener al menos dos verbos para ser completo.",
+                "No debe contener verbos conjugados.",
+                "Solo puede usar verbos en pasado.",
+                "Los verbos deben ir al inicio de la frase."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué significa que el tema debe ser 'genérico' según el video?",
+              "opciones": [
+                "Que debe ser vago e impreciso.",
+                "Que debe abarcar todo el contenido sin dejar nada fuera ni decir más de la cuenta.",
+                "Que debe referirse a un solo dato específico del texto.",
+                "Que debe ser un título llamativo y comercial."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué técnica sugiere el profesor para hallar el tema en textos extensos?",
+              "opciones": [
+                "Leer solo la primera y última palabra.",
+                "Reconocer el sujeto de cada oración.",
+                "Traducir el texto a otro idioma.",
+                "Buscar la palabra que más se repite con un contador."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Según la RAE, mencionada en el video, ¿qué es el tema?",
+              "opciones": [
+                "La conclusión de un argumento.",
+                "El asunto que se aborda en un discurso.",
+                "El índice de un libro.",
+                "El nombre del protagonista."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cuál es el sujeto predominante en el texto de ejemplo analizado en el video?",
+              "opciones": [
+                "El empirismo.",
+                "René Descartes.",
+                "El racionalismo.",
+                "Europa continental."
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Qué término es sinónimo de 'tema' en las preguntas de examen de admisión?",
+              "opciones": [
+                "Tópico.",
+                "Epílogo.",
+                "Prefacio.",
+                "Glosario."
+              ],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué papel NO le corresponde al tema según el video?",
+              "opciones": [
+                "Nombrar de quien se habla.",
+                "Hacer afirmaciones o negaciones.",
+                "Ser el punto de partida de la comprensión.",
+                "Ser una frase nominal."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué frase célebre menciona el profesor al final del video?",
+              "opciones": [
+                "Leer es poder.",
+                "Saber es poder.",
+                "Querer es poder.",
+                "Estudiar es triunfar."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Lee el texto:<br>En la biblioteca del barrio, cada préstamo se anota en una ficha con el nombre del lector y la fecha de devolución. Cuando un libro regresa, se revisa su estado y se actualiza la ficha. Así se mantiene un registro de los ejemplares disponibles y prestados.<br>¿Cuál es el tema del texto?",
+              "opciones": [
+                "El control de préstamos en una biblioteca",
+                "La reparación de libros deteriorados",
+                "La selección de lecturas escolares",
+                "La inscripción de nuevos bibliotecarios",
+                "La compra de libros para el barrio"
+              ],
+              "correcta": 0,
+              "resolucion": "El texto describe el registro, la devolución y la disponibilidad de los libros. Estos aspectos corresponden al control de préstamos.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Lee el texto:<br>Antes de ir al mercado, Rosa revisa qué alimentos quedan en casa. Luego prepara una lista y calcula cuánto puede gastar. Al comprar, compara precios y evita llevar productos que no necesita.<br>¿Qué asunto se desarrolla en el texto?",
+              "opciones": [
+                "La preparación de un almuerzo familiar",
+                "La planificación de las compras de alimentos",
+                "La conservación de productos del mercado",
+                "La distribución de puestos de venta",
+                "La producción agrícola de la localidad"
+              ],
+              "correcta": 1,
+              "resolucion": "Revisar las provisiones, elaborar una lista y calcular el gasto son acciones relacionadas con la planificación de las compras.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Lee el texto:<br>El sábado, unos vecinos pintaron las bancas del parque. Durante la actividad, notaron que los caños del local comunal goteaban. Desde entonces, el comité revisa las conexiones, registra las fugas y coordina su reparación. Estas revisiones se realizan cada mes para evitar pérdidas de agua.<br>¿Cuál es el tema central?",
+              "opciones": [
+                "La renovación de las bancas del parque",
+                "La organización de actividades de pintura",
+                "El mantenimiento de las instalaciones de agua del local comunal",
+                "La construcción del local comunal",
+                "La participación vecinal en celebraciones"
+              ],
+              "correcta": 2,
+              "resolucion": "La pintura de bancas solo introduce la situación. El desarrollo se concentra en revisar y reparar las instalaciones de agua del local.",
+              "nivel": 2
+            },
+            {
+              "pregunta": "Lee el texto:<br>En una quinta, algunas familias se turnan para barrer el patio. Otras limpian las ventanas de los pasadizos y recogen los residuos de la entrada. Todas estas tareas siguen un horario acordado entre los residentes.<br>¿Qué tema reúne las actividades mencionadas?",
+              "opciones": [
+                "La decoración de las viviendas de una quinta",
+                "La vigilancia de los ingresos a una quinta",
+                "La reparación de ventanas y puertas",
+                "La organización de la limpieza de espacios compartidos",
+                "La distribución de habitaciones entre las familias"
+              ],
+              "correcta": 3,
+              "resolucion": "Barrer el patio, limpiar los pasadizos y recoger residuos son tareas de limpieza de espacios compartidos, organizadas mediante turnos.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Lee el texto:<br>Lucía agrupa sus fotografías digitales por año. Dentro de cada carpeta, crea otras con los nombres de los lugares visitados. Además, elimina las imágenes repetidas y coloca nombres descriptivos a los archivos para encontrarlos con facilidad.<br>¿Cuál es la formulación más precisa del tema?",
+              "opciones": [
+                "La tecnología en la vida cotidiana",
+                "La elección de destinos turísticos",
+                "La eliminación de fotografías repetidas",
+                "La edición artística de imágenes",
+                "La organización de fotografías digitales"
+              ],
+              "correcta": 4,
+              "resolucion": "El texto abarca varias acciones para ordenar fotografías. Eliminar imágenes repetidas es solo una de ellas; la tecnología cotidiana es un asunto demasiado amplio.",
+              "nivel": 2
+            },
+            {
+              "pregunta": "Lee el texto:<br>El servicio de reparto en bicicleta recibe paquetes pequeños y recorre trayectos cortos. El servicio en furgoneta transporta objetos más grandes y llega a zonas alejadas. Ambos atienden a los mismos negocios, que eligen uno u otro según el tamaño del envío y la distancia.<br>¿Qué tema comprende todo el texto?",
+              "opciones": [
+                "Las características de dos modalidades de reparto",
+                "La reparación de vehículos de carga",
+                "Las dificultades de los negocios pequeños",
+                "La capacitación de conductores de furgoneta",
+                "Las normas de tránsito para ciclistas"
+              ],
+              "correcta": 0,
+              "resolucion": "Se presentan las características del reparto en bicicleta y en furgoneta. El tema debe incluir ambas modalidades, pues reciben una atención equivalente.",
+              "nivel": 2
+            },
+            {
+              "pregunta": "Lee el texto:<br>En el taller de costura, las tijeras se guardan en un cajón exclusivo. Las agujas se colocan en un recipiente con tapa y los retazos se separan según su tamaño. Al terminar la jornada, cada herramienta vuelve al lugar que tiene asignado.<br>¿De qué trata principalmente el texto?",
+              "opciones": [
+                "De la venta de prendas confeccionadas",
+                "Del orden de materiales y herramientas de costura",
+                "De la elección de telas para uniformes",
+                "De la enseñanza del bordado a mano",
+                "Del mantenimiento de máquinas de coser"
+              ],
+              "correcta": 1,
+              "resolucion": "Todas las acciones describen cómo se guardan y distribuyen los materiales y las herramientas del taller.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Lee el texto:<br>Antes de cada ensayo, los integrantes del grupo teatral realizan movimientos suaves para preparar el cuerpo. También practican la pronunciación y regulan la respiración. Solo después de esta preparación comienzan a representar las escenas.<br>¿Qué encabezado nombra mejor el tema, sin añadir información?",
+              "opciones": [
+                "La selección de actores para una obra",
+                "La elaboración de vestuarios para el escenario",
+                "La preparación corporal y vocal antes del ensayo teatral",
+                "La historia de un grupo teatral escolar",
+                "La presentación de una obra ante el público"
+              ],
+              "correcta": 2,
+              "resolucion": "El pasaje se ocupa de los ejercicios corporales, de pronunciación y de respiración que se realizan antes de ensayar.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Lee el texto:<br>La asociación del barrio coloca avisos impresos en su local y envía mensajes por celular. Los avisos permiten consultar la información al pasar por el lugar; los mensajes llegan a quienes no pueden acercarse. En ambos casos, se comunican las fechas y los acuerdos de las reuniones.<br>¿Cuál es el tema común a las dos formas descritas?",
+              "opciones": [
+                "La elección de representantes de la asociación",
+                "La compra de celulares para los vecinos",
+                "La construcción de un nuevo local vecinal",
+                "Los medios de difusión de información de la asociación",
+                "La asistencia de los vecinos a las reuniones"
+              ],
+              "correcta": 3,
+              "resolucion": "Los avisos impresos y los mensajes por celular se presentan como medios para difundir información de la asociación.",
+              "nivel": 2
+            }
+          ]
+        },
+        {
+          "titulo": "1.2 Tipología Textual según DECO",
+          "youtube_id": "f5XP3F3nONw",
+          "pdf_link": "https://drive.google.com/file/d/1Fjqtn5FFSnvFW7YxEgarrT6E96m87ygE/view",
+          "gratis": true,
+          "preguntas": [
+            {
+              "pregunta": "Según el modelo DECO de San Marcos, el objetivo no es solo la memoria, sino evaluar destrezas cognitivas. Si un estudiante se enfrenta a un texto sobre la crisis económica actual y se le pide que identifique la postura del autor y la compare con su propio contexto, ¿qué tipo de habilidad cognitiva está siendo evaluada principalmente?",
+              "opciones": [
+                "La capacidad de memorizar fechas y nombres.",
+                "La habilidad crítica y reflexiva frente a la información.",
+                "La velocidad de lectura mecánica.",
+                "El conocimiento ortográfico del estudiante."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Los textos continuos están formados por oraciones organizadas en párrafos. Si un estudiante debe leer un reportaje periodístico sobre el cambio climático para extraer las causas principales, ¿qué tipo de estructura textual está procesando?",
+              "opciones": [
+                "Texto discontinuo.",
+                "Texto dialéctico.",
+                "Texto continuo.",
+                "Texto mixto."
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "A partir de 2017, San Marcos introdujo cambios en su examen de admisión. Si en una prueba te encuentras con un texto que incluye un gráfico estadístico sobre la pobreza en el Perú junto a un artículo de opinión, ¿a qué tipo de texto te estás enfrentando según la clasificación mencionada?",
+              "opciones": [
+                "Texto puramente narrativo.",
+                "Texto discontinuo (o mixto, al combinar texto e imagen).",
+                "Texto descriptivo simple.",
+                "Texto argumentativo lineal."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "En un texto narrativo, se relata una historia en un tiempo y lugar. Si lees el inicio de 'Cien años de soledad' donde el coronel Aureliano Buendía recuerda el día que conoció el hielo, ¿cuál es la intención principal de este fragmento?",
+              "opciones": [
+                "Convencer al lector de comprar hielo.",
+                "Relatar un suceso ocurrido en una línea de tiempo específica.",
+                "Describir químicamente la composición del hielo.",
+                "Debatir sobre la existencia del coronel."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Un texto descriptivo presenta características de algo o alguien. Si un vendedor te detalla las especificaciones técnicas, la potencia y el diseño de un equipo de sonido para que lo compres, aunque su fin último sea vender, ¿qué tipo de secuencia textual está utilizando predominantemente en su discurso?",
+              "opciones": [
+                "Argumentativa.",
+                "Narrativa.",
+                "Descriptiva.",
+                "Expositiva."
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "El texto expositivo busca informar con objetividad. Si un médico publica un artículo sobre los protocolos de higiene para prevenir enfermedades sin incluir opiniones personales, ¿qué característica esencial define a este texto?",
+              "opciones": [
+                "La subjetividad y el uso de la primera persona.",
+                "La objetividad en la transmisión de la información.",
+                "El uso de personajes ficticios.",
+                "La intención de vender medicamentos."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "El texto argumentativo tiene como fin convencer. Si un autor escribe un ensayo sosteniendo que 'el uso excesivo de videojuegos daña la socialización de los niños' y utiliza estudios psicológicos para respaldarlo, ¿qué elemento es fundamental para validar su tesis?",
+              "opciones": [
+                "Los adjetivos calificativos.",
+                "Los argumentos.",
+                "Las imágenes decorativas.",
+                "La extensión del texto."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Los textos dialécticos presentan dos posturas enfrentadas. En el ejemplo del video, Borges y Sábato conversan sobre las fábulas. Si Borges sugiere que a Esopo le interesaba más la idea de animales hablando que la moraleja, y Sábato afirma que el arte no debe ser moralizador, ¿qué relación existe entre sus posturas?",
+              "opciones": [
+                "Ambos están totalmente de acuerdo en que las fábulas deben enseñar moral.",
+                "Existe un contraste o polémica sobre la función del arte y la literatura.",
+                "Sábato ignora lo que dice Borges.",
+                "Borges intenta venderle un libro a Sábato."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "La lectura de textos discontinuos requiere estrategias no lineales. Si te presentan una infografía donde debes relacionar los porcentajes de un gráfico circular con la conclusión de un párrafo breve adyacente, ¿qué habilidad lectora es indispensable?",
+              "opciones": [
+                "Leer solo las palabras y ignorar los números.",
+                "La capacidad de integrar y cotejar información verbal con información gráfica.",
+                "Leer lo más rápido posible.",
+                "Memorizar los colores del gráfico."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Cassany propone una lectura reflexiva. Si un postulante lee un texto filosófico complejo a una velocidad de 500 palabras por minuto y no logra captar las ideas centrales, ¿qué principio de la lectura eficaz mencionado en el video está violando?",
+              "opciones": [
+                "Que la velocidad no debe ser la prioridad, sino la eficacia y la pausa reflexiva.",
+                "Que se debe leer en voz alta.",
+                "Que los textos filosóficos no se deben leer.",
+                "Que debe leer más rápido para acabar el examen."
+              ],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué significa el acrónimo DECO en el contexto del examen de admisión de San Marcos?",
+              "opciones": [
+                "Destrezas Comunicativas",
+                "Destrezas Cognitivas",
+                "Desarrollo de Conocimientos",
+                "Departamento de Comprensión"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cómo se define un texto continuo según el video?",
+              "opciones": [
+                "Texto compuesto solo por imágenes.",
+                "Texto compuesto por oraciones organizadas en párrafos.",
+                "Texto que presenta diálogos teatrales.",
+                "Texto que incluye mapas y tablas."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué tipo de texto busca convencer al lector a través de una tesis y argumentos?",
+              "opciones": [
+                "Texto narrativo",
+                "Texto descriptivo",
+                "Texto argumentativo",
+                "Texto expositivo"
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Cuál es la característica principal de un texto expositivo?",
+              "opciones": [
+                "Relatar una historia ficticia.",
+                "Informar con objetividad sobre un tema.",
+                "Describir las cualidades de un objeto.",
+                "Presentar un diálogo entre dos personas."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿A partir de qué año el examen de San Marcos comenzó a incluir textos discontinuos y con imágenes?",
+              "opciones": [
+                "2010",
+                "2015",
+                "2016",
+                "2017"
+              ],
+              "correcta": 3
+            },
+            {
+              "pregunta": "¿Qué tipo de texto se caracteriza por el uso predominante de adjetivos para presentar cualidades?",
+              "opciones": [
+                "Narrativo",
+                "Descriptivo",
+                "Expositivo",
+                "Dialéctico"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué nombre recibe el texto donde se presentan dos autores o fuentes informativas que polemizan sobre un tema?",
+              "opciones": [
+                "Texto narrativo",
+                "Texto continuo",
+                "Texto dialéctico",
+                "Texto descriptivo"
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Cuál es el límite de palabras por minuto recomendado para una lectura reflexiva según Cassany?",
+              "opciones": [
+                "100 palabras",
+                "250 palabras",
+                "500 palabras",
+                "1000 palabras"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué ejemplo literario utiliza el video para ilustrar un texto narrativo?",
+              "opciones": [
+                "Una receta médica.",
+                "Un fragmento de 'Cien años de soledad' de García Márquez.",
+                "Un manual de instrucciones.",
+                "Una noticia sobre economía."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué opinaba Ernesto Sábato sobre las obras de arte en el texto dialéctico presentado?",
+              "opciones": [
+                "Que deben ser siempre alegres.",
+                "Que ninguna obra de arte es moralizadora en un sentido edificante.",
+                "Que deben tener moralejas claras como las fábulas.",
+                "Que no sirven para nada."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Lee el siguiente horario de un taller municipal:<br>Actividad | Día | Hora<br>Teatro | Lunes | 4 p. m.<br>Dibujo | Miércoles | 3 p. m.<br>Danza | Viernes | 5 p. m.<br>¿Qué característica permite reconocerlo como un texto discontinuo?",
+              "opciones": [
+                "Desarrolla una explicación mediante párrafos relacionados.",
+                "Presenta intervenciones sucesivas de varios participantes.",
+                "Relata acontecimientos siguiendo una secuencia temporal.",
+                "Defiende una propuesta mediante razones y una conclusión.",
+                "Distribuye información en filas y columnas que se consultan según la necesidad."
+              ],
+              "correcta": 4,
+              "resolucion": "El horario organiza datos en filas y columnas. Para encontrar una actividad, se relacionan sus datos, sin necesidad de leer todo de principio a fin.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Lee el texto:<br>«Al salir del mercado, Julia notó que había olvidado su bolsa de papas. Regresó al puesto y encontró al vendedor esperándola con la bolsa en la mano. Le agradeció y continuó su camino».<br>Según su secuencia predominante, ¿qué tipo de texto es?",
+              "opciones": [
+                "Narrativo.",
+                "Descriptivo.",
+                "Argumentativo.",
+                "Expositivo.",
+                "Instructivo."
+              ],
+              "correcta": 0,
+              "resolucion": "Es narrativo porque relata acciones sucesivas protagonizadas por Julia: sale, descubre el olvido, regresa y continúa su camino.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Un aviso vecinal contiene estos dos componentes:<br>Párrafo: «Las familias deben sacar sus residuos únicamente durante el horario asignado a su zona».<br>Cuadro:<br>Zona | Horario de recojo<br>Norte | 7 a 8 p. m.<br>Sur | 8 a 9 p. m.<br>¿Por qué el aviso completo tiene formato mixto?",
+              "opciones": [
+                "Porque relata dos acontecimientos ocurridos en lugares distintos.",
+                "Porque integra un párrafo con un cuadro de información complementaria.",
+                "Porque enfrenta dos opiniones sobre el servicio de limpieza.",
+                "Porque desarrolla toda la información en párrafos consecutivos.",
+                "Porque organiza todo su contenido exclusivamente en casillas."
+              ],
+              "correcta": 1,
+              "resolucion": "El aviso combina un componente continuo, el párrafo, con uno discontinuo, el cuadro. Ambos aportan información necesaria para cumplir la indicación.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Lee el texto:<br>«La mochila tiene dos bolsillos laterales, un compartimento acolchado y una franja reflectante en la parte delantera. Su tela es azul y sus cierres son negros».<br>¿Qué secuencia textual predomina?",
+              "opciones": [
+                "Narrativa.",
+                "Instructiva.",
+                "Descriptiva.",
+                "Argumentativa.",
+                "Expositiva."
+              ],
+              "correcta": 2,
+              "resolucion": "Predomina la descripción porque se presentan las partes y cualidades de la mochila, no una sucesión de hechos ni una explicación de su funcionamiento.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Lee el texto:<br>«La evaporación es el paso de un líquido al estado gaseoso desde su superficie. Por ejemplo, el agua de una prenda mojada pasa al aire y, por eso, la prenda se seca».<br>¿Cuál es su propósito predominante?",
+              "opciones": [
+                "Relatar una experiencia personal relacionada con el lavado.",
+                "Convencer al lector de comprar una prenda.",
+                "Indicar los pasos que se deben seguir para lavar ropa.",
+                "Explicar un fenómeno mediante una definición y un ejemplo.",
+                "Detallar la apariencia de una prenda mojada."
+              ],
+              "correcta": 3,
+              "resolucion": "El texto es expositivo: define la evaporación y utiliza una situación cotidiana para explicar en qué consiste.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Lee el texto:<br>«El colegio debería instalar un punto de préstamo de paraguas. Durante las últimas lluvias, varios estudiantes tuvieron que esperar para salir porque no llevaban uno. El préstamo permitiría que regresaran a casa sin esa demora».<br>¿Qué relación entre sus ideas permite clasificarlo como argumentativo?",
+              "opciones": [
+                "Una acción inicial provoca otras acciones dentro de una historia.",
+                "Las características de un objeto permiten imaginar su apariencia.",
+                "Una definición general se aclara con un ejemplo particular.",
+                "Una serie de órdenes permite ejecutar una tarea.",
+                "Una propuesta se apoya en un problema observado y en el beneficio de resolverlo."
+              ],
+              "correcta": 4,
+              "resolucion": "La propuesta de instalar el préstamo funciona como tesis. El problema de la espera y el beneficio previsto son razones que buscan justificarla.",
+              "nivel": 2
+            },
+            {
+              "pregunta": "Lee las dos intervenciones:<br>Texto A: «La losa deportiva debe abrir los domingos por la tarde, pues ese es el único momento libre de varias familias».<br>Texto B: «La losa no debe abrir los domingos por la tarde, porque ese horario se necesita para realizar el mantenimiento semanal».<br>Considerados conjuntamente, ¿qué rasgo permite reconocer una organización dialéctica?",
+              "opciones": [
+                "Sostienen posturas opuestas sobre una misma decisión y ofrecen razones.",
+                "Narran dos etapas sucesivas de la construcción de la losa.",
+                "Describen espacios distintos sin relacionarlos.",
+                "Presentan una misma instrucción con palabras diferentes.",
+                "Enumeran horarios sin expresar una posición sobre ellos."
+              ],
+              "correcta": 0,
+              "resolucion": "Ambos textos discuten si se debe abrir la losa en un mismo horario. Uno lo defiende y el otro lo rechaza; cada uno presenta una razón.",
+              "nivel": 2
+            },
+            {
+              "pregunta": "Lee el texto:<br>«Para registrar un libro prestado, abre el cuaderno de préstamos. Luego, escribe el título del libro y el nombre de quien lo recibe. Finalmente, anota la fecha de devolución».<br>¿Qué tipo de texto predomina?",
+              "opciones": [
+                "Descriptivo.",
+                "Instructivo.",
+                "Expositivo.",
+                "Narrativo.",
+                "Argumentativo."
+              ],
+              "correcta": 1,
+              "resolucion": "Es instructivo porque orienta al lector mediante acciones ordenadas para realizar una tarea: registrar un préstamo.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Lee este único párrafo:<br>«La biblioteca debería ampliar su horario los sábados. Muchos vecinos trabajan de lunes a viernes y solo pueden acudir ese día. Abrir dos horas más les daría mayores oportunidades de consultar los libros».<br>Si se distingue el formato de la secuencia textual predominante, ¿cómo se clasifica el texto?",
+              "opciones": [
+                "Continuo y descriptivo.",
+                "Discontinuo y argumentativo.",
+                "Continuo y argumentativo.",
+                "Mixto y expositivo.",
+                "Discontinuo e instructivo."
+              ],
+              "correcta": 2,
+              "resolucion": "Es continuo porque está formado por oraciones organizadas en un párrafo. Es argumentativo porque defiende la ampliación del horario mediante razones.",
+              "nivel": 2
+            }
+          ]
+        },
+        {
+          "titulo": "1.3 HB - Tipos de preguntas en la compre",
+          "youtube_id": "kplSWOUghmM",
+          "pdf_link": "https://drive.google.com/file/d/1GsoWUZ8ZK2p8tByVPdaYlpBwUJIcA0mg/view",
+          "gratis": true,
+          "preguntas": [
+            {
+              "pregunta": "En un texto sobre la economía actual, se utiliza la frase 'el mercado negro floreció durante la crisis'. Si aplicamos el criterio de sentido contextual explicado en el video, ¿cómo deberíamos interpretar el término 'floreció' en esta situación específica?",
+              "opciones": [
+                "Que el mercado se llenó de flores y plantas.",
+                "Que el mercado prosperó o se desarrolló con fuerza.",
+                "Que el mercado desapareció repentinamente.",
+                "Que el mercado se volvió legal y formal."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Si un estudiante lee un texto sobre la contaminación ambiental y encuentra una alternativa que dice 'la contaminación solo afecta a los animales marinos', pero el texto menciona efectos en el aire, suelo y salud humana, ¿por qué esta alternativa sería considerada incompatible según la explicación del profesor?",
+              "opciones": [
+                "Porque es una idea secundaria.",
+                "Porque niega o restringe la información general del texto al usar el cuantificador 'solo'.",
+                "Porque es una inferencia válida.",
+                "Porque el autor no mencionó a los animales."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "En un texto dialéctico, el Autor A defiende el uso de la inteligencia artificial en la educación, mientras que el Autor B advierte sobre la pérdida de creatividad en los alumnos. Si se te pide identificar el tema central de la discusión, ¿cuál de las siguientes opciones sería la más adecuada según el modelo DECO?",
+              "opciones": [
+                "La historia de las computadoras.",
+                "Las ventajas económicas de la tecnología.",
+                "Las implicancias (positivas y negativas) de la inteligencia artificial en la educación.",
+                "La biografía de los creadores de la IA."
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "Si un texto narra que 'Juan obtuvo una beca para estudiar un posgrado en Francia tras un riguroso concurso', y se te pide realizar una inferencia sobre las cualidades de Juan, ¿cuál sería una conclusión válida basada en los datos implícitos?",
+              "opciones": [
+                "Juan es una persona adinerada que pagó su ingreso.",
+                "Juan es un estudiante disciplinado, competitivo y con alto rendimiento académico.",
+                "Juan viajará a Francia de vacaciones.",
+                "Juan no sabe hablar francés."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "En una pregunta de extrapolación, se plantea: 'Si el gobierno no hubiera invertido en la reconstrucción de las zonas afectadas por el sismo, probablemente...'. ¿Qué característica fundamental debe tener la respuesta correcta para este tipo de pregunta?",
+              "opciones": [
+                "Debe ser una copia literal del texto.",
+                "Debe ser una proyección o hipótesis probable derivada de la lógica del texto.",
+                "Debe contradecir totalmente el tema del texto.",
+                "Debe ser una afirmación certera y absoluta."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Al analizar un gráfico sobre la preferencia de carreras universitarias, se observa que las universidades privadas tienen el triple de alumnos en 'Derecho' que las públicas. Si una opción dice 'Las universidades públicas no enseñan Derecho', ¿por qué esta afirmación es incorrecta basándose en la lectura de gráficos?",
+              "opciones": [
+                "Porque el gráfico muestra una barra pequeña para públicas, lo que indica que sí enseñan, aunque tengan menos alumnos.",
+                "Porque el gráfico no tiene colores.",
+                "Porque las universidades públicas son mejores.",
+                "Porque el texto no menciona a las públicas."
+              ],
+              "correcta": 0
+            },
+            {
+              "pregunta": "Si un texto describe a un personaje como un 'dechado de virtudes', y el estudiante desconoce el significado de 'dechado', ¿qué estrategia recomienda el profesor para deducir su significado?",
+              "opciones": [
+                "Ignorar la palabra y seguir leyendo.",
+                "Usar el contexto y el entorno lingüístico para interpretar que se refiere a un modelo o ejemplo.",
+                "Buscar en un diccionario físico durante el examen.",
+                "Marcar cualquier opción al azar."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "En un texto sobre la 'fuga de talentos', el autor critica que los científicos se vayan al extranjero. Si se te pide extrapolar una situación contraria: 'Si el Estado invirtiera más en ciencia y tecnología, entonces...', ¿cuál sería la consecuencia lógica?",
+              "opciones": [
+                "Los científicos seguirían yéndose por turismo.",
+                "Probablemente disminuiría la fuga de talentos y los científicos se quedarían a investigar en su país.",
+                "El Estado quebraría económicamente.",
+                "Nadie estudiaría carreras de ciencias."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Si la idea principal de un texto es 'La violencia contra la mujer ha incrementado alarmantemente en la última década', ¿por qué la opción 'El caso de María muestra la crueldad de su agresor' no puede ser la idea principal?",
+              "opciones": [
+                "Porque es una idea falsa.",
+                "Porque es un caso particular (idea secundaria) y no abarca la generalidad del texto.",
+                "Porque María no es un nombre real.",
+                "Porque el texto no tiene idea principal."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "En el texto sobre los refugiados, el Texto A argumenta que su llegada perjudica a los residentes locales. Si una pregunta te pide identificar una idea compatible con el Texto A, ¿cuál elegirías?",
+              "opciones": [
+                "Los refugiados siempre mejoran la economía del país receptor.",
+                "La llegada masiva de refugiados puede generar competencia laboral y afectar los salarios de los locales.",
+                "Los residentes locales disfrutan compartir su cultura con los refugiados.",
+                "Los refugiados no tienen intención de trabajar."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué nombre recibe el tipo de pregunta que busca un significado equivalente de una palabra según el entorno del texto?",
+              "opciones": [
+                "Sentido literal",
+                "Sentido contextual",
+                "Etimología",
+                "Definición de diccionario"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué es una idea incompatible en comprensión lectora?",
+              "opciones": [
+                "Una idea que resume el texto.",
+                "Una idea que niega, contradice o se aleja del contenido del texto.",
+                "Una idea que refuerza la tesis del autor.",
+                "Una idea que aparece al inicio del texto."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cuál es la diferencia principal entre idea principal e idea secundaria?",
+              "opciones": [
+                "La idea principal es detallada y la secundaria es general.",
+                "La idea principal es general y abarca todo el texto, mientras la secundaria detalla o ejemplifica.",
+                "No hay diferencia, son lo mismo.",
+                "La idea secundaria siempre va primero."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué es una inferencia en el contexto de la habilidad verbal?",
+              "opciones": [
+                "Copiar una frase del texto.",
+                "Extraer una conclusión implícita a partir de datos explícitos del texto.",
+                "Adivinar lo que el autor quiso decir.",
+                "Resumir el texto en una línea."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿En qué consiste la extrapolación?",
+              "opciones": [
+                "En traducir el texto a otro idioma.",
+                "En predecir consecuencias o formular hipótesis si se cambiaran las condiciones del texto.",
+                "En buscar errores ortográficos en el texto.",
+                "En memorizar los datos numéricos."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué característica define a un texto dialéctico?",
+              "opciones": [
+                "Solo tiene gráficos estadísticos.",
+                "Presenta dos posturas o autores que discuten o discrepan sobre un mismo tema.",
+                "Es un texto narrativo sobre un diálogo de amigos.",
+                "Es un texto que no tiene título."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué tipo de texto se introdujo en el examen de admisión de San Marcos desde 2017 que incluye imágenes o gráficos?",
+              "opciones": [
+                "Texto filosófico.",
+                "Texto discontinuo (o mixto).",
+                "Texto literario.",
+                "Texto en inglés."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué significa que una pregunta pida el 'tema central'?",
+              "opciones": [
+                "Pide el nombre del autor.",
+                "Pide el asunto o materia principal que aborda el texto de manera breve.",
+                "Pide la fecha de publicación.",
+                "Pide contar el número de párrafos."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué término suele usar San Marcos para referirse a la destreza cognitiva en sus exámenes?",
+              "opciones": [
+                "Memorismo",
+                "DECO",
+                "TOEFL",
+                "PISA"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué implica la 'compatibilidad' de una idea con el texto?",
+              "opciones": [
+                "Que la idea es idéntica a otra obra literaria.",
+                "Que la idea es coherente, se condice o se deduce válidamente del texto.",
+                "Que la idea es opuesta a lo que piensa el autor.",
+                "Que la idea es más larga que el texto original."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Lee el texto:<br>La biblioteca del barrio amplió de siete a catorce días el plazo para devolver las novelas. Los libros escolares mantienen el préstamo de siete días. La modificación empezará el próximo lunes.<br><br>¿Cuál es el tema central del texto?",
+              "opciones": [
+                "La compra de novelas para una biblioteca",
+                "Los horarios de atención de una biblioteca",
+                "Las sanciones por devolver libros tarde",
+                "El cambio en el plazo de préstamo de novelas",
+                "La clasificación de los libros escolares"
+              ],
+              "correcta": 3,
+              "resolucion": "El texto informa sobre la ampliación del plazo para devolver novelas. Los otros datos precisan el alcance y el inicio de ese cambio.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Lee el texto:<br>En el comedor comunal, los envases de sal y azúcar eran iguales y se confundían con frecuencia. Desde que cada uno tiene una etiqueta grande con su contenido, esas equivocaciones dejaron de ocurrir. Identificar claramente los recipientes permitió evitar los errores.<br><br>¿Qué enunciado expresa la idea principal?",
+              "opciones": [
+                "Los envases del comedor tenían el mismo tamaño y forma.",
+                "El comedor comunal dejó de utilizar azúcar en sus comidas.",
+                "Las etiquetas sirven principalmente para decorar los recipientes.",
+                "Los errores obligaron a comprar nuevos envases para el comedor.",
+                "Las etiquetas claras evitaron confundir la sal con el azúcar."
+              ],
+              "correcta": 4,
+              "resolucion": "La idea principal relaciona la medida aplicada con su resultado: las etiquetas permitieron distinguir los contenidos y evitar confusiones.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Lee el aviso:<br>El taller gratuito de reparación de bicicletas se realizará el sábado de 9 a 11 de la mañana. Pueden participar personas desde los quince años. Las herramientas se prestarán durante la sesión y cada asistente deberá llevar una bicicleta.<br><br>¿Qué afirmación es compatible con el aviso?",
+              "opciones": [
+                "Los asistentes podrán usar herramientas prestadas en el taller.",
+                "La sesión se desarrollará durante la tarde.",
+                "Se admitirá únicamente a mayores de dieciocho años.",
+                "Cada participante deberá comprar sus herramientas.",
+                "La inscripción incluye el obsequio de una bicicleta."
+              ],
+              "correcta": 0,
+              "resolucion": "El aviso señala expresamente que las herramientas se prestarán durante la sesión. Las demás alternativas contradicen sus condiciones.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Lee el texto:<br>Durante la reparación de la avenida Los Olivos, la ruta 6 circulará por la calle Las Flores. El desvío estará vigente solo de lunes a viernes. Los sábados y domingos, los buses mantendrán su recorrido habitual.<br><br>¿Qué afirmación es incompatible con el texto?",
+              "opciones": [
+                "La ruta 6 tendrá un desvío durante parte de la semana.",
+                "Los domingos, la ruta 6 circulará por la calle Las Flores.",
+                "La avenida Los Olivos estará en reparación.",
+                "Los sábados se conservará el recorrido habitual.",
+                "La calle Las Flores será parte del recorrido de lunes a viernes."
+              ],
+              "correcta": 1,
+              "resolucion": "El texto establece que los domingos se mantendrá el recorrido habitual, no el desvío por la calle Las Flores.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Lee el texto:<br>El horario de asesoría es flexible: cada estudiante puede elegir una de las tres horas disponibles y cambiarla con un día de anticipación.<br><br>¿Qué palabra puede reemplazar a «flexible» sin alterar su sentido contextual?",
+              "opciones": [
+                "Reducido",
+                "Impreciso",
+                "Adaptable",
+                "Obligatorio",
+                "Continuo"
+              ],
+              "correcta": 2,
+              "resolucion": "El horario es «adaptable» porque admite elecciones y cambios según las necesidades del estudiante; no significa que sea impreciso.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Lee el texto:<br>El comité publicó una lista provisional de participantes. Todavía recibirá solicitudes de corrección antes de cerrar la inscripción.<br><br>¿Cuál es el antónimo contextual de «provisional»?",
+              "opciones": [
+                "Incompleta",
+                "Pública",
+                "Ordenada",
+                "Definitiva",
+                "Reciente"
+              ],
+              "correcta": 3,
+              "resolucion": "«Provisional» indica que la lista aún puede cambiar. Su opuesto contextual es «definitiva», es decir, ya establecida y cerrada.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Lee el texto:<br>El archivo entrega credenciales de investigador únicamente a quienes han aprobado el curso de conservación. Esta mañana, Mariela recibió su credencial de investigadora.<br><br>¿Qué se puede inferir necesariamente?",
+              "opciones": [
+                "Mariela dictará el próximo curso de conservación.",
+                "Mariela trabaja todos los días en el archivo.",
+                "Mariela fue la primera persona en recibir una credencial.",
+                "Mariela estudió conservación durante varios años.",
+                "Mariela aprobó el curso de conservación."
+              ],
+              "correcta": 4,
+              "resolucion": "Aprobar el curso es una condición necesaria para recibir esa credencial. Como Mariela la recibió, se deduce que aprobó el curso.",
+              "nivel": 2
+            },
+            {
+              "pregunta": "Lee el texto:<br>El comité vecinal acordó atender primero los desperfectos que representen un peligro para las personas. Las mejoras que solo cambien la apariencia de los espacios se harán después.<br><br>Si aplicara el mismo criterio a un parque con un juego roto que puede causar caídas y una pared cuya pintura está desgastada, ¿qué decisión tomaría?",
+              "opciones": [
+                "Reparar el juego antes de renovar la pintura.",
+                "Pintar la pared antes de reparar el juego.",
+                "Destinar todo el presupuesto a decorar el parque.",
+                "Esperar que ambos desperfectos empeoren para intervenir.",
+                "Elegir el trabajo que permita inaugurar antes una mejora."
+              ],
+              "correcta": 0,
+              "resolucion": "La extrapolación aplica el criterio del texto a un caso nuevo: el juego supone un peligro, mientras que la pintura solo afecta la apariencia.",
+              "nivel": 2
+            },
+            {
+              "pregunta": "Lee el mensaje:<br>¿Tienes cuentos infantiles en buen estado que ya no lees? Dónalos al rincón de lectura del barrio. Así, más niñas y niños podrán disfrutarlos. Te esperamos este sábado en el local comunal.<br><br>¿Cuál es la intención principal del mensaje?",
+              "opciones": [
+                "Explicar cómo se fabrican los cuentos infantiles.",
+                "Animar a los vecinos a donar cuentos infantiles.",
+                "Relatar la historia del local comunal.",
+                "Informar sobre la venta de libros usados.",
+                "Describir los hábitos lectores de todos los vecinos."
+              ],
+              "correcta": 1,
+              "resolucion": "El mensaje invita directamente a donar cuentos y presenta un beneficio para motivar esa acción.",
+              "nivel": 1
+            }
+          ]
+        },
+        {
+          "titulo": "1.4 Relaciones semánticas en 5 minutos",
+          "youtube_id": "3ibL4xZWxDo",
+          "pdf_link": "https://drive.google.com/file/d/1qXqbHL4wBPwHBEgMkYy3WbV4HAii2kzo/view",
+          "gratis": true,
+          "preguntas": [
+            {
+              "pregunta": "Si un comediante dice 'El burro de Juan murió' y el público se ríe porque no sabe si se refiere a la mascota o está insultando a Juan, ¿qué fenómeno semántico está ocurriendo según el video?",
+              "opciones": [
+                "Polisemia",
+                "Ambigüedad (o anfibología)",
+                "Sinonimia",
+                "Antonimia recíproca"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "En la frase 'La hoja del árbol cayó sobre la hoja de papel', ambas palabras 'hoja' comparten un rasgo común (delgadez/lámina). Según el video, ¿qué relación semántica existe cuando una misma palabra tiene múltiples significados relacionados por su origen o características?",
+              "opciones": [
+                "Homonimia",
+                "Paronimia",
+                "Polisemia",
+                "Antonimia"
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "Si comparamos las palabras 'vino' (bebida) y 'vino' (del verbo venir), y notamos que no tienen ningún rasgo en común ni origen compartido, ¿ante qué fenómeno semántico nos encontramos?",
+              "opciones": [
+                "Homonimia",
+                "Polisemia",
+                "Paronimia",
+                "Sinonimia"
+              ],
+              "correcta": 0
+            },
+            {
+              "pregunta": "En las palabras 'hierba' (planta, sustantivo) y 'hierva' (verbo hervir), además de la diferencia ortográfica (b/v), pertenecen a categorías gramaticales diferentes. ¿Qué tipo específico de homonimia es esta?",
+              "opciones": [
+                "Homonimia Absoluta",
+                "Homonimia Parcial",
+                "Homonimia Paradigmática",
+                "Homonimia Recíproca"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Si decimos 'Anteayer jugamos' (pasado) y 'Ahora jugamos' (presente), el verbo 'jugamos' se escribe y pronuncia igual pero varía en su accidente gramatical de tiempo. ¿Cómo clasifica el video a este tipo de homonimia?",
+              "opciones": [
+                "Homonimia Paradigmática",
+                "Homonimia Absoluta",
+                "Polisemia verbal",
+                "Paronimia"
+              ],
+              "correcta": 0
+            },
+            {
+              "pregunta": "Dos estudiantes discuten sobre las palabras 'inicuó' (malvado) e 'inocuo' (que no hace daño). Al notar que su escritura y pronunciación son parecidas pero no idénticas, y sus significados son diferentes, ¿qué relación semántica identifican?",
+              "opciones": [
+                "Homonimia",
+                "Paronimia",
+                "Sinonimia",
+                "Ambigüedad"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "En la relación entre 'comprador' y 'vendedor', la existencia de uno depende necesariamente de la existencia del otro. ¿Qué tipo de antonimia se ejemplifica aquí?",
+              "opciones": [
+                "Antonimia Gramatical",
+                "Antonimia Propia",
+                "Antonimia Complementaria",
+                "Antonimia Recíproca"
+              ],
+              "correcta": 3
+            },
+            {
+              "pregunta": "Si analizamos los términos 'vivo' y 'muerto', donde afirmar uno implica negar la posibilidad del otro (no se puede estar vivo y muerto a la vez), ¿qué clase de antonimia es?",
+              "opciones": [
+                "Antonimia Complementaria",
+                "Antonimia Recíproca",
+                "Antonimia Gradual",
+                "Antonimia Gramatical"
+              ],
+              "correcta": 0
+            },
+            {
+              "pregunta": "Al decir que 'manzana' es un tipo de 'fruta', y 'plátano' también es un tipo de 'fruta', ¿qué relación de inclusión existe entre 'manzana' y 'plátano' al pertenecer al mismo género?",
+              "opciones": [
+                "Hiperonimia",
+                "Hiponimia",
+                "Cohiponimia",
+                "Sinonimia"
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "Si alguien dice 'Hace frío', y luego 'Hace calor', reconociendo que existe un punto medio como 'tibio', ¿qué tipo de antonimia admite grados de intensidad?",
+              "opciones": [
+                "Antonimia Propia (o Gradual)",
+                "Antonimia Complementaria",
+                "Antonimia Recíproca",
+                "Antonimia Gramatical"
+              ],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué relación semántica se produce cuando dos palabras tienen igual escritura y pronunciación pero significados diferentes sin origen común?",
+              "opciones": [
+                "Polisemia",
+                "Homonimia",
+                "Paronimia",
+                "Sinonimia"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cómo se llaman las palabras homónimas que tienen igual escritura?",
+              "opciones": [
+                "Homófonas",
+                "Homógrafas",
+                "Parónimas",
+                "Antónimas"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué tipo de homonimia se da cuando las palabras pertenecen a la misma categoría gramatical (ej. 'lima' fruta y 'lima' ciudad, ambos sustantivos)?",
+              "opciones": [
+                "Homonimia Parcial",
+                "Homonimia Absoluta",
+                "Homonimia Paradigmática",
+                "Homonimia Relativa"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué tipo de antonimia se forma agregando un prefijo a la palabra (ej. normal - anormal)?",
+              "opciones": [
+                "Antonimia Recíproca",
+                "Antonimia Propia",
+                "Antonimia Gramatical",
+                "Antonimia Complementaria"
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Cuál es la relación semántica donde una palabra incluye el significado de otras por ser el género o clase mayor (ej. 'fruta' respecto a 'manzana')?",
+              "opciones": [
+                "Hiponimia",
+                "Hiperonimia",
+                "Cohiponimia",
+                "Polisemia"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cómo se llaman las palabras que tienen igual pronunciación pero diferente escritura (ej. 'bota' y 'vota')?",
+              "opciones": [
+                "Homógrafas",
+                "Homófonas",
+                "Parónimas",
+                "Sinónimas"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué relación semántica se da cuando una palabra está contenida dentro de otra de mayor amplitud (ej. 'manzana' es un ______ de 'fruta')?",
+              "opciones": [
+                "Hiperónimo",
+                "Hipónimo",
+                "Antónimo",
+                "Parónimo"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué relación semántica existe entre 'flaco' y 'enjuto' según el video?",
+              "opciones": [
+                "Antonimia",
+                "Homonimia",
+                "Sinonimia",
+                "Paronimia"
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Cuál es la diferencia principal entre paronimia y homonimia?",
+              "opciones": [
+                "En la paronimia la escritura y pronunciación son parecidas pero no idénticas; en la homonimia coinciden.",
+                "En la paronimia los significados son iguales.",
+                "La homonimia solo se da en verbos.",
+                "No hay diferencia, son lo mismo."
+              ],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué ejemplo utiliza el video para explicar la polisemia (una palabra con varios significados relacionados)?",
+              "opciones": [
+                "Vino (bebida) y Vino (venir)",
+                "Cola (de animal) y Cola (de cabello / pegamento)",
+                "Aro (anillo) y Aro (arar)",
+                "Inicuo e Inocuo"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "En «La explicación fue breve: duró apenas un minuto», ¿qué palabra puede reemplazar a «breve» sin cambiar el sentido?",
+              "opciones": [
+                "Confusa",
+                "Incompleta",
+                "Corta",
+                "Sencilla",
+                "Apresurada"
+              ],
+              "correcta": 2,
+              "resolucion": "«Breve» y «corta» indican poca duración en este contexto. Una explicación breve no es necesariamente incompleta ni apresurada.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Lee: «El pasadizo era ancho y permitía que varias personas caminaran una al lado de otra». ¿Cuál es el antónimo contextual de «ancho»?",
+              "opciones": [
+                "Largo",
+                "Oscuro",
+                "Despejado",
+                "Estrecho",
+                "Recto"
+              ],
+              "correcta": 3,
+              "resolucion": "«Ancho» expresa una gran anchura; «estrecho» indica poca anchura. Las demás palabras describen características distintas.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Rosa le presta una calculadora a Diego y él la recibe prestada. Las acciones de «prestar» y «recibir prestado» se corresponden dentro del mismo intercambio. ¿Qué relación presentan?",
+              "opciones": [
+                "Sinonimia contextual",
+                "Antonimia gradual",
+                "Polisemia",
+                "Paronimia",
+                "Antonimia recíproca"
+              ],
+              "correcta": 4,
+              "resolucion": "Son acciones recíprocas: en ese préstamo, la acción de quien presta corresponde a la de quien recibe prestado.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Un registro solo admite dos estados para cada participante: «presente» o «ausente». No permite estados intermedios. ¿Qué relación existe entre esas palabras dentro del registro?",
+              "opciones": [
+                "Antonimia complementaria",
+                "Antonimia gradual",
+                "Antonimia recíproca",
+                "Sinonimia",
+                "Homonimia"
+              ],
+              "correcta": 0,
+              "resolucion": "Son términos complementarios porque, en el sistema descrito, estar presente excluye estar ausente y ambas posibilidades abarcan todos los casos.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "En «Se lastimó el brazo» y «Se rompió el brazo del sillón», la palabra «brazo» designa una parte del cuerpo y una pieza del mueble cuya forma y función de apoyo se relacionan con ella. ¿Qué fenómeno se presenta?",
+              "opciones": [
+                "Sinonimia",
+                "Polisemia",
+                "Paronimia",
+                "Antonimia",
+                "Cohiponimia"
+              ],
+              "correcta": 1,
+              "resolucion": "Hay polisemia porque una misma palabra tiene distintos sentidos relacionados: la parte del cuerpo y la pieza del sillón.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "En «El tubo se rompió» y «Ella tuvo que repararlo», «tubo» y «tuvo» se pronuncian igual, pero se escriben de manera distinta y tienen significados diferentes. ¿Cómo se clasifican?",
+              "opciones": [
+                "Palabras sinónimas",
+                "Palabras antónimas",
+                "Palabras homófonas",
+                "Palabras parónimas",
+                "Palabras cohipónimas"
+              ],
+              "correcta": 2,
+              "resolucion": "Son homófonas porque coinciden en la pronunciación, aunque difieren en la escritura y el significado.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Una entrenadora distingue la «aptitud» de una jugadora, es decir, su capacidad para jugar, de su «actitud», entendida como su disposición ante el entrenamiento. Por su forma parecida y sus significados diferentes, estas palabras son:",
+              "opciones": [
+                "Sinónimas",
+                "Antónimas",
+                "Homógrafas",
+                "Parónimas",
+                "Homófonas"
+              ],
+              "correcta": 3,
+              "resolucion": "«Aptitud» y «actitud» son parónimas: se parecen en su escritura y pronunciación, pero no son idénticas y expresan conceptos distintos.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Una tienda quiere colocar un rótulo que nombre la categoría general a la que pertenecen sus mesas, sillas y roperos. ¿Qué hiperónimo debe usar?",
+              "opciones": [
+                "Asientos",
+                "Adornos",
+                "Recipientes",
+                "Herramientas",
+                "Muebles"
+              ],
+              "correcta": 4,
+              "resolucion": "«Muebles» incluye a mesas, sillas y roperos. Un hiperónimo nombra una categoría más general que los elementos incluidos en ella.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Un catálogo clasifica el violín y la guitarra como instrumentos de cuerda. ¿Qué relación mantienen «violín» y «guitarra» entre sí por pertenecer a esa misma categoría?",
+              "opciones": [
+                "Cohiponimia",
+                "Sinonimia",
+                "Homonimia",
+                "Antonimia",
+                "Paronimia"
+              ],
+              "correcta": 0,
+              "resolucion": "Son cohipónimos porque ambos son tipos distintos de una misma categoría: instrumentos de cuerda.",
+              "nivel": 2
+            }
+          ]
+        },
+        {
+          "titulo": "1.5 Sinonimia y antonimia contextual",
+          "youtube_id": "4uxZeaefdGg",
+          "pdf_link": "https://drive.google.com/file/d/1nqJliXhbUg6ZMooSyfGNzVypmB5d3RFQ/view",
+          "gratis": true,
+          "preguntas": [
+            {
+              "pregunta": "En un examen de admisión de la UNI, el tema de antonimia contextual ha cobrado gran relevancia. Si un postulante desea tener éxito en esta sección, ¿qué hábito diario recomienda específicamente el profesor en el video para mejorar su vocabulario?",
+              "opciones": [
+                "Leer un libro completo cada semana.",
+                "Aprender tres palabras nuevas al día (mañana, tarde y noche).",
+                "Memorizar todo el diccionario de la RAE.",
+                "Resolver crucigramas solo los fines de semana."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Para determinar el sinónimo correcto de una palabra, es fundamental identificar su 'clase formal' o categoría gramatical. Si buscamos un sinónimo para el adjetivo 'flaco', ¿por qué la palabra 'flaqueza' sería una respuesta incorrecta a pesar de tener una raíz similar?",
+              "opciones": [
+                "Porque 'flaqueza' es un verbo y no coincide en categoría.",
+                "Porque 'flaqueza' es un sustantivo y el sinónimo debe ser también un adjetivo.",
+                "Porque 'flaqueza' significa fuerza y es un antónimo.",
+                "Porque 'flaqueza' es una palabra en otro idioma."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "En el contexto de la sinonimia contextual, se plantea la oración: 'Se mantuvo frío ante la acusación'. Si reemplazamos 'frío' por 'helado', la oración pierde su sentido lógico. ¿Cuál sería el término más adecuado para sustituir 'frío' manteniendo la coherencia del texto según el ejemplo del video?",
+              "opciones": [
+                "Congelado",
+                "Indiferente o sereno",
+                "Enfermo",
+                "Alegre"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "La antonimia por contrariedad implica una gradación entre dos polos opuestos. Si tenemos los términos 'óptimo' y 'pésimo', ¿qué palabra representaría un grado intermedio inferior a 'óptimo' pero superior a 'malo' según la explicación del profesor?",
+              "opciones": [
+                "Bueno",
+                "Excelente",
+                "Terrible",
+                "Infinito"
+              ],
+              "correcta": 0
+            },
+            {
+              "pregunta": "En la antonimia complementaria, la afirmación de un término implica necesariamente la negación del otro. Si afirmamos que un ser orgánico está 'vivo', ¿qué condición queda automáticamente descartada?",
+              "opciones": [
+                "Que esté durmiendo.",
+                "Que esté muerto.",
+                "Que esté enfermo.",
+                "Que sea joven."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "La antonimia recíproca describe una relación donde la existencia de un término supone la del otro. Si en una transacción comercial alguien está 'comprando', ¿qué otra acción debe estar ocurriendo simultáneamente para que el concepto tenga sentido?",
+              "opciones": [
+                "Alguien debe estar robando.",
+                "Alguien debe estar vendiendo.",
+                "Alguien debe estar regalando.",
+                "Alguien debe estar fabricando."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "El profesor menciona que los ejercicios de antonimia contextual pueden presentarse 'sin rastro verbal'. En la oración 'Juan Carlos se presentó orondo a la reunión', si el estudiante no conoce el significado de 'orondo', ¿por qué le resultará difícil o imposible resolver el ejercicio?",
+              "opciones": [
+                "Porque la oración es demasiado larga.",
+                "Porque no hay otras palabras en el contexto que den pistas sobre el significado de 'orondo'.",
+                "Porque 'orondo' es una palabra inventada.",
+                "Porque el nombre Juan Carlos distrae la atención."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "En un ejercicio con rastro verbal: 'Los operarios construyeron un edificio', la palabra 'operarios' y 'edificio' ayudan a deducir el sentido de 'construyeron'. Si se pide el antónimo contextual, ¿cuál sería la opción lógica que implica la acción opuesta a edificar una estructura?",
+              "opciones": [
+                "Diseñaron",
+                "Derruyeron (o destruyeron)",
+                "Pintaron",
+                "Limpiaron"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Si un amigo intenta convencerte de no realizar un viaje peligroso y logra que cambies de opinión, ¿qué acción contraria a 'persuadir' (en el sentido de animar a hacer algo) ha realizado según el ejemplo del video?",
+              "opciones": [
+                "Te ha disuadido.",
+                "Te ha alentado.",
+                "Te ha felicitado.",
+                "Te ha ignorado."
+              ],
+              "correcta": 0
+            },
+            {
+              "pregunta": "Al resolver una pregunta de antonimia tradicional para la palabra 'persuadir', el profesor descarta opciones como 'rechazar' o 'atemorizar'. ¿Por qué 'disuadir' es la respuesta correcta en este caso?",
+              "opciones": [
+                "Porque ambas palabras empiezan con consonante.",
+                "Porque disuadir significa específicamente convencer a alguien para que desista o deje de hacer algo.",
+                "Porque atemorizar es un sinónimo de persuadir.",
+                "Porque rechazar no es un verbo."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué tema aborda el video principalmente según la presentación inicial?",
+              "opciones": [
+                "Matemática pura",
+                "Antonimia contextual y sinonimia",
+                "Historia del Perú",
+                "Geometría del espacio"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cuántas preguntas de antonimia contextual suelen venir en el examen de admisión de la UNI según el video?",
+              "opciones": [
+                "10 preguntas",
+                "4 preguntas",
+                "1 pregunta",
+                "20 preguntas"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué nombre recibe actualmente la 'categoría gramatical' según la explicación del profesor?",
+              "opciones": [
+                "Clase formal",
+                "Grupo sintáctico",
+                "Nivel morfológico",
+                "Estructura verbal"
+              ],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué abreviatura aparece en el diccionario para la palabra 'flaqueza'?",
+              "opciones": [
+                "adj. (adjetivo)",
+                "s.f. (sustantivo femenino)",
+                "v. (verbo)",
+                "adv. (adverbio)"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cuál es el sinónimo conceptual de 'morir' mencionado en el video?",
+              "opciones": [
+                "Vivir",
+                "Fallecer",
+                "Dormir",
+                "Enfermar"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué palabra usa el profesor como ejemplo de antónimo recíproco de 'dar'?",
+              "opciones": [
+                "Quitar",
+                "Recibir",
+                "Guardar",
+                "Vender"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué significa la palabra 'orondo' en el contexto de una persona arrogante?",
+              "opciones": [
+                "Gordo o lleno",
+                "Presumido, soberbio o petulante",
+                "Amable y cariñoso",
+                "Triste y melancólico"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cuál es el antónimo contextual de 'orondo' (soberbio) según el ejercicio de la UNI 2016?",
+              "opciones": [
+                "Humilde",
+                "Tranquilo",
+                "Cauto",
+                "Severo"
+              ],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué relación semántica existe entre 'alto' y 'bajo'?",
+              "opciones": [
+                "Antonimia por contrariedad",
+                "Antonimia complementaria",
+                "Antonimia recíproca",
+                "Sinonimia absoluta"
+              ],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué tipo de sinonimia se basa en el reemplazo de términos en un texto sin alterar el sentido?",
+              "opciones": [
+                "Sinonimia conceptual",
+                "Sinonimia contextual",
+                "Sinonimia relativa",
+                "Sinonimia eufemística"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "En la oración «La lámpara emitía una luz <b>tenue</b> que apenas permitía distinguir los muebles», ¿qué palabra reemplaza mejor a la destacada?",
+              "opciones": [
+                "Cálida",
+                "Débil",
+                "Constante",
+                "Blanca",
+                "Brillante"
+              ],
+              "correcta": 1,
+              "resolucion": "La luz apenas permite distinguir los muebles, por lo que tiene poca intensidad. En este contexto, «tenue» equivale a «débil».",
+              "nivel": 1
+            },
+            {
+              "pregunta": "«El taller tiene un horario <b>rígido</b>: no permite cambiar la hora de ingreso». ¿Cuál es el antónimo contextual de la palabra destacada?",
+              "opciones": [
+                "Extenso",
+                "Continuo",
+                "Flexible",
+                "Nocturno",
+                "Puntual"
+              ],
+              "correcta": 2,
+              "resolucion": "«Rígido» describe un horario que no admite cambios. Su opuesto es «flexible», que sí permite ajustes.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "«La municipalidad <b>postergó</b> la feria del lunes al viernes de esa misma semana». Sin cambiar el sentido de la oración, ¿por qué término se puede sustituir la palabra destacada?",
+              "opciones": [
+                "Canceló",
+                "Adelantó",
+                "Inauguró",
+                "Aplazó",
+                "Organizó"
+              ],
+              "correcta": 3,
+              "resolucion": "La feria se trasladó a una fecha posterior, pero no se canceló. Por ello, «postergó» puede reemplazarse por «aplazó».",
+              "nivel": 1
+            },
+            {
+              "pregunta": "En «La cosecha de este año fue <b>escasa</b>: solo llenamos dos sacos cuando esperábamos veinte», ¿qué palabra expresa el sentido contrario de la destacada?",
+              "opciones": [
+                "Temprana",
+                "Costosa",
+                "Tardía",
+                "Variada",
+                "Abundante"
+              ],
+              "correcta": 4,
+              "resolucion": "«Escasa» indica una cantidad pequeña. El término contrario es «abundante», que expresa una cantidad grande.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "«Diego fue <b>franco</b> con su compañera: le dijo con sinceridad que el informe necesitaba correcciones». ¿Qué adjetivo conserva el significado de «franco»?",
+              "opciones": [
+                "Sincero",
+                "Severo",
+                "Amable",
+                "Reservado",
+                "Optimista"
+              ],
+              "correcta": 0,
+              "resolucion": "El contexto destaca que Diego expresó lo que pensaba sin ocultarlo. En ese sentido, «franco» significa «sincero».",
+              "nivel": 1
+            },
+            {
+              "pregunta": "«La familia se instaló en una vivienda <b>provisional</b>, donde permanecería solo hasta terminar la reparación de su casa». ¿Cuál es el antónimo de «provisional» en este contexto?",
+              "opciones": [
+                "Espaciosa",
+                "Definitiva",
+                "Cercana",
+                "Compartida",
+                "Económica"
+              ],
+              "correcta": 1,
+              "resolucion": "La vivienda es «provisional» porque se usará temporalmente. Una vivienda «definitiva» sería la destinada a permanecer como residencia.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "«El auditorio estaba <b>colmado</b>: todas las butacas se encontraban ocupadas». ¿Qué término sustituye adecuadamente a la palabra destacada?",
+              "opciones": [
+                "Cerrado",
+                "Decorado",
+                "Lleno",
+                "Iluminado",
+                "Ordenado"
+              ],
+              "correcta": 2,
+              "resolucion": "La ocupación de todas las butacas indica que el auditorio estaba lleno. Ese es el significado de «colmado» en la oración.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "«La nueva cortina <b>atenuó</b> la luz que entraba al dormitorio, de modo que el ambiente quedó menos iluminado». ¿Qué verbo expresa la acción contraria a la destacada?",
+              "opciones": [
+                "Filtró",
+                "Bloqueó",
+                "Redujo",
+                "Intensificó",
+                "Desvió"
+              ],
+              "correcta": 3,
+              "resolucion": "«Atenuó» significa que disminuyó la intensidad de la luz. La acción contraria es «intensificó», es decir, aumentó su intensidad.",
+              "nivel": 2
+            }
+          ]
+        },
+        {
+          "titulo": "1.6 Tipos de Inferencia",
+          "youtube_id": "l6OOq_PwLpA",
+          "pdf_link": "https://drive.google.com/file/d/1PJFZNs6uuYOJAW-BRlPGKxId__dfJYmM/view",
+          "gratis": true,
+          "preguntas": [
+            {
+              "pregunta": "La inferencia se define como llegar a una conclusión en base a la información que tenemos. Si observamos que Juanito se distrae en clase y no hace las tareas, ¿cuál es la inferencia lógica sobre su rendimiento académico a fin de año, según el ejemplo del video?",
+              "opciones": [
+                "Juanito será el mejor alumno de la clase.",
+                "Es posible que Juanito repita el año o desapruebe.",
+                "Juanito ganará una beca para estudiar en el extranjero.",
+                "Juanito se convertirá en profesor de matemáticas."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Si paseando por la calle observamos un árbol sin hojas y con las hojas caídas en el suelo, ¿qué inferencia podemos hacer sobre la estación del año en la que nos encontramos?",
+              "opciones": [
+                "Estamos en verano.",
+                "Estamos en invierno.",
+                "Estamos en otoño.",
+                "Estamos en primavera."
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "Al observar la luna y determinar su fase, podemos inferir el momento del día. Según el video, si la luna es visible claramente, ¿en qué momento del día nos encontramos probablemente?",
+              "opciones": [
+                "De día (mañana o tarde).",
+                "De noche.",
+                "Al mediodía exacto.",
+                "Durante un eclipse solar."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "En el video se menciona el consumo de café, zumo de naranja y tostadas. Si bien se pueden consumir en cualquier momento, ¿cuál es la inferencia típica sobre el momento del día en que se ingieren estos alimentos?",
+              "opciones": [
+                "En el almuerzo.",
+                "En la cena.",
+                "En el desayuno (por la mañana).",
+                "En la madrugada antes de dormir."
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "La inducción es un tipo de inferencia que parte de datos particulares para llegar a una conclusión general. Si observamos que el águila (ave) y el loro (ave) se aparean en primavera, ¿cuál sería la conclusión inductiva general sobre todas las aves?",
+              "opciones": [
+                "Solo el águila y el loro se aparean en primavera.",
+                "Ninguna ave se aparea en primavera.",
+                "Probablemente todas las aves se aparean en primavera.",
+                "Las aves prefieren el invierno para aparearse."
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "Si sabemos que Laura es alumna de tercer año y tiene buenas notas, y Roberto también es alumno de tercer año y tiene buenas notas, ¿qué conclusión general inductiva podríamos formular sobre los alumnos de tercer año?",
+              "opciones": [
+                "Los alumnos de tercer año tienen malas notas.",
+                "Solo Laura y Roberto son inteligentes.",
+                "Los alumnos de tercer año tienen (o tendrán) buenas notas.",
+                "El tercer año es el más difícil de todos."
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "La deducción es el proceso inverso a la inducción. Si partimos de la premisa general 'Todas las aves se aparean en primavera' y sabemos que el pato es un ave, ¿cuál es la conclusión deductiva particular?",
+              "opciones": [
+                "El pato se aparea en invierno.",
+                "El pato no es un ave.",
+                "El pato se aparea en primavera.",
+                "Todas las aves son patos."
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "En el ejemplo de deducción sobre la cuarentena, si la premisa general es 'Los vecinos de Comas respetan la cuarentena' y la premisa particular es 'Laura vive en Comas', ¿qué se concluye sobre Laura?",
+              "opciones": [
+                "Laura no respeta la cuarentena.",
+                "Laura respeta la cuarentena.",
+                "Laura se mudará de Comas.",
+                "Laura no es vecina de Comas."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Analizando el silogismo: 'Todos los hombres son mortales' (general) y 'Juan es un hombre' (particular). ¿Qué tipo de inferencia se utiliza para concluir que 'Juan es mortal'?",
+              "opciones": [
+                "Inducción.",
+                "Deducción.",
+                "Abducción.",
+                "Analogía."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Si observamos casos particulares como 'El tigre es un felino y tiene cuatro patas' y 'El león es un felino y tiene cuatro patas', y concluimos que 'Todos los felinos tienen cuatro patas', ¿qué proceso de razonamiento hemos aplicado?",
+              "opciones": [
+                "Deducción.",
+                "Inducción.",
+                "Inferencia estadística.",
+                "Razonamiento circular."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué es inferir según la definición básica del video?",
+              "opciones": [
+                "Copiar información de un texto.",
+                "Llegar a una conclusión en base a la información que tenemos.",
+                "Adivinar el futuro sin datos.",
+                "Memorizar datos específicos."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cuáles son los dos tipos de inferencia principales mencionados en el video?",
+              "opciones": [
+                "Análisis y Síntesis.",
+                "Inducción y Deducción.",
+                "Teoría y Práctica.",
+                "Observación y Experimentación."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿En qué consiste la inducción?",
+              "opciones": [
+                "Ir de una conclusión general a datos particulares.",
+                "A partir de datos particulares llegar a una conclusión general.",
+                "Repetir la misma información dos veces.",
+                "No llegar a ninguna conclusión."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿En qué consiste la deducción?",
+              "opciones": [
+                "A partir de una información general llegar a datos o conclusiones particulares.",
+                "Ir de datos particulares a una conclusión general.",
+                "Inventar información nueva.",
+                "Generalizar a partir de un solo caso."
+              ],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué ejemplo de animal se usó para explicar la inducción junto con el águila?",
+              "opciones": [
+                "El perro.",
+                "El gato.",
+                "El loro.",
+                "El pez."
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Qué estación del año se usó en el ejemplo del árbol sin hojas?",
+              "opciones": [
+                "Verano",
+                "Invierno",
+                "Otoño",
+                "Primavera"
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Qué alimentos conformaban el desayuno típico mencionado en el video?",
+              "opciones": [
+                "Leche, cereal y fruta.",
+                "Café, zumo de naranja y tostadas.",
+                "Pan con chicharrón.",
+                "Arroz con pollo."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿En qué distrito vivía Laura en el ejemplo de deducción sobre la cuarentena?",
+              "opciones": [
+                "Miraflores",
+                "Lima",
+                "Comas",
+                "Callao"
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Qué característica común tenían el tigre y el león en el último ejemplo de inducción?",
+              "opciones": [
+                "Que comen carne.",
+                "Que viven en la selva.",
+                "Que tienen cuatro patas.",
+                "Que son animales domésticos."
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Cuál es la premisa general en el ejemplo clásico de deducción sobre la mortalidad?",
+              "opciones": [
+                "Juan es mortal.",
+                "Algunos hombres son mortales.",
+                "Todos los hombres son mortales.",
+                "Nadie es mortal."
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "En un almacén, todos los paquetes con etiqueta naranja deben colocarse en una zona refrigerada. El paquete de Lucía tiene esa etiqueta. ¿Qué se concluye mediante una deducción?",
+              "opciones": [
+                "El paquete de Lucía contiene frutas.",
+                "El paquete de Lucía llegó esta mañana.",
+                "El paquete de Lucía es el más pesado del almacén.",
+                "El paquete de Lucía será recogido mañana.",
+                "El paquete de Lucía debe colocarse en una zona refrigerada."
+              ],
+              "correcta": 4,
+              "resolucion": "La regla se aplica a todos los paquetes con etiqueta naranja. Como el de Lucía pertenece a ese grupo, debe colocarse en la zona refrigerada.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Durante seis mañanas consecutivas, un vecino observó que la combi de una ruta llegó al paradero después de las siete. No tiene registros de otros días. ¿Qué conclusión inductiva está mejor formulada?",
+              "opciones": [
+                "La combi probablemente suele llegar a ese paradero después de las siete.",
+                "La combi llegará después de las siete todos los días del año.",
+                "La combi también llega tarde a todos los demás paraderos.",
+                "La combi cambia de conductor cada mañana.",
+                "La combi llega después de las siete porque sale de otro distrito."
+              ],
+              "correcta": 0,
+              "resolucion": "Los casos observados permiten proponer una tendencia probable, pero no asegurar lo que ocurre siempre ni explicar su causa.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Una academia establece que todos sus talleres de los sábados son gratuitos. El taller de redacción pertenece a ese grupo. Mariana concluye que no tendrá que pagar por ese taller. ¿Qué procedimiento empleó?",
+              "opciones": [
+                "Generalizó una característica a partir de algunos talleres observados.",
+                "Aplicó una regla general a un caso incluido en ella.",
+                "Propuso una causa probable para explicar la gratuidad del taller.",
+                "Predijo un cambio en los precios a partir de registros anteriores.",
+                "Atribuyó al taller una propiedad de otro taller parecido."
+              ],
+              "correcta": 1,
+              "resolucion": "Mariana realizó una deducción: partió de una regla para todos los talleres sabatinos y la aplicó a uno de ellos.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "En una sala de lectura, solo pueden ingresar las personas inscritas. El control se cumple sin excepciones y Ana ingresó a la sala. ¿Qué se deduce necesariamente?",
+              "opciones": [
+                "Ana asiste diariamente a la sala.",
+                "Ana trabaja en la sala.",
+                "Ana está inscrita.",
+                "Ana fue la primera persona en ingresar.",
+                "Ana se inscribió por internet."
+              ],
+              "correcta": 2,
+              "resolucion": "Estar inscrito es una condición necesaria para ingresar. Si Ana ingresó y el control no admite excepciones, está inscrita.",
+              "nivel": 2
+            },
+            {
+              "pregunta": "Una librera eligió al azar doce cuadernos de un lote de doscientos y comprobó que todos tenían las hojas bien sujetas. ¿Cuál es una inferencia inductiva razonable?",
+              "opciones": [
+                "Los doscientos cuadernos fueron revisados individualmente.",
+                "Los cuadernos de ese lote tienen más hojas que los de otros lotes.",
+                "Ningún cuaderno de la librería presenta defectos.",
+                "Es probable que los cuadernos del lote tengan las hojas bien sujetas.",
+                "Los cuadernos que faltan revisar tienen las hojas sueltas."
+              ],
+              "correcta": 3,
+              "resolucion": "Se proyecta a un conjunto una característica encontrada en una muestra. La conclusión es probable, no una garantía sobre cada cuaderno.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Una tienda indica que toda compra realizada por su aplicativo genera inmediatamente una constancia digital, sin excepciones. La compra de Pedro no generó esa constancia. ¿Qué conclusión se sigue de esos datos?",
+              "opciones": [
+                "Pedro pagó necesariamente con dinero en efectivo.",
+                "Pedro compró un producto en oferta.",
+                "Pedro recibió una constancia impresa.",
+                "Pedro realizó la compra desde otra ciudad.",
+                "Pedro no realizó esa compra por el aplicativo."
+              ],
+              "correcta": 4,
+              "resolucion": "Si la compra hubiera sido realizada por el aplicativo, habría generado la constancia. Al no generarla, se deduce que no se hizo por ese medio.",
+              "nivel": 2
+            },
+            {
+              "pregunta": "Lee los razonamientos.<br>I. Todos los pedidos pagados reciben un código. El pedido de Eva está pagado; por tanto, recibe un código.<br>II. Los últimos ocho pedidos llegaron en buen estado; por ello, probablemente los pedidos de esta tienda suelen llegar en buen estado.<br>¿Cómo se clasifican, respectivamente?",
+              "opciones": [
+                "El primero es deductivo y el segundo es inductivo.",
+                "Ambos son deductivos: sus conclusiones son necesarias.",
+                "Ambos son inductivos: generalizan casos observados.",
+                "El primero es inductivo y el segundo es deductivo.",
+                "Ninguno es inferencial: ambos solo enumeran datos."
+              ],
+              "correcta": 0,
+              "resolucion": "El primero aplica una regla general a un caso. El segundo propone una tendencia general probable a partir de varios casos particulares.",
+              "nivel": 2
+            },
+            {
+              "pregunta": "Después de consultar a diez usuarios, un encargado afirmó: «Todos los usuarios de este gimnasio prefieren entrenar por la mañana». Luego, una usuaria del mismo gimnasio declaró que prefiere entrenar por la tarde. ¿Qué conclusión corresponde?",
+              "opciones": [
+                "Todos los usuarios prefieren ahora entrenar por la tarde.",
+                "La afirmación sobre todos los usuarios queda refutada por ese caso.",
+                "Los diez usuarios consultados inicialmente cambiaron de preferencia.",
+                "La mayoría de los usuarios prefiere entrenar por la tarde.",
+                "Las preferencias de los usuarios dependen del precio del gimnasio."
+              ],
+              "correcta": 1,
+              "resolucion": "Una afirmación universal queda refutada si aparece un caso que no la cumple. La nueva declaración no permite establecer qué prefiere la mayoría.",
+              "nivel": 2
+            }
+          ]
+        },
+        {
+          "titulo": "1.7 La extrapolación",
+          "youtube_id": "TNBTdLVgrw8",
+          "pdf_link": "https://drive.google.com/file/d/1x8jnGsD_lU1bi0ih_i2426uAEcZb06XT/view",
+          "gratis": true,
+          "preguntas": [
+            {
+              "pregunta": "Según la explicación del video, la extrapolación se define como un tipo de inferencia que permite realizar una acción específica basada en la información del texto. ¿Cuál es esa acción fundamental?",
+              "opciones": [
+                "Memorizar los datos del texto.",
+                "Predecir la continuidad del discurso o situaciones nuevas.",
+                "Resumir las ideas principales.",
+                "Traducir el texto a otro idioma."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "En el video se menciona que para realizar una extrapolación efectiva, el lector debe haber alcanzado previamente una capacidad básica en comprensión lectora. ¿Qué elementos debe ser capaz de identificar primero?",
+              "opciones": [
+                "Solo el nombre del autor.",
+                "La cantidad de párrafos y palabras.",
+                "El título, la idea principal, el tema y las ideas secundarias.",
+                "Los errores ortográficos del texto."
+              ],
+              "correcta": 2
+            },
+            {
+              "pregunta": "El profesor utiliza una analogía para explicar la predicción en la extrapolación. Si alguien quisiera adivinar tu futuro, ¿qué requisito indispensable menciona el video que esa persona debe tener?",
+              "opciones": [
+                "Tener una bola de cristal.",
+                "Conocer antecedentes o haber escuchado algo sobre tu vida.",
+                "Ser un familiar cercano.",
+                "Haber leído el mismo libro que tú."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Si un texto argumenta que 'la rutina excesiva mata la creatividad', y se plantea la pregunta de extrapolación: 'Si el autor viviera en una sociedad donde la rutina está prohibida por ley, probablemente...', ¿qué tipo de operación cognitiva se está solicitando?",
+              "opciones": [
+                "Una confrontación de ideas para predecir una reacción coherente con la tesis del autor.",
+                "Una búsqueda literal de la palabra 'ley' en el texto.",
+                "Una crítica a la ortografía del autor.",
+                "Un resumen de la biografía del autor."
+              ],
+              "correcta": 0
+            },
+            {
+              "pregunta": "En el Texto 1, el autor sugiere que a veces hace falta 'sentarse solo en el parque, dejar que se caiga el helado o mirar a la nada'. Si extrapolamos esta actitud a un contexto laboral rígido, ¿cuál sería la postura más probable del autor frente a un empleado que toma un descanso no programado para reflexionar?",
+              "opciones": [
+                "Lo despediría inmediatamente por improductivo.",
+                "Probablemente lo consideraría necesario para romper la rutina y reencontrarse.",
+                "Le prohibiría comer helado en el trabajo.",
+                "Le exigiría trabajar el doble de horas."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "El video menciona que la extrapolación implica aplicar la condición descrita en el texto a situaciones nuevas. Si un texto científico describe cómo un virus se propaga por el aire en lugares cerrados, y se pregunta '¿Qué sucedería si las reuniones se realizaran exclusivamente en parques ventosos?', ¿qué se espera del estudiante?",
+              "opciones": [
+                "Que adivine el clima del parque.",
+                "Que aplique la lógica del texto para deducir que el contagio disminuiría.",
+                "Que copie el párrafo donde dice 'aire'.",
+                "Que ignore el texto y use su opinión personal."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "En el Texto 2, el autor reflexiona sobre su hermana que nació muerta y concluye: 'lloremos por los vivos que parecen estar muertos'. Si extrapolamos esta idea a una persona que tiene salud física pero vive sin pasiones ni metas, ¿qué opinaría el autor de ella?",
+              "opciones": [
+                "Que es una persona afortunada por estar viva.",
+                "Que es digna de llanto o lástima porque, aunque vive, está espiritualmente muerta.",
+                "Que debería visitar el cementerio más seguido.",
+                "Que no tiene ninguna relación con su hermana."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "El profesor explica que la extrapolación también puede implicar una 'confrontación de ideas'. Si el autor defiende el consumo de carne y el lector es vegano, ¿cómo ayuda la extrapolación en este análisis?",
+              "opciones": [
+                "El lector ignora el texto.",
+                "El lector contrasta sus conocimientos con los del autor para validar o refutar la lógica interna en otros escenarios.",
+                "El lector insulta al autor.",
+                "El lector se vuelve carnívoro automáticamente."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Uno de los formatos de pregunta de extrapolación mencionados es 'Si se negara...'. Si el texto afirma que 'el ejercicio mejora la salud cardiovascular', ¿cómo se formularía una pregunta de extrapolación por negación?",
+              "opciones": [
+                "¿Qué pasa si haces ejercicio?",
+                "Si se negara que el ejercicio mejora la salud, ¿qué consecuencia se derivaría para las recomendaciones médicas?",
+                "¿Cuántos tipos de ejercicios existen?",
+                "¿Quién escribió el texto?"
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "En el análisis del Texto 1, la pregunta dice: 'Si siempre actuáramos rutinariamente...'. El texto original aboga por romper la rutina. Al plantear el escenario opuesto (actuar siempre con rutina), ¿qué se busca evaluar?",
+              "opciones": [
+                "La memoria del estudiante.",
+                "La capacidad de deducir la consecuencia opuesta a la tesis del autor (no disfrutaríamos de las pequeñas cosas).",
+                "La velocidad de lectura.",
+                "El conocimiento de sinónimos de rutina."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué es la extrapolación según el video?",
+              "opciones": [
+                "Un resumen del texto.",
+                "Una inferencia que permite predecir la continuidad del discurso.",
+                "Una copia literal del texto.",
+                "Un tipo de lectura veloz."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué se requiere haber identificado antes de realizar una extrapolación?",
+              "opciones": [
+                "El número de páginas.",
+                "El título, tema e idea principal.",
+                "La biografía del autor.",
+                "El año de publicación."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué implica la 'inclusión de nuevas ideas en caso de omisión del autor'?",
+              "opciones": [
+                "Inventar datos falsos.",
+                "Complementar o predecir información basándose en lo leído.",
+                "Borrar partes del texto.",
+                "Cambiar el título del texto."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cuáles son las formas de plantear preguntas de extrapolación mencionadas?",
+              "opciones": [
+                "¿Cuál es el título?, ¿Cuál es el tema?",
+                "Si se negara..., Si se invirtiera..., Si creamos el supuesto...",
+                "¿Qué significa la palabra...?",
+                "Resuma el texto en una línea."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿De qué trata el Texto 1 presentado en el video?",
+              "opciones": [
+                "De la importancia de la rutina laboral.",
+                "De la necesidad de romper la rutina y disfrutar pequeños momentos.",
+                "De cómo hacer helados.",
+                "De la historia de la humanidad."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué sugiere el autor del Texto 1 sobre 'ser el psicoanalista del otro'?",
+              "opciones": [
+                "Que es una profesión necesaria.",
+                "Que uno puede ser lo que quiera menos eso.",
+                "Que todos deberíamos estudiar psicología.",
+                "Que es divertido analizar a los demás."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cuál es el tema central del Texto 2?",
+              "opciones": [
+                "La celebración de un cumpleaños.",
+                "La reflexión sobre la muerte de una hermana al nacer y la gente que vive 'muerta' en vida.",
+                "La construcción de un cementerio.",
+                "La violencia en las calles."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué frase final del Texto 2 invita a la reflexión?",
+              "opciones": [
+                "Lloremos por los vivos que parecen estar muertos.",
+                "La vida es bella.",
+                "Nunca escribí su nombre.",
+                "La oscuridad me venció."
+              ],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué consejo da el profesor a los estudiantes al final del análisis del Texto 2?",
+              "opciones": [
+                "Que deben dormir más.",
+                "Que no deben dejar que la gente los ignore, demostrando su talento y cualidad.",
+                "Que deben llorar por todo.",
+                "Que no estudien tanto."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué recomendación de salud da el profesor al inicio del video?",
+              "opciones": [
+                "Salir a correr todos los días.",
+                "Quedarse en casa para evitar el contacto del coronavirus.",
+                "Comer muchas frutas.",
+                "Visitar a los amigos."
+              ],
+              "correcta": 1
+            },
+            {
+              "pregunta": "En una biblioteca, los lectores confundían los estantes porque solo estaban identificados con números. Al añadir letreros que indicaban los temas, las consultas por ubicación disminuyeron. Otra biblioteca presenta la misma dificultad y emplea únicamente códigos numéricos. Si se aplica la experiencia descrita, ¿qué medida probablemente reduciría esa confusión?",
+              "opciones": [
+                "Cambiar los códigos actuales por números más largos.",
+                "Ordenar los estantes sin modificar su identificación.",
+                "Añadir letreros con los temas de cada estante.",
+                "Reducir el horario de atención de la biblioteca.",
+                "Colocar los códigos numéricos en letras más pequeñas."
+              ],
+              "correcta": 2,
+              "resolucion": "La primera experiencia vincula la menor confusión con los letreros temáticos. Aplicar esa solución a una dificultad semejante constituye una extrapolación.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Durante tres campañas, un taller recibió más solicitudes de reparación después de anunciar sus servicios en el mercado del barrio. Su capacidad de atención no cambió y los plazos de entrega se alargaron. Si realiza otra campaña semejante y mantiene la misma capacidad, ¿qué resultado sería más razonable prever?",
+              "opciones": [
+                "Una reducción de solicitudes pese a la mayor difusión.",
+                "La entrega inmediata de todos los trabajos nuevos.",
+                "El cierre definitivo del taller por falta de clientes.",
+                "Un aumento de solicitudes y posibles demoras.",
+                "Una disminución de los plazos sin cambios en la atención."
+              ],
+              "correcta": 3,
+              "resolucion": "Las campañas anteriores muestran una secuencia: mayor difusión, más solicitudes y plazos más largos. Bajo condiciones semejantes, es razonable proyectar esa tendencia.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Una autora sostiene: «Conviene reparar un objeto cuando la reparación es segura, cuesta menos que reemplazarlo y permite seguir usándolo adecuadamente». Lucía tiene una licuadora que cumple esas tres condiciones. ¿Qué decisión recomendaría probablemente la autora?",
+              "opciones": [
+                "Desecharla porque cualquier falla exige un reemplazo.",
+                "Comprar otra aunque la reparación resulte conveniente.",
+                "Guardarla sin usarla y sin evaluar su reparación.",
+                "Reemplazarla únicamente porque existe un modelo nuevo.",
+                "Repararla para prolongar su uso en buenas condiciones."
+              ],
+              "correcta": 4,
+              "resolucion": "La licuadora cumple todos los criterios que la autora considera favorables para reparar. Por ello, su postura se extendería a recomendar la reparación.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "En un terminal, los cambios de plataforma se comunican únicamente por altavoces. Un informe señala que algunos pasajeros pierden su salida porque no escuchan esos anuncios y recomienda mostrar también los cambios en pantallas visibles. Si se instalaran esas pantallas y los pasajeros afectados las consultaran a tiempo, ¿qué sería esperable?",
+              "opciones": [
+                "Que disminuyan las salidas perdidas por no escuchar los cambios.",
+                "Que desaparezcan todos los motivos de pérdida de una salida.",
+                "Que ya no sea necesario informar los cambios de plataforma.",
+                "Que aumenten las confusiones causadas por anuncios inaudibles.",
+                "Que los vehículos dejen de cambiar de plataforma."
+              ],
+              "correcta": 0,
+              "resolucion": "Las pantallas ofrecerían otra vía para conocer los cambios. Esto permitiría reducir el problema específico descrito, pero no eliminar todas las causas de pérdida de una salida.",
+              "nivel": 2
+            },
+            {
+              "pregunta": "Una panadería preparaba sus productos sin conocer los pedidos y solía tener sobrantes. Durante varias semanas aceptó reservas y ajustó la producción a ellas; así redujo los sobrantes. Una florería también prepara más arreglos de los que vende. ¿Qué prueba trasladaría mejor la estrategia de la panadería a este nuevo negocio?",
+              "opciones": [
+                "Preparar más arreglos sin consultar a los compradores.",
+                "Recibir reservas y usarlas para planificar cuántos arreglos preparar.",
+                "Cambiar el color del local sin registrar los pedidos.",
+                "Ofrecer únicamente los arreglos que quedaron del día anterior.",
+                "Mantener la producción y dejar de contar los arreglos no vendidos."
+              ],
+              "correcta": 1,
+              "resolucion": "La estrategia consiste en ajustar la producción a una demanda conocida mediante reservas. Recibir pedidos anticipados permite probar ese mismo principio en la florería.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Un docente observó que, en los debates sin turnos, intervenían casi siempre los mismos estudiantes. Cuando asignó un primer turno breve a cada participante, logró que todos expresaran al menos una idea. Si una junta vecinal presenta el mismo problema, ¿qué cambio permitiría esperar un resultado semejante?",
+              "opciones": [
+                "Reservar las primeras intervenciones para quienes más hablan.",
+                "Eliminar los turnos y permitir intervenciones simultáneas.",
+                "Establecer una ronda inicial con un turno breve por vecino.",
+                "Encargar todas las intervenciones al presidente de la junta.",
+                "Concluir la reunión después de escuchar la primera opinión."
+              ],
+              "correcta": 2,
+              "resolucion": "La ronda inicial distribuye una oportunidad de intervenir entre todos. Esa organización puede trasladarse del aula a una reunión vecinal con la misma dificultad.",
+              "nivel": 1
+            },
+            {
+              "pregunta": "Durante un mes, un vivero comparó dos grupos de plantas de la misma especie, en macetas y con riego iguales. La tierra de las que estaban bajo techo tardaba más en secarse que la de las expuestas al sol. Si se trasladan otras plantas semejantes del sol al mismo techo y se mantienen las demás condiciones, ¿qué previsión se ajusta mejor a lo observado?",
+              "opciones": [
+                "Su tierra se secará necesariamente en la mitad del tiempo.",
+                "Sus macetas dejarán de necesitar agua para siempre.",
+                "Sus hojas cambiarán de color al día siguiente.",
+                "Su tierra probablemente tardará más en secarse.",
+                "Su crecimiento se duplicará durante la primera semana."
+              ],
+              "correcta": 3,
+              "resolucion": "La comparación permite proyectar un secado más lento bajo el mismo techo. No ofrece datos para predecir cambios en las hojas, el crecimiento o la eliminación del riego.",
+              "nivel": 2
+            },
+            {
+              "pregunta": "Una especialista afirma: «Un aviso público debe poder comprenderse sin dominar términos técnicos; si estos son indispensables, deben explicarse». Un municipio prepara un comunicado sobre obras y utiliza vocabulario especializado que los vecinos desconocen. ¿Qué modificación sería coherente con la postura de la especialista?",
+              "opciones": [
+                "Añadir más tecnicismos para dar mayor formalidad al comunicado.",
+                "Retirar las explicaciones para que el aviso ocupe menos espacio.",
+                "Publicar el comunicado solo para quienes conocen ese vocabulario.",
+                "Conservar el texto porque comprenderlo depende solo del lector.",
+                "Reemplazar los términos difíciles y explicar los que deban conservarse."
+              ],
+              "correcta": 4,
+              "resolucion": "La especialista prioriza la comprensión del público. En el nuevo caso, recomendaría lenguaje sencillo y explicaciones de los términos técnicos necesarios.",
+              "nivel": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
